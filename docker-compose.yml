@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  crawler:
+    build: .
+    container_name: audio_crawler
+    restart: "no"
+    volumes:
+      # Mount output folder to persist audio and metadata on host
+      - ./Week2:/app/Week2
+      - ./errors:/app/errors
+      - ./.checkpoints:/app/.checkpoints
+      - ./logs:/app/logs
+      # Uncomment if you have cookies files:
+      # - ./cookies_tiktok.txt:/app/cookies_tiktok.txt:ro
+      # - ./cookies_facebook.txt:/app/cookies_facebook.txt:ro
+    environment:
+      - CRAWLER_WORKERS=4
+      - PYTHONUNBUFFERED=1
+    command: ["--platform", "tiktok", "--keyword", "review quán ăn", "--workers", "4"]

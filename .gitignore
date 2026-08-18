@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Data output (too large for git)
+Week*/
+errors/
+logs/
+
+# Sensitive
+cookies_*.txt
+proxies.txt
+
+# Checkpoints (regenerable)
+.checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

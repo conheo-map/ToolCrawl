@@ -1,0 +1,17 @@
+# Facebook & TikTok Audio Crawler Dependencies
+# Install: pip install -r requirements.txt
+
+# Core downloader
+yt-dlp>=2026.7.4
+
+# Audio processing (FFmpeg binary must be in PATH separately)
+librosa>=0.10.0
+soundfile>=0.12.1
+numpy>=1.24.0
+
+# Progress bar
+tqdm>=4.66.0
+
+# Note: FFmpeg binary must be installed separately:
+#   Windows: winget install FFmpeg
+#   Or download from https://ffmpeg.org/download.html
