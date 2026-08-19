@@ -64,17 +64,29 @@ jobs:
         id: params
         run: |
           if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            URLS="${{ github.event.client_payload.urls }}"
             URL="${{ github.event.client_payload.url }}"
             CHAT_ID="${{ github.event.client_payload.chat_id }}"
             
-            if [[ "$URL" == *"tiktok.com"* ]]; then
-              PLATFORM="tiktok"
+            if [ -n "$URLS" ]; then
+              printf "%s\n" "$URLS" > batch_urls.txt
+              KEYWORD="batch_urls.txt"
+              if echo "$URLS" | grep -qi "tiktok.com"; then
+                PLATFORM="tiktok"
+              else
+                PLATFORM="facebook"
+              fi
             else
-              PLATFORM="facebook"
+              KEYWORD="$URL"
+              if [[ "$URL" == *"tiktok.com"* ]]; then
+                PLATFORM="tiktok"
+              else
+                PLATFORM="facebook"
+              fi
             fi
             
             echo "platform=$PLATFORM" >> $GITHUB_OUTPUT
-            echo "keyword=$URL" >> $GITHUB_OUTPUT
+            echo "keyword=$KEYWORD" >> $GITHUB_OUTPUT
             echo "chat_id=$CHAT_ID" >> $GITHUB_OUTPUT
             echo "workers=2" >> $GITHUB_OUTPUT
           elif [ "${{ github.event_name }}" = "schedule" ]; then

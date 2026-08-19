@@ -1,4 +1,4 @@
-﻿# 📱 HƯỚNG DẪN THIẾT LẬP: GỬI LINK TELEGRAM ➔ CÀO CLOUD GITHUB ACTIONS ➔ ĐẨY GOOGLE DRIVE
+# 📱 HƯỚNG DẪN THIẾT LẬP: GỬI LINK TELEGRAM ➔ CÀO CLOUD GITHUB ACTIONS ➔ ĐẨY GOOGLE DRIVE
 > **Mục tiêu:** Cầm điện thoại gửi link TikTok/Facebook vào Telegram. Máy chủ GitHub tự động cào, lọc nhạc AI, đẩy sang Google Drive và báo cáo lại Telegram mà **KHÔNG CẦN BẬT MÁY TÍNH Ở NHÀ**.
 
 ---
@@ -66,36 +66,34 @@ export default {
       const chatId = message.chat.id;
       const text = message.text.trim();
 
-      // Trích xuất URLs
+      // Trích xuất TẤT CẢ URLs từ tin nhắn (hỗ trợ nhiều link một lúc)
       const urlRegex = /(https?:\/\/(?:www\.|vt\.|vm\.)?(?:tiktok\.com|facebook\.com|fb\.watch)\/[^\s]+)/gi;
       const urls = text.match(urlRegex);
 
       if (text === "/start" || text === "/help") {
         await sendMessage(
-          env.TELEGRAM_BOT_TOKEN,
-          chatId,
-          "👋 *Saydi Cloud Crawler Bot*\n\nChỉ cần gửi link TikTok hoặc Facebook vào đây. Máy chủ GitHub Actions sẽ tự động cào ngầm, lọc nhạc AI và đẩy thẳng vào Google Drive của bạn!"
+          env.TELEGRAM_BOT_TOKEN, chatId,
+          "👋 *Saydi Cloud Crawler Bot*\n\n📌 *CÁCH GỬI LINK:*\n• Gửi 1 link đơn lẻ\n• Gửi nhiều link cùng lúc (mỗi link 1 dòng)\n\nMáy chủ GitHub Actions sẽ tự động cào, lọc nhạc AI và đẩy thẳng vào Google Drive!"
         );
         return new Response("OK");
       }
 
       if (!urls || urls.length === 0) {
         await sendMessage(
-          env.TELEGRAM_BOT_TOKEN,
-          chatId,
-          "ℹ️ Vui lòng gửi link TikTok hoặc Facebook hợp lệ!"
+          env.TELEGRAM_BOT_TOKEN, chatId,
+          "ℹ️ Vui lòng gửi link TikTok hoặc Facebook hợp lệ!\n\n💡 *Mẹo:* Bạn có thể gửi nhiều link cùng lúc, mỗi link 1 dòng."
         );
         return new Response("OK");
       }
 
-      // Thông báo đã nhận lệnh
+      // Thông báo đã nhận đủ số lượng link
+      const linkWord = urls.length === 1 ? "link" : `${urls.length} link`;
       await sendMessage(
-        env.TELEGRAM_BOT_TOKEN,
-        chatId,
-        `⏳ *Đã nhận link!*\n\`${urls[0]}\`\n\n🚀 Đang kích hoạt máy chủ GitHub Actions cào trên Cloud & đẩy sang Google Drive...`
+        env.TELEGRAM_BOT_TOKEN, chatId,
+        `⏳ *Đã nhận ${linkWord}!*\n\n🚀 Đang kích hoạt máy chủ GitHub Actions cào trên Cloud & đẩy sang Google Drive...`
       );
 
-      // Kích hoạt GitHub Actions qua API repository_dispatch
+      // Kích hoạt GitHub Actions — truyền TOÀN BỘ danh sách URLs
       const ghResponse = await fetch(
         `https://api.github.com/repos/${env.GITHUB_REPO}/dispatches`,
         {
@@ -108,7 +106,9 @@ export default {
           body: JSON.stringify({
             event_type: "telegram_crawl",
             client_payload: {
-              url: urls[0],
+              urls: urls.join("\n"),          // Danh sách URL, mỗi cái 1 dòng
+              url: urls[0],                   // Giữ lại url đơn để tương thích ngược
+              url_count: urls.length,
               chat_id: chatId.toString(),
             },
           }),
@@ -117,8 +117,7 @@ export default {
 
       if (!ghResponse.ok) {
         await sendMessage(
-          env.TELEGRAM_BOT_TOKEN,
-          chatId,
+          env.TELEGRAM_BOT_TOKEN, chatId,
           "❌ Lỗi kích hoạt GitHub Actions. Vui lòng kiểm tra lại GITHUB_PAT!"
         );
       }
