@@ -13,10 +13,11 @@ import os
 PROJECT_ROOT = Path(__file__).parent.resolve()
 
 # ─────────────────────────────────────────────
-# Tuần & Ngày crawl
+# Tuần & Ngày crawl (Theo chuẩn Giờ Việt Nam GMT+7)
 # ─────────────────────────────────────────────
 WEEK_NUMBER: int = 2
-CRAWL_DATE: str = datetime.date.today().isoformat()
+VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
+CRAWL_DATE: str = datetime.datetime.now(VN_TZ).date().isoformat()
 
 # ─────────────────────────────────────────────
 # Thư mục output (theo spec)
