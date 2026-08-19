@@ -233,7 +233,16 @@ https://www.facebook.com/watch?v=1039665577514847
 
 ---
 
-## 5. QUY TRÌNH VẬN HÀNH CRAWLER (4 CÁCH CHẠY)
+## 5. QUY TRÌNH VẬN HÀNH CRAWLER (4 CÁCH CHẠY LINH HOẠT)
+
+### 💼 BẢNG LỰA CHỌN CÁCH CHẠY PHÙ HỢP VỚI HOÀN CẢNH CỦA BẠN:
+
+| Hoàn cảnh thực tế | Cách chạy tối ưu nhất | Đặc điểm & Thời gian khởi động |
+|---|---|---|
+| 🛌 **Khi bạn đi ra ngoài, đi làm, đi chơi, đi ngủ (Tắt máy tính)** | 👉 **Cách 4: Cào 100% Cloud (GitHub Actions + Cache)** | **Tắt máy tính 100%**. Gửi link qua Telegram, GitHub Actions nạp Cache siêu tốc, cào và đẩy thẳng Google Drive! |
+| 💻 **Khi bạn đang ngồi làm việc trên máy tính** | 👉 **Cách 3: Chạy Telegram Bot Local (`python bot.py`)** | **Chạy tức thì 0.01s** (không cần tải hay cài lại bất kỳ thứ gì vì máy đã có sẵn `.venv`). |
+| ⚡ **Khi muốn gõ lệnh cào trực tiếp từ khóa / kênh** | 👉 **Cách 1: Chạy trực tiếp CLI (`python main.py`)** | Cào nhanh theo từ khóa hoặc kênh chỉ bằng 1 dòng lệnh trên PowerShell. |
+| 📦 **Khi muốn cào hàng loạt lớn (100 - 1000 video)** | 👉 **Dán vào `urls.txt` (Dùng Cách 1 hoặc Cách 4)** | Máy chủ chỉ khởi động **1 LẦN DUY NHẤT** cho toàn bộ 1000 video, không phải cài lại từng lần! |
 
 ---
 
