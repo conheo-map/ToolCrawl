@@ -417,11 +417,11 @@ rclone config show
 
 ##### Bước 4: Cấu hình Secrets trên Repo GitHub
 > 🌐 **`[GitHub Web Browser]`**:
-1. Vào trang Repo `SaydiTool` của bạn trên GitHub -> Bấm tab **Settings** -> **Secrets and variables** -> **Actions**.
+1. Vào trang Repo của bạn trên GitHub (ví dụ: `https://github.com/conheo-map/ToolCrawl`) -> Bấm tab **Settings** -> **Secrets and variables** -> **Actions**.
 2. Bấm **New repository secret** và thêm 2 Secrets sau:
    - **Secret 1:**
      - Name: `RCLONE_CONFIG`
-     - Secret: Dán toàn bộ nội dung cấu hình lấy từ lệnh `rclone config show` ở Bước 1 vào.
+     - Secret: Dán toàn bộ nội dung cấu hình lấy từ lệnh `rclone config show` ở Bước 1 vào (Chỉ cần copy từ dòng `[gdrive]` đến hết dấu ngoặc nhọn `}` của dòng `token = {...}`, dòng `team_drive = ` có dán hay không đều được).
    - **Secret 2:**
      - Name: `TELEGRAM_BOT_TOKEN`
      - Secret: Dán mã Token Bot Telegram lấy ở Bước 2 vào.
@@ -431,9 +431,9 @@ rclone config show
 ##### Bước 5: Tạo Cloudflare Worker miễn phí làm cầu nối (2 phút)
 > 🌐 **`[Cloudflare Web Browser]`**:
 1. Truy cập trang web miễn phí: [dash.cloudflare.com](https://dash.cloudflare.com) (Đăng ký tài khoản miễn phí nếu chưa có).
-2. Vào mục **Workers & Pages** -> Bấm **Create application** -> **Create Worker**.
+2. Vào mục **Workers & Pages** -> Bấm **Create application** -> Chọn ô **`🌐 Start with Hello World!`** *(Hàng thứ 3, có icon quả địa cầu màu xanh lá)*.
 3. Đặt tên (VD: `saydi-telegram-bridge`) -> Bấm **Deploy**.
-4. Bấm vào nút **Edit code** và dán toàn bộ đoạn code JavaScript dưới đây vào:
+4. Bấm vào nút **`</> Edit code`** ở góc trên bên phải -> Xóa hết đoạn code mặc định bên trong -> Dán toàn bộ đoạn code JavaScript dưới đây vào:
 
 ```javascript
 export default {
@@ -527,19 +527,38 @@ async function sendMessage(token, chatId, text) {
 }
 ```
 
-5. Bấm **Deploy** -> Quay ra trang của Worker -> Chọn tab **Settings** -> **Variables and Secrets** -> Thêm 3 biến môi trường:
-   - **`TELEGRAM_BOT_TOKEN`**: Token Bot Telegram của bạn ở Bước 2.
-   - **`GITHUB_REPO`**: Đường dẫn repo dạng `username/SaydiTool` (VD: `cuongdev/SaydiTool`).
-   - **`GITHUB_PAT`**: Token GitHub cá nhân lấy ở Bước 3.
-6. Copy đường link URL của Worker vừa tạo (dạng: `https://saydi-telegram-bridge.<subdomain>.workers.dev`).
+5. Bấm nút **Deploy** ở góc trên bên phải để lưu code.
+6. Quay ra trang quản lý Worker -> Chọn tab **Settings** -> Mục **Variables and secrets** -> Bấm **Add variable**:
+   - **Dòng 1:**
+     - Key: `TELEGRAM_BOT_TOKEN`
+     - Value: Dán mã Token Bot Telegram lấy ở Bước 2 (Tích chọn ô *Secret*).
+   - Bấm nút **`+ Add`** (màu trắng) để mở thêm dòng 2:
+     - Key: `GITHUB_REPO`
+     - Value: Điền tên repo trên GitHub của bạn (Ví dụ: `conheo-map/ToolCrawl`).
+   - Bấm tiếp nút **`+ Add`** để mở thêm dòng 3:
+     - Key: `GITHUB_PAT`
+     - Value: Dán mã Token GitHub cá nhân `ghp_...` lấy ở Bước 3 (Tích chọn ô *Secret*).
+   - Bấm nút màu xanh **`Add 3 variables`** để lưu lại toàn bộ.
+
+7. **Lấy đường link URL của Worker:**  
+   Nhìn lên góc trên bên phải màn hình, click chuột phải vào nút màu xanh **`🌐 Visit ↗`** ➔ Chọn **"Sao chép địa chỉ liên kết"** (*Copy link address*).  
+   *(Đường link sẽ có dạng: `https://saydi-telegram-bridge.<subdomain>.workers.dev`)*.
 
 ---
 
 ##### Bước 6: Đăng ký Webhook với Telegram (30 giây)
-Mở trình duyệt bất kỳ (trên điện thoại hoặc máy tính), dán đường link sau vào thanh địa chỉ rồi nhấn Enter:
+Mở một tab mới trên trình duyệt bất kỳ, dán đường link sau vào thanh địa chỉ rồi nhấn **Enter**:
 
 ```text
-https://api.telegram.org/bot<TELEGRAM_BOT_TOKEN>/setWebhook?url=https://saydi-telegram-bridge.<subdomain>.workers.dev
+https://api.telegram.org/bot<TELEGRAM_BOT_TOKEN>/setWebhook?url=<URL_WORKER_VỪA_COPY_Ở_BƯỚC_7>
+```
+
+> *(Ví dụ thực tế):*  
+> `https://api.telegram.org/bot7123456789:ABCdefGh.../setWebhook?url=https://saydi-telegram-bridge.cuctranthu38.workers.dev`
+
+👉 **Màn hình hiện ra dòng sau là HOÀN TẤT 100%:**
+```json
+{"ok":true,"result":true,"description":"Webhook was set"}
 ```
 
 👉 Màn hình hiện: `{"ok":true,"result":true,"description":"Webhook was set"}` là **HOÀN TẤT 100%!**
