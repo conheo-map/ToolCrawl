@@ -376,9 +376,16 @@ rclone config
 8. `Edit advanced config?`: Nhập `n` ➔ Nhấn **Enter**.
 9. `Use web browser to automatically authenticate`: Nhập `y` ➔ Nhấn **Enter**.  
    👉 *Trình duyệt sẽ tự động bật lên ➔ Đăng nhập tài khoản Google Drive của bạn ➔ Bấm nút **Allow** (Cho phép).*
-10. `Configure this as a Shared Drive (Team Drive)?`: Nhập `n` ➔ Nhấn **Enter**.
+10. `Configure this as a Shared Drive (Team Drive)?`:
+    - 🏢 **Nếu công ty add bạn vào Team Drive riêng:** Nhập `y` ➔ chọn số thứ tự Drive của công ty.
+    - 🔗 **Nếu công ty share link thư mục thông thường:** Nhập `n` ➔ Nhấn **Enter**.
 11. `Keep this "gdrive" remote?`: Nhập `y` ➔ Nhấn **Enter**.
-12. Nhập `q` ➔ Nhấn **Enter** để thoát.
+12. Nhập `q` ➔ Nhấn **Enter** để thoát ra PowerShell.
+
+> 💡 **CƠ CHẾ ĐẢM BẢO UPLOAD ĐÚNG FOLDER CÔNG TY (KHÔNG NHẦM VỚI DRIVE CÁ NHÂN):**  
+> Dù trong Google Drive của bạn có hàng nghìn thư mục cá nhân khác, mỗi thư mục trên Google Drive đều có **Mã ID độc nhất toàn cầu** nằm ở cuối đường link URL.  
+> Ví dụ link công ty cấp: `https://drive.google.com/drive/folders/16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw` ➔ **Folder ID là:** `16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw`.  
+> Hệ thống sử dụng tham số `root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw` để **khóa mục tiêu chuẩn xác 100% vào đúng thư mục này**, hoàn toàn không đụng chạm đến dữ liệu cá nhân của bạn!
 
 👉 **Lấy nội dung file `rclone.conf` vừa tạo:**
 Chạy lệnh sau trong PowerShell để in toàn bộ nội dung cấu hình ra màn hình:
@@ -655,11 +662,11 @@ rclone config
 # Xem danh sách thư mục trên Google Drive:
 rclone lsd gdrive:
 
-# Copy toàn bộ thư mục Week2 lên Google Drive folder 'ASR_Dataset/Week2':
-rclone copy C:\HocC\SaydiTool\Week2 gdrive:ASR_Dataset/Week2 --progress
+# Copy toàn bộ thư mục Week2 thẳng vào đúng thư mục của công ty (Dùng Folder ID):
+rclone copy C:\HocC\SaydiTool\Week2 gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ --progress
 
 # Đồng bộ 2 chiều (Sync):
-rclone sync C:\HocC\SaydiTool\Week2 gdrive:ASR_Dataset/Week2 --progress
+rclone sync C:\HocC\SaydiTool\Week2 gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ --progress
 ```
 
 ---

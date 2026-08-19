@@ -1,4 +1,4 @@
-﻿name: Cloud Audio Crawler to Google Drive
+name: Cloud Audio Crawler to Google Drive
 
 on:
   # 1. Chế độ Tự Động 24/7: Cứ mỗi 4 tiếng tự cào theo từ khóa/danh sách link
@@ -108,7 +108,7 @@ jobs:
         if: always()
         run: |
           if [ -d "Week2" ]; then
-            rclone copy Week2/ gdrive:ASR_Dataset/Week2/ --progress
+            rclone copy Week2/ gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ --progress
           fi
 
       - name: 📩 Send Telegram Notification
