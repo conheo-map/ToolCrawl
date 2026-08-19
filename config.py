@@ -87,6 +87,21 @@ MUSIC_QUARANTINE_INSTEAD_OF_DELETE: bool = True
 
 
 # ─────────────────────────────────────────────
+# Bộ từ khóa cào tự động 24/7 (Auto Keywords)
+# ─────────────────────────────────────────────
+AUTO_CRAWL_KEYWORDS: list[str] = [
+    "tin tức thời sự",
+    "học tiếng Việt",
+    "podcast tiếng Việt",
+    "sách nói hay",
+    "chia sẻ kiến thức",
+    "lịch sử Việt Nam",
+    "review ẩm thực Việt Nam",
+    "kể chuyện đêm khuya",
+]
+
+
+# ─────────────────────────────────────────────
 # Telegram Bot Configuration
 # ─────────────────────────────────────────────
 TELEGRAM_BOT_TOKEN: str = os.getenv("TELEGRAM_BOT_TOKEN", "")
