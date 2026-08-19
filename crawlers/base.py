@@ -48,7 +48,18 @@ class BaseCrawler:
         rate_limiter: RateLimiter | None = None,
         proxy_manager: ProxyManager | None = None,
     ) -> None:
-        self._cookies = cookies_file
+        self._cookies = None
+        if cookies_file:
+            c_path = Path(cookies_file)
+            if c_path.exists() and c_path.is_file():
+                # Tạo bản sao ghi được trong temp để tránh lỗi Read-only filesystem khi mount :ro
+                temp_cookie = Path(tempfile.gettempdir()) / f"cookies_{self.PLATFORM}_{CRAWL_DATE}.txt"
+                try:
+                    shutil.copyfile(c_path, temp_cookie)
+                    self._cookies = temp_cookie
+                except Exception:
+                    self._cookies = c_path
+
         self._rate = rate_limiter or RateLimiter()
         self._proxy = proxy_manager or ProxyManager()
         AUDIO_DIR.mkdir(parents=True, exist_ok=True)
