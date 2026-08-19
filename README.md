@@ -77,13 +77,19 @@ pip install -r requirements.txt
 
 ---
 
-### Cách 2: Chạy thông qua Docker
+### Cách 2: Chạy thông qua Docker & Linux / VPS
 
-Nếu sử dụng Docker, không cần cài FFmpeg hay Python lên máy:
+Nếu sử dụng Docker, bạn **không cần cài đặt FFmpeg hay Python** lên máy đích. Docker cho phép đóng gói toàn bộ dự án thành một file image duy nhất để mang sang bất kỳ máy tính hoặc VPS Linux nào chạy ngay lập tức.
+
 ```powershell
 # Build Docker image
 docker build -t audio-crawler .
+
+# Chạy crawler qua Docker
+docker run -v ${PWD}/Week2:/app/Week2 audio-crawler --platform tiktok --keyword "review quán ăn" --workers 4
 ```
+
+> 📖 **Xem hướng dẫn chi tiết từ A-Z:** [DOCKER_LINUX_GUIDE.md](file:///c:/HocC/SaydiTool/DOCKER_LINUX_GUIDE.md) (Hướng dẫn cách xuất file `.tar` copy sang máy khác, cài đặt trên Linux/VPS, chạy ngầm 24/7 với `docker compose` và kéo dữ liệu audio về qua SFTP/FileZilla).
 
 ---
 
