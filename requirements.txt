@@ -1,6 +1,3 @@
-# Facebook & TikTok Audio Crawler Dependencies
-# Install: pip install -r requirements.txt
-
 # Core downloader with browser impersonation support
 yt-dlp[curl-cffi,default]>=2026.7.4
 curl-cffi>=0.15.0
@@ -9,6 +6,10 @@ curl-cffi>=0.15.0
 librosa>=0.10.0
 soundfile>=0.12.1
 numpy>=1.24.0
+
+# AI Vocal Separator — Demucs (Meta AI) — tách giọng khỏi nhạc nền
+# Mô hình htdemucs_ft sẽ tự tải về lần đầu chạy (~100MB)
+demucs>=4.0.0
 
 # Progress bar
 tqdm>=4.66.0

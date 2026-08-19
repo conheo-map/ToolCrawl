@@ -85,6 +85,8 @@ class MetadataWriter:
                 r.get("duration_seconds", 0) for r in self._records
             ) / 3600.0
 
+            vocal_sep_count = sum(1 for r in self._records if r.get("vocal_separated"))
+
             summary = {
                 "platform": platform,
                 "crawl_date": CRAWL_DATE,
@@ -96,6 +98,7 @@ class MetadataWriter:
                 },
                 "items_delivered": len(self._records),
                 "unique_item_ids": unique_ids,
+                "vocal_separated_count": vocal_sep_count,
                 "total_hours": round(total_hours, 2),
                 "error_count": self._error_count,
             }

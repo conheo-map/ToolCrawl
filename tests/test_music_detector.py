@@ -32,9 +32,12 @@ def test_music_detector_quarantine(tmp_path: Path):
         "_track": "Hit Song 2026"
     }
 
-    rejected = md.process(fake_audio, meta_music)
-    assert rejected is True
-    # The file should be quarantined
+    # process() now returns 'music' (not True) to indicate music detected
+    status = md.process(fake_audio, meta_music)
+    assert status == "music"
+
+    # Simulate Tầng 3: no separator available → quarantine
+    md.quarantine(fake_audio)
     quarantine_file = QUARANTINE_DIR / "test_music.wav"
     assert quarantine_file.exists()
 

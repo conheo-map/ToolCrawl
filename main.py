@@ -20,6 +20,7 @@ import config as cfg
 from crawlers.tiktok import TikTokCrawler
 from crawlers.facebook import FacebookCrawler
 from processors.music_detector import MusicDetector
+from processors.vocal_separator import VocalSeparator
 from storage.dedup import DedupStore
 from storage.metadata_writer import MetadataWriter
 from storage.state_manager import StateManager
@@ -91,12 +92,17 @@ def process_url(
     state: StateManager,
     writer: MetadataWriter,
     music_detector: MusicDetector,
+    vocal_separator: VocalSeparator,
     batch_num: int,
     dry_run: bool = False,
 ) -> str:
     """
-    Xử lý một URL: download, check dedup, detect music, ghi metadata.
-    Trả về: 'done' | 'skipped' | 'rejected' | 'error'
+    Xử lý một URL qua Pipeline Hybrid 3 Tầng:
+      Tầng 1: Không có nhạc → lưu thẳng vào audio/ (fast path)
+      Tầng 2: Có nhạc + Demucs khả dụng → AI tách giọng → lưu vào audio/
+      Tầng 3: Có nhạc + Demucs không có → quarantine
+
+    Trả về: 'done' | 'separated' | 'skipped' | 'rejected' | 'error'
     """
     global _shutdown
     if _shutdown:
@@ -129,16 +135,41 @@ def process_url(
                 audio_path.unlink(missing_ok=True)
             return "skipped"
 
-        # Music detection
         audio_path = cfg.AUDIO_DIR / f"{item_id}.wav"
-        rejected = music_detector.process(
-            audio_path=audio_path,
-            metadata=record,
-        )
-        if rejected:
-            dedup.mark_seen(item_id)
-            state.mark_done(url)
-            return "rejected"
+
+        # ─── Pipeline Hybrid 3 Tầng ──────────────────────
+        music_status = music_detector.process(audio_path=audio_path, metadata=record)
+
+        if music_status == "clean":
+            # Tầng 1: Audio sạch — lưu thẳng, không xử lý gì thêm
+            record["vocal_separated"] = False
+            record["clean_method"] = "original"
+            logger.info(f"[Tầng 1] Clean audio: {item_id}")
+
+        elif music_status == "music":
+            if vocal_separator.available:
+                # Tầng 2: Có nhạc → chạy AI Demucs tách giọng
+                logger.info(f"[Tầng 2] Music detected, running Demucs AI: {item_id}")
+                success = vocal_separator.separate(audio_path)
+                if success:
+                    record["vocal_separated"] = True
+                    record["clean_method"] = "demucs_ai"
+                    logger.info(f"[Tầng 2] Vocal separation successful: {item_id}")
+                else:
+                    # Demucs thất bại → quarantine để tránh dữ liệu kém chất lượng
+                    logger.warning(f"[Tầng 2] Demucs failed, quarantining: {item_id}")
+                    music_detector.quarantine(audio_path)
+                    dedup.mark_seen(item_id)
+                    state.mark_done(url)
+                    return "rejected"
+            else:
+                # Tầng 3: Không có Demucs → quarantine
+                logger.warning(f"[Tầng 3] No separator available, quarantining: {item_id}")
+                music_detector.quarantine(audio_path)
+                dedup.mark_seen(item_id)
+                state.mark_done(url)
+                return "rejected"
+        # ─────────────────────────────────────────────────
 
         # Ghi metadata — xóa internal field trước khi ghi
         record.pop("_track", None)
@@ -146,7 +177,8 @@ def process_url(
         dedup.mark_seen(item_id)
         state.mark_done(url)
 
-        logger.info(f"OK: {item_id} ({record['duration_seconds']:.1f}s)")
+        status_tag = "[AI-cleaned]" if record.get("vocal_separated") else "[clean]"
+        logger.info(f"OK {status_tag}: {item_id} ({record['duration_seconds']:.1f}s)")
         return "done"
 
     except Exception as exc:
@@ -212,6 +244,15 @@ def main() -> None:
         summary_file=cfg.SUMMARY_FILE,
     )
     music_detector = MusicDetector(enabled=not args.skip_music_filter)
+    vocal_separator = VocalSeparator()
+
+    if vocal_separator.available:
+        logger.info("Hybrid Pipeline: Demucs AI vocal separator ENABLED")
+    else:
+        logger.warning(
+            "Hybrid Pipeline: Demucs not installed — music videos will be quarantined. "
+            "Install with: pip install demucs"
+        )
 
     # ─────────────────────────────────────────────
     # Step 1: Search
@@ -246,7 +287,7 @@ def main() -> None:
         future_to_url = {
             executor.submit(
                 process_url,
-                url, crawler, dedup, state, writer, music_detector,
+                url, crawler, dedup, state, writer, music_detector, vocal_separator,
                 args.batch_num, False,
             ): url
             for url in urls

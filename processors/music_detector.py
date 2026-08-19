@@ -71,24 +71,30 @@ class MusicDetector:
 
         return False
 
-    def process(self, audio_path: Path, metadata: dict | None = None) -> bool:
+    def process(self, audio_path: Path, metadata: dict | None = None) -> str:
         """
-        Kiểm tra và xử lý: quarantine hoặc xóa nếu có nhạc.
-        Trả về True nếu audio bị reject.
+        Kiểm tra và xử lý audio.
+
+        Returns:
+            'clean'     — không có nhạc, giữ nguyên vào audio/
+            'music'     — có nhạc nền → cần VocalSeparator xử lý
+            'quarantine'— có nhạc + VocalSeparator không khả dụng → quarantine
         """
         if not self.is_music(audio_path, metadata):
-            return False
+            return "clean"
 
+        return "music"
+
+    def quarantine(self, audio_path: Path) -> None:
+        """Chuyển file vào thư mục quarantine."""
         if MUSIC_QUARANTINE_INSTEAD_OF_DELETE:
             QUARANTINE_DIR.mkdir(parents=True, exist_ok=True)
             dest = QUARANTINE_DIR / audio_path.name
             shutil.move(str(audio_path), dest)
-            logger.warning(f"Quarantined (music detected): {audio_path.name}")
+            logger.warning(f"Quarantined (music detected, no separator): {audio_path.name}")
         else:
             audio_path.unlink(missing_ok=True)
             logger.warning(f"Deleted (music detected): {audio_path.name}")
-
-        return True
 
     # ─────────────────────────────────────────
     # Internal helpers

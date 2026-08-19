@@ -1,4 +1,5 @@
 # Dockerfile for Facebook & TikTok Audio Crawler
+# with Hybrid Pipeline: Demucs AI Vocal Separator
 FROM python:3.12-slim
 
 # Install system dependencies including FFmpeg
@@ -15,6 +16,11 @@ WORKDIR /app
 # Copy requirements first to leverage Docker layer cache
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
+
+# Pre-tải mô hình Demucs htdemucs vào cache image
+# (htdemucs_ft ~100MB sẽ tải khi chạy lần đầu)
+# Dùng htdemucs (~80MB) để tải sẵn vào image cho tốc độ khởi động nhanh
+RUN python -c "from demucs.pretrained import get_model; get_model('htdemucs')" || true
 
 # Copy the rest of the application
 COPY . .
