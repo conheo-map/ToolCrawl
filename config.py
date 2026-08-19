@@ -86,8 +86,18 @@ MUSIC_ANALYSIS_SAMPLE_SEC: float = 30.0
 MUSIC_QUARANTINE_INSTEAD_OF_DELETE: bool = True
 
 
+# ─────────────────────────────────────────────
+# Telegram Bot Configuration
+# ─────────────────────────────────────────────
+TELEGRAM_BOT_TOKEN: str = os.getenv("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_ALLOWED_USERS: list[int] = [
+    int(uid.strip()) for uid in os.getenv("TELEGRAM_ALLOWED_USERS", "").split(",") if uid.strip().isdigit()
+]
+
+
 def make_batch_id(platform: str, batch_num: int = 1) -> str:
     """Tạo crawl_batch ID theo format spec: tt_20260817_01"""
     prefix = "tt" if platform == "tiktok" else "fb"
     date_compact = CRAWL_DATE.replace("-", "")
     return f"{prefix}_{date_compact}_{batch_num:02d}"
+

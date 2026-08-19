@@ -1,4 +1,4 @@
-﻿# 🎙️ SAYDITOOL — VIETNAMESE SPEECH AUDIO CRAWLER & AI PIPELINE
+# 🎙️ SAYDITOOL — VIETNAMESE SPEECH AUDIO CRAWLER & AI PIPELINE
 > **Dự án:** Hệ thống Thu thập & Xử lý Dữ liệu Âm thanh Tiếng Việt quy mô lớn cho huấn luyện nhận dạng giọng nói (Vietnamese ASR Dataset Pipeline).  
 > **Mục tiêu:** Thu thập 500 giờ âm thanh chuẩn ASR trong 7 tuần từ Facebook Reels & TikTok.  
 > **Phiên bản:** 2.0 (Tích hợp Pipeline Hybrid Tách Giọng & Khử Nhạc AI).
@@ -329,6 +329,35 @@ docker run --rm \
   --cookies cookies_tiktok.txt \
   --workers 4
 ```
+
+---
+
+### 👉 Cách 4: Điều khiển từ xa qua Telegram Bot trên Điện thoại — *Tiện lợi nhất*
+
+Bạn có thể lướt TikTok / Facebook trên điện thoại, thấy video hay chỉ cần **Share ➔ Gửi link vào Telegram Bot**. Bot sẽ tự động tải, convert 16kHz mono, tách nhạc AI và báo cáo kết quả về điện thoại!
+
+#### Bước A: Lấy Token Bot Telegram miễn phí (Làm 1 lần trong 1 phút):
+1. Mở app **Telegram** trên điện thoại hoặc máy tính -> Tìm kiếm: `@BotFather`.
+2. Gõ lệnh: `/newbot` -> Nhập tên cho Bot (VD: `Saydi Crawler`) -> Nhập username (VD: `saydi_audio_bot`).
+3. `@BotFather` sẽ gửi lại mã **HTTP API Token** dạng: `7123456789:ABCdefGhIJKlmNoPQRstuVWXyz`.
+
+#### Bước B: Khởi động Telegram Bot:
+> 🔵 **[Chạy trên: PowerShell tại thư mục dự án `C:\HocC\SaydiTool`]**:
+
+```powershell
+cd C:\HocC\SaydiTool
+.\.venv\Scripts\Activate.ps1
+
+# Chạy bot với token của bạn:
+python bot.py --token "MA_TOKEN_CUA_BAN"
+```
+
+#### Bước C: Gửi link từ Điện thoại:
+1. Mở Telegram trên điện thoại -> Tìm bot bạn vừa tạo -> Bấm **Start**.
+2. Lướt TikTok/Facebook thấy video hay -> Bấm **Chia sẻ ➔ Sao chép liên kết** -> Dán vào khung chat với Bot (gửi 1 link hoặc nhiều link cùng lúc).
+3. Bot sẽ tự động xử lý và gửi tin nhắn báo kết quả về điện thoại:
+   - ✅ *Đã cào xong `tt_7675666420574735634` (101.5s) [Đã lọc sạch nhạc nền bằng AI]!*
+4. Bạn có thể gõ `/stats` để xem hôm nay đã cào được bao nhiêu video và bao nhiêu giờ âm thanh.
 
 ---
 
