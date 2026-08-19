@@ -353,14 +353,50 @@ git push -u origin main
 
 ---
 
-##### Bước 1: Lấy Token Bot Telegram từ `@BotFather`
+##### Bước 1: Cài đặt Rclone & Đăng nhập Google Drive để lấy file cấu hình (Làm 1 lần)
+> 🛡️ **`[PowerShell - Administrator]`**:
+Mở PowerShell quyền Administrator và cài đặt Rclone:
+```powershell
+winget install Rclone.Rclone
+```
+
+> 🔵 **`[PowerShell - Thư mục Dự án]`**:
+Mở PowerShell tại `C:\HocC\SaydiTool` và chạy cấu hình kết nối Google Drive:
+```powershell
+rclone config
+```
+*(Thực hiện tuần tự theo các bước hỏi đáp của Rclone như sau):*
+1. Nhập chữ: `n` ➔ Nhấn **Enter** (Tạo new remote).
+2. Đặt tên: `gdrive` ➔ Nhấn **Enter**.
+3. Chọn loại lưu trữ: gõ chữ `drive` ➔ Nhấn **Enter** (Google Drive).
+4. `client_id>`: Nhấn **Enter** để trống.
+5. `client_secret>`: Nhấn **Enter** để trống.
+6. `scope>`: Nhập số `1` ➔ Nhấn **Enter** (Full access).
+7. `service_account_file>`: Nhấn **Enter** để trống.
+8. `Edit advanced config?`: Nhập `n` ➔ Nhấn **Enter**.
+9. `Use web browser to automatically authenticate`: Nhập `y` ➔ Nhấn **Enter**.  
+   👉 *Trình duyệt sẽ tự động bật lên ➔ Đăng nhập tài khoản Google Drive của bạn ➔ Bấm nút **Allow** (Cho phép).*
+10. `Configure this as a Shared Drive (Team Drive)?`: Nhập `n` ➔ Nhấn **Enter**.
+11. `Keep this "gdrive" remote?`: Nhập `y` ➔ Nhấn **Enter**.
+12. Nhập `q` ➔ Nhấn **Enter** để thoát.
+
+👉 **Lấy nội dung file `rclone.conf` vừa tạo:**
+Chạy lệnh sau trong PowerShell để in toàn bộ nội dung cấu hình ra màn hình:
+```powershell
+rclone config show
+```
+*(Copy toàn bộ các dòng hiện ra, gồm `[gdrive]`, `type = drive`, `scope = drive`, `token = {...}` để chuẩn bị dán vào GitHub Secret ở Bước 4).*
+
+---
+
+##### Bước 2: Lấy Token Bot Telegram từ `@BotFather`
 1. Mở app **Telegram** trên điện thoại -> Tìm kiếm: `@BotFather`.
 2. Gõ lệnh: `/newbot` -> Nhập tên Bot (VD: `Saydi Cloud Crawler`) -> Nhập username (VD: `saydi_cloud_bot`).
 3. Copy mã **HTTP API Token** (dạng: `7123456789:ABCdefGhIJKlmNoPQRstuVWXyz`).
 
 ---
 
-##### Bước 2: Tạo GitHub Personal Access Token (PAT)
+##### Bước 3: Tạo GitHub Personal Access Token (PAT)
 > 🌐 **`[GitHub Web Browser]`**:
 1. Vào GitHub -> Bấm vào ảnh Avatar góc trên bên phải -> Chọn **Settings**.
 2. Cuộn xuống dưới cùng bên trái -> Chọn **Developer settings** -> **Personal access tokens** -> **Tokens (classic)**.
@@ -370,14 +406,22 @@ git push -u origin main
    - Tích chọn quyền: `repo` (Full control) và `workflow`.
 4. Bấm **Generate token** và copy đoạn mã token (dạng: `ghp_xxxxxxxxxxxxxxxxxxxxxx`).
 
-##### Bước 3: Cấu hình Secrets trên Repo GitHub
-> 🌐 **`[GitHub Web Browser]`**:
-1. Vào trang Repo `SaydiTool` của bạn -> Bấm tab **Settings** -> **Secrets and variables** -> **Actions**.
-2. Bấm **New repository secret** và thêm 2 Secrets sau:
-   - Secret 1: **`RCLONE_CONFIG`** (Dán toàn bộ nội dung file cấu hình Rclone `rclone.conf` của bạn).
-   - Secret 2: **`TELEGRAM_BOT_TOKEN`** (Dán Token Bot Telegram lấy ở Bước 1).
+---
 
-##### Bước 4: Tạo Cloudflare Worker miễn phí làm cầu nối (2 phút)
+##### Bước 4: Cấu hình Secrets trên Repo GitHub
+> 🌐 **`[GitHub Web Browser]`**:
+1. Vào trang Repo `SaydiTool` của bạn trên GitHub -> Bấm tab **Settings** -> **Secrets and variables** -> **Actions**.
+2. Bấm **New repository secret** và thêm 2 Secrets sau:
+   - **Secret 1:**
+     - Name: `RCLONE_CONFIG`
+     - Secret: Dán toàn bộ nội dung cấu hình lấy từ lệnh `rclone config show` ở Bước 1 vào.
+   - **Secret 2:**
+     - Name: `TELEGRAM_BOT_TOKEN`
+     - Secret: Dán mã Token Bot Telegram lấy ở Bước 2 vào.
+
+---
+
+##### Bước 5: Tạo Cloudflare Worker miễn phí làm cầu nối (2 phút)
 > 🌐 **`[Cloudflare Web Browser]`**:
 1. Truy cập trang web miễn phí: [dash.cloudflare.com](https://dash.cloudflare.com) (Đăng ký tài khoản miễn phí nếu chưa có).
 2. Vào mục **Workers & Pages** -> Bấm **Create application** -> **Create Worker**.
@@ -477,12 +521,14 @@ async function sendMessage(token, chatId, text) {
 ```
 
 5. Bấm **Deploy** -> Quay ra trang của Worker -> Chọn tab **Settings** -> **Variables and Secrets** -> Thêm 3 biến môi trường:
-   - **`TELEGRAM_BOT_TOKEN`**: Token Bot Telegram của bạn ở Bước 1.
+   - **`TELEGRAM_BOT_TOKEN`**: Token Bot Telegram của bạn ở Bước 2.
    - **`GITHUB_REPO`**: Đường dẫn repo dạng `username/SaydiTool` (VD: `cuongdev/SaydiTool`).
-   - **`GITHUB_PAT`**: Token GitHub cá nhân lấy ở Bước 2.
+   - **`GITHUB_PAT`**: Token GitHub cá nhân lấy ở Bước 3.
 6. Copy đường link URL của Worker vừa tạo (dạng: `https://saydi-telegram-bridge.<subdomain>.workers.dev`).
 
-##### Bước 5: Đăng ký Webhook với Telegram (30 giây)
+---
+
+##### Bước 6: Đăng ký Webhook với Telegram (30 giây)
 Mở trình duyệt bất kỳ (trên điện thoại hoặc máy tính), dán đường link sau vào thanh địa chỉ rồi nhấn Enter:
 
 ```text
