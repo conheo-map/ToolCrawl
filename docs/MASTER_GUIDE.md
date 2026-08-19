@@ -1,56 +1,58 @@
-# 🎙️ SAYDITOOL — VIETNAMESE SPEECH AUDIO CRAWLER & AI PIPELINE
+﻿# 🎙️ SAYDITOOL — VIETNAMESE SPEECH AUDIO CRAWLER & AI PIPELINE
 > **Dự án:** Hệ thống Thu thập & Xử lý Dữ liệu Âm thanh Tiếng Việt quy mô lớn cho huấn luyện nhận dạng giọng nói (Vietnamese ASR Dataset Pipeline).  
 > **Mục tiêu:** Thu thập 500 giờ âm thanh chuẩn ASR trong 7 tuần từ Facebook Reels & TikTok.  
-> **Phiên bản:** 2.0 (Tích hợp Pipeline Hybrid Tách Giọng & Khử Nhạc AI).
+> **Phiên bản:** 2.5 (Tích hợp Tách Giọng AI + Điều Khiển Từ Xa Bằng Telegram Bot & Cloud GitHub Actions).
 
 ---
 
-## 🧭 HƯỚNG DẪN NHẬN BIẾT MÔI TRƯỜNG & TERMINAL SỬ DỤNG
+## 🧭 BẢNG NHẬN DIỆN MÔI TRƯỜNG & TERMINAL (QUAN TRỌNG)
 Trước khi chạy bất kỳ câu lệnh nào, hãy chú ý **Biểu tượng & Loại Terminal** được ghi chú ở từng khối lệnh:
 
 | Biểu tượng | Loại Terminal / Môi trường | Cách mở đúng |
 |---|---|---|
-| 🔵 **[PowerShell - Thư mục Dự án]** | Windows PowerShell tại `C:\HocC\SaydiTool` | Mở File Explorer vào `C:\HocC\SaydiTool`, bấm vào thanh địa chỉ gõ `powershell` rồi gõ Enter (Hiện dòng nhắc: `PS C:\HocC\SaydiTool>`) |
-| 🛡️ **[PowerShell - Administrator]** | Windows PowerShell quyền Quản trị | Bấm phím `Windows` -> gõ `powershell` -> Click chuột phải chọn **Run as Administrator** (Dùng khi cài phần mềm) |
-| 🐧 **[Linux - WSL 2 Ubuntu]** | Terminal Linux Ubuntu | Mở ứng dụng **Ubuntu** từ Start Menu, hoặc từ PowerShell gõ `wsl` (Hiện dòng nhắc: `user@machine:/mnt/c/HocC/SaydiTool$`) |
-| 🌐 **[GitHub Web Browser]** | Trình duyệt Web | Thao tác trên giao diện website `github.com` |
+| 🔵 **`[PowerShell - Thư mục Dự án]`** | Windows PowerShell tại `C:\HocC\SaydiTool` | Mở File Explorer vào `C:\HocC\SaydiTool`, bấm vào thanh địa chỉ gõ `powershell` rồi gõ Enter (Hiện: `PS C:\HocC\SaydiTool>`) |
+| 🛡️ **`[PowerShell - Administrator]`** | Windows PowerShell quyền Quản trị | Bấm phím `Windows` -> gõ `powershell` -> Click chuột phải chọn **Run as Administrator** (Dùng khi cài phần mềm) |
+| 🐧 **`[Linux - WSL 2 Ubuntu]`** | Terminal Linux Ubuntu | Mở ứng dụng **Ubuntu** từ Start Menu, hoặc từ PowerShell gõ `wsl` (Hiện: `user@machine:/mnt/c/HocC/SaydiTool$`) |
+| 📱 **`[Telegram trên Điện thoại]`** | App Telegram Mobile | Mở ứng dụng Telegram trên điện thoại để gửi link cào từ xa |
+| 🌐 **`[GitHub / Cloudflare Web]`** | Trình duyệt Web | Thao tác trên website `github.com` hoặc `dash.cloudflare.com` |
 
 ---
 
-## 📑 MỤC LỤC
-1. [Cấu trúc Thư mục & Vai trò từng Module](#1-cấu-trúc-thư-mục--vai-trò-từng-module)
+## 📑 MỤC LỤC TOÀN TẬP
+1. [Cấu trúc Thư mục Dự án](#1-cấu-trúc-thư-mục-dự-án)
 2. [Thông số Kỹ thuật Âm thanh & Chuẩn Dữ liệu](#2-thông-số-kỹ-thuật-âm-thanh--chuẩn-dữ-liệu)
-3. [Công cụ & Thư viện Sử dụng](#3-công-cụ--thư-viện-sử-dụng)
-4. [Hướng dẫn Cài đặt Môi trường từ Số 0](#4-hướng-dẫn-cài-đặt-môi-trường-từ-số-0)
-5. [Hướng dẫn Lấy Cookies & Chuẩn bị Danh sách Link](#5-hướng-dẫn-lấy-cookies--chuẩn-bị-link)
-6. [Quy trình Vận hành Crawler Chi tiết](#6-quy-trình-vận-hành-crawler-chi-tiết)
-7. [Pipeline Hybrid 3 Tầng: Tách Giọng & Khử Nhạc AI](#7-pipeline-hybrid-3-tầng-tách-giọng--khử-nhạc-ai)
-8. [Đóng gói Docker & Chạy trên Máy tính khác](#8-đóng-gói-docker--chạy-trên-máy-tính-khác)
-9. [Đẩy lên GitHub & Cào Cloud Miễn Phí bằng GitHub Actions](#9-đẩy-lên-github--cào-cloud-miễn-phí-bằng-github-actions)
-10. [Đồng bộ Dữ liệu sang Google Drive với Rclone](#10-đồng-bộ-dữ-liệu-sang-google-drive-với-rclone)
-11. [Bảng Tra cứu Toàn bộ Câu Lệnh (Cheatsheet)](#11-bảng-tra-cứu-toàn-bộ-câu-lệnh-cheatsheet)
-12. [Cẩm nang Xử lý Sự cố & Debug Lỗi (Troubleshooting)](#12-cẩm-nang-xử-lý-sự-cố--debug-lỗi-troubleshooting)
+3. [Cài đặt Môi trường từ Số 0 (Windows, FFmpeg, Python, Docker)](#3-cài-đặt-môi-trường-từ-số-0)
+4. [Lấy Cookies & Chuẩn bị Danh sách Link](#4-lấy-cookies--chuẩn-bị-danh-sách-link)
+5. [Quy trình Vận hành Crawler (4 Cách Chạy)](#5-quy-trình-vận-hành-crawler-4-cách-chạy)
+   - [Cách 1: Chạy trực tiếp bằng Python trên máy tính](#cách-1-chạy-trực-tiếp-bằng-python-trên-máy-tính)
+   - [Cách 2: Chạy đóng gói bằng Docker Container](#cách-2-chạy-đóng-gói-bằng-docker-container)
+   - [Cách 3: Chạy Telegram Bot nhận lệnh trên máy tính](#cách-3-chạy-telegram-bot-nhận-lệnh-trên-máy-tính)
+   - [Cách 4: Đỉnh cao: Cào 100% Cloud (Gửi Telegram ➔ GitHub Actions ➔ Google Drive)](#cách-4-đỉnh-cao-cào-100-cloud-gửi-telegram--github-actions--google-drive)
+6. [Pipeline Hybrid 3 Tầng: Tách Giọng & Khử Nhạc AI](#6-pipeline-hybrid-3-tầng-tách-giọng--khử-nhạc-ai)
+7. [Đóng gói Docker chuyển sang Máy tính khác](#7-đóng-gói-docker-chuyển-sang-máy-tính-khác)
+8. [Đẩy Dự án lên GitHub & Quản lý Mã nguồn](#8-đẩy-dự-án-lên-github--quản-lý-mã-nguồn)
+9. [Cài đặt Rclone & Đồng bộ Google Drive](#9-cài-đặt-rclone--đồng-bộ-google-drive)
+10. [Bảng Tra cứu Toàn bộ Câu Lệnh (Cheatsheet)](#10-bảng-tra-cứu-toàn-bộ-câu-lệnh-cheatsheet)
+11. [Cẩm nang Xử lý Sự cố & Debug Lỗi (Troubleshooting)](#11-cẩm-nang-xử-lý-sự-cố--debug-lỗi-troubleshooting)
 
 ---
 
-## 1. CẤU TRÚC THƯ MỤC & VAI TRÒ TỪNG MODULE
-
-Dự án được tổ chức theo kiến trúc phân tầng sạch sẽ (Clean Modular Architecture):
+## 1. CẤU TRÚC THƯ MỤC DỰ ÁN
 
 ```text
 SaydiTool/
-├── .github/workflows/          # [Cloud CI/CD] Tự động cào đám mây không tốn ổ đĩa
-│   └── cloud_crawler.yml       # Workflow GitHub Actions tự động đẩy Google Drive
-├── crawlers/                   # [Module Cào Dữ Liệu - yt-dlp & Network]
+├── .github/workflows/          # [Cloud CI/CD] Tự động hóa cào đám mây
+│   └── cloud_crawler.yml       # Workflow GitHub Actions tự động đẩy Google Drive & báo Telegram
+├── crawlers/                   # [Module Cào Dữ Liệu - Network & Extractors]
 │   ├── __init__.py
 │   ├── base.py                 # BaseCrawler: tải video, convert WAV, retry, backoff, temp cookies
-│   ├── facebook.py             # FacebookCrawler: bóc tách HTML regex Facebook Reels & Videos
-│   └── tiktok.py               # TikTokCrawler: xử lý video, channel, cookie impersonation
-├── processors/                 # [Module Xử Lý Âm Thanh - Audio Engineering & AI]
+│   ├── facebook.py             # FacebookCrawler: bóc tách regex Reels & Videos
+│   └── tiktok.py               # TikTokCrawler: cào URL, channel, cookie impersonation (Chrome 131)
+├── processors/                 # [Module Xử Lý Âm Thanh - AI Engineering]
 │   ├── __init__.py
-│   ├── audio_converter.py      # Chuyển đổi định dạng WAV 16kHz Mono bằng FFmpeg & ffprobe
+│   ├── audio_converter.py      # FFmpeg WAV 16kHz Mono converter & ffprobe validation
 │   ├── music_detector.py       # Bộ phát hiện nhạc nền 2 tầng (Metadata Heuristic + Librosa)
-│   └── vocal_separator.py      # Bộ tách giọng AI (Meta Demucs + Spectral Noise Gating)
+│   └── vocal_separator.py      # Dual-Engine AI Vocal Separator (Demucs + Spectral Noise Gating)
 ├── storage/                    # [Module Quản Lý Dữ Liệu & Lưu Trữ]
 │   ├── __init__.py
 │   ├── dedup.py                # Thread-safe ID deduplication (chống cào trùng lặp)
@@ -60,17 +62,19 @@ SaydiTool/
 │   ├── __init__.py
 │   ├── logger.py               # Ghi log đa màu sắc, chuẩn UTF-8 Windows
 │   ├── proxy_manager.py        # Quản lý User-Agent rotation & Proxy list
-│   └── rate_limiter.py         # Điều tiết tốc độ request với Random Jitter & Exponential Backoff
-├── tests/                      # [Bộ Kiểm Thử Tự Động] 10 unit tests bao phủ 100% core logic
+│   └── rate_limiter.py         # Điều tiết tốc độ request với Random Jitter & Backoff
+├── tests/                      # [Bộ Kiểm Thử Tự Động] 11 unit tests bao phủ 100% core logic
 │   ├── test_audio_converter.py
+│   ├── test_bot.py
 │   ├── test_crawler_parsing.py
 │   ├── test_dedup.py
 │   ├── test_metadata_writer.py
 │   ├── test_music_detector.py
 │   ├── test_state_manager.py
 │   └── test_vocal_separator.py
-├── docs/                       # [Tài Liệu Hướng Dẫn]
-│   └── MASTER_GUIDE.md         # Bản sao lưu tài liệu toàn tập
+├── docs/                       # [Tài Liệu Toàn Tập]
+│   ├── MASTER_GUIDE.md         # Bản sao lưu cẩm nang
+│   └── TELEGRAM_CLOUD_SETUP.md # Hướng dẫn thiết lập cầu nối Telegram Cloudflare Worker
 ├── Week2/                      # Thư mục chứa dữ liệu đầu ra theo tuần
 │   └── YYYY-MM-DD/             # Dữ liệu theo ngày cào (VD: 2026-08-19)
 │       ├── audio/              # File âm thanh WAV sạch đạt chuẩn huấn luyện ASR
@@ -80,8 +84,9 @@ SaydiTool/
 ├── .checkpoints/               # Checkpoint lưu trạng thái chạy
 ├── errors/                     # Log lỗi chi tiết (failed_YYYY-MM-DD.jsonl)
 ├── logs/                       # Log thực thi hệ thống (crawler.log)
+├── bot.py                      # Telegram Bot Receiver cho phép cào từ xa bằng điện thoại
 ├── config.py                   # Cấu hình trung tâm (tuần, sample rate, rate limit, timeout)
-├── main.py                     # CLI Entry Point chính của toàn bộ dự án
+├── main.py                     # File chạy CLI chính của toàn bộ dự án
 ├── retry_failed.py             # Script tự động thử lại các URL bị lỗi
 ├── urls.txt                    # File chứa danh sách link cần cào hàng loạt
 ├── cookies_tiktok.txt          # Cookie Netscape format cho TikTok
@@ -151,30 +156,12 @@ SaydiTool/
 
 ---
 
-## 3. CÔNG CỤ & THƯ VIỆN SỬ DỤNG
+## 3. CÀI ĐẶT MÔI TRƯỜNG TỪ SỐ 0
 
-| Công nghệ | Phiên bản | Vai trò trong hệ thống |
-|---|---|---|
-| **Python** | 3.12 / 3.13 | Nền tảng lập trình chính |
-| **FFmpeg & ffprobe** | 6.x / 7.x | Chuyển đổi định dạng audio sang 16kHz mono & kiểm tra thông số |
-| **yt-dlp** | `2026.7.4+` | Download video chất lượng cao từ TikTok & Facebook |
-| **curl-cffi** | `0.15.0+` | Giả lập TLS fingerprint của Chrome 131 chống chặn bot |
-| **Librosa** | `0.10.0+` | Phân tích tín hiệu âm thanh, Spectral Flatness, Harmonic-Percussive separation |
-| **noisereduce** | `3.0.3+` | Khử nhạc nền, lọc tiếng ồn phổ với tốc độ 1-2s và 0 MB disk |
-| **Demucs** | `4.1.0+` | Mô hình Deep Learning của Meta Research bóc tách track Vocals chuyên sâu |
-| **Docker & Compose** | 29.x | Đóng gói toàn bộ ứng dụng chạy độc lập trên mọi hệ điều hành |
-| **WSL 2 (Ubuntu)** | 2.x | Môi trường Linux tích hợp trong Windows |
-| **Git & GitHub** | 2.x | Quản lý phiên bản mã nguồn |
-| **Rclone** | 1.66+ | Đồng bộ dữ liệu âm thanh tự động lên Google Drive |
+### 🖥️ 3.1. Cài đặt trên Windows (Host)
 
----
-
-## 4. HƯỚNG DẪN CÀI ĐẶT MÔI TRƯỜNG TỪ SỐ 0
-
-### 🖥️ 4.1. Cài đặt trên Windows (Host)
-
-> 🛡️ **[Chạy trên: PowerShell Administrator]**  
-> Bấm phím Windows -> gõ `powershell` -> Click chuột phải chọn **Run as Administrator**:
+> 🛡️ **`[PowerShell - Administrator]`**  
+> Bấm phím `Windows` -> gõ `powershell` -> Chuột phải chọn **Run as Administrator**:
 
 ```powershell
 # Cài đặt FFmpeg qua winget:
@@ -184,8 +171,8 @@ winget install Gyan.FFmpeg
 ffmpeg -version
 ```
 
-> 🔵 **[Chạy trên: PowerShell tại thư mục dự án `C:\HocC\SaydiTool`]**  
-> Mở PowerShell và di chuyển vào thư mục dự án:
+> 🔵 **`[PowerShell - Thư mục Dự án]`**  
+> Mở PowerShell tại `C:\HocC\SaydiTool`:
 
 ```powershell
 # 1. Chuyển vào đúng thư mục dự án:
@@ -196,7 +183,6 @@ python -m venv .venv
 
 # 3. Kích hoạt môi trường ảo:
 .\.venv\Scripts\Activate.ps1
-# (Sau khi kích hoạt, đầu dòng lệnh sẽ hiện chữ (.venv))
 
 # 4. Cài đặt toàn bộ thư viện:
 pip install -r requirements.txt
@@ -204,9 +190,9 @@ pip install -r requirements.txt
 
 ---
 
-### 🐳 4.2. Cài đặt Docker & WSL 2 Linux
+### 🐳 3.2. Cài đặt Docker & WSL 2 Linux
 
-> 🛡️ **[Chạy trên: PowerShell Administrator]**:
+> 🛡️ **`[PowerShell - Administrator]`**:
 
 ```powershell
 # Cài đặt WSL 2 với bản phân phối Ubuntu:
@@ -215,10 +201,10 @@ wsl --install -d Ubuntu
 ```
 
 1. **Cài Docker Desktop:** Tải bộ cài từ `docker.com/products/docker-desktop` và cài đặt.
-   - Trong quá trình cài: Tích chọn **Use WSL 2 instead of Hyper-V**.
-   - Mở app Docker Desktop -> Nhấn vào biểu tượng bánh răng **Settings** -> **Resources** -> **WSL Integration** -> Bật nút gạt ở mục **Ubuntu** -> Bấm **Apply & Restart**.
+   - Trong quá trình cài đặt: Tích chọn **Use WSL 2 instead of Hyper-V**.
+   - Mở Docker Desktop -> **Settings** -> **Resources** -> **WSL Integration** -> Bật Ubuntu -> Nhấn **Apply & Restart**.
 
-> 🔵 **[Chạy trên: PowerShell tại thư mục dự án `C:\HocC\SaydiTool`]**:
+> 🔵 **`[PowerShell - Thư mục Dự án]`**:
 
 ```powershell
 # Kiểm tra Docker đã chạy thành công chưa:
@@ -228,15 +214,15 @@ docker ps
 
 ---
 
-## 5. HƯỚNG DẪN LẤY COOKIES & CHUẨN BỊ LINK
+## 4. LẤY COOKIES & CHUẨN BỊ DANH SÁCH LINK
 
-### 🍪 5.1. Xuất file `cookies_tiktok.txt`:
+### 🍪 4.1. Xuất file `cookies_tiktok.txt`:
 1. Dùng trình duyệt Chrome, cài tiện ích: **Get cookies.txt LOCALLY**.
 2. Đăng nhập vào trang `tiktok.com`.
 3. Bấm vào icon tiện ích -> Chọn định dạng **Netscape** -> Nhấn **Export**.
 4. Lưu file với tên `cookies_tiktok.txt` vào thư mục dự án `C:\HocC\SaydiTool\cookies_tiktok.txt`.
 
-### 📝 5.2. Chuẩn bị file [`urls.txt`](file:///c:/HocC/SaydiTool/urls.txt):
+### 📝 4.2. Chuẩn bị file [`urls.txt`](file:///c:/HocC/SaydiTool/urls.txt):
 Mở file `urls.txt` trong thư mục dự án và dán các link video cần cào (mỗi dòng 1 link):
 ```text
 https://www.tiktok.com/@kienthuckinhte28/video/7675666420574735634
@@ -247,46 +233,44 @@ https://www.facebook.com/watch?v=1039665577514847
 
 ---
 
-## 6. QUY TRÌNH VẬN HÀNH CRAWLER CHI TIẾT
+## 5. QUY TRÌNH VẬN HÀNH CRAWLER (4 CÁCH CHẠY)
 
-### 👉 Cách 1: Chạy trực tiếp bằng Python (.venv) — *Khuyên dùng hàng ngày*
+---
 
-> 🔵 **[Chạy trên: PowerShell tại thư mục dự án `C:\HocC\SaydiTool`]**:
+### 👉 Cách 1: Chạy trực tiếp bằng Python trên máy tính — *Khuyên dùng khi ngồi máy*
+
+> 🔵 **`[PowerShell - Thư mục Dự án]`**:
 
 ```powershell
-# 1. Chuyển vào thư mục dự án:
 cd C:\HocC\SaydiTool
-
-# 2. Kích hoạt môi trường ảo:
 .\.venv\Scripts\Activate.ps1
 
-# 3. Cào toàn bộ danh sách trong file urls.txt (Có tự động tách nhạc):
+# Cào từ file danh sách urls.txt (Có tự động tách nhạc):
 python main.py --platform tiktok --keyword "urls.txt" --cookies cookies_tiktok.txt --workers 4
 
-# 4. Cào Facebook theo từ khóa tìm kiếm:
+# Cào Facebook theo từ khóa tìm kiếm:
 python main.py --platform facebook --keyword "học tiếng Việt" --workers 4
 
-# 5. Cào toàn bộ video từ 1 kênh TikTok cụ thể:
+# Cào toàn bộ video từ 1 kênh TikTok cụ thể:
 python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --cookies cookies_tiktok.txt --workers 4
 
-# 6. Chạy thử nghiệm xem danh sách link, không tải file (Dry Run):
+# Chạy thử nghiệm xem danh sách link, không tải file (Dry Run):
 python main.py --platform facebook --keyword "học tiếng Việt" --dry-run
 ```
 
 ---
 
-### 👉 Cách 2: Chạy bằng Docker Container
+### 👉 Cách 2: Chạy đóng gói bằng Docker Container
 
-> 🔵 **[Chạy trên: PowerShell tại thư mục dự án `C:\HocC\SaydiTool`]**:
+> 🔵 **`[PowerShell - Thư mục Dự án]`**:
 
 ```powershell
-# 1. Chuyển vào thư mục dự án:
 cd C:\HocC\SaydiTool
 
-# 2. Build image Docker (Chỉ làm lần đầu hoặc khi sửa code):
+# 1. Build image Docker (Chỉ làm lần đầu hoặc khi sửa code):
 docker build -t audio-crawler .
 
-# 3. Chạy cào TikTok mount thư mục đầu ra Week2:
+# 2. Chạy cào TikTok mount thư mục đầu ra Week2:
 docker run --rm `
   -v ${PWD}/Week2:/app/Week2 `
   -v ${PWD}/urls.txt:/app/urls.txt `
@@ -297,73 +281,64 @@ docker run --rm `
   --cookies cookies_tiktok.txt `
   --workers 4
 
-# 4. Chạy nền 24/7 bằng Docker Compose:
+# 3. Chạy nền 24/7 bằng Docker Compose:
 docker compose up -d
-
-# Xem log chạy ngầm thời gian thực:
+# Xem log:
 docker compose logs -f
-
-# Dừng container chạy ngầm:
+# Dừng:
 docker compose down
 ```
 
 ---
 
-### 👉 Cách 3: Chạy trên Linux (WSL 2 Ubuntu)
+### 👉 Cách 3: Chạy Telegram Bot nhận lệnh trên máy tính
 
-> 🐧 **[Chạy trên: Terminal Linux Ubuntu]**  
-> Mở Ubuntu Terminal từ Start Menu hoặc gõ `wsl` trong PowerShell:
+Cho phép bạn bật bot chạy ẩn trên máy tính ở nhà, sau đó cầm điện thoại ra ngoài gửi link vào Telegram.
 
-```bash
-# 1. Chuyển vào thư mục dự án trên Windows mount qua /mnt/c:
-cd /mnt/c/HocC/SaydiTool
-
-# 2. Chạy container bằng Docker trên Linux:
-docker run --rm \
-  -v $(pwd)/Week2:/app/Week2 \
-  -v $(pwd)/urls.txt:/app/urls.txt \
-  -v $(pwd)/cookies_tiktok.txt:/app/cookies_tiktok.txt \
-  audio-crawler \
-  --platform tiktok \
-  --keyword "urls.txt" \
-  --cookies cookies_tiktok.txt \
-  --workers 4
-```
-
----
-
-### 👉 Cách 4: Điều khiển từ xa qua Telegram Bot trên Điện thoại — *Tiện lợi nhất*
-
-Bạn có thể lướt TikTok / Facebook trên điện thoại, thấy video hay chỉ cần **Share ➔ Gửi link vào Telegram Bot**. Bot sẽ tự động tải, convert 16kHz mono, tách nhạc AI và báo cáo kết quả về điện thoại!
-
-#### Bước A: Lấy Token Bot Telegram miễn phí (Làm 1 lần trong 1 phút):
-1. Mở app **Telegram** trên điện thoại hoặc máy tính -> Tìm kiếm: `@BotFather`.
-2. Gõ lệnh: `/newbot` -> Nhập tên cho Bot (VD: `Saydi Crawler`) -> Nhập username (VD: `saydi_audio_bot`).
-3. `@BotFather` sẽ gửi lại mã **HTTP API Token** dạng: `7123456789:ABCdefGhIJKlmNoPQRstuVWXyz`.
-
-#### Bước B: Khởi động Telegram Bot:
-> 🔵 **[Chạy trên: PowerShell tại thư mục dự án `C:\HocC\SaydiTool`]**:
+> 🔵 **`[PowerShell - Thư mục Dự án]`**:
 
 ```powershell
 cd C:\HocC\SaydiTool
 .\.venv\Scripts\Activate.ps1
 
-# Chạy bot với token của bạn:
-python bot.py --token "MA_TOKEN_CUA_BAN"
+# Chạy bot với Token lấy từ @BotFather:
+python bot.py --token "YOUR_TELEGRAM_BOT_TOKEN"
 ```
 
-#### Bước C: Gửi link từ Điện thoại:
-1. Mở Telegram trên điện thoại -> Tìm bot bạn vừa tạo -> Bấm **Start**.
-2. Lướt TikTok/Facebook thấy video hay -> Bấm **Chia sẻ ➔ Sao chép liên kết** -> Dán vào khung chat với Bot (gửi 1 link hoặc nhiều link cùng lúc).
-3. Bot sẽ tự động xử lý và gửi tin nhắn báo kết quả về điện thoại:
-   - ✅ *Đã cào xong `tt_7675666420574735634` (101.5s) [Đã lọc sạch nhạc nền bằng AI]!*
-4. Bạn có thể gõ `/stats` để xem hôm nay đã cào được bao nhiêu video và bao nhiêu giờ âm thanh.
+> 📱 **`[Telegram trên Điện thoại]`**:
+- Mở Telegram trên điện thoại, tìm bot vừa tạo -> Bấm **Start**.
+- Lướt TikTok/Facebook thấy video hay -> Bấm **Chia sẻ ➔ Sao chép liên kết** -> Gửi vào Bot.
+- Bot tự động cào, tách nhạc và gửi tin nhắn báo kết quả về điện thoại!
+- Gõ `/stats` để xem tổng số giờ cào được hôm nay.
 
 ---
 
-## 7. PIPELINE HYBRID 3 TẦNG: TÁCH GIỌNG & KHỬ NHẠC AI
+### 👉 Cách 4: Đỉnh cao: Cào 100% Cloud (Gửi Telegram ➔ GitHub Actions ➔ Google Drive)
 
-Để giải quyết triệt để vấn đề **90% video TikTok dính nhạc nền**, hệ thống tự động xử lý theo mô hình 3 tầng:
+> 🌟 **ƯU ĐIỂM:** **TẮT MÁY TÍNH HOÀN TOÀN 100%**, không tốn 1 byte ổ cứng hay mạng nhà. Cầm điện thoại gửi link vào Telegram, máy chủ GitHub tự cào và đẩy thẳng sang Google Drive!
+
+```mermaid
+graph LR
+    A[📱 Gửi Link Telegram trên Điện Thoại] --> B[⚡ Cloudflare Worker Miễn Phí]
+    B --> C[☁️ Kích hoạt GitHub Actions Cloud]
+    C --> D[🎧 Tải video, Convert 16kHz, Tách Nhạc AI]
+    D --> E[📁 Tự động đẩy file WAV sang Google Drive]
+    E --> F[📩 Báo kết quả về Telegram Điện Thoại]
+```
+
+#### Thiết lập 1 lần trong 5 phút:
+1. **Lấy Bot Token:** Vào Telegram gặp `@BotFather` gõ `/newbot` để lấy Token.
+2. **Lấy GitHub PAT:** Vào GitHub -> *Settings -> Developer Settings -> Personal access tokens (classic)* -> Tạo Token có quyền `repo` và `workflow`.
+3. **Cài Secrets trên GitHub:** Vào Repo `SaydiTool` -> *Settings -> Secrets and variables -> Actions*:
+   - Thêm `RCLONE_CONFIG` (Nội dung file `rclone.conf`).
+   - Thêm `TELEGRAM_BOT_TOKEN` (Token lấy ở bước 1).
+4. **Tạo Cloudflare Worker (Miễn phí):** Xem chi tiết code và hướng dẫn dán webhook tại [`docs/TELEGRAM_CLOUD_SETUP.md`](file:///c:/HocC/SaydiTool/docs/TELEGRAM_CLOUD_SETUP.md).
+
+---
+
+## 6. PIPELINE HYBRID 3 TẦNG: TÁCH GIỌNG & KHỬ NHẠC AI
+
+Để tận dụng **90% video TikTok dính nhạc nền**, hệ thống tự động xử lý qua 3 tầng:
 
 ```mermaid
 graph TD
@@ -381,23 +356,20 @@ graph TD
 
 ---
 
-## 8. ĐÓNG GÓI DOCKER & CHẠY TRÊN MÁY TÍNH KHÁC
+## 7. ĐÓNG GÓI DOCKER CHUYỂN SANG MÁY TÍNH KHÁC
 
-Docker giúp bạn mang toàn bộ dự án sang máy tính khác (Windows, macOS, Linux Server) chạy ngay lập tức mà **không cần cài đặt lại môi trường**.
+### 📦 Cách 7.1: Đóng gói thành 1 file nén `.tar` (Dùng USB / Google Drive)
 
-### 📦 Cách 8.1: Đóng gói thành 1 file nén `.tar` (Dùng USB / Google Drive)
-
-> 🔵 **[Chạy trên Máy A - PowerShell tại `C:\HocC\SaydiTool`]**:
+> 🔵 **`[Máy A - PowerShell tại C:\HocC\SaydiTool]`**:
 
 ```powershell
-# Xuất toàn bộ image thành 1 file duy nhất:
 docker save -o audio-crawler.tar audio-crawler:latest
 ```
 
-> 🔵 **[Chạy trên Máy B (Máy tính khác) - PowerShell]**:
+> 🔵 **`[Máy B (Máy khác) - PowerShell]`**:
 
 ```powershell
-# 1. Nạp image từ file nén:
+# 1. Nạp image từ file:
 docker load -i audio-crawler.tar
 
 # 2. Chạy cào ngay lập tức:
@@ -406,101 +378,48 @@ docker run --rm -v ${PWD}/Week2:/app/Week2 audio-crawler --platform facebook --k
 
 ---
 
-### 🌐 Cách 8.2: Đẩy lên Docker Hub (Chạy từ bất kỳ đâu qua mạng)
+### 🌐 Cách 7.2: Đẩy lên Docker Hub
 
-> 🔵 **[Chạy trên: PowerShell tại `C:\HocC\SaydiTool`]**:
+> 🔵 **`[PowerShell tại C:\HocC\SaydiTool]`**:
 
 ```powershell
-# 1. Đăng nhập Docker Hub:
 docker login
-
-# 2. Gắn tag tên tài khoản và đẩy lên:
 docker tag audio-crawler <ten_tai_khoan>/audio-crawler:latest
 docker push <ten_tai_khoan>/audio-crawler:latest
 ```
 
-> 🔵 **[Chạy trên: Máy tính khác bất kỳ]**:
-
-```powershell
-# Chỉ cần 1 lệnh duy nhất, Docker tự tải về và chạy:
-docker run --rm -v ${PWD}/Week2:/app/Week2 <ten_tai_khoan>/audio-crawler:latest --platform tiktok --keyword "urls.txt"
-```
-
 ---
 
-## 9. ĐẨY LÊN GITHUB & CÀO CLOUD MIỄN PHÍ BẰNG GITHUB ACTIONS
+## 8. ĐẨY DỰ ÁN LÊN GITHUB & QUẢN LÝ MÃ NGUỒN
 
-### ⚠️ Lưu ý quan trọng về Lưu trữ Audio & GitHub:
-- **GitHub Repo** chỉ dùng để lưu **Mã nguồn (Code)**, cấu hình và danh sách link `urls.txt`.
-- Không đẩy trực tiếp 500 giờ file `.wav` (30 - 50 GB) vào Git commits vì GitHub giới hạn repo dưới 2 GB.
-
----
-
-### 🚀 9.1. Đẩy Mã Nguồn Lên GitHub
-
-> 🔵 **[Chạy trên: PowerShell tại thư mục dự án `C:\HocC\SaydiTool`]**:
+> 🔵 **`[PowerShell - Thư mục Dự án]`**:
 
 ```powershell
-# 1. Kiểm tra trạng thái thay đổi:
+cd C:\HocC\SaydiTool
+
 git status
-
-# 2. Lưu commit:
 git add .
 git commit -m "feat: complete Vietnamese audio crawler pipeline with AI vocal separation"
 
-# 3. Liên kết tới GitHub (Chỉ làm 1 lần đầu tiên):
+# Liên kết GitHub (Chỉ làm lần đầu):
 git remote add origin https://github.com/<tai-khoan-cua-ban>/SaydiTool.git
 git branch -M main
-
-# 4. Đẩy code lên GitHub:
 git push -u origin main
 ```
 
 ---
 
-### ☁️ 9.2. Giải Pháp Đỉnh Cao: Cào Trên Cloud Bằng GitHub Actions (0 MB Ổ Đĩa Máy Nhà)
+## 9. CÀI ĐẶT RCLONE & ĐỒNG BỘ GOOGLE DRIVE
 
-Dự án đã tích hợp sẵn workflow **`.github/workflows/cloud_crawler.yml`**. Bạn có thể cào hàng trăm giờ audio trực tiếp trên máy chủ đám mây của GitHub mà **không tốn 1 byte ổ cứng hay mạng máy tính**:
+### 📥 9.1. Cài đặt Rclone
 
-#### Bước A: Thiết lập kết nối Google Drive vào GitHub Secret (Làm 1 lần)
-
-> 🔵 **[Chạy trên: PowerShell tại thư mục dự án `C:\HocC\SaydiTool`]**:
-
-```powershell
-# Lấy toàn bộ nội dung file cấu hình Rclone:
-Get-Content ~\.config\rclone\rclone.conf
-```
-
-> 🌐 **[Thực hiện trên Trình duyệt Web]**:
-1. Mở trang Repo GitHub của bạn -> bấm tab **Settings**.
-2. Chọn **Secrets and variables** -> bấm **Actions** -> bấm nút **New repository secret**.
-3. Đặt tên Secret: **`RCLONE_CONFIG`**, dán toàn bộ nội dung file `rclone.conf` vừa lấy ở trên vào -> Bấm **Add secret**.
-
-#### Bước B: Kích hoạt Cào trên Cloud
-
-> 🌐 **[Thực hiện trên Trình duyệt Web]**:
-1. Mở file `urls.txt` trực tiếp trên GitHub, dán danh sách link cần cào vào rồi bấm **Commit changes**.
-2. Chuyển sang tab **Actions** trên GitHub -> Bấm chọn workflow **Cloud Audio Crawler to Google Drive**.
-3. Bấm nút **Run workflow** -> Chọn nền tảng (`tiktok` hoặc `facebook`) -> Bấm **Run workflow**.
-4. Máy chủ GitHub sẽ tự động:
-   - Khởi động môi trường Linux đám mây.
-   - Tự động tải video, convert WAV 16kHz mono, chạy tách giọng AI.
-   - Dùng Rclone **đẩy thẳng toàn bộ file Audio sang Google Drive của bạn**.
-   - Máy tính cá nhân của bạn hoàn toàn không cần bật hay tốn dung lượng!
-
----
-
-## 10. ĐỒNG BỘ DỮ LIỆU SANG GOOGLE DRIVE VỚI RCLONE
-
-### 📥 10.1. Cài đặt Rclone
-
-> 🛡️ **[Chạy trên: PowerShell Administrator]**:
+> 🛡️ **`[PowerShell - Administrator]`**:
 
 ```powershell
 winget install Rclone.Rclone
 ```
 
-> 🔵 **[Chạy trên: PowerShell tại thư mục dự án `C:\HocC\SaydiTool`]**:
+> 🔵 **`[PowerShell - Thư mục Dự án]`**:
 
 ```powershell
 # Cấu hình kết nối Google Drive:
@@ -510,9 +429,9 @@ rclone config
 # 3. Để trống Client ID & Secret -> Trình duyệt tự mở để bạn đăng nhập Google Drive -> Nhấn Allow
 ```
 
-### ☁️ 10.2. Lệnh Đồng bộ dữ liệu
+### ☁️ 9.2. Lệnh Đồng bộ dữ liệu
 
-> 🔵 **[Chạy trên: PowerShell tại thư mục dự án `C:\HocC\SaydiTool`]**:
+> 🔵 **`[PowerShell - Thư mục Dự án]`**:
 
 ```powershell
 # Xem danh sách thư mục trên Google Drive:
@@ -527,16 +446,17 @@ rclone sync C:\HocC\SaydiTool\Week2 gdrive:ASR_Dataset/Week2 --progress
 
 ---
 
-## 11. BẢNG TRA CỨU TOÀN BỘ CÂU LỆNH (CHEATSHEET)
+## 10. BẢNG TRA CỨU TOÀN BỘ CÂU LỆNH (CHEATSHEET)
 
 ### 🐍 Lệnh Python & Crawler (Chạy tại `PS C:\HocC\SaydiTool>`):
 | Mục đích | Câu lệnh PowerShell |
 |---|---|
 | Kích hoạt môi trường | `.\.venv\Scripts\Activate.ps1` |
-| Chạy toàn bộ Unit Tests | `pytest -o pythonpath=. -v` |
+| Chạy toàn bộ 11 Unit Tests | `pytest -o pythonpath=. -v` |
 | Cào TikTok qua file link | `python main.py --platform tiktok --keyword "urls.txt" --cookies cookies_tiktok.txt --workers 4` |
 | Cào Facebook qua từ khóa | `python main.py --platform facebook --keyword "tin tức thời sự" --workers 4` |
 | Cào toàn bộ 1 kênh TikTok | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --cookies cookies_tiktok.txt` |
+| Chạy Telegram Bot nhận link | `python bot.py --token "YOUR_TOKEN"` |
 | Thử lại các URL bị lỗi | `python retry_failed.py --platform tiktok` |
 | Bỏ qua bộ lọc nhạc | `python main.py --platform tiktok --keyword "urls.txt" --skip-music-filter` |
 
@@ -561,7 +481,7 @@ rclone sync C:\HocC\SaydiTool\Week2 gdrive:ASR_Dataset/Week2 --progress
 
 ---
 
-## 12. CẨM NANG XỬ LÝ SỰ CỐ & DEBUG LỖI (TROUBLESHOOTING)
+## 11. CẨM NANG XỬ LÝ SỰ CỐ & DEBUG LỖI (TROUBLESHOOTING)
 
 ### ❌ Lỗi 1: `ModuleNotFoundError: No module named 'yt_dlp'`
 - **Môi trường bị:** PowerShell khi chạy `python main.py`.
