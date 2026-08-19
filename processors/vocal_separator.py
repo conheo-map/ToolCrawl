@@ -127,39 +127,67 @@ class VocalSeparator:
 
     def _separate_spectral(self, audio_path: Path) -> bool:
         """
-        Làm sạch nhạc nền và tăng cường giọng nói bằng Librosa & Spectral Gating.
+        Tách giọng nói 3 tầng siêu mạnh:
+          Tầng 1: HPSS — tách thành phần Harmonic (nhạc cụ) và Percussive (trống)
+                   → Chỉ giữ lại phần Residual (giọng nói)
+          Tầng 2: Spectral Gating mạnh (prop_decrease=0.97)
+                   → Xóa sạch tần số nhạc nền còn sót lại
+          Tầng 3: High-pass filter 80Hz
+                   → Loại bỏ hoàn toàn tiếng bass và âm nhạc cụ tần số thấp
         """
         import librosa
         import soundfile as sf
         import noisereduce as nr
+        import numpy as np
 
         try:
-            logger.info(f"[Spectral Cleaner] Isolating vocals & reducing BGM: {audio_path.name}")
+            logger.info(f"[Spectral 3-Layer] Isolating vocals from: {audio_path.name}")
             y, sr = librosa.load(str(audio_path), sr=16000, mono=True)
-            
-            # Giảm nhạc nền và làm nổi bật tần số giọng nói
-            reduced = nr.reduce_noise(
-                y=y,
+
+            # ── Tầng 1: HPSS — Tách Harmonic (nhạc cụ) khỏi Percussive + Vocal ──
+            # margin=3 → càng lớn càng mạnh tay với nhạc nền
+            harmonic, percussive = librosa.effects.hpss(y, margin=3)
+            # Giọng nói nằm trong phần residual (y trừ đi harmonic)
+            vocals_approx = y - harmonic * 0.9
+
+            # ── Tầng 2: Spectral Gating mạnh ──
+            # Dùng chính phần harmonic làm noise profile để xóa nhạc cụ
+            noise_clip = harmonic
+            vocals_clean = nr.reduce_noise(
+                y=vocals_approx,
+                y_noise=noise_clip,
                 sr=sr,
                 stationary=False,
-                prop_decrease=0.85,
-                time_constant_s=1.0,
+                prop_decrease=0.97,       # Xóa 97% nhạc nền
+                time_constant_s=0.5,
+                freq_mask_smooth_hz=500,
+                n_fft=2048,
             )
+
+            # ── Tầng 3: High-pass filter 80Hz (xóa bass và kick drum) ──
+            from scipy.signal import butter, sosfilt
+            sos = butter(5, 80.0 / (sr / 2), btype='high', output='sos')
+            vocals_clean = sosfilt(sos, vocals_clean)
+
+            # Normalize amplitude về -1 đến 1
+            max_amp = np.max(np.abs(vocals_clean))
+            if max_amp > 0:
+                vocals_clean = vocals_clean / max_amp * 0.95
 
             # Ghi đè file WAV chuẩn 16kHz mono PCM 16-bit
             tmp_out = audio_path.parent / f"_tmp_{audio_path.name}"
-            sf.write(str(tmp_out), reduced, 16000, subtype="PCM_16")
-            
+            sf.write(str(tmp_out), vocals_clean.astype(np.float32), sr, subtype="PCM_16")
+
             if tmp_out.exists() and tmp_out.stat().st_size > 1000:
                 shutil.move(str(tmp_out), str(audio_path))
-                logger.info(f"[Spectral Cleaner] Completed: {audio_path.name}")
+                logger.info(f"[Spectral 3-Layer] Completed: {audio_path.name}")
                 return True
             else:
                 tmp_out.unlink(missing_ok=True)
                 return False
 
         except Exception as exc:
-            logger.error(f"[Spectral Cleaner] Failed: {exc}")
+            logger.error(f"[Spectral 3-Layer] Failed for {audio_path.name}: {exc}", exc_info=True)
             return False
 
     def _convert_to_wav(self, src: Path, dst: Path) -> bool:
