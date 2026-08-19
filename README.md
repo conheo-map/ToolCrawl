@@ -328,10 +328,37 @@ graph LR
 
 #### 🛠️ HƯỚNG DẪN CÀI ĐẶT TỪNG BƯỚC (LÀM 1 LẦN TRONG 5 PHÚT):
 
+##### Bước 0: Tạo Repo trên GitHub & Đẩy toàn bộ mã nguồn từ máy lên (Làm đầu tiên)
+> 🌐 **`[GitHub Web Browser]`**:
+1. Đăng nhập vào [github.com](https://github.com) -> Bấm vào dấu **`+`** ở góc trên bên phải -> Chọn **New repository**.
+2. Đặt tên Repository: **`SaydiTool`** (Có thể chọn chế độ *Private* để bảo mật mã nguồn hoặc *Public*).
+3. **Không tích chọn** bất kỳ ô nào (*Add a README file*, *.gitignore*, *license*) vì dự án trên máy đã có sẵn -> Bấm nút **Create repository**.
+
+> 🔵 **`[PowerShell - Thư mục Dự án]`**:
+Mở PowerShell tại `C:\HocC\SaydiTool` và chạy các lệnh sau để đẩy toàn bộ code lên GitHub:
+
+```powershell
+cd C:\HocC\SaydiTool
+
+# 1. Liên kết thư mục dự án với GitHub (Thay <tai_khoan> bằng username GitHub của bạn):
+git remote add origin https://github.com/<tai_khoan>/SaydiTool.git
+
+# 2. Đổi tên nhánh chính thành main:
+git branch -M main
+
+# 3. Đẩy toàn bộ code lên GitHub:
+git push -u origin main
+```
+*(Sau khi đẩy xong, f5 lại trang GitHub bạn sẽ thấy toàn bộ code, file `urls.txt` và thư mục `.github/workflows` đã nằm trên GitHub).*
+
+---
+
 ##### Bước 1: Lấy Token Bot Telegram từ `@BotFather`
 1. Mở app **Telegram** trên điện thoại -> Tìm kiếm: `@BotFather`.
 2. Gõ lệnh: `/newbot` -> Nhập tên Bot (VD: `Saydi Cloud Crawler`) -> Nhập username (VD: `saydi_cloud_bot`).
 3. Copy mã **HTTP API Token** (dạng: `7123456789:ABCdefGhIJKlmNoPQRstuVWXyz`).
+
+---
 
 ##### Bước 2: Tạo GitHub Personal Access Token (PAT)
 > 🌐 **`[GitHub Web Browser]`**:
