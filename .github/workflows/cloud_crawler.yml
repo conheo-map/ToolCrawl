@@ -1,0 +1,62 @@
+﻿name: Cloud Audio Crawler to Google Drive
+
+on:
+  workflow_dispatch:
+    inputs:
+      platform:
+        description: 'Nền tảng (tiktok hoặc facebook)'
+        required: true
+        default: 'tiktok'
+        type: choice
+        options:
+          - tiktok
+          - facebook
+      keyword:
+        description: 'Keyword hoặc urls.txt'
+        required: true
+        default: 'urls.txt'
+      workers:
+        description: 'Số luồng chạy song song'
+        required: true
+        default: '4'
+
+jobs:
+  crawl-and-sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: 🎬 Install FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: 📦 Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🚀 Run Audio Crawler Pipeline
+        run: |
+          python main.py \
+            --platform ${{ github.event.inputs.platform }} \
+            --keyword "${{ github.event.inputs.keyword }}" \
+            --workers ${{ github.event.inputs.workers }}
+
+      - name: ☁️ Install & Configure Rclone
+        run: |
+          sudo apt-get install -y rclone
+          mkdir -p ~/.config/rclone
+          echo "${{ secrets.RCLONE_CONFIG }}" > ~/.config/rclone/rclone.conf
+
+      - name: 📤 Sync Audio Dataset to Google Drive
+        run: |
+          rclone copy Week2/ gdrive:ASR_Dataset/Week2/ --progress
