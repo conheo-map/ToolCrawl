@@ -211,7 +211,7 @@ def main() -> None:
         metadata_file=cfg.METADATA_FILE,
         summary_file=cfg.SUMMARY_FILE,
     )
-    music_detector = MusicDetector()
+    music_detector = MusicDetector(enabled=not args.skip_music_filter)
 
     # ─────────────────────────────────────────────
     # Step 1: Search

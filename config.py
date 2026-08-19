@@ -59,7 +59,7 @@ MAX_RETRIES:        int   = 3
 # ─────────────────────────────────────────────
 # yt-dlp download settings
 # ─────────────────────────────────────────────
-YTDLP_RATE_LIMIT: str  = "500K"
+YTDLP_RATE_LIMIT: int | None = 500 * 1024  # 500 KB/s in bytes (tránh lỗi type comparison)
 YTDLP_SOCKET_TIMEOUT: int = 30
 YTDLP_RETRIES: int = 3
 

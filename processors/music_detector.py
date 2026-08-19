@@ -17,6 +17,8 @@ from config import (
     QUARANTINE_DIR,
 )
 
+import config as cfg
+
 logger = get_logger("music_detector")
 
 
@@ -25,10 +27,11 @@ class MusicDetector:
     Phát hiện audio có nhạc nền và quyết định giữ/quarantine/xóa.
     """
 
-    def __init__(self) -> None:
+    def __init__(self, enabled: bool | None = None) -> None:
         self._has_librosa = False
-        if not MUSIC_FILTER_ENABLED:
-            logger.info("Music detection disabled via config")
+        self._enabled = enabled if enabled is not None else cfg.MUSIC_FILTER_ENABLED
+        if not self._enabled:
+            logger.info("Music detection disabled")
             return
 
         try:
@@ -46,7 +49,7 @@ class MusicDetector:
         Trả về True nếu audio có nhạc nền (nên reject).
         Ưu tiên metadata heuristic trước, sau đó mới dùng signal analysis.
         """
-        if not MUSIC_FILTER_ENABLED:
+        if not self._enabled or not cfg.MUSIC_FILTER_ENABLED:
             return False
 
         # --- Tầng 1: Metadata heuristic ---
