@@ -183,6 +183,7 @@ class BaseCrawler:
         if self._cookies and self._cookies.exists():
             opts["cookiefile"] = str(self._cookies)
 
+        if download and output_dir:
             opts["outtmpl"] = str(output_dir / "%(id)s.%(ext)s")
             opts["format"] = "bestaudio/best"
             if YTDLP_RATE_LIMIT is not None:
