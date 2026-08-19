@@ -1,11 +1,11 @@
-﻿from pathlib import Path
+from pathlib import Path
 from processors.vocal_separator import VocalSeparator, is_demucs_available
 
 def test_vocal_separator_init():
     sep = VocalSeparator()
     # Check property
     assert isinstance(sep.available, bool)
-    assert sep.available == is_demucs_available()
+    assert sep.available is True  # Spectral engine is active via librosa + noisereduce
 
 def test_vocal_separator_missing_file(tmp_path: Path):
     sep = VocalSeparator()
