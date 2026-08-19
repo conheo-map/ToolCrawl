@@ -55,9 +55,12 @@ class BaseCrawler:
                 # Tạo bản sao ghi được trong temp để tránh lỗi Read-only filesystem khi mount :ro
                 temp_cookie = Path(tempfile.gettempdir()) / f"cookies_{self.PLATFORM}_{CRAWL_DATE}.txt"
                 try:
-                    shutil.copyfile(c_path, temp_cookie)
+                    content = c_path.read_text(encoding="utf-8", errors="replace")
+                    temp_cookie.write_text(content, encoding="utf-8")
+                    temp_cookie.chmod(0o666)
                     self._cookies = temp_cookie
-                except Exception:
+                except Exception as exc:
+                    logger.warning(f"Could not create temp cookie: {exc}")
                     self._cookies = c_path
 
         self._rate = rate_limiter or RateLimiter()
