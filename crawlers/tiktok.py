@@ -31,25 +31,51 @@ class TikTokCrawler(BaseCrawler):
     def search(self, keyword: str, max_results: int = 200) -> list[str]:
         """
         Tìm kiếm video TikTok theo keyword.
-        Thử yt-dlp native search trước, fallback sang HTML scrape.
+        Hỗ trợ:
+          1. Direct video URL hoặc channel URL
+          2. Đường dẫn file .txt chứa danh sách URLs
+          3. Keyword tìm kiếm qua HTML scrape
         """
         urls: list[str] = []
 
-        # Phương pháp 1: yt-dlp native search
-        try:
-            urls = self._search_via_ytdlp(keyword, max_results)
-            if urls:
-                logger.info(f"[TikTok] yt-dlp search: {len(urls)} URLs for '{keyword}'")
-                return urls[:max_results]
-        except Exception as exc:
-            logger.warning(f"[TikTok] yt-dlp search failed: {exc} — fallback to HTML")
+        # Case 1: Direct URL
+        if keyword.startswith("http://") or keyword.startswith("https://"):
+            if "/video/" in keyword:
+                return [keyword]
+            try:
+                opts = self._build_ydl_opts(download=False)
+                opts["extract_flat"] = True
+                with yt_dlp.YoutubeDL(opts) as ydl:
+                    info = ydl.extract_info(keyword, download=False) or {}
+                    entries = info.get("entries", [])
+                    extracted = [
+                        e.get("url") or e.get("webpage_url")
+                        for e in entries
+                        if e.get("url") or e.get("webpage_url")
+                    ]
+                    if extracted:
+                        return extracted[:max_results]
+            except Exception:
+                pass
+            return [keyword]
 
-        # Phương pháp 2: HTML scrape
+        # Case 2: Text file of URLs
+        keyword_path = Path(keyword)
+        if keyword_path.exists() and keyword_path.is_file():
+            lines = keyword_path.read_text(encoding="utf-8").splitlines()
+            loaded = [
+                line.strip() for line in lines
+                if line.strip() and not line.startswith("#")
+            ]
+            logger.info(f"[TikTok] Loaded {len(loaded)} URLs from file: {keyword}")
+            return loaded[:max_results]
+
+        # Case 3: HTML scrape search
         try:
             urls = self._search_via_html(keyword, max_results)
             logger.info(f"[TikTok] HTML scrape: {len(urls)} URLs for '{keyword}'")
         except Exception as exc:
-            logger.error(f"[TikTok] Both search methods failed for '{keyword}': {exc}")
+            logger.error(f"[TikTok] Search failed for '{keyword}': {exc}")
 
         return urls[:max_results]
 

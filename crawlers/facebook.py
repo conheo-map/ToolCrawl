@@ -35,7 +35,29 @@ class FacebookCrawler(BaseCrawler):
         super().__init__(cookies_file=cookies_file, **kwargs)
 
     def search(self, keyword: str, max_results: int = 200) -> list[str]:
-        """Tìm kiếm video/reels Facebook theo keyword."""
+        """
+        Tìm kiếm video/reels Facebook theo keyword.
+        Hỗ trợ:
+          1. Direct URL (Reel hoặc Video)
+          2. File .txt chứa danh sách URLs
+          3. Keyword tìm kiếm qua HTML scrape
+        """
+        # Case 1: Direct URL
+        if keyword.startswith("http://") or keyword.startswith("https://"):
+            return [keyword]
+
+        # Case 2: File of URLs
+        keyword_path = Path(keyword)
+        if keyword_path.exists() and keyword_path.is_file():
+            lines = keyword_path.read_text(encoding="utf-8").splitlines()
+            loaded = [
+                line.strip() for line in lines
+                if line.strip() and not line.startswith("#")
+            ]
+            logger.info(f"[Facebook] Loaded {len(loaded)} URLs from file: {keyword}")
+            return loaded[:max_results]
+
+        # Case 3: Search HTML
         urls: list[str] = []
         try:
             urls = self._search_via_html(keyword, max_results)
