@@ -6,7 +6,7 @@ Lưu trạng thái từng URL để tiếp tục khi bị ngắt.
 import json
 import threading
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 from utils.logger import get_logger
 from config import CHECKPOINT_DIR, CRAWL_DATE
 
@@ -21,13 +21,17 @@ class StateManager:
     Persist vào checkpoint file theo ngày.
     """
 
-    def __init__(self, platform: str) -> None:
+    def __init__(self, platform: str, checkpoint_file: Path | None = None) -> None:
         self._platform = platform
         self._lock = threading.Lock()
         self._done: set[str] = set()
         self._failed: dict[str, str] = {}  # url -> error_message
-        CHECKPOINT_DIR.mkdir(parents=True, exist_ok=True)
-        self._path = CHECKPOINT_DIR / f"checkpoint_{platform}_{CRAWL_DATE}.json"
+        if checkpoint_file:
+            self._path = checkpoint_file
+            self._path.parent.mkdir(parents=True, exist_ok=True)
+        else:
+            CHECKPOINT_DIR.mkdir(parents=True, exist_ok=True)
+            self._path = CHECKPOINT_DIR / f"checkpoint_{platform}_{CRAWL_DATE}.json"
         self._load()
 
     def _load(self) -> None:
@@ -72,7 +76,7 @@ class StateManager:
         data = {
             "platform": self._platform,
             "crawl_date": CRAWL_DATE,
-            "saved_at": datetime.utcnow().isoformat(),
+            "saved_at": datetime.now(timezone.utc).isoformat(),
             "done_count": len(self._done),
             "failed_count": len(self._failed),
             "done": sorted(self._done),

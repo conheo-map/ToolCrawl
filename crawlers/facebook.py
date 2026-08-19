@@ -20,6 +20,7 @@ VN_TZ = timezone(timedelta(hours=7))
 VIDEO_PATTERNS: list[tuple[re.Pattern, str]] = [
     (re.compile(r'/reel/(\d{8,})'), "reel"),
     (re.compile(r'/videos/(?:[^/?#]+/)?(\d{8,})'), "video"),
+    (re.compile(r'[?&]v=(\d{8,})'), "video"),
     (re.compile(r'"video_id"\s*:\s*"(\d{8,})"'), "video"),
     (re.compile(r'"videoId"\s*:\s*"(\d{8,})"'), "video"),
     (re.compile(r'story_fbid=(\d{8,})'), "video"),

@@ -122,11 +122,32 @@ class TikTokCrawler(BaseCrawler):
         html = html.replace(r"\/", "/").replace(r"\u002F", "/")
         seen = set()
         urls = []
+
+        # Pattern 1: standard @username/video/id
         for username, video_id in TIKTOK_VIDEO_PATTERN.findall(html):
             url = f"https://www.tiktok.com/@{username}/video/{video_id}"
             if url not in seen:
                 seen.add(url)
                 urls.append(url)
+
+        # Pattern 2: video/id direct
+        if not urls:
+            direct_ids = re.findall(r'/video/(\d{15,})', html)
+            for vid in direct_ids:
+                url = f"https://www.tiktok.com/@user/video/{vid}"
+                if url not in seen:
+                    seen.add(url)
+                    urls.append(url)
+
+        # Pattern 3: itemStruct / JSON id
+        if not urls:
+            json_ids = re.findall(r'"id"\s*:\s*"(\d{15,})"', html)
+            for vid in json_ids:
+                url = f"https://www.tiktok.com/@user/video/{vid}"
+                if url not in seen:
+                    seen.add(url)
+                    urls.append(url)
+
         return urls
 
     def _extract_item_id(self, url: str) -> str | None:
