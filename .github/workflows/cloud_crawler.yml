@@ -43,16 +43,16 @@ jobs:
           python-version: '3.12'
           cache: 'pip'
 
-      - name: 🎬 Install FFmpeg
+      - name: 🎬 Install FFmpeg & Rclone (Siêu tốc 5s)
         run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg rclone
 
-      - name: 📦 Install Fast CPU PyTorch & Dependencies
+      - name: 📦 Install Fast CPU Dependencies (Không tải CUDA 3GB)
         run: |
           pip install --upgrade pip
           pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
-          pip install -r requirements.txt
+          pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
 
       - name: ⚙️ Parse Input Parameters (Dual-Mode Engine)
         id: params
@@ -90,10 +90,9 @@ jobs:
             --keyword "${{ steps.params.outputs.keyword }}" \
             --workers ${{ steps.params.outputs.workers }}
 
-      - name: ☁️ Install & Configure Rclone
+      - name: ☁️ Configure Rclone
         if: always()
         run: |
-          sudo apt-get install -y rclone
           mkdir -p ~/.config/rclone
           cat << 'EOF' > ~/.config/rclone/rclone.conf
           ${{ secrets.RCLONE_CONFIG }}
@@ -117,7 +116,7 @@ jobs:
             if [ -f "$SUMMARY_FILE" ]; then
               ITEMS=$(grep '"items_delivered"' "$SUMMARY_FILE" | head -n 1 | awk -F: '{print $2}' | tr -d ' ,')
               HOURS=$(grep '"total_hours"' "$SUMMARY_FILE" | head -n 1 | awk -F: '{print $2}' | tr -d ' ,')
-              MSG="🎉 <b>ĐÃ CÀO XONG VÀ ĐỒNG BỘ GOOGLE DRIVE!</b>%0A• 🎯 File thành công: <b>${ITEMS:-1} file</b>%0A• ⏱️ Tổng thời lượng: <b>${HOURS:-0} giờ</b>%0A• ☁️ Google Drive: <code>ASR_Dataset/Week2/</code>"
+              MSG="🎉 <b>ĐÃ CÀO XONG VÀ ĐỒNG BỘ GOOGLE DRIVE!</b>%0A• 🎯 File thành công: <b>${ITEMS:-1} file</b>%0A• ⏱️ Tổng thời lượng: <b>${HOURS:-0} giờ</b>%0A• ☁️ Thư mục Drive: <code>Trương Duy Cường/Week2/</code>"
             else
               MSG="🎉 <b>TIẾN TRÌNH CÀO HOÀN TẤT</b>%0A• File âm thanh đã được đồng bộ lên Google Drive của bạn!"
             fi
