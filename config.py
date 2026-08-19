@@ -57,9 +57,9 @@ BACKOFF_MAX_SEC:    float = 120.0
 MAX_RETRIES:        int   = 3
 
 # ─────────────────────────────────────────────
-# yt-dlp download settings
+# yt-dlp download settings (Tối đa tốc độ đường truyền)
 # ─────────────────────────────────────────────
-YTDLP_RATE_LIMIT: int | None = 500 * 1024  # 500 KB/s in bytes (tránh lỗi type comparison)
+YTDLP_RATE_LIMIT: int | None = None  # Unlimited speed
 YTDLP_SOCKET_TIMEOUT: int = 30
 YTDLP_RETRIES: int = 3
 

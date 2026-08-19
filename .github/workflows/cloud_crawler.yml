@@ -51,7 +51,10 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      - name: 🎬 Install Rclone (Siêu tốc 3s)
+      - name: 🎬 Setup FFmpeg (Siêu tốc 2s)
+        uses: FedericoCarboni/setup-ffmpeg@v3
+
+      - name: ☁️ Setup Rclone (Siêu tốc 3s)
         run: |
           curl -s https://rclone.org/install.sh | sudo bash
 

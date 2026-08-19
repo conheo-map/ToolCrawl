@@ -7,9 +7,9 @@ librosa>=0.10.0
 soundfile>=0.12.1
 numpy>=1.24.0
 
-# AI Vocal Separator — Demucs (Meta AI) — tách giọng khỏi nhạc nền
-# Mô hình htdemucs_ft sẽ tự tải về lần đầu chạy (~100MB)
+# AI Vocal Separator — Demucs (Meta AI) + Spectral Vocal Cleaner
 demucs>=4.0.0
+noisereduce>=3.0.3
 
 # Progress bar
 tqdm>=4.66.0
