@@ -40,7 +40,8 @@ class TikTokCrawler(BaseCrawler):
 
         # Case 1: Direct URL
         if keyword.startswith("http://") or keyword.startswith("https://"):
-            if "/video/" in keyword:
+            keyword = self._resolve_url(keyword)
+            if "/video/" in keyword or "/photo/" in keyword or "vt.tiktok.com" in keyword:
                 return [keyword]
             try:
                 opts = self._build_ydl_opts(download=False)
@@ -82,10 +83,12 @@ class TikTokCrawler(BaseCrawler):
     def crawl_url(self, url: str, batch_num: int = 1) -> dict | None:
         """
         Crawl một URL TikTok:
-          1. Download + convert audio
-          2. Build record JSON theo spec
+          1. Resolve short link (vt.tiktok.com, vm.tiktok.com)
+          2. Download + convert audio
+          3. Build record JSON theo spec
         Trả về None nếu lỗi.
         """
+        url = self._resolve_url(url)
         item_id = self._extract_item_id(url)
         if not item_id:
             logger.warning(f"Cannot extract item_id from URL: {url}")
@@ -117,6 +120,20 @@ class TikTokCrawler(BaseCrawler):
     # ─────────────────────────────────────────────
     # Internal
     # ─────────────────────────────────────────────
+
+    def _resolve_url(self, url: str) -> str:
+        """Chuyển đổi short link (vt.tiktok.com) thành URL đầy đủ."""
+        if "vt.tiktok.com" in url or "vm.tiktok.com" in url or "/t/" in url:
+            try:
+                import requests
+                headers = self._proxy.get_ydl_headers()
+                resp = requests.head(url, allow_redirects=True, timeout=10, headers=headers)
+                if resp.url and resp.url != url:
+                    logger.info(f"Resolved short URL {url} -> {resp.url}")
+                    return resp.url
+            except Exception as exc:
+                logger.warning(f"Failed to resolve short URL {url}: {exc}")
+        return url
 
     def _search_via_ytdlp(self, keyword: str, max_results: int) -> list[str]:
         """Dùng yt-dlp tiktoksearch extractor."""
@@ -181,6 +198,19 @@ class TikTokCrawler(BaseCrawler):
         m = TIKTOK_VIDEO_PATTERN.search(url)
         if m:
             return f"tt_{m.group(2)}"
+        
+        # Check photo or video pattern
+        m_alt = re.search(r'/(?:video|photo)/(\d{8,19})', url)
+        if m_alt:
+            return f"tt_{m_alt.group(1)}"
+
+        # Resolve URL if not done
+        resolved = self._resolve_url(url)
+        if resolved != url:
+            m_res = TIKTOK_VIDEO_PATTERN.search(resolved) or re.search(r'/(?:video|photo)/(\d{8,19})', resolved)
+            if m_res:
+                return f"tt_{m_res.group(1 if len(m_res.groups()) == 1 else 2)}"
+
         return None
 
     def _build_record(
