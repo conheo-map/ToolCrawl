@@ -51,8 +51,11 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      - name: ☁️ Setup Rclone (3s)
-        run: curl -s https://rclone.org/install.sh | sudo bash
+      - name: 🎬 Setup FFmpeg & Rclone (10s)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          curl -s https://rclone.org/install.sh | sudo bash
 
       - name: 📦 Install Fast CPU Dependencies (Tận dụng Cache)
         run: |
