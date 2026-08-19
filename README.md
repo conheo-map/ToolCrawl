@@ -634,21 +634,66 @@ docker push <ten_tai_khoan>/audio-crawler:latest
 
 ---
 
-## 8. ĐẨY DỰ ÁN LÊN GITHUB & QUẢN LÝ MÃ NGUỒN
+## 8. CẨM NANG CÂU LỆNH GIT THÔNG DỤNG (QUẢN LÝ MÃ NGUỒN)
 
+### 🚀 8.1. Đẩy mã nguồn mới lên GitHub (Push):
+Mỗi khi bạn sửa code, chỉnh file `urls.txt` hoặc thêm tính năng mới trên máy tính:
 > 🔵 **`[PowerShell - Thư mục Dự án]`**:
-
 ```powershell
 cd C:\HocC\SaydiTool
 
+# 1. Kiểm tra các file đã thay đổi:
 git status
-git add .
-git commit -m "feat: complete Vietnamese audio crawler pipeline with AI vocal separation"
 
-# Liên kết GitHub (Chỉ làm lần đầu):
-git remote add origin https://github.com/<tai-khoan-cua-ban>/SaydiTool.git
-git branch -M main
-git push -u origin main
+# 2. Thêm tất cả thay đổi vào hàng đợi:
+git add .
+
+# 3. Đóng gói commit và ghi chú nội dung:
+git commit -m "update: cap nhat tinh nang moi"
+
+# 4. Đẩy thẳng lên GitHub:
+git push origin main
+```
+
+---
+
+### 📥 8.2. Cập nhật mã nguồn mới nhất từ GitHub về máy (Pull):
+Khi bạn đã chỉnh sửa file trên GitHub (hoặc dùng máy tính khác sửa code) và muốn đồng bộ về máy hiện tại:
+> 🔵 **`[PowerShell - Thư mục Dự án]`**:
+```powershell
+cd C:\HocC\SaydiTool
+
+# Kéo toàn bộ code mới nhất từ GitHub về máy:
+git pull origin main
+```
+
+---
+
+### 📦 8.3. Tải toàn bộ dự án về máy tính mới từ đầu (Clone):
+Khi bạn sang một máy tính mới hoàn toàn và muốn lấy toàn bộ dự án về:
+> 🔵 **`[PowerShell - Thư mục Bất kỳ trên máy mới]`**:
+```powershell
+# Chuyển vào ổ đĩa muốn lưu dự án (Ví dụ C:\):
+cd C:\
+
+# Tải toàn bộ dự án về máy:
+git clone https://github.com/conheo-map/ToolCrawl.git
+
+# Chuyển vào thư mục vừa tải về:
+cd ToolCrawl
+```
+
+---
+
+### ⏪ 8.4. Hủy bỏ thay đổi khi bị sửa nhầm / lỗi (Restore / Reset):
+Nếu bạn lỡ sửa code bị lỗi và muốn quay về phiên bản sạch sẽ gần nhất:
+> 🔵 **`[PowerShell - Thư mục Dự án]`**:
+```powershell
+# Hủy tất cả thay đổi chưa commit, khôi phục code như cũ:
+git restore .
+
+# Xem lịch sử 5 commit gần nhất:
+git log --oneline -n 5
 ```
 
 ---
