@@ -89,7 +89,9 @@ jobs:
             echo "workers=${{ github.event.inputs.workers }}" >> $GITHUB_OUTPUT
           fi
 
-      - name: 🚀 Run Audio Crawler Pipeline with Hybrid AI
+      - name: 🚀 Run Audio Crawler Pipeline (☁️ Cloud Fast Mode)
+        env:
+          CLOUD_MODE: "1"
         run: |
           python main.py \
             --platform ${{ steps.params.outputs.platform }} \

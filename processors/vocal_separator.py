@@ -1,11 +1,17 @@
 """
 processors/vocal_separator.py — Bóc tách và làm sạch giọng nói từ audio có nhạc nền.
 
-Hỗ trợ 2 phương pháp (Dual-Engine):
-  1. Engine AI (Demucs - Meta Research): Tách track Vocals bằng Deep Learning (khi có demucs)
-  2. Engine Spectral (Librosa + NoiseReduce): Tách Harmonic-Percussive và Spectral Gating (luôn khả dụng, nhẹ, 0MB disk)
+Hỗ trợ 2 chế độ tự động:
+  🏠 LOCAL mode  (CLOUD_MODE không được set):
+     → Engine 3 tầng siêu mạnh: HPSS + SpectralGating (97%) + High-pass Filter 80Hz
+     → Chất lượng cực cao, tách hoàn toàn nhạc nền, phù hợp cho dataset ASR chuẩn
+
+  ☁️  CLOUD mode (set CLOUD_MODE=1 trong môi trường):
+     → Engine 1 tầng siêu tốc: SpectralGating (90%) + High-pass Filter 80Hz
+     → Chạy trong ~1 giây trên máy chủ cloud, đủ sạch cho ASR pipeline
 """
 
+import os
 import subprocess
 import shutil
 import tempfile
@@ -16,6 +22,9 @@ logger = get_logger("vocal_separator")
 
 DEFAULT_MODEL = "htdemucs_ft"
 FALLBACK_MODEL = "htdemucs"
+
+# Tự động phát hiện môi trường chạy
+IS_CLOUD = os.environ.get("CLOUD_MODE", "0") == "1"
 
 
 def is_demucs_available() -> bool:
@@ -39,6 +48,7 @@ def is_noisereduce_available() -> bool:
 class VocalSeparator:
     """
     Bóc tách và làm sạch giọng nói khỏi nhạc nền.
+    Tự động chọn engine phù hợp theo môi trường chạy (Local vs Cloud).
     """
 
     def __init__(self, model: str = DEFAULT_MODEL) -> None:
@@ -46,10 +56,12 @@ class VocalSeparator:
         self._has_demucs = is_demucs_available()
         self._has_spectral = is_noisereduce_available()
 
-        if self._has_demucs:
-            logger.info(f"VocalSeparator: Demucs AI engine ACTIVE (model: {model})")
+        if IS_CLOUD:
+            logger.info("🌐 CLOUD MODE: Dùng engine tách giọng siêu tốc 1 tầng (~1s/file)")
+        elif self._has_demucs:
+            logger.info(f"🏠 LOCAL MODE: Demucs AI engine ACTIVE (model: {model})")
         elif self._has_spectral:
-            logger.info("VocalSeparator: Spectral Vocal Cleaner engine ACTIVE (Librosa + NoiseReduce)")
+            logger.info("🏠 LOCAL MODE: Tách giọng 3 tầng HPSS+SpectralGating+HighPass ACTIVE")
         else:
             logger.warning("VocalSeparator: No separation engine available. Install noisereduce or demucs.")
 
@@ -59,28 +71,35 @@ class VocalSeparator:
 
     def separate(self, audio_path: Path, timeout: int = 300) -> bool:
         """
-        Bóc tách / làm sạch giọng nói khỏi nhạc nền và ghi đè lại file audio.
+        Bóc tách giọng nói khỏi nhạc nền và ghi đè lại file audio.
+        Tự động chọn engine Local (cao) hoặc Cloud (nhanh).
         """
         if not audio_path.exists():
             logger.error(f"Audio file not found: {audio_path}")
             return False
 
-        # Ưu tiên Engine 1: Demucs AI nếu có
+        # ☁️ CLOUD MODE: dùng engine 1 tầng siêu tốc
+        if IS_CLOUD:
+            if self._has_spectral:
+                return self._separate_cloud_fast(audio_path)
+            return False
+
+        # 🏠 LOCAL MODE: ưu tiên Demucs AI, rồi mới dùng 3 tầng Spectral
         if self._has_demucs:
             try:
                 success = self._separate_demucs(audio_path, timeout=timeout)
                 if success:
                     return True
-                logger.warning(f"Demucs failed for {audio_path.name}, falling back to Spectral cleaner...")
+                logger.warning(f"Demucs failed for {audio_path.name}, falling back to 3-layer Spectral...")
             except Exception as exc:
-                logger.warning(f"Demucs exception: {exc}, falling back to Spectral cleaner...")
+                logger.warning(f"Demucs exception: {exc}, falling back to 3-layer Spectral...")
 
-        # Engine 2: Spectral Vocal Cleaner (Luôn hoạt động, nhanh, không tốn disk)
         if self._has_spectral:
             return self._separate_spectral(audio_path)
 
         logger.warning(f"No separation method available for: {audio_path.name}")
         return False
+
 
     # ─────────────────────────────────────────
     # Engine 1: Demucs AI
@@ -122,7 +141,60 @@ class VocalSeparator:
             return self._convert_to_wav(src=vocals_file, dst=audio_path)
 
     # ─────────────────────────────────────────
-    # Engine 2: Spectral Vocal Cleaner
+    # Engine 0: Cloud Fast (1 tầng, ~1s/file)
+    # ─────────────────────────────────────────
+
+    def _separate_cloud_fast(self, audio_path: Path) -> bool:
+        """
+        ☁️ CLOUD MODE — Engine siêu tốc 1 tầng:
+          SpectralGating 90% + High-pass Filter 80Hz
+          Mục tiêu: chạy nhanh nhất có thể (~1s) trên CPU máy chủ cloud
+          Chất lượng: tốt, đủ dùng cho ASR speech recognition pipeline
+        """
+        import librosa
+        import soundfile as sf
+        import noisereduce as nr
+        import numpy as np
+
+        try:
+            logger.info(f"[☁️ Cloud Fast] Removing BGM: {audio_path.name}")
+            y, sr = librosa.load(str(audio_path), sr=16000, mono=True)
+
+            # Single-pass spectral gating — nhanh, hiệu quả 90%
+            y_clean = nr.reduce_noise(
+                y=y, sr=sr,
+                stationary=False,
+                prop_decrease=0.90,
+                time_constant_s=0.5,
+                n_fft=1024,             # Nhỏ hơn = nhanh hơn
+            )
+
+            # High-pass filter 80Hz — loại bass và kick drum
+            from scipy.signal import butter, sosfilt
+            sos = butter(4, 80.0 / (sr / 2), btype='high', output='sos')
+            y_clean = sosfilt(sos, y_clean)
+
+            # Normalize
+            max_amp = np.max(np.abs(y_clean))
+            if max_amp > 0:
+                y_clean = y_clean / max_amp * 0.95
+
+            tmp_out = audio_path.parent / f"_tmp_{audio_path.name}"
+            sf.write(str(tmp_out), y_clean.astype(np.float32), sr, subtype="PCM_16")
+
+            if tmp_out.exists() and tmp_out.stat().st_size > 1000:
+                shutil.move(str(tmp_out), str(audio_path))
+                logger.info(f"[☁️ Cloud Fast] Done: {audio_path.name}")
+                return True
+            tmp_out.unlink(missing_ok=True)
+            return False
+
+        except Exception as exc:
+            logger.error(f"[☁️ Cloud Fast] Failed: {exc}")
+            return False
+
+    # ─────────────────────────────────────────
+    # Engine 2: Spectral Vocal Cleaner (3 tầng - LOCAL)
     # ─────────────────────────────────────────
 
     def _separate_spectral(self, audio_path: Path) -> bool:
