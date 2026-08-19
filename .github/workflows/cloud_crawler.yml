@@ -1,4 +1,4 @@
-name: Cloud Audio Crawler to Google Drive
+﻿name: Cloud Audio Crawler to Google Drive
 
 on:
   # 1. Chế độ Tự Động 24/7: Cứ mỗi 4 tiếng tự cào theo từ khóa/danh sách link
@@ -48,15 +48,15 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      - name: 📦 Install Dependencies
+      - name: 📦 Install Fast CPU PyTorch & Dependencies
         run: |
           pip install --upgrade pip
+          pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
           pip install -r requirements.txt
 
       - name: ⚙️ Parse Input Parameters (Dual-Mode Engine)
         id: params
         run: |
-          # ─── TRƯỜNG HỢP A: Bạn gửi link từ Telegram (ƯU TIÊN HÀNG ĐẦU) ───
           if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
             URL="${{ github.event.client_payload.url }}"
             CHAT_ID="${{ github.event.client_payload.chat_id }}"
@@ -71,23 +71,16 @@ jobs:
             echo "keyword=$URL" >> $GITHUB_OUTPUT
             echo "chat_id=$CHAT_ID" >> $GITHUB_OUTPUT
             echo "workers=2" >> $GITHUB_OUTPUT
-            echo "mode=Telegram On-Demand"
-
-          # ─── TRƯỜNG HỢP B: Chạy tự động định kỳ 24/7 theo lịch ───
           elif [ "${{ github.event_name }}" = "schedule" ]; then
             echo "platform=facebook" >> $GITHUB_OUTPUT
             echo "keyword=học tiếng Việt" >> $GITHUB_OUTPUT
             echo "chat_id=" >> $GITHUB_OUTPUT
             echo "workers=4" >> $GITHUB_OUTPUT
-            echo "mode=Auto Schedule 24/7"
-
-          # ─── TRƯỜNG HỢP C: Kích hoạt thủ công từ giao diện Web/App ───
           else
             echo "platform=${{ github.event.inputs.platform }}" >> $GITHUB_OUTPUT
             echo "keyword=${{ github.event.inputs.keyword }}" >> $GITHUB_OUTPUT
             echo "chat_id=" >> $GITHUB_OUTPUT
             echo "workers=${{ github.event.inputs.workers }}" >> $GITHUB_OUTPUT
-            echo "mode=Manual Web Trigger"
           fi
 
       - name: 🚀 Run Audio Crawler Pipeline with Hybrid AI
@@ -102,7 +95,9 @@ jobs:
         run: |
           sudo apt-get install -y rclone
           mkdir -p ~/.config/rclone
-          echo "${{ secrets.RCLONE_CONFIG }}" > ~/.config/rclone/rclone.conf
+          cat << 'EOF' > ~/.config/rclone/rclone.conf
+          ${{ secrets.RCLONE_CONFIG }}
+          EOF
 
       - name: 📤 Sync Audio Dataset to Google Drive
         if: always()
@@ -122,13 +117,13 @@ jobs:
             if [ -f "$SUMMARY_FILE" ]; then
               ITEMS=$(grep '"items_delivered"' "$SUMMARY_FILE" | head -n 1 | awk -F: '{print $2}' | tr -d ' ,')
               HOURS=$(grep '"total_hours"' "$SUMMARY_FILE" | head -n 1 | awk -F: '{print $2}' | tr -d ' ,')
-              MSG="🎉 *ĐÃ CÀO XONG VÀ ĐỒNG BỘ GOOGLE DRIVE!*%0A• 🎯 File thành công: *$ITEMS file*%0A• ⏱️ Tổng thời lượng: *$HOURS giờ*%0A• ☁️ Google Drive: \`ASR_Dataset/Week2/\`"
+              MSG="🎉 <b>ĐÃ CÀO XONG VÀ ĐỒNG BỘ GOOGLE DRIVE!</b>%0A• 🎯 File thành công: <b>${ITEMS:-1} file</b>%0A• ⏱️ Tổng thời lượng: <b>${HOURS:-0} giờ</b>%0A• ☁️ Google Drive: <code>ASR_Dataset/Week2/</code>"
             else
-              MSG="⚠️ *TIẾN TRÌNH CÀO HOÀN TẤT*%0A• File đã được đồng bộ lên Google Drive."
+              MSG="🎉 <b>TIẾN TRÌNH CÀO HOÀN TẤT</b>%0A• File âm thanh đã được đồng bộ lên Google Drive của bạn!"
             fi
             
             curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
               -d "chat_id=${CHAT_ID}" \
               -d "text=${MSG}" \
-              -d "parse_mode=Markdown"
+              -d "parse_mode=HTML"
           fi
