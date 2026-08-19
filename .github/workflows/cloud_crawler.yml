@@ -1,6 +1,7 @@
 ﻿name: Cloud Audio Crawler to Google Drive
 
 on:
+  # 1. Kích hoạt thủ công qua giao diện Web/App GitHub
   workflow_dispatch:
     inputs:
       platform:
@@ -12,13 +13,17 @@ on:
           - tiktok
           - facebook
       keyword:
-        description: 'Keyword hoặc urls.txt'
+        description: 'Link video, link kênh, hoặc urls.txt'
         required: true
         default: 'urls.txt'
       workers:
         description: 'Số luồng chạy song song'
         required: true
         default: '4'
+
+  # 2. Kích hoạt tự động từ Telegram Bot qua Webhook API
+  repository_dispatch:
+    types: [telegram_crawl]
 
 jobs:
   crawl-and-sync:
@@ -44,19 +49,73 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: ⚙️ Parse Input Parameters
+        id: params
+        run: |
+          # Kiểm tra nếu kích hoạt từ Telegram repository_dispatch
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            URL="${{ github.event.client_payload.url }}"
+            CHAT_ID="${{ github.event.client_payload.chat_id }}"
+            
+            # Tự động nhận diện platform
+            if [[ "$URL" == *"tiktok.com"* ]]; then
+              PLATFORM="tiktok"
+            else
+              PLATFORM="facebook"
+            fi
+            
+            echo "platform=$PLATFORM" >> $GITHUB_OUTPUT
+            echo "keyword=$URL" >> $GITHUB_OUTPUT
+            echo "chat_id=$CHAT_ID" >> $GITHUB_OUTPUT
+            echo "workers=2" >> $GITHUB_OUTPUT
+          else
+            # Kích hoạt thủ công workflow_dispatch
+            echo "platform=${{ github.event.inputs.platform }}" >> $GITHUB_OUTPUT
+            echo "keyword=${{ github.event.inputs.keyword }}" >> $GITHUB_OUTPUT
+            echo "chat_id=" >> $GITHUB_OUTPUT
+            echo "workers=${{ github.event.inputs.workers }}" >> $GITHUB_OUTPUT
+          fi
+
       - name: 🚀 Run Audio Crawler Pipeline
         run: |
           python main.py \
-            --platform ${{ github.event.inputs.platform }} \
-            --keyword "${{ github.event.inputs.keyword }}" \
-            --workers ${{ github.event.inputs.workers }}
+            --platform ${{ steps.params.outputs.platform }} \
+            --keyword "${{ steps.params.outputs.keyword }}" \
+            --workers ${{ steps.params.outputs.workers }}
 
       - name: ☁️ Install & Configure Rclone
+        if: always()
         run: |
           sudo apt-get install -y rclone
           mkdir -p ~/.config/rclone
           echo "${{ secrets.RCLONE_CONFIG }}" > ~/.config/rclone/rclone.conf
 
       - name: 📤 Sync Audio Dataset to Google Drive
+        if: always()
         run: |
-          rclone copy Week2/ gdrive:ASR_Dataset/Week2/ --progress
+          if [ -d "Week2" ]; then
+            rclone copy Week2/ gdrive:ASR_Dataset/Week2/ --progress
+          fi
+
+      - name: 📩 Send Telegram Notification
+        if: always()
+        run: |
+          CHAT_ID="${{ steps.params.outputs.chat_id }}"
+          BOT_TOKEN="${{ secrets.TELEGRAM_BOT_TOKEN }}"
+          
+          if [ -n "$CHAT_ID" ] && [ -n "$BOT_TOKEN" ]; then
+            # Đọc summary.json nếu có
+            SUMMARY_FILE=$(find Week2 -name "summary.json" | head -n 1)
+            if [ -f "$SUMMARY_FILE" ]; then
+              ITEMS=$(grep '"items_delivered"' "$SUMMARY_FILE" | head -n 1 | awk -F: '{print $2}' | tr -d ' ,')
+              HOURS=$(grep '"total_hours"' "$SUMMARY_FILE" | head -n 1 | awk -F: '{print $2}' | tr -d ' ,')
+              MSG="🎉 *ĐÃ CÀO XONG VÀ ĐỒNG BỘ GOOGLE DRIVE!*%0A• 🎯 File thành công: *$ITEMS file*%0A• ⏱️ Tổng thời lượng: *$HOURS giờ*%0A• ☁️ Google Drive: \`ASR_Dataset/Week2/\`"
+            else
+              MSG="⚠️ *TIẾN TRÌNH CÀO HOÀN TẤT*%0A• Vui lòng kiểm tra log trên GitHub Actions hoặc Google Drive."
+            fi
+            
+            curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
+              -d "chat_id=${CHAT_ID}" \
+              -d "text=${MSG}" \
+              -d "parse_mode=Markdown"
+          fi
