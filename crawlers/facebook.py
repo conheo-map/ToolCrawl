@@ -49,10 +49,10 @@ class FacebookCrawler(BaseCrawler):
         # Case 2: File of URLs
         keyword_path = Path(keyword)
         if keyword_path.exists() and keyword_path.is_file():
-            lines = keyword_path.read_text(encoding="utf-8").splitlines()
+            lines = keyword_path.read_text(encoding="utf-8-sig").splitlines()
             loaded = [
-                line.strip() for line in lines
-                if line.strip() and not line.startswith("#")
+                line.strip().lstrip('\ufeff') for line in lines
+                if line.strip() and not line.strip().lstrip('\ufeff').startswith("#")
             ]
             logger.info(f"[Facebook] Loaded {len(loaded)} URLs from file: {keyword}")
             return loaded[:max_results]
