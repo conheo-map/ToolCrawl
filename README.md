@@ -271,14 +271,16 @@ https://www.facebook.com/watch?v=1039665577514847
 
 | Hoàn cảnh thực tế | Cách chạy tối ưu nhất | Đặc điểm & Thời gian khởi động |
 |---|---|---|
-| 🛌 **Khi bạn đi ra ngoài, đi làm, đi chơi, đi ngủ (Tắt máy tính)** | 👉 **Cách 4: Cào 100% Cloud (GitHub Actions + Cache)** | **Tắt máy tính 100%**. Gửi link qua Telegram, GitHub Actions nạp Cache siêu tốc, cào và đẩy thẳng Google Drive! |
-| 💻 **Khi bạn đang ngồi làm việc trên máy tính** | 👉 **Cách 3: Chạy Telegram Bot Local (`python bot.py`)** | **Chạy tức thì 0.01s** (không cần tải hay cài lại bất kỳ thứ gì vì máy đã có sẵn `.venv`). |
-| ⚡ **Khi muốn gõ lệnh cào trực tiếp từ khóa / kênh** | 👉 **Cách 1: Chạy trực tiếp CLI (`python main.py`)** | Cào nhanh theo từ khóa hoặc kênh chỉ bằng 1 dòng lệnh trên PowerShell. |
-| 📦 **Khi muốn cào hàng loạt lớn (100 - 1000 video)** | 👉 **Dán vào `urls.txt` (Dùng Cách 1 hoặc Cách 4)** | Máy chủ chỉ khởi động **1 LẦN DUY NHẤT** cho toàn bộ 1000 video, không phải cài lại từng lần! |
+| 💻 **Khi đang ngồi máy tính làm việc** | 👉 **Cách 1: Chạy trực tiếp qua PowerShell (CLI)** | Khởi động tức thì trong 0.01s. Tự do tùy chỉnh số luồng (`--workers`), vùng miền (`--region`), số video (`--max-results`). |
+| 📱 **Khi muốn gửi link nhanh từ điện thoại** | 👉 **Cách 2: Chạy Telegram Bot Local (`python bot.py`)** | Bật bot trên máy tính, gửi 1 link hoặc danh sách 50-100 link từ điện thoại vào Telegram. Xử lý cực nhanh 5-10s/video. |
+| 📦 **Khi muốn chạy ngầm độc lập** | 👉 **Cách 3: Chạy đóng gói qua Docker** | Chạy ngầm trong môi trường container cô lập, không sợ ảnh hưởng hệ điều hành. |
+| 🛌 **Khi đi ra ngoài / đi ngủ (Tắt máy tính)** | 👉 **Cách 4: Cào 100% Cloud (GitHub Actions + Google Drive)** | **TẮT MÁY TÍNH 100%**. Gửi link qua Telegram hoặc để Cloud tự động cào 24/7 và đẩy thẳng vào Google Drive. |
 
-### 🏆 CHIẾN LƯỢC TỐI ƯU NHẤT ĐỂ ĐẠT CHỈ TIÊU 15 GIỜ/NGÀY (500 GIỜ / 7 TUẦN)
+---
 
-Để đạt mục tiêu **15 giờ audio/ngày (~300 - 500 video sạch)** mà không tốn công tìm kiếm thủ công từng link, hãy áp dụng **Chiến lược Kết hợp 3 Trụ cột**:
+### 🏆 CHIẾN LƯỢC TỐI ƯU ĐẠT CHỈ TIÊU 15 GIỜ/NGÀY (500 GIỜ / 7 TUẦN)
+
+Để đạt mục tiêu **15 giờ audio/ngày (~300 - 500 video sạch)** chuyên đề **Tin tức & Học online**, hãy áp dụng **Chiến lược Kết hợp 3 Trụ cột**:
 
 ```text
                ┌─────────────────────────────────────────────────────────────┐
@@ -288,21 +290,21 @@ https://www.facebook.com/watch?v=1039665577514847
          ┌────────────────────────────────────┼────────────────────────────────────┐
          ▼                                    ▼                                    ▼
 ┌──────────────────┐               ┌──────────────────┐               ┌──────────────────┐
-│   1. TỰ ĐỘNG     │               │   2. BẮN LINK    │               │   3. CÀO BATCH   │
-│   CLOUD 24/7     │               │    TELEGRAM      │               │   BẰNG URLS.TXT  │
+│   1. TỰ ĐỘNG     │               │   2. BẮN LINK    │               │   3. CÀO TRỌN GÓI│
+│   CLOUD 24/7     │               │    TELEGRAM      │               │   KÊNH & URLS.TXT│
 ├──────────────────┤               ├──────────────────┤               ├──────────────────┤
-│ Máy chủ tự cào   │               │ Thấy video hay,  │               │ Gom 50-100 link  │
-│ 50-100 video mới │               │ copy link gửi    │               │ dán vào file     │
-│ từ các kênh lớn  │               │ vào bot trên     │               │ urls.txt và chạy │
-│ (VTV24, Podcast) │               │ điện thoại       │               │ 1 lệnh duy nhất  │
+│ Máy chủ tự cào   │               │ Thấy video hay,  │               │ Cào 100-200 video│
+│ 50-100 video mới │               │ copy link gửi    │               │ từ các kênh lớn  │
+│ từ các kênh lớn  │               │ vào bot trên     │               │ (VTV24, Học Mãi) │
+│ (VTV24, Học Mãi) │               │ điện thoại       │               │ hoặc file urls   │
 └──────────────────┘               └──────────────────┘               └──────────────────┘
 ```
 
 #### 🌟 Danh Sách Kênh Nguồn Chuyên Đề TIN TỨC & HỌC ONLINE trên TikTok (100% Speech Sạch):
-| Kênh TikTok | Thể loại | Đặc điểm âm thanh | Câu lệnh cào hàng loạt (PowerShell) |
+| Kênh TikTok | Thể loại | Đặc điểm âm thanh | Câu lệnh cào trọn gói (PowerShell) |
 |---|---|---|---|
 | `@vtv24news` | 📰 Thời sự VTV24 | Giọng đọc chuẩn Bắc / Nam, tin tức chính luận | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --max-results 100 --workers 4` |
-| `@dantri.com.vn` | 📰 Báo Dân Trí | Bản tin 24h, phóng sự xã hội, giọng chuẩn | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@dantri.com.vn" --max-results 100 --workers 4` |
+| `@dantri.com.vn` | 📰 Báo Dân Trí | Bản tin 24h, phóng sự xã hội, giọng chuẩn | `python main.py --platform tiktok --keyword "@dantri.com.vn" --max-results 100 --workers 4` |
 | `@vnexpress.official` | 📰 Báo VnExpress | Tin tức thời sự, kinh tế, đời sống | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vnexpress.official" --max-results 100 --workers 4` |
 | `@thanhnien.official` | 📰 Báo Thanh Niên | Bản tin nhanh, phóng sự điều tra | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@thanhnien.official" --max-results 100 --workers 4` |
 | `@tuoitreonline` | 📰 Báo Tuổi Trẻ | Tin tức tổng hợp, phóng sự xã hội | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@tuoitreonline" --max-results 100 --workers 4` |
@@ -313,71 +315,7 @@ https://www.facebook.com/watch?v=1039665577514847
 
 ---
 
-### 🎯 HƯỚNG DẪN CHI TIẾT: THAY ĐỔI TỪ KHÓA & NỀN TẢNG CÀO DỮ LIỆU
-
-Tùy vào hoàn cảnh sử dụng, bạn có thể thay đổi nền tảng (`tiktok` / `facebook`) và từ khóa tìm kiếm theo các cách sau:
-
----
-
-#### ⏰ 1. Khi cào tự động 24/7 trên Cloud (Mỗi 4 tiếng / lần)
-Hệ thống Cloud sẽ tự động chạy định kỳ theo lịch. Bạn có thể chỉ định nền tảng và từ khóa (hoặc file `urls.txt`) bằng cách mở file [`.github/workflows/cloud_crawler.yml`](file:///c:/HocC/SaydiTool/.github/workflows/cloud_crawler.yml) tại **dòng 99 - 100**:
-
-```yaml
-          elif [ "${{ github.event_name }}" = "schedule" ]; then
-            echo "platform=tiktok" >> $GITHUB_OUTPUT       # Chọn: "tiktok" hoặc "facebook"
-            echo "keyword=urls.txt" >> $GITHUB_OUTPUT      # Chọn: "urls.txt" hoặc từ khóa như "ẩm thực Hà Nội"
-```
-*(Sau khi chỉnh sửa, chỉ cần chạy `git add .`, `git commit -m "update"` và `git push origin main` để máy chủ Cloud áp dụng lịch mới).*
-
----
-
-#### 🌐 2. Khi bấm nút chạy thủ công trên GitHub Web
-1. Mở trình duyệt vào [github.com/conheo-map/ToolCrawl/actions](https://github.com/conheo-map/ToolCrawl/actions).
-2. Chọn workflow **`Cloud Audio Crawler to Google Drive`** ở cột bên trái.
-3. Bấm vào nút **`Run workflow`** ở góc phải:
-   - **Nền tảng (`platform`):** Chọn `tiktok` hoặc `facebook` trong menu thả xuống.
-   - **Từ khóa (`keyword`):** Nhập từ khóa bất kỳ (VD: `review quán ăn`), link video, link kênh, hoặc `urls.txt`.
-   - **Số worker (`workers`):** Nhập số luồng (mặc định là `4`).
-4. Bấm nút màu xanh **`Run workflow`**.
-
----
-
-#### 📝 3. Khi cào danh sách link hàng loạt qua file `urls.txt`
-1. Mở file [`urls.txt`](file:///c:/HocC/SaydiTool/urls.txt) trong thư mục dự án `C:\HocC\SaydiTool\urls.txt`.
-2. Dán các đường link video cần cào vào (mỗi dòng 1 link).
-3. Chạy lệnh:
-   ```powershell
-   python main.py --platform tiktok --keyword "urls.txt" --workers 4
-   ```
-
----
-
-#### 📱 4. Khi gửi link từ điện thoại qua Telegram Bot
-Hệ thống tự động phát hiện nền tảng theo đường link:
-- Link chứa `tiktok.com` hoặc `vt.tiktok.com` ➔ Tự động nhận diện là **TikTok**.
-- Link chứa `facebook.com` hoặc `fb.watch` ➔ Tự động nhận diện là **Facebook**.
-- Bạn có thể gửi 1 link hoặc gửi danh sách nhiều link trong 1 tin nhắn (mỗi link 1 dòng).
-
----
-
-#### 💻 5. Khi chạy dòng lệnh trực tiếp trên máy tính (CLI)
-Truyền trực tiếp qua 2 tham số `--platform` và `--keyword`:
-```powershell
-# 🏆 1. Cào TRỌN GÓI 1 KÊNH TIKTOK LỚN (Tự động bóc tách hàng trăm video):
-python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --max-results 100 --workers 4
-python main.py --platform tiktok --keyword "https://www.tiktok.com/@hocmai.vn" --max-results 100 --workers 4
-python main.py --platform tiktok --keyword "@dantri.com.vn" --max-results 100 --workers 4
-
-# 📝 2. Cào DANH SÁCH LINK từ file urls.txt:
-python main.py --platform tiktok --keyword "urls.txt" --workers 4
-
-# 🔗 3. Cào 1 LINK VIDEO TIKTOK CỤ THỂ:
-python main.py --platform tiktok --keyword "https://www.tiktok.com/@kienthuckinhte28/video/7675666420574735634"
-```
-
----
-
-### 👉 Cách 1: Chạy trực tiếp bằng Python trên máy tính — *Khuyên dùng khi ngồi máy*
+### 👉 Cách 1: Chạy trực tiếp qua PowerShell trên máy tính (Local CLI)
 
 > 🔵 **`[PowerShell - Thư mục Dự án]`**:
 
@@ -385,19 +323,49 @@ python main.py --platform tiktok --keyword "https://www.tiktok.com/@kienthuckinh
 cd C:\HocC\SaydiTool
 .\.venv\Scripts\Activate.ps1
 
-# 📰 Cào trọn gói kênh Thời sự VTV24:
+# 📰 1. Cào TRỌN GÓI 1 KÊNH TIKTOK (Tự động quét hàng trăm video):
 python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --max-results 100 --workers 4
-
-# 🎓 Cào trọn gói kênh Học Mãi Online:
 python main.py --platform tiktok --keyword "https://www.tiktok.com/@hocmai.vn" --max-results 100 --workers 4
 
-# 📝 Cào toàn bộ danh sách trong file urls.txt:
+# 📝 2. Cào TOÀN BỘ DANH SÁCH LINK trong file urls.txt:
 python main.py --platform tiktok --keyword "urls.txt" --workers 4
+
+# 🔗 3. Cào 1 LINK VIDEO CỤ THỂ:
+python main.py --platform tiktok --keyword "https://www.tiktok.com/@kienthuckinhte28/video/7675666420574735634"
+
+# 🌐 4. Cào FACEBOOK REELS / VIDEOS theo từ khóa:
+python main.py --platform facebook --keyword "bản tin thời sự" --max-results 50 --workers 4
+
+# 🏷️ 5. TÙY CHỌN GÁN NHÃN VÙNG MIỀN (--region):
+# Các giá trị: auto (tự động - mặc định), northern (Bắc), southern (Nam), central (Trung), mixed (Hỗn hợp)
+python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --region northern --workers 4
 ```
 
 ---
 
-### 👉 Cách 2: Chạy đóng gói bằng Docker Container
+### 👉 Cách 2: Chạy Telegram Bot nhận lệnh trên máy tính (Local Bot)
+
+Bật bot chạy trên máy tính ở nhà, sau đó cầm điện thoại ra ngoài gửi link vào Telegram.
+
+> 🔵 **`[PowerShell - Thư mục Dự án]`**:
+
+```powershell
+cd C:\HocC\SaydiTool
+.\.venv\Scripts\Activate.ps1
+
+# Chạy bot với Token của bạn (lấy từ @BotFather):
+python bot.py --token "7942718104:AAHOQ1s8W69kXlC5G7E9c90pB9s8F-xyz"
+```
+
+> 📱 **`[Telegram trên Điện thoại]`**:
+- **Gửi 1 link:** Lướt TikTok/Facebook ➔ Bấm *Chia sẻ* ➔ *Sao chép liên kết* ➔ Dán vào bot.
+- **Gửi danh sách 50-100 link:** Dán toàn bộ link trong 1 tin nhắn (mỗi dòng 1 link) gửi vào bot.
+- **Xem tiến độ & tổng giờ cào:** Gõ lệnh `/stats`.
+- **Khởi động lại bot:** Gõ lệnh `/restart`.
+
+---
+
+### 👉 Cách 3: Chạy đóng gói bằng Docker Container
 
 > 🔵 **`[PowerShell - Thư mục Dự án]`**:
 
@@ -425,28 +393,6 @@ docker compose logs -f
 # Dừng:
 docker compose down
 ```
-
----
-
-### 👉 Cách 3: Chạy Telegram Bot nhận lệnh trên máy tính
-
-Cho phép bạn bật bot chạy ẩn trên máy tính ở nhà, sau đó cầm điện thoại ra ngoài gửi link vào Telegram.
-
-> 🔵 **`[PowerShell - Thư mục Dự án]`**:
-
-```powershell
-cd C:\HocC\SaydiTool
-.\.venv\Scripts\Activate.ps1
-
-# Chạy bot với Token lấy từ @BotFather:
-python bot.py --token "YOUR_TELEGRAM_BOT_TOKEN"
-```
-
-> 📱 **`[Telegram trên Điện thoại]`**:
-- Mở Telegram trên điện thoại, tìm bot vừa tạo -> Bấm **Start**.
-- Lướt TikTok/Facebook thấy video hay -> Bấm **Chia sẻ ➔ Sao chép liên kết** -> Gửi vào Bot.
-- Bot tự động cào, tách nhạc và gửi tin nhắn báo kết quả về điện thoại!
-- Gõ `/stats` để xem tổng số giờ cào được hôm nay.
 
 ---
 
