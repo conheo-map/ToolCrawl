@@ -252,6 +252,16 @@ class TikTokCrawler(BaseCrawler):
 
         return urls
 
+    def _build_ydl_opts(self, download: bool = True, output_dir: Path | None = None) -> dict:
+        """Inject TikTok mobile core API hostname để không bị lỗi hydration / webpage request."""
+        opts = super()._build_ydl_opts(download=download, output_dir=output_dir)
+        opts["extractor_args"] = {
+            "tiktok": {
+                "api_hostname": ["api22-core-c-useast1a.tiktokv.com", "api16-normal-c-useast1a.tiktokv.com"]
+            }
+        }
+        return opts
+
     def _extract_item_id(self, url: str) -> str | None:
         """Extract item_id dạng tt_<video_id> từ URL."""
         m = TIKTOK_VIDEO_PATTERN.search(url)
