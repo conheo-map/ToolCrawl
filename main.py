@@ -85,6 +85,10 @@ def parse_args() -> argparse.Namespace:
         help="Bỏ qua bước lọc nhạc nền",
     )
     parser.add_argument(
+        "--skip-drive-sync", action="store_true",
+        help="Bỏ qua bước tự động đồng bộ Google Drive sau khi cào",
+    )
+    parser.add_argument(
         "--dry-run", action="store_true",
         help="Chỉ search và in URLs, không download",
     )
@@ -347,7 +351,10 @@ def main() -> None:
     # ─────────────────────────────────────────────
     # Step 4: Tự động đồng bộ lên Google Drive
     # ─────────────────────────────────────────────
-    sync_to_gdrive(args.week)
+    if not args.skip_drive_sync:
+        sync_to_gdrive(args.week)
+    else:
+        logger.info("ℹ️ Bỏ qua bước đồng bộ Google Drive (--skip-drive-sync).")
 
 
 def sync_to_gdrive(week_number: int) -> None:
