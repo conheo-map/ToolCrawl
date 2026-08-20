@@ -879,16 +879,20 @@ rclone sync C:\HocC\SaydiTool\Week2 gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAl
 
 ---
 
-### 🛑 9.3. Cách Dừng / Hủy Quá Trình Upload Google Drive Giữa Chừng
+### 🛑 9.3. Cách Dừng & Upload Thủ Công Lên Google Drive
 
-* **Cách 1: Dừng khi đang upload trực tiếp:** Bấm tổ hợp phím **`Ctrl + C`** trên cửa sổ PowerShell.
-* **Cách 2: Dừng tiến trình upload chạy ngầm:**
+* **Dừng khi đang upload trực tiếp:** Bấm tổ hợp phím **`Ctrl + C`** trên cửa sổ PowerShell.
+* **Dừng tiến trình upload chạy ngầm:**
   ```powershell
   Stop-Process -Name rclone -Force
   ```
-* **Cách 3: Cào lưu trên máy mà KHÔNG tự động upload lên Drive:**
+* **Cào lưu trên máy mà KHÔNG tự động upload lên Drive:**
   ```powershell
   python main.py --platform tiktok --keyword "urls.txt" --skip-drive-sync --workers 4
+  ```
+* **📤 LỆNH UPLOAD THỦ CÔNG TOÀN BỘ DỮ LIỆU LÊN GOOGLE DRIVE (Tốc độ cao 8 luồng):**
+  ```powershell
+  rclone copy Week2/ "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/" --transfers 8 --drive-chunk-size 32M --progress
   ```
 
 ---
@@ -905,6 +909,7 @@ rclone sync C:\HocC\SaydiTool\Week2 gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAl
 | Cào toàn bộ 1 kênh TikTok | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --workers 4` |
 | Cào kèm gán nhãn vùng miền cố định | `python main.py --platform tiktok --keyword "urls.txt" --region northern --workers 4` |
 | Cào lưu máy, tắt tự up Google Drive | `python main.py --platform tiktok --keyword "urls.txt" --skip-drive-sync --workers 4` |
+| **Upload thủ công toàn bộ lên Google Drive** | `rclone copy Week2/ "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/" --transfers 8 --drive-chunk-size 32M --progress` |
 | Dừng ngay tiến trình upload Drive | `Stop-Process -Name rclone -Force` |
 | Chạy Telegram Bot nhận link từ xa | `python bot.py --token "YOUR_TOKEN"` |
 | Thử lại các URL bị lỗi | `python retry_failed.py --platform tiktok` |
