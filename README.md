@@ -294,6 +294,26 @@ https://www.tiktok.com/@kienthuckinhte28/video/7675666420574735634
 
 ---
 
+### 🔍 4.3. Công Cụ Tra Cứu Tình Trạng 1.000 Link & Xuất JSON cho AI (`tools/check_urls.py`):
+
+Bất kỳ lúc nào bạn muốn kiểm tra xem trong file `urls.txt` đã cào được bao nhiêu video, còn thiếu bao nhiêu và xuất danh sách ID dạng JSON để đưa qua AI phân tích/lọc:
+
+```powershell
+# 1. Xem báo cáo tổng quan trên terminal (Đã tải / Đang chờ / Lỗi):
+python tools/check_urls.py
+
+# 2. Xuất toàn bộ mảng JSON chứa các Video ID đã tải xong (đưa qua AI):
+python tools/check_urls.py --export-done-ids done_ids.json
+
+# 3. Xuất riêng danh sách các link CHƯA TẢI vào 1 file txt mới để chạy tiếp:
+python tools/check_urls.py --export-pending remaining_urls.txt
+
+# 4. Xuất báo cáo chi tiết toàn bộ ra file JSON:
+python tools/check_urls.py --export-json status_report.json
+```
+
+---
+
 ## 5. QUY TRÌNH VẬN HÀNH CRAWLER (4 CÁCH CHẠY LINH HOẠT)
 
 ### 💼 BẢNG LỰA CHỌN CÁCH CHẠY PHÙ HỢP VỚI HOÀN CẢNH CỦA BẠN:
