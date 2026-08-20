@@ -61,12 +61,20 @@ class TikTokCrawler(BaseCrawler):
         keyword_path = Path(keyword)
         if keyword_path.exists() and keyword_path.is_file():
             lines = keyword_path.read_text(encoding="utf-8-sig").splitlines()
-            loaded = [
+            loaded_entries = [
                 line.strip().lstrip('\ufeff') for line in lines
                 if line.strip() and not line.strip().lstrip('\ufeff').startswith("#")
             ]
-            logger.info(f"[TikTok] Loaded {len(loaded)} URLs from file: {keyword}")
-            return loaded[:max_results]
+            expanded_urls = []
+            for entry in loaded_entries:
+                if entry.startswith("@") or ("tiktok.com/@" in entry and "/video/" not in entry):
+                    ch_vids = self._extract_channel_videos(entry, max_results=30)
+                    expanded_urls.extend(ch_vids)
+                else:
+                    expanded_urls.append(entry)
+            
+            logger.info(f"[TikTok] Loaded {len(loaded_entries)} entries from {keyword} -> expanded to {len(expanded_urls)} video URLs")
+            return expanded_urls[:max_results]
 
         # Case 3: HTML scrape search
         try:
