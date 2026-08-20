@@ -112,7 +112,7 @@ class TelegramCrawlerBot:
             logger.debug(f"getUpdates error: {exc}")
         return []
 
-    DEFAULT_WEBHOOK_URL = "https://saydi-telegram-bridge.truongduycuong133.workers.dev"
+    DEFAULT_WEBHOOK_URL = "https://saydi-telegram-bridge.cuctranthu38.workers.dev"
 
     def _restore_webhook(self) -> None:
         """Tự động kích hoạt lại Webhook Cloud khi tắt bot trên máy tính."""
