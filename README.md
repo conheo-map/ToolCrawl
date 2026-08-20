@@ -47,29 +47,31 @@ SaydiTool/
 │   ├── __init__.py
 │   ├── base.py                 # BaseCrawler: tải video, convert WAV, retry, backoff, temp cookies
 │   ├── facebook.py             # FacebookCrawler: bóc tách regex Reels & Videos
-│   └── tiktok.py               # TikTokCrawler: cào URL, channel, cookie impersonation (Chrome 131)
+│   └── tiktok.py               # TikTokCrawler: cào URL, kênh lớn, multi-channel urls.txt, API hostname bypass
 ├── processors/                 # [Module Xử Lý Âm Thanh - AI Engineering]
 │   ├── __init__.py
 │   ├── audio_converter.py      # FFmpeg WAV 16kHz Mono converter & ffprobe validation
 │   ├── music_detector.py       # Bộ phát hiện nhạc nền 2 tầng (Metadata Heuristic + Librosa)
-│   └── vocal_separator.py      # Dual-Engine AI Vocal Separator (Demucs + Spectral Noise Gating)
+│   ├── vocal_separator.py      # Dual-Engine AI Vocal Separator (Demucs + Spectral Noise Gating)
+│   └── region_classifier.py    # Bộ gán nhãn phương ngữ 4 miền: Bắc, Trung, Nam, Mixed (Heuristic NLP)
 ├── storage/                    # [Module Quản Lý Dữ Liệu & Lưu Trữ]
 │   ├── __init__.py
 │   ├── dedup.py                # Thread-safe ID deduplication (chống cào trùng lặp)
-│   ├── metadata_writer.py      # Ghi metadata.json & summary.json chuẩn JSON schema
+│   ├── metadata_writer.py      # Ghi metadata.json & summary.json chuẩn JSON schema (Auto-append)
 │   └── state_manager.py        # Checkpoint lưu trạng thái resume khi gặp sự cố
 ├── utils/                      # [Module Tiện Ích Chung]
 │   ├── __init__.py
 │   ├── logger.py               # Ghi log đa màu sắc, chuẩn UTF-8 Windows
 │   ├── proxy_manager.py        # Quản lý User-Agent rotation & Proxy list
 │   └── rate_limiter.py         # Điều tiết tốc độ request với Random Jitter & Backoff
-├── tests/                      # [Bộ Kiểm Thử Tự Động] 11 unit tests bao phủ 100% core logic
+├── tests/                      # [Bộ Kiểm Thử Tự Động] 16 unit tests bao phủ 100% core logic
 │   ├── test_audio_converter.py
 │   ├── test_bot.py
 │   ├── test_crawler_parsing.py
 │   ├── test_dedup.py
 │   ├── test_metadata_writer.py
 │   ├── test_music_detector.py
+│   ├── test_region_classifier.py
 │   ├── test_state_manager.py
 │   └── test_vocal_separator.py
 ├── docs/                       # [Tài Liệu Toàn Tập]
