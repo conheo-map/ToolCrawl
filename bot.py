@@ -69,7 +69,20 @@ class TelegramCrawlerBot:
         self._music_detector = MusicDetector(enabled=cfg.MUSIC_FILTER_ENABLED)
         self._vocal_separator = VocalSeparator()
 
+        # Tự động gỡ Webhook Cloud để máy tính Local có thể nhận tin nhắn
+        self._clear_webhook()
+
         logger.info("Telegram Crawler Bot initialized successfully!")
+
+    def _clear_webhook(self) -> None:
+        """Tự động chuyển tiếp tin nhắn về máy Local."""
+        try:
+            url = f"{self._api_url}/deleteWebhook"
+            resp = requests.get(url, timeout=10)
+            if resp.status_code == 200:
+                logger.info("⚡ Đã chuyển quyền điều khiển Telegram về máy tính Local!")
+        except Exception as exc:
+            logger.debug(f"Clear webhook notice: {exc}")
 
     def send_message(self, chat_id: int | str, text: str, parse_mode: str = "Markdown") -> None:
         """Gửi tin nhắn phản hồi về Telegram của người dùng."""
