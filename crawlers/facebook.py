@@ -169,19 +169,23 @@ class FacebookCrawler(BaseCrawler):
         else:
             posted_at = None
 
-        try:
-            rel_path = audio_path.relative_to(BASE_OUTPUT_DIR)
-            audio_rel = str(rel_path).replace("\\", "/")
-        except ValueError:
-            audio_rel = str(audio_path)
+        # audio_path theo chuẩn spec
+        audio_rel = f"audio/{CRAWL_DATE}/{item_id}.wav"
+
+        # Phân loại vùng miền (northern / southern / central / mixed)
+        from processors.region_classifier import RegionClassifier
+        title_text = info_dict.get("title", "") or ""
+        desc_text = info_dict.get("description", "") or ""
+        uploader = info_dict.get("uploader", "") or ""
+        region = RegionClassifier.classify(title=title_text, description=desc_text, channel_name=uploader)
 
         return {
             "item_id": item_id,
             "platform": "facebook",
             "platform_video_id": video_id,
             "video_url": url,
-            "title": info_dict.get("title", "") or "",
-            "description": info_dict.get("description", "") or "",
+            "title": title_text,
+            "description": desc_text,
             "posted_at": posted_at,
             "language_raw": "vi",
             "audio_path": audio_rel,
@@ -189,4 +193,5 @@ class FacebookCrawler(BaseCrawler):
             "crawl_batch": make_batch_id("facebook", batch_num),
             "crawled_at": datetime.now(VN_TZ).isoformat(timespec="seconds"),
             "platform_meta": platform_meta,
+            "language_region": region,
         }

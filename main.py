@@ -59,6 +59,11 @@ def parse_args() -> argparse.Namespace:
         help="Số video tối đa cần tìm kiếm",
     )
     parser.add_argument(
+        "--region", choices=["auto", "northern", "southern", "central", "mixed"],
+        default="auto",
+        help="Gán nhãn vùng miền: northern (Bắc), southern (Nam), central (Trung), mixed (Hỗn hợp), auto (tự động)",
+    )
+    parser.add_argument(
         "--workers", type=int, default=cfg.MAX_WORKERS,
         help="Số worker thread song song",
     )
@@ -95,6 +100,7 @@ def process_url(
     vocal_separator: VocalSeparator,
     batch_num: int,
     dry_run: bool = False,
+    forced_region: str = "auto",
 ) -> str:
     """
     Xử lý một URL qua Pipeline Hybrid 3 Tầng:
@@ -126,6 +132,10 @@ def process_url(
             return "error"
 
         item_id = record["item_id"]
+
+        # Override language_region nếu người dùng truyền flag --region
+        if forced_region and forced_region != "auto":
+            record["language_region"] = forced_region
 
         # Check dedup
         if dedup.is_seen(item_id):
@@ -178,7 +188,7 @@ def process_url(
         state.mark_done(url)
 
         status_tag = "[AI-cleaned]" if record.get("vocal_separated") else "[clean]"
-        logger.info(f"OK {status_tag}: {item_id} ({record['duration_seconds']:.1f}s)")
+        logger.info(f"OK {status_tag} [{record.get('language_region', 'mixed')}]: {item_id} ({record['duration_seconds']:.1f}s)")
         return "done"
 
     except Exception as exc:
@@ -288,7 +298,7 @@ def main() -> None:
             executor.submit(
                 process_url,
                 url, crawler, dedup, state, writer, music_detector, vocal_separator,
-                args.batch_num, False,
+                args.batch_num, False, args.region,
             ): url
             for url in urls
         }

@@ -107,50 +107,82 @@ SaydiTool/
 - **Thời lượng:** `5.0s` đến `600.0s` (10 phút).
 - **Tên file:** `{item_id}.wav` (VD: `tt_7675666420574735634.wav`, `fb_1410384157640503.wav`).
 
-### 📄 Cấu trúc `metadata.json`:
+### 📁 4.1. Cấu Trúc Thư Mục
+```text
+Week{i}/{Date}/
+├── audio/
+│   ├── tt_7412345678901234567.wav
+│   └── ...
+├── metadata.json
+└── summary.json
+```
+
+### 📄 4.2. Format JSON Cho Mỗi Audio File (`metadata.json`)
 ```json
 [
   {
-    "item_id": "tt_7675666420574735634",
+    "item_id": "tt_7412345678901234567",
     "platform": "tiktok",
-    "platform_video_id": "7675666420574735634",
-    "video_url": "https://www.tiktok.com/@kienthuckinhte28/video/7675666420574735634",
-    "title": "Từ một tờ tiền 500.000 vnđ...",
-    "description": "Từ một tờ tiền 500.000 vnđ...",
-    "posted_at": "2026-08-19T16:35:41+07:00",
+    "platform_video_id": "7412345678901234567",
+    "video_url": "https://www.tiktok.com/@channelname/video/7412345678901234567",
+    "title": "Review quán ăn Hà Nội",
+    "description": "full caption + #hashtag",
+    "posted_at": "2026-08-10T13:22:05+07:00",
     "language_raw": "vi",
-    "audio_path": "audio/tt_7675666420574735634.wav",
-    "duration_seconds": 101.542,
-    "crawl_batch": "tt_20260819_01",
-    "crawled_at": "2026-08-19T18:50:25+07:00",
+    "audio_path": "audio/2026-08-17/tt_7412345678901234567.wav",
+    "duration_seconds": 187.44,
+    "crawl_batch": "tt_20260817_01",
+    "crawled_at": "2026-08-17T09:14:00+07:00",
     "platform_meta": {
-      "music_is_original": false,
+      "music_is_original": true,
       "is_duet": false,
       "is_stitch": false,
-      "has_platform_captions": false
+      "has_platform_captions": true
     },
-    "vocal_separated": true,
-    "clean_method": "demucs_ai"
+    "language_region": "northern"
   }
 ]
 ```
 
-### 📊 Cấu trúc `summary.json`:
+> 🏷️ **4 Nhãn Vùng Miền (`language_region`):**
+> - **`northern`** (Bắc): Giọng / địa danh / từ ngữ miền Bắc (Hà Nội, Hải Phòng, bún chả, nhé, ạ, ...)
+> - **`southern`** (Nam): Giọng / địa danh / từ ngữ miền Nam & Miền Tây (Sài Gòn, Cần Thơ, hén, nghen, thiệt, ...)
+> - **`central`** (Trung): Giọng / địa danh / từ ngữ miền Trung (Huế, Đà Nẵng, chi, mô, tê, răng, rứa, ...)
+> - **`mixed`** (Hỗn hợp): Không rõ vùng miền cụ thể hoặc nội dung tổng hợp toàn quốc.
+
+#### 🔹 Trường `platform_meta` đối với Facebook:
+```json
+"platform_meta": {
+  "content_type": "reel",
+  "has_platform_captions": true
+}
+```
+
+#### 🔹 Trường `platform_meta` đối với TikTok:
+```json
+"platform_meta": {
+  "music_is_original": true,
+  "is_duet": false,
+  "is_stitch": false,
+  "has_platform_captions": true
+}
+```
+
+### 📊 4.3. Format JSON Báo Cáo Tổng Hợp (`summary.json`)
 ```json
 {
   "platform": "tiktok",
-  "crawl_date": "2026-08-19",
-  "batch_count": 1,
+  "crawl_date": "2026-08-10",
+  "batch_count": 6,
   "audio_spec": {
     "sample_rate": 16000,
     "channels": 1,
     "format": "wav_pcm_s16le"
   },
-  "items_delivered": 100,
-  "unique_item_ids": 100,
-  "vocal_separated_count": 88,
-  "total_hours": 3.25,
-  "error_count": 0
+  "items_delivered": 74300,
+  "unique_item_ids": 73180,
+  "total_hours": 3480.5,
+  "error_count": 2610
 }
 ```
 
