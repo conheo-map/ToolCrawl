@@ -317,15 +317,18 @@ https://www.facebook.com/watch?v=1039665577514847
 
 ### 👉 Cách 1: Chạy trực tiếp qua PowerShell trên máy tính (Local CLI)
 
+> 💡 **Cơ chế Cào Kênh TikTok Hàng Loạt:** Hệ thống sử dụng **TikTok Embed Scraper** kết hợp **API Hostname Bypass** (`api22-core-c-useast1a.tiktokv.com`) để tự động bóc tách và tải hàng loạt video mới nhất từ profile mà không bị TikTok chặn IP.
+
 > 🔵 **`[PowerShell - Thư mục Dự án]`**:
 
 ```powershell
 cd C:\HocC\SaydiTool
 .\.venv\Scripts\Activate.ps1
 
-# 📰 1. Cào TRỌN GÓI 1 KÊNH TIKTOK (Tự động quét hàng trăm video):
+# 📰 1. Cào TRỌN GÓI 1 KÊNH TIKTOK (Tự động quét hàng trăm video từ kênh):
 python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --max-results 100 --workers 4
 python main.py --platform tiktok --keyword "https://www.tiktok.com/@hocmai.vn" --max-results 100 --workers 4
+python main.py --platform tiktok --keyword "@dantri.com.vn" --max-results 100 --workers 4
 
 # 📝 2. Cào TOÀN BỘ DANH SÁCH LINK trong file urls.txt:
 python main.py --platform tiktok --keyword "urls.txt" --workers 4
