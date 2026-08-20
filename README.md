@@ -682,23 +682,35 @@ https://api.telegram.org/bot<TELEGRAM_BOT_TOKEN>/setWebhook?url=<URL_WORKER_VỪ
 
 ---
 
-## 6. PIPELINE HYBRID 3 TẦNG: TÁCH GIỌNG & KHỬ NHẠC AI
+## 6. PIPELINE HYBRID 4 TẦNG & BỘ TĂNG CƯỜNG GIỌNG NÓI CHUYÊN SÂU (ASR SPEECH ENHANCER)
 
-Để tận dụng **90% video TikTok dính nhạc nền**, hệ thống tự động xử lý qua 3 tầng:
+Để giải quyết triệt để 3 vấn đề phổ biến của video mạng xã hội: **(1) Dính nhạc nền nhỏ, (2) Nói không rõ chữ / bị đục tiếng, (3) Nói đoạn to đoạn nhỏ**, hệ thống tự động xử lý qua 4 tầng:
 
 ```mermaid
 graph TD
     A[Video TikTok / Facebook Tải Về] --> B[FFmpeg Convert WAV 16kHz Mono]
     B --> C{MusicDetector: Kiểm tra Nhạc Nền?}
-    C -- Âm thanh Gốc Sạch --> D[Tầng 1: Lưu thẳng audio/ + vocal_separated: false]
+    C -- Âm thanh Gốc Sạch --> D[Tầng 1: Fast Path]
     C -- Có Nhạc Nền / Beat --> E[Tầng 2: VocalSeparator Tách Giọng AI]
-    E -- Tách Thành Công --> F[Lưu audio/ + vocal_separated: true]
-    E -- Lỗi Tách Giọng --> G[Tầng 3: Chuyển sang quarantine/]
+    E -- Tách Thành Công --> D
+    E -- Lỗi / Nhạc lấn át 100% --> G[Tầng 3: Chuyển sang quarantine/]
+    D --> H[Tầng 4: ASR Speech Enhancer - Làm Rõ Chữ & Cân Bằng Âm Lượng]
+    H --> I[Lưu vào Week2/audio/*.wav + Ghi metadata.json]
 ```
 
-### ⚙️ Dual-Engine trong VocalSeparator:
+### ⚙️ 1. Dual-Engine Tách Nhạc trong VocalSeparator:
 1. **Engine 1 (Demucs AI - Meta Research):** Dùng mô hình Deep Learning `htdemucs` bóc tách riêng biệt track Vocals & Accompaniment.
-2. **Engine 2 (Spectral Vocal Cleaner - Librosa + NoiseReduce):** Phân tách Harmonic-Percussive và Spectral Gating. Xử lý cực nhanh trong **1-2 giây**, chiếm **0 MB** ổ đĩa.
+2. **Engine 2 (Spectral Vocal Cleaner - Librosa + NoiseReduce):** Phân tách Harmonic-Percussive và Spectral Gating 3 lớp. Xử lý cực nhanh trong **1-2 giây**, chiếm **0 MB** ổ đĩa.
+
+---
+
+### 🎙️ 2. Bộ Tăng Cường Âm Thanh Giọng Nói Chuyên Sâu (ASR Speech Enhancer):
+Ngay sau khi tách giọng, mỗi file audio tiếp tục được xử lý qua chuỗi bộ lọc DSP chuẩn phòng thu:
+* **Khử tiếng ầm ù & dải bass nhạc nền nhỏ (<80Hz & >7.6kHz):** Cắt bỏ triệt để dải tần siêu trầm của tiếng beat/bass còn sót lại và tiếng hiss xì xào kỹ thuật số.
+* **Khử đục / ồm ồm phòng (De-mud 300Hz EQ):** Triệt tiêu hiện tượng dội âm phòng (room resonance/boxiness) ở dải 250Hz - 350Hz.
+* **Làm rõ phụ âm & phát âm sắc nét (Speech Presence Boost +2.5dB @ 3kHz):** Tăng cường dải tần formant 2.5kHz - 4.0kHz (dải quyết định độ rõ phụ âm tiếng Việt như *t, c, s, x, ch, tr, kh, th...*), giúp mô hình AI dễ nhận dạng âm vị (phonemes).
+* **Cân bằng tự động đoạn nói to / nói nhỏ (Dynamic Audio Normalizer - `dynaudnorm`):** Thuật toán quét từng khung thời gian 120ms, tự động khuếch đại các câu người nói thì thầm hoặc nói nhỏ lên, đồng thời ghìm các đoạn hét/nói to xuống một mức đồng đều mượt mà mà không làm biến dạng giọng nói!
+* **Chuẩn hóa âm lượng EBU R128 (`loudnorm -16 LUFS`):** Đảm bảo 100% tất cả các file audio trong dataset có chung một mức âm lượng phát chuẩn xác.
 
 ---
 

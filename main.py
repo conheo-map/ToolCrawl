@@ -21,6 +21,7 @@ from crawlers.tiktok import TikTokCrawler
 from crawlers.facebook import FacebookCrawler
 from processors.music_detector import MusicDetector
 from processors.vocal_separator import VocalSeparator
+from processors.audio_enhancer import SpeechEnhancer
 from storage.dedup import DedupStore
 from storage.metadata_writer import MetadataWriter
 from storage.state_manager import StateManager
@@ -101,12 +102,14 @@ def process_url(
     batch_num: int,
     dry_run: bool = False,
     forced_region: str = "auto",
+    speech_enhancer: SpeechEnhancer | None = None,
 ) -> str:
     """
-    Xử lý một URL qua Pipeline Hybrid 3 Tầng:
+    Xử lý một URL qua Pipeline Hybrid 3 Tầng & Speech Enhancement:
       Tầng 1: Không có nhạc → lưu thẳng vào audio/ (fast path)
       Tầng 2: Có nhạc + Demucs khả dụng → AI tách giọng → lưu vào audio/
       Tầng 3: Có nhạc + Demucs không có → quarantine
+      Tầng 4: Tăng cường độ rõ phụ âm, khử tạp âm nền & cân bằng âm lượng to/nhỏ (Dynamic Leveling)
 
     Trả về: 'done' | 'separated' | 'skipped' | 'rejected' | 'error'
     """
@@ -180,6 +183,10 @@ def process_url(
                 state.mark_done(url)
                 return "rejected"
         # ─────────────────────────────────────────────────
+
+        # ─── Tăng cường âm thanh ASR: Làm rõ chữ, lọc tạp âm & cân bằng âm lượng to/nhỏ ───
+        if speech_enhancer:
+            speech_enhancer.enhance(audio_path)
 
         # Ghi metadata — xóa internal field trước khi ghi
         record.pop("_track", None)
@@ -255,6 +262,7 @@ def main() -> None:
     )
     music_detector = MusicDetector(enabled=not args.skip_music_filter)
     vocal_separator = VocalSeparator()
+    speech_enhancer = SpeechEnhancer()
 
     if vocal_separator.available:
         logger.info("Hybrid Pipeline: Demucs AI vocal separator ENABLED")
@@ -263,6 +271,7 @@ def main() -> None:
             "Hybrid Pipeline: Demucs not installed — music videos will be quarantined. "
             "Install with: pip install demucs"
         )
+    logger.info("ASR Speech Enhancer: Dynamic volume leveling & consonant clarity filter ACTIVE")
 
     # ─────────────────────────────────────────────
     # Step 1: Search
@@ -298,7 +307,7 @@ def main() -> None:
             executor.submit(
                 process_url,
                 url, crawler, dedup, state, writer, music_detector, vocal_separator,
-                args.batch_num, False, args.region,
+                args.batch_num, False, args.region, speech_enhancer,
             ): url
             for url in urls
         }

@@ -28,6 +28,7 @@ from crawlers.tiktok import TikTokCrawler
 from crawlers.facebook import FacebookCrawler
 from processors.music_detector import MusicDetector
 from processors.vocal_separator import VocalSeparator
+from processors.audio_enhancer import SpeechEnhancer
 from storage.dedup import DedupStore
 from storage.metadata_writer import MetadataWriter
 from storage.state_manager import StateManager
@@ -58,6 +59,9 @@ class TelegramCrawlerBot:
         self._dedup = DedupStore()
         self._tt_state = StateManager(platform="tiktok")
         self._fb_state = StateManager(platform="facebook")
+        self._music_detector = MusicDetector()
+        self._vocal_separator = VocalSeparator()
+        self._speech_enhancer = SpeechEnhancer()
         self._writer = MetadataWriter(
             metadata_file=cfg.METADATA_FILE,
             summary_file=cfg.SUMMARY_FILE,
@@ -245,6 +249,9 @@ class TelegramCrawlerBot:
                 else:
                     record["vocal_separated"] = False
                     record["clean_method"] = "original"
+
+                # Tăng cường âm thanh: Khử tạp âm, tăng độ rõ chữ & cân bằng âm lượng
+                self._speech_enhancer.enhance(audio_path)
 
                 # Ghi Metadata & Checkpoint
                 record.pop("_track", None)
