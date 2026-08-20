@@ -311,9 +311,13 @@ class TikTokCrawler(BaseCrawler):
         # Phân loại vùng miền (northern / southern / central / mixed)
         from processors.region_classifier import RegionClassifier
         title_text = info_dict.get("title", "") or ""
-        desc_text = info_dict.get("description", "") or ""
-        uploader = info_dict.get("uploader", "") or ""
-        region = RegionClassifier.classify(title=title_text, description=desc_text, channel_name=uploader)
+        uploader = info_dict.get("uploader", "") or info_dict.get("uploader_id", "") or info_dict.get("channel", "") or ""
+        region = RegionClassifier.classify(
+            title=title_text,
+            description=desc_text,
+            channel_name=uploader,
+            audio_path=audio_path,
+        )
 
         return {
             "item_id": item_id,
