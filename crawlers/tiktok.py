@@ -38,27 +38,24 @@ class TikTokCrawler(BaseCrawler):
         """
         urls: list[str] = []
 
-        # Case 1: Direct URL
+        # Case 1: Channel URL hoặc @username
+        if keyword.startswith("@") or ("tiktok.com/@" in keyword and "/video/" not in keyword):
+            channel_urls = self._extract_channel_videos(keyword, max_results)
+            if channel_urls:
+                logger.info(f"[TikTok] Extracted {len(channel_urls)} videos from channel: {keyword}")
+                return channel_urls[:max_results]
+
+        # Case 2: Direct Video URL
         if keyword.startswith("http://") or keyword.startswith("https://"):
-            keyword = self._resolve_url(keyword)
-            if "/video/" in keyword or "/photo/" in keyword or "vt.tiktok.com" in keyword:
-                return [keyword]
-            try:
-                opts = self._build_ydl_opts(download=False)
-                opts["extract_flat"] = True
-                with yt_dlp.YoutubeDL(opts) as ydl:
-                    info = ydl.extract_info(keyword, download=False) or {}
-                    entries = info.get("entries", [])
-                    extracted = [
-                        e.get("url") or e.get("webpage_url")
-                        for e in entries
-                        if e.get("url") or e.get("webpage_url")
-                    ]
-                    if extracted:
-                        return extracted[:max_results]
-            except Exception:
-                pass
-            return [keyword]
+            resolved = self._resolve_url(keyword)
+            if "/video/" in resolved or "/photo/" in resolved or "vt.tiktok.com" in resolved:
+                return [resolved]
+            # Nếu là link kênh hoặc playlist khác
+            channel_urls = self._extract_channel_videos(resolved, max_results)
+            if channel_urls:
+                logger.info(f"[TikTok] Extracted {len(channel_urls)} videos from URL: {keyword}")
+                return channel_urls[:max_results]
+            return [resolved]
 
         # Case 2: Text file of URLs
         keyword_path = Path(keyword)
@@ -134,6 +131,47 @@ class TikTokCrawler(BaseCrawler):
             except Exception as exc:
                 logger.warning(f"Failed to resolve short URL {url}: {exc}")
         return url
+
+    def _extract_channel_videos(self, channel_input: str, max_results: int = 100) -> list[str]:
+        """
+        Trích xuất danh sách URLs video từ trang profile kênh TikTok (@username).
+        Quét trực tiếp video IDs được nhúng trong HTML profile.
+        """
+        import requests
+        m = re.search(r'tiktok\.com/@([a-zA-Z0-9._-]+)', channel_input)
+        if m:
+            username = m.group(1)
+        elif channel_input.startswith("@"):
+            username = channel_input.lstrip("@")
+        else:
+            return []
+
+        profile_url = f"https://www.tiktok.com/@{username}"
+        headers = self._proxy.get_ydl_headers()
+        
+        try:
+            r = requests.get(profile_url, headers=headers, timeout=15)
+            if r.status_code != 200:
+                logger.warning(f"[TikTok] Could not fetch channel page: HTTP {r.status_code}")
+                return []
+            
+            html = r.text
+            vids = set()
+            
+            # 1. Tìm pattern /video/(\d+)
+            for vid in re.findall(r'/video/(\d{15,})', html):
+                vids.add(vid)
+                
+            # 2. Tìm tất cả 19-digit video IDs trong JSON nhúng
+            for vid in re.findall(r'(\d{19})', html):
+                vids.add(vid)
+                
+            urls = [f"https://www.tiktok.com/@{username}/video/{vid}" for vid in vids]
+            logger.info(f"[TikTok] Scraped {len(urls)} video URLs from @{username}")
+            return urls[:max_results]
+        except Exception as exc:
+            logger.warning(f"[TikTok] Failed to scrape channel @{username}: {exc}")
+            return []
 
     def _search_via_ytdlp(self, keyword: str, max_results: int) -> list[str]:
         """Dùng yt-dlp tiktoksearch extractor."""

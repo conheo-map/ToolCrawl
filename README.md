@@ -363,15 +363,16 @@ Hệ thống tự động phát hiện nền tảng theo đường link:
 #### 💻 5. Khi chạy dòng lệnh trực tiếp trên máy tính (CLI)
 Truyền trực tiếp qua 2 tham số `--platform` và `--keyword`:
 ```powershell
-# Cào Tin tức TikTok:
-python main.py --platform tiktok --keyword "tin tức thời sự hôm nay" --max-results 100 --workers 4
+# 🏆 1. Cào TRỌN GÓI 1 KÊNH TIKTOK LỚN (Tự động bóc tách hàng trăm video):
+python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --max-results 100 --workers 4
+python main.py --platform tiktok --keyword "https://www.tiktok.com/@hocmai.vn" --max-results 100 --workers 4
+python main.py --platform tiktok --keyword "@dantri.com.vn" --max-results 100 --workers 4
 
-# Cào Học online TikTok:
-python main.py --platform tiktok --keyword "học online hiệu quả" --max-results 100 --workers 4
+# 📝 2. Cào DANH SÁCH LINK từ file urls.txt:
+python main.py --platform tiktok --keyword "urls.txt" --workers 4
 
-# Cào toàn bộ kênh TikTok chính thống:
-python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --max-results 200 --workers 4
-python main.py --platform tiktok --keyword "https://www.tiktok.com/@hocmai.vn" --max-results 200 --workers 4
+# 🔗 3. Cào 1 LINK VIDEO TIKTOK CỤ THỂ:
+python main.py --platform tiktok --keyword "https://www.tiktok.com/@kienthuckinhte28/video/7675666420574735634"
 ```
 
 ---
@@ -384,17 +385,14 @@ python main.py --platform tiktok --keyword "https://www.tiktok.com/@hocmai.vn" -
 cd C:\HocC\SaydiTool
 .\.venv\Scripts\Activate.ps1
 
-# Cào từ file danh sách urls.txt (Chuyên đề Tin tức & Học online):
-python main.py --platform tiktok --keyword "urls.txt" --cookies cookies_tiktok.txt --workers 4
+# 📰 Cào trọn gói kênh Thời sự VTV24:
+python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --max-results 100 --workers 4
 
-# Cào Tin tức TikTok theo từ khóa:
-python main.py --platform tiktok --keyword "tin tức 24h mới nhất" --max-results 100 --workers 4
+# 🎓 Cào trọn gói kênh Học Mãi Online:
+python main.py --platform tiktok --keyword "https://www.tiktok.com/@hocmai.vn" --max-results 100 --workers 4
 
-# Cào Học online TikTok theo từ khóa:
-python main.py --platform tiktok --keyword "phương pháp học online" --max-results 100 --workers 4
-
-# Cào toàn bộ video từ 1 kênh TikTok cụ thể:
-python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --cookies cookies_tiktok.txt --workers 4
+# 📝 Cào toàn bộ danh sách trong file urls.txt:
+python main.py --platform tiktok --keyword "urls.txt" --workers 4
 ```
 
 ---
