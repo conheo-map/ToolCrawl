@@ -111,10 +111,38 @@ jobs:
         env:
           CLOUD_MODE: "1"
         run: |
-          python main.py \
-            --platform ${{ steps.params.outputs.platform }} \
-            --keyword "${{ steps.params.outputs.keyword }}" \
-            --workers ${{ steps.params.outputs.workers }}
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "⏰ [SCHEDULE CRON] Đang chạy cào tự động định kỳ 24/7..."
+            
+            # 1. Ưu tiên cào file urls.txt nếu có link mới
+            if [ -f "urls.txt" ]; then
+              echo "📝 [1/2] Cào danh sách link từ urls.txt..."
+              python main.py --platform tiktok --keyword "urls.txt" --workers 4 || true
+            fi
+            
+            # 2. Cào tự động các kênh tin tức / podcast lớn để đảm bảo đủ 15 giờ/ngày
+            CHANNELS=(
+              "https://www.tiktok.com/@vtv24news"
+              "https://www.tiktok.com/@vietcetera"
+              "https://www.tiktok.com/@vietsuccess"
+              "https://www.tiktok.com/@schannelvn"
+              "review quán ăn Hà Nội"
+              "ẩm thực Sài Gòn"
+              "học tiếng Việt"
+            )
+            
+            # Chọn ngẫu nhiên hoặc chạy lần lượt các nguồn chất lượng
+            for SOURCE in "${CHANNELS[@]}"; do
+              echo "🎙️ [2/2] Cào nguồn chất lượng cao: $SOURCE"
+              python main.py --platform tiktok --keyword "$SOURCE" --max-results 30 --workers 4 || true
+            done
+          else
+            # Chạy khi nhận link Telegram hoặc bấm nút thủ công
+            python main.py \
+              --platform ${{ steps.params.outputs.platform }} \
+              --keyword "${{ steps.params.outputs.keyword }}" \
+              --workers ${{ steps.params.outputs.workers }}
+          fi
 
       - name: ☁️ Configure Rclone
         if: always()

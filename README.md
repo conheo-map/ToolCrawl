@@ -276,6 +276,38 @@ https://www.facebook.com/watch?v=1039665577514847
 | ⚡ **Khi muốn gõ lệnh cào trực tiếp từ khóa / kênh** | 👉 **Cách 1: Chạy trực tiếp CLI (`python main.py`)** | Cào nhanh theo từ khóa hoặc kênh chỉ bằng 1 dòng lệnh trên PowerShell. |
 | 📦 **Khi muốn cào hàng loạt lớn (100 - 1000 video)** | 👉 **Dán vào `urls.txt` (Dùng Cách 1 hoặc Cách 4)** | Máy chủ chỉ khởi động **1 LẦN DUY NHẤT** cho toàn bộ 1000 video, không phải cài lại từng lần! |
 
+### 🏆 CHIẾN LƯỢC TỐI ƯU NHẤT ĐỂ ĐẠT CHỈ TIÊU 15 GIỜ/NGÀY (500 GIỜ / 7 TUẦN)
+
+Để đạt mục tiêu **15 giờ audio/ngày (~300 - 500 video sạch)** mà không tốn công tìm kiếm thủ công từng link, hãy áp dụng **Chiến lược Kết hợp 3 Trụ cột**:
+
+```text
+               ┌─────────────────────────────────────────────────────────────┐
+               │         CHIẾN LƯỢC KẾT HỢP ĐẠT 15 GIỜ/NGÀY                  │
+               └──────────────────────────────┬──────────────────────────────┘
+                                              │
+         ┌────────────────────────────────────┼────────────────────────────────────┐
+         ▼                                    ▼                                    ▼
+┌──────────────────┐               ┌──────────────────┐               ┌──────────────────┐
+│   1. TỰ ĐỘNG     │               │   2. BẮN LINK    │               │   3. CÀO BATCH   │
+│   CLOUD 24/7     │               │    TELEGRAM      │               │   BẰNG URLS.TXT  │
+├──────────────────┤               ├──────────────────┤               ├──────────────────┤
+│ Máy chủ tự cào   │               │ Thấy video hay,  │               │ Gom 50-100 link  │
+│ 50-100 video mới │               │ copy link gửi    │               │ dán vào file     │
+│ từ các kênh lớn  │               │ vào bot trên     │               │ urls.txt và chạy │
+│ (VTV24, Podcast) │               │ điện thoại       │               │ 1 lệnh duy nhất  │
+└──────────────────┘               └──────────────────┘               └──────────────────┘
+```
+
+#### 🌟 Danh Sách Kênh Nguồn Tiếng Việt Sạch (100% Speech, Không Nhạc Nền):
+| Kênh TikTok | Thể loại | Đặc điểm âm thanh | Câu lệnh cào hàng loạt |
+|---|---|---|---|
+| `@vtv24news` | Thời sự / Tin tức | Chuẩn giọng Bắc & Nam, cực sạch | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --max-results 100 --workers 4` |
+| `@vietcetera` | Podcast / Phỏng vấn | Giọng nói tự nhiên, thu âm studio | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vietcetera" --max-results 100 --workers 4` |
+| `@vietsuccess` | Phỏng vấn chuyên sâu | Giọng nói rõ ràng, thời lượng dài | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vietsuccess" --max-results 100 --workers 4` |
+| `@schannelvn` | Review / Vlog | Giọng đời thường, đa dạng vùng miền | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@schannelvn" --max-results 100 --workers 4` |
+
+---
+
 ### 🎯 HƯỚNG DẪN CHI TIẾT: THAY ĐỔI TỪ KHÓA & NỀN TẢNG CÀO DỮ LIỆU
 
 Tùy vào hoàn cảnh sử dụng, bạn có thể thay đổi nền tảng (`tiktok` / `facebook`) và từ khóa tìm kiếm theo các cách sau:
