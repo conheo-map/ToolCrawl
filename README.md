@@ -315,9 +315,24 @@ https://www.facebook.com/watch?v=1039665577514847
 
 ---
 
+### 💡 LÀM THẾ NÀO ĐỂ TẢI CÁC VIDEO CŨ HƠN (TỪ VIDEO THỨ 13 TRỞ ĐI TRONG KÊNH)?
+
+> 📌 **Bản chất kỹ thuật:** Khi quét trang profile kênh TikTok, máy chủ TikTok chỉ hiển thị **12 video mới nhất** ở giao diện đầu tiên. Để tải hàng chục đến hàng trăm video cũ hơn trong cùng một kênh:
+
+1. **Cách 1: Quét nhanh 100 link từ trình duyệt bằng Extension (Khuyên dùng — 2 giây):**
+   - Mở kênh TikTok trên Chrome (VD: `tiktok.com/@vtv24news`), cuộn chuột xuống 3-4 lần để tải ra 50-100 video cũ hơn.
+   - Dùng tiện ích mở rộng Chrome miễn phí **Link Grabber** hoặc **Link Klipper** ➔ Bấm quét 1 chạm để copy toàn bộ link video trên trang.
+   - Dán danh sách link đó vào file [`urls.txt`](file:///c:/HocC/SaydiTool/urls.txt) rồi chạy `python main.py --platform tiktok --keyword "urls.txt" --workers 4`.
+2. **Cách 2: Gửi trực tiếp từ điện thoại vào Telegram Bot:**
+   - Lướt xem các video cũ hơn trên điện thoại ➔ Bấm **Chia sẻ ➔ Sao chép liên kết** ➔ Gửi vào Telegram Bot. Bot sẽ tải và bóc tách ngay tức thì!
+3. **Cách 3: Cào đa kênh tự động bằng `urls.txt` (Nhanh nhất không cần tìm link):**
+   - Dán 8 - 10 kênh lớn vào file `urls.txt`. Hệ thống sẽ tự động quét qua tất cả các kênh và thu thập **100+ video sạch** cùng một lúc!
+
+---
+
 ### 👉 Cách 1: Chạy trực tiếp qua PowerShell trên máy tính (Local CLI)
 
-> 💡 **Cơ chế Cào Kênh TikTok Hàng Loạt:** Hệ thống sử dụng **TikTok Embed Scraper** kết hợp **API Hostname Bypass** (`api22-core-c-useast1a.tiktokv.com`) để tự động bóc tách và tải hàng loạt video mới nhất từ profile mà không bị TikTok chặn IP.
+> 💡 **Cơ chế Cào Kênh TikTok:** Hệ thống sử dụng **TikTok Embed Scraper** kết hợp **API Hostname Bypass** (`api22-core-c-useast1a.tiktokv.com`) để tự động bóc tách và tải video từ profile mà không bị TikTok chặn IP. Sau khi cào xong, hệ thống **tự động đồng bộ toàn bộ audio và metadata lên Google Drive**.
 
 > 🔵 **`[PowerShell - Thư mục Dự án]`**:
 
@@ -325,12 +340,12 @@ https://www.facebook.com/watch?v=1039665577514847
 cd C:\HocC\SaydiTool
 .\.venv\Scripts\Activate.ps1
 
-# 📰 1. Cào TRỌN GÓI 1 KÊNH TIKTOK (Tự động quét hàng trăm video từ kênh):
+# 📰 1. Cào TRỌN GÓI 1 KÊNH TIKTOK (Tự động quét hàng chục video mới nhất):
 python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --max-results 100 --workers 4
 python main.py --platform tiktok --keyword "https://www.tiktok.com/@hocmai.vn" --max-results 100 --workers 4
 python main.py --platform tiktok --keyword "@dantri.com.vn" --max-results 100 --workers 4
 
-# 📝 2. Cào TOÀN BỘ DANH SÁCH LINK trong file urls.txt:
+# 📝 2. Cào ĐA KÊNH HOẶC DANH SÁCH LINK từ file urls.txt (100+ video):
 python main.py --platform tiktok --keyword "urls.txt" --workers 4
 
 # 🔗 3. Cào 1 LINK VIDEO CỤ THỂ:
