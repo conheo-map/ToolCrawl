@@ -112,31 +112,48 @@ class TelegramCrawlerBot:
             logger.debug(f"getUpdates error: {exc}")
         return []
 
+    DEFAULT_WEBHOOK_URL = "https://saydi-telegram-bridge.truongduycuong133.workers.dev"
+
+    def _restore_webhook(self) -> None:
+        """Tự động kích hoạt lại Webhook Cloud khi tắt bot trên máy tính."""
+        try:
+            url = f"{self._api_url}/setWebhook"
+            payload = {"url": self.DEFAULT_WEBHOOK_URL}
+            resp = requests.post(url, json=payload, timeout=10)
+            if resp.status_code == 200 and resp.json().get("ok"):
+                logger.info("☁️ ĐÃ TỰ ĐỘNG KHÔI PHỤC WEBHOOK CHO CLOUD (GitHub Actions sẵn sàng khi bạn tắt máy)!")
+        except Exception as exc:
+            logger.debug(f"Restore webhook notice: {exc}")
+
     def start(self) -> None:
         """Khởi động vòng lặp lắng nghe tin nhắn từ điện thoại."""
         logger.info("🤖 Bot đang chạy và sẵn sàng nhận link từ Telegram! (Bấm Ctrl+C để dừng)")
         print("\n" + "=" * 60)
-        print("🤖 TELEGRAM BOT SẴN SÀNG NHẬN LINK!")
+        print("🤖 TELEGRAM BOT SẴN SÀNG NHẬN LINK TRÊN LOCAL!")
         print("Gửi link TikTok/Facebook từ điện thoại vào Telegram Bot để cào tự động.")
+        print("Khi bạn bấm Ctrl+C để tắt, hệ thống sẽ TỰ ĐỘNG chuyển giao lại cho Cloud!")
         print("=" * 60 + "\n")
 
-        while self._running:
-            try:
-                updates = self.get_updates()
-                for update in updates:
-                    self._offset = update["update_id"] + 1
-                    message = update.get("message")
-                    if not message:
-                        continue
+        try:
+            while self._running:
+                try:
+                    updates = self.get_updates()
+                    for update in updates:
+                        self._offset = update["update_id"] + 1
+                        message = update.get("message")
+                        if not message:
+                            continue
 
-                    self._handle_message(message)
-            except KeyboardInterrupt:
-                logger.info("Shutting down bot...")
-                self._running = False
-                break
-            except Exception as exc:
-                logger.error(f"Unexpected error in bot loop: {exc}")
-                time.sleep(2)
+                        self._handle_message(message)
+                except KeyboardInterrupt:
+                    logger.info("Shutting down local bot...")
+                    self._running = False
+                    break
+                except Exception as exc:
+                    logger.error(f"Unexpected error in bot loop: {exc}")
+                    time.sleep(2)
+        finally:
+            self._restore_webhook()
 
     def _handle_message(self, message: dict) -> None:
         chat_id = message["chat"]["id"]
