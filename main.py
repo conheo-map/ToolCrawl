@@ -351,7 +351,7 @@ def main() -> None:
 
 
 def sync_to_gdrive(week_number: int) -> None:
-    """Tự động đẩy dữ liệu sang Google Drive nếu máy đã cài Rclone."""
+    """Tự động đẩy dữ liệu sang Google Drive tốc độ cao với 8 luồng song song."""
     import shutil
     import subprocess
     if not shutil.which("rclone"):
@@ -362,18 +362,26 @@ def sync_to_gdrive(week_number: int) -> None:
         return
         
     gdrive_target = f"gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week{week_number}/"
-    logger.info(f"📤 Đang tự động đồng bộ {week_dir.name} lên Google Drive...")
+    logger.info(f"📤 Đang đồng bộ toàn bộ {week_dir.name} lên Google Drive (8 luồng song song)...")
     try:
+        # Chạy rclone đa luồng với chunk lớn và không ngắt sớm
+        cmd = [
+            "rclone", "copy", str(week_dir), gdrive_target,
+            "--transfers", "8",
+            "--checkers", "16",
+            "--drive-chunk-size", "32M",
+            "--fast-list",
+            "--stats", "10s",
+        ]
         res = subprocess.run(
-            ["rclone", "copy", str(week_dir), gdrive_target],
-            capture_output=True,
-            text=True,
-            timeout=180,
+            cmd,
+            capture_output=False,  # In trực tiếp tiến độ ra màn hình
+            timeout=1800,          # Tối đa 30 phút, không bao giờ bị dừng giữa chừng
         )
         if res.returncode == 0:
-            logger.info("✅ Đã đồng bộ thành công toàn bộ audio và metadata lên Google Drive!")
+            logger.info("✅ ĐÃ ĐỒNG BỘ THÀNH CÔNG 100% TOÀN BỘ AUDIO & METADATA LÊN GOOGLE DRIVE!")
         else:
-            logger.debug(f"Rclone sync notice: {res.stderr[:200]}")
+            logger.warning(f"Rclone sync kết thúc với mã: {res.returncode}")
     except Exception as exc:
         logger.debug(f"Rclone sync exception: {exc}")
 
