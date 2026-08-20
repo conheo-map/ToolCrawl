@@ -256,13 +256,34 @@ docker ps
 3. Bấm vào icon tiện ích -> Chọn định dạng **Netscape** -> Nhấn **Export**.
 4. Lưu file với tên `cookies_tiktok.txt` vào thư mục dự án `C:\HocC\SaydiTool\cookies_tiktok.txt`.
 
-### 📝 4.2. Chuẩn bị file [`urls.txt`](file:///c:/HocC/SaydiTool/urls.txt):
-Mở file `urls.txt` trong thư mục dự án và dán các link video cần cào (mỗi dòng 1 link):
+### 📝 4.2. Chuẩn bị file [`urls.txt`](file:///c:/HocC/SaydiTool/urls.txt) & Mẹo Quét 100-200 Link trong 2 Giây:
+
+Có 2 cách chuẩn bị link vào file `urls.txt`:
+
+#### ⚡ Cách A: Quét 100 - 200 link video từ bất kỳ kênh nào trong 2 giây (Khuyên dùng):
+1. Mở kênh TikTok bạn muốn cào trên trình duyệt Chrome (VD: `https://www.tiktok.com/@vtv24news` hoặc `https://www.tiktok.com/@hocmai.vn`).
+2. Cuộn chuột xuống 3-5 lần để trang tải ra 50 - 100 video cũ hơn (bao gồm từ video thứ 13, 14, ... 100+).
+3. Cài tiện ích mở rộng Chrome miễn phí: **Link Grabber** hoặc **Link Klipper**.
+4. Bấm quét 1 chạm trên tiện ích ➔ Sao chép toàn bộ danh sách 50 - 100 link video trên trang.
+5. Mở file [`urls.txt`](file:///c:/HocC/SaydiTool/urls.txt) và dán danh sách link vào.
+6. Mở PowerShell chạy lệnh:
+   ```powershell
+   python main.py --platform tiktok --keyword "urls.txt" --workers 4
+   ```
+
+#### 🌐 Cách B: Dán danh sách Kênh Lớn để hệ thống tự động quét đa kênh:
+Mở file [`urls.txt`](file:///c:/HocC/SaydiTool/urls.txt) và dán các đường link kênh hoặc video đơn lẻ:
 ```text
-https://www.tiktok.com/@kienthuckinhte28/video/7675666420574735634
-https://www.tiktok.com/@vtv24news/video/7391234567890123456
+# Kênh TikTok chính thống (hệ thống tự động quét bóc tách video từ mỗi kênh)
+https://www.tiktok.com/@vtv24news
+https://www.tiktok.com/@dantri.com.vn
+https://www.tiktok.com/@vnexpress.official
+https://www.tiktok.com/@hocmai.vn
+https://www.tiktok.com/@onluyen.vn
+
+# Hoặc các link video Facebook Reels / TikTok đơn lẻ:
 https://www.facebook.com/reel/1410384157640503
-https://www.facebook.com/watch?v=1039665577514847
+https://www.tiktok.com/@kienthuckinhte28/video/7675666420574735634
 ```
 
 ---
