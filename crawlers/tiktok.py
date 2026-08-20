@@ -11,7 +11,7 @@ import yt_dlp
 
 from crawlers.base import BaseCrawler, DownloadError
 from utils.logger import get_logger
-from config import TIKTOK_COOKIES_FILE, make_batch_id, BASE_OUTPUT_DIR
+from config import TIKTOK_COOKIES_FILE, make_batch_id, BASE_OUTPUT_DIR, CRAWL_DATE
 
 logger = get_logger("tiktok_crawler")
 VN_TZ = timezone(timedelta(hours=7))
@@ -162,12 +162,15 @@ class TikTokCrawler(BaseCrawler):
             for vid in re.findall(r'/video/(\d{15,})', html):
                 vids.add(vid)
                 
-            # 2. Tìm tất cả 19-digit video IDs trong JSON nhúng
-            for vid in re.findall(r'(\d{19})', html):
+            # 2. Tìm video IDs trong cấu trúc JSON hợp lệ (id: "...", itemId: "...")
+            for vid in re.findall(r'["\'](?:itemId|videoId|aweme_id)["\']\s*:\s*["\'](\d{18,19})["\']', html):
                 vids.add(vid)
                 
             urls = [f"https://www.tiktok.com/@{username}/video/{vid}" for vid in vids]
-            logger.info(f"[TikTok] Scraped {len(urls)} video URLs from @{username}")
+            if urls:
+                logger.info(f"[TikTok] Scraped {len(urls)} video URLs from @{username}")
+            else:
+                logger.info(f"[TikTok] Không tìm thấy video tĩnh trên profile @{username}. Vui lòng dán link video vào file urls.txt hoặc gửi qua Telegram.")
             return urls[:max_results]
         except Exception as exc:
             logger.warning(f"[TikTok] Failed to scrape channel @{username}: {exc}")

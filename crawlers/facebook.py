@@ -11,7 +11,7 @@ import yt_dlp
 
 from crawlers.base import BaseCrawler, DownloadError
 from utils.logger import get_logger
-from config import FACEBOOK_COOKIES_FILE, make_batch_id, BASE_OUTPUT_DIR
+from config import FACEBOOK_COOKIES_FILE, make_batch_id, BASE_OUTPUT_DIR, CRAWL_DATE
 
 logger = get_logger("facebook_crawler")
 VN_TZ = timezone(timedelta(hours=7))
