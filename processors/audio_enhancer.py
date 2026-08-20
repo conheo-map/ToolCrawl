@@ -1,4 +1,4 @@
-﻿"""
+"""
 processors/audio_enhancer.py — Tăng cường chất lượng âm thanh giọng nói chuyên sâu cho ASR.
 
 Giải quyết 3 vấn đề phổ biến của audio mạng xã hội:
@@ -38,10 +38,19 @@ class SpeechEnhancer:
 
         tmp_out = audio_path.with_suffix(".enhanced.tmp.wav")
 
-        # Chuỗi bộ lọc DSP chuẩn studio cho Voice/ASR
+        # Chuỗi bộ lọc DSP 7 tầng chuẩn studio cho Voice / ASR:
+        # 1. Highpass + Lowpass: Cắt bỏ dải tần siêu trầm (<80Hz) & dải tần xì xào (>7.6kHz)
+        # 2. FFT Adaptive Denoise (afftdn): Khử tiếng ồn quạt, gió, tạp âm mic nền
+        # 3. Silence Trimmer (silenceremove): Cắt bỏ 100% các đoạn câm lặng ở đầu, đuôi và khoảng lặng dài
+        # 4. De-mud (300Hz EQ): Khử tiếng đục, dội âm phòng
+        # 5. Presence Boost (3kHz EQ): Tăng độ sắc nét của phụ âm tiếng Việt
+        # 6. Dynamic Normalizer (dynaudnorm): Cân bằng tự động đoạn nói to / nói nhỏ
+        # 7. EBU R128 Loudnorm: Chuẩn hóa âm lượng đầu ra -16 LUFS
         filter_chain = (
             "highpass=f=80,"
             "lowpass=f=7600,"
+            "afftdn=nf=-25,"
+            "silenceremove=start_periods=1:start_duration=0.1:start_threshold=-45dB:stop_periods=-1:stop_duration=0.5:stop_threshold=-45dB,"
             "equalizer=f=300:t=q:w=1.5:g=-2,"
             "equalizer=f=3000:t=q:w=1.0:g=2.5,"
             "dynaudnorm=f=120:g=15:p=0.95:m=10,"
