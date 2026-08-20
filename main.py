@@ -335,6 +335,39 @@ def main() -> None:
         f"{'='*50}"
     )
 
+    # ─────────────────────────────────────────────
+    # Step 4: Tự động đồng bộ lên Google Drive
+    # ─────────────────────────────────────────────
+    sync_to_gdrive(args.week)
+
+
+def sync_to_gdrive(week_number: int) -> None:
+    """Tự động đẩy dữ liệu sang Google Drive nếu máy đã cài Rclone."""
+    import shutil
+    import subprocess
+    if not shutil.which("rclone"):
+        return
+    
+    week_dir = cfg.PROJECT_ROOT / f"Week{week_number}"
+    if not week_dir.exists():
+        return
+        
+    gdrive_target = f"gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week{week_number}/"
+    logger.info(f"📤 Đang tự động đồng bộ {week_dir.name} lên Google Drive...")
+    try:
+        res = subprocess.run(
+            ["rclone", "copy", str(week_dir), gdrive_target],
+            capture_output=True,
+            text=True,
+            timeout=180,
+        )
+        if res.returncode == 0:
+            logger.info("✅ Đã đồng bộ thành công toàn bộ audio và metadata lên Google Drive!")
+        else:
+            logger.debug(f"Rclone sync notice: {res.stderr[:200]}")
+    except Exception as exc:
+        logger.debug(f"Rclone sync exception: {exc}")
+
 
 if __name__ == "__main__":
     main()
