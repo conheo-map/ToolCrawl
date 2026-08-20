@@ -386,6 +386,9 @@ python main.py --platform facebook --keyword "bản tin thời sự" --max-resul
 # 🏷️ 5. TÙY CHỌN GÁN NHÃN VÙNG MIỀN (--region):
 # Các giá trị: auto (tự động - mặc định), northern (Bắc), southern (Nam), central (Trung), mixed (Hỗn hợp)
 python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --region northern --workers 4
+
+# 🛡️ 6. CÀO LƯU TRÊN MÁY — TẮT TỰ ĐỘNG UP GOOGLE DRIVE (--skip-drive-sync):
+python main.py --platform tiktok --keyword "urls.txt" --skip-drive-sync --workers 4
 ```
 
 ---
@@ -868,11 +871,25 @@ rclone config
 rclone lsd gdrive:
 
 # Copy toàn bộ thư mục Week2 thẳng vào đúng thư mục của công ty (Dùng Folder ID):
-rclone copy C:\HocC\SaydiTool\Week2 gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ --progress
+rclone copy C:\HocC\SaydiTool\Week2 gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ --transfers 8 --drive-chunk-size 32M --progress
 
 # Đồng bộ 2 chiều (Sync):
-rclone sync C:\HocC\SaydiTool\Week2 gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ --progress
+rclone sync C:\HocC\SaydiTool\Week2 gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ --transfers 8 --drive-chunk-size 32M --progress
 ```
+
+---
+
+### 🛑 9.3. Cách Dừng / Hủy Quá Trình Upload Google Drive Giữa Chừng
+
+* **Cách 1: Dừng khi đang upload trực tiếp:** Bấm tổ hợp phím **`Ctrl + C`** trên cửa sổ PowerShell.
+* **Cách 2: Dừng tiến trình upload chạy ngầm:**
+  ```powershell
+  Stop-Process -Name rclone -Force
+  ```
+* **Cách 3: Cào lưu trên máy mà KHÔNG tự động upload lên Drive:**
+  ```powershell
+  python main.py --platform tiktok --keyword "urls.txt" --skip-drive-sync --workers 4
+  ```
 
 ---
 
@@ -881,12 +898,15 @@ rclone sync C:\HocC\SaydiTool\Week2 gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAl
 ### 🐍 Lệnh Python & Crawler (Chạy tại `PS C:\HocC\SaydiTool>`):
 | Mục đích | Câu lệnh PowerShell |
 |---|---|
-| Kích hoạt môi trường | `.\.venv\Scripts\Activate.ps1` |
-| Chạy toàn bộ 11 Unit Tests | `pytest -o pythonpath=. -v` |
-| Cào TikTok qua file link | `python main.py --platform tiktok --keyword "urls.txt" --cookies cookies_tiktok.txt --workers 4` |
+| Kích hoạt môi trường ảo | `.\.venv\Scripts\Activate.ps1` |
+| Chạy toàn bộ 17 Unit Tests | `pytest -o pythonpath=. -v` |
+| Cào TikTok qua file link | `python main.py --platform tiktok --keyword "urls.txt" --workers 4` |
 | Cào Facebook qua từ khóa | `python main.py --platform facebook --keyword "tin tức thời sự" --workers 4` |
-| Cào toàn bộ 1 kênh TikTok | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --cookies cookies_tiktok.txt` |
-| Chạy Telegram Bot nhận link | `python bot.py --token "YOUR_TOKEN"` |
+| Cào toàn bộ 1 kênh TikTok | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --workers 4` |
+| Cào kèm gán nhãn vùng miền cố định | `python main.py --platform tiktok --keyword "urls.txt" --region northern --workers 4` |
+| Cào lưu máy, tắt tự up Google Drive | `python main.py --platform tiktok --keyword "urls.txt" --skip-drive-sync --workers 4` |
+| Dừng ngay tiến trình upload Drive | `Stop-Process -Name rclone -Force` |
+| Chạy Telegram Bot nhận link từ xa | `python bot.py --token "YOUR_TOKEN"` |
 | Thử lại các URL bị lỗi | `python retry_failed.py --platform tiktok` |
 | Bỏ qua bộ lọc nhạc | `python main.py --platform tiktok --keyword "urls.txt" --skip-music-filter` |
 
