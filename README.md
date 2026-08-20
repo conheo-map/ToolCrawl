@@ -298,13 +298,18 @@ https://www.facebook.com/watch?v=1039665577514847
 └──────────────────┘               └──────────────────┘               └──────────────────┘
 ```
 
-#### 🌟 Danh Sách Kênh Nguồn Tiếng Việt Sạch (100% Speech, Không Nhạc Nền):
-| Kênh TikTok | Thể loại | Đặc điểm âm thanh | Câu lệnh cào hàng loạt |
+#### 🌟 Danh Sách Kênh Nguồn Chuyên Đề TIN TỨC & HỌC ONLINE trên TikTok (100% Speech Sạch):
+| Kênh TikTok | Thể loại | Đặc điểm âm thanh | Câu lệnh cào hàng loạt (PowerShell) |
 |---|---|---|---|
-| `@vtv24news` | Thời sự / Tin tức | Chuẩn giọng Bắc & Nam, cực sạch | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --max-results 100 --workers 4` |
-| `@vietcetera` | Podcast / Phỏng vấn | Giọng nói tự nhiên, thu âm studio | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vietcetera" --max-results 100 --workers 4` |
-| `@vietsuccess` | Phỏng vấn chuyên sâu | Giọng nói rõ ràng, thời lượng dài | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vietsuccess" --max-results 100 --workers 4` |
-| `@schannelvn` | Review / Vlog | Giọng đời thường, đa dạng vùng miền | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@schannelvn" --max-results 100 --workers 4` |
+| `@vtv24news` | 📰 Thời sự VTV24 | Giọng đọc chuẩn Bắc / Nam, tin tức chính luận | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --max-results 100 --workers 4` |
+| `@dantri.com.vn` | 📰 Báo Dân Trí | Bản tin 24h, phóng sự xã hội, giọng chuẩn | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@dantri.com.vn" --max-results 100 --workers 4` |
+| `@vnexpress.official` | 📰 Báo VnExpress | Tin tức thời sự, kinh tế, đời sống | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vnexpress.official" --max-results 100 --workers 4` |
+| `@thanhnien.official` | 📰 Báo Thanh Niên | Bản tin nhanh, phóng sự điều tra | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@thanhnien.official" --max-results 100 --workers 4` |
+| `@tuoitreonline` | 📰 Báo Tuổi Trẻ | Tin tức tổng hợp, phóng sự xã hội | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@tuoitreonline" --max-results 100 --workers 4` |
+| `@hocmai.vn` | 🎓 Học Mãi Online | Bài giảng online, giáo viên giảng bài rõ ràng | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@hocmai.vn" --max-results 100 --workers 4` |
+| `@onluyen.vn` | 🎓 Ôn Luyện Online | Kiến thức học tập, mẹo học trực tuyến | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@onluyen.vn" --max-results 100 --workers 4` |
+| `@tuyensinh247.com` | 🎓 Tuyển Sinh 247 | Video bài học, hướng dẫn tự học online | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@tuyensinh247.com" --max-results 100 --workers 4` |
+| `@kienthuc.thuvi` | 🎓 Kiến Thức Thú Vị | Thuyết minh khoa học, giáo dục, giải thích | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@kienthuc.thuvi" --max-results 100 --workers 4` |
 
 ---
 
@@ -358,14 +363,15 @@ Hệ thống tự động phát hiện nền tảng theo đường link:
 #### 💻 5. Khi chạy dòng lệnh trực tiếp trên máy tính (CLI)
 Truyền trực tiếp qua 2 tham số `--platform` và `--keyword`:
 ```powershell
-# Cào TikTok theo từ khóa:
-python main.py --platform tiktok --keyword "ẩm thực đường phố" --max-results 100 --workers 4
+# Cào Tin tức TikTok:
+python main.py --platform tiktok --keyword "tin tức thời sự hôm nay" --max-results 100 --workers 4
 
-# Cào Facebook theo từ khóa:
-python main.py --platform facebook --keyword "học tiếng Việt giao tiếp" --max-results 100 --workers 4
+# Cào Học online TikTok:
+python main.py --platform tiktok --keyword "học online hiệu quả" --max-results 100 --workers 4
 
-# Cào toàn bộ kênh TikTok:
+# Cào toàn bộ kênh TikTok chính thống:
 python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --max-results 200 --workers 4
+python main.py --platform tiktok --keyword "https://www.tiktok.com/@hocmai.vn" --max-results 200 --workers 4
 ```
 
 ---
@@ -378,17 +384,17 @@ python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" -
 cd C:\HocC\SaydiTool
 .\.venv\Scripts\Activate.ps1
 
-# Cào từ file danh sách urls.txt (Có tự động tách nhạc):
+# Cào từ file danh sách urls.txt (Chuyên đề Tin tức & Học online):
 python main.py --platform tiktok --keyword "urls.txt" --cookies cookies_tiktok.txt --workers 4
 
-# Cào Facebook theo từ khóa tìm kiếm:
-python main.py --platform facebook --keyword "học tiếng Việt" --workers 4
+# Cào Tin tức TikTok theo từ khóa:
+python main.py --platform tiktok --keyword "tin tức 24h mới nhất" --max-results 100 --workers 4
+
+# Cào Học online TikTok theo từ khóa:
+python main.py --platform tiktok --keyword "phương pháp học online" --max-results 100 --workers 4
 
 # Cào toàn bộ video từ 1 kênh TikTok cụ thể:
 python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --cookies cookies_tiktok.txt --workers 4
-
-# Chạy thử nghiệm xem danh sách link, không tải file (Dry Run):
-python main.py --platform facebook --keyword "học tiếng Việt" --dry-run
 ```
 
 ---
