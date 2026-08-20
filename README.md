@@ -413,6 +413,23 @@ python bot.py --token "7942718104:AAHOQ1s8W69kXlC5G7E9c90pB9s8F-xyz"
 - **Xem tiến độ & tổng giờ cào:** Gõ lệnh `/stats`.
 - **Khởi động lại bot:** Gõ lệnh `/restart`.
 
+> 💡 **CƠ CHẾ HOẠT ĐỘNG: TELEGRAM LOCAL (CÁCH 2) VS TELEGRAM CLOUD (CÁCH 4)**:
+> 1. **Bản chất kỹ thuật Telegram API:** Một con Bot Telegram tại một thời điểm nhận tin nhắn qua **1 trong 2 cơ chế**:
+>    - **Local (Long Polling):** Chạy `python bot.py` trên máy tính. Bot tự động gỡ Webhook Cloud để chuyển quyền nhận tin nhắn về máy tính của bạn xử lý.
+>    - **Cloud (Webhook):** Khi bạn tắt máy tính, tin nhắn gửi vào Bot sẽ được chuyển tiếp qua Cloudflare Worker ➔ kích hoạt GitHub Actions cào trên Cloud và đẩy thẳng vào Google Drive.
+> 2. **Chuyển đổi giữa 2 chế độ:**
+>    - Muốn cào trên máy tính: Chỉ cần mở PowerShell chạy `python bot.py` (tự động 100%).
+>    - Muốn cào trên Cloud khi tắt máy tính: Kích hoạt lại Webhook bằng cách dán URL:  
+>      `https://api.telegram.org/bot<TOKEN>/setWebhook?url=https://saydi-telegram-bridge.<subdomain>.workers.dev`
+
+> 🛡️ **CAM KẾT TOÀN VẸN DỮ LIỆU TRÊN GOOGLE DRIVE (DATA CONSISTENCY GUARANTEE):**
+> * **Không bao giờ bị lệch giữa file `.wav` và file `metadata.json` / `summary.json`:**
+>   - Mỗi khi 1 file `.wav` được tải và bóc tách giọng thành công, đúng 1 bản ghi tương ứng mới được ghi vào `metadata.json`.
+>   - Nếu video bị lỗi (như video dài >10 phút), hệ thống **không tạo file .wav** và cũng **không ghi vào metadata**, đảm bảo 100% số lượng file âm thanh trên Drive khớp chính xác với từng bản ghi trong metadata.
+> * **Cơ chế Cộng dồn Thông minh khi chạy đan xen Local & Cloud:**
+>   - Trước khi cào trên Cloud, máy chủ luôn tải `metadata.json`, `summary.json` và `.checkpoints/seen_ids.json` cũ từ Google Drive về trước.
+>   - Khi có video mới, hệ thống tính toán lại tổng thời lượng (`total_hours`) và số lượng (`items_delivered`) rồi cập nhật đè lên Google Drive một cách nhất quán tuyệt đối.
+
 ---
 
 ### 👉 Cách 3: Chạy đóng gói bằng Docker Container
