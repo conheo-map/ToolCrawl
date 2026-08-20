@@ -244,15 +244,65 @@ https://www.facebook.com/watch?v=1039665577514847
 | ⚡ **Khi muốn gõ lệnh cào trực tiếp từ khóa / kênh** | 👉 **Cách 1: Chạy trực tiếp CLI (`python main.py`)** | Cào nhanh theo từ khóa hoặc kênh chỉ bằng 1 dòng lệnh trên PowerShell. |
 | 📦 **Khi muốn cào hàng loạt lớn (100 - 1000 video)** | 👉 **Dán vào `urls.txt` (Dùng Cách 1 hoặc Cách 4)** | Máy chủ chỉ khởi động **1 LẦN DUY NHẤT** cho toàn bộ 1000 video, không phải cài lại từng lần! |
 
-### 🎯 HƯỚNG DẪN: THAY ĐỔI TỪ KHÓA & NỀN TẢNG CÀO Ở ĐÂU?
+### 🎯 HƯỚNG DẪN CHI TIẾT: THAY ĐỔI TỪ KHÓA & NỀN TẢNG CÀO DỮ LIỆU
 
-| Nhu cầu cào | Nơi thay đổi cấu hình | Cách thực hiện |
-|---|---|---|
-| ⏰ **Cào tự động 24/7 (Cloud Cron)** | File `.github/workflows/cloud_crawler.yml` (dòng 99-100) | Đổi `echo "platform=tiktok"` và `echo "keyword=urls.txt"` thành từ khóa bạn muốn |
-| 🌐 **Bấm nút chạy trên GitHub Web** | Tab **Actions** trên github.com | Chọn menu dropdown **Platform** (`tiktok`/`facebook`) và nhập ô **Keyword** |
-| 📝 **Cào danh sách link hàng loạt** | File [`urls.txt`](file:///c:/HocC/SaydiTool/urls.txt) | Mở file `urls.txt` dán các link mới vào (mỗi link 1 dòng) |
-| 📱 **Gửi từ điện thoại (Telegram)** | Khung chat Telegram Bot | Dán trực tiếp link hoặc danh sách link vào chat |
-| 💻 **Chạy dòng lệnh trên máy tính (CLI)** | Tham số `--platform` và `--keyword` | Gõ lệnh: `python main.py --platform tiktok --keyword "từ khóa"` |
+Tùy vào hoàn cảnh sử dụng, bạn có thể thay đổi nền tảng (`tiktok` / `facebook`) và từ khóa tìm kiếm theo các cách sau:
+
+---
+
+#### ⏰ 1. Khi cào tự động 24/7 trên Cloud (Mỗi 4 tiếng / lần)
+Hệ thống Cloud sẽ tự động chạy định kỳ theo lịch. Bạn có thể chỉ định nền tảng và từ khóa (hoặc file `urls.txt`) bằng cách mở file [`.github/workflows/cloud_crawler.yml`](file:///c:/HocC/SaydiTool/.github/workflows/cloud_crawler.yml) tại **dòng 99 - 100**:
+
+```yaml
+          elif [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "platform=tiktok" >> $GITHUB_OUTPUT       # Chọn: "tiktok" hoặc "facebook"
+            echo "keyword=urls.txt" >> $GITHUB_OUTPUT      # Chọn: "urls.txt" hoặc từ khóa như "ẩm thực Hà Nội"
+```
+*(Sau khi chỉnh sửa, chỉ cần chạy `git add .`, `git commit -m "update"` và `git push origin main` để máy chủ Cloud áp dụng lịch mới).*
+
+---
+
+#### 🌐 2. Khi bấm nút chạy thủ công trên GitHub Web
+1. Mở trình duyệt vào [github.com/conheo-map/ToolCrawl/actions](https://github.com/conheo-map/ToolCrawl/actions).
+2. Chọn workflow **`Cloud Audio Crawler to Google Drive`** ở cột bên trái.
+3. Bấm vào nút **`Run workflow`** ở góc phải:
+   - **Nền tảng (`platform`):** Chọn `tiktok` hoặc `facebook` trong menu thả xuống.
+   - **Từ khóa (`keyword`):** Nhập từ khóa bất kỳ (VD: `review quán ăn`), link video, link kênh, hoặc `urls.txt`.
+   - **Số worker (`workers`):** Nhập số luồng (mặc định là `4`).
+4. Bấm nút màu xanh **`Run workflow`**.
+
+---
+
+#### 📝 3. Khi cào danh sách link hàng loạt qua file `urls.txt`
+1. Mở file [`urls.txt`](file:///c:/HocC/SaydiTool/urls.txt) trong thư mục dự án `C:\HocC\SaydiTool\urls.txt`.
+2. Dán các đường link video cần cào vào (mỗi dòng 1 link).
+3. Chạy lệnh:
+   ```powershell
+   python main.py --platform tiktok --keyword "urls.txt" --workers 4
+   ```
+
+---
+
+#### 📱 4. Khi gửi link từ điện thoại qua Telegram Bot
+Hệ thống tự động phát hiện nền tảng theo đường link:
+- Link chứa `tiktok.com` hoặc `vt.tiktok.com` ➔ Tự động nhận diện là **TikTok**.
+- Link chứa `facebook.com` hoặc `fb.watch` ➔ Tự động nhận diện là **Facebook**.
+- Bạn có thể gửi 1 link hoặc gửi danh sách nhiều link trong 1 tin nhắn (mỗi link 1 dòng).
+
+---
+
+#### 💻 5. Khi chạy dòng lệnh trực tiếp trên máy tính (CLI)
+Truyền trực tiếp qua 2 tham số `--platform` và `--keyword`:
+```powershell
+# Cào TikTok theo từ khóa:
+python main.py --platform tiktok --keyword "ẩm thực đường phố" --max-results 100 --workers 4
+
+# Cào Facebook theo từ khóa:
+python main.py --platform facebook --keyword "học tiếng Việt giao tiếp" --max-results 100 --workers 4
+
+# Cào toàn bộ kênh TikTok:
+python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --max-results 200 --workers 4
+```
 
 ---
 
