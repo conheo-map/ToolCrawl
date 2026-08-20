@@ -244,6 +244,16 @@ https://www.facebook.com/watch?v=1039665577514847
 | ⚡ **Khi muốn gõ lệnh cào trực tiếp từ khóa / kênh** | 👉 **Cách 1: Chạy trực tiếp CLI (`python main.py`)** | Cào nhanh theo từ khóa hoặc kênh chỉ bằng 1 dòng lệnh trên PowerShell. |
 | 📦 **Khi muốn cào hàng loạt lớn (100 - 1000 video)** | 👉 **Dán vào `urls.txt` (Dùng Cách 1 hoặc Cách 4)** | Máy chủ chỉ khởi động **1 LẦN DUY NHẤT** cho toàn bộ 1000 video, không phải cài lại từng lần! |
 
+### 🎯 HƯỚNG DẪN: THAY ĐỔI TỪ KHÓA & NỀN TẢNG CÀO Ở ĐÂU?
+
+| Nhu cầu cào | Nơi thay đổi cấu hình | Cách thực hiện |
+|---|---|---|
+| ⏰ **Cào tự động 24/7 (Cloud Cron)** | File `.github/workflows/cloud_crawler.yml` (dòng 99-100) | Đổi `echo "platform=tiktok"` và `echo "keyword=urls.txt"` thành từ khóa bạn muốn |
+| 🌐 **Bấm nút chạy trên GitHub Web** | Tab **Actions** trên github.com | Chọn menu dropdown **Platform** (`tiktok`/`facebook`) và nhập ô **Keyword** |
+| 📝 **Cào danh sách link hàng loạt** | File [`urls.txt`](file:///c:/HocC/SaydiTool/urls.txt) | Mở file `urls.txt` dán các link mới vào (mỗi link 1 dòng) |
+| 📱 **Gửi từ điện thoại (Telegram)** | Khung chat Telegram Bot | Dán trực tiếp link hoặc danh sách link vào chat |
+| 💻 **Chạy dòng lệnh trên máy tính (CLI)** | Tham số `--platform` và `--keyword` | Gõ lệnh: `python main.py --platform tiktok --keyword "từ khóa"` |
+
 ---
 
 ### 👉 Cách 1: Chạy trực tiếp bằng Python trên máy tính — *Khuyên dùng khi ngồi máy*
