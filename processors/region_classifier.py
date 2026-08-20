@@ -1,4 +1,4 @@
-﻿"""
+"""
 processors/region_classifier.py — Phân loại phương ngữ 4 miền chuẩn xác (High-Precision Regional Dialect Classifier).
 Gán 1 trong 4 nhãn theo chuẩn ASR: "northern", "southern", "central", "mixed".
 
@@ -65,20 +65,25 @@ DIALECT_HIGH_WEIGHT = {
         "nhé", "nhỉ", "ạ", "thế này", "đâu đấy", "buổi sáng", "xe máy", "bát cơm",
         "hoa quả", "muộn rồi", "con lợn", "cây ngô", "chiếc ô", "chứ lị", "giời ạ",
         "chuẩn đét", "phở hà nội", "bún chả", "trà đá vỉa hè", "đằng ấy", "bảo này",
-        "cơ mà", "hẳn là", "ôi giời", "nhá", "nhờ", "luôn á", "đấy nhé", "thế à",
+        "cơ mà", "hẳn là", "ôi giời", "nhá", "nhờ", "đấy nhé", "thế à", "thế nhỉ",
+        "đậu phụ", "dưa chuột", "mận hà nội", "nghìn", "nghìn đồng", "đỗ xe", "rẽ trái",
+        "rẽ phải", "ngõ", "hầm", "bảo sao", "bảo là", "chứ lại", "thế hả", "gớm", "khiếp",
     },
     "southern": {
         "hén", "nhen", "nghen", "hen", "hông", "thiệt", "dữ dằn", "bậy bạ", "dữ vậy",
-        "dạ", "chèn ơi", "trời đất ơi", "bông hoa", "ly nước", "trái cây", "trễ rồi",
+        "chèn ơi", "trời đất ơi", "bông hoa", "ly nước", "trái cây", "trễ rồi",
         "con heo", "trái bắp", "cây dù", "quá trời", "nhậu", "bữa nay", "vầy nè",
         "xỉu", "cơm tấm", "hủ tiếu", "bánh mì sài gòn", "mấy bà", "mấy ní", "tui",
-        "trển", "bển", "trỏng", "hổng", "bự", "bận đồ", "dợ", "dzậy", "hén",
+        "trển", "bển", "trỏng", "hổng", "bự", "bận đồ", "dợ", "dzậy", "mắc cười",
+        "mắc mệt", "quá xá", "dễ sợ", "cà phê sữa đá", "hổm rày", "bữa hổm", "quẹo",
+        "hẻm", "ngàn", "ngàn đồng", "đậu xe", "dưa leo", "thơm", "khóm", "dòm", "quăng", "lụm",
     },
     "central": {
         "chi rứa", "mô tê", "răng rứa", "răng hè", "mần chi", "bầy tui", "chộ không",
         "ưng bụng", "mắc cỡ", "trỏng", "ngoải", "choa", "mệ", "mì quảng", "bún bò huế",
         "cao lầu", "bánh bột lọc", "nem lụi", "mô", "tê", "răng", "rứa", "chi",
-        "nớ", "ni", "hè", "ri", "trốc", "rơm", "tau", "mi",
+        "nớ", "ni", "hè", "ri", "trốc", "rơm", "tau", "mi", "bầy bay", "o", "bọ",
+        "chú mi", "mần", "trút", "đọi", "rú", "trửa", "bổ", "nỏ", "nỏ có", "mô có", "chi mô",
     },
 }
 
@@ -146,39 +151,53 @@ class RegionClassifier:
         """
         Trả về 1 trong 4 nhãn chuẩn: "northern", "southern", "central", "mixed".
         """
-        # 1. Manual Override
+        # 1. Manual CLI Override (Cao nhất khi người dùng chỉ định rõ)
         if forced_region and forced_region.lower() in {"northern", "southern", "central", "mixed"}:
             return forced_region.lower()
 
-        # 2. Check Known Channels Knowledge Base
+        scores = {"northern": 0.0, "southern": 0.0, "central": 0.0}
+
+        # 2. Tri thức Kênh Nguồn (Đóng vai trò Prior Bias +3.0 điểm, không khóa cứng tuyệt đối)
         ch_clean = _normalize(channel_name).strip()
         for k_channel, k_region in KNOWN_CHANNELS.items():
             if k_channel in ch_clean or ch_clean.startswith(k_channel.lstrip("@")):
-                logger.debug(f"[RegionClassifier] Channel matched '{k_channel}' -> {k_region}")
-                return k_region
+                scores[k_region] += 3.0  # Điểm nền tảng từ kênh
+                break
 
-        # 3. Weighted Scoring từ Tiêu đề & Mô tả
-        full_text = f"{title} {description} {channel_name}"
-        scores = cls._calculate_scores(full_text)
+        # 3. Phân tích Từ vựng & Ngữ khí từ Tiêu đề + Mô tả
+        text_scores = cls._calculate_scores(f"{title} {description}")
+        for reg in scores:
+            scores[reg] += text_scores[reg]
 
-        # Kiểm tra độ tự tin của điểm text
-        top_region, top_score, is_confident = cls._eval_scores(scores)
-        if is_confident:
-            return top_region
-
-        # 4. Whisper AI: Phiên âm 10s audio thực tế khi text không đủ tự tin
+        # 4. Whisper AI: Lắng nghe giọng nói thực tế từ Audio (Độ ưu tiên cao nhất)
         if audio_path and Path(audio_path).exists():
             transcription = cls._transcribe_audio_snippet(Path(audio_path))
             if transcription:
-                # Cộng thêm điểm từ lời nói thực tế
                 audio_scores = cls._calculate_scores(transcription)
+                # Lời nói thực tế mang trọng số tối thượng (Nhân 3.0)
                 for reg in scores:
-                    scores[reg] += audio_scores[reg] * 2.0  # Lời nói nhân đôi trọng số
-                top_region, top_score, _ = cls._eval_scores(scores)
-                if top_score > 0:
-                    return top_region
+                    scores[reg] += audio_scores[reg] * 3.0
 
-        return top_region if top_score > 0 else "mixed"
+        # 5. Đánh giá & Phát hiện Video Đa Giọng (Mixed / Multi-speaker Detection)
+        sorted_scores = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+        top_reg, top_sc = sorted_scores[0]
+        second_reg, second_sc = sorted_scores[1]
+
+        # Trường hợp 1: Không có tín hiệu đặc trưng nào -> gán mixed
+        if top_sc == 0:
+            return "mixed"
+
+        # Trường hợp 2: Phát hiện Đa giọng / Đan xen phỏng vấn (Mixed)
+        # Nếu điểm số giữa miền thứ 1 và miền thứ 2 chênh lệch không nhiều (second_sc >= 45% top_sc)
+        if second_sc >= 4.0 and (second_sc / top_sc) >= 0.45:
+            logger.debug(f"[RegionClassifier] Multi-speaker / balanced dialect detected: {scores} -> mixed")
+            return "mixed"
+
+        # Trường hợp 3: Một miền chiếm ưu thế vượt trội rõ ràng
+        if top_sc >= 4.0 and (top_sc - second_sc) >= 2.5:
+            return top_reg
+
+        return top_reg if top_sc > 0 else "mixed"
 
     @classmethod
     def _calculate_scores(cls, text: str) -> dict[str, float]:
@@ -198,19 +217,6 @@ class RegionClassifier:
                     scores[region] += 1.5
 
         return scores
-
-    @classmethod
-    def _eval_scores(cls, scores: dict[str, float]) -> tuple[str, float, bool]:
-        sorted_scores = sorted(scores.items(), key=lambda x: x[1], reverse=True)
-        top_region, top_score = sorted_scores[0]
-        second_region, second_score = sorted_scores[1]
-
-        if top_score == 0:
-            return "mixed", 0.0, False
-
-        # Tự tin nếu điểm vượt trội so với vị trí thứ 2
-        is_confident = (top_score >= 5.0 and (top_score - second_score) >= 3.0)
-        return top_region, top_score, is_confident
 
     @classmethod
     def _transcribe_audio_snippet(cls, audio_path: Path) -> str:
