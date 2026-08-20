@@ -22,6 +22,24 @@ logger = get_logger("metadata_writer")
 VN_TZ = timezone(timedelta(hours=7))
 
 
+SPEC_KEYS = [
+    "item_id",
+    "platform",
+    "platform_video_id",
+    "video_url",
+    "title",
+    "description",
+    "posted_at",
+    "language_raw",
+    "audio_path",
+    "duration_seconds",
+    "crawl_batch",
+    "crawled_at",
+    "platform_meta",
+    "language_region",
+]
+
+
 class MetadataWriter:
     """
     Ghi record từng item vào metadata.json (JSON array).
@@ -58,9 +76,10 @@ class MetadataWriter:
                 logger.warning(f"Could not load existing metadata: {exc}")
 
     def add_record(self, record: dict) -> None:
-        """Thêm 1 record vào metadata.json (thread-safe)."""
+        """Thêm 1 record vào metadata.json (chuẩn hóa 100% theo schema công ty)."""
+        clean_record = {k: record[k] for k in SPEC_KEYS if k in record}
         with self._lock:
-            self._records.append(record)
+            self._records.append(clean_record)
             self._flush()
 
     def increment_error(self) -> None:
