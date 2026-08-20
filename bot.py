@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 bot.py — Telegram Bot Receiver & Remote Crawler Controller.
 
@@ -281,9 +281,16 @@ class TelegramCrawlerBot:
             f"• ✅ Thành công: **{success_count}**\n"
             f"• ⏭️ Bỏ qua (Trùng/Quarantine): **{skip_count}**\n"
             f"• ❌ Lỗi: **{error_count}**\n"
-            f"📁 Tất cả file đã sẵn sàng trong thư mục `Week2/{cfg.CRAWL_DATE}/audio/`"
+            f"📁 Đã lưu vào `Week2/{cfg.CRAWL_DATE}/audio/` và đang tự động đồng bộ lên Google Drive..."
         )
         self.send_message(chat_id, summary_msg)
+
+        # Tự động đẩy lên Google Drive
+        try:
+            from main import sync_to_gdrive
+            sync_to_gdrive(cfg.WEEK_NUMBER)
+        except Exception as exc:
+            logger.debug(f"Bot Google Drive sync notice: {exc}")
 
     def _handle_stats_command(self, chat_id: int | str) -> None:
         """Đọc và gửi thống kê dataset hôm nay."""

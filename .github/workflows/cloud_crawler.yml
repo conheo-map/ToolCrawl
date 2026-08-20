@@ -107,6 +107,19 @@ jobs:
             echo "workers=${{ github.event.inputs.workers }}" >> $GITHUB_OUTPUT
           fi
 
+      - name: ☁️ Configure Rclone & Pull Existing Metadata from Google Drive
+        run: |
+          mkdir -p ~/.config/rclone
+          cat << 'EOF' > ~/.config/rclone/rclone.conf
+          ${{ secrets.RCLONE_CONFIG }}
+          EOF
+          
+          # Kéo metadata và danh sách ID đã cào từ Google Drive về trước để cộng dồn
+          echo "📥 Đang đồng bộ metadata và seen_ids cũ từ Google Drive..."
+          rclone copy gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ Week2/ --include "metadata.json" --include "summary.json" || true
+          mkdir -p .checkpoints
+          rclone copy gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:seen_ids.json .checkpoints/ || true
+
       - name: 🚀 Run Audio Crawler Pipeline (☁️ Cloud Fast Mode)
         env:
           CLOUD_MODE: "1"
@@ -162,19 +175,15 @@ jobs:
               --workers ${{ steps.params.outputs.workers }}
           fi
 
-      - name: ☁️ Configure Rclone
-        if: always()
-        run: |
-          mkdir -p ~/.config/rclone
-          cat << 'EOF' > ~/.config/rclone/rclone.conf
-          ${{ secrets.RCLONE_CONFIG }}
-          EOF
-
-      - name: 📤 Sync Audio Dataset to Google Drive
+      - name: 📤 Sync Complete Dataset & Metadata to Google Drive
         if: always()
         run: |
           if [ -d "Week2" ]; then
+            echo "📤 Đang đẩy toàn bộ audio và metadata mới lên Google Drive..."
             rclone copy Week2/ gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ --progress
+          fi
+          if [ -f ".checkpoints/seen_ids.json" ]; then
+            rclone copy .checkpoints/seen_ids.json gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw: --progress
           fi
 
       - name: 📩 Send Telegram Notification
