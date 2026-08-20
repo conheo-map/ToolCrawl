@@ -146,35 +146,45 @@ class TikTokCrawler(BaseCrawler):
         else:
             return []
 
-        profile_url = f"https://www.tiktok.com/@{username}"
         headers = self._proxy.get_ydl_headers()
-        
+        vids = set()
+
+        # 1. Quét từ trang Embed của kênh (Trả về danh sách video mới nhất mà không bị chặn)
         try:
-            r = requests.get(profile_url, headers=headers, timeout=15)
-            if r.status_code != 200:
-                logger.warning(f"[TikTok] Could not fetch channel page: HTTP {r.status_code}")
-                return []
-            
-            html = r.text
-            vids = set()
-            
-            # 1. Tìm pattern /video/(\d+)
-            for vid in re.findall(r'/video/(\d{15,})', html):
-                vids.add(vid)
-                
-            # 2. Tìm video IDs trong cấu trúc JSON hợp lệ (id: "...", itemId: "...")
-            for vid in re.findall(r'["\'](?:itemId|videoId|aweme_id)["\']\s*:\s*["\'](\d{18,19})["\']', html):
-                vids.add(vid)
-                
-            urls = [f"https://www.tiktok.com/@{username}/video/{vid}" for vid in vids]
-            if urls:
-                logger.info(f"[TikTok] Scraped {len(urls)} video URLs from @{username}")
-            else:
-                logger.info(f"[TikTok] Không tìm thấy video tĩnh trên profile @{username}. Vui lòng dán link video vào file urls.txt hoặc gửi qua Telegram.")
-            return urls[:max_results]
+            embed_url = f"https://www.tiktok.com/embed/@{username}"
+            r_embed = requests.get(embed_url, headers=headers, timeout=10)
+            if r_embed.status_code == 200:
+                for vid in re.findall(r'/video/(\d{18,19})', r_embed.text):
+                    vids.add(vid)
         except Exception as exc:
-            logger.warning(f"[TikTok] Failed to scrape channel @{username}: {exc}")
-            return []
+            logger.debug(f"[TikTok] Embed scrape error: {exc}")
+
+        # 2. Quét từ trang Profile chính thức
+        try:
+            profile_url = f"https://www.tiktok.com/@{username}"
+            r_prof = requests.get(profile_url, headers=headers, timeout=10)
+            if r_prof.status_code == 200:
+                for vid in re.findall(r'/video/(\d{18,19})', r_prof.text):
+                    vids.add(vid)
+                for vid in re.findall(r'["\'](?:itemId|videoId|aweme_id)["\']\s*:\s*["\'](\d{18,19})["\']', r_prof.text):
+                    vids.add(vid)
+        except Exception as exc:
+            logger.debug(f"[TikTok] Profile scrape error: {exc}")
+
+        urls = [f"https://www.tiktok.com/@{username}/video/{vid}" for vid in vids]
+        if urls:
+            logger.info(f"[TikTok] Trích xuất thành công {len(urls)} video từ kênh @{username}")
+        else:
+            logger.warning(f"[TikTok] Kênh @{username} chưa có video hoặc bị ẩn. Hãy dán link video vào urls.txt.")
+        return urls[:max_results]
+
+    def _build_ydl_opts(self, download: bool = True, output_dir: Path | None = None) -> dict:
+        """Thêm API hostname bypass cho TikTok."""
+        opts = super()._build_ydl_opts(download=download, output_dir=output_dir)
+        opts["extractor_args"] = {
+            "tiktok": {"api_hostname": ["api22-core-c-useast1a.tiktokv.com"]}
+        }
+        return opts
 
     def _search_via_ytdlp(self, keyword: str, max_results: int) -> list[str]:
         """Dùng yt-dlp tiktoksearch extractor."""
