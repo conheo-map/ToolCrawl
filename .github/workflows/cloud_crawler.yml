@@ -175,21 +175,21 @@ jobs:
               --workers ${{ steps.params.outputs.workers }}
           fi
 
-      - name: 🛡️ Auto-Reconcile Dataset Parity (100% Sync Guard)
-        if: always()
-        run: |
-          python tools/reconcile_drive.py || true
-
-      - name: 📤 Sync Complete Dataset & Metadata to Google Drive
+      - name: 📤 Sync Audio Files to Google Drive
         if: always()
         run: |
           if [ -d "Week2" ]; then
-            echo "📤 Đang đẩy toàn bộ audio và metadata mới lên Google Drive..."
-            rclone copy Week2/ gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ --exclude "transcripts/**" --exclude "metadata_extended.json" --exclude "yield_funnel.json" --progress
+            echo "📤 Đang đẩy toàn bộ audio mới lên Google Drive..."
+            rclone copy Week2/ gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ --exclude "transcripts/**" --exclude "metadata_extended.json" --exclude "yield_funnel.json" --exclude "quarantine/**" --transfers 8 --checkers 16 --progress
           fi
           if [ -f ".checkpoints/seen_ids.json" ]; then
             rclone copy .checkpoints/seen_ids.json gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw: --progress
           fi
+
+      - name: 🛡️ Master Cumulative Reconciler (100% Remote Sync Guard)
+        if: always()
+        run: |
+          python tools/reconcile_drive.py --remote || true
 
       - name: 🧹 Google Drive Remote Sanitizer (Strict 3-Item Spec Guard)
         if: always()

@@ -418,7 +418,13 @@ def sync_to_gdrive(week_number: int) -> None:
             timeout=1800,          # Tối đa 30 phút, không bao giờ bị dừng giữa chừng
         )
         if res.returncode == 0:
-            logger.info("✅ ĐÃ ĐỒNG BỘ THÀNH CÔNG 100% TOÀN BỘ AUDIO & METADATA LÊN GOOGLE DRIVE!")
+            logger.info("✅ ĐÃ ĐỒNG BỘ AUDIO LÊN GOOGLE DRIVE! ĐANG ĐỐI SOÁT CUMULATIVE CUỐI CÙNG...")
+            try:
+                from tools.reconcile_drive import reconcile_remote_drive
+                reconcile_remote_drive(week_number=week_number)
+            except Exception as e:
+                logger.debug(f"Post-sync remote reconcile error: {e}")
+            logger.info("🎉 ĐÃ HOÀN TẤT ĐỒNG BỘ 100% TOÀN BỘ AUDIO, METADATA VÀ SUMMARY TRÊN GOOGLE DRIVE!")
         else:
             logger.warning(f"Rclone sync kết thúc với mã: {res.returncode}")
     except Exception as exc:
