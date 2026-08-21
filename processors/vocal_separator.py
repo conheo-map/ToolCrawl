@@ -162,12 +162,13 @@ class VocalSeparator:
             logger.info(f"[☁️ Cloud Fast] Removing BGM: {audio_path.name}")
             y, sr = librosa.load(str(audio_path), sr=16000, mono=True)
 
-            # Single-pass spectral gating — nhanh, hiệu quả 90%
+            # Single-pass spectral gating — nhanh, bảo toàn âm sắc
             y_clean = nr.reduce_noise(
                 y=y, sr=sr,
                 stationary=False,
-                prop_decrease=0.90,
+                prop_decrease=0.85,
                 time_constant_s=0.5,
+                freq_mask_smooth_hz=500,
                 n_fft=1024,             # Nhỏ hơn = nhanh hơn
             )
 
@@ -219,20 +220,19 @@ class VocalSeparator:
             y, sr = librosa.load(str(audio_path), sr=16000, mono=True)
 
             # ── Tầng 1: HPSS — Tách Harmonic (nhạc cụ) khỏi Percussive + Vocal ──
-            # margin=3 → càng lớn càng mạnh tay với nhạc nền
-            harmonic, percussive = librosa.effects.hpss(y, margin=3)
+            harmonic, percussive = librosa.effects.hpss(y, margin=2.0)
             # Giọng nói nằm trong phần residual (y trừ đi harmonic)
-            vocals_approx = y - harmonic * 0.9
+            vocals_approx = y - harmonic * 0.85
 
-            # ── Tầng 2: Spectral Gating mạnh ──
-            # Dùng chính phần harmonic làm noise profile để xóa nhạc cụ
+            # ── Tầng 2: Spectral Gating bảo toàn âm vị ──
+            # Dùng chính phần harmonic làm noise profile để xóa nhạc cụ nhưng bảo toàn phụ âm
             noise_clip = harmonic
             vocals_clean = nr.reduce_noise(
                 y=vocals_approx,
                 y_noise=noise_clip,
                 sr=sr,
                 stationary=False,
-                prop_decrease=0.97,       # Xóa 97% nhạc nền
+                prop_decrease=0.85,       # Khử 85% nhạc nền, bảo tồn trọn vẹn phụ âm xát tiếng Việt
                 time_constant_s=0.5,
                 freq_mask_smooth_hz=500,
                 n_fft=2048,
