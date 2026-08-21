@@ -22,6 +22,7 @@ from crawlers.facebook import FacebookCrawler
 from processors.music_detector import MusicDetector
 from processors.vocal_separator import VocalSeparator
 from processors.audio_enhancer import SpeechEnhancer
+from processors.speech_transcriber import SpeechTranscriber
 from storage.dedup import DedupStore
 from storage.metadata_writer import MetadataWriter
 from storage.state_manager import StateManager
@@ -107,6 +108,7 @@ def process_url(
     dry_run: bool = False,
     forced_region: str = "auto",
     speech_enhancer: SpeechEnhancer | None = None,
+    speech_transcriber: SpeechTranscriber | None = None,
 ) -> str:
     """
     Xử lý một URL qua Pipeline Hybrid 3 Tầng & Speech Enhancement:
@@ -114,6 +116,7 @@ def process_url(
       Tầng 2: Có nhạc + Demucs khả dụng → AI tách giọng → lưu vào audio/
       Tầng 3: Có nhạc + Demucs không có → quarantine
       Tầng 4: Tăng cường độ rõ phụ âm, khử tạp âm nền & cân bằng âm lượng to/nhỏ (Dynamic Leveling)
+      Tầng 5: Sinh transcript tiếng Việt nháp ~70% (Lưu vào transcripts/ trên Local)
 
     Trả về: 'done' | 'separated' | 'skipped' | 'rejected' | 'error'
     """
@@ -192,9 +195,20 @@ def process_url(
         if speech_enhancer:
             speech_enhancer.enhance(audio_path)
 
-        # Ghi metadata — xóa internal field trước khi ghi
+        # ─── Bước 05: Sinh Transcript Nháp Tiếng Việt (Chỉ lưu trên Local) ───
+        extended_data = {}
+        if speech_transcriber:
+            trans_info = speech_transcriber.transcribe_file(
+                audio_path,
+                output_dir=cfg.BASE_OUTPUT_DIR / "transcripts"
+            )
+            if trans_info.get("text"):
+                extended_data["transcript_raw"] = trans_info["text"]
+                extended_data["transcript_word_count"] = trans_info["word_count"]
+
+        # Ghi metadata — metadata.json (chuẩn 14 trường Drive) và metadata_extended.json (Local)
         record.pop("_track", None)
-        writer.add_record(record)
+        writer.add_record(record, extended_info=extended_data)
         dedup.mark_seen(item_id)
         state.mark_done(url)
 
@@ -267,6 +281,7 @@ def main() -> None:
     music_detector = MusicDetector(enabled=not args.skip_music_filter)
     vocal_separator = VocalSeparator()
     speech_enhancer = SpeechEnhancer()
+    speech_transcriber = SpeechTranscriber()
 
     if vocal_separator.available:
         logger.info("Hybrid Pipeline: Demucs AI vocal separator ENABLED")
@@ -276,6 +291,7 @@ def main() -> None:
             "Install with: pip install demucs"
         )
     logger.info("ASR Speech Enhancer: Dynamic volume leveling & consonant clarity filter ACTIVE")
+    logger.info("Speech Transcriber: Automated draft Vietnamese transcription (Step 05) ACTIVE")
 
     # ─────────────────────────────────────────────
     # Step 1: Search
@@ -311,7 +327,7 @@ def main() -> None:
             executor.submit(
                 process_url,
                 url, crawler, dedup, state, writer, music_detector, vocal_separator,
-                args.batch_num, False, args.region, speech_enhancer,
+                args.batch_num, False, args.region, speech_enhancer, speech_transcriber,
             ): url
             for url in urls
         }

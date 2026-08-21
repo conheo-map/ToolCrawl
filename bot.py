@@ -29,6 +29,7 @@ from crawlers.facebook import FacebookCrawler
 from processors.music_detector import MusicDetector
 from processors.vocal_separator import VocalSeparator
 from processors.audio_enhancer import SpeechEnhancer
+from processors.speech_transcriber import SpeechTranscriber
 from storage.dedup import DedupStore
 from storage.metadata_writer import MetadataWriter
 from storage.state_manager import StateManager
@@ -68,6 +69,8 @@ class TelegramCrawlerBot:
         )
         self._music_detector = MusicDetector(enabled=cfg.MUSIC_FILTER_ENABLED)
         self._vocal_separator = VocalSeparator()
+        self._speech_enhancer = SpeechEnhancer()
+        self._speech_transcriber = SpeechTranscriber()
 
         # Tự động gỡ Webhook Cloud để máy tính Local có thể nhận tin nhắn
         self._clear_webhook()
@@ -283,9 +286,19 @@ class TelegramCrawlerBot:
                 # Tăng cường âm thanh: Khử tạp âm, tăng độ rõ chữ & cân bằng âm lượng
                 self._speech_enhancer.enhance(audio_path)
 
-                # Ghi Metadata & Checkpoint
+                # Bước 05: Sinh transcript tiếng Việt nháp (Lưu trên Local)
+                extended_data = {}
+                trans_info = self._speech_transcriber.transcribe_file(
+                    audio_path,
+                    output_dir=cfg.BASE_OUTPUT_DIR / "transcripts"
+                )
+                if trans_info.get("text"):
+                    extended_data["transcript_raw"] = trans_info["text"]
+                    extended_data["transcript_word_count"] = trans_info["word_count"]
+
+                # Ghi Metadata & Checkpoint (metadata.json cho Drive, metadata_extended.json cho Local)
                 record.pop("_track", None)
-                self._writer.add_record(record)
+                self._writer.add_record(record, extended_info=extended_data)
                 self._dedup.mark_seen(item_id)
                 state.mark_done(url)
                 success_count += 1
