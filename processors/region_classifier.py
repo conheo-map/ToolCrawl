@@ -204,17 +204,17 @@ class RegionClassifier:
         norm = _normalize(text)
         scores = {"northern": 0.0, "southern": 0.0, "central": 0.0}
 
-        # Tính điểm Ngữ khí từ (5.0 điểm / từ)
+        # Tính điểm Khẩu ngữ & Ngữ khí đặc trưng (6.0 điểm / từ) — Ưu tiên cao nhất
         for region, kw_set in DIALECT_HIGH_WEIGHT.items():
             for kw in kw_set:
                 if re.search(r"\b" + re.escape(kw) + r"\b", norm):
-                    scores[region] += 5.0
+                    scores[region] += 6.0
 
-        # Tính điểm Địa danh (1.5 điểm / từ)
+        # Tính điểm Địa danh (1.0 điểm / từ) — Tránh bị đánh lừa bởi hashtag câu view
         for region, kw_set in GEOGRAPHIC_WEIGHT.items():
             for kw in kw_set:
                 if kw in norm:
-                    scores[region] += 1.5
+                    scores[region] += 1.0
 
         return scores
 
