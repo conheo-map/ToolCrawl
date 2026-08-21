@@ -22944,5 +22944,27 @@
     },
     "legal_license": "research_only",
     "intended_use": "ASR_speech_recognition_training"
+  },
+  {
+    "item_id": "tt_7412345678901234567",
+    "platform": "tiktok",
+    "platform_video_id": "7412345678901234567",
+    "video_url": "https://www.tiktok.com/@user/video/7412345678901234567",
+    "title": "Review quán ăn Hà Nội",
+    "description": "Test caption",
+    "posted_at": "2026-08-10T13:22:05+07:00",
+    "language_raw": "vi",
+    "audio_path": "audio/tt_7412345678901234567.wav",
+    "duration_seconds": 120.0,
+    "crawl_batch": "tt_20260819_01",
+    "crawled_at": "2026-08-19T09:14:00+07:00",
+    "platform_meta": {
+      "music_is_original": true,
+      "is_duet": false,
+      "is_stitch": false,
+      "has_platform_captions": true
+    },
+    "legal_license": "research_only",
+    "intended_use": "ASR_speech_recognition_training"
   }
 ]

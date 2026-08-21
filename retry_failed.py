@@ -112,7 +112,14 @@ def main() -> None:
 
     logger.info(f"Retrying {len(to_retry)} URLs with {args.workers} workers...")
 
-    from main import process_url
+    from processors.vocal_separator import VocalSeparator
+    from processors.audio_enhancer import SpeechEnhancer
+    from processors.speech_transcriber import SpeechTranscriber
+    from main import process_url, sync_to_gdrive
+
+    vocal_separator = VocalSeparator()
+    speech_enhancer = SpeechEnhancer()
+    speech_transcriber = SpeechTranscriber()
 
     stats = {"done": 0, "skipped": 0, "rejected": 0, "error": 0}
 
@@ -121,7 +128,8 @@ def main() -> None:
             executor.submit(
                 process_url,
                 r["url"], crawler, dedup, state, writer,
-                music_detector, 1, False,
+                music_detector, vocal_separator, 1, False, None,
+                speech_enhancer, speech_transcriber,
             ): r
             for r in to_retry
         }
@@ -132,7 +140,8 @@ def main() -> None:
                 stats[result] += 1
 
     dedup.save()
-    writer.write_summary(platform=args.platform, batch_count=1)
+    writer.write_summary(platform=args.platform, batch_count=1, audio_dir=cfg.AUDIO_DIR)
+    sync_to_gdrive(week_number=cfg.WEEK_NUMBER)
 
     logger.info(
         f"Retry complete: done={stats['done']} skipped={stats['skipped']} "
