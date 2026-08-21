@@ -352,7 +352,7 @@ def main() -> None:
     # Step 3: Finalize
     # ─────────────────────────────────────────────
     dedup.save()
-    writer.write_summary(platform=args.platform, batch_count=args.batch_num)
+    writer.write_summary(platform=args.platform, batch_count=args.batch_num, audio_dir=cfg.AUDIO_DIR)
 
     logger.info(
         f"\n{'='*50}\n"
