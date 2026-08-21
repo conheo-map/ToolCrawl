@@ -45,23 +45,28 @@ class DedupStore:
             return item_id in self._seen
 
     def mark_seen(self, item_id: str) -> None:
-        """Đánh dấu item_id đã xử lý xong."""
+        """Đánh dấu item_id đã xử lý xong và tự động lưu tức thì xuống đĩa."""
         with self._lock:
             self._seen.add(item_id)
+            self._save_unlocked()
+
+    def _save_unlocked(self) -> None:
+        """Ghi atomic xuống file khi đang giữ lock."""
+        tmp = self._path.with_suffix(".tmp")
+        tmp.write_text(
+            json.dumps(
+                {"seen_ids": sorted(self._seen)},
+                ensure_ascii=False,
+                indent=2,
+            ),
+            encoding="utf-8",
+        )
+        tmp.replace(self._path)
 
     def save(self) -> None:
         """Ghi danh sách seen_ids xuống file (atomic write)."""
         with self._lock:
-            tmp = self._path.with_suffix(".tmp")
-            tmp.write_text(
-                json.dumps(
-                    {"seen_ids": sorted(self._seen)},
-                    ensure_ascii=False,
-                    indent=2,
-                ),
-                encoding="utf-8",
-            )
-            tmp.replace(self._path)
+            self._save_unlocked()
             logger.debug(f"Saved {len(self._seen)} seen IDs")
 
     def count(self) -> int:
