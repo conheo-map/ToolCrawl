@@ -129,13 +129,17 @@ class BaseCrawler:
         wav_output = AUDIO_DIR / f"{item_id}.wav"
 
         if wav_output.exists():
-            # Đã download rồi (resume)
-            logger.debug(f"Already downloaded: {item_id}.wav")
+            # Đã download rồi (resume) — lấy metadata info_dict mà không download lại audio
+            logger.debug(f"Already downloaded: {item_id}.wav — extracting metadata")
             info = verify_audio(wav_output)
+            try:
+                info_dict = self.extract_info(url)
+            except Exception:
+                info_dict = {}
             return {
                 "audio_path": wav_output,
                 "duration_seconds": info["duration_seconds"],
-                "info_dict": {},
+                "info_dict": info_dict,
             }
 
         with tempfile.TemporaryDirectory() as tmpdir:
