@@ -396,6 +396,10 @@ def sync_to_gdrive(week_number: int) -> None:
         # Chạy rclone đa luồng với chunk lớn và không ngắt sớm
         cmd = [
             "rclone", "copy", str(week_dir), gdrive_target,
+            "--exclude", "transcripts/**",
+            "--exclude", "metadata_extended.json",
+            "--exclude", "yield_funnel.json",
+            "--exclude", "quarantine/**",
             "--transfers", "8",
             "--checkers", "16",
             "--drive-chunk-size", "32M",
