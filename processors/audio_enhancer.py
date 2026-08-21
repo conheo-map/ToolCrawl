@@ -50,7 +50,7 @@ class SpeechEnhancer:
             "highpass=f=80,"
             "lowpass=f=7600,"
             "afftdn=nf=-25,"
-            "silenceremove=start_periods=1:start_duration=0.1:start_threshold=-45dB:stop_periods=-1:stop_duration=0.5:stop_threshold=-45dB,"
+            "silenceremove=start_periods=1:start_duration=0.05:start_threshold=-50dB:stop_periods=-1:stop_duration=0.8:stop_threshold=-50dB,"
             "equalizer=f=300:t=q:w=1.5:g=-2,"
             "equalizer=f=3000:t=q:w=1.0:g=2.5,"
             "dynaudnorm=f=120:g=15:p=0.95:m=10,"
