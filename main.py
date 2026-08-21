@@ -23,6 +23,7 @@ from processors.music_detector import MusicDetector
 from processors.vocal_separator import VocalSeparator
 from processors.audio_enhancer import SpeechEnhancer
 from processors.speech_transcriber import SpeechTranscriber
+from processors.quality_assessor import QualityAssessor
 from storage.dedup import DedupStore
 from storage.metadata_writer import MetadataWriter
 from storage.state_manager import StateManager
@@ -109,6 +110,7 @@ def process_url(
     forced_region: str = "auto",
     speech_enhancer: SpeechEnhancer | None = None,
     speech_transcriber: SpeechTranscriber | None = None,
+    quality_assessor: QualityAssessor | None = None,
 ) -> str:
     """
     Xử lý một URL qua Pipeline Hybrid 3 Tầng & Speech Enhancement:
@@ -201,8 +203,23 @@ def process_url(
                 except Exception as e:
                     logger.warning(f"Failed to recalculate duration for {item_id}: {e}")
 
-        # ─── Bước 05: Sinh Transcript Nháp Tiếng Việt (Chỉ lưu trên Local) ───
+        # ─── Thẩm định Chất lượng Âm thanh ASR (SNR & Quality Score) ───
         extended_data = {}
+        if quality_assessor:
+            q_stats = quality_assessor.assess(audio_path)
+            extended_data["snr_db"] = q_stats["snr_db"]
+            extended_data["quality_score"] = q_stats["quality_score"]
+            extended_data["speech_ratio"] = q_stats["speech_ratio"]
+            extended_data["peak_dbfs"] = q_stats["peak_dbfs"]
+
+            if not q_stats["is_clean"] and q_stats["snr_db"] < 8.0:
+                logger.warning(f"[Quality Guard] Audio degraded (SNR={q_stats['snr_db']}dB < 8dB) -> Quarantining: {item_id}")
+                music_detector.quarantine(audio_path)
+                dedup.mark_seen(item_id)
+                state.mark_done(url)
+                return "rejected"
+
+        # ─── Bước 05: Sinh Transcript Nháp Tiếng Việt (Chỉ lưu trên Local) ───
         if speech_transcriber:
             trans_info = speech_transcriber.transcribe_file(
                 audio_path,
@@ -288,6 +305,7 @@ def main() -> None:
     vocal_separator = VocalSeparator()
     speech_enhancer = SpeechEnhancer()
     speech_transcriber = SpeechTranscriber()
+    quality_assessor = QualityAssessor()
 
     if vocal_separator.available:
         logger.info("Hybrid Pipeline: Demucs AI vocal separator ENABLED")
@@ -296,7 +314,8 @@ def main() -> None:
             "Hybrid Pipeline: Demucs not installed — music videos will be quarantined. "
             "Install with: pip install demucs"
         )
-    logger.info("ASR Speech Enhancer: Dynamic volume leveling & consonant clarity filter ACTIVE")
+    logger.info("ASR Speech Enhancer: Studio DSP filter & EBU R128 (-16 LUFS) ACTIVE")
+    logger.info("Quality Assessor: Industrial ASR SNR & Speech Quality Verifier ACTIVE")
     logger.info("Speech Transcriber: Automated draft Vietnamese transcription (Step 05) ACTIVE")
 
     # ─────────────────────────────────────────────
@@ -334,6 +353,7 @@ def main() -> None:
                 process_url,
                 url, crawler, dedup, state, writer, music_detector, vocal_separator,
                 args.batch_num, False, args.region, speech_enhancer, speech_transcriber,
+                quality_assessor,
             ): url
             for url in urls
         }

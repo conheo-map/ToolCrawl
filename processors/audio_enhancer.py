@@ -47,14 +47,14 @@ class SpeechEnhancer:
         # 6. Dynamic Normalizer (dynaudnorm): Cân bằng tự động đoạn nói to / nói nhỏ
         # 7. EBU R128 Loudnorm: Chuẩn hóa âm lượng đầu ra -16 LUFS
         filter_chain = (
-            "highpass=f=80,"
-            "lowpass=f=7600,"
-            "afftdn=nf=-25,"
+            "highpass=f=85,"
+            "lowpass=f=7500,"
+            "afftdn=nf=-28,"
             "silenceremove=start_periods=1:start_duration=0.05:start_threshold=-50dB:stop_periods=-1:stop_duration=0.8:stop_threshold=-50dB,"
-            "equalizer=f=300:t=q:w=1.5:g=-2,"
-            "equalizer=f=3000:t=q:w=1.0:g=2.5,"
-            "dynaudnorm=f=120:g=15:p=0.95:m=10,"
-            "loudnorm=I=-16:TP=-1.5:LRA=11"
+            "equalizer=f=300:t=q:w=1.5:g=-2.0,"
+            "equalizer=f=3200:t=q:w=1.0:g=2.5,"
+            "dynaudnorm=f=150:g=15:p=0.95:m=10,"
+            "loudnorm=I=-16:TP=-1.0:LRA=9"
         )
 
         cmd = [
