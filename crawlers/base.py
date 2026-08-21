@@ -87,24 +87,32 @@ class BaseCrawler:
                 self._rate.wait()
                 result = self._try_download(url, item_id)
                 return result
-            except ValueError as exc:
-                if "No audio stream" in str(exc):
-                    logger.warning(f"Bỏ qua {item_id}: Video bị câm (không có audio).")
-                    raise DownloadError("NO_AUDIO_STREAM_FOUND") from exc
-                last_error = exc
-                logger.warning(f"Download attempt {attempt + 1}/{MAX_RETRIES} failed for {item_id}: {exc}")
-                if attempt < MAX_RETRIES - 1:
-                    RateLimiter.backoff(attempt)
             except Exception as exc:
                 last_error = exc
                 err_str = str(exc)
                 logger.warning(f"Download attempt {attempt + 1}/{MAX_RETRIES} failed for {item_id}: {err_str}")
-                
+
+                # Nhận diện lỗi không thể cứu (Video bị xóa, private, câm, quá ngắn/dài) -> Bỏ qua ngay lập tức, không retry
+                unrecoverable = any(p in err_str.lower() for p in [
+                    "no audio stream",
+                    "video unavailable",
+                    "this video is private",
+                    "private video",
+                    "post has been removed",
+                    "http error 404",
+                    "audio too short",
+                    "audio too long"
+                ])
+                if unrecoverable:
+                    logger.warning(f"Bỏ qua {item_id} ngay vòng {attempt + 1} (Lỗi không thể phục hồi): {err_str}")
+                    self._log_error(url, item_id, err_str)
+                    raise DownloadError(f"UNRECOVERABLE: {err_str}") from exc
+
                 if "429" in err_str or "Too Many Requests" in err_str:
                     current = self._proxy.get_proxy()
                     if current:
                         self._proxy.blacklist_proxy(current["http"])
-                        
+
                 if attempt < MAX_RETRIES - 1:
                     RateLimiter.backoff(attempt)
 
