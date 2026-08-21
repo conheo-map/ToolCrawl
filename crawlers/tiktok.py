@@ -157,7 +157,25 @@ class TikTokCrawler(BaseCrawler):
         headers = self._proxy.get_ydl_headers()
         vids = set()
 
-        # 1. Quét từ trang Embed của kênh (Trả về danh sách video mới nhất mà không bị chặn)
+        # 1. Thử trích xuất qua yt-dlp flat extraction (lấy được danh sách video sâu hơn)
+        try:
+            opts = self._build_ydl_opts(download=False)
+            opts["extract_flat"] = "in_playlist"
+            opts["playlistend"] = max_results
+            opts["quiet"] = True
+            with yt_dlp.YoutubeDL(opts) as ydl:
+                info = ydl.extract_info(f"https://www.tiktok.com/@{username}", download=False)
+                if info and "entries" in info:
+                    for entry in info["entries"]:
+                        if entry:
+                            vid_url = entry.get("url") or entry.get("webpage_url") or ""
+                            m_id = re.search(r'(\d{18,19})', str(vid_url))
+                            if m_id:
+                                vids.add(m_id.group(1))
+        except Exception as exc:
+            logger.debug(f"[TikTok] yt-dlp channel extract notice: {exc}")
+
+        # 2. Quét từ trang Embed của kênh (Dự phòng nhanh nếu yt-dlp bị chặn)
         try:
             embed_url = f"https://www.tiktok.com/embed/@{username}"
             r_embed = requests.get(embed_url, headers=headers, timeout=10)
