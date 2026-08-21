@@ -167,10 +167,10 @@ class FacebookCrawler(BaseCrawler):
                 timestamp, tz=VN_TZ
             ).isoformat(timespec="seconds")
         else:
-            posted_at = None
+            posted_at = datetime.now(VN_TZ).isoformat(timespec="seconds")
 
-        # audio_path theo chuẩn spec
-        audio_rel = f"audio/{item_id}.wav"
+        # audio_path theo chuẩn spec công ty: audio/YYYY-MM-DD/fb_<id>.wav
+        audio_rel = f"audio/{CRAWL_DATE}/{item_id}.wav"
 
         # Phân loại vùng miền (northern / southern / central / mixed)
         from processors.region_classifier import RegionClassifier
