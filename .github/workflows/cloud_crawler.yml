@@ -1,9 +1,9 @@
-name: Cloud Audio Crawler to Google Drive
+name: Cloud Audio Crawler to Google Drive (Matrix Engine)
 
 on:
-  # 1. Chế độ Tự Động 24/7: Cứ mỗi 4 tiếng tự cào theo từ khóa/danh sách link
+  # 1. Chế độ Tự Động 24/7: Cứ mỗi 3 tiếng tự cào 4 luồng song song (50h - 100h)
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 */3 * * *'
 
   # 2. Chế độ Ưu Tiên Tức Thì: Nhận link bạn gửi từ Telegram trên điện thoại
   repository_dispatch:
@@ -12,6 +12,18 @@ on:
   # 3. Chế độ Thủ Công: Bấm nút chạy trên GitHub Web hoặc App
   workflow_dispatch:
     inputs:
+      topic:
+        description: 'Chuyên đề cào (hoặc chọn custom để cào link/kênh riêng)'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - news_national
+          - regional_dialects
+          - education_podcast
+          - life_interview
+          - custom
       platform:
         description: 'Nền tảng (tiktok hoặc facebook)'
         required: true
@@ -21,17 +33,22 @@ on:
           - tiktok
           - facebook
       keyword:
-        description: 'Link video, link kênh, hoặc urls.txt'
-        required: true
+        description: 'Keyword hoặc link (chỉ dùng khi chọn topic=custom)'
+        required: false
         default: 'urls.txt'
       workers:
-        description: 'Số luồng chạy song song'
+        description: 'Số luồng tải song song trên mỗi runner'
         required: true
         default: '4'
 
 jobs:
-  crawl-and-sync:
+  cloud-crawler-matrix:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        topic: [news_national, regional_dialects, education_podcast, life_interview]
 
     steps:
       - name: 📥 Checkout Repository
@@ -62,51 +79,6 @@ jobs:
           pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
           pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
 
-      - name: ⚙️ Parse Input Parameters (Dual-Mode Engine)
-        id: params
-        run: |
-          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
-            URLS="${{ github.event.client_payload.urls }}"
-            URL="${{ github.event.client_payload.url }}"
-            CHAT_ID="${{ github.event.client_payload.chat_id }}"
-            
-            if [ -n "$URLS" ]; then
-              printf "%s\n" "$URLS" > batch_urls.txt
-              KEYWORD="batch_urls.txt"
-              if echo "$URLS" | grep -qi "tiktok.com"; then
-                PLATFORM="tiktok"
-              else
-                PLATFORM="facebook"
-              fi
-            else
-              KEYWORD="$URL"
-              if [[ "$URL" == *"tiktok.com"* ]]; then
-                PLATFORM="tiktok"
-              else
-                PLATFORM="facebook"
-              fi
-            fi
-            
-            echo "platform=$PLATFORM" >> $GITHUB_OUTPUT
-            echo "keyword=$KEYWORD" >> $GITHUB_OUTPUT
-            echo "chat_id=$CHAT_ID" >> $GITHUB_OUTPUT
-            echo "workers=2" >> $GITHUB_OUTPUT
-          elif [ "${{ github.event_name }}" = "schedule" ]; then
-            # ──────────────────────────────────────────────────────────
-            # CẤU HÌNH CÀO TỰ ĐỘNG THEO LỊCH 24/7 (CRON SCHEDULE)
-            # Bạn có thể đổi platform (tiktok/facebook) và keyword tại đây:
-            # ──────────────────────────────────────────────────────────
-            echo "platform=tiktok" >> $GITHUB_OUTPUT
-            echo "keyword=urls.txt" >> $GITHUB_OUTPUT
-            echo "chat_id=" >> $GITHUB_OUTPUT
-            echo "workers=4" >> $GITHUB_OUTPUT
-          else
-            echo "platform=${{ github.event.inputs.platform }}" >> $GITHUB_OUTPUT
-            echo "keyword=${{ github.event.inputs.keyword }}" >> $GITHUB_OUTPUT
-            echo "chat_id=" >> $GITHUB_OUTPUT
-            echo "workers=${{ github.event.inputs.workers }}" >> $GITHUB_OUTPUT
-          fi
-
       - name: ☁️ Configure Rclone & Pull Existing Metadata from Google Drive
         run: |
           mkdir -p ~/.config/rclone
@@ -120,66 +92,43 @@ jobs:
           mkdir -p .checkpoints
           rclone copy gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:seen_ids.json .checkpoints/ || true
 
-      - name: 🚀 Run Audio Crawler Pipeline (☁️ Cloud Fast Mode)
+      - name: 🚀 Run Autonomous Crawler Runner (${{ matrix.topic }})
         env:
           CLOUD_MODE: "1"
         run: |
-          if [ "${{ github.event_name }}" = "schedule" ]; then
-            echo "⏰ [SCHEDULE CRON] Đang chạy cào tự động 24/7 chuyên đề TIN TỨC & HỌC ONLINE trên TikTok..."
-            
-            # 1. Ưu tiên cào file urls.txt nếu có link mới
-            if [ -f "urls.txt" ]; then
-              echo "📝 [1/3] Cào danh sách link từ urls.txt..."
-              python main.py --platform tiktok --keyword "urls.txt" --workers 4 || true
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            # Chỉ chạy trên runner đầu tiên khi nhận link Telegram
+            if [ "${{ matrix.topic }}" = "news_national" ]; then
+              URLS="${{ github.event.client_payload.urls }}"
+              URL="${{ github.event.client_payload.url }}"
+              
+              if [ -n "$URLS" ]; then
+                printf "%s\n" "$URLS" > batch_urls.txt
+                python main.py --platform tiktok --keyword "batch_urls.txt" --workers 4 || true
+              else
+                python main.py --platform tiktok --keyword "$URL" --workers 2 || true
+              fi
             fi
-            
-            # 2. Cào các KÊNH TIN TỨC & HỌC ONLINE chính thống trên TikTok
-            CHANNELS=(
-              "https://www.tiktok.com/@vtv24news"
-              "https://www.tiktok.com/@dantri.com.vn"
-              "https://www.tiktok.com/@vnexpress.official"
-              "https://www.tiktok.com/@thanhnien.official"
-              "https://www.tiktok.com/@tuoitreonline"
-              "https://www.tiktok.com/@vtctintuc"
-              "https://www.tiktok.com/@hocmai.vn"
-              "https://www.tiktok.com/@onluyen.vn"
-              "https://www.tiktok.com/@tuyensinh247.com"
-              "https://www.tiktok.com/@kienthuc.thuvi"
-            )
-            for SOURCE in "${CHANNELS[@]}"; do
-              echo "🎙️ [2/3] Cào kênh chính thống: $SOURCE"
-              python main.py --platform tiktok --keyword "$SOURCE" --max-results 25 --workers 4 || true
-            done
-
-            # 3. Cào theo TỪ KHÓA TÌM KIẾM liên quan đến Tin tức & Học online
-            KEYWORDS=(
-              "tin tức thời sự hôm nay"
-              "tin tức 24h mới nhất"
-              "tin nóng thời sự việt nam"
-              "học online hiệu quả"
-              "phương pháp học online"
-              "kinh nghiệm học online"
-              "bài giảng online"
-              "tự học online mỗi ngày"
-              "hướng dẫn học trực tuyến"
-            )
-            for KW in "${KEYWORDS[@]}"; do
-              echo "🔍 [3/3] Cào theo từ khóa: $KW"
-              python main.py --platform tiktok --keyword "$KW" --max-results 25 --workers 4 || true
-            done
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            SELECTED_TOPIC="${{ github.event.inputs.topic }}"
+            if [ "$SELECTED_TOPIC" = "custom" ]; then
+              if [ "${{ matrix.topic }}" = "news_national" ]; then
+                python main.py --platform ${{ github.event.inputs.platform }} --keyword "${{ github.event.inputs.keyword }}" --workers ${{ github.event.inputs.workers }} || true
+              fi
+            elif [ "$SELECTED_TOPIC" = "all" ] || [ "$SELECTED_TOPIC" = "${{ matrix.topic }}" ]; then
+              python crawl_topic.py --topic "${{ matrix.topic }}" --platform ${{ github.event.inputs.platform }} --workers 4 || true
+            fi
           else
-            # Chạy khi nhận link Telegram hoặc bấm nút thủ công
-            python main.py \
-              --platform ${{ steps.params.outputs.platform }} \
-              --keyword "${{ steps.params.outputs.keyword }}" \
-              --workers ${{ steps.params.outputs.workers }}
+            # SCHEDULE CRON 24/7: Chạy chuyên đề song song trên 4 runner
+            echo "⏰ [SCHEDULE 24/7] Đang chạy chuyên đề: ${{ matrix.topic }}"
+            python crawl_topic.py --topic "${{ matrix.topic }}" --platform tiktok --workers 4 || true
           fi
 
       - name: 📤 Sync Audio Files to Google Drive
         if: always()
         run: |
           if [ -d "Week2" ]; then
-            echo "📤 Đang đẩy toàn bộ audio mới lên Google Drive..."
+            echo "📤 Đang đẩy audio mới lên Google Drive..."
             rclone copy Week2/ gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ --exclude "transcripts/**" --exclude "metadata_extended.json" --exclude "yield_funnel.json" --exclude "quarantine/**" --transfers 8 --checkers 16 --progress
           fi
           if [ -f ".checkpoints/seen_ids.json" ]; then
@@ -194,7 +143,6 @@ jobs:
       - name: 🧹 Google Drive Remote Sanitizer (Strict 3-Item Spec Guard)
         if: always()
         run: |
-          echo "🧹 Quét dọn tự động để Google Drive chỉ chứa duy nhất audio/, metadata.json, summary.json..."
           for DATE_DIR in $(rclone lsf "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/" --dirs-only); do
             rclone deletefile "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/${DATE_DIR}metadata_extended.json" || true
             rclone deletefile "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/${DATE_DIR}yield_funnel.json" || true
@@ -204,7 +152,7 @@ jobs:
       - name: 📩 Send Telegram Notification
         if: always()
         run: |
-          CHAT_ID="${{ steps.params.outputs.chat_id }}"
+          CHAT_ID="${{ github.event.client_payload.chat_id }}"
           BOT_TOKEN="${{ secrets.TELEGRAM_BOT_TOKEN }}"
           
           if [ -n "$CHAT_ID" ] && [ -n "$BOT_TOKEN" ]; then
