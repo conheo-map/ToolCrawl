@@ -284,7 +284,13 @@ class TelegramCrawlerBot:
                     record["clean_method"] = "original"
 
                 # Tăng cường âm thanh: Khử tạp âm, tăng độ rõ chữ & cân bằng âm lượng
-                self._speech_enhancer.enhance(audio_path)
+                if self._speech_enhancer.enhance(audio_path):
+                    from processors.audio_converter import verify_audio
+                    try:
+                        final_info = verify_audio(audio_path)
+                        record["duration_seconds"] = final_info["duration_seconds"]
+                    except Exception as e:
+                        logger.warning(f"Failed to recalculate duration for {item_id}: {e}")
 
                 # Bước 05: Sinh transcript tiếng Việt nháp (Lưu trên Local)
                 extended_data = {}

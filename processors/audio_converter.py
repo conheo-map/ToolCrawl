@@ -43,6 +43,7 @@ def convert_to_wav(input_path: Path, output_path: Path) -> float:
         "-y",                        # Overwrite output
         "-i", str(input_path),
         "-vn",                       # Bỏ video stream
+        "-af", "aresample=resampler=soxr,volume=0.95",
         "-acodec", AUDIO_CODEC,      # pcm_s16le
         "-ar", str(AUDIO_SAMPLE_RATE),
         "-ac", str(AUDIO_CHANNELS),

@@ -89,6 +89,7 @@ class MetadataWriter:
         with self._lock:
             self._records.append(clean_record)
             self._extended_records.append(ext_record)
+            
             self._flush()
 
     def increment_error(self) -> None:
@@ -167,6 +168,8 @@ class MetadataWriter:
             self.reconcile_with_audio_dir(audio_dir)
 
         with self._lock:
+            self._flush()  # Đảm bảo metadata.json được ghi hoàn chỉnh ở cuối
+            
             unique_ids = len({r["item_id"] for r in self._records})
             total_hours = sum(
                 r.get("duration_seconds", 0) for r in self._records

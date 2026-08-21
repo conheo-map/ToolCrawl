@@ -116,6 +116,8 @@ class VocalSeparator:
                 "demucs",
                 "--model", self._model,
                 "--two-stems", "vocals",
+                "--shifts", "2",
+                "--overlap", "0.25",
                 "--out", str(output_dir),
                 str(audio_path),
             ]

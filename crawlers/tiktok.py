@@ -316,7 +316,7 @@ class TikTokCrawler(BaseCrawler):
             posted_at = None
 
         # audio_path theo chuẩn spec
-        audio_rel = f"audio/{CRAWL_DATE}/{item_id}.wav"
+        audio_rel = f"audio/{item_id}.wav"
 
         # Phân loại vùng miền (northern / southern / central / mixed)
         from processors.region_classifier import RegionClassifier

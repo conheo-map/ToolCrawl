@@ -4,8 +4,11 @@ crawlers/base.py — BaseCrawler: yt-dlp wrapper với retry, fallback, và audi
 
 import json
 import tempfile
+import threading
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
+
+_error_lock = threading.Lock()
 
 import yt_dlp
 
@@ -84,12 +87,24 @@ class BaseCrawler:
                 self._rate.wait()
                 result = self._try_download(url, item_id)
                 return result
+            except ValueError as exc:
+                if "No audio stream" in str(exc):
+                    logger.warning(f"Bỏ qua {item_id}: Video bị câm (không có audio).")
+                    raise DownloadError("NO_AUDIO_STREAM_FOUND") from exc
+                last_error = exc
+                logger.warning(f"Download attempt {attempt + 1}/{MAX_RETRIES} failed for {item_id}: {exc}")
+                if attempt < MAX_RETRIES - 1:
+                    RateLimiter.backoff(attempt)
             except Exception as exc:
                 last_error = exc
-                logger.warning(
-                    f"Download attempt {attempt + 1}/{MAX_RETRIES} failed "
-                    f"for {item_id}: {exc}"
-                )
+                err_str = str(exc)
+                logger.warning(f"Download attempt {attempt + 1}/{MAX_RETRIES} failed for {item_id}: {err_str}")
+                
+                if "429" in err_str or "Too Many Requests" in err_str:
+                    current = self._proxy.get_proxy()
+                    if current:
+                        self._proxy.blacklist_proxy(current["http"])
+                        
                 if attempt < MAX_RETRIES - 1:
                     RateLimiter.backoff(attempt)
 
@@ -203,6 +218,7 @@ class BaseCrawler:
             "error": error,
             "failed_at": datetime.now(VN_TZ).isoformat(timespec="seconds"),
         }
-        with open(error_file, "a", encoding="utf-8") as f:
-            f.write(json.dumps(record, ensure_ascii=False) + "\n")
+        with _error_lock:
+            with open(error_file, "a", encoding="utf-8") as f:
+                f.write(json.dumps(record, ensure_ascii=False) + "\n")
         logger.debug(f"Logged error for {item_id} -> {error_file.name}")

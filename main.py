@@ -193,7 +193,13 @@ def process_url(
 
         # ─── Tăng cường âm thanh ASR: Làm rõ chữ, lọc tạp âm & cân bằng âm lượng to/nhỏ ───
         if speech_enhancer:
-            speech_enhancer.enhance(audio_path)
+            if speech_enhancer.enhance(audio_path):
+                from processors.audio_converter import verify_audio
+                try:
+                    final_info = verify_audio(audio_path)
+                    record["duration_seconds"] = final_info["duration_seconds"]
+                except Exception as e:
+                    logger.warning(f"Failed to recalculate duration for {item_id}: {e}")
 
         # ─── Bước 05: Sinh Transcript Nháp Tiếng Việt (Chỉ lưu trên Local) ───
         extended_data = {}
