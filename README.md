@@ -1,4 +1,4 @@
-﻿# 🎙️ SAYDITOOL — VIETNAMESE SPEECH AUDIO CRAWLER & AI PIPELINE
+# 🎙️ SAYDITOOL — VIETNAMESE SPEECH AUDIO CRAWLER & AI PIPELINE
 > **Dự án:** Hệ thống Thu thập & Xử lý Dữ liệu Âm thanh Tiếng Việt quy mô lớn cho huấn luyện nhận dạng giọng nói (Vietnamese ASR Dataset Pipeline).  
 > **Mục tiêu:** Thu thập 500 giờ âm thanh chuẩn ASR trong 7 tuần từ Facebook Reels & TikTok.  
 > **Phiên bản:** 2.5 (Tích hợp Tách Giọng AI + Điều Khiển Từ Xa Bằng Telegram Bot & Cloud GitHub Actions).
@@ -32,8 +32,9 @@ Trước khi chạy bất kỳ câu lệnh nào, hãy chú ý **Biểu tượng 
 7. [Đóng gói Docker chuyển sang Máy tính khác](#7-đóng-gói-docker-chuyển-sang-máy-tính-khác)
 8. [Đẩy Dự án lên GitHub & Quản lý Mã nguồn](#8-đẩy-dự-án-lên-github--quản-lý-mã-nguồn)
 9. [Cài đặt Rclone & Đồng bộ Google Drive](#9-cài-đặt-rclone--đồng-bộ-google-drive)
-10. [Bảng Tra cứu Toàn bộ Câu Lệnh (Cheatsheet)](#10-bảng-tra-cứu-toàn-bộ-câu-lệnh-cheatsheet)
-11. [Cẩm nang Xử lý Sự cố & Debug Lỗi (Troubleshooting)](#11-cẩm-nang-xử-lý-sự-cố--debug-lỗi-troubleshooting)
+10. [Hướng dẫn Gói 4: Vận hành & Báo cáo Tự động Thông minh (Dashboard & Daily Report)](#10-hướng-dẫn-gói-4-vận-hành--báo-cáo-tự-động-thông-minh-dashboard--daily-report)
+11. [Bảng Tra cứu Toàn bộ Câu Lệnh (Cheatsheet)](#11-bảng-tra-cứu-toàn-bộ-câu-lệnh-cheatsheet)
+12. [Cẩm nang Xử lý Sự cố & Debug Lỗi (Troubleshooting)](#12-cẩm-nang-xử-lý-sự-cố--debug-lỗi-troubleshooting)
 
 ---
 
@@ -934,23 +935,60 @@ rclone sync C:\HocC\SaydiTool\Week2 gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAl
 
 ---
 
-## 10. BẢNG TRA CỨU TOÀN BỘ CÂU LỆNH (CHEATSHEET)
+## 10. HƯỚNG DẪN GÓI 4: VẬN HÀNH & BÁO CÁO TỰ ĐỘNG THÔNG MINH (DASHBOARD & DAILY REPORT)
+
+Gói 4 cung cấp hai công cụ báo cáo quản trị cấp cao giúp bạn theo dõi realtime và xuất nội dung báo cáo hàng ngày chỉ trong 1 giây:
+
+### 10.1. Bảng Điều Khiển Realtime trên Telegram Bot (`/dashboard`, `/report`, `/reconcile`)
+Khi chạy Telegram Bot (`python bot.py`), bạn có thể gõ các lệnh quản trị trực tiếp trên điện thoại:
+
+| Lệnh Slash Command | Chức năng chi tiết | Kết quả trả về trên Telegram |
+|---|---|---|
+| **`/dashboard`** hoặc **`/stats`** | Xem bảng điều khiển số liệu thời gian thực | • Thanh tiến độ visual `[🟩🟩🟩🟩⬜⬜⬜⬜]`<br>• Tổng số file & tổng số giờ audio đạt chuẩn<br>• Tỷ lệ bóc tách vocal AI Demucs<br>• Phân bố số lượng từng vùng miền (Bắc/Trung/Nam/Mixed)<br>• Trạng thái đồng bộ Google Drive 100% |
+| **`/report`** | Tự động sinh báo cáo hàng ngày chuẩn bị sẵn | Trả về khối văn bản được định dạng chuẩn theo mẫu báo cáo Google Sheets. Bạn chỉ cần **bấm giữ vào tin nhắn ➔ Copy ➔ Dán vào Google Sheets** |
+| **`/reconcile`** hoặc **`/sync`** | Kích hoạt đối soát tổng kho Google Drive từ xa | Quét toàn bộ kho audio trên Drive và đồng bộ `summary.json` + `metadata.json` ngay tức thì |
+| **`/help`** | Xem danh sách hướng dẫn toàn bộ lệnh | Hướng dẫn chi tiết cách gửi link và điều khiển bot |
+
+---
+
+### 10.2. Công Cụ Tự Động Sinh Daily Report Cục Bộ (`tools/daily_reporter.py`)
+Nếu muốn xuất báo cáo ngay trên máy tính mà không cần mở bot:
+
+* 🔵 **`[PowerShell - Thư mục Dự án]`**
+  ```powershell
+  # Xuất báo cáo ngày hôm nay (mặc định)
+  python tools/daily_reporter.py
+
+  # Xuất báo cáo cho một ngày cụ thể trong quá khứ
+  python tools/daily_reporter.py --date 2026-08-21
+  ```
+
+* **Định dạng đầu ra mẫu để dán vào Cột D Google Sheets:**
+  ```text
+  - Crawl và xử lý thành công 17.66h audio (1374 file .wav 16kHz Mono).
+  - Áp dụng bộ lọc bóc tách vocal AI Demucs và chuẩn hóa âm lượng EBU R128 (-16 LUFS).
+  - Tích hợp kiểm định chất lượng SNR & phân loại phương ngữ (150 Trung, 20 Nam, 17 Bắc).
+  - Đối soát đồng bộ 100% dữ liệu với Google Drive.
+  ```
+
+---
+
+## 11. BẢNG TRA CỨU TOÀN BỘ CÂU LỆNH (CHEATSHEET)
 
 ### 🐍 Lệnh Python & Crawler (Chạy tại `PS C:\HocC\SaydiTool>`):
 | Mục đích | Câu lệnh PowerShell |
 |---|---|
 | Kích hoạt môi trường ảo | `.\.venv\Scripts\Activate.ps1` |
-| Chạy toàn bộ 17 Unit Tests | `pytest -o pythonpath=. -v` |
+| Chạy toàn bộ 19 Unit Tests | `pytest -o pythonpath=. -v` |
+| **Xuất Daily Report tự động (Google Sheets)** | `python tools/daily_reporter.py` |
+| **Cào theo Chuyên đề tuyển chọn (Gói 1)** | `python crawl_topic.py --topic news_national --workers 4` |
 | Cào TikTok qua file link | `python main.py --platform tiktok --keyword "urls.txt" --workers 4` |
 | Cào Facebook qua từ khóa | `python main.py --platform facebook --keyword "tin tức thời sự" --workers 4` |
 | Cào toàn bộ 1 kênh TikTok | `python main.py --platform tiktok --keyword "https://www.tiktok.com/@vtv24news" --workers 4` |
 | Cào kèm gán nhãn vùng miền cố định | `python main.py --platform tiktok --keyword "urls.txt" --region northern --workers 4` |
-| Cào lưu máy, tắt tự up Google Drive | `python main.py --platform tiktok --keyword "urls.txt" --skip-drive-sync --workers 4` |
-| **Upload thủ công toàn bộ lên Google Drive** | `rclone copy Week2/ "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/" --transfers 8 --drive-chunk-size 32M --progress` |
-| Dừng ngay tiến trình upload Drive | `Stop-Process -Name rclone -Force` |
+| **Upload thủ công & đối soát Google Drive** | `python tools/reconcile_drive.py --remote` |
 | Chạy Telegram Bot nhận link từ xa | `python bot.py --token "YOUR_TOKEN"` |
 | Thử lại các URL bị lỗi | `python retry_failed.py --platform tiktok` |
-| Bỏ qua bộ lọc nhạc | `python main.py --platform tiktok --keyword "urls.txt" --skip-music-filter` |
 
 ### 🐳 Lệnh Docker (Chạy tại `PS C:\HocC\SaydiTool>`):
 | Mục đích | Câu lệnh PowerShell |
@@ -973,7 +1011,7 @@ rclone sync C:\HocC\SaydiTool\Week2 gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAl
 
 ---
 
-## 11. CẨM NANG XỬ LÝ SỰ CỐ & DEBUG LỖI (TROUBLESHOOTING)
+## 12. CẨM NANG XỬ LÝ SỰ CỐ & DEBUG LỖI (TROUBLESHOOTING)
 
 ### ❌ Lỗi 1: `ModuleNotFoundError: No module named 'yt_dlp'`
 - **Môi trường bị:** PowerShell khi chạy `python main.py`.
