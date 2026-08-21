@@ -61,8 +61,11 @@ class MetadataWriter:
         # Tạo thư mục nếu chưa có
         metadata_file.parent.mkdir(parents=True, exist_ok=True)
 
-        self._extended_path = metadata_file.parent / "metadata_extended.json"
-        self._funnel_path = metadata_file.parent / "yield_funnel.json"
+        local_research_dir = Path("local_research") / CRAWL_DATE
+        local_research_dir.mkdir(parents=True, exist_ok=True)
+
+        self._extended_path = local_research_dir / "metadata_extended.json"
+        self._funnel_path = local_research_dir / "yield_funnel.json"
         self._extended_records: list[dict] = []
 
         # Load extended records nếu có

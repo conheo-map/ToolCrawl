@@ -1,4 +1,4 @@
-# 🎙️ SAYDITOOL — VIETNAMESE SPEECH AUDIO CRAWLER & AI PIPELINE
+﻿# 🎙️ SAYDITOOL — VIETNAMESE SPEECH AUDIO CRAWLER & AI PIPELINE
 > **Dự án:** Hệ thống Thu thập & Xử lý Dữ liệu Âm thanh Tiếng Việt quy mô lớn cho huấn luyện nhận dạng giọng nói (Vietnamese ASR Dataset Pipeline).  
 > **Mục tiêu:** Thu thập 500 giờ âm thanh chuẩn ASR trong 7 tuần từ Facebook Reels & TikTok.  
 > **Phiên bản:** 2.5 (Tích hợp Tách Giọng AI + Điều Khiển Từ Xa Bằng Telegram Bot & Cloud GitHub Actions).
@@ -424,7 +424,7 @@ cd C:\HocC\SaydiTool
 .\.venv\Scripts\Activate.ps1
 
 # Chạy bot với Token của bạn (lấy từ @BotFather):
-python bot.py --token "7942718104:AAHOQ1s8W69kXlC5G7E9c90pB9s8F-xyz"
+python bot.py --token "8915511538:AAEGb66NyjaeQ2_yj9RXFdbTJDwT8PjFrtw"
 ```
 
 > 📱 **`[Telegram trên Điện thoại]`**:

@@ -290,7 +290,7 @@ class TelegramCrawlerBot:
                 extended_data = {}
                 trans_info = self._speech_transcriber.transcribe_file(
                     audio_path,
-                    output_dir=cfg.BASE_OUTPUT_DIR / "transcripts"
+                    output_dir=Path("local_research") / cfg.CRAWL_DATE / "transcripts"
                 )
                 if trans_info.get("text"):
                     extended_data["transcript_raw"] = trans_info["text"]
