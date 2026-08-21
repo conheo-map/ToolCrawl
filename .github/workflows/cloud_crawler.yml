@@ -191,6 +191,16 @@ jobs:
             rclone copy .checkpoints/seen_ids.json gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw: --progress
           fi
 
+      - name: 🧹 Google Drive Remote Sanitizer (Strict 3-Item Spec Guard)
+        if: always()
+        run: |
+          echo "🧹 Quét dọn tự động để Google Drive chỉ chứa duy nhất audio/, metadata.json, summary.json..."
+          for DATE_DIR in $(rclone lsf "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/" --dirs-only); do
+            rclone deletefile "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/${DATE_DIR}metadata_extended.json" || true
+            rclone deletefile "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/${DATE_DIR}yield_funnel.json" || true
+            rclone purge "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/${DATE_DIR}transcripts" || true
+          done
+
       - name: 📩 Send Telegram Notification
         if: always()
         run: |
