@@ -387,9 +387,15 @@ def sync_to_gdrive(week_number: int) -> None:
         return
     
     week_dir = cfg.PROJECT_ROOT / f"Week{week_number}"
-    if not week_dir.exists():
-        return
-        
+    # 0. Tự động đối soát 100% giữa file audio thực tế và metadata trước khi đẩy
+    try:
+        from tools.reconcile_drive import reconcile_folder
+        for d in week_dir.iterdir():
+            if d.is_dir() and (d / "audio").exists():
+                reconcile_folder(d)
+    except Exception as exc:
+        logger.debug(f"Pre-sync reconcile notice: {exc}")
+
     gdrive_target = f"gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week{week_number}/"
     logger.info(f"📤 Đang đồng bộ toàn bộ {week_dir.name} lên Google Drive (8 luồng song song)...")
     try:
