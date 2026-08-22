@@ -1,0 +1,186 @@
+{
+  "item_id": "tt_7676137233862102292",
+  "duration_seconds": 42.1,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 20,
+  "text": "Chúng không? Chúng không? Chúng không? Chúng không? Chúng trầm Thấy � Đó là bí hoặc là mạng đất dây",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 0.78,
+      "text": "Chúng không?",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 0.08,
+          "end": 0.14,
+          "probability": 0.11
+        },
+        {
+          "word": "không?",
+          "start": 0.14,
+          "end": 0.78,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.52,
+      "end": 3.12,
+      "text": "Chúng không?",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 1.52,
+          "end": 1.88,
+          "probability": 0.6
+        },
+        {
+          "word": "không?",
+          "start": 1.88,
+          "end": 3.12,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.14,
+      "end": 5.9,
+      "text": "Chúng không?",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 5.14,
+          "end": 5.34,
+          "probability": 0.67
+        },
+        {
+          "word": "không?",
+          "start": 5.34,
+          "end": 5.9,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.38,
+      "end": 9.3,
+      "text": "Chúng không?",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 7.38,
+          "end": 8.5,
+          "probability": 0.64
+        },
+        {
+          "word": "không?",
+          "start": 8.5,
+          "end": 9.3,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.9,
+      "end": 18.7,
+      "text": "Chúng trầm",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 15.9,
+          "end": 17.3,
+          "probability": 0.66
+        },
+        {
+          "word": "trầm",
+          "start": 17.3,
+          "end": 18.7,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 34.66,
+      "end": 37.46,
+      "text": "Thấy �",
+      "words": [
+        {
+          "word": "Thấy",
+          "start": 34.66,
+          "end": 36.06,
+          "probability": 0.01
+        },
+        {
+          "word": "�",
+          "start": 36.06,
+          "end": 37.46,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 37.46,
+      "end": 39.9,
+      "text": "Đó là bí hoặc là mạng đất dây",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 37.46,
+          "end": 38.26,
+          "probability": 0.18
+        },
+        {
+          "word": "là",
+          "start": 38.26,
+          "end": 38.48,
+          "probability": 0.18
+        },
+        {
+          "word": "bí",
+          "start": 38.48,
+          "end": 38.66,
+          "probability": 0.13
+        },
+        {
+          "word": "hoặc",
+          "start": 38.66,
+          "end": 38.94,
+          "probability": 0.13
+        },
+        {
+          "word": "là",
+          "start": 38.94,
+          "end": 39.18,
+          "probability": 0.2
+        },
+        {
+          "word": "mạng",
+          "start": 39.18,
+          "end": 39.34,
+          "probability": 0.3
+        },
+        {
+          "word": "đất",
+          "start": 39.34,
+          "end": 39.6,
+          "probability": 0.28
+        },
+        {
+          "word": "dây",
+          "start": 39.6,
+          "end": 39.9,
+          "probability": 0.15
+        }
+      ]
+    }
+  ]
+}

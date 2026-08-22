@@ -1,0 +1,102 @@
+{
+  "item_id": "tt_7432612297366867208",
+  "duration_seconds": 20.11,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 14,
+  "text": "đến căn lúc hiểu vì lưu, đến qua tế vụ phấn lợt chăm tìm.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.72,
+      "text": "đến căn lúc hiểu vì lưu, đến qua tế vụ phấn lợt chăm tìm.",
+      "words": [
+        {
+          "word": "đến",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.19
+        },
+        {
+          "word": "căn",
+          "start": 0.3,
+          "end": 0.58,
+          "probability": 0.44
+        },
+        {
+          "word": "lúc",
+          "start": 0.58,
+          "end": 0.68,
+          "probability": 0.67
+        },
+        {
+          "word": "hiểu",
+          "start": 0.68,
+          "end": 0.94,
+          "probability": 0.28
+        },
+        {
+          "word": "vì",
+          "start": 0.94,
+          "end": 1.18,
+          "probability": 0.13
+        },
+        {
+          "word": "lưu,",
+          "start": 1.18,
+          "end": 1.76,
+          "probability": 0.71
+        },
+        {
+          "word": "đến",
+          "start": 1.9,
+          "end": 1.96,
+          "probability": 0.13
+        },
+        {
+          "word": "qua",
+          "start": 1.96,
+          "end": 2.14,
+          "probability": 0.51
+        },
+        {
+          "word": "tế",
+          "start": 2.14,
+          "end": 2.3,
+          "probability": 0.34
+        },
+        {
+          "word": "vụ",
+          "start": 2.3,
+          "end": 2.48,
+          "probability": 0.57
+        },
+        {
+          "word": "phấn",
+          "start": 2.48,
+          "end": 2.7,
+          "probability": 0.31
+        },
+        {
+          "word": "lợt",
+          "start": 2.7,
+          "end": 2.94,
+          "probability": 0.49
+        },
+        {
+          "word": "chăm",
+          "start": 2.94,
+          "end": 3.12,
+          "probability": 0.57
+        },
+        {
+          "word": "tìm.",
+          "start": 3.12,
+          "end": 3.72,
+          "probability": 0.6
+        }
+      ]
+    }
+  ]
+}

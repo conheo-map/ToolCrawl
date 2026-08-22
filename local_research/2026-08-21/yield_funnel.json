@@ -1,12 +1,12 @@
 {
   "pilot_week": 3,
   "metric_name": "Tỷ lệ Audio Dùng Được Trước Khi Mở Rộng (Yield Funnel)",
-  "total_crawled_attempted": 1,
-  "clear_speech_passed": 1,
-  "music_suppressed_passed": 1,
-  "zero_duplicates": 1,
-  "final_usable_items": 1,
-  "final_usable_hours": 0.03,
-  "usable_rate_percentage": "100.0%",
-  "audited_at": "2026-08-21T22:32:31+07:00"
+  "total_crawled_attempted": 1424,
+  "clear_speech_passed": 1382,
+  "music_suppressed_passed": 1382,
+  "zero_duplicates": 1382,
+  "final_usable_items": 1382,
+  "final_usable_hours": 18.35,
+  "usable_rate_percentage": "97.1%",
+  "audited_at": "2026-08-21T23:08:23+07:00"
 }

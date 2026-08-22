@@ -251,12 +251,41 @@ def reconcile_remote_drive(root_folder_id: str = DEFAULT_ROOT_FOLDER_ID, week_nu
         subprocess.run(["rclone", "copy", str(local_meta_file), drive_target], capture_output=True)
         subprocess.run(["rclone", "copy", str(local_summary_file), drive_target], capture_output=True)
 
-        # 6. Dọn sạch file thừa nếu có trên Drive
-        subprocess.run(["rclone", "deletefile", f"{drive_target}metadata_extended.json"], capture_output=True)
-        subprocess.run(["rclone", "deletefile", f"{drive_target}yield_funnel.json"], capture_output=True)
-        subprocess.run(["rclone", "purge", f"{drive_target}transcripts"], capture_output=True)
-
         print(f"  [DRIVE SYNC OK] {d}: {total_wavs} audios == {len(reconciled_records)} metadata records == summary: {len(reconciled_records)} items ({total_hours}h)")
+
+    # 7. Tổng hợp và đồng bộ master seen_ids.json (Tránh mất ID khi cào song song)
+    master_seen_ids = set()
+    local_seen_file = Path(".checkpoints/seen_ids.json")
+    if local_seen_file.exists():
+        try:
+            data = json.loads(local_seen_file.read_text(encoding="utf-8"))
+            master_seen_ids.update(data.get("seen_ids", []))
+        except Exception:
+            pass
+
+    res_seen = subprocess.run(["rclone", "cat", f"gdrive,root_folder_id={root_folder_id}:seen_ids.json"], capture_output=True, text=True, encoding="utf-8")
+    if res_seen.returncode == 0:
+        try:
+            data = json.loads(res_seen.stdout)
+            master_seen_ids.update(data.get("seen_ids", []))
+        except Exception:
+            pass
+
+    # Quét toàn bộ metadata.json cục bộ
+    for mf in Path(".").glob("Week*/*/metadata.json"):
+        try:
+            data = json.loads(mf.read_text(encoding="utf-8"))
+            for r in data:
+                if isinstance(r, dict) and "item_id" in r:
+                    master_seen_ids.add(r["item_id"])
+        except Exception:
+            pass
+
+    # Ghi lại master seen_ids.json cục bộ
+    local_seen_file.parent.mkdir(parents=True, exist_ok=True)
+    local_seen_file.write_text(json.dumps({"seen_ids": sorted(master_seen_ids)}, ensure_ascii=False, indent=2), encoding="utf-8")
+    subprocess.run(["rclone", "copy", str(local_seen_file), f"gdrive,root_folder_id={root_folder_id}:"], capture_output=True)
+    print(f"🛡️ [SEEN_IDS MASTER SYNC] Reconciled and synced {len(master_seen_ids)} unique seen_ids to Google Drive!")
 
 
 def main():

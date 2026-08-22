@@ -25,7 +25,7 @@ class DedupStore:
         self._load()
 
     def _load(self) -> None:
-        """Load danh sách seen_ids từ file (nếu có)."""
+        """Load danh sách seen_ids từ file và tự động quét các file metadata.json."""
         if self._path.exists():
             try:
                 data = json.loads(self._path.read_text(encoding="utf-8"))
@@ -38,6 +38,23 @@ class DedupStore:
                 self._seen = set()
         else:
             logger.info("No dedup store found — starting fresh")
+
+        # Tự động quét thêm từ các file metadata.json hiện có khi dùng file chính
+        if self._path == SEEN_IDS_FILE:
+            try:
+                from config import PROJECT_ROOT
+                for mf in PROJECT_ROOT.glob("Week*/*/metadata.json"):
+                    try:
+                        meta_records = json.loads(mf.read_text(encoding="utf-8"))
+                        if isinstance(meta_records, list):
+                            for r in meta_records:
+                                if isinstance(r, dict) and "item_id" in r:
+                                    self._seen.add(r["item_id"])
+                    except Exception:
+                        pass
+                logger.info(f"Total cumulative active seen IDs: {len(self._seen)}")
+            except Exception:
+                pass
 
     def is_seen(self, item_id: str) -> bool:
         """Kiểm tra item_id đã crawl chưa."""
