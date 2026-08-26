@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7598937689357815048",
+  "duration_seconds": 33.27,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Tìm rồi, tìm rồi!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 3.22,
+      "text": "Tìm rồi, tìm rồi!",
+      "words": [
+        {
+          "word": "Tìm",
+          "start": 0.08,
+          "end": 1.28,
+          "probability": 0.32
+        },
+        {
+          "word": "rồi,",
+          "start": 1.28,
+          "end": 1.54,
+          "probability": 0.03
+        },
+        {
+          "word": "tìm",
+          "start": 2.04,
+          "end": 3.22,
+          "probability": 0.67
+        },
+        {
+          "word": "rồi!",
+          "start": 3.22,
+          "end": 3.22,
+          "probability": 0.85
+        }
+      ]
+    }
+  ]
+}

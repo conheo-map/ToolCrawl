@@ -1,0 +1,162 @@
+{
+  "item_id": "tt_7637420491808001288",
+  "duration_seconds": 46.56,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 20,
+  "text": "Người quanh của mình của mọi người và mà ơi, là dưới nó sau ở đây rồi gặp nh towards",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.46,
+      "end": 3.24,
+      "text": "Người quanh của mình của mọi người",
+      "words": [
+        {
+          "word": "Người",
+          "start": 0.46,
+          "end": 0.94,
+          "probability": 0.1
+        },
+        {
+          "word": "quanh",
+          "start": 0.94,
+          "end": 2.04,
+          "probability": 0.22
+        },
+        {
+          "word": "của",
+          "start": 2.04,
+          "end": 2.2,
+          "probability": 0.27
+        },
+        {
+          "word": "mình",
+          "start": 2.2,
+          "end": 2.2,
+          "probability": 0.02
+        },
+        {
+          "word": "của",
+          "start": 2.2,
+          "end": 2.34,
+          "probability": 0.42
+        },
+        {
+          "word": "mọi",
+          "start": 2.34,
+          "end": 2.72,
+          "probability": 0.36
+        },
+        {
+          "word": "người",
+          "start": 2.72,
+          "end": 3.24,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.24,
+      "end": 4.72,
+      "text": "và mà ơi, là dưới nó",
+      "words": [
+        {
+          "word": "và",
+          "start": 3.24,
+          "end": 3.88,
+          "probability": 0.02
+        },
+        {
+          "word": "mà",
+          "start": 3.88,
+          "end": 4.02,
+          "probability": 0.01
+        },
+        {
+          "word": "ơi,",
+          "start": 4.02,
+          "end": 4.44,
+          "probability": 0.0
+        },
+        {
+          "word": "là",
+          "start": 4.46,
+          "end": 4.46,
+          "probability": 0.02
+        },
+        {
+          "word": "dưới",
+          "start": 4.46,
+          "end": 4.46,
+          "probability": 0.32
+        },
+        {
+          "word": "nó",
+          "start": 4.46,
+          "end": 4.72,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.72,
+      "end": 5.28,
+      "text": "sau ở đây rồi",
+      "words": [
+        {
+          "word": "sau",
+          "start": 4.72,
+          "end": 4.78,
+          "probability": 0.0
+        },
+        {
+          "word": "ở",
+          "start": 4.78,
+          "end": 4.94,
+          "probability": 0.0
+        },
+        {
+          "word": "đây",
+          "start": 4.94,
+          "end": 5.08,
+          "probability": 0.14
+        },
+        {
+          "word": "rồi",
+          "start": 5.08,
+          "end": 5.28,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.58,
+      "end": 7.76,
+      "text": "gặp nh towards",
+      "words": [
+        {
+          "word": "gặp",
+          "start": 6.58,
+          "end": 7.06,
+          "probability": 0.34
+        },
+        {
+          "word": "nh",
+          "start": 7.06,
+          "end": 7.54,
+          "probability": 0.04
+        },
+        {
+          "word": "towards",
+          "start": 7.54,
+          "end": 7.76,
+          "probability": 0.0
+        }
+      ]
+    }
+  ]
+}

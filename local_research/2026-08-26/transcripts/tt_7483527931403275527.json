@@ -1,0 +1,786 @@
+{
+  "item_id": "tt_7483527931403275527",
+  "duration_seconds": 30.25,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 116,
+  "text": "có tư gặp nạn gió gác chắn đường áng bở bất thường. Quảng mùi dương ngày 2018, tại đường áng sân xin ở sá hương lạng, bác rằng khi gác chắn cạnh báo tự động của mình đường rất hả xuống, nhiều phương tiện từ quốc lộ bà miệ bày dừng lại chờ tổ hòa đi qua. Sau ít phút, gác chắn tự động bở, tại xe lại utu năm trốn trình trầm vượt qua đường áng, như đến dưới đường dài thì chữ lại. Đúng lúc này máy sử trữ đường rất là đến, đâm vào hong utu vào để đi khoảng muy máy. Hông trai utu bị tông mẹ, tại xe chừng tự nhiên.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.4,
+      "text": "có tư gặp nạn gió gác chắn đường áng bở bất thường.",
+      "words": [
+        {
+          "word": "có",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.09
+        },
+        {
+          "word": "tư",
+          "start": 0.12,
+          "end": 0.28,
+          "probability": 0.3
+        },
+        {
+          "word": "gặp",
+          "start": 0.28,
+          "end": 0.52,
+          "probability": 0.84
+        },
+        {
+          "word": "nạn",
+          "start": 0.52,
+          "end": 0.72,
+          "probability": 0.58
+        },
+        {
+          "word": "gió",
+          "start": 0.72,
+          "end": 0.88,
+          "probability": 0.31
+        },
+        {
+          "word": "gác",
+          "start": 0.88,
+          "end": 1.1,
+          "probability": 0.51
+        },
+        {
+          "word": "chắn",
+          "start": 1.1,
+          "end": 1.34,
+          "probability": 0.59
+        },
+        {
+          "word": "đường",
+          "start": 1.34,
+          "end": 1.54,
+          "probability": 0.81
+        },
+        {
+          "word": "áng",
+          "start": 1.54,
+          "end": 1.78,
+          "probability": 0.45
+        },
+        {
+          "word": "bở",
+          "start": 1.78,
+          "end": 1.94,
+          "probability": 0.72
+        },
+        {
+          "word": "bất",
+          "start": 1.94,
+          "end": 2.12,
+          "probability": 0.45
+        },
+        {
+          "word": "thường.",
+          "start": 2.12,
+          "end": 2.4,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.16,
+      "end": 6.74,
+      "text": "Quảng mùi dương ngày 2018, tại đường áng sân xin ở sá hương lạng,",
+      "words": [
+        {
+          "word": "Quảng",
+          "start": 3.16,
+          "end": 3.32,
+          "probability": 0.29
+        },
+        {
+          "word": "mùi",
+          "start": 3.32,
+          "end": 3.48,
+          "probability": 0.32
+        },
+        {
+          "word": "dương",
+          "start": 3.48,
+          "end": 3.64,
+          "probability": 0.34
+        },
+        {
+          "word": "ngày",
+          "start": 3.64,
+          "end": 3.78,
+          "probability": 0.3
+        },
+        {
+          "word": "2018,",
+          "start": 3.78,
+          "end": 4.24,
+          "probability": 0.33
+        },
+        {
+          "word": "tại",
+          "start": 4.86,
+          "end": 5.04,
+          "probability": 0.71
+        },
+        {
+          "word": "đường",
+          "start": 5.04,
+          "end": 5.18,
+          "probability": 0.94
+        },
+        {
+          "word": "áng",
+          "start": 5.18,
+          "end": 5.42,
+          "probability": 0.65
+        },
+        {
+          "word": "sân",
+          "start": 5.42,
+          "end": 5.58,
+          "probability": 0.23
+        },
+        {
+          "word": "xin",
+          "start": 5.58,
+          "end": 5.74,
+          "probability": 0.59
+        },
+        {
+          "word": "ở",
+          "start": 5.74,
+          "end": 5.98,
+          "probability": 0.88
+        },
+        {
+          "word": "sá",
+          "start": 5.98,
+          "end": 6.16,
+          "probability": 0.39
+        },
+        {
+          "word": "hương",
+          "start": 6.16,
+          "end": 6.32,
+          "probability": 0.8
+        },
+        {
+          "word": "lạng,",
+          "start": 6.32,
+          "end": 6.74,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.78,
+      "end": 10.24,
+      "text": "bác rằng khi gác chắn cạnh báo tự động của mình đường rất hả xuống,",
+      "words": [
+        {
+          "word": "bác",
+          "start": 6.78,
+          "end": 6.94,
+          "probability": 0.49
+        },
+        {
+          "word": "rằng",
+          "start": 6.94,
+          "end": 7.3,
+          "probability": 0.28
+        },
+        {
+          "word": "khi",
+          "start": 7.3,
+          "end": 7.62,
+          "probability": 0.88
+        },
+        {
+          "word": "gác",
+          "start": 7.62,
+          "end": 7.82,
+          "probability": 0.75
+        },
+        {
+          "word": "chắn",
+          "start": 7.82,
+          "end": 8.06,
+          "probability": 0.99
+        },
+        {
+          "word": "cạnh",
+          "start": 8.06,
+          "end": 8.28,
+          "probability": 0.43
+        },
+        {
+          "word": "báo",
+          "start": 8.28,
+          "end": 8.5,
+          "probability": 0.85
+        },
+        {
+          "word": "tự",
+          "start": 8.5,
+          "end": 8.66,
+          "probability": 0.87
+        },
+        {
+          "word": "động",
+          "start": 8.66,
+          "end": 8.82,
+          "probability": 0.89
+        },
+        {
+          "word": "của",
+          "start": 8.82,
+          "end": 9.0,
+          "probability": 0.92
+        },
+        {
+          "word": "mình",
+          "start": 9.0,
+          "end": 9.18,
+          "probability": 0.27
+        },
+        {
+          "word": "đường",
+          "start": 9.18,
+          "end": 9.4,
+          "probability": 0.86
+        },
+        {
+          "word": "rất",
+          "start": 9.4,
+          "end": 9.58,
+          "probability": 0.63
+        },
+        {
+          "word": "hả",
+          "start": 9.58,
+          "end": 9.84,
+          "probability": 0.57
+        },
+        {
+          "word": "xuống,",
+          "start": 9.84,
+          "end": 10.24,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.36,
+      "end": 13.38,
+      "text": "nhiều phương tiện từ quốc lộ bà miệ bày dừng lại chờ tổ hòa đi qua.",
+      "words": [
+        {
+          "word": "nhiều",
+          "start": 10.36,
+          "end": 10.54,
+          "probability": 0.81
+        },
+        {
+          "word": "phương",
+          "start": 10.54,
+          "end": 10.7,
+          "probability": 0.67
+        },
+        {
+          "word": "tiện",
+          "start": 10.7,
+          "end": 10.88,
+          "probability": 0.56
+        },
+        {
+          "word": "từ",
+          "start": 10.88,
+          "end": 11.06,
+          "probability": 0.61
+        },
+        {
+          "word": "quốc",
+          "start": 11.06,
+          "end": 11.24,
+          "probability": 0.65
+        },
+        {
+          "word": "lộ",
+          "start": 11.24,
+          "end": 11.38,
+          "probability": 0.75
+        },
+        {
+          "word": "bà",
+          "start": 11.38,
+          "end": 11.6,
+          "probability": 0.32
+        },
+        {
+          "word": "miệ",
+          "start": 11.6,
+          "end": 11.86,
+          "probability": 0.31
+        },
+        {
+          "word": "bày",
+          "start": 11.86,
+          "end": 11.88,
+          "probability": 0.32
+        },
+        {
+          "word": "dừng",
+          "start": 11.88,
+          "end": 12.1,
+          "probability": 0.68
+        },
+        {
+          "word": "lại",
+          "start": 12.1,
+          "end": 12.28,
+          "probability": 0.99
+        },
+        {
+          "word": "chờ",
+          "start": 12.28,
+          "end": 12.48,
+          "probability": 0.47
+        },
+        {
+          "word": "tổ",
+          "start": 12.48,
+          "end": 12.68,
+          "probability": 0.67
+        },
+        {
+          "word": "hòa",
+          "start": 12.68,
+          "end": 12.86,
+          "probability": 0.65
+        },
+        {
+          "word": "đi",
+          "start": 12.86,
+          "end": 13.04,
+          "probability": 0.42
+        },
+        {
+          "word": "qua.",
+          "start": 13.04,
+          "end": 13.38,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.3,
+      "end": 16.16,
+      "text": "Sau ít phút, gác chắn tự động bở,",
+      "words": [
+        {
+          "word": "Sau",
+          "start": 14.3,
+          "end": 14.42,
+          "probability": 0.71
+        },
+        {
+          "word": "ít",
+          "start": 14.42,
+          "end": 14.64,
+          "probability": 0.61
+        },
+        {
+          "word": "phút,",
+          "start": 14.64,
+          "end": 14.88,
+          "probability": 0.68
+        },
+        {
+          "word": "gác",
+          "start": 15.18,
+          "end": 15.26,
+          "probability": 0.88
+        },
+        {
+          "word": "chắn",
+          "start": 15.26,
+          "end": 15.5,
+          "probability": 1.0
+        },
+        {
+          "word": "tự",
+          "start": 15.5,
+          "end": 15.66,
+          "probability": 0.88
+        },
+        {
+          "word": "động",
+          "start": 15.66,
+          "end": 15.86,
+          "probability": 1.0
+        },
+        {
+          "word": "bở,",
+          "start": 15.86,
+          "end": 16.16,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 16.36,
+      "end": 19.04,
+      "text": "tại xe lại utu năm trốn trình trầm vượt qua đường áng,",
+      "words": [
+        {
+          "word": "tại",
+          "start": 16.36,
+          "end": 16.56,
+          "probability": 0.5
+        },
+        {
+          "word": "xe",
+          "start": 16.56,
+          "end": 16.78,
+          "probability": 0.39
+        },
+        {
+          "word": "lại",
+          "start": 16.78,
+          "end": 16.98,
+          "probability": 0.57
+        },
+        {
+          "word": "utu",
+          "start": 16.98,
+          "end": 17.24,
+          "probability": 0.37
+        },
+        {
+          "word": "năm",
+          "start": 17.24,
+          "end": 17.44,
+          "probability": 0.3
+        },
+        {
+          "word": "trốn",
+          "start": 17.44,
+          "end": 17.62,
+          "probability": 0.15
+        },
+        {
+          "word": "trình",
+          "start": 17.62,
+          "end": 17.86,
+          "probability": 0.32
+        },
+        {
+          "word": "trầm",
+          "start": 17.86,
+          "end": 18.02,
+          "probability": 0.53
+        },
+        {
+          "word": "vượt",
+          "start": 18.02,
+          "end": 18.2,
+          "probability": 0.62
+        },
+        {
+          "word": "qua",
+          "start": 18.2,
+          "end": 18.42,
+          "probability": 0.73
+        },
+        {
+          "word": "đường",
+          "start": 18.42,
+          "end": 18.56,
+          "probability": 0.99
+        },
+        {
+          "word": "áng,",
+          "start": 18.56,
+          "end": 19.04,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 19.18,
+      "end": 20.74,
+      "text": "như đến dưới đường dài thì chữ lại.",
+      "words": [
+        {
+          "word": "như",
+          "start": 19.18,
+          "end": 19.24,
+          "probability": 0.55
+        },
+        {
+          "word": "đến",
+          "start": 19.24,
+          "end": 19.42,
+          "probability": 0.55
+        },
+        {
+          "word": "dưới",
+          "start": 19.42,
+          "end": 19.56,
+          "probability": 0.7
+        },
+        {
+          "word": "đường",
+          "start": 19.56,
+          "end": 19.78,
+          "probability": 0.76
+        },
+        {
+          "word": "dài",
+          "start": 19.78,
+          "end": 19.94,
+          "probability": 0.44
+        },
+        {
+          "word": "thì",
+          "start": 19.94,
+          "end": 20.16,
+          "probability": 0.37
+        },
+        {
+          "word": "chữ",
+          "start": 20.16,
+          "end": 20.34,
+          "probability": 0.61
+        },
+        {
+          "word": "lại.",
+          "start": 20.34,
+          "end": 20.74,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 21.12,
+      "end": 23.16,
+      "text": "Đúng lúc này máy sử trữ đường rất là đến,",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 21.12,
+          "end": 21.26,
+          "probability": 0.78
+        },
+        {
+          "word": "lúc",
+          "start": 21.26,
+          "end": 21.44,
+          "probability": 0.68
+        },
+        {
+          "word": "này",
+          "start": 21.44,
+          "end": 21.66,
+          "probability": 0.95
+        },
+        {
+          "word": "máy",
+          "start": 21.66,
+          "end": 21.9,
+          "probability": 0.62
+        },
+        {
+          "word": "sử",
+          "start": 21.9,
+          "end": 22.08,
+          "probability": 0.44
+        },
+        {
+          "word": "trữ",
+          "start": 22.08,
+          "end": 22.2,
+          "probability": 0.47
+        },
+        {
+          "word": "đường",
+          "start": 22.2,
+          "end": 22.46,
+          "probability": 0.95
+        },
+        {
+          "word": "rất",
+          "start": 22.46,
+          "end": 22.66,
+          "probability": 0.73
+        },
+        {
+          "word": "là",
+          "start": 22.66,
+          "end": 22.84,
+          "probability": 0.53
+        },
+        {
+          "word": "đến,",
+          "start": 22.84,
+          "end": 23.16,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 23.5,
+      "end": 25.28,
+      "text": "đâm vào hong utu vào để đi khoảng muy máy.",
+      "words": [
+        {
+          "word": "đâm",
+          "start": 23.5,
+          "end": 23.52,
+          "probability": 0.82
+        },
+        {
+          "word": "vào",
+          "start": 23.52,
+          "end": 23.68,
+          "probability": 0.85
+        },
+        {
+          "word": "hong",
+          "start": 23.68,
+          "end": 23.82,
+          "probability": 0.44
+        },
+        {
+          "word": "utu",
+          "start": 23.82,
+          "end": 24.14,
+          "probability": 0.89
+        },
+        {
+          "word": "vào",
+          "start": 24.14,
+          "end": 24.32,
+          "probability": 0.34
+        },
+        {
+          "word": "để",
+          "start": 24.32,
+          "end": 24.48,
+          "probability": 0.37
+        },
+        {
+          "word": "đi",
+          "start": 24.48,
+          "end": 24.68,
+          "probability": 0.77
+        },
+        {
+          "word": "khoảng",
+          "start": 24.68,
+          "end": 24.9,
+          "probability": 0.92
+        },
+        {
+          "word": "muy",
+          "start": 24.9,
+          "end": 25.12,
+          "probability": 0.23
+        },
+        {
+          "word": "máy.",
+          "start": 25.12,
+          "end": 25.28,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 25.78,
+      "end": 28.56,
+      "text": "Hông trai utu bị tông mẹ, tại xe chừng tự nhiên.",
+      "words": [
+        {
+          "word": "Hông",
+          "start": 25.78,
+          "end": 26.28,
+          "probability": 0.14
+        },
+        {
+          "word": "trai",
+          "start": 26.28,
+          "end": 26.52,
+          "probability": 0.63
+        },
+        {
+          "word": "utu",
+          "start": 26.52,
+          "end": 26.78,
+          "probability": 0.01
+        },
+        {
+          "word": "bị",
+          "start": 26.78,
+          "end": 26.92,
+          "probability": 0.44
+        },
+        {
+          "word": "tông",
+          "start": 26.92,
+          "end": 27.08,
+          "probability": 0.63
+        },
+        {
+          "word": "mẹ,",
+          "start": 27.08,
+          "end": 27.44,
+          "probability": 0.46
+        },
+        {
+          "word": "tại",
+          "start": 27.78,
+          "end": 27.78,
+          "probability": 0.43
+        },
+        {
+          "word": "xe",
+          "start": 27.78,
+          "end": 27.94,
+          "probability": 0.24
+        },
+        {
+          "word": "chừng",
+          "start": 27.94,
+          "end": 28.14,
+          "probability": 0.21
+        },
+        {
+          "word": "tự",
+          "start": 28.14,
+          "end": 28.3,
+          "probability": 0.15
+        },
+        {
+          "word": "nhiên.",
+          "start": 28.3,
+          "end": 28.56,
+          "probability": 0.73
+        }
+      ]
+    }
+  ]
+}

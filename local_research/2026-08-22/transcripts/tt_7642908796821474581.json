@@ -1,0 +1,78 @@
+{
+  "item_id": "tt_7642908796821474581",
+  "duration_seconds": 33.02,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 10,
+  "text": "để bánh đẹp với giá chế chào rục quý đi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 32.98,
+      "text": "để bánh đẹp với giá chế chào rục quý đi",
+      "words": [
+        {
+          "word": "để",
+          "start": 30.0,
+          "end": 30.18,
+          "probability": 0.04
+        },
+        {
+          "word": "bánh",
+          "start": 30.18,
+          "end": 30.72,
+          "probability": 0.11
+        },
+        {
+          "word": "đẹp",
+          "start": 30.72,
+          "end": 31.76,
+          "probability": 0.68
+        },
+        {
+          "word": "với",
+          "start": 31.76,
+          "end": 31.96,
+          "probability": 0.07
+        },
+        {
+          "word": "giá",
+          "start": 31.96,
+          "end": 32.14,
+          "probability": 0.35
+        },
+        {
+          "word": "chế",
+          "start": 32.14,
+          "end": 32.3,
+          "probability": 0.27
+        },
+        {
+          "word": "chào",
+          "start": 32.3,
+          "end": 32.48,
+          "probability": 0.13
+        },
+        {
+          "word": "rục",
+          "start": 32.48,
+          "end": 32.6,
+          "probability": 0.21
+        },
+        {
+          "word": "quý",
+          "start": 32.6,
+          "end": 32.74,
+          "probability": 0.44
+        },
+        {
+          "word": "đi",
+          "start": 32.74,
+          "end": 32.98,
+          "probability": 0.24
+        }
+      ]
+    }
+  ]
+}

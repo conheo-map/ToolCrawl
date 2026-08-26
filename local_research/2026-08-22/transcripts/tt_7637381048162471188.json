@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7637381048162471188",
+  "duration_seconds": 39.89,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Hôm nay, hôm nay.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.24,
+      "text": "Hôm nay, hôm nay.",
+      "words": [
+        {
+          "word": "Hôm",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.14
+        },
+        {
+          "word": "nay,",
+          "start": 0.36,
+          "end": 1.04,
+          "probability": 0.35
+        },
+        {
+          "word": "hôm",
+          "start": 1.04,
+          "end": 1.86,
+          "probability": 0.52
+        },
+        {
+          "word": "nay.",
+          "start": 1.86,
+          "end": 2.24,
+          "probability": 1.0
+        }
+      ]
+    }
+  ]
+}

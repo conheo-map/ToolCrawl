@@ -1,0 +1,170 @@
+{
+  "item_id": "tt_7609574661847862549",
+  "duration_seconds": 18.98,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 20,
+  "text": "Bây giờ mình sẽ không là Bây giờ mình sẽ không có cái tìm Cảm ơn Cảm ơn Cảm ơn",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.74,
+      "text": "Bây giờ mình sẽ không là",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.21
+        },
+        {
+          "word": "giờ",
+          "start": 0.12,
+          "end": 0.2,
+          "probability": 0.91
+        },
+        {
+          "word": "mình",
+          "start": 0.2,
+          "end": 0.2,
+          "probability": 0.11
+        },
+        {
+          "word": "sẽ",
+          "start": 0.2,
+          "end": 0.28,
+          "probability": 0.18
+        },
+        {
+          "word": "không",
+          "start": 0.28,
+          "end": 0.28,
+          "probability": 0.07
+        },
+        {
+          "word": "là",
+          "start": 0.28,
+          "end": 0.74,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 0.74,
+      "end": 2.12,
+      "text": "Bây giờ mình sẽ không có cái tìm",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 0.74,
+          "end": 1.32,
+          "probability": 0.27
+        },
+        {
+          "word": "giờ",
+          "start": 1.32,
+          "end": 1.32,
+          "probability": 0.98
+        },
+        {
+          "word": "mình",
+          "start": 1.32,
+          "end": 1.32,
+          "probability": 0.83
+        },
+        {
+          "word": "sẽ",
+          "start": 1.32,
+          "end": 1.46,
+          "probability": 0.56
+        },
+        {
+          "word": "không",
+          "start": 1.46,
+          "end": 1.78,
+          "probability": 0.06
+        },
+        {
+          "word": "có",
+          "start": 1.78,
+          "end": 1.78,
+          "probability": 0.15
+        },
+        {
+          "word": "cái",
+          "start": 1.78,
+          "end": 1.78,
+          "probability": 0.06
+        },
+        {
+          "word": "tìm",
+          "start": 1.78,
+          "end": 2.12,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.12,
+      "end": 3.29,
+      "text": "Cảm ơn",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 2.12,
+          "end": 2.98,
+          "probability": 0.37
+        },
+        {
+          "word": "ơn",
+          "start": 2.98,
+          "end": 3.29,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 3.96,
+      "end": 4.28,
+      "text": "Cảm ơn",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 3.96,
+          "end": 4.22,
+          "probability": 0.67
+        },
+        {
+          "word": "ơn",
+          "start": 4.22,
+          "end": 4.28,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.64,
+      "end": 8.62,
+      "text": "Cảm ơn",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 7.64,
+          "end": 8.32,
+          "probability": 0.91
+        },
+        {
+          "word": "ơn",
+          "start": 8.32,
+          "end": 8.62,
+          "probability": 0.99
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "item_id": "tt_7654429698482556178",
+  "duration_seconds": 55.58,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 21,
+  "text": "Vì đây, đây, đây Vì đây, đây Vì đây Vì đây, đây Vì đây là một mặt xin mà nhìn đi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 8.4,
+      "end": 17.04,
+      "text": "Vì đây, đây, đây",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 8.4,
+          "end": 8.76,
+          "probability": 0.06
+        },
+        {
+          "word": "đây,",
+          "start": 8.76,
+          "end": 8.76,
+          "probability": 0.05
+        },
+        {
+          "word": "đây,",
+          "start": 9.26,
+          "end": 12.28,
+          "probability": 0.13
+        },
+        {
+          "word": "đây",
+          "start": 17.02,
+          "end": 17.04,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 17.04,
+      "end": 17.84,
+      "text": "Vì đây, đây",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 17.04,
+          "end": 17.42,
+          "probability": 0.39
+        },
+        {
+          "word": "đây,",
+          "start": 17.42,
+          "end": 17.42,
+          "probability": 0.92
+        },
+        {
+          "word": "đây",
+          "start": 17.76,
+          "end": 17.84,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 17.84,
+      "end": 18.04,
+      "text": "Vì đây",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 17.84,
+          "end": 18.04,
+          "probability": 0.48
+        },
+        {
+          "word": "đây",
+          "start": 18.04,
+          "end": 18.04,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 18.04,
+      "end": 18.54,
+      "text": "Vì đây, đây",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 18.04,
+          "end": 18.54,
+          "probability": 0.5
+        },
+        {
+          "word": "đây,",
+          "start": 18.54,
+          "end": 18.54,
+          "probability": 0.92
+        },
+        {
+          "word": "đây",
+          "start": 18.54,
+          "end": 18.54,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 18.54,
+      "end": 20.4,
+      "text": "Vì đây là một mặt xin mà nhìn đi",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 18.54,
+          "end": 18.66,
+          "probability": 0.55
+        },
+        {
+          "word": "đây",
+          "start": 18.66,
+          "end": 18.9,
+          "probability": 0.91
+        },
+        {
+          "word": "là",
+          "start": 18.9,
+          "end": 19.04,
+          "probability": 0.06
+        },
+        {
+          "word": "một",
+          "start": 19.04,
+          "end": 19.3,
+          "probability": 0.33
+        },
+        {
+          "word": "mặt",
+          "start": 19.3,
+          "end": 19.48,
+          "probability": 0.28
+        },
+        {
+          "word": "xin",
+          "start": 19.48,
+          "end": 19.64,
+          "probability": 0.25
+        },
+        {
+          "word": "mà",
+          "start": 19.64,
+          "end": 19.78,
+          "probability": 0.25
+        },
+        {
+          "word": "nhìn",
+          "start": 19.78,
+          "end": 19.98,
+          "probability": 0.54
+        },
+        {
+          "word": "đi",
+          "start": 19.98,
+          "end": 20.4,
+          "probability": 0.15
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7637833195559374088",
+  "duration_seconds": 37.37,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Hãy subscribe và like và subscribe.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 2.83,
+      "text": "Hãy subscribe và like và subscribe.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 0.05,
+          "end": 1.39,
+          "probability": 0.12
+        },
+        {
+          "word": "subscribe",
+          "start": 1.39,
+          "end": 1.71,
+          "probability": 0.06
+        },
+        {
+          "word": "và",
+          "start": 1.71,
+          "end": 2.83,
+          "probability": 0.12
+        },
+        {
+          "word": "like",
+          "start": 2.83,
+          "end": 2.83,
+          "probability": 0.52
+        },
+        {
+          "word": "và",
+          "start": 2.83,
+          "end": 2.83,
+          "probability": 0.6
+        },
+        {
+          "word": "subscribe.",
+          "start": 2.83,
+          "end": 2.83,
+          "probability": 0.08
+        }
+      ]
+    }
+  ]
+}

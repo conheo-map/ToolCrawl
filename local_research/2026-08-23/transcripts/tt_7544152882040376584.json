@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7544152882040376584",
+  "duration_seconds": 65.38,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Bỏ bỏ bỏ bỏ bỏ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.56,
+      "end": 3.8,
+      "text": "Bỏ bỏ bỏ bỏ bỏ.",
+      "words": [
+        {
+          "word": "Bỏ",
+          "start": 0.56,
+          "end": 0.7,
+          "probability": 0.05
+        },
+        {
+          "word": "bỏ",
+          "start": 0.7,
+          "end": 0.94,
+          "probability": 0.24
+        },
+        {
+          "word": "bỏ",
+          "start": 0.94,
+          "end": 1.32,
+          "probability": 0.82
+        },
+        {
+          "word": "bỏ",
+          "start": 1.32,
+          "end": 1.42,
+          "probability": 0.83
+        },
+        {
+          "word": "bỏ.",
+          "start": 3.18,
+          "end": 3.8,
+          "probability": 0.86
+        }
+      ]
+    }
+  ]
+}

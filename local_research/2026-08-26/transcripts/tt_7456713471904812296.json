@@ -1,0 +1,432 @@
+{
+  "item_id": "tt_7456713471904812296",
+  "duration_seconds": 31.63,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 53,
+  "text": "Em mẹ cơm đâu Mày mấy cái kênh C mentors có nói Bỏ dạ Mày phải không bất trọng Mày phải bỏ lấy mệnh Mày phải bỏ lấy thôi Mày phải bỏ lấy thôi Mày phải bỏ lấy thôi Mày sẽ bỏ lấy thôi Bỏ lấy thôi Bỏ lấy thôi Sao Hõi chết",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.34,
+      "end": 1.4,
+      "text": "Em mẹ cơm đâu",
+      "words": [
+        {
+          "word": "Em",
+          "start": 0.34,
+          "end": 0.86,
+          "probability": 0.0
+        },
+        {
+          "word": "mẹ",
+          "start": 0.86,
+          "end": 0.86,
+          "probability": 0.04
+        },
+        {
+          "word": "cơm",
+          "start": 0.86,
+          "end": 1.0,
+          "probability": 0.26
+        },
+        {
+          "word": "đâu",
+          "start": 1.0,
+          "end": 1.4,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.4,
+      "end": 4.78,
+      "text": "Mày mấy cái kênh",
+      "words": [
+        {
+          "word": "Mày",
+          "start": 1.4,
+          "end": 1.4,
+          "probability": 0.05
+        },
+        {
+          "word": "mấy",
+          "start": 1.4,
+          "end": 1.4,
+          "probability": 0.04
+        },
+        {
+          "word": "cái",
+          "start": 1.4,
+          "end": 4.78,
+          "probability": 0.08
+        },
+        {
+          "word": "kênh",
+          "start": 4.78,
+          "end": 4.78,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.78,
+      "end": 6.5,
+      "text": "C mentors có nói",
+      "words": [
+        {
+          "word": "C",
+          "start": 4.78,
+          "end": 6.04,
+          "probability": 0.0
+        },
+        {
+          "word": "mentors",
+          "start": 6.04,
+          "end": 6.5,
+          "probability": 0.0
+        },
+        {
+          "word": "có",
+          "start": 6.5,
+          "end": 6.5,
+          "probability": 0.03
+        },
+        {
+          "word": "nói",
+          "start": 6.5,
+          "end": 6.5,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.5,
+      "end": 6.8,
+      "text": "Bỏ dạ",
+      "words": [
+        {
+          "word": "Bỏ",
+          "start": 6.5,
+          "end": 6.5,
+          "probability": 0.22
+        },
+        {
+          "word": "dạ",
+          "start": 6.5,
+          "end": 6.8,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.8,
+      "end": 11.4,
+      "text": "Mày phải không bất trọng",
+      "words": [
+        {
+          "word": "Mày",
+          "start": 6.8,
+          "end": 6.8,
+          "probability": 0.13
+        },
+        {
+          "word": "phải",
+          "start": 6.8,
+          "end": 8.74,
+          "probability": 0.01
+        },
+        {
+          "word": "không",
+          "start": 11.14,
+          "end": 11.14,
+          "probability": 0.07
+        },
+        {
+          "word": "bất",
+          "start": 11.14,
+          "end": 11.4,
+          "probability": 0.03
+        },
+        {
+          "word": "trọng",
+          "start": 11.4,
+          "end": 11.4,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.4,
+      "end": 14.1,
+      "text": "Mày phải bỏ lấy mệnh",
+      "words": [
+        {
+          "word": "Mày",
+          "start": 11.4,
+          "end": 12.7,
+          "probability": 0.23
+        },
+        {
+          "word": "phải",
+          "start": 12.7,
+          "end": 13.26,
+          "probability": 0.16
+        },
+        {
+          "word": "bỏ",
+          "start": 13.26,
+          "end": 13.26,
+          "probability": 0.32
+        },
+        {
+          "word": "lấy",
+          "start": 13.26,
+          "end": 14.1,
+          "probability": 0.03
+        },
+        {
+          "word": "mệnh",
+          "start": 14.1,
+          "end": 14.1,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 14.1,
+      "end": 15.4,
+      "text": "Mày phải bỏ lấy thôi",
+      "words": [
+        {
+          "word": "Mày",
+          "start": 14.1,
+          "end": 14.62,
+          "probability": 0.18
+        },
+        {
+          "word": "phải",
+          "start": 14.62,
+          "end": 14.88,
+          "probability": 0.25
+        },
+        {
+          "word": "bỏ",
+          "start": 14.88,
+          "end": 14.9,
+          "probability": 0.59
+        },
+        {
+          "word": "lấy",
+          "start": 14.9,
+          "end": 14.9,
+          "probability": 0.55
+        },
+        {
+          "word": "thôi",
+          "start": 14.9,
+          "end": 15.4,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 19.58,
+      "end": 20.58,
+      "text": "Mày phải bỏ lấy thôi",
+      "words": [
+        {
+          "word": "Mày",
+          "start": 19.58,
+          "end": 20.58,
+          "probability": 0.42
+        },
+        {
+          "word": "phải",
+          "start": 20.58,
+          "end": 20.58,
+          "probability": 0.31
+        },
+        {
+          "word": "bỏ",
+          "start": 20.58,
+          "end": 20.58,
+          "probability": 0.77
+        },
+        {
+          "word": "lấy",
+          "start": 20.58,
+          "end": 20.58,
+          "probability": 0.82
+        },
+        {
+          "word": "thôi",
+          "start": 20.58,
+          "end": 20.58,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 20.58,
+      "end": 20.64,
+      "text": "Mày phải bỏ lấy thôi",
+      "words": [
+        {
+          "word": "Mày",
+          "start": 20.58,
+          "end": 20.58,
+          "probability": 0.49
+        },
+        {
+          "word": "phải",
+          "start": 20.58,
+          "end": 20.58,
+          "probability": 0.5
+        },
+        {
+          "word": "bỏ",
+          "start": 20.58,
+          "end": 20.58,
+          "probability": 0.84
+        },
+        {
+          "word": "lấy",
+          "start": 20.58,
+          "end": 20.58,
+          "probability": 0.89
+        },
+        {
+          "word": "thôi",
+          "start": 20.58,
+          "end": 20.64,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 20.64,
+      "end": 22.24,
+      "text": "Mày sẽ bỏ lấy thôi",
+      "words": [
+        {
+          "word": "Mày",
+          "start": 20.64,
+          "end": 20.64,
+          "probability": 0.55
+        },
+        {
+          "word": "sẽ",
+          "start": 20.64,
+          "end": 20.64,
+          "probability": 0.11
+        },
+        {
+          "word": "bỏ",
+          "start": 20.64,
+          "end": 20.64,
+          "probability": 0.8
+        },
+        {
+          "word": "lấy",
+          "start": 20.64,
+          "end": 20.64,
+          "probability": 0.92
+        },
+        {
+          "word": "thôi",
+          "start": 20.64,
+          "end": 22.24,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 22.24,
+      "end": 22.7,
+      "text": "Bỏ lấy thôi",
+      "words": [
+        {
+          "word": "Bỏ",
+          "start": 22.24,
+          "end": 22.44,
+          "probability": 0.29
+        },
+        {
+          "word": "lấy",
+          "start": 22.44,
+          "end": 22.7,
+          "probability": 0.78
+        },
+        {
+          "word": "thôi",
+          "start": 22.7,
+          "end": 22.7,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 22.7,
+      "end": 22.72,
+      "text": "Bỏ lấy thôi",
+      "words": [
+        {
+          "word": "Bỏ",
+          "start": 22.7,
+          "end": 22.7,
+          "probability": 0.58
+        },
+        {
+          "word": "lấy",
+          "start": 22.7,
+          "end": 22.72,
+          "probability": 0.91
+        },
+        {
+          "word": "thôi",
+          "start": 22.72,
+          "end": 22.72,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 22.72,
+      "end": 26.18,
+      "text": "Sao Hõi chết",
+      "words": [
+        {
+          "word": "Sao",
+          "start": 22.72,
+          "end": 22.98,
+          "probability": 0.48
+        },
+        {
+          "word": "Hõi",
+          "start": 22.98,
+          "end": 25.6,
+          "probability": 0.23
+        },
+        {
+          "word": "chết",
+          "start": 25.6,
+          "end": 26.18,
+          "probability": 0.06
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7633652174983089428",
+  "duration_seconds": 68.54,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Thôi, phần, phần, phần, phần.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.27,
+      "end": 2.15,
+      "text": "Thôi, phần, phần, phần, phần.",
+      "words": [
+        {
+          "word": "Thôi,",
+          "start": 0.27,
+          "end": 0.87,
+          "probability": 0.09
+        },
+        {
+          "word": "phần,",
+          "start": 1.15,
+          "end": 1.15,
+          "probability": 0.09
+        },
+        {
+          "word": "phần,",
+          "start": 1.15,
+          "end": 1.63,
+          "probability": 0.77
+        },
+        {
+          "word": "phần,",
+          "start": 1.93,
+          "end": 1.93,
+          "probability": 0.86
+        },
+        {
+          "word": "phần.",
+          "start": 2.07,
+          "end": 2.15,
+          "probability": 0.95
+        }
+      ]
+    }
+  ]
+}

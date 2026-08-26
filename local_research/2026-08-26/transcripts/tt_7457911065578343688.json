@@ -1,0 +1,164 @@
+{
+  "item_id": "tt_7457911065578343688",
+  "duration_seconds": 47.12,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 19,
+  "text": "Mình tình thêm The God, the Nation The God, the God, the God The God, the God The God",
+  "segments": [
+    {
+      "id": 1,
+      "start": 35.1,
+      "end": 36.14,
+      "text": "Mình tình thêm",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 35.1,
+          "end": 35.4,
+          "probability": 0.23
+        },
+        {
+          "word": "tình",
+          "start": 35.4,
+          "end": 35.68,
+          "probability": 0.11
+        },
+        {
+          "word": "thêm",
+          "start": 35.68,
+          "end": 36.14,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 37.05,
+      "end": 39.36,
+      "text": "The God, the Nation",
+      "words": [
+        {
+          "word": "The",
+          "start": 37.05,
+          "end": 37.5,
+          "probability": 0.01
+        },
+        {
+          "word": "God,",
+          "start": 37.5,
+          "end": 38.2,
+          "probability": 0.39
+        },
+        {
+          "word": "the",
+          "start": 38.5,
+          "end": 38.76,
+          "probability": 0.21
+        },
+        {
+          "word": "Nation",
+          "start": 38.76,
+          "end": 39.36,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 40.74,
+      "end": 44.02,
+      "text": "The God, the God, the God",
+      "words": [
+        {
+          "word": "The",
+          "start": 40.74,
+          "end": 41.64,
+          "probability": 0.01
+        },
+        {
+          "word": "God,",
+          "start": 41.64,
+          "end": 42.54,
+          "probability": 0.68
+        },
+        {
+          "word": "the",
+          "start": 43.38,
+          "end": 43.38,
+          "probability": 0.77
+        },
+        {
+          "word": "God,",
+          "start": 43.38,
+          "end": 43.58,
+          "probability": 0.1
+        },
+        {
+          "word": "the",
+          "start": 43.58,
+          "end": 43.58,
+          "probability": 0.91
+        },
+        {
+          "word": "God",
+          "start": 43.58,
+          "end": 44.02,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 44.02,
+      "end": 44.52,
+      "text": "The God, the God",
+      "words": [
+        {
+          "word": "The",
+          "start": 44.02,
+          "end": 44.46,
+          "probability": 0.17
+        },
+        {
+          "word": "God,",
+          "start": 44.46,
+          "end": 44.46,
+          "probability": 0.71
+        },
+        {
+          "word": "the",
+          "start": 44.46,
+          "end": 44.52,
+          "probability": 0.94
+        },
+        {
+          "word": "God",
+          "start": 44.52,
+          "end": 44.52,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 44.52,
+      "end": 45.14,
+      "text": "The God",
+      "words": [
+        {
+          "word": "The",
+          "start": 44.52,
+          "end": 44.52,
+          "probability": 0.29
+        },
+        {
+          "word": "God",
+          "start": 44.52,
+          "end": 45.14,
+          "probability": 0.88
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "item_id": "tt_7610813381003496721",
+  "duration_seconds": 27.1,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 23,
+  "text": "1, 2, 3. Hồi hồi hồi hồi. 1, 2, 3, 4, 7, 7, 8, 8, 8, 8, 8, 5, 8. Nãy tổ hồi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 11.08,
+      "end": 12.14,
+      "text": "1, 2, 3.",
+      "words": [
+        {
+          "word": "1,",
+          "start": 11.08,
+          "end": 11.56,
+          "probability": 0.02
+        },
+        {
+          "word": "2,",
+          "start": 11.76,
+          "end": 11.76,
+          "probability": 0.48
+        },
+        {
+          "word": "3.",
+          "start": 11.76,
+          "end": 12.14,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 12.14,
+      "end": 12.6,
+      "text": "Hồi hồi hồi hồi.",
+      "words": [
+        {
+          "word": "Hồi",
+          "start": 12.14,
+          "end": 12.14,
+          "probability": 0.06
+        },
+        {
+          "word": "hồi",
+          "start": 12.14,
+          "end": 12.14,
+          "probability": 0.58
+        },
+        {
+          "word": "hồi",
+          "start": 12.14,
+          "end": 12.38,
+          "probability": 0.62
+        },
+        {
+          "word": "hồi.",
+          "start": 12.38,
+          "end": 12.6,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.6,
+      "end": 22.57,
+      "text": "1, 2, 3, 4, 7, 7, 8, 8, 8, 8, 8, 5, 8.",
+      "words": [
+        {
+          "word": "1,",
+          "start": 12.6,
+          "end": 12.84,
+          "probability": 0.35
+        },
+        {
+          "word": "2,",
+          "start": 13.0,
+          "end": 13.16,
+          "probability": 0.85
+        },
+        {
+          "word": "3,",
+          "start": 13.22,
+          "end": 13.78,
+          "probability": 0.74
+        },
+        {
+          "word": "4,",
+          "start": 13.82,
+          "end": 14.1,
+          "probability": 0.22
+        },
+        {
+          "word": "7,",
+          "start": 14.1,
+          "end": 14.44,
+          "probability": 0.25
+        },
+        {
+          "word": "7,",
+          "start": 16.07,
+          "end": 20.25,
+          "probability": 0.15
+        },
+        {
+          "word": "8,",
+          "start": 20.41,
+          "end": 21.35,
+          "probability": 0.47
+        },
+        {
+          "word": "8,",
+          "start": 21.65,
+          "end": 21.67,
+          "probability": 0.19
+        },
+        {
+          "word": "8,",
+          "start": 21.67,
+          "end": 21.85,
+          "probability": 0.1
+        },
+        {
+          "word": "8,",
+          "start": 21.85,
+          "end": 21.91,
+          "probability": 0.16
+        },
+        {
+          "word": "8,",
+          "start": 21.91,
+          "end": 21.93,
+          "probability": 0.21
+        },
+        {
+          "word": "5,",
+          "start": 21.93,
+          "end": 21.93,
+          "probability": 0.08
+        },
+        {
+          "word": "8.",
+          "start": 22.15,
+          "end": 22.57,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 23.53,
+      "end": 24.81,
+      "text": "Nãy tổ hồi.",
+      "words": [
+        {
+          "word": "Nãy",
+          "start": 23.53,
+          "end": 24.01,
+          "probability": 0.2
+        },
+        {
+          "word": "tổ",
+          "start": 24.01,
+          "end": 24.43,
+          "probability": 0.09
+        },
+        {
+          "word": "hồi.",
+          "start": 24.43,
+          "end": 24.81,
+          "probability": 0.47
+        }
+      ]
+    }
+  ]
+}

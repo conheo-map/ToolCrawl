@@ -1,0 +1,356 @@
+{
+  "item_id": "tt_7462563714839907605",
+  "duration_seconds": 36.6,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 43,
+  "text": "nó xa cái lòng tương có thể cái tương tương có phí nó ai mất nó cháy ơn xa có mất nó bẹn thêm qua mình nơi bây giờ nó sửa rồi nó xong này được kêu ai bác nó xe bây giờ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.8,
+      "text": "nó xa",
+      "words": [
+        {
+          "word": "nó",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.02
+        },
+        {
+          "word": "xa",
+          "start": 0.36,
+          "end": 0.8,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 0.8,
+      "end": 1.84,
+      "text": "cái lòng tương",
+      "words": [
+        {
+          "word": "cái",
+          "start": 0.8,
+          "end": 1.18,
+          "probability": 0.18
+        },
+        {
+          "word": "lòng",
+          "start": 1.18,
+          "end": 1.52,
+          "probability": 0.62
+        },
+        {
+          "word": "tương",
+          "start": 1.52,
+          "end": 1.84,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 1.84,
+      "end": 2.76,
+      "text": "có thể",
+      "words": [
+        {
+          "word": "có",
+          "start": 1.84,
+          "end": 2.2,
+          "probability": 0.01
+        },
+        {
+          "word": "thể",
+          "start": 2.2,
+          "end": 2.76,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 2.76,
+      "end": 3.42,
+      "text": "cái tương tương",
+      "words": [
+        {
+          "word": "cái",
+          "start": 2.76,
+          "end": 2.94,
+          "probability": 0.01
+        },
+        {
+          "word": "tương",
+          "start": 2.94,
+          "end": 3.14,
+          "probability": 0.2
+        },
+        {
+          "word": "tương",
+          "start": 3.14,
+          "end": 3.42,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 3.42,
+      "end": 3.64,
+      "text": "có",
+      "words": [
+        {
+          "word": "có",
+          "start": 3.42,
+          "end": 3.64,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 6.11,
+      "end": 8.75,
+      "text": "phí nó ai mất nó cháy ơn xa",
+      "words": [
+        {
+          "word": "phí",
+          "start": 6.11,
+          "end": 6.71,
+          "probability": 0.14
+        },
+        {
+          "word": "nó",
+          "start": 6.71,
+          "end": 6.93,
+          "probability": 0.07
+        },
+        {
+          "word": "ai",
+          "start": 6.93,
+          "end": 7.17,
+          "probability": 0.38
+        },
+        {
+          "word": "mất",
+          "start": 7.17,
+          "end": 7.39,
+          "probability": 0.56
+        },
+        {
+          "word": "nó",
+          "start": 7.39,
+          "end": 7.79,
+          "probability": 0.22
+        },
+        {
+          "word": "cháy",
+          "start": 7.79,
+          "end": 8.31,
+          "probability": 0.39
+        },
+        {
+          "word": "ơn",
+          "start": 8.31,
+          "end": 8.33,
+          "probability": 0.28
+        },
+        {
+          "word": "xa",
+          "start": 8.33,
+          "end": 8.75,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 8.75,
+      "end": 10.09,
+      "text": "có mất nó",
+      "words": [
+        {
+          "word": "có",
+          "start": 8.75,
+          "end": 9.19,
+          "probability": 0.02
+        },
+        {
+          "word": "mất",
+          "start": 9.19,
+          "end": 9.59,
+          "probability": 0.38
+        },
+        {
+          "word": "nó",
+          "start": 9.59,
+          "end": 10.09,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 10.09,
+      "end": 11.33,
+      "text": "bẹn thêm qua mình nơi",
+      "words": [
+        {
+          "word": "bẹn",
+          "start": 10.09,
+          "end": 10.53,
+          "probability": 0.2
+        },
+        {
+          "word": "thêm",
+          "start": 10.53,
+          "end": 10.59,
+          "probability": 0.24
+        },
+        {
+          "word": "qua",
+          "start": 10.59,
+          "end": 10.75,
+          "probability": 0.26
+        },
+        {
+          "word": "mình",
+          "start": 10.75,
+          "end": 11.03,
+          "probability": 0.07
+        },
+        {
+          "word": "nơi",
+          "start": 11.03,
+          "end": 11.33,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 13.32,
+      "end": 15.28,
+      "text": "bây giờ nó sửa rồi",
+      "words": [
+        {
+          "word": "bây",
+          "start": 13.32,
+          "end": 13.84,
+          "probability": 0.56
+        },
+        {
+          "word": "giờ",
+          "start": 13.84,
+          "end": 14.04,
+          "probability": 0.99
+        },
+        {
+          "word": "nó",
+          "start": 14.04,
+          "end": 14.3,
+          "probability": 0.3
+        },
+        {
+          "word": "sửa",
+          "start": 14.3,
+          "end": 14.64,
+          "probability": 0.14
+        },
+        {
+          "word": "rồi",
+          "start": 14.64,
+          "end": 15.28,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 20.49,
+      "end": 21.63,
+      "text": "nó xong này được kêu",
+      "words": [
+        {
+          "word": "nó",
+          "start": 20.49,
+          "end": 20.79,
+          "probability": 0.06
+        },
+        {
+          "word": "xong",
+          "start": 20.79,
+          "end": 20.89,
+          "probability": 0.3
+        },
+        {
+          "word": "này",
+          "start": 20.89,
+          "end": 21.19,
+          "probability": 0.2
+        },
+        {
+          "word": "được",
+          "start": 21.19,
+          "end": 21.39,
+          "probability": 0.08
+        },
+        {
+          "word": "kêu",
+          "start": 21.39,
+          "end": 21.63,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 21.63,
+      "end": 31.64,
+      "text": "ai bác nó xe bây giờ",
+      "words": [
+        {
+          "word": "ai",
+          "start": 21.63,
+          "end": 22.01,
+          "probability": 0.18
+        },
+        {
+          "word": "bác",
+          "start": 30.72,
+          "end": 31.08,
+          "probability": 0.31
+        },
+        {
+          "word": "nó",
+          "start": 31.08,
+          "end": 31.26,
+          "probability": 0.05
+        },
+        {
+          "word": "xe",
+          "start": 31.26,
+          "end": 31.5,
+          "probability": 0.35
+        },
+        {
+          "word": "bây",
+          "start": 31.5,
+          "end": 31.64,
+          "probability": 0.4
+        },
+        {
+          "word": "giờ",
+          "start": 31.64,
+          "end": 31.64,
+          "probability": 0.89
+        }
+      ]
+    }
+  ]
+}

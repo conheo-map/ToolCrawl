@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7649187389235039504",
+  "duration_seconds": 106.23,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Mình là cái...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.82,
+      "text": "Mình là cái...",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.18
+        },
+        {
+          "word": "là",
+          "start": 0.32,
+          "end": 0.48,
+          "probability": 0.05
+        },
+        {
+          "word": "cái...",
+          "start": 0.48,
+          "end": 0.82,
+          "probability": 0.1
+        }
+      ]
+    }
+  ]
+}

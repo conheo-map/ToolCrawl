@@ -1,0 +1,74 @@
+{
+  "item_id": "tt_7545163815244057863",
+  "duration_seconds": 75.33,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 8,
+  "text": "Anh có thể đưa. Anh có thể đưa.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 5.46,
+      "end": 6.6,
+      "text": "Anh có thể đưa.",
+      "words": [
+        {
+          "word": "Anh",
+          "start": 5.46,
+          "end": 6.0,
+          "probability": 0.06
+        },
+        {
+          "word": "có",
+          "start": 6.0,
+          "end": 6.16,
+          "probability": 0.03
+        },
+        {
+          "word": "thể",
+          "start": 6.16,
+          "end": 6.16,
+          "probability": 0.09
+        },
+        {
+          "word": "đưa.",
+          "start": 6.16,
+          "end": 6.6,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.58,
+      "end": 8.54,
+      "text": "Anh có thể đưa.",
+      "words": [
+        {
+          "word": "Anh",
+          "start": 7.58,
+          "end": 7.9,
+          "probability": 0.21
+        },
+        {
+          "word": "có",
+          "start": 7.9,
+          "end": 8.18,
+          "probability": 0.58
+        },
+        {
+          "word": "thể",
+          "start": 8.18,
+          "end": 8.18,
+          "probability": 0.93
+        },
+        {
+          "word": "đưa.",
+          "start": 8.18,
+          "end": 8.54,
+          "probability": 0.84
+        }
+      ]
+    }
+  ]
+}

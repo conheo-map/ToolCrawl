@@ -1,0 +1,74 @@
+{
+  "item_id": "tt_7486329173762395393",
+  "duration_seconds": 59.9,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 8,
+  "text": "Chúc tên đúng không? Chúc tên đúng không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.26,
+      "end": 2.58,
+      "text": "Chúc tên đúng không?",
+      "words": [
+        {
+          "word": "Chúc",
+          "start": 1.26,
+          "end": 1.7,
+          "probability": 0.05
+        },
+        {
+          "word": "tên",
+          "start": 1.7,
+          "end": 2.14,
+          "probability": 0.09
+        },
+        {
+          "word": "đúng",
+          "start": 2.14,
+          "end": 2.36,
+          "probability": 0.03
+        },
+        {
+          "word": "không?",
+          "start": 2.36,
+          "end": 2.58,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.58,
+      "end": 2.76,
+      "text": "Chúc tên đúng không?",
+      "words": [
+        {
+          "word": "Chúc",
+          "start": 2.58,
+          "end": 2.58,
+          "probability": 0.39
+        },
+        {
+          "word": "tên",
+          "start": 2.58,
+          "end": 2.58,
+          "probability": 0.92
+        },
+        {
+          "word": "đúng",
+          "start": 2.58,
+          "end": 2.58,
+          "probability": 0.91
+        },
+        {
+          "word": "không?",
+          "start": 2.58,
+          "end": 2.76,
+          "probability": 0.9
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7477879837189868808",
+  "duration_seconds": 147.33,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Bột bình ạ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.54,
+      "text": "Bột bình ạ",
+      "words": [
+        {
+          "word": "Bột",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.1
+        },
+        {
+          "word": "bình",
+          "start": 0.36,
+          "end": 0.54,
+          "probability": 0.27
+        },
+        {
+          "word": "ạ",
+          "start": 0.54,
+          "end": 0.54,
+          "probability": 0.11
+        }
+      ]
+    }
+  ]
+}

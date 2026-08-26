@@ -1,0 +1,80 @@
+{
+  "item_id": "tt_7639189771331423509",
+  "duration_seconds": 32.96,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "Cái gì đó? Vì vậy, chỉ khác biển vận.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 30.84,
+      "text": "Cái gì đó?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 30.0,
+          "end": 30.14,
+          "probability": 0.13
+        },
+        {
+          "word": "gì",
+          "start": 30.14,
+          "end": 30.14,
+          "probability": 0.49
+        },
+        {
+          "word": "đó?",
+          "start": 30.14,
+          "end": 30.84,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 30.96,
+      "end": 32.78,
+      "text": "Vì vậy, chỉ khác biển vận.",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 30.96,
+          "end": 31.04,
+          "probability": 0.27
+        },
+        {
+          "word": "vậy,",
+          "start": 31.04,
+          "end": 31.36,
+          "probability": 0.5
+        },
+        {
+          "word": "chỉ",
+          "start": 31.92,
+          "end": 32.08,
+          "probability": 0.1
+        },
+        {
+          "word": "khác",
+          "start": 32.08,
+          "end": 32.3,
+          "probability": 0.19
+        },
+        {
+          "word": "biển",
+          "start": 32.3,
+          "end": 32.6,
+          "probability": 0.39
+        },
+        {
+          "word": "vận.",
+          "start": 32.6,
+          "end": 32.78,
+          "probability": 0.28
+        }
+      ]
+    }
+  ]
+}

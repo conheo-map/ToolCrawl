@@ -1,0 +1,124 @@
+{
+  "item_id": "tt_7548422737371352328",
+  "duration_seconds": 22.72,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 15,
+  "text": "Không. Không, không, không, không. Chúngishing 2 ngày 3, eles tiêu gặp lại thời gian.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.18,
+      "end": 1.7,
+      "text": "Không. Không, không, không, không.",
+      "words": [
+        {
+          "word": "Không.",
+          "start": 0.18,
+          "end": 0.58,
+          "probability": 0.01
+        },
+        {
+          "word": "Không,",
+          "start": 0.74,
+          "end": 0.74,
+          "probability": 0.16
+        },
+        {
+          "word": "không,",
+          "start": 0.74,
+          "end": 0.84,
+          "probability": 0.58
+        },
+        {
+          "word": "không,",
+          "start": 0.84,
+          "end": 1.22,
+          "probability": 0.83
+        },
+        {
+          "word": "không.",
+          "start": 1.22,
+          "end": 1.7,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.04,
+      "end": 3.16,
+      "text": "Chúngishing 2 ngày 3,",
+      "words": [
+        {
+          "word": "Chúngishing",
+          "start": 2.04,
+          "end": 2.5,
+          "probability": 0.13
+        },
+        {
+          "word": "2",
+          "start": 2.5,
+          "end": 2.5,
+          "probability": 0.0
+        },
+        {
+          "word": "ngày",
+          "start": 2.5,
+          "end": 2.88,
+          "probability": 0.0
+        },
+        {
+          "word": "3,",
+          "start": 2.88,
+          "end": 3.16,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.54,
+      "end": 4.88,
+      "text": "eles tiêu gặp lại thời gian.",
+      "words": [
+        {
+          "word": "eles",
+          "start": 3.54,
+          "end": 3.9,
+          "probability": 0.0
+        },
+        {
+          "word": "tiêu",
+          "start": 3.9,
+          "end": 3.92,
+          "probability": 0.25
+        },
+        {
+          "word": "gặp",
+          "start": 3.92,
+          "end": 4.6,
+          "probability": 0.33
+        },
+        {
+          "word": "lại",
+          "start": 4.6,
+          "end": 4.8,
+          "probability": 0.06
+        },
+        {
+          "word": "thời",
+          "start": 4.8,
+          "end": 4.88,
+          "probability": 0.0
+        },
+        {
+          "word": "gian.",
+          "start": 4.88,
+          "end": 4.88,
+          "probability": 0.8
+        }
+      ]
+    }
+  ]
+}

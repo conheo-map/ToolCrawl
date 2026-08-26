@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7566951666965073169",
+  "duration_seconds": 60.39,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Mình bắt đầu hấp dẫn",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.14,
+      "end": 44.5,
+      "text": "Mình bắt đầu hấp dẫn",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.14,
+          "end": 1.64,
+          "probability": 0.2
+        },
+        {
+          "word": "bắt",
+          "start": 1.64,
+          "end": 1.84,
+          "probability": 0.08
+        },
+        {
+          "word": "đầu",
+          "start": 1.84,
+          "end": 2.5,
+          "probability": 0.17
+        },
+        {
+          "word": "hấp",
+          "start": 15.37,
+          "end": 36.77,
+          "probability": 0.05
+        },
+        {
+          "word": "dẫn",
+          "start": 44.48,
+          "end": 44.5,
+          "probability": 0.58
+        }
+      ]
+    }
+  ]
+}

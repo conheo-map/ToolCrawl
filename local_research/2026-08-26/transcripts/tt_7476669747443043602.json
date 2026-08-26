@@ -1,0 +1,74 @@
+{
+  "item_id": "tt_7476669747443043602",
+  "duration_seconds": 39.25,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 8,
+  "text": "A nèều đâu đâu nè Chỉ có an",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 1.27,
+      "text": "A nèều đâu đâu nè",
+      "words": [
+        {
+          "word": "A",
+          "start": 0.05,
+          "end": 0.53,
+          "probability": 0.01
+        },
+        {
+          "word": "nèều",
+          "start": 0.53,
+          "end": 0.65,
+          "probability": 0.04
+        },
+        {
+          "word": "đâu",
+          "start": 0.65,
+          "end": 0.87,
+          "probability": 0.26
+        },
+        {
+          "word": "đâu",
+          "start": 0.87,
+          "end": 1.03,
+          "probability": 0.32
+        },
+        {
+          "word": "nè",
+          "start": 1.03,
+          "end": 1.27,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.02,
+      "end": 3.66,
+      "text": "Chỉ có an",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 3.02,
+          "end": 3.24,
+          "probability": 0.14
+        },
+        {
+          "word": "có",
+          "start": 3.24,
+          "end": 3.44,
+          "probability": 0.27
+        },
+        {
+          "word": "an",
+          "start": 3.44,
+          "end": 3.66,
+          "probability": 0.01
+        }
+      ]
+    }
+  ]
+}

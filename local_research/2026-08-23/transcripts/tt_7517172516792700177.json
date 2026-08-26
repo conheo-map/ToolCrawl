@@ -1,0 +1,86 @@
+{
+  "item_id": "tt_7517172516792700177",
+  "duration_seconds": 29.34,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 10,
+  "text": "Cái này có thể nghe? Cái này có thể nghe?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.7,
+      "end": 4.26,
+      "text": "Cái này có thể nghe?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 2.7,
+          "end": 3.24,
+          "probability": 0.45
+        },
+        {
+          "word": "này",
+          "start": 3.24,
+          "end": 3.42,
+          "probability": 0.26
+        },
+        {
+          "word": "có",
+          "start": 3.42,
+          "end": 3.72,
+          "probability": 0.22
+        },
+        {
+          "word": "thể",
+          "start": 3.72,
+          "end": 3.92,
+          "probability": 0.2
+        },
+        {
+          "word": "nghe?",
+          "start": 3.92,
+          "end": 4.26,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.98,
+      "end": 8.12,
+      "text": "Cái này có thể nghe?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 6.98,
+          "end": 7.46,
+          "probability": 0.48
+        },
+        {
+          "word": "này",
+          "start": 7.46,
+          "end": 7.5,
+          "probability": 0.54
+        },
+        {
+          "word": "có",
+          "start": 7.5,
+          "end": 8.12,
+          "probability": 0.22
+        },
+        {
+          "word": "thể",
+          "start": 8.12,
+          "end": 8.12,
+          "probability": 0.86
+        },
+        {
+          "word": "nghe?",
+          "start": 8.12,
+          "end": 8.12,
+          "probability": 0.97
+        }
+      ]
+    }
+  ]
+}

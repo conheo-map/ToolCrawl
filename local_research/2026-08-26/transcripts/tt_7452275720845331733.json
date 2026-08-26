@@ -1,0 +1,216 @@
+{
+  "item_id": "tt_7452275720845331733",
+  "duration_seconds": 114.85,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 21,
+  "text": "Thôi bỏa ra nó Trời ơi Mát mẹ Ví hứa Mà đẹp Mà đẹp Ví hứa Bây giờ Bây giờ Thủ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 96.86,
+      "end": 97.96,
+      "text": "Thôi bỏa ra nó",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 96.86,
+          "end": 97.04,
+          "probability": 0.12
+        },
+        {
+          "word": "bỏa",
+          "start": 97.04,
+          "end": 97.78,
+          "probability": 0.08
+        },
+        {
+          "word": "ra",
+          "start": 97.78,
+          "end": 97.94,
+          "probability": 0.01
+        },
+        {
+          "word": "nó",
+          "start": 97.94,
+          "end": 97.96,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 97.96,
+      "end": 98.2,
+      "text": "Trời ơi",
+      "words": [
+        {
+          "word": "Trời",
+          "start": 97.96,
+          "end": 98.2,
+          "probability": 0.07
+        },
+        {
+          "word": "ơi",
+          "start": 98.2,
+          "end": 98.2,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 99.0,
+      "end": 99.78,
+      "text": "Mát mẹ",
+      "words": [
+        {
+          "word": "Mát",
+          "start": 99.0,
+          "end": 99.56,
+          "probability": 0.01
+        },
+        {
+          "word": "mẹ",
+          "start": 99.56,
+          "end": 99.78,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 99.78,
+      "end": 100.2,
+      "text": "Ví hứa",
+      "words": [
+        {
+          "word": "Ví",
+          "start": 99.78,
+          "end": 100.2,
+          "probability": 0.02
+        },
+        {
+          "word": "hứa",
+          "start": 100.2,
+          "end": 100.2,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 100.2,
+      "end": 100.62,
+      "text": "Mà đẹp",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 100.2,
+          "end": 100.4,
+          "probability": 0.1
+        },
+        {
+          "word": "đẹp",
+          "start": 100.4,
+          "end": 100.62,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 100.62,
+      "end": 101.26,
+      "text": "Mà đẹp",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 100.62,
+          "end": 100.62,
+          "probability": 0.41
+        },
+        {
+          "word": "đẹp",
+          "start": 100.62,
+          "end": 101.26,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 101.26,
+      "end": 101.54,
+      "text": "Ví hứa",
+      "words": [
+        {
+          "word": "Ví",
+          "start": 101.26,
+          "end": 101.26,
+          "probability": 0.51
+        },
+        {
+          "word": "hứa",
+          "start": 101.26,
+          "end": 101.54,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 101.54,
+      "end": 102.32,
+      "text": "Bây giờ",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 101.54,
+          "end": 102.32,
+          "probability": 0.02
+        },
+        {
+          "word": "giờ",
+          "start": 102.32,
+          "end": 102.32,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 102.32,
+      "end": 103.24,
+      "text": "Bây giờ",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 102.32,
+          "end": 103.24,
+          "probability": 0.07
+        },
+        {
+          "word": "giờ",
+          "start": 103.24,
+          "end": 103.24,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 104.64,
+      "end": 105.2,
+      "text": "Thủ",
+      "words": [
+        {
+          "word": "Thủ",
+          "start": 104.64,
+          "end": 105.2,
+          "probability": 0.01
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7543303057501703431",
+  "duration_seconds": 55.97,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Mình sẽ đoàn đoàn đoàn đoàn.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.94,
+      "text": "Mình sẽ đoàn đoàn đoàn đoàn.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.28
+        },
+        {
+          "word": "sẽ",
+          "start": 0.4,
+          "end": 0.68,
+          "probability": 0.07
+        },
+        {
+          "word": "đoàn",
+          "start": 0.68,
+          "end": 1.12,
+          "probability": 0.11
+        },
+        {
+          "word": "đoàn",
+          "start": 1.12,
+          "end": 1.2,
+          "probability": 0.32
+        },
+        {
+          "word": "đoàn",
+          "start": 1.2,
+          "end": 1.62,
+          "probability": 0.52
+        },
+        {
+          "word": "đoàn.",
+          "start": 1.62,
+          "end": 1.94,
+          "probability": 0.69
+        }
+      ]
+    }
+  ]
+}

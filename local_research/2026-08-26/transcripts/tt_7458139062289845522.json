@@ -1,0 +1,294 @@
+{
+  "item_id": "tt_7458139062289845522",
+  "duration_seconds": 59.86,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 38,
+  "text": "Đây là... Hôm nay chào đây là... Bây giờ chúng ta sẽ đi với mình Hôm nay hôm nay hôm nay Hôm nay mình không? Bá bê hấp dẫn rồi đi của mình thấy Chà bụt như mình",
+  "segments": [
+    {
+      "id": 1,
+      "start": 46.11,
+      "end": 48.82,
+      "text": "Đây là...",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 46.11,
+          "end": 46.47,
+          "probability": 0.16
+        },
+        {
+          "word": "là...",
+          "start": 48.46,
+          "end": 48.82,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 48.82,
+      "end": 49.62,
+      "text": "Hôm nay chào đây là...",
+      "words": [
+        {
+          "word": "Hôm",
+          "start": 48.82,
+          "end": 48.84,
+          "probability": 0.04
+        },
+        {
+          "word": "nay",
+          "start": 48.84,
+          "end": 48.94,
+          "probability": 0.81
+        },
+        {
+          "word": "chào",
+          "start": 48.94,
+          "end": 49.14,
+          "probability": 0.26
+        },
+        {
+          "word": "đây",
+          "start": 49.14,
+          "end": 49.3,
+          "probability": 0.1
+        },
+        {
+          "word": "là...",
+          "start": 49.3,
+          "end": 49.62,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 50.38,
+      "end": 51.7,
+      "text": "Bây giờ chúng ta sẽ đi với mình",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 50.38,
+          "end": 50.52,
+          "probability": 0.51
+        },
+        {
+          "word": "giờ",
+          "start": 50.52,
+          "end": 50.6,
+          "probability": 0.96
+        },
+        {
+          "word": "chúng",
+          "start": 50.6,
+          "end": 50.82,
+          "probability": 0.18
+        },
+        {
+          "word": "ta",
+          "start": 50.82,
+          "end": 51.0,
+          "probability": 0.65
+        },
+        {
+          "word": "sẽ",
+          "start": 51.0,
+          "end": 51.18,
+          "probability": 0.94
+        },
+        {
+          "word": "đi",
+          "start": 51.18,
+          "end": 51.32,
+          "probability": 0.27
+        },
+        {
+          "word": "với",
+          "start": 51.32,
+          "end": 51.46,
+          "probability": 0.03
+        },
+        {
+          "word": "mình",
+          "start": 51.46,
+          "end": 51.7,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 51.7,
+      "end": 53.98,
+      "text": "Hôm nay hôm nay hôm nay",
+      "words": [
+        {
+          "word": "Hôm",
+          "start": 51.7,
+          "end": 51.7,
+          "probability": 0.41
+        },
+        {
+          "word": "nay",
+          "start": 51.7,
+          "end": 51.72,
+          "probability": 0.95
+        },
+        {
+          "word": "hôm",
+          "start": 51.72,
+          "end": 51.96,
+          "probability": 0.37
+        },
+        {
+          "word": "nay",
+          "start": 53.68,
+          "end": 53.68,
+          "probability": 0.99
+        },
+        {
+          "word": "hôm",
+          "start": 53.68,
+          "end": 53.8,
+          "probability": 0.52
+        },
+        {
+          "word": "nay",
+          "start": 53.8,
+          "end": 53.98,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 53.98,
+      "end": 55.24,
+      "text": "Hôm nay mình không?",
+      "words": [
+        {
+          "word": "Hôm",
+          "start": 53.98,
+          "end": 54.18,
+          "probability": 0.5
+        },
+        {
+          "word": "nay",
+          "start": 54.18,
+          "end": 54.48,
+          "probability": 0.99
+        },
+        {
+          "word": "mình",
+          "start": 54.48,
+          "end": 54.96,
+          "probability": 0.04
+        },
+        {
+          "word": "không?",
+          "start": 54.96,
+          "end": 55.24,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 55.98,
+      "end": 57.12,
+      "text": "Bá bê hấp dẫn rồi đi của mình thấy",
+      "words": [
+        {
+          "word": "Bá",
+          "start": 55.98,
+          "end": 56.2,
+          "probability": 0.25
+        },
+        {
+          "word": "bê",
+          "start": 56.2,
+          "end": 56.34,
+          "probability": 0.15
+        },
+        {
+          "word": "hấp",
+          "start": 56.34,
+          "end": 56.46,
+          "probability": 0.05
+        },
+        {
+          "word": "dẫn",
+          "start": 56.46,
+          "end": 56.46,
+          "probability": 0.44
+        },
+        {
+          "word": "rồi",
+          "start": 56.46,
+          "end": 56.66,
+          "probability": 0.27
+        },
+        {
+          "word": "đi",
+          "start": 56.66,
+          "end": 56.82,
+          "probability": 0.03
+        },
+        {
+          "word": "của",
+          "start": 56.82,
+          "end": 56.84,
+          "probability": 0.15
+        },
+        {
+          "word": "mình",
+          "start": 56.84,
+          "end": 56.98,
+          "probability": 0.89
+        },
+        {
+          "word": "thấy",
+          "start": 56.98,
+          "end": 57.12,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 57.12,
+      "end": 58.04,
+      "text": "Chà bụt như mình",
+      "words": [
+        {
+          "word": "Chà",
+          "start": 57.12,
+          "end": 57.52,
+          "probability": 0.02
+        },
+        {
+          "word": "bụt",
+          "start": 57.52,
+          "end": 57.66,
+          "probability": 0.33
+        },
+        {
+          "word": "như",
+          "start": 57.66,
+          "end": 57.88,
+          "probability": 0.13
+        },
+        {
+          "word": "mình",
+          "start": 57.88,
+          "end": 58.04,
+          "probability": 0.79
+        }
+      ]
+    }
+  ]
+}

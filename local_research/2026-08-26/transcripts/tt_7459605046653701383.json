@@ -1,0 +1,164 @@
+{
+  "item_id": "tt_7459605046653701383",
+  "duration_seconds": 54.29,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 19,
+  "text": "Ví em phải ơn tất cả bỏ. Bỏ lạc dĩnh. Bỏ lạc dĩnh. Bỏ lạc dĩnh. Ví em phải.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 3.6,
+      "text": "Ví em phải ơn tất cả bỏ.",
+      "words": [
+        {
+          "word": "Ví",
+          "start": 0.08,
+          "end": 1.0,
+          "probability": 0.03
+        },
+        {
+          "word": "em",
+          "start": 1.0,
+          "end": 1.5,
+          "probability": 0.71
+        },
+        {
+          "word": "phải",
+          "start": 1.5,
+          "end": 1.5,
+          "probability": 0.0
+        },
+        {
+          "word": "ơn",
+          "start": 1.5,
+          "end": 2.16,
+          "probability": 0.03
+        },
+        {
+          "word": "tất",
+          "start": 2.16,
+          "end": 2.76,
+          "probability": 0.04
+        },
+        {
+          "word": "cả",
+          "start": 2.76,
+          "end": 3.3,
+          "probability": 0.82
+        },
+        {
+          "word": "bỏ.",
+          "start": 3.3,
+          "end": 3.6,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.6,
+      "end": 4.52,
+      "text": "Bỏ lạc dĩnh.",
+      "words": [
+        {
+          "word": "Bỏ",
+          "start": 3.6,
+          "end": 3.6,
+          "probability": 0.65
+        },
+        {
+          "word": "lạc",
+          "start": 3.6,
+          "end": 3.6,
+          "probability": 0.92
+        },
+        {
+          "word": "dĩnh.",
+          "start": 3.6,
+          "end": 4.52,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.72,
+      "end": 7.36,
+      "text": "Bỏ lạc dĩnh.",
+      "words": [
+        {
+          "word": "Bỏ",
+          "start": 4.72,
+          "end": 5.32,
+          "probability": 0.78
+        },
+        {
+          "word": "lạc",
+          "start": 5.32,
+          "end": 5.4,
+          "probability": 0.97
+        },
+        {
+          "word": "dĩnh.",
+          "start": 5.4,
+          "end": 7.36,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.02,
+      "end": 10.14,
+      "text": "Bỏ lạc dĩnh.",
+      "words": [
+        {
+          "word": "Bỏ",
+          "start": 8.02,
+          "end": 8.4,
+          "probability": 0.84
+        },
+        {
+          "word": "lạc",
+          "start": 8.4,
+          "end": 8.54,
+          "probability": 0.97
+        },
+        {
+          "word": "dĩnh.",
+          "start": 8.54,
+          "end": 10.14,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.09,
+      "end": 14.07,
+      "text": "Ví em phải.",
+      "words": [
+        {
+          "word": "Ví",
+          "start": 13.09,
+          "end": 14.07,
+          "probability": 0.15
+        },
+        {
+          "word": "em",
+          "start": 14.07,
+          "end": 14.07,
+          "probability": 0.93
+        },
+        {
+          "word": "phải.",
+          "start": 14.07,
+          "end": 14.07,
+          "probability": 0.42
+        }
+      ]
+    }
+  ]
+}

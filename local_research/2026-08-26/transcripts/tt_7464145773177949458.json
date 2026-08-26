@@ -1,0 +1,730 @@
+{
+  "item_id": "tt_7464145773177949458",
+  "duration_seconds": 66.75,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 100,
+  "text": "Đúng ta Đúng ta Đúng ta Chúng tôi đã phải có khảnh rất là lớn Nếu là cái nước tợ thì hoạt động, ngoài, phạm đi bên dưới của người ta Trong một kinh góng kinh, và kết tổ chức rất là chả trẻ, phần tông rất là đẹp Để ở tương thình bình, trong giữa tổ chức đỏ, dí ghi thông tinh, đỏ và thú thập trước khi phán Đúng ta Đúng ta Đúng ta Để và hình rất là đẹp Để là đẹp Thông tinh, đẹp Để là đẹp Trong giữa tổ chức đỏ, dí ghi thông tinh",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.42,
+      "end": 3.08,
+      "text": "Đúng ta",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 2.42,
+          "end": 2.46,
+          "probability": 0.09
+        },
+        {
+          "word": "ta",
+          "start": 2.46,
+          "end": 3.08,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.36,
+      "end": 5.06,
+      "text": "Đúng ta",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 4.36,
+          "end": 4.84,
+          "probability": 0.4
+        },
+        {
+          "word": "ta",
+          "start": 4.84,
+          "end": 5.06,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.06,
+      "end": 6.28,
+      "text": "Đúng ta",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 5.06,
+          "end": 5.92,
+          "probability": 0.68
+        },
+        {
+          "word": "ta",
+          "start": 5.92,
+          "end": 6.28,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 23.4,
+      "end": 32.13,
+      "text": "Chúng tôi đã phải có khảnh rất là lớn",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 23.4,
+          "end": 23.88,
+          "probability": 0.09
+        },
+        {
+          "word": "tôi",
+          "start": 29.13,
+          "end": 29.61,
+          "probability": 0.02
+        },
+        {
+          "word": "đã",
+          "start": 29.61,
+          "end": 30.13,
+          "probability": 0.1
+        },
+        {
+          "word": "phải",
+          "start": 30.13,
+          "end": 30.43,
+          "probability": 0.19
+        },
+        {
+          "word": "có",
+          "start": 30.43,
+          "end": 30.73,
+          "probability": 0.04
+        },
+        {
+          "word": "khảnh",
+          "start": 30.73,
+          "end": 31.01,
+          "probability": 0.53
+        },
+        {
+          "word": "rất",
+          "start": 31.01,
+          "end": 31.15,
+          "probability": 0.76
+        },
+        {
+          "word": "là",
+          "start": 31.15,
+          "end": 31.25,
+          "probability": 0.9
+        },
+        {
+          "word": "lớn",
+          "start": 31.25,
+          "end": 32.13,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 32.13,
+      "end": 37.31,
+      "text": "Nếu là cái nước tợ thì hoạt động, ngoài, phạm đi bên dưới của người ta",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 32.13,
+          "end": 32.51,
+          "probability": 0.09
+        },
+        {
+          "word": "là",
+          "start": 32.51,
+          "end": 33.23,
+          "probability": 0.23
+        },
+        {
+          "word": "cái",
+          "start": 33.23,
+          "end": 33.41,
+          "probability": 0.14
+        },
+        {
+          "word": "nước",
+          "start": 33.41,
+          "end": 33.59,
+          "probability": 0.29
+        },
+        {
+          "word": "tợ",
+          "start": 33.59,
+          "end": 33.83,
+          "probability": 0.35
+        },
+        {
+          "word": "thì",
+          "start": 33.83,
+          "end": 34.19,
+          "probability": 0.37
+        },
+        {
+          "word": "hoạt",
+          "start": 34.19,
+          "end": 34.39,
+          "probability": 0.44
+        },
+        {
+          "word": "động,",
+          "start": 34.39,
+          "end": 34.67,
+          "probability": 0.95
+        },
+        {
+          "word": "ngoài,",
+          "start": 35.39,
+          "end": 35.77,
+          "probability": 0.53
+        },
+        {
+          "word": "phạm",
+          "start": 36.07,
+          "end": 36.07,
+          "probability": 0.44
+        },
+        {
+          "word": "đi",
+          "start": 36.07,
+          "end": 36.19,
+          "probability": 0.52
+        },
+        {
+          "word": "bên",
+          "start": 36.19,
+          "end": 36.37,
+          "probability": 0.58
+        },
+        {
+          "word": "dưới",
+          "start": 36.37,
+          "end": 36.53,
+          "probability": 0.76
+        },
+        {
+          "word": "của",
+          "start": 36.53,
+          "end": 36.77,
+          "probability": 0.69
+        },
+        {
+          "word": "người",
+          "start": 36.77,
+          "end": 36.95,
+          "probability": 0.23
+        },
+        {
+          "word": "ta",
+          "start": 36.95,
+          "end": 37.31,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 37.31,
+      "end": 42.19,
+      "text": "Trong một kinh góng kinh, và kết tổ chức rất là chả trẻ, phần tông rất là đẹp",
+      "words": [
+        {
+          "word": "Trong",
+          "start": 37.31,
+          "end": 37.79,
+          "probability": 0.62
+        },
+        {
+          "word": "một",
+          "start": 37.79,
+          "end": 37.99,
+          "probability": 0.45
+        },
+        {
+          "word": "kinh",
+          "start": 37.99,
+          "end": 38.13,
+          "probability": 0.57
+        },
+        {
+          "word": "góng",
+          "start": 38.13,
+          "end": 38.35,
+          "probability": 0.32
+        },
+        {
+          "word": "kinh,",
+          "start": 38.35,
+          "end": 38.83,
+          "probability": 0.77
+        },
+        {
+          "word": "và",
+          "start": 39.17,
+          "end": 39.27,
+          "probability": 0.28
+        },
+        {
+          "word": "kết",
+          "start": 39.27,
+          "end": 39.49,
+          "probability": 0.17
+        },
+        {
+          "word": "tổ",
+          "start": 39.49,
+          "end": 39.55,
+          "probability": 0.7
+        },
+        {
+          "word": "chức",
+          "start": 39.55,
+          "end": 39.73,
+          "probability": 0.74
+        },
+        {
+          "word": "rất",
+          "start": 39.73,
+          "end": 39.95,
+          "probability": 0.89
+        },
+        {
+          "word": "là",
+          "start": 39.95,
+          "end": 39.99,
+          "probability": 0.97
+        },
+        {
+          "word": "chả",
+          "start": 39.99,
+          "end": 40.27,
+          "probability": 0.41
+        },
+        {
+          "word": "trẻ,",
+          "start": 40.27,
+          "end": 40.55,
+          "probability": 0.67
+        },
+        {
+          "word": "phần",
+          "start": 40.71,
+          "end": 40.85,
+          "probability": 0.51
+        },
+        {
+          "word": "tông",
+          "start": 40.85,
+          "end": 41.03,
+          "probability": 0.47
+        },
+        {
+          "word": "rất",
+          "start": 41.03,
+          "end": 41.25,
+          "probability": 0.68
+        },
+        {
+          "word": "là",
+          "start": 41.25,
+          "end": 41.71,
+          "probability": 0.99
+        },
+        {
+          "word": "đẹp",
+          "start": 41.71,
+          "end": 42.19,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 42.19,
+      "end": 48.23,
+      "text": "Để ở tương thình bình, trong giữa tổ chức đỏ, dí ghi thông tinh, đỏ và thú thập trước khi phán",
+      "words": [
+        {
+          "word": "Để",
+          "start": 42.19,
+          "end": 42.29,
+          "probability": 0.18
+        },
+        {
+          "word": "ở",
+          "start": 42.29,
+          "end": 42.45,
+          "probability": 0.13
+        },
+        {
+          "word": "tương",
+          "start": 42.45,
+          "end": 42.63,
+          "probability": 0.58
+        },
+        {
+          "word": "thình",
+          "start": 42.63,
+          "end": 42.87,
+          "probability": 0.73
+        },
+        {
+          "word": "bình,",
+          "start": 42.87,
+          "end": 43.15,
+          "probability": 0.2
+        },
+        {
+          "word": "trong",
+          "start": 43.37,
+          "end": 43.41,
+          "probability": 0.41
+        },
+        {
+          "word": "giữa",
+          "start": 43.41,
+          "end": 43.71,
+          "probability": 0.19
+        },
+        {
+          "word": "tổ",
+          "start": 43.71,
+          "end": 44.11,
+          "probability": 0.74
+        },
+        {
+          "word": "chức",
+          "start": 44.11,
+          "end": 44.25,
+          "probability": 0.98
+        },
+        {
+          "word": "đỏ,",
+          "start": 44.25,
+          "end": 44.53,
+          "probability": 0.39
+        },
+        {
+          "word": "dí",
+          "start": 44.77,
+          "end": 44.83,
+          "probability": 0.09
+        },
+        {
+          "word": "ghi",
+          "start": 44.83,
+          "end": 44.95,
+          "probability": 0.2
+        },
+        {
+          "word": "thông",
+          "start": 44.95,
+          "end": 45.23,
+          "probability": 0.67
+        },
+        {
+          "word": "tinh,",
+          "start": 45.23,
+          "end": 45.57,
+          "probability": 0.55
+        },
+        {
+          "word": "đỏ",
+          "start": 45.67,
+          "end": 45.89,
+          "probability": 0.43
+        },
+        {
+          "word": "và",
+          "start": 45.89,
+          "end": 46.43,
+          "probability": 0.5
+        },
+        {
+          "word": "thú",
+          "start": 46.43,
+          "end": 46.67,
+          "probability": 0.2
+        },
+        {
+          "word": "thập",
+          "start": 46.67,
+          "end": 47.03,
+          "probability": 0.71
+        },
+        {
+          "word": "trước",
+          "start": 47.03,
+          "end": 47.37,
+          "probability": 0.28
+        },
+        {
+          "word": "khi",
+          "start": 47.37,
+          "end": 47.83,
+          "probability": 0.84
+        },
+        {
+          "word": "phán",
+          "start": 47.83,
+          "end": 48.23,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 49.43,
+      "end": 50.01,
+      "text": "Đúng ta",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 49.43,
+          "end": 50.01,
+          "probability": 0.06
+        },
+        {
+          "word": "ta",
+          "start": 50.01,
+          "end": 50.01,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 51.63,
+      "end": 52.21,
+      "text": "Đúng ta",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 51.63,
+          "end": 52.21,
+          "probability": 0.18
+        },
+        {
+          "word": "ta",
+          "start": 52.21,
+          "end": 52.21,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 52.21,
+      "end": 52.63,
+      "text": "Đúng ta",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 52.21,
+          "end": 52.33,
+          "probability": 0.57
+        },
+        {
+          "word": "ta",
+          "start": 52.33,
+          "end": 52.63,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 53.77,
+      "end": 55.69,
+      "text": "Để và hình rất là đẹp",
+      "words": [
+        {
+          "word": "Để",
+          "start": 53.77,
+          "end": 54.35,
+          "probability": 0.21
+        },
+        {
+          "word": "và",
+          "start": 54.35,
+          "end": 54.49,
+          "probability": 0.06
+        },
+        {
+          "word": "hình",
+          "start": 54.49,
+          "end": 54.67,
+          "probability": 0.29
+        },
+        {
+          "word": "rất",
+          "start": 54.67,
+          "end": 54.73,
+          "probability": 0.08
+        },
+        {
+          "word": "là",
+          "start": 54.73,
+          "end": 55.41,
+          "probability": 0.49
+        },
+        {
+          "word": "đẹp",
+          "start": 55.41,
+          "end": 55.69,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 55.69,
+      "end": 58.01,
+      "text": "Để là đẹp",
+      "words": [
+        {
+          "word": "Để",
+          "start": 55.69,
+          "end": 55.91,
+          "probability": 0.11
+        },
+        {
+          "word": "là",
+          "start": 55.91,
+          "end": 56.31,
+          "probability": 0.07
+        },
+        {
+          "word": "đẹp",
+          "start": 56.31,
+          "end": 58.01,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 58.01,
+      "end": 60.39,
+      "text": "Thông tinh, đẹp",
+      "words": [
+        {
+          "word": "Thông",
+          "start": 58.01,
+          "end": 58.19,
+          "probability": 0.09
+        },
+        {
+          "word": "tinh,",
+          "start": 58.19,
+          "end": 59.71,
+          "probability": 0.02
+        },
+        {
+          "word": "đẹp",
+          "start": 59.73,
+          "end": 60.39,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 60.39,
+      "end": 60.81,
+      "text": "Để là đẹp",
+      "words": [
+        {
+          "word": "Để",
+          "start": 60.39,
+          "end": 60.67,
+          "probability": 0.26
+        },
+        {
+          "word": "là",
+          "start": 60.67,
+          "end": 60.81,
+          "probability": 0.03
+        },
+        {
+          "word": "đẹp",
+          "start": 60.81,
+          "end": 60.81,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 60.81,
+      "end": 64.17,
+      "text": "Trong giữa tổ chức đỏ, dí ghi thông tinh",
+      "words": [
+        {
+          "word": "Trong",
+          "start": 60.81,
+          "end": 60.81,
+          "probability": 0.27
+        },
+        {
+          "word": "giữa",
+          "start": 60.81,
+          "end": 60.81,
+          "probability": 0.01
+        },
+        {
+          "word": "tổ",
+          "start": 60.81,
+          "end": 61.05,
+          "probability": 0.02
+        },
+        {
+          "word": "chức",
+          "start": 61.05,
+          "end": 61.05,
+          "probability": 0.03
+        },
+        {
+          "word": "đỏ,",
+          "start": 61.05,
+          "end": 61.05,
+          "probability": 0.02
+        },
+        {
+          "word": "dí",
+          "start": 62.69,
+          "end": 64.17,
+          "probability": 0.01
+        },
+        {
+          "word": "ghi",
+          "start": 64.17,
+          "end": 64.17,
+          "probability": 0.01
+        },
+        {
+          "word": "thông",
+          "start": 64.17,
+          "end": 64.17,
+          "probability": 0.05
+        },
+        {
+          "word": "tinh",
+          "start": 64.17,
+          "end": 64.17,
+          "probability": 0.09
+        }
+      ]
+    }
+  ]
+}

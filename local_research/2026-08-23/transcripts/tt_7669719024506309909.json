@@ -1,0 +1,750 @@
+{
+  "item_id": "tt_7669719024506309909",
+  "duration_seconds": 338.88,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 106,
+  "text": "Tình nước bộ đối nhé Bước số 3 là dính phạc, đặc biệt vinh trình Bộ đối Bộ đối là phương trình chuyển đó Bây giờ, đối trình giữa số 2, đối trình nhá Tếc một, bằng gì các bạn? Nhưng hậu ngồi bằng ít không một gộ về một nhìn đây Tế 2 bằng ít không 2, gộ về 2 nhìn đây Trong trường này về 1 bên 2 điều dưỡng, mình ở đây Bây giờ, đối trình giữa bằng ít không 3 rồi Tình giữa bằng ít không 3 rồi Tình 1, bằng ít không 3 rồi Tình giữa bằng ít không 3 rồi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 94.21,
+      "end": 95.63,
+      "text": "Tình nước bộ đối nhé",
+      "words": [
+        {
+          "word": "Tình",
+          "start": 94.21,
+          "end": 94.53,
+          "probability": 0.1
+        },
+        {
+          "word": "nước",
+          "start": 94.53,
+          "end": 94.69,
+          "probability": 0.05
+        },
+        {
+          "word": "bộ",
+          "start": 94.69,
+          "end": 94.83,
+          "probability": 0.29
+        },
+        {
+          "word": "đối",
+          "start": 94.83,
+          "end": 94.99,
+          "probability": 0.3
+        },
+        {
+          "word": "nhé",
+          "start": 94.99,
+          "end": 95.63,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 95.63,
+      "end": 97.63,
+      "text": "Bước số 3 là dính phạc, đặc biệt vinh trình",
+      "words": [
+        {
+          "word": "Bước",
+          "start": 95.63,
+          "end": 95.95,
+          "probability": 0.06
+        },
+        {
+          "word": "số",
+          "start": 95.95,
+          "end": 96.05,
+          "probability": 0.25
+        },
+        {
+          "word": "3",
+          "start": 96.05,
+          "end": 96.15,
+          "probability": 0.2
+        },
+        {
+          "word": "là",
+          "start": 96.15,
+          "end": 96.29,
+          "probability": 0.61
+        },
+        {
+          "word": "dính",
+          "start": 96.29,
+          "end": 96.35,
+          "probability": 0.23
+        },
+        {
+          "word": "phạc,",
+          "start": 96.35,
+          "end": 96.55,
+          "probability": 0.37
+        },
+        {
+          "word": "đặc",
+          "start": 96.71,
+          "end": 96.73,
+          "probability": 0.16
+        },
+        {
+          "word": "biệt",
+          "start": 96.73,
+          "end": 96.73,
+          "probability": 0.65
+        },
+        {
+          "word": "vinh",
+          "start": 96.73,
+          "end": 96.85,
+          "probability": 0.13
+        },
+        {
+          "word": "trình",
+          "start": 96.85,
+          "end": 97.63,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 97.63,
+      "end": 98.21,
+      "text": "Bộ đối",
+      "words": [
+        {
+          "word": "Bộ",
+          "start": 97.63,
+          "end": 97.91,
+          "probability": 0.16
+        },
+        {
+          "word": "đối",
+          "start": 97.91,
+          "end": 98.21,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 98.97,
+      "end": 100.27,
+      "text": "Bộ đối là phương trình chuyển đó",
+      "words": [
+        {
+          "word": "Bộ",
+          "start": 98.97,
+          "end": 99.29,
+          "probability": 0.42
+        },
+        {
+          "word": "đối",
+          "start": 99.29,
+          "end": 99.33,
+          "probability": 0.79
+        },
+        {
+          "word": "là",
+          "start": 99.33,
+          "end": 99.41,
+          "probability": 0.01
+        },
+        {
+          "word": "phương",
+          "start": 99.41,
+          "end": 99.71,
+          "probability": 0.48
+        },
+        {
+          "word": "trình",
+          "start": 99.71,
+          "end": 99.77,
+          "probability": 0.94
+        },
+        {
+          "word": "chuyển",
+          "start": 99.77,
+          "end": 99.93,
+          "probability": 0.37
+        },
+        {
+          "word": "đó",
+          "start": 99.93,
+          "end": 100.27,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 101.75,
+      "end": 104.15,
+      "text": "Bây giờ, đối trình giữa số 2, đối trình nhá",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 101.75,
+          "end": 102.07,
+          "probability": 0.07
+        },
+        {
+          "word": "giờ,",
+          "start": 102.07,
+          "end": 102.39,
+          "probability": 0.93
+        },
+        {
+          "word": "đối",
+          "start": 102.69,
+          "end": 102.75,
+          "probability": 0.28
+        },
+        {
+          "word": "trình",
+          "start": 102.75,
+          "end": 102.81,
+          "probability": 0.88
+        },
+        {
+          "word": "giữa",
+          "start": 102.81,
+          "end": 102.95,
+          "probability": 0.2
+        },
+        {
+          "word": "số",
+          "start": 102.95,
+          "end": 103.07,
+          "probability": 0.05
+        },
+        {
+          "word": "2,",
+          "start": 103.07,
+          "end": 103.19,
+          "probability": 0.78
+        },
+        {
+          "word": "đối",
+          "start": 103.35,
+          "end": 103.35,
+          "probability": 0.09
+        },
+        {
+          "word": "trình",
+          "start": 103.35,
+          "end": 103.35,
+          "probability": 0.83
+        },
+        {
+          "word": "nhá",
+          "start": 103.35,
+          "end": 104.15,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 104.67,
+      "end": 105.79,
+      "text": "Tếc một, bằng gì các bạn?",
+      "words": [
+        {
+          "word": "Tếc",
+          "start": 104.67,
+          "end": 104.99,
+          "probability": 0.3
+        },
+        {
+          "word": "một,",
+          "start": 104.99,
+          "end": 105.15,
+          "probability": 0.31
+        },
+        {
+          "word": "bằng",
+          "start": 105.21,
+          "end": 105.35,
+          "probability": 0.32
+        },
+        {
+          "word": "gì",
+          "start": 105.35,
+          "end": 105.43,
+          "probability": 0.41
+        },
+        {
+          "word": "các",
+          "start": 105.43,
+          "end": 105.57,
+          "probability": 0.3
+        },
+        {
+          "word": "bạn?",
+          "start": 105.57,
+          "end": 105.79,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 106.09,
+      "end": 109.51,
+      "text": "Nhưng hậu ngồi bằng ít không một gộ về một nhìn đây",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 106.09,
+          "end": 106.09,
+          "probability": 0.19
+        },
+        {
+          "word": "hậu",
+          "start": 106.09,
+          "end": 106.87,
+          "probability": 0.45
+        },
+        {
+          "word": "ngồi",
+          "start": 106.87,
+          "end": 107.01,
+          "probability": 0.41
+        },
+        {
+          "word": "bằng",
+          "start": 107.01,
+          "end": 107.15,
+          "probability": 0.68
+        },
+        {
+          "word": "ít",
+          "start": 107.15,
+          "end": 107.29,
+          "probability": 0.4
+        },
+        {
+          "word": "không",
+          "start": 107.29,
+          "end": 107.47,
+          "probability": 0.42
+        },
+        {
+          "word": "một",
+          "start": 107.47,
+          "end": 107.81,
+          "probability": 0.22
+        },
+        {
+          "word": "gộ",
+          "start": 107.81,
+          "end": 108.19,
+          "probability": 0.23
+        },
+        {
+          "word": "về",
+          "start": 108.19,
+          "end": 108.39,
+          "probability": 0.29
+        },
+        {
+          "word": "một",
+          "start": 108.39,
+          "end": 108.59,
+          "probability": 0.37
+        },
+        {
+          "word": "nhìn",
+          "start": 108.59,
+          "end": 108.79,
+          "probability": 0.4
+        },
+        {
+          "word": "đây",
+          "start": 108.79,
+          "end": 109.51,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 109.51,
+      "end": 112.35,
+      "text": "Tế 2 bằng ít không 2, gộ về 2 nhìn đây",
+      "words": [
+        {
+          "word": "Tế",
+          "start": 109.51,
+          "end": 109.91,
+          "probability": 0.6
+        },
+        {
+          "word": "2",
+          "start": 109.91,
+          "end": 110.03,
+          "probability": 0.39
+        },
+        {
+          "word": "bằng",
+          "start": 110.03,
+          "end": 110.49,
+          "probability": 0.54
+        },
+        {
+          "word": "ít",
+          "start": 110.49,
+          "end": 110.79,
+          "probability": 0.96
+        },
+        {
+          "word": "không",
+          "start": 110.79,
+          "end": 110.95,
+          "probability": 0.95
+        },
+        {
+          "word": "2,",
+          "start": 110.95,
+          "end": 111.31,
+          "probability": 0.27
+        },
+        {
+          "word": "gộ",
+          "start": 111.57,
+          "end": 111.57,
+          "probability": 0.56
+        },
+        {
+          "word": "về",
+          "start": 111.57,
+          "end": 111.69,
+          "probability": 0.81
+        },
+        {
+          "word": "2",
+          "start": 111.69,
+          "end": 111.91,
+          "probability": 0.94
+        },
+        {
+          "word": "nhìn",
+          "start": 111.91,
+          "end": 111.95,
+          "probability": 0.55
+        },
+        {
+          "word": "đây",
+          "start": 111.95,
+          "end": 112.35,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 112.35,
+      "end": 114.03,
+      "text": "Trong trường này về 1 bên 2 điều dưỡng, mình ở đây",
+      "words": [
+        {
+          "word": "Trong",
+          "start": 112.35,
+          "end": 112.53,
+          "probability": 0.57
+        },
+        {
+          "word": "trường",
+          "start": 112.53,
+          "end": 112.67,
+          "probability": 0.37
+        },
+        {
+          "word": "này",
+          "start": 112.67,
+          "end": 112.81,
+          "probability": 0.84
+        },
+        {
+          "word": "về",
+          "start": 112.81,
+          "end": 112.89,
+          "probability": 0.31
+        },
+        {
+          "word": "1",
+          "start": 112.89,
+          "end": 113.03,
+          "probability": 0.56
+        },
+        {
+          "word": "bên",
+          "start": 113.03,
+          "end": 113.07,
+          "probability": 0.18
+        },
+        {
+          "word": "2",
+          "start": 113.07,
+          "end": 113.21,
+          "probability": 0.92
+        },
+        {
+          "word": "điều",
+          "start": 113.21,
+          "end": 113.33,
+          "probability": 0.13
+        },
+        {
+          "word": "dưỡng,",
+          "start": 113.33,
+          "end": 113.57,
+          "probability": 0.56
+        },
+        {
+          "word": "mình",
+          "start": 113.73,
+          "end": 113.79,
+          "probability": 0.32
+        },
+        {
+          "word": "ở",
+          "start": 113.79,
+          "end": 113.87,
+          "probability": 0.21
+        },
+        {
+          "word": "đây",
+          "start": 113.87,
+          "end": 114.03,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 326.98,
+      "end": 328.22,
+      "text": "Bây giờ, đối trình giữa bằng ít không 3 rồi",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 326.98,
+          "end": 327.32,
+          "probability": 0.12
+        },
+        {
+          "word": "giờ,",
+          "start": 327.32,
+          "end": 327.6,
+          "probability": 0.87
+        },
+        {
+          "word": "đối",
+          "start": 327.78,
+          "end": 327.94,
+          "probability": 0.02
+        },
+        {
+          "word": "trình",
+          "start": 327.94,
+          "end": 327.94,
+          "probability": 0.02
+        },
+        {
+          "word": "giữa",
+          "start": 327.94,
+          "end": 327.94,
+          "probability": 0.02
+        },
+        {
+          "word": "bằng",
+          "start": 327.94,
+          "end": 328.22,
+          "probability": 0.02
+        },
+        {
+          "word": "ít",
+          "start": 328.22,
+          "end": 328.22,
+          "probability": 0.24
+        },
+        {
+          "word": "không",
+          "start": 328.22,
+          "end": 328.22,
+          "probability": 0.01
+        },
+        {
+          "word": "3",
+          "start": 328.22,
+          "end": 328.22,
+          "probability": 0.0
+        },
+        {
+          "word": "rồi",
+          "start": 328.22,
+          "end": 328.22,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 328.22,
+      "end": 332.06,
+      "text": "Tình giữa bằng ít không 3 rồi",
+      "words": [
+        {
+          "word": "Tình",
+          "start": 328.22,
+          "end": 328.8,
+          "probability": 0.04
+        },
+        {
+          "word": "giữa",
+          "start": 328.8,
+          "end": 328.8,
+          "probability": 0.47
+        },
+        {
+          "word": "bằng",
+          "start": 328.8,
+          "end": 330.12,
+          "probability": 0.72
+        },
+        {
+          "word": "ít",
+          "start": 330.12,
+          "end": 330.2,
+          "probability": 0.83
+        },
+        {
+          "word": "không",
+          "start": 330.2,
+          "end": 330.2,
+          "probability": 0.11
+        },
+        {
+          "word": "3",
+          "start": 330.2,
+          "end": 330.2,
+          "probability": 0.41
+        },
+        {
+          "word": "rồi",
+          "start": 330.2,
+          "end": 332.06,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 332.84,
+      "end": 336.48,
+      "text": "Tình 1, bằng ít không 3 rồi",
+      "words": [
+        {
+          "word": "Tình",
+          "start": 332.84,
+          "end": 333.24,
+          "probability": 0.49
+        },
+        {
+          "word": "1,",
+          "start": 333.24,
+          "end": 333.32,
+          "probability": 0.0
+        },
+        {
+          "word": "bằng",
+          "start": 333.72,
+          "end": 334.16,
+          "probability": 0.56
+        },
+        {
+          "word": "ít",
+          "start": 334.16,
+          "end": 334.28,
+          "probability": 0.96
+        },
+        {
+          "word": "không",
+          "start": 334.28,
+          "end": 334.68,
+          "probability": 0.49
+        },
+        {
+          "word": "3",
+          "start": 334.68,
+          "end": 335.16,
+          "probability": 0.58
+        },
+        {
+          "word": "rồi",
+          "start": 335.16,
+          "end": 336.48,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 336.48,
+      "end": 337.34,
+      "text": "Tình giữa bằng ít không 3 rồi",
+      "words": [
+        {
+          "word": "Tình",
+          "start": 336.48,
+          "end": 336.48,
+          "probability": 0.6
+        },
+        {
+          "word": "giữa",
+          "start": 336.48,
+          "end": 336.48,
+          "probability": 0.77
+        },
+        {
+          "word": "bằng",
+          "start": 336.48,
+          "end": 336.48,
+          "probability": 0.94
+        },
+        {
+          "word": "ít",
+          "start": 336.48,
+          "end": 336.72,
+          "probability": 0.91
+        },
+        {
+          "word": "không",
+          "start": 336.72,
+          "end": 336.72,
+          "probability": 0.64
+        },
+        {
+          "word": "3",
+          "start": 336.72,
+          "end": 336.72,
+          "probability": 0.62
+        },
+        {
+          "word": "rồi",
+          "start": 336.72,
+          "end": 337.34,
+          "probability": 0.77
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "item_id": "tt_7667967838908337429",
+  "duration_seconds": 57.05,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 80,
+  "text": "Dạ, thế đâu... Dạ, mình sẽ càng Nó, vậy? Xửa đừng có nha Nó, xíu, xíu, xíu Cái tôi sẽ nói Rồi, đẹp, tay phần bọn này Đó, xíu, đẹp, tay phần bọn này Đó, xíu, xíu Cái cây, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu. Gần nó sẽ đi với xíu. Thôi đi tí tí tí tí tí tí tí tí tì lọc lạ cây",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.44,
+      "end": 1.54,
+      "text": "Dạ, thế đâu...",
+      "words": [
+        {
+          "word": "Dạ,",
+          "start": 0.44,
+          "end": 0.84,
+          "probability": 0.26
+        },
+        {
+          "word": "thế",
+          "start": 0.94,
+          "end": 1.0,
+          "probability": 0.01
+        },
+        {
+          "word": "đâu...",
+          "start": 1.0,
+          "end": 1.54,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.54,
+      "end": 2.3,
+      "text": "Dạ, mình sẽ càng",
+      "words": [
+        {
+          "word": "Dạ,",
+          "start": 1.54,
+          "end": 1.54,
+          "probability": 0.5
+        },
+        {
+          "word": "mình",
+          "start": 1.6,
+          "end": 1.62,
+          "probability": 0.03
+        },
+        {
+          "word": "sẽ",
+          "start": 1.62,
+          "end": 1.78,
+          "probability": 0.75
+        },
+        {
+          "word": "càng",
+          "start": 1.78,
+          "end": 2.3,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.92,
+      "end": 3.32,
+      "text": "Nó, vậy?",
+      "words": [
+        {
+          "word": "Nó,",
+          "start": 2.92,
+          "end": 3.32,
+          "probability": 0.02
+        },
+        {
+          "word": "vậy?",
+          "start": 3.32,
+          "end": 3.32,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 3.64,
+      "end": 4.5,
+      "text": "Xửa đừng có nha",
+      "words": [
+        {
+          "word": "Xửa",
+          "start": 3.64,
+          "end": 3.98,
+          "probability": 0.14
+        },
+        {
+          "word": "đừng",
+          "start": 3.98,
+          "end": 4.12,
+          "probability": 0.26
+        },
+        {
+          "word": "có",
+          "start": 4.12,
+          "end": 4.26,
+          "probability": 0.26
+        },
+        {
+          "word": "nha",
+          "start": 4.26,
+          "end": 4.5,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 4.5,
+      "end": 6.38,
+      "text": "Nó, xíu, xíu, xíu",
+      "words": [
+        {
+          "word": "Nó,",
+          "start": 4.5,
+          "end": 4.72,
+          "probability": 0.43
+        },
+        {
+          "word": "xíu,",
+          "start": 4.86,
+          "end": 4.9,
+          "probability": 0.29
+        },
+        {
+          "word": "xíu,",
+          "start": 5.18,
+          "end": 5.5,
+          "probability": 0.58
+        },
+        {
+          "word": "xíu",
+          "start": 5.66,
+          "end": 6.38,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 25.55,
+      "end": 26.23,
+      "text": "Cái tôi sẽ nói",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 25.55,
+          "end": 26.11,
+          "probability": 0.17
+        },
+        {
+          "word": "tôi",
+          "start": 26.11,
+          "end": 26.23,
+          "probability": 0.0
+        },
+        {
+          "word": "sẽ",
+          "start": 26.23,
+          "end": 26.23,
+          "probability": 0.05
+        },
+        {
+          "word": "nói",
+          "start": 26.23,
+          "end": 26.23,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 26.23,
+      "end": 27.09,
+      "text": "Rồi, đẹp, tay phần bọn này",
+      "words": [
+        {
+          "word": "Rồi,",
+          "start": 26.23,
+          "end": 26.27,
+          "probability": 0.19
+        },
+        {
+          "word": "đẹp,",
+          "start": 26.27,
+          "end": 26.27,
+          "probability": 0.33
+        },
+        {
+          "word": "tay",
+          "start": 26.37,
+          "end": 26.39,
+          "probability": 0.0
+        },
+        {
+          "word": "phần",
+          "start": 26.39,
+          "end": 26.71,
+          "probability": 0.33
+        },
+        {
+          "word": "bọn",
+          "start": 26.71,
+          "end": 26.87,
+          "probability": 0.11
+        },
+        {
+          "word": "này",
+          "start": 26.87,
+          "end": 27.09,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 27.09,
+      "end": 28.31,
+      "text": "Đó, xíu, đẹp, tay phần bọn này",
+      "words": [
+        {
+          "word": "Đó,",
+          "start": 27.09,
+          "end": 27.19,
+          "probability": 0.11
+        },
+        {
+          "word": "xíu,",
+          "start": 27.63,
+          "end": 27.89,
+          "probability": 0.7
+        },
+        {
+          "word": "đẹp,",
+          "start": 28.29,
+          "end": 28.31,
+          "probability": 0.7
+        },
+        {
+          "word": "tay",
+          "start": 28.31,
+          "end": 28.31,
+          "probability": 0.51
+        },
+        {
+          "word": "phần",
+          "start": 28.31,
+          "end": 28.31,
+          "probability": 0.86
+        },
+        {
+          "word": "bọn",
+          "start": 28.31,
+          "end": 28.31,
+          "probability": 0.9
+        },
+        {
+          "word": "này",
+          "start": 28.31,
+          "end": 28.31,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 28.31,
+      "end": 39.33,
+      "text": "Đó, xíu, xíu",
+      "words": [
+        {
+          "word": "Đó,",
+          "start": 28.31,
+          "end": 28.31,
+          "probability": 0.84
+        },
+        {
+          "word": "xíu,",
+          "start": 38.55,
+          "end": 38.55,
+          "probability": 0.88
+        },
+        {
+          "word": "xíu",
+          "start": 39.03,
+          "end": 39.33,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 48.6,
+      "end": 55.25,
+      "text": "Cái cây, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu, xíu.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 48.6,
+          "end": 48.8,
+          "probability": 0.53
+        },
+        {
+          "word": "cây,",
+          "start": 52.55,
+          "end": 53.77,
+          "probability": 0.05
+        },
+        {
+          "word": "xíu,",
+          "start": 54.39,
+          "end": 54.39,
+          "probability": 0.61
+        },
+        {
+          "word": "xíu,",
+          "start": 54.49,
+          "end": 54.77,
+          "probability": 0.72
+        },
+        {
+          "word": "xíu,",
+          "start": 55.15,
+          "end": 55.23,
+          "probability": 0.77
+        },
+        {
+          "word": "xíu,",
+          "start": 55.23,
+          "end": 55.23,
+          "probability": 0.8
+        },
+        {
+          "word": "xíu,",
+          "start": 55.23,
+          "end": 55.25,
+          "probability": 0.83
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.86
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.86
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.89
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.9
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.9
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.93
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.94
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.94
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.95
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.94
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.95
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.96
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.96
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.96
+        },
+        {
+          "word": "xíu,",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.97
+        },
+        {
+          "word": "xíu.",
+          "start": 55.25,
+          "end": 55.25,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 55.25,
+      "end": 55.93,
+      "text": "Gần nó sẽ đi với xíu.",
+      "words": [
+        {
+          "word": "Gần",
+          "start": 55.25,
+          "end": 55.27,
+          "probability": 0.02
+        },
+        {
+          "word": "nó",
+          "start": 55.27,
+          "end": 55.29,
+          "probability": 0.05
+        },
+        {
+          "word": "sẽ",
+          "start": 55.29,
+          "end": 55.53,
+          "probability": 0.26
+        },
+        {
+          "word": "đi",
+          "start": 55.53,
+          "end": 55.63,
+          "probability": 0.2
+        },
+        {
+          "word": "với",
+          "start": 55.63,
+          "end": 55.75,
+          "probability": 0.04
+        },
+        {
+          "word": "xíu.",
+          "start": 55.75,
+          "end": 55.93,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 55.93,
+      "end": 57.01,
+      "text": "Thôi đi tí tí tí tí tí tí tí tí tì lọc lạ cây",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 55.93,
+          "end": 56.19,
+          "probability": 0.18
+        },
+        {
+          "word": "đi",
+          "start": 56.19,
+          "end": 56.41,
+          "probability": 0.12
+        },
+        {
+          "word": "tí",
+          "start": 56.41,
+          "end": 56.55,
+          "probability": 0.11
+        },
+        {
+          "word": "tí",
+          "start": 56.55,
+          "end": 56.59,
+          "probability": 0.29
+        },
+        {
+          "word": "tí",
+          "start": 56.59,
+          "end": 56.63,
+          "probability": 0.56
+        },
+        {
+          "word": "tí",
+          "start": 56.63,
+          "end": 56.63,
+          "probability": 0.54
+        },
+        {
+          "word": "tí",
+          "start": 56.63,
+          "end": 56.63,
+          "probability": 0.57
+        },
+        {
+          "word": "tí",
+          "start": 56.63,
+          "end": 56.63,
+          "probability": 0.64
+        },
+        {
+          "word": "tí",
+          "start": 56.63,
+          "end": 56.63,
+          "probability": 0.72
+        },
+        {
+          "word": "tí",
+          "start": 56.63,
+          "end": 56.63,
+          "probability": 0.76
+        },
+        {
+          "word": "tì",
+          "start": 56.63,
+          "end": 56.63,
+          "probability": 0.45
+        },
+        {
+          "word": "lọc",
+          "start": 56.63,
+          "end": 56.79,
+          "probability": 0.34
+        },
+        {
+          "word": "lạ",
+          "start": 56.79,
+          "end": 56.91,
+          "probability": 0.27
+        },
+        {
+          "word": "cây",
+          "start": 56.91,
+          "end": 57.01,
+          "probability": 0.18
+        }
+      ]
+    }
+  ]
+}

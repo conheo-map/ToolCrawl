@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7503829737584839943",
+  "duration_seconds": 59.26,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Chào tất cả!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.01,
+      "end": 1.79,
+      "text": "Chào tất cả!",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 1.01,
+          "end": 1.63,
+          "probability": 0.08
+        },
+        {
+          "word": "tất",
+          "start": 1.63,
+          "end": 1.79,
+          "probability": 0.24
+        },
+        {
+          "word": "cả!",
+          "start": 1.79,
+          "end": 1.79,
+          "probability": 0.91
+        }
+      ]
+    }
+  ]
+}

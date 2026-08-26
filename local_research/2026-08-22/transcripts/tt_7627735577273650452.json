@@ -1,0 +1,130 @@
+{
+  "item_id": "tt_7627735577273650452",
+  "duration_seconds": 128.91,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 16,
+  "text": "để phát thích sẽ như nó có đưa ông. Mô ý phát thích đẹp. Dừng đưa.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.17,
+      "end": 3.03,
+      "text": "để phát thích sẽ như nó có đưa ông.",
+      "words": [
+        {
+          "word": "để",
+          "start": 1.17,
+          "end": 1.51,
+          "probability": 0.05
+        },
+        {
+          "word": "phát",
+          "start": 1.51,
+          "end": 1.59,
+          "probability": 0.14
+        },
+        {
+          "word": "thích",
+          "start": 1.59,
+          "end": 1.59,
+          "probability": 0.05
+        },
+        {
+          "word": "sẽ",
+          "start": 1.59,
+          "end": 1.77,
+          "probability": 0.02
+        },
+        {
+          "word": "như",
+          "start": 1.77,
+          "end": 1.97,
+          "probability": 0.33
+        },
+        {
+          "word": "nó",
+          "start": 1.97,
+          "end": 2.23,
+          "probability": 0.12
+        },
+        {
+          "word": "có",
+          "start": 2.23,
+          "end": 2.35,
+          "probability": 0.61
+        },
+        {
+          "word": "đưa",
+          "start": 2.35,
+          "end": 2.59,
+          "probability": 0.4
+        },
+        {
+          "word": "ông.",
+          "start": 2.59,
+          "end": 3.03,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 12.0,
+      "end": 25.47,
+      "text": "Mô ý phát thích đẹp.",
+      "words": [
+        {
+          "word": "Mô",
+          "start": 12.0,
+          "end": 12.1,
+          "probability": 0.42
+        },
+        {
+          "word": "ý",
+          "start": 12.1,
+          "end": 12.34,
+          "probability": 0.11
+        },
+        {
+          "word": "phát",
+          "start": 12.34,
+          "end": 12.56,
+          "probability": 0.58
+        },
+        {
+          "word": "thích",
+          "start": 24.43,
+          "end": 24.63,
+          "probability": 0.91
+        },
+        {
+          "word": "đẹp.",
+          "start": 24.63,
+          "end": 25.47,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 60.96,
+      "end": 61.34,
+      "text": "Dừng đưa.",
+      "words": [
+        {
+          "word": "Dừng",
+          "start": 60.96,
+          "end": 61.12,
+          "probability": 0.09
+        },
+        {
+          "word": "đưa.",
+          "start": 61.12,
+          "end": 61.34,
+          "probability": 0.16
+        }
+      ]
+    }
+  ]
+}

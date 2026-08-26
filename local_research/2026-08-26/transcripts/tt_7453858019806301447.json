@@ -1,0 +1,164 @@
+{
+  "item_id": "tt_7453858019806301447",
+  "duration_seconds": 102.78,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 18,
+  "text": "2月, lời ơi! 3, 4, 8... 1.5 năm ...hảm ơn chươngishing ...dame to quý hỗ em làm lại",
+  "segments": [
+    {
+      "id": 1,
+      "start": 90.0,
+      "end": 91.36,
+      "text": "2月, lời ơi!",
+      "words": [
+        {
+          "word": "2月,",
+          "start": 90.0,
+          "end": 90.22,
+          "probability": 0.0
+        },
+        {
+          "word": "lời",
+          "start": 91.36,
+          "end": 91.36,
+          "probability": 0.04
+        },
+        {
+          "word": "ơi!",
+          "start": 91.36,
+          "end": 91.36,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 91.76,
+      "end": 92.52,
+      "text": "3, 4, 8...",
+      "words": [
+        {
+          "word": "3,",
+          "start": 91.76,
+          "end": 92.14,
+          "probability": 0.04
+        },
+        {
+          "word": "4,",
+          "start": 92.16,
+          "end": 92.18,
+          "probability": 0.1
+        },
+        {
+          "word": "8...",
+          "start": 92.18,
+          "end": 92.52,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 92.52,
+      "end": 95.84,
+      "text": "1.5 năm",
+      "words": [
+        {
+          "word": "1",
+          "start": 92.52,
+          "end": 93.16,
+          "probability": 0.08
+        },
+        {
+          "word": ".5",
+          "start": 93.16,
+          "end": 94.56,
+          "probability": 0.04
+        },
+        {
+          "word": "năm",
+          "start": 94.56,
+          "end": 95.84,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 96.39,
+      "end": 97.34,
+      "text": "...hảm ơn chươngishing",
+      "words": [
+        {
+          "word": "...hảm",
+          "start": 96.39,
+          "end": 96.74,
+          "probability": 0.15
+        },
+        {
+          "word": "ơn",
+          "start": 96.74,
+          "end": 96.98,
+          "probability": 0.4
+        },
+        {
+          "word": "chươngishing",
+          "start": 96.98,
+          "end": 97.34,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 98.01,
+      "end": 99.7,
+      "text": "...dame to quý hỗ em làm lại",
+      "words": [
+        {
+          "word": "...dame",
+          "start": 98.01,
+          "end": 98.36,
+          "probability": 0.03
+        },
+        {
+          "word": "to",
+          "start": 98.36,
+          "end": 98.78,
+          "probability": 0.01
+        },
+        {
+          "word": "quý",
+          "start": 98.78,
+          "end": 98.86,
+          "probability": 0.19
+        },
+        {
+          "word": "hỗ",
+          "start": 98.86,
+          "end": 99.04,
+          "probability": 0.41
+        },
+        {
+          "word": "em",
+          "start": 99.04,
+          "end": 99.12,
+          "probability": 0.22
+        },
+        {
+          "word": "làm",
+          "start": 99.12,
+          "end": 99.42,
+          "probability": 0.1
+        },
+        {
+          "word": "lại",
+          "start": 99.42,
+          "end": 99.7,
+          "probability": 0.74
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7480465409859243271",
+  "duration_seconds": 59.03,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Chào tìm!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.44,
+      "text": "Chào tìm!",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.1
+        },
+        {
+          "word": "tìm!",
+          "start": 0.44,
+          "end": 0.44,
+          "probability": 0.44
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "item_id": "tt_7673152430749732117",
+  "duration_seconds": 53.73,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 74,
+  "text": "sẽ tại láo khỏi cuối cuốc lộ tâm sập cầm nhà dân ở Hà Tính. Tây nạn sẽ giá sáng 14,000 tấm trên cuốc lộ mười lâm, đoạn qua sản hả liên. Cũng và chảm khiến nhiều cây trong sinh hư hồng, phần đầu sẽ tại đến giá, tay sẽ bị thương nhẹ người trong nhà ăn quan. Người lớn trước năng sau đó, sự lý diện trường, sắp mình mình nhìn tay nạn.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.8,
+      "text": "sẽ tại láo khỏi cuối cuốc lộ tâm sập cầm nhà dân ở Hà Tính.",
+      "words": [
+        {
+          "word": "sẽ",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.11
+        },
+        {
+          "word": "tại",
+          "start": 0.14,
+          "end": 0.34,
+          "probability": 0.64
+        },
+        {
+          "word": "láo",
+          "start": 0.34,
+          "end": 0.52,
+          "probability": 0.25
+        },
+        {
+          "word": "khỏi",
+          "start": 0.52,
+          "end": 0.7,
+          "probability": 0.65
+        },
+        {
+          "word": "cuối",
+          "start": 0.7,
+          "end": 0.88,
+          "probability": 0.3
+        },
+        {
+          "word": "cuốc",
+          "start": 0.88,
+          "end": 0.9,
+          "probability": 0.13
+        },
+        {
+          "word": "lộ",
+          "start": 0.9,
+          "end": 1.06,
+          "probability": 0.58
+        },
+        {
+          "word": "tâm",
+          "start": 1.06,
+          "end": 1.24,
+          "probability": 0.53
+        },
+        {
+          "word": "sập",
+          "start": 1.24,
+          "end": 1.44,
+          "probability": 0.57
+        },
+        {
+          "word": "cầm",
+          "start": 1.44,
+          "end": 1.62,
+          "probability": 0.65
+        },
+        {
+          "word": "nhà",
+          "start": 1.62,
+          "end": 1.8,
+          "probability": 0.87
+        },
+        {
+          "word": "dân",
+          "start": 1.8,
+          "end": 1.98,
+          "probability": 0.57
+        },
+        {
+          "word": "ở",
+          "start": 1.98,
+          "end": 2.2,
+          "probability": 0.87
+        },
+        {
+          "word": "Hà",
+          "start": 2.2,
+          "end": 2.34,
+          "probability": 0.34
+        },
+        {
+          "word": "Tính.",
+          "start": 2.34,
+          "end": 2.8,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.4,
+      "end": 7.58,
+      "text": "Tây nạn sẽ giá sáng 14,000 tấm trên cuốc lộ mười lâm, đoạn qua sản hả liên.",
+      "words": [
+        {
+          "word": "Tây",
+          "start": 3.4,
+          "end": 3.5,
+          "probability": 0.54
+        },
+        {
+          "word": "nạn",
+          "start": 3.5,
+          "end": 3.68,
+          "probability": 0.59
+        },
+        {
+          "word": "sẽ",
+          "start": 3.68,
+          "end": 3.86,
+          "probability": 0.68
+        },
+        {
+          "word": "giá",
+          "start": 3.86,
+          "end": 4.08,
+          "probability": 0.57
+        },
+        {
+          "word": "sáng",
+          "start": 4.08,
+          "end": 4.3,
+          "probability": 0.76
+        },
+        {
+          "word": "14",
+          "start": 4.3,
+          "end": 4.58,
+          "probability": 0.16
+        },
+        {
+          "word": ",000",
+          "start": 4.58,
+          "end": 4.98,
+          "probability": 0.07
+        },
+        {
+          "word": "tấm",
+          "start": 4.98,
+          "end": 5.02,
+          "probability": 0.53
+        },
+        {
+          "word": "trên",
+          "start": 5.02,
+          "end": 5.24,
+          "probability": 0.79
+        },
+        {
+          "word": "cuốc",
+          "start": 5.24,
+          "end": 5.44,
+          "probability": 0.94
+        },
+        {
+          "word": "lộ",
+          "start": 5.44,
+          "end": 5.56,
+          "probability": 0.98
+        },
+        {
+          "word": "mười",
+          "start": 5.56,
+          "end": 5.76,
+          "probability": 0.11
+        },
+        {
+          "word": "lâm,",
+          "start": 5.76,
+          "end": 6.0,
+          "probability": 0.72
+        },
+        {
+          "word": "đoạn",
+          "start": 6.2,
+          "end": 6.36,
+          "probability": 0.67
+        },
+        {
+          "word": "qua",
+          "start": 6.36,
+          "end": 6.66,
+          "probability": 0.71
+        },
+        {
+          "word": "sản",
+          "start": 6.66,
+          "end": 6.88,
+          "probability": 0.52
+        },
+        {
+          "word": "hả",
+          "start": 6.88,
+          "end": 7.14,
+          "probability": 0.39
+        },
+        {
+          "word": "liên.",
+          "start": 7.14,
+          "end": 7.58,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.94,
+      "end": 10.16,
+      "text": "Cũng và chảm khiến nhiều cây trong sinh hư hồng,",
+      "words": [
+        {
+          "word": "Cũng",
+          "start": 7.94,
+          "end": 8.06,
+          "probability": 0.7
+        },
+        {
+          "word": "và",
+          "start": 8.06,
+          "end": 8.24,
+          "probability": 0.45
+        },
+        {
+          "word": "chảm",
+          "start": 8.24,
+          "end": 8.58,
+          "probability": 0.63
+        },
+        {
+          "word": "khiến",
+          "start": 8.58,
+          "end": 8.78,
+          "probability": 0.64
+        },
+        {
+          "word": "nhiều",
+          "start": 8.78,
+          "end": 8.98,
+          "probability": 0.62
+        },
+        {
+          "word": "cây",
+          "start": 8.98,
+          "end": 9.22,
+          "probability": 0.78
+        },
+        {
+          "word": "trong",
+          "start": 9.22,
+          "end": 9.42,
+          "probability": 0.72
+        },
+        {
+          "word": "sinh",
+          "start": 9.42,
+          "end": 9.62,
+          "probability": 0.6
+        },
+        {
+          "word": "hư",
+          "start": 9.62,
+          "end": 9.78,
+          "probability": 0.66
+        },
+        {
+          "word": "hồng,",
+          "start": 9.78,
+          "end": 10.16,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.32,
+      "end": 11.56,
+      "text": "phần đầu sẽ tại đến giá,",
+      "words": [
+        {
+          "word": "phần",
+          "start": 10.32,
+          "end": 10.48,
+          "probability": 0.68
+        },
+        {
+          "word": "đầu",
+          "start": 10.48,
+          "end": 10.68,
+          "probability": 0.92
+        },
+        {
+          "word": "sẽ",
+          "start": 10.68,
+          "end": 10.86,
+          "probability": 0.93
+        },
+        {
+          "word": "tại",
+          "start": 10.86,
+          "end": 11.1,
+          "probability": 0.79
+        },
+        {
+          "word": "đến",
+          "start": 11.1,
+          "end": 11.28,
+          "probability": 0.63
+        },
+        {
+          "word": "giá,",
+          "start": 11.28,
+          "end": 11.56,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.84,
+      "end": 13.98,
+      "text": "tay sẽ bị thương nhẹ người trong nhà ăn quan.",
+      "words": [
+        {
+          "word": "tay",
+          "start": 11.84,
+          "end": 12.04,
+          "probability": 0.28
+        },
+        {
+          "word": "sẽ",
+          "start": 12.04,
+          "end": 12.2,
+          "probability": 0.32
+        },
+        {
+          "word": "bị",
+          "start": 12.2,
+          "end": 12.4,
+          "probability": 0.98
+        },
+        {
+          "word": "thương",
+          "start": 12.4,
+          "end": 12.58,
+          "probability": 0.91
+        },
+        {
+          "word": "nhẹ",
+          "start": 12.58,
+          "end": 12.86,
+          "probability": 0.57
+        },
+        {
+          "word": "người",
+          "start": 12.86,
+          "end": 13.2,
+          "probability": 0.88
+        },
+        {
+          "word": "trong",
+          "start": 13.2,
+          "end": 13.38,
+          "probability": 0.95
+        },
+        {
+          "word": "nhà",
+          "start": 13.38,
+          "end": 13.6,
+          "probability": 0.74
+        },
+        {
+          "word": "ăn",
+          "start": 13.6,
+          "end": 13.8,
+          "probability": 0.65
+        },
+        {
+          "word": "quan.",
+          "start": 13.8,
+          "end": 13.98,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 49.08,
+      "end": 50.96,
+      "text": "Người lớn trước năng sau đó, sự lý diện trường,",
+      "words": [
+        {
+          "word": "Người",
+          "start": 49.08,
+          "end": 49.2,
+          "probability": 0.53
+        },
+        {
+          "word": "lớn",
+          "start": 49.2,
+          "end": 49.36,
+          "probability": 0.53
+        },
+        {
+          "word": "trước",
+          "start": 49.36,
+          "end": 49.52,
+          "probability": 0.45
+        },
+        {
+          "word": "năng",
+          "start": 49.52,
+          "end": 49.7,
+          "probability": 0.89
+        },
+        {
+          "word": "sau",
+          "start": 49.7,
+          "end": 49.94,
+          "probability": 0.91
+        },
+        {
+          "word": "đó,",
+          "start": 49.94,
+          "end": 50.16,
+          "probability": 0.98
+        },
+        {
+          "word": "sự",
+          "start": 50.18,
+          "end": 50.36,
+          "probability": 0.27
+        },
+        {
+          "word": "lý",
+          "start": 50.36,
+          "end": 50.48,
+          "probability": 0.47
+        },
+        {
+          "word": "diện",
+          "start": 50.48,
+          "end": 50.68,
+          "probability": 0.35
+        },
+        {
+          "word": "trường,",
+          "start": 50.68,
+          "end": 50.96,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 51.08,
+      "end": 52.14,
+      "text": "sắp mình mình nhìn tay nạn.",
+      "words": [
+        {
+          "word": "sắp",
+          "start": 51.08,
+          "end": 51.24,
+          "probability": 0.8
+        },
+        {
+          "word": "mình",
+          "start": 51.24,
+          "end": 51.38,
+          "probability": 0.7
+        },
+        {
+          "word": "mình",
+          "start": 51.38,
+          "end": 51.56,
+          "probability": 0.1
+        },
+        {
+          "word": "nhìn",
+          "start": 51.56,
+          "end": 51.8,
+          "probability": 0.49
+        },
+        {
+          "word": "tay",
+          "start": 51.8,
+          "end": 51.96,
+          "probability": 0.45
+        },
+        {
+          "word": "nạn.",
+          "start": 51.96,
+          "end": 52.14,
+          "probability": 0.76
+        }
+      ]
+    }
+  ]
+}

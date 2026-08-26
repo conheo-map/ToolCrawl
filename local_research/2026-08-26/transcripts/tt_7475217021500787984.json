@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7475217021500787984",
+  "duration_seconds": 191.34,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "And then to shot the...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.16,
+      "text": "And then to shot the...",
+      "words": [
+        {
+          "word": "And",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.04
+        },
+        {
+          "word": "then",
+          "start": 0.34,
+          "end": 0.94,
+          "probability": 0.41
+        },
+        {
+          "word": "to",
+          "start": 0.94,
+          "end": 1.68,
+          "probability": 0.18
+        },
+        {
+          "word": "shot",
+          "start": 1.68,
+          "end": 1.92,
+          "probability": 0.13
+        },
+        {
+          "word": "the...",
+          "start": 1.92,
+          "end": 2.16,
+          "probability": 0.2
+        }
+      ]
+    }
+  ]
+}

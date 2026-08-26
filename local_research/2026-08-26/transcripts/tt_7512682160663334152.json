@@ -1,0 +1,72 @@
+{
+  "item_id": "tt_7512682160663334152",
+  "duration_seconds": 59.26,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "Cái này, bây giờ, tôi đã đưa quái này.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.01,
+      "end": 2.43,
+      "text": "Cái này, bây giờ, tôi đã đưa quái này.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 1.01,
+          "end": 2.43,
+          "probability": 0.21
+        },
+        {
+          "word": "này,",
+          "start": 2.43,
+          "end": 2.43,
+          "probability": 0.09
+        },
+        {
+          "word": "bây",
+          "start": 2.43,
+          "end": 2.43,
+          "probability": 0.08
+        },
+        {
+          "word": "giờ,",
+          "start": 2.43,
+          "end": 2.43,
+          "probability": 0.92
+        },
+        {
+          "word": "tôi",
+          "start": 2.43,
+          "end": 2.43,
+          "probability": 0.02
+        },
+        {
+          "word": "đã",
+          "start": 2.43,
+          "end": 2.43,
+          "probability": 0.09
+        },
+        {
+          "word": "đưa",
+          "start": 2.43,
+          "end": 2.43,
+          "probability": 0.06
+        },
+        {
+          "word": "quái",
+          "start": 2.43,
+          "end": 2.43,
+          "probability": 0.05
+        },
+        {
+          "word": "này.",
+          "start": 2.43,
+          "end": 2.43,
+          "probability": 0.12
+        }
+      ]
+    }
+  ]
+}

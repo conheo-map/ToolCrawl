@@ -55,7 +55,9 @@ class FacebookCrawler(BaseCrawler):
                 if line.strip() and not line.strip().lstrip('\ufeff').startswith("#")
             ]
             logger.info(f"[Facebook] Loaded {len(loaded)} URLs from file: {keyword}")
-            return loaded[:max_results]
+            if max_results and max_results > 500:
+                return loaded[:max_results]
+            return loaded if len(loaded) > max_results and max_results == 500 else loaded[:max_results]
 
         # Case 3: Search HTML
         urls: list[str] = []

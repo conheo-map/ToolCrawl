@@ -1,0 +1,72 @@
+{
+  "item_id": "tt_7612856933250256136",
+  "duration_seconds": 32.21,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "Họ bây giờ, họ bây giờ, họ bây giờ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.48,
+      "end": 3.66,
+      "text": "Họ bây giờ, họ bây giờ, họ bây giờ",
+      "words": [
+        {
+          "word": "Họ",
+          "start": 1.48,
+          "end": 1.9,
+          "probability": 0.11
+        },
+        {
+          "word": "bây",
+          "start": 1.9,
+          "end": 2.06,
+          "probability": 0.15
+        },
+        {
+          "word": "giờ,",
+          "start": 2.06,
+          "end": 2.44,
+          "probability": 0.89
+        },
+        {
+          "word": "họ",
+          "start": 2.62,
+          "end": 2.64,
+          "probability": 0.43
+        },
+        {
+          "word": "bây",
+          "start": 2.64,
+          "end": 2.86,
+          "probability": 0.82
+        },
+        {
+          "word": "giờ,",
+          "start": 2.86,
+          "end": 3.06,
+          "probability": 1.0
+        },
+        {
+          "word": "họ",
+          "start": 3.32,
+          "end": 3.54,
+          "probability": 0.69
+        },
+        {
+          "word": "bây",
+          "start": 3.54,
+          "end": 3.66,
+          "probability": 0.94
+        },
+        {
+          "word": "giờ",
+          "start": 3.66,
+          "end": 3.66,
+          "probability": 1.0
+        }
+      ]
+    }
+  ]
+}

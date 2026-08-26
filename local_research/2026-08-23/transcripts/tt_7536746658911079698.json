@@ -1,0 +1,110 @@
+{
+  "item_id": "tt_7536746658911079698",
+  "duration_seconds": 26.3,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 14,
+  "text": "Hình ạ, con mạnh đại con xử của biệt Tụi bất tụi tụi tụi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.06,
+      "text": "Hình ạ, con mạnh đại con xử của biệt",
+      "words": [
+        {
+          "word": "Hình",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.23
+        },
+        {
+          "word": "ạ,",
+          "start": 0.34,
+          "end": 0.44,
+          "probability": 0.09
+        },
+        {
+          "word": "con",
+          "start": 0.56,
+          "end": 0.64,
+          "probability": 0.13
+        },
+        {
+          "word": "mạnh",
+          "start": 0.64,
+          "end": 0.86,
+          "probability": 0.42
+        },
+        {
+          "word": "đại",
+          "start": 0.86,
+          "end": 1.1,
+          "probability": 0.24
+        },
+        {
+          "word": "con",
+          "start": 1.1,
+          "end": 1.36,
+          "probability": 0.59
+        },
+        {
+          "word": "xử",
+          "start": 1.36,
+          "end": 1.5,
+          "probability": 0.23
+        },
+        {
+          "word": "của",
+          "start": 1.5,
+          "end": 1.76,
+          "probability": 0.49
+        },
+        {
+          "word": "biệt",
+          "start": 1.76,
+          "end": 2.06,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.06,
+      "end": 3.24,
+      "text": "Tụi bất tụi tụi tụi",
+      "words": [
+        {
+          "word": "Tụi",
+          "start": 2.06,
+          "end": 2.26,
+          "probability": 0.26
+        },
+        {
+          "word": "bất",
+          "start": 2.26,
+          "end": 2.5,
+          "probability": 0.18
+        },
+        {
+          "word": "tụi",
+          "start": 2.5,
+          "end": 2.64,
+          "probability": 0.55
+        },
+        {
+          "word": "tụi",
+          "start": 2.64,
+          "end": 3.2,
+          "probability": 0.44
+        },
+        {
+          "word": "tụi",
+          "start": 3.2,
+          "end": 3.24,
+          "probability": 0.58
+        }
+      ]
+    }
+  ]
+}

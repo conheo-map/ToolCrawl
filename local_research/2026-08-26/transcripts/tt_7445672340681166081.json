@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7445672340681166081",
+  "duration_seconds": 59.78,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Hẹn gặp nó tốt",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.01,
+      "end": 6.59,
+      "text": "Hẹn gặp nó tốt",
+      "words": [
+        {
+          "word": "Hẹn",
+          "start": 1.01,
+          "end": 2.05,
+          "probability": 0.26
+        },
+        {
+          "word": "gặp",
+          "start": 2.05,
+          "end": 3.81,
+          "probability": 0.68
+        },
+        {
+          "word": "nó",
+          "start": 6.05,
+          "end": 6.31,
+          "probability": 0.0
+        },
+        {
+          "word": "tốt",
+          "start": 6.31,
+          "end": 6.59,
+          "probability": 0.04
+        }
+      ]
+    }
+  ]
+}

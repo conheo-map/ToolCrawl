@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7569548000524061969",
+  "duration_seconds": 111.63,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Nói, nói, nói, nói",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.65,
+      "end": 2.95,
+      "text": "Nói, nói, nói, nói",
+      "words": [
+        {
+          "word": "Nói,",
+          "start": 1.65,
+          "end": 2.01,
+          "probability": 0.1
+        },
+        {
+          "word": "nói,",
+          "start": 2.01,
+          "end": 2.25,
+          "probability": 0.58
+        },
+        {
+          "word": "nói,",
+          "start": 2.53,
+          "end": 2.57,
+          "probability": 0.86
+        },
+        {
+          "word": "nói",
+          "start": 2.65,
+          "end": 2.95,
+          "probability": 0.92
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "item_id": "tt_7449980560820210964",
+  "duration_seconds": 97.99,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 17,
+  "text": "Đăng rất là... Sù đọng là mình khá đăng là cái người ở đi cụi mình không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 90.32,
+      "end": 91.7,
+      "text": "Đăng rất là...",
+      "words": [
+        {
+          "word": "Đăng",
+          "start": 90.32,
+          "end": 90.78,
+          "probability": 0.13
+        },
+        {
+          "word": "rất",
+          "start": 90.78,
+          "end": 90.94,
+          "probability": 0.22
+        },
+        {
+          "word": "là...",
+          "start": 90.94,
+          "end": 91.7,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 92.5,
+      "end": 95.88,
+      "text": "Sù đọng là mình khá đăng là cái người ở đi cụi mình không?",
+      "words": [
+        {
+          "word": "Sù",
+          "start": 92.5,
+          "end": 92.68,
+          "probability": 0.22
+        },
+        {
+          "word": "đọng",
+          "start": 92.68,
+          "end": 92.92,
+          "probability": 0.31
+        },
+        {
+          "word": "là",
+          "start": 92.92,
+          "end": 93.06,
+          "probability": 0.09
+        },
+        {
+          "word": "mình",
+          "start": 93.06,
+          "end": 93.5,
+          "probability": 0.22
+        },
+        {
+          "word": "khá",
+          "start": 93.5,
+          "end": 93.98,
+          "probability": 0.25
+        },
+        {
+          "word": "đăng",
+          "start": 93.98,
+          "end": 94.2,
+          "probability": 0.56
+        },
+        {
+          "word": "là",
+          "start": 94.2,
+          "end": 94.4,
+          "probability": 0.61
+        },
+        {
+          "word": "cái",
+          "start": 94.4,
+          "end": 94.52,
+          "probability": 0.14
+        },
+        {
+          "word": "người",
+          "start": 94.52,
+          "end": 94.68,
+          "probability": 0.61
+        },
+        {
+          "word": "ở",
+          "start": 94.68,
+          "end": 94.84,
+          "probability": 0.36
+        },
+        {
+          "word": "đi",
+          "start": 94.84,
+          "end": 94.96,
+          "probability": 0.24
+        },
+        {
+          "word": "cụi",
+          "start": 94.96,
+          "end": 95.24,
+          "probability": 0.22
+        },
+        {
+          "word": "mình",
+          "start": 95.24,
+          "end": 95.64,
+          "probability": 0.14
+        },
+        {
+          "word": "không?",
+          "start": 95.64,
+          "end": 95.88,
+          "probability": 0.75
+        }
+      ]
+    }
+  ]
+}

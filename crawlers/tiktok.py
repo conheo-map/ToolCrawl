@@ -74,7 +74,10 @@ class TikTokCrawler(BaseCrawler):
                     expanded_urls.append(entry)
             
             logger.info(f"[TikTok] Loaded {len(loaded_entries)} entries from {keyword} -> expanded to {len(expanded_urls)} video URLs")
-            return expanded_urls[:max_results]
+            if max_results and max_results > 500:
+                return expanded_urls[:max_results]
+            # Nếu người dùng truyền file txt thì mặc định chạy toàn bộ file (không bị chặn ở 500)
+            return expanded_urls if len(expanded_urls) > max_results and max_results == 500 else expanded_urls[:max_results]
 
         # Case 3: HTML scrape search
         try:

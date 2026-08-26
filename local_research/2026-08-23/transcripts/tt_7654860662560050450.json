@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7654860662560050450",
+  "duration_seconds": 59.82,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Vào mọi người!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 1.7,
+      "text": "Vào mọi người!",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 0.08,
+          "end": 0.74,
+          "probability": 0.1
+        },
+        {
+          "word": "mọi",
+          "start": 0.74,
+          "end": 1.52,
+          "probability": 0.23
+        },
+        {
+          "word": "người!",
+          "start": 1.52,
+          "end": 1.7,
+          "probability": 0.18
+        }
+      ]
+    }
+  ]
+}

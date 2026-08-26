@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7458219846765939975",
+  "duration_seconds": 57.32,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Cảm ơn người thích nha",
+  "segments": [
+    {
+      "id": 1,
+      "start": 51.46,
+      "end": 54.26,
+      "text": "Cảm ơn người thích nha",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 51.46,
+          "end": 52.86,
+          "probability": 0.32
+        },
+        {
+          "word": "ơn",
+          "start": 52.86,
+          "end": 54.26,
+          "probability": 0.82
+        },
+        {
+          "word": "người",
+          "start": 54.26,
+          "end": 54.26,
+          "probability": 0.01
+        },
+        {
+          "word": "thích",
+          "start": 54.26,
+          "end": 54.26,
+          "probability": 0.04
+        },
+        {
+          "word": "nha",
+          "start": 54.26,
+          "end": 54.26,
+          "probability": 0.08
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "item_id": "tt_7665543461667458325",
+  "duration_seconds": 38.16,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 24,
+  "text": "Mình sẽ có thể đưa ra Với mình xúc như mình như quá Mình nói sợ, nó nơi quá Mình không giảm thấy nữa",
+  "segments": [
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 31.12,
+      "text": "Mình sẽ có thể đưa ra",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 30.0,
+          "end": 30.6,
+          "probability": 0.2
+        },
+        {
+          "word": "sẽ",
+          "start": 30.6,
+          "end": 30.6,
+          "probability": 0.18
+        },
+        {
+          "word": "có",
+          "start": 30.6,
+          "end": 30.6,
+          "probability": 0.05
+        },
+        {
+          "word": "thể",
+          "start": 30.6,
+          "end": 30.6,
+          "probability": 0.13
+        },
+        {
+          "word": "đưa",
+          "start": 30.6,
+          "end": 30.6,
+          "probability": 0.08
+        },
+        {
+          "word": "ra",
+          "start": 30.6,
+          "end": 31.12,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 31.12,
+      "end": 33.78,
+      "text": "Với mình xúc như mình như quá",
+      "words": [
+        {
+          "word": "Với",
+          "start": 31.12,
+          "end": 31.76,
+          "probability": 0.04
+        },
+        {
+          "word": "mình",
+          "start": 31.76,
+          "end": 32.22,
+          "probability": 0.1
+        },
+        {
+          "word": "xúc",
+          "start": 32.22,
+          "end": 32.48,
+          "probability": 0.11
+        },
+        {
+          "word": "như",
+          "start": 32.48,
+          "end": 32.74,
+          "probability": 0.2
+        },
+        {
+          "word": "mình",
+          "start": 32.74,
+          "end": 33.02,
+          "probability": 0.11
+        },
+        {
+          "word": "như",
+          "start": 33.02,
+          "end": 33.26,
+          "probability": 0.44
+        },
+        {
+          "word": "quá",
+          "start": 33.26,
+          "end": 33.78,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 33.78,
+      "end": 36.02,
+      "text": "Mình nói sợ, nó nơi quá",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 33.78,
+          "end": 34.1,
+          "probability": 0.42
+        },
+        {
+          "word": "nói",
+          "start": 34.1,
+          "end": 34.56,
+          "probability": 0.13
+        },
+        {
+          "word": "sợ,",
+          "start": 34.56,
+          "end": 34.98,
+          "probability": 0.26
+        },
+        {
+          "word": "nó",
+          "start": 35.06,
+          "end": 35.22,
+          "probability": 0.35
+        },
+        {
+          "word": "nơi",
+          "start": 35.22,
+          "end": 35.46,
+          "probability": 0.18
+        },
+        {
+          "word": "quá",
+          "start": 35.46,
+          "end": 36.02,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 36.02,
+      "end": 37.84,
+      "text": "Mình không giảm thấy nữa",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 36.02,
+          "end": 36.5,
+          "probability": 0.57
+        },
+        {
+          "word": "không",
+          "start": 36.5,
+          "end": 37.08,
+          "probability": 0.96
+        },
+        {
+          "word": "giảm",
+          "start": 37.08,
+          "end": 37.34,
+          "probability": 0.46
+        },
+        {
+          "word": "thấy",
+          "start": 37.34,
+          "end": 37.4,
+          "probability": 0.09
+        },
+        {
+          "word": "nữa",
+          "start": 37.4,
+          "end": 37.84,
+          "probability": 0.12
+        }
+      ]
+    }
+  ]
+}

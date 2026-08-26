@@ -1,0 +1,652 @@
+{
+  "item_id": "tt_7537222442440281361",
+  "duration_seconds": 76.97,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 79,
+  "text": "Nếu như người xin sớm được nắng Đại vừa có nghĩa Nắng chưa được Nếu chà sạch của chúng ta Chỉ còn được Vụ đứa đứa Hả đâu Nếu chó đẹp đứa tình của người Vụ đứa đứa Nếu chó đo khá Nó đứa đứa đứa Nếu xó Nếu như đứa Đừng có đứa Nếu đứa đứa Nếu không xong đứa Nếu chó đứa Nếu không xong đứa Nếu xong đứa Nếu không xong đứa Nếu không xong đứa",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Nếu như người xin sớm được nắng",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 0.0,
+          "end": 0.58,
+          "probability": 0.11
+        },
+        {
+          "word": "như",
+          "start": 0.58,
+          "end": 0.58,
+          "probability": 0.06
+        },
+        {
+          "word": "người",
+          "start": 0.58,
+          "end": 0.94,
+          "probability": 0.26
+        },
+        {
+          "word": "xin",
+          "start": 0.94,
+          "end": 1.08,
+          "probability": 0.59
+        },
+        {
+          "word": "sớm",
+          "start": 1.08,
+          "end": 1.38,
+          "probability": 0.31
+        },
+        {
+          "word": "được",
+          "start": 1.38,
+          "end": 1.72,
+          "probability": 0.37
+        },
+        {
+          "word": "nắng",
+          "start": 1.72,
+          "end": 2.3,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.3,
+      "end": 3.9,
+      "text": "Đại vừa có nghĩa",
+      "words": [
+        {
+          "word": "Đại",
+          "start": 2.3,
+          "end": 2.9,
+          "probability": 0.17
+        },
+        {
+          "word": "vừa",
+          "start": 2.9,
+          "end": 3.24,
+          "probability": 0.18
+        },
+        {
+          "word": "có",
+          "start": 3.24,
+          "end": 3.5,
+          "probability": 0.04
+        },
+        {
+          "word": "nghĩa",
+          "start": 3.5,
+          "end": 3.9,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.9,
+      "end": 5.28,
+      "text": "Nắng chưa được",
+      "words": [
+        {
+          "word": "Nắng",
+          "start": 3.9,
+          "end": 4.3,
+          "probability": 0.37
+        },
+        {
+          "word": "chưa",
+          "start": 4.3,
+          "end": 4.82,
+          "probability": 0.53
+        },
+        {
+          "word": "được",
+          "start": 4.82,
+          "end": 5.28,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.23,
+      "end": 9.79,
+      "text": "Nếu chà sạch của chúng ta",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 7.23,
+          "end": 7.87,
+          "probability": 0.37
+        },
+        {
+          "word": "chà",
+          "start": 7.87,
+          "end": 8.25,
+          "probability": 0.16
+        },
+        {
+          "word": "sạch",
+          "start": 8.25,
+          "end": 8.53,
+          "probability": 0.47
+        },
+        {
+          "word": "của",
+          "start": 8.53,
+          "end": 8.75,
+          "probability": 0.74
+        },
+        {
+          "word": "chúng",
+          "start": 8.75,
+          "end": 9.17,
+          "probability": 0.8
+        },
+        {
+          "word": "ta",
+          "start": 9.17,
+          "end": 9.79,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.79,
+      "end": 11.21,
+      "text": "Chỉ còn được",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 9.79,
+          "end": 10.23,
+          "probability": 0.12
+        },
+        {
+          "word": "còn",
+          "start": 10.23,
+          "end": 10.75,
+          "probability": 0.31
+        },
+        {
+          "word": "được",
+          "start": 10.75,
+          "end": 11.21,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.21,
+      "end": 12.97,
+      "text": "Vụ đứa đứa",
+      "words": [
+        {
+          "word": "Vụ",
+          "start": 11.21,
+          "end": 11.89,
+          "probability": 0.02
+        },
+        {
+          "word": "đứa",
+          "start": 11.89,
+          "end": 12.13,
+          "probability": 0.41
+        },
+        {
+          "word": "đứa",
+          "start": 12.13,
+          "end": 12.97,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.97,
+      "end": 13.37,
+      "text": "Hả đâu",
+      "words": [
+        {
+          "word": "Hả",
+          "start": 12.97,
+          "end": 13.01,
+          "probability": 0.07
+        },
+        {
+          "word": "đâu",
+          "start": 13.01,
+          "end": 13.37,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.37,
+      "end": 16.33,
+      "text": "Nếu chó đẹp đứa tình của người",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 13.37,
+          "end": 13.99,
+          "probability": 0.2
+        },
+        {
+          "word": "chó",
+          "start": 13.99,
+          "end": 14.45,
+          "probability": 0.44
+        },
+        {
+          "word": "đẹp",
+          "start": 14.45,
+          "end": 14.83,
+          "probability": 0.47
+        },
+        {
+          "word": "đứa",
+          "start": 14.83,
+          "end": 15.31,
+          "probability": 0.46
+        },
+        {
+          "word": "tình",
+          "start": 15.31,
+          "end": 15.69,
+          "probability": 0.2
+        },
+        {
+          "word": "của",
+          "start": 15.69,
+          "end": 15.95,
+          "probability": 0.07
+        },
+        {
+          "word": "người",
+          "start": 15.95,
+          "end": 16.33,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 16.33,
+      "end": 17.83,
+      "text": "Vụ đứa đứa",
+      "words": [
+        {
+          "word": "Vụ",
+          "start": 16.33,
+          "end": 16.69,
+          "probability": 0.39
+        },
+        {
+          "word": "đứa",
+          "start": 16.69,
+          "end": 17.07,
+          "probability": 0.74
+        },
+        {
+          "word": "đứa",
+          "start": 17.07,
+          "end": 17.83,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 17.83,
+      "end": 18.81,
+      "text": "Nếu chó đo khá",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 17.83,
+          "end": 18.19,
+          "probability": 0.23
+        },
+        {
+          "word": "chó",
+          "start": 18.19,
+          "end": 18.39,
+          "probability": 0.95
+        },
+        {
+          "word": "đo",
+          "start": 18.39,
+          "end": 18.61,
+          "probability": 0.23
+        },
+        {
+          "word": "khá",
+          "start": 18.61,
+          "end": 18.81,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 18.81,
+      "end": 20.17,
+      "text": "Nó đứa đứa đứa",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 18.81,
+          "end": 19.23,
+          "probability": 0.2
+        },
+        {
+          "word": "đứa",
+          "start": 19.23,
+          "end": 19.93,
+          "probability": 0.52
+        },
+        {
+          "word": "đứa",
+          "start": 19.93,
+          "end": 20.01,
+          "probability": 0.72
+        },
+        {
+          "word": "đứa",
+          "start": 20.01,
+          "end": 20.17,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 20.17,
+      "end": 20.99,
+      "text": "Nếu xó",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 20.17,
+          "end": 20.99,
+          "probability": 0.39
+        },
+        {
+          "word": "xó",
+          "start": 20.99,
+          "end": 20.99,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 21.55,
+      "end": 22.81,
+      "text": "Nếu như đứa",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 21.55,
+          "end": 22.03,
+          "probability": 0.22
+        },
+        {
+          "word": "như",
+          "start": 22.03,
+          "end": 22.27,
+          "probability": 0.28
+        },
+        {
+          "word": "đứa",
+          "start": 22.27,
+          "end": 22.81,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 22.81,
+      "end": 24.09,
+      "text": "Đừng có đứa",
+      "words": [
+        {
+          "word": "Đừng",
+          "start": 22.81,
+          "end": 23.19,
+          "probability": 0.02
+        },
+        {
+          "word": "có",
+          "start": 23.19,
+          "end": 23.43,
+          "probability": 0.13
+        },
+        {
+          "word": "đứa",
+          "start": 23.43,
+          "end": 24.09,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 24.09,
+      "end": 24.59,
+      "text": "Nếu đứa đứa",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 24.09,
+          "end": 24.59,
+          "probability": 0.12
+        },
+        {
+          "word": "đứa",
+          "start": 24.59,
+          "end": 24.59,
+          "probability": 0.63
+        },
+        {
+          "word": "đứa",
+          "start": 24.59,
+          "end": 24.59,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 24.59,
+      "end": 25.71,
+      "text": "Nếu không xong đứa",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 24.59,
+          "end": 24.59,
+          "probability": 0.31
+        },
+        {
+          "word": "không",
+          "start": 24.59,
+          "end": 24.59,
+          "probability": 0.08
+        },
+        {
+          "word": "xong",
+          "start": 24.59,
+          "end": 24.59,
+          "probability": 0.02
+        },
+        {
+          "word": "đứa",
+          "start": 24.59,
+          "end": 25.71,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 25.71,
+      "end": 30.8,
+      "text": "Nếu chó đứa",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 25.71,
+          "end": 25.79,
+          "probability": 0.51
+        },
+        {
+          "word": "chó",
+          "start": 25.79,
+          "end": 25.79,
+          "probability": 0.42
+        },
+        {
+          "word": "đứa",
+          "start": 29.34,
+          "end": 30.8,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 32.44,
+      "end": 35.24,
+      "text": "Nếu không xong đứa",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 32.44,
+          "end": 33.42,
+          "probability": 0.43
+        },
+        {
+          "word": "không",
+          "start": 33.42,
+          "end": 33.42,
+          "probability": 0.68
+        },
+        {
+          "word": "xong",
+          "start": 33.42,
+          "end": 33.42,
+          "probability": 0.67
+        },
+        {
+          "word": "đứa",
+          "start": 33.42,
+          "end": 35.24,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 37.12,
+      "end": 38.5,
+      "text": "Nếu xong đứa",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 37.12,
+          "end": 37.44,
+          "probability": 0.14
+        },
+        {
+          "word": "xong",
+          "start": 37.44,
+          "end": 38.0,
+          "probability": 0.13
+        },
+        {
+          "word": "đứa",
+          "start": 38.0,
+          "end": 38.5,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 38.5,
+      "end": 38.62,
+      "text": "Nếu không xong đứa",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 38.5,
+          "end": 38.62,
+          "probability": 0.0
+        },
+        {
+          "word": "không",
+          "start": 38.62,
+          "end": 38.62,
+          "probability": 0.01
+        },
+        {
+          "word": "xong",
+          "start": 38.62,
+          "end": 38.62,
+          "probability": 0.41
+        },
+        {
+          "word": "đứa",
+          "start": 38.62,
+          "end": 38.62,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 38.62,
+      "end": 44.91,
+      "text": "Nếu không xong đứa",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 38.62,
+          "end": 39.7,
+          "probability": 0.16
+        },
+        {
+          "word": "không",
+          "start": 39.7,
+          "end": 39.7,
+          "probability": 0.5
+        },
+        {
+          "word": "xong",
+          "start": 39.7,
+          "end": 40.34,
+          "probability": 0.77
+        },
+        {
+          "word": "đứa",
+          "start": 44.31,
+          "end": 44.91,
+          "probability": 0.96
+        }
+      ]
+    }
+  ]
+}

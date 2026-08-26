@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7543278952945634578",
+  "duration_seconds": 22.46,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Thôi, thôi, thôi, thôi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.49,
+      "end": 2.29,
+      "text": "Thôi, thôi, thôi, thôi.",
+      "words": [
+        {
+          "word": "Thôi,",
+          "start": 1.49,
+          "end": 1.95,
+          "probability": 0.08
+        },
+        {
+          "word": "thôi,",
+          "start": 2.15,
+          "end": 2.15,
+          "probability": 0.5
+        },
+        {
+          "word": "thôi,",
+          "start": 2.29,
+          "end": 2.29,
+          "probability": 0.77
+        },
+        {
+          "word": "thôi.",
+          "start": 2.29,
+          "end": 2.29,
+          "probability": 0.89
+        }
+      ]
+    }
+  ]
+}

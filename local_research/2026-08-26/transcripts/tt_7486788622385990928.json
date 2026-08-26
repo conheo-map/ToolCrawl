@@ -1,0 +1,130 @@
+{
+  "item_id": "tt_7486788622385990928",
+  "duration_seconds": 70.17,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 16,
+  "text": "Như không, báo trực báo rưỡi, báo rưỡi, báo rưỡi. Báo rưỡi, báo rưỡi. Báo rưỡi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 56.78,
+      "end": 59.96,
+      "text": "Như không, báo trực báo rưỡi, báo rưỡi, báo rưỡi.",
+      "words": [
+        {
+          "word": "Như",
+          "start": 56.78,
+          "end": 57.34,
+          "probability": 0.07
+        },
+        {
+          "word": "không,",
+          "start": 57.34,
+          "end": 57.5,
+          "probability": 0.01
+        },
+        {
+          "word": "báo",
+          "start": 57.5,
+          "end": 58.14,
+          "probability": 0.01
+        },
+        {
+          "word": "trực",
+          "start": 58.14,
+          "end": 58.26,
+          "probability": 0.03
+        },
+        {
+          "word": "báo",
+          "start": 58.26,
+          "end": 58.26,
+          "probability": 0.18
+        },
+        {
+          "word": "rưỡi,",
+          "start": 58.26,
+          "end": 58.26,
+          "probability": 0.36
+        },
+        {
+          "word": "báo",
+          "start": 58.5,
+          "end": 58.94,
+          "probability": 0.55
+        },
+        {
+          "word": "rưỡi,",
+          "start": 58.94,
+          "end": 59.36,
+          "probability": 0.82
+        },
+        {
+          "word": "báo",
+          "start": 59.84,
+          "end": 59.96,
+          "probability": 0.88
+        },
+        {
+          "word": "rưỡi.",
+          "start": 59.96,
+          "end": 59.96,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 64.09,
+      "end": 64.85,
+      "text": "Báo rưỡi, báo rưỡi.",
+      "words": [
+        {
+          "word": "Báo",
+          "start": 64.09,
+          "end": 64.59,
+          "probability": 0.57
+        },
+        {
+          "word": "rưỡi,",
+          "start": 64.59,
+          "end": 64.85,
+          "probability": 0.96
+        },
+        {
+          "word": "báo",
+          "start": 64.85,
+          "end": 64.85,
+          "probability": 0.98
+        },
+        {
+          "word": "rưỡi.",
+          "start": 64.85,
+          "end": 64.85,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 66.47,
+      "end": 68.01,
+      "text": "Báo rưỡi.",
+      "words": [
+        {
+          "word": "Báo",
+          "start": 66.47,
+          "end": 66.85,
+          "probability": 0.7
+        },
+        {
+          "word": "rưỡi.",
+          "start": 66.85,
+          "end": 68.01,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

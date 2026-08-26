@@ -1,0 +1,60 @@
+{
+  "item_id": "tt_7555860755011144978",
+  "duration_seconds": 93.37,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 7,
+  "text": "Bịt ngang, bịt ngang, bịt khá lắm",
+  "segments": [
+    {
+      "id": 1,
+      "start": 91.58,
+      "end": 93.24,
+      "text": "Bịt ngang, bịt ngang, bịt khá lắm",
+      "words": [
+        {
+          "word": "Bịt",
+          "start": 91.58,
+          "end": 92.0,
+          "probability": 0.18
+        },
+        {
+          "word": "ngang,",
+          "start": 92.0,
+          "end": 92.24,
+          "probability": 0.1
+        },
+        {
+          "word": "bịt",
+          "start": 92.42,
+          "end": 92.42,
+          "probability": 0.77
+        },
+        {
+          "word": "ngang,",
+          "start": 92.42,
+          "end": 92.42,
+          "probability": 0.9
+        },
+        {
+          "word": "bịt",
+          "start": 92.42,
+          "end": 92.6,
+          "probability": 0.93
+        },
+        {
+          "word": "khá",
+          "start": 92.6,
+          "end": 92.72,
+          "probability": 0.36
+        },
+        {
+          "word": "lắm",
+          "start": 92.72,
+          "end": 93.24,
+          "probability": 0.16
+        }
+      ]
+    }
+  ]
+}

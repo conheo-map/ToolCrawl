@@ -1,0 +1,736 @@
+{
+  "item_id": "tt_7655544681568259349",
+  "duration_seconds": 53.07,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 105,
+  "text": "Chính mưa chính phần chán học xin cho anh trong con hỏi cũng chỉ ra được vật đó. Thế tên lại thầy ủ dưới ủ khi chính mưa chính phần chán học xin cho lời xai hi học về công không. Hồi, hồi, hồi, hồi, hồi, hồi, hồi, hồi, hồi, hồi, hồi, mất gấu. Hồi nào quen nằm vào nào là mất gấu bồi. Hảo nối. Châu quen lại của lần nữa. Hảo nối. Hình nằm à hảo nối. Thưa ra, cái quái là các bạn quan thô đồ. Thưa ra các bạn học xin ra. Đúng không? Chưa ra, hồi, hồi, hồi, hồi, hồi,",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.68,
+      "text": "Chính mưa chính phần chán học xin cho anh trong con hỏi cũng chỉ ra được vật đó.",
+      "words": [
+        {
+          "word": "Chính",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.45
+        },
+        {
+          "word": "mưa",
+          "start": 0.18,
+          "end": 0.3,
+          "probability": 0.37
+        },
+        {
+          "word": "chính",
+          "start": 0.3,
+          "end": 0.48,
+          "probability": 0.5
+        },
+        {
+          "word": "phần",
+          "start": 0.48,
+          "end": 0.64,
+          "probability": 0.68
+        },
+        {
+          "word": "chán",
+          "start": 0.64,
+          "end": 0.74,
+          "probability": 0.4
+        },
+        {
+          "word": "học",
+          "start": 0.74,
+          "end": 0.9,
+          "probability": 0.34
+        },
+        {
+          "word": "xin",
+          "start": 0.9,
+          "end": 1.04,
+          "probability": 0.56
+        },
+        {
+          "word": "cho",
+          "start": 1.04,
+          "end": 1.14,
+          "probability": 0.43
+        },
+        {
+          "word": "anh",
+          "start": 1.14,
+          "end": 1.34,
+          "probability": 0.37
+        },
+        {
+          "word": "trong",
+          "start": 1.34,
+          "end": 1.44,
+          "probability": 0.68
+        },
+        {
+          "word": "con",
+          "start": 1.44,
+          "end": 1.64,
+          "probability": 0.42
+        },
+        {
+          "word": "hỏi",
+          "start": 1.64,
+          "end": 1.68,
+          "probability": 0.62
+        },
+        {
+          "word": "cũng",
+          "start": 1.68,
+          "end": 1.84,
+          "probability": 0.3
+        },
+        {
+          "word": "chỉ",
+          "start": 1.84,
+          "end": 1.96,
+          "probability": 0.42
+        },
+        {
+          "word": "ra",
+          "start": 1.96,
+          "end": 2.1,
+          "probability": 0.37
+        },
+        {
+          "word": "được",
+          "start": 2.1,
+          "end": 2.24,
+          "probability": 0.77
+        },
+        {
+          "word": "vật",
+          "start": 2.24,
+          "end": 2.4,
+          "probability": 0.27
+        },
+        {
+          "word": "đó.",
+          "start": 2.4,
+          "end": 2.68,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.92,
+      "end": 6.02,
+      "text": "Thế tên lại thầy ủ dưới ủ khi chính mưa chính phần chán học xin cho lời xai hi học về công không.",
+      "words": [
+        {
+          "word": "Thế",
+          "start": 2.92,
+          "end": 2.92,
+          "probability": 0.45
+        },
+        {
+          "word": "tên",
+          "start": 2.92,
+          "end": 3.06,
+          "probability": 0.42
+        },
+        {
+          "word": "lại",
+          "start": 3.06,
+          "end": 3.22,
+          "probability": 0.76
+        },
+        {
+          "word": "thầy",
+          "start": 3.22,
+          "end": 3.36,
+          "probability": 0.49
+        },
+        {
+          "word": "ủ",
+          "start": 3.36,
+          "end": 3.6,
+          "probability": 0.52
+        },
+        {
+          "word": "dưới",
+          "start": 3.6,
+          "end": 3.62,
+          "probability": 0.42
+        },
+        {
+          "word": "ủ",
+          "start": 3.62,
+          "end": 3.84,
+          "probability": 0.71
+        },
+        {
+          "word": "khi",
+          "start": 3.84,
+          "end": 3.9,
+          "probability": 0.79
+        },
+        {
+          "word": "chính",
+          "start": 3.9,
+          "end": 4.1,
+          "probability": 0.88
+        },
+        {
+          "word": "mưa",
+          "start": 4.1,
+          "end": 4.18,
+          "probability": 0.82
+        },
+        {
+          "word": "chính",
+          "start": 4.18,
+          "end": 4.38,
+          "probability": 0.99
+        },
+        {
+          "word": "phần",
+          "start": 4.38,
+          "end": 4.5,
+          "probability": 1.0
+        },
+        {
+          "word": "chán",
+          "start": 4.5,
+          "end": 4.6,
+          "probability": 0.95
+        },
+        {
+          "word": "học",
+          "start": 4.6,
+          "end": 4.74,
+          "probability": 0.99
+        },
+        {
+          "word": "xin",
+          "start": 4.74,
+          "end": 4.9,
+          "probability": 0.97
+        },
+        {
+          "word": "cho",
+          "start": 4.9,
+          "end": 5.0,
+          "probability": 0.85
+        },
+        {
+          "word": "lời",
+          "start": 5.0,
+          "end": 5.18,
+          "probability": 0.66
+        },
+        {
+          "word": "xai",
+          "start": 5.18,
+          "end": 5.38,
+          "probability": 0.37
+        },
+        {
+          "word": "hi",
+          "start": 5.38,
+          "end": 5.62,
+          "probability": 0.24
+        },
+        {
+          "word": "học",
+          "start": 5.62,
+          "end": 5.62,
+          "probability": 0.89
+        },
+        {
+          "word": "về",
+          "start": 5.62,
+          "end": 5.76,
+          "probability": 0.75
+        },
+        {
+          "word": "công",
+          "start": 5.76,
+          "end": 5.96,
+          "probability": 0.49
+        },
+        {
+          "word": "không.",
+          "start": 5.96,
+          "end": 6.02,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.1,
+      "end": 10.32,
+      "text": "Hồi, hồi, hồi, hồi, hồi, hồi, hồi, hồi, hồi, hồi, hồi, mất gấu.",
+      "words": [
+        {
+          "word": "Hồi,",
+          "start": 6.1,
+          "end": 6.38,
+          "probability": 0.14
+        },
+        {
+          "word": "hồi,",
+          "start": 6.78,
+          "end": 6.92,
+          "probability": 0.63
+        },
+        {
+          "word": "hồi,",
+          "start": 6.92,
+          "end": 7.3,
+          "probability": 0.76
+        },
+        {
+          "word": "hồi,",
+          "start": 7.3,
+          "end": 7.46,
+          "probability": 0.6
+        },
+        {
+          "word": "hồi,",
+          "start": 7.74,
+          "end": 7.74,
+          "probability": 0.65
+        },
+        {
+          "word": "hồi,",
+          "start": 8.04,
+          "end": 8.04,
+          "probability": 0.82
+        },
+        {
+          "word": "hồi,",
+          "start": 9.02,
+          "end": 9.02,
+          "probability": 0.89
+        },
+        {
+          "word": "hồi,",
+          "start": 9.44,
+          "end": 9.44,
+          "probability": 0.84
+        },
+        {
+          "word": "hồi,",
+          "start": 9.54,
+          "end": 9.54,
+          "probability": 0.77
+        },
+        {
+          "word": "hồi,",
+          "start": 9.56,
+          "end": 9.56,
+          "probability": 0.73
+        },
+        {
+          "word": "hồi,",
+          "start": 9.6,
+          "end": 9.6,
+          "probability": 0.74
+        },
+        {
+          "word": "mất",
+          "start": 9.6,
+          "end": 9.68,
+          "probability": 0.61
+        },
+        {
+          "word": "gấu.",
+          "start": 9.68,
+          "end": 10.32,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.54,
+      "end": 12.5,
+      "text": "Hồi nào quen nằm vào nào là mất gấu bồi.",
+      "words": [
+        {
+          "word": "Hồi",
+          "start": 10.54,
+          "end": 10.62,
+          "probability": 0.44
+        },
+        {
+          "word": "nào",
+          "start": 10.62,
+          "end": 10.8,
+          "probability": 0.62
+        },
+        {
+          "word": "quen",
+          "start": 10.8,
+          "end": 10.94,
+          "probability": 0.25
+        },
+        {
+          "word": "nằm",
+          "start": 10.94,
+          "end": 11.08,
+          "probability": 0.5
+        },
+        {
+          "word": "vào",
+          "start": 11.08,
+          "end": 11.22,
+          "probability": 0.18
+        },
+        {
+          "word": "nào",
+          "start": 11.22,
+          "end": 11.38,
+          "probability": 0.38
+        },
+        {
+          "word": "là",
+          "start": 11.38,
+          "end": 11.54,
+          "probability": 0.19
+        },
+        {
+          "word": "mất",
+          "start": 11.54,
+          "end": 11.7,
+          "probability": 0.84
+        },
+        {
+          "word": "gấu",
+          "start": 11.7,
+          "end": 11.86,
+          "probability": 0.93
+        },
+        {
+          "word": "bồi.",
+          "start": 11.86,
+          "end": 12.5,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.9,
+      "end": 13.34,
+      "text": "Hảo nối.",
+      "words": [
+        {
+          "word": "Hảo",
+          "start": 12.9,
+          "end": 12.9,
+          "probability": 0.54
+        },
+        {
+          "word": "nối.",
+          "start": 12.9,
+          "end": 13.34,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.46,
+      "end": 15.56,
+      "text": "Châu quen lại của lần nữa.",
+      "words": [
+        {
+          "word": "Châu",
+          "start": 14.46,
+          "end": 14.6,
+          "probability": 0.2
+        },
+        {
+          "word": "quen",
+          "start": 14.6,
+          "end": 14.8,
+          "probability": 0.7
+        },
+        {
+          "word": "lại",
+          "start": 14.8,
+          "end": 14.96,
+          "probability": 0.77
+        },
+        {
+          "word": "của",
+          "start": 14.96,
+          "end": 15.12,
+          "probability": 0.36
+        },
+        {
+          "word": "lần",
+          "start": 15.12,
+          "end": 15.24,
+          "probability": 0.55
+        },
+        {
+          "word": "nữa.",
+          "start": 15.24,
+          "end": 15.56,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.92,
+      "end": 16.24,
+      "text": "Hảo nối.",
+      "words": [
+        {
+          "word": "Hảo",
+          "start": 15.92,
+          "end": 15.92,
+          "probability": 0.9
+        },
+        {
+          "word": "nối.",
+          "start": 15.92,
+          "end": 16.24,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.38,
+      "end": 17.44,
+      "text": "Hình nằm à hảo nối.",
+      "words": [
+        {
+          "word": "Hình",
+          "start": 16.38,
+          "end": 16.4,
+          "probability": 0.17
+        },
+        {
+          "word": "nằm",
+          "start": 16.4,
+          "end": 16.54,
+          "probability": 0.53
+        },
+        {
+          "word": "à",
+          "start": 16.54,
+          "end": 16.82,
+          "probability": 0.14
+        },
+        {
+          "word": "hảo",
+          "start": 16.82,
+          "end": 17.1,
+          "probability": 0.26
+        },
+        {
+          "word": "nối.",
+          "start": 17.1,
+          "end": 17.44,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 17.78,
+      "end": 19.56,
+      "text": "Thưa ra, cái quái là các bạn quan thô đồ.",
+      "words": [
+        {
+          "word": "Thưa",
+          "start": 17.78,
+          "end": 17.9,
+          "probability": 0.39
+        },
+        {
+          "word": "ra,",
+          "start": 17.9,
+          "end": 18.1,
+          "probability": 0.75
+        },
+        {
+          "word": "cái",
+          "start": 18.16,
+          "end": 18.3,
+          "probability": 0.14
+        },
+        {
+          "word": "quái",
+          "start": 18.3,
+          "end": 18.56,
+          "probability": 0.33
+        },
+        {
+          "word": "là",
+          "start": 18.56,
+          "end": 18.76,
+          "probability": 0.28
+        },
+        {
+          "word": "các",
+          "start": 18.76,
+          "end": 18.92,
+          "probability": 0.68
+        },
+        {
+          "word": "bạn",
+          "start": 18.92,
+          "end": 18.92,
+          "probability": 0.94
+        },
+        {
+          "word": "quan",
+          "start": 18.92,
+          "end": 19.1,
+          "probability": 0.15
+        },
+        {
+          "word": "thô",
+          "start": 19.1,
+          "end": 19.22,
+          "probability": 0.2
+        },
+        {
+          "word": "đồ.",
+          "start": 19.22,
+          "end": 19.56,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 19.76,
+      "end": 20.7,
+      "text": "Thưa ra các bạn học xin ra.",
+      "words": [
+        {
+          "word": "Thưa",
+          "start": 19.76,
+          "end": 19.88,
+          "probability": 0.57
+        },
+        {
+          "word": "ra",
+          "start": 19.88,
+          "end": 19.98,
+          "probability": 0.7
+        },
+        {
+          "word": "các",
+          "start": 19.98,
+          "end": 20.04,
+          "probability": 0.09
+        },
+        {
+          "word": "bạn",
+          "start": 20.04,
+          "end": 20.18,
+          "probability": 0.97
+        },
+        {
+          "word": "học",
+          "start": 20.18,
+          "end": 20.36,
+          "probability": 0.09
+        },
+        {
+          "word": "xin",
+          "start": 20.36,
+          "end": 20.68,
+          "probability": 0.1
+        },
+        {
+          "word": "ra.",
+          "start": 20.68,
+          "end": 20.7,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 21.32,
+      "end": 21.82,
+      "text": "Đúng không?",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 21.32,
+          "end": 21.64,
+          "probability": 0.34
+        },
+        {
+          "word": "không?",
+          "start": 21.64,
+          "end": 21.82,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 51.82,
+      "end": 53.04,
+      "text": "Chưa ra, hồi, hồi, hồi, hồi, hồi,",
+      "words": [
+        {
+          "word": "Chưa",
+          "start": 51.82,
+          "end": 51.98,
+          "probability": 0.01
+        },
+        {
+          "word": "ra,",
+          "start": 51.98,
+          "end": 51.98,
+          "probability": 0.03
+        },
+        {
+          "word": "hồi,",
+          "start": 52.12,
+          "end": 52.36,
+          "probability": 0.04
+        },
+        {
+          "word": "hồi,",
+          "start": 52.36,
+          "end": 52.36,
+          "probability": 0.5
+        },
+        {
+          "word": "hồi,",
+          "start": 52.8,
+          "end": 52.8,
+          "probability": 0.63
+        },
+        {
+          "word": "hồi,",
+          "start": 52.98,
+          "end": 52.98,
+          "probability": 0.75
+        },
+        {
+          "word": "hồi,",
+          "start": 53.04,
+          "end": 53.04,
+          "probability": 0.81
+        }
+      ]
+    }
+  ]
+}

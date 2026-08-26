@@ -1,0 +1,294 @@
+{
+  "item_id": "tt_7569606682796395796",
+  "duration_seconds": 20.51,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 42,
+  "text": "Đến đại trọng ra, luôn nghe, cái tập khá thích gòn tổ nữa chíu quá tâm Chí gòn tổ nữa chíu rồi chào tập khá thêm luôn chá Chó là nghe dành mạnh luôn Nhà công nói, y main quá bố nữa",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.62,
+      "end": 4.72,
+      "text": "Đến đại trọng ra, luôn nghe, cái tập khá thích gòn tổ nữa chíu quá tâm",
+      "words": [
+        {
+          "word": "Đến",
+          "start": 0.62,
+          "end": 1.26,
+          "probability": 0.25
+        },
+        {
+          "word": "đại",
+          "start": 1.26,
+          "end": 1.5,
+          "probability": 0.32
+        },
+        {
+          "word": "trọng",
+          "start": 1.5,
+          "end": 1.72,
+          "probability": 0.47
+        },
+        {
+          "word": "ra,",
+          "start": 1.72,
+          "end": 1.92,
+          "probability": 0.61
+        },
+        {
+          "word": "luôn",
+          "start": 2.2,
+          "end": 2.22,
+          "probability": 0.26
+        },
+        {
+          "word": "nghe,",
+          "start": 2.22,
+          "end": 2.5,
+          "probability": 0.43
+        },
+        {
+          "word": "cái",
+          "start": 2.58,
+          "end": 2.7,
+          "probability": 0.02
+        },
+        {
+          "word": "tập",
+          "start": 2.7,
+          "end": 2.9,
+          "probability": 0.39
+        },
+        {
+          "word": "khá",
+          "start": 2.9,
+          "end": 3.16,
+          "probability": 0.49
+        },
+        {
+          "word": "thích",
+          "start": 3.16,
+          "end": 3.38,
+          "probability": 0.2
+        },
+        {
+          "word": "gòn",
+          "start": 3.38,
+          "end": 3.58,
+          "probability": 0.26
+        },
+        {
+          "word": "tổ",
+          "start": 3.58,
+          "end": 3.78,
+          "probability": 0.42
+        },
+        {
+          "word": "nữa",
+          "start": 3.78,
+          "end": 3.94,
+          "probability": 0.17
+        },
+        {
+          "word": "chíu",
+          "start": 3.94,
+          "end": 4.2,
+          "probability": 0.28
+        },
+        {
+          "word": "quá",
+          "start": 4.2,
+          "end": 4.3,
+          "probability": 0.18
+        },
+        {
+          "word": "tâm",
+          "start": 4.3,
+          "end": 4.72,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.82,
+      "end": 9.18,
+      "text": "Chí gòn tổ nữa chíu rồi chào tập khá thêm luôn chá",
+      "words": [
+        {
+          "word": "Chí",
+          "start": 5.82,
+          "end": 6.26,
+          "probability": 0.37
+        },
+        {
+          "word": "gòn",
+          "start": 6.26,
+          "end": 6.44,
+          "probability": 0.5
+        },
+        {
+          "word": "tổ",
+          "start": 6.44,
+          "end": 6.62,
+          "probability": 0.36
+        },
+        {
+          "word": "nữa",
+          "start": 6.62,
+          "end": 6.82,
+          "probability": 0.75
+        },
+        {
+          "word": "chíu",
+          "start": 6.82,
+          "end": 7.04,
+          "probability": 0.94
+        },
+        {
+          "word": "rồi",
+          "start": 7.04,
+          "end": 7.22,
+          "probability": 0.11
+        },
+        {
+          "word": "chào",
+          "start": 7.22,
+          "end": 7.54,
+          "probability": 0.45
+        },
+        {
+          "word": "tập",
+          "start": 7.54,
+          "end": 7.86,
+          "probability": 0.22
+        },
+        {
+          "word": "khá",
+          "start": 7.86,
+          "end": 7.98,
+          "probability": 0.77
+        },
+        {
+          "word": "thêm",
+          "start": 7.98,
+          "end": 8.18,
+          "probability": 0.28
+        },
+        {
+          "word": "luôn",
+          "start": 8.18,
+          "end": 8.44,
+          "probability": 0.2
+        },
+        {
+          "word": "chá",
+          "start": 8.44,
+          "end": 9.18,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.49,
+      "end": 13.43,
+      "text": "Chó là nghe dành mạnh luôn",
+      "words": [
+        {
+          "word": "Chó",
+          "start": 11.49,
+          "end": 12.21,
+          "probability": 0.01
+        },
+        {
+          "word": "là",
+          "start": 12.21,
+          "end": 12.37,
+          "probability": 0.06
+        },
+        {
+          "word": "nghe",
+          "start": 12.37,
+          "end": 12.53,
+          "probability": 0.53
+        },
+        {
+          "word": "dành",
+          "start": 12.53,
+          "end": 12.71,
+          "probability": 0.25
+        },
+        {
+          "word": "mạnh",
+          "start": 12.71,
+          "end": 12.95,
+          "probability": 0.61
+        },
+        {
+          "word": "luôn",
+          "start": 12.95,
+          "end": 13.43,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.45,
+      "end": 16.75,
+      "text": "Nhà công nói, y main quá bố nữa",
+      "words": [
+        {
+          "word": "Nhà",
+          "start": 14.45,
+          "end": 14.89,
+          "probability": 0.43
+        },
+        {
+          "word": "công",
+          "start": 14.89,
+          "end": 15.15,
+          "probability": 0.19
+        },
+        {
+          "word": "nói,",
+          "start": 15.15,
+          "end": 15.51,
+          "probability": 0.5
+        },
+        {
+          "word": "y",
+          "start": 15.57,
+          "end": 15.75,
+          "probability": 0.13
+        },
+        {
+          "word": "main",
+          "start": 15.75,
+          "end": 15.89,
+          "probability": 0.17
+        },
+        {
+          "word": "quá",
+          "start": 15.89,
+          "end": 16.13,
+          "probability": 0.12
+        },
+        {
+          "word": "bố",
+          "start": 16.13,
+          "end": 16.43,
+          "probability": 0.47
+        },
+        {
+          "word": "nữa",
+          "start": 16.43,
+          "end": 16.75,
+          "probability": 0.63
+        }
+      ]
+    }
+  ]
+}

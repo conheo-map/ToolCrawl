@@ -1,0 +1,86 @@
+{
+  "item_id": "tt_7542045474379943186",
+  "duration_seconds": 99.03,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 10,
+  "text": "Chúng ta sẽ đứng chứ? Chúng ta sẽ đứng chứ?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.38,
+      "text": "Chúng ta sẽ đứng chứ?",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 0.0,
+          "end": 1.06,
+          "probability": 0.17
+        },
+        {
+          "word": "ta",
+          "start": 1.06,
+          "end": 1.38,
+          "probability": 0.49
+        },
+        {
+          "word": "sẽ",
+          "start": 1.38,
+          "end": 1.38,
+          "probability": 0.13
+        },
+        {
+          "word": "đứng",
+          "start": 1.38,
+          "end": 1.38,
+          "probability": 0.03
+        },
+        {
+          "word": "chứ?",
+          "start": 1.38,
+          "end": 1.38,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.38,
+      "end": 2.36,
+      "text": "Chúng ta sẽ đứng chứ?",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 1.38,
+          "end": 1.58,
+          "probability": 0.51
+        },
+        {
+          "word": "ta",
+          "start": 1.58,
+          "end": 1.58,
+          "probability": 0.98
+        },
+        {
+          "word": "sẽ",
+          "start": 1.58,
+          "end": 2.2,
+          "probability": 0.75
+        },
+        {
+          "word": "đứng",
+          "start": 2.2,
+          "end": 2.2,
+          "probability": 0.84
+        },
+        {
+          "word": "chứ?",
+          "start": 2.2,
+          "end": 2.36,
+          "probability": 0.89
+        }
+      ]
+    }
+  ]
+}

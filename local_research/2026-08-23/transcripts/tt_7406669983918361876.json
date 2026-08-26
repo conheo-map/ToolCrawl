@@ -1,0 +1,84 @@
+{
+  "item_id": "tt_7406669983918361876",
+  "duration_seconds": 15.06,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 11,
+  "text": "Tụi tìm đúng thì có mềm nơi đáp cánh cho tây.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.14,
+      "text": "Tụi tìm đúng thì có mềm nơi đáp cánh cho tây.",
+      "words": [
+        {
+          "word": "Tụi",
+          "start": 0.0,
+          "end": 0.98,
+          "probability": 0.36
+        },
+        {
+          "word": "tìm",
+          "start": 0.98,
+          "end": 4.9,
+          "probability": 0.41
+        },
+        {
+          "word": "đúng",
+          "start": 4.9,
+          "end": 5.14,
+          "probability": 0.46
+        },
+        {
+          "word": "thì",
+          "start": 5.14,
+          "end": 5.42,
+          "probability": 0.58
+        },
+        {
+          "word": "có",
+          "start": 5.42,
+          "end": 5.6,
+          "probability": 0.67
+        },
+        {
+          "word": "mềm",
+          "start": 5.6,
+          "end": 5.92,
+          "probability": 0.58
+        },
+        {
+          "word": "nơi",
+          "start": 5.92,
+          "end": 6.08,
+          "probability": 0.29
+        },
+        {
+          "word": "đáp",
+          "start": 6.08,
+          "end": 6.28,
+          "probability": 0.57
+        },
+        {
+          "word": "cánh",
+          "start": 6.28,
+          "end": 6.62,
+          "probability": 0.26
+        },
+        {
+          "word": "cho",
+          "start": 6.62,
+          "end": 6.76,
+          "probability": 0.6
+        },
+        {
+          "word": "tây.",
+          "start": 6.76,
+          "end": 7.14,
+          "probability": 0.17
+        }
+      ]
+    }
+  ]
+}

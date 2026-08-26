@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7505969428702432530",
+  "duration_seconds": 59.26,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Xin chào tất cả!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.01,
+      "end": 1.79,
+      "text": "Xin chào tất cả!",
+      "words": [
+        {
+          "word": "Xin",
+          "start": 1.01,
+          "end": 1.63,
+          "probability": 0.01
+        },
+        {
+          "word": "chào",
+          "start": 1.63,
+          "end": 1.63,
+          "probability": 0.42
+        },
+        {
+          "word": "tất",
+          "start": 1.63,
+          "end": 1.79,
+          "probability": 0.14
+        },
+        {
+          "word": "cả!",
+          "start": 1.79,
+          "end": 1.79,
+          "probability": 0.88
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "item_id": "tt_7458135454244719873",
+  "duration_seconds": 58.75,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 34,
+  "text": "anh đây gì đâu em em đoôi bàn tay tôi mất luôn khi bông cắt không luôn mất bảo dân trơn tuổi trụ tôi well rồi tôi đôi đôi đôi tôi đôi đôi đôi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.88,
+      "end": 4.44,
+      "text": "anh đây gì đâu",
+      "words": [
+        {
+          "word": "anh",
+          "start": 1.88,
+          "end": 3.0,
+          "probability": 0.01
+        },
+        {
+          "word": "đây",
+          "start": 3.0,
+          "end": 3.54,
+          "probability": 0.05
+        },
+        {
+          "word": "gì",
+          "start": 3.54,
+          "end": 4.06,
+          "probability": 0.51
+        },
+        {
+          "word": "đâu",
+          "start": 4.06,
+          "end": 4.44,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.44,
+      "end": 7.3,
+      "text": "em em đoôi bàn tay",
+      "words": [
+        {
+          "word": "em",
+          "start": 4.44,
+          "end": 5.38,
+          "probability": 0.06
+        },
+        {
+          "word": "em",
+          "start": 5.38,
+          "end": 5.56,
+          "probability": 0.11
+        },
+        {
+          "word": "đoôi",
+          "start": 5.56,
+          "end": 6.24,
+          "probability": 0.07
+        },
+        {
+          "word": "bàn",
+          "start": 6.24,
+          "end": 6.7,
+          "probability": 0.2
+        },
+        {
+          "word": "tay",
+          "start": 6.7,
+          "end": 7.3,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.3,
+      "end": 11.46,
+      "text": "tôi mất luôn khi bông cắt không luôn",
+      "words": [
+        {
+          "word": "tôi",
+          "start": 7.3,
+          "end": 8.2,
+          "probability": 0.02
+        },
+        {
+          "word": "mất",
+          "start": 8.2,
+          "end": 8.78,
+          "probability": 0.24
+        },
+        {
+          "word": "luôn",
+          "start": 8.78,
+          "end": 9.26,
+          "probability": 0.36
+        },
+        {
+          "word": "khi",
+          "start": 9.26,
+          "end": 9.7,
+          "probability": 0.11
+        },
+        {
+          "word": "bông",
+          "start": 9.7,
+          "end": 10.08,
+          "probability": 0.45
+        },
+        {
+          "word": "cắt",
+          "start": 10.08,
+          "end": 10.58,
+          "probability": 0.41
+        },
+        {
+          "word": "không",
+          "start": 10.58,
+          "end": 11.04,
+          "probability": 0.38
+        },
+        {
+          "word": "luôn",
+          "start": 11.04,
+          "end": 11.46,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.46,
+      "end": 13.62,
+      "text": "mất bảo dân trơn",
+      "words": [
+        {
+          "word": "mất",
+          "start": 11.46,
+          "end": 12.02,
+          "probability": 0.21
+        },
+        {
+          "word": "bảo",
+          "start": 12.02,
+          "end": 12.62,
+          "probability": 0.09
+        },
+        {
+          "word": "dân",
+          "start": 12.62,
+          "end": 13.02,
+          "probability": 0.45
+        },
+        {
+          "word": "trơn",
+          "start": 13.02,
+          "end": 13.62,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.3,
+      "end": 16.32,
+      "text": "tuổi trụ",
+      "words": [
+        {
+          "word": "tuổi",
+          "start": 14.3,
+          "end": 15.76,
+          "probability": 0.02
+        },
+        {
+          "word": "trụ",
+          "start": 15.76,
+          "end": 16.32,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 16.5,
+      "end": 16.58,
+      "text": "tôi well",
+      "words": [
+        {
+          "word": "tôi",
+          "start": 16.5,
+          "end": 16.5,
+          "probability": 0.01
+        },
+        {
+          "word": "well",
+          "start": 16.5,
+          "end": 16.58,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 19.62,
+      "end": 22.62,
+      "text": "rồi tôi đôi đôi đôi",
+      "words": [
+        {
+          "word": "rồi",
+          "start": 19.62,
+          "end": 20.74,
+          "probability": 0.06
+        },
+        {
+          "word": "tôi",
+          "start": 20.74,
+          "end": 21.86,
+          "probability": 0.05
+        },
+        {
+          "word": "đôi",
+          "start": 21.86,
+          "end": 21.86,
+          "probability": 0.11
+        },
+        {
+          "word": "đôi",
+          "start": 21.86,
+          "end": 21.9,
+          "probability": 0.41
+        },
+        {
+          "word": "đôi",
+          "start": 21.9,
+          "end": 22.62,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 28.66,
+      "end": 29.78,
+      "text": "tôi đôi đôi đôi",
+      "words": [
+        {
+          "word": "tôi",
+          "start": 28.66,
+          "end": 29.78,
+          "probability": 0.41
+        },
+        {
+          "word": "đôi",
+          "start": 29.78,
+          "end": 29.78,
+          "probability": 0.54
+        },
+        {
+          "word": "đôi",
+          "start": 29.78,
+          "end": 29.78,
+          "probability": 0.66
+        },
+        {
+          "word": "đôi",
+          "start": 29.78,
+          "end": 29.78,
+          "probability": 0.67
+        }
+      ]
+    }
+  ]
+}

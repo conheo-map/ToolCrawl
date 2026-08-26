@@ -1,0 +1,186 @@
+{
+  "item_id": "tt_7467807948870257938",
+  "duration_seconds": 228.46,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 20,
+  "text": "XÒ music Mời cái World Mời cái World Mời cái World Muốn lại lại nächsten Mời cái World Sao Nam",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.36,
+      "end": 2.84,
+      "text": "XÒ music",
+      "words": [
+        {
+          "word": "XÒ",
+          "start": 1.36,
+          "end": 2.04,
+          "probability": 0.02
+        },
+        {
+          "word": "music",
+          "start": 2.04,
+          "end": 2.84,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.84,
+      "end": 3.48,
+      "text": "Mời cái World",
+      "words": [
+        {
+          "word": "Mời",
+          "start": 2.84,
+          "end": 2.92,
+          "probability": 0.0
+        },
+        {
+          "word": "cái",
+          "start": 2.92,
+          "end": 3.24,
+          "probability": 0.02
+        },
+        {
+          "word": "World",
+          "start": 3.24,
+          "end": 3.48,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.48,
+      "end": 4.08,
+      "text": "Mời cái World",
+      "words": [
+        {
+          "word": "Mời",
+          "start": 3.48,
+          "end": 3.7,
+          "probability": 0.37
+        },
+        {
+          "word": "cái",
+          "start": 3.7,
+          "end": 3.7,
+          "probability": 0.86
+        },
+        {
+          "word": "World",
+          "start": 3.7,
+          "end": 4.08,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.94,
+      "end": 12.31,
+      "text": "Mời cái World",
+      "words": [
+        {
+          "word": "Mời",
+          "start": 5.94,
+          "end": 7.18,
+          "probability": 0.84
+        },
+        {
+          "word": "cái",
+          "start": 7.18,
+          "end": 7.18,
+          "probability": 0.92
+        },
+        {
+          "word": "World",
+          "start": 8.71,
+          "end": 12.31,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.31,
+      "end": 15.73,
+      "text": "Muốn lại lại nächsten",
+      "words": [
+        {
+          "word": "Muốn",
+          "start": 12.31,
+          "end": 13.25,
+          "probability": 0.06
+        },
+        {
+          "word": "lại",
+          "start": 13.25,
+          "end": 15.23,
+          "probability": 0.0
+        },
+        {
+          "word": "lại",
+          "start": 15.23,
+          "end": 15.23,
+          "probability": 0.0
+        },
+        {
+          "word": "nächsten",
+          "start": 15.23,
+          "end": 15.73,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.73,
+      "end": 17.29,
+      "text": "Mời cái World",
+      "words": [
+        {
+          "word": "Mời",
+          "start": 15.73,
+          "end": 16.33,
+          "probability": 0.26
+        },
+        {
+          "word": "cái",
+          "start": 16.33,
+          "end": 16.93,
+          "probability": 0.75
+        },
+        {
+          "word": "World",
+          "start": 16.93,
+          "end": 17.29,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 17.29,
+      "end": 18.09,
+      "text": "Sao Nam",
+      "words": [
+        {
+          "word": "Sao",
+          "start": 17.29,
+          "end": 17.43,
+          "probability": 0.25
+        },
+        {
+          "word": "Nam",
+          "start": 17.43,
+          "end": 18.09,
+          "probability": 0.01
+        }
+      ]
+    }
+  ]
+}

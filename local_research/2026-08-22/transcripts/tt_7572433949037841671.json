@@ -1,0 +1,528 @@
+{
+  "item_id": "tt_7572433949037841671",
+  "duration_seconds": 205.93,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 65,
+  "text": "Chúng ta có nhá bị sắp nhá Sẽ lúc này là Bây giờ, đúng không? Bỏ cái nhau Chúng ta có nhá, đúng không? Chúng ta có nhá, đúng không? Chúng ta có nhá, đúng không? Hãy hậm tìm, hậm tìm. Hãy hậm tìm. Hãy hậm tìm. Hãy hậm tìm. Hãy hậm tìm. Hãy hậm tìm. Hãy hậm tìm. Hãy hậm tìm. Hãy hậm tìm.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 109.55,
+      "end": 112.13,
+      "text": "Chúng ta có nhá bị sắp nhá",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 109.55,
+          "end": 109.67,
+          "probability": 0.17
+        },
+        {
+          "word": "ta",
+          "start": 109.67,
+          "end": 109.67,
+          "probability": 0.52
+        },
+        {
+          "word": "có",
+          "start": 109.67,
+          "end": 109.67,
+          "probability": 0.1
+        },
+        {
+          "word": "nhá",
+          "start": 109.67,
+          "end": 110.09,
+          "probability": 0.07
+        },
+        {
+          "word": "bị",
+          "start": 110.09,
+          "end": 111.39,
+          "probability": 0.23
+        },
+        {
+          "word": "sắp",
+          "start": 111.39,
+          "end": 111.79,
+          "probability": 0.43
+        },
+        {
+          "word": "nhá",
+          "start": 111.79,
+          "end": 112.13,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 112.13,
+      "end": 114.25,
+      "text": "Sẽ lúc này là",
+      "words": [
+        {
+          "word": "Sẽ",
+          "start": 112.13,
+          "end": 112.61,
+          "probability": 0.11
+        },
+        {
+          "word": "lúc",
+          "start": 112.61,
+          "end": 112.85,
+          "probability": 0.14
+        },
+        {
+          "word": "này",
+          "start": 112.85,
+          "end": 113.03,
+          "probability": 0.16
+        },
+        {
+          "word": "là",
+          "start": 113.03,
+          "end": 114.25,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 114.25,
+      "end": 116.97,
+      "text": "Bây giờ, đúng không?",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 114.25,
+          "end": 115.21,
+          "probability": 0.14
+        },
+        {
+          "word": "giờ,",
+          "start": 115.21,
+          "end": 115.21,
+          "probability": 0.84
+        },
+        {
+          "word": "đúng",
+          "start": 115.47,
+          "end": 116.97,
+          "probability": 0.06
+        },
+        {
+          "word": "không?",
+          "start": 116.97,
+          "end": 116.97,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 116.97,
+      "end": 118.67,
+      "text": "Bỏ cái nhau",
+      "words": [
+        {
+          "word": "Bỏ",
+          "start": 116.97,
+          "end": 117.21,
+          "probability": 0.11
+        },
+        {
+          "word": "cái",
+          "start": 117.21,
+          "end": 118.39,
+          "probability": 0.05
+        },
+        {
+          "word": "nhau",
+          "start": 118.39,
+          "end": 118.67,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 119.55,
+      "end": 121.79,
+      "text": "Chúng ta có nhá, đúng không?",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 119.55,
+          "end": 119.91,
+          "probability": 0.23
+        },
+        {
+          "word": "ta",
+          "start": 119.91,
+          "end": 120.01,
+          "probability": 0.9
+        },
+        {
+          "word": "có",
+          "start": 120.01,
+          "end": 120.09,
+          "probability": 0.28
+        },
+        {
+          "word": "nhá,",
+          "start": 120.09,
+          "end": 120.09,
+          "probability": 0.72
+        },
+        {
+          "word": "đúng",
+          "start": 120.21,
+          "end": 120.23,
+          "probability": 0.51
+        },
+        {
+          "word": "không?",
+          "start": 120.23,
+          "end": 121.79,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 122.07,
+      "end": 124.59,
+      "text": "Chúng ta có nhá, đúng không?",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 122.07,
+          "end": 122.33,
+          "probability": 0.48
+        },
+        {
+          "word": "ta",
+          "start": 122.33,
+          "end": 122.37,
+          "probability": 0.97
+        },
+        {
+          "word": "có",
+          "start": 122.37,
+          "end": 124.05,
+          "probability": 0.6
+        },
+        {
+          "word": "nhá,",
+          "start": 124.05,
+          "end": 124.05,
+          "probability": 0.84
+        },
+        {
+          "word": "đúng",
+          "start": 124.05,
+          "end": 124.05,
+          "probability": 0.9
+        },
+        {
+          "word": "không?",
+          "start": 124.05,
+          "end": 124.59,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 124.63,
+      "end": 124.69,
+      "text": "Chúng ta có nhá, đúng không?",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 124.63,
+          "end": 124.69,
+          "probability": 0.52
+        },
+        {
+          "word": "ta",
+          "start": 124.69,
+          "end": 124.69,
+          "probability": 0.99
+        },
+        {
+          "word": "có",
+          "start": 124.69,
+          "end": 124.69,
+          "probability": 0.9
+        },
+        {
+          "word": "nhá,",
+          "start": 124.69,
+          "end": 124.69,
+          "probability": 0.88
+        },
+        {
+          "word": "đúng",
+          "start": 124.69,
+          "end": 124.69,
+          "probability": 0.95
+        },
+        {
+          "word": "không?",
+          "start": 124.69,
+          "end": 124.69,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 124.71,
+      "end": 132.2,
+      "text": "Hãy hậm tìm, hậm tìm.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 124.71,
+          "end": 125.39,
+          "probability": 0.17
+        },
+        {
+          "word": "hậm",
+          "start": 125.39,
+          "end": 127.41,
+          "probability": 0.26
+        },
+        {
+          "word": "tìm,",
+          "start": 127.41,
+          "end": 127.79,
+          "probability": 0.37
+        },
+        {
+          "word": "hậm",
+          "start": 128.27,
+          "end": 128.33,
+          "probability": 0.5
+        },
+        {
+          "word": "tìm.",
+          "start": 132.2,
+          "end": 132.2,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 132.44,
+      "end": 132.82,
+      "text": "Hãy hậm tìm.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 132.44,
+          "end": 132.82,
+          "probability": 0.46
+        },
+        {
+          "word": "hậm",
+          "start": 132.82,
+          "end": 132.82,
+          "probability": 0.97
+        },
+        {
+          "word": "tìm.",
+          "start": 132.82,
+          "end": 132.82,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 133.04,
+      "end": 134.08,
+      "text": "Hãy hậm tìm.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 133.04,
+          "end": 133.48,
+          "probability": 0.52
+        },
+        {
+          "word": "hậm",
+          "start": 133.48,
+          "end": 133.48,
+          "probability": 0.96
+        },
+        {
+          "word": "tìm.",
+          "start": 133.48,
+          "end": 134.08,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 146.05,
+      "end": 147.55,
+      "text": "Hãy hậm tìm.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 146.05,
+          "end": 146.31,
+          "probability": 0.6
+        },
+        {
+          "word": "hậm",
+          "start": 146.31,
+          "end": 146.57,
+          "probability": 0.95
+        },
+        {
+          "word": "tìm.",
+          "start": 146.57,
+          "end": 147.55,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 147.77,
+      "end": 153.27,
+      "text": "Hãy hậm tìm.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 147.77,
+          "end": 148.11,
+          "probability": 0.66
+        },
+        {
+          "word": "hậm",
+          "start": 148.11,
+          "end": 151.19,
+          "probability": 0.96
+        },
+        {
+          "word": "tìm.",
+          "start": 153.27,
+          "end": 153.27,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 153.27,
+      "end": 156.21,
+      "text": "Hãy hậm tìm.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 153.27,
+          "end": 153.63,
+          "probability": 0.12
+        },
+        {
+          "word": "hậm",
+          "start": 153.63,
+          "end": 153.97,
+          "probability": 0.03
+        },
+        {
+          "word": "tìm.",
+          "start": 156.05,
+          "end": 156.21,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 156.21,
+      "end": 157.37,
+      "text": "Hãy hậm tìm.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 156.21,
+          "end": 156.47,
+          "probability": 0.45
+        },
+        {
+          "word": "hậm",
+          "start": 156.47,
+          "end": 157.37,
+          "probability": 0.76
+        },
+        {
+          "word": "tìm.",
+          "start": 157.37,
+          "end": 157.37,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 158.03,
+      "end": 158.63,
+      "text": "Hãy hậm tìm.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 158.03,
+          "end": 158.55,
+          "probability": 0.59
+        },
+        {
+          "word": "hậm",
+          "start": 158.55,
+          "end": 158.55,
+          "probability": 0.82
+        },
+        {
+          "word": "tìm.",
+          "start": 158.55,
+          "end": 158.63,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 159.19,
+      "end": 159.79,
+      "text": "Hãy hậm tìm.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 159.19,
+          "end": 159.19,
+          "probability": 0.71
+        },
+        {
+          "word": "hậm",
+          "start": 159.19,
+          "end": 159.19,
+          "probability": 0.88
+        },
+        {
+          "word": "tìm.",
+          "start": 159.19,
+          "end": 159.79,
+          "probability": 0.97
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "item_id": "tt_7591040599394962706",
+  "duration_seconds": 26.02,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 20,
+  "text": "Mình sẽ đi qua. A lý phố sẽ prend cho anh bây giờ, anh ta nghĩ ở đâu, cho VW.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 4.16,
+      "end": 5.5,
+      "text": "Mình sẽ đi qua.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 4.16,
+          "end": 4.64,
+          "probability": 0.16
+        },
+        {
+          "word": "sẽ",
+          "start": 4.64,
+          "end": 4.8,
+          "probability": 0.14
+        },
+        {
+          "word": "đi",
+          "start": 4.8,
+          "end": 5.1,
+          "probability": 0.06
+        },
+        {
+          "word": "qua.",
+          "start": 5.1,
+          "end": 5.5,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 21.66,
+      "end": 25.26,
+      "text": "A lý phố sẽ prend cho anh bây giờ, anh ta nghĩ ở đâu, cho VW.",
+      "words": [
+        {
+          "word": "A",
+          "start": 21.66,
+          "end": 21.9,
+          "probability": 0.03
+        },
+        {
+          "word": "lý",
+          "start": 21.9,
+          "end": 22.08,
+          "probability": 0.43
+        },
+        {
+          "word": "phố",
+          "start": 22.08,
+          "end": 22.26,
+          "probability": 0.15
+        },
+        {
+          "word": "sẽ",
+          "start": 22.26,
+          "end": 22.48,
+          "probability": 0.73
+        },
+        {
+          "word": "prend",
+          "start": 22.48,
+          "end": 22.76,
+          "probability": 0.3
+        },
+        {
+          "word": "cho",
+          "start": 22.76,
+          "end": 22.92,
+          "probability": 0.13
+        },
+        {
+          "word": "anh",
+          "start": 22.92,
+          "end": 23.2,
+          "probability": 0.18
+        },
+        {
+          "word": "bây",
+          "start": 23.2,
+          "end": 23.38,
+          "probability": 0.18
+        },
+        {
+          "word": "giờ,",
+          "start": 23.38,
+          "end": 23.48,
+          "probability": 0.59
+        },
+        {
+          "word": "anh",
+          "start": 23.68,
+          "end": 23.68,
+          "probability": 0.06
+        },
+        {
+          "word": "ta",
+          "start": 23.68,
+          "end": 23.88,
+          "probability": 0.14
+        },
+        {
+          "word": "nghĩ",
+          "start": 23.88,
+          "end": 24.12,
+          "probability": 0.15
+        },
+        {
+          "word": "ở",
+          "start": 24.12,
+          "end": 24.38,
+          "probability": 0.17
+        },
+        {
+          "word": "đâu,",
+          "start": 24.38,
+          "end": 24.62,
+          "probability": 0.51
+        },
+        {
+          "word": "cho",
+          "start": 24.7,
+          "end": 24.88,
+          "probability": 0.07
+        },
+        {
+          "word": "VW.",
+          "start": 24.88,
+          "end": 25.26,
+          "probability": 0.08
+        }
+      ]
+    }
+  ]
+}

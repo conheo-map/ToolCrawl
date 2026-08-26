@@ -1,0 +1,142 @@
+{
+  "item_id": "tt_7560251668118490375",
+  "duration_seconds": 57.57,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 18,
+  "text": "Thằng một người địt Tuyên anh vào người coi cho xin Thằng một người coi cho trên đừng",
+  "segments": [
+    {
+      "id": 1,
+      "start": 5.09,
+      "end": 5.53,
+      "text": "Thằng một người địt",
+      "words": [
+        {
+          "word": "Thằng",
+          "start": 5.09,
+          "end": 5.53,
+          "probability": 0.05
+        },
+        {
+          "word": "một",
+          "start": 5.53,
+          "end": 5.53,
+          "probability": 0.01
+        },
+        {
+          "word": "người",
+          "start": 5.53,
+          "end": 5.53,
+          "probability": 0.05
+        },
+        {
+          "word": "địt",
+          "start": 5.53,
+          "end": 5.53,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.53,
+      "end": 6.45,
+      "text": "Tuyên anh vào người coi cho xin",
+      "words": [
+        {
+          "word": "Tuyên",
+          "start": 5.53,
+          "end": 5.53,
+          "probability": 0.05
+        },
+        {
+          "word": "anh",
+          "start": 5.53,
+          "end": 5.53,
+          "probability": 0.01
+        },
+        {
+          "word": "vào",
+          "start": 5.53,
+          "end": 5.65,
+          "probability": 0.01
+        },
+        {
+          "word": "người",
+          "start": 5.65,
+          "end": 5.85,
+          "probability": 0.05
+        },
+        {
+          "word": "coi",
+          "start": 5.85,
+          "end": 5.95,
+          "probability": 0.36
+        },
+        {
+          "word": "cho",
+          "start": 5.95,
+          "end": 6.05,
+          "probability": 0.05
+        },
+        {
+          "word": "xin",
+          "start": 6.05,
+          "end": 6.45,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.87,
+      "end": 27.15,
+      "text": "Thằng một người coi cho trên đừng",
+      "words": [
+        {
+          "word": "Thằng",
+          "start": 13.87,
+          "end": 14.47,
+          "probability": 0.39
+        },
+        {
+          "word": "một",
+          "start": 25.99,
+          "end": 26.63,
+          "probability": 0.12
+        },
+        {
+          "word": "người",
+          "start": 26.63,
+          "end": 26.63,
+          "probability": 0.89
+        },
+        {
+          "word": "coi",
+          "start": 26.63,
+          "end": 26.63,
+          "probability": 0.68
+        },
+        {
+          "word": "cho",
+          "start": 26.63,
+          "end": 26.85,
+          "probability": 0.27
+        },
+        {
+          "word": "trên",
+          "start": 26.85,
+          "end": 26.93,
+          "probability": 0.01
+        },
+        {
+          "word": "đừng",
+          "start": 26.93,
+          "end": 27.15,
+          "probability": 0.08
+        }
+      ]
+    }
+  ]
+}

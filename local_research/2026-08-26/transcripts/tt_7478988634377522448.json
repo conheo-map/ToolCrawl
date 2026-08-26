@@ -1,0 +1,110 @@
+{
+  "item_id": "tt_7478988634377522448",
+  "duration_seconds": 80.61,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 14,
+  "text": "Dạy đông, nhọc nhận lắm chưa Nếu mình gái vậy, giải thấp, phúc gái",
+  "segments": [
+    {
+      "id": 1,
+      "start": 74.74,
+      "end": 77.04,
+      "text": "Dạy đông, nhọc nhận lắm chưa",
+      "words": [
+        {
+          "word": "Dạy",
+          "start": 74.74,
+          "end": 75.32,
+          "probability": 0.28
+        },
+        {
+          "word": "đông,",
+          "start": 75.32,
+          "end": 75.56,
+          "probability": 0.34
+        },
+        {
+          "word": "nhọc",
+          "start": 75.78,
+          "end": 76.06,
+          "probability": 0.3
+        },
+        {
+          "word": "nhận",
+          "start": 76.06,
+          "end": 76.2,
+          "probability": 0.38
+        },
+        {
+          "word": "lắm",
+          "start": 76.2,
+          "end": 76.52,
+          "probability": 0.79
+        },
+        {
+          "word": "chưa",
+          "start": 76.52,
+          "end": 77.04,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 77.04,
+      "end": 79.64,
+      "text": "Nếu mình gái vậy, giải thấp, phúc gái",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 77.04,
+          "end": 77.34,
+          "probability": 0.05
+        },
+        {
+          "word": "mình",
+          "start": 77.34,
+          "end": 77.5,
+          "probability": 0.14
+        },
+        {
+          "word": "gái",
+          "start": 77.5,
+          "end": 77.72,
+          "probability": 0.47
+        },
+        {
+          "word": "vậy,",
+          "start": 77.72,
+          "end": 78.22,
+          "probability": 0.11
+        },
+        {
+          "word": "giải",
+          "start": 78.22,
+          "end": 78.4,
+          "probability": 0.17
+        },
+        {
+          "word": "thấp,",
+          "start": 78.4,
+          "end": 78.8,
+          "probability": 0.33
+        },
+        {
+          "word": "phúc",
+          "start": 78.96,
+          "end": 79.32,
+          "probability": 0.47
+        },
+        {
+          "word": "gái",
+          "start": 79.32,
+          "end": 79.64,
+          "probability": 0.77
+        }
+      ]
+    }
+  ]
+}

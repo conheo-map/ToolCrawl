@@ -1,0 +1,104 @@
+{
+  "item_id": "tt_7543963700965707024",
+  "duration_seconds": 29.7,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 13,
+  "text": "Mình tìm thì tìm thì tìm thì tìm, tìm. Mình tìm thì tìm...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.4,
+      "end": 2.21,
+      "text": "Mình tìm thì tìm thì tìm thì tìm, tìm.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.4,
+          "end": 0.4,
+          "probability": 0.16
+        },
+        {
+          "word": "tìm",
+          "start": 0.4,
+          "end": 1.04,
+          "probability": 0.36
+        },
+        {
+          "word": "thì",
+          "start": 1.04,
+          "end": 1.72,
+          "probability": 0.0
+        },
+        {
+          "word": "tìm",
+          "start": 1.72,
+          "end": 1.72,
+          "probability": 0.55
+        },
+        {
+          "word": "thì",
+          "start": 1.72,
+          "end": 1.72,
+          "probability": 0.06
+        },
+        {
+          "word": "tìm",
+          "start": 1.72,
+          "end": 1.72,
+          "probability": 0.77
+        },
+        {
+          "word": "thì",
+          "start": 1.72,
+          "end": 1.72,
+          "probability": 0.31
+        },
+        {
+          "word": "tìm,",
+          "start": 1.72,
+          "end": 1.72,
+          "probability": 0.91
+        },
+        {
+          "word": "tìm.",
+          "start": 1.72,
+          "end": 2.21,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.48,
+      "end": 3.22,
+      "text": "Mình tìm thì tìm...",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 2.48,
+          "end": 2.82,
+          "probability": 0.52
+        },
+        {
+          "word": "tìm",
+          "start": 2.82,
+          "end": 2.82,
+          "probability": 0.95
+        },
+        {
+          "word": "thì",
+          "start": 2.82,
+          "end": 2.94,
+          "probability": 0.35
+        },
+        {
+          "word": "tìm...",
+          "start": 2.94,
+          "end": 3.22,
+          "probability": 0.75
+        }
+      ]
+    }
+  ]
+}

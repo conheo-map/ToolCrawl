@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7486766243685453073",
+  "duration_seconds": 51.14,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Oh my god!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.43,
+      "end": 2.01,
+      "text": "Oh my god!",
+      "words": [
+        {
+          "word": "Oh",
+          "start": 0.43,
+          "end": 1.11,
+          "probability": 0.08
+        },
+        {
+          "word": "my",
+          "start": 1.11,
+          "end": 1.43,
+          "probability": 0.73
+        },
+        {
+          "word": "god!",
+          "start": 1.43,
+          "end": 2.01,
+          "probability": 0.64
+        }
+      ]
+    }
+  ]
+}

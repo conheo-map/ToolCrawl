@@ -1,0 +1,78 @@
+{
+  "item_id": "tt_7515348410665372935",
+  "duration_seconds": 66.13,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 10,
+  "text": "là em là em cảm nhận được đưa bình xe.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 60.0,
+      "end": 62.6,
+      "text": "là em là em cảm nhận được đưa bình xe.",
+      "words": [
+        {
+          "word": "là",
+          "start": 60.0,
+          "end": 60.28,
+          "probability": 0.07
+        },
+        {
+          "word": "em",
+          "start": 60.28,
+          "end": 60.64,
+          "probability": 0.05
+        },
+        {
+          "word": "là",
+          "start": 60.64,
+          "end": 60.88,
+          "probability": 0.29
+        },
+        {
+          "word": "em",
+          "start": 60.88,
+          "end": 60.9,
+          "probability": 0.48
+        },
+        {
+          "word": "cảm",
+          "start": 60.9,
+          "end": 61.32,
+          "probability": 0.22
+        },
+        {
+          "word": "nhận",
+          "start": 61.32,
+          "end": 61.56,
+          "probability": 0.5
+        },
+        {
+          "word": "được",
+          "start": 61.56,
+          "end": 61.8,
+          "probability": 0.16
+        },
+        {
+          "word": "đưa",
+          "start": 61.8,
+          "end": 61.98,
+          "probability": 0.22
+        },
+        {
+          "word": "bình",
+          "start": 61.98,
+          "end": 62.18,
+          "probability": 0.09
+        },
+        {
+          "word": "xe.",
+          "start": 62.18,
+          "end": 62.6,
+          "probability": 0.21
+        }
+      ]
+    }
+  ]
+}

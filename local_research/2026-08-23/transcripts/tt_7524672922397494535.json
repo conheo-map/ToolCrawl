@@ -1,0 +1,122 @@
+{
+  "item_id": "tt_7524672922397494535",
+  "duration_seconds": 19.8,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "Chuyện gì? Chuyện gì? Ừ, mà? Nhiều đã có gì? Nhiều đã.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.64,
+      "end": 3.32,
+      "text": "Chuyện gì?",
+      "words": [
+        {
+          "word": "Chuyện",
+          "start": 2.64,
+          "end": 3.06,
+          "probability": 0.17
+        },
+        {
+          "word": "gì?",
+          "start": 3.06,
+          "end": 3.32,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.32,
+      "end": 3.52,
+      "text": "Chuyện gì?",
+      "words": [
+        {
+          "word": "Chuyện",
+          "start": 3.32,
+          "end": 3.32,
+          "probability": 0.7
+        },
+        {
+          "word": "gì?",
+          "start": 3.32,
+          "end": 3.52,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.94,
+      "end": 4.32,
+      "text": "Ừ, mà?",
+      "words": [
+        {
+          "word": "Ừ,",
+          "start": 3.94,
+          "end": 3.94,
+          "probability": 0.23
+        },
+        {
+          "word": "mà?",
+          "start": 4.32,
+          "end": 4.32,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.4,
+      "end": 5.06,
+      "text": "Nhiều đã có gì?",
+      "words": [
+        {
+          "word": "Nhiều",
+          "start": 4.4,
+          "end": 4.64,
+          "probability": 0.17
+        },
+        {
+          "word": "đã",
+          "start": 4.64,
+          "end": 4.78,
+          "probability": 0.06
+        },
+        {
+          "word": "có",
+          "start": 4.78,
+          "end": 4.94,
+          "probability": 0.09
+        },
+        {
+          "word": "gì?",
+          "start": 4.94,
+          "end": 5.06,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 5.28,
+      "end": 5.68,
+      "text": "Nhiều đã.",
+      "words": [
+        {
+          "word": "Nhiều",
+          "start": 5.28,
+          "end": 5.54,
+          "probability": 0.72
+        },
+        {
+          "word": "đã.",
+          "start": 5.54,
+          "end": 5.68,
+          "probability": 0.9
+        }
+      ]
+    }
+  ]
+}

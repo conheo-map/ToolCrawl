@@ -1,0 +1,408 @@
+{
+  "item_id": "tt_7483445707257564433",
+  "duration_seconds": 86.31,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 61,
+  "text": "thật hại khi thí hoạt qua kiếm vàng đường dưới ở dưới đúng là hỏi chân thật Cái gì ở đây cái năm ngoại thì nó là sâu tá mà bây giờ nó là mưa rơi rồi thì chắc sắc là không? xuống thì rất khó có xuống thịt rất rất ít Nếu mà biết là xuống mình em sẽ chở",
+  "segments": [
+    {
+      "id": 1,
+      "start": 49.62,
+      "end": 54.52,
+      "text": "thật hại khi thí hoạt qua kiếm vàng đường dưới ở dưới đúng là hỏi chân thật",
+      "words": [
+        {
+          "word": "thật",
+          "start": 49.62,
+          "end": 49.7,
+          "probability": 0.08
+        },
+        {
+          "word": "hại",
+          "start": 49.7,
+          "end": 50.14,
+          "probability": 0.1
+        },
+        {
+          "word": "khi",
+          "start": 50.14,
+          "end": 50.8,
+          "probability": 0.02
+        },
+        {
+          "word": "thí",
+          "start": 50.8,
+          "end": 51.28,
+          "probability": 0.03
+        },
+        {
+          "word": "hoạt",
+          "start": 51.28,
+          "end": 51.4,
+          "probability": 0.09
+        },
+        {
+          "word": "qua",
+          "start": 51.4,
+          "end": 51.78,
+          "probability": 0.29
+        },
+        {
+          "word": "kiếm",
+          "start": 51.78,
+          "end": 52.02,
+          "probability": 0.52
+        },
+        {
+          "word": "vàng",
+          "start": 52.02,
+          "end": 52.4,
+          "probability": 0.3
+        },
+        {
+          "word": "đường",
+          "start": 52.4,
+          "end": 52.52,
+          "probability": 0.17
+        },
+        {
+          "word": "dưới",
+          "start": 52.52,
+          "end": 52.9,
+          "probability": 0.39
+        },
+        {
+          "word": "ở",
+          "start": 52.9,
+          "end": 52.9,
+          "probability": 0.0
+        },
+        {
+          "word": "dưới",
+          "start": 52.9,
+          "end": 53.12,
+          "probability": 0.61
+        },
+        {
+          "word": "đúng",
+          "start": 53.12,
+          "end": 53.28,
+          "probability": 0.32
+        },
+        {
+          "word": "là",
+          "start": 53.28,
+          "end": 53.44,
+          "probability": 0.08
+        },
+        {
+          "word": "hỏi",
+          "start": 53.44,
+          "end": 53.72,
+          "probability": 0.22
+        },
+        {
+          "word": "chân",
+          "start": 53.72,
+          "end": 53.9,
+          "probability": 0.5
+        },
+        {
+          "word": "thật",
+          "start": 53.9,
+          "end": 54.52,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 54.52,
+      "end": 60.52,
+      "text": "Cái gì ở đây cái năm ngoại thì nó là sâu tá mà bây giờ nó là mưa rơi rồi thì chắc sắc là không?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 54.52,
+          "end": 55.18,
+          "probability": 0.09
+        },
+        {
+          "word": "gì",
+          "start": 55.18,
+          "end": 55.3,
+          "probability": 0.17
+        },
+        {
+          "word": "ở",
+          "start": 55.3,
+          "end": 55.38,
+          "probability": 0.08
+        },
+        {
+          "word": "đây",
+          "start": 55.38,
+          "end": 55.5,
+          "probability": 0.29
+        },
+        {
+          "word": "cái",
+          "start": 55.5,
+          "end": 55.66,
+          "probability": 0.0
+        },
+        {
+          "word": "năm",
+          "start": 55.66,
+          "end": 55.68,
+          "probability": 0.19
+        },
+        {
+          "word": "ngoại",
+          "start": 55.68,
+          "end": 55.86,
+          "probability": 0.39
+        },
+        {
+          "word": "thì",
+          "start": 55.86,
+          "end": 56.02,
+          "probability": 0.61
+        },
+        {
+          "word": "nó",
+          "start": 56.02,
+          "end": 56.2,
+          "probability": 0.83
+        },
+        {
+          "word": "là",
+          "start": 56.2,
+          "end": 56.38,
+          "probability": 0.94
+        },
+        {
+          "word": "sâu",
+          "start": 56.38,
+          "end": 56.5,
+          "probability": 0.33
+        },
+        {
+          "word": "tá",
+          "start": 56.5,
+          "end": 56.66,
+          "probability": 0.25
+        },
+        {
+          "word": "mà",
+          "start": 56.66,
+          "end": 56.84,
+          "probability": 0.21
+        },
+        {
+          "word": "bây",
+          "start": 56.84,
+          "end": 56.98,
+          "probability": 0.77
+        },
+        {
+          "word": "giờ",
+          "start": 56.98,
+          "end": 57.12,
+          "probability": 0.99
+        },
+        {
+          "word": "nó",
+          "start": 57.12,
+          "end": 57.76,
+          "probability": 0.93
+        },
+        {
+          "word": "là",
+          "start": 57.76,
+          "end": 58.44,
+          "probability": 0.78
+        },
+        {
+          "word": "mưa",
+          "start": 58.44,
+          "end": 58.64,
+          "probability": 0.48
+        },
+        {
+          "word": "rơi",
+          "start": 58.64,
+          "end": 58.92,
+          "probability": 0.07
+        },
+        {
+          "word": "rồi",
+          "start": 58.92,
+          "end": 59.2,
+          "probability": 0.47
+        },
+        {
+          "word": "thì",
+          "start": 59.2,
+          "end": 59.36,
+          "probability": 0.49
+        },
+        {
+          "word": "chắc",
+          "start": 59.36,
+          "end": 59.52,
+          "probability": 0.72
+        },
+        {
+          "word": "sắc",
+          "start": 59.52,
+          "end": 59.7,
+          "probability": 0.22
+        },
+        {
+          "word": "là",
+          "start": 59.7,
+          "end": 60.0,
+          "probability": 0.92
+        },
+        {
+          "word": "không?",
+          "start": 60.0,
+          "end": 60.52,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 60.68,
+      "end": 63.1,
+      "text": "xuống thì rất khó có xuống thịt rất rất ít",
+      "words": [
+        {
+          "word": "xuống",
+          "start": 60.68,
+          "end": 60.76,
+          "probability": 0.6
+        },
+        {
+          "word": "thì",
+          "start": 60.76,
+          "end": 60.96,
+          "probability": 0.38
+        },
+        {
+          "word": "rất",
+          "start": 60.96,
+          "end": 61.18,
+          "probability": 0.89
+        },
+        {
+          "word": "khó",
+          "start": 61.18,
+          "end": 61.44,
+          "probability": 0.51
+        },
+        {
+          "word": "có",
+          "start": 61.44,
+          "end": 61.64,
+          "probability": 0.02
+        },
+        {
+          "word": "xuống",
+          "start": 61.64,
+          "end": 61.8,
+          "probability": 0.86
+        },
+        {
+          "word": "thịt",
+          "start": 61.8,
+          "end": 61.98,
+          "probability": 0.47
+        },
+        {
+          "word": "rất",
+          "start": 61.98,
+          "end": 62.32,
+          "probability": 0.08
+        },
+        {
+          "word": "rất",
+          "start": 62.32,
+          "end": 62.54,
+          "probability": 0.11
+        },
+        {
+          "word": "ít",
+          "start": 62.54,
+          "end": 63.1,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 63.1,
+      "end": 64.94,
+      "text": "Nếu mà biết là xuống mình em sẽ chở",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 63.1,
+          "end": 63.28,
+          "probability": 0.67
+        },
+        {
+          "word": "mà",
+          "start": 63.28,
+          "end": 63.4,
+          "probability": 0.6
+        },
+        {
+          "word": "biết",
+          "start": 63.4,
+          "end": 63.58,
+          "probability": 0.53
+        },
+        {
+          "word": "là",
+          "start": 63.58,
+          "end": 63.78,
+          "probability": 0.27
+        },
+        {
+          "word": "xuống",
+          "start": 63.78,
+          "end": 64.0,
+          "probability": 0.95
+        },
+        {
+          "word": "mình",
+          "start": 64.0,
+          "end": 64.18,
+          "probability": 0.02
+        },
+        {
+          "word": "em",
+          "start": 64.18,
+          "end": 64.32,
+          "probability": 0.78
+        },
+        {
+          "word": "sẽ",
+          "start": 64.32,
+          "end": 64.46,
+          "probability": 0.77
+        },
+        {
+          "word": "chở",
+          "start": 64.46,
+          "end": 64.94,
+          "probability": 0.35
+        }
+      ]
+    }
+  ]
+}

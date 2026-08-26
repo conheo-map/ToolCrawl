@@ -1,0 +1,86 @@
+{
+  "item_id": "tt_7447826906076007701",
+  "duration_seconds": 171.28,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 10,
+  "text": "Mình không thể nhìn bao nhiêu các thông. Cảm ơn.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.78,
+      "end": 3.76,
+      "text": "Mình không thể nhìn bao nhiêu các thông.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.78,
+          "end": 1.4,
+          "probability": 0.34
+        },
+        {
+          "word": "không",
+          "start": 1.4,
+          "end": 1.78,
+          "probability": 0.13
+        },
+        {
+          "word": "thể",
+          "start": 1.78,
+          "end": 2.04,
+          "probability": 0.1
+        },
+        {
+          "word": "nhìn",
+          "start": 2.04,
+          "end": 2.52,
+          "probability": 0.09
+        },
+        {
+          "word": "bao",
+          "start": 2.52,
+          "end": 2.56,
+          "probability": 0.0
+        },
+        {
+          "word": "nhiêu",
+          "start": 2.56,
+          "end": 3.0,
+          "probability": 0.57
+        },
+        {
+          "word": "các",
+          "start": 3.0,
+          "end": 3.26,
+          "probability": 0.0
+        },
+        {
+          "word": "thông.",
+          "start": 3.26,
+          "end": 3.76,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.84,
+      "end": 5.16,
+      "text": "Cảm ơn.",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 3.84,
+          "end": 4.72,
+          "probability": 0.38
+        },
+        {
+          "word": "ơn.",
+          "start": 4.72,
+          "end": 5.16,
+          "probability": 0.64
+        }
+      ]
+    }
+  ]
+}

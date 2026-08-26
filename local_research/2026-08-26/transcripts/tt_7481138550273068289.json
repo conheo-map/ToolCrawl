@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7481138550273068289",
+  "duration_seconds": 66.76,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Tìm anh, tìm anh",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.2,
+      "text": "Tìm anh, tìm anh",
+      "words": [
+        {
+          "word": "Tìm",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.34
+        },
+        {
+          "word": "anh,",
+          "start": 0.14,
+          "end": 0.42,
+          "probability": 0.07
+        },
+        {
+          "word": "tìm",
+          "start": 0.66,
+          "end": 0.96,
+          "probability": 0.59
+        },
+        {
+          "word": "anh",
+          "start": 0.96,
+          "end": 1.2,
+          "probability": 0.53
+        }
+      ]
+    }
+  ]
+}

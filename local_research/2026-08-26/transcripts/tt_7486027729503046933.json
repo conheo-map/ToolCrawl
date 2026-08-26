@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7486027729503046933",
+  "duration_seconds": 191.34,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "And then...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.48,
+      "text": "And then...",
+      "words": [
+        {
+          "word": "And",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.04
+        },
+        {
+          "word": "then...",
+          "start": 0.34,
+          "end": 1.48,
+          "probability": 0.28
+        }
+      ]
+    }
+  ]
+}

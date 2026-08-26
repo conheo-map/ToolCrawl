@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7514204572877950224",
+  "duration_seconds": 59.26,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Vào tất cả.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.57,
+      "end": 1.71,
+      "text": "Vào tất cả.",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 1.57,
+          "end": 1.69,
+          "probability": 0.12
+        },
+        {
+          "word": "tất",
+          "start": 1.69,
+          "end": 1.69,
+          "probability": 0.15
+        },
+        {
+          "word": "cả.",
+          "start": 1.69,
+          "end": 1.71,
+          "probability": 0.9
+        }
+      ]
+    }
+  ]
+}

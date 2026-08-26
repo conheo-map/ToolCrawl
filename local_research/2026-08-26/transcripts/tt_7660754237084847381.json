@@ -1,0 +1,424 @@
+{
+  "item_id": "tt_7660754237084847381",
+  "duration_seconds": 17.8,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 61,
+  "text": "Mình mất gấp em có theo hảm lớt của thấy riu khẩu Bỏ bịt không? Chứ còn nếu bây giờ mà mà hả cũng bịt thì nó đáp ngôn mơ này Quả cứ đi không thể bình không đừng thái rồi Quả cứ nha không? Chứ nó bình bật lý, chỉ bây giờ nha nha nghĩa như chào đông bật lý",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.54,
+      "text": "Mình mất gấp em có theo hảm lớt của thấy riu khẩu",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.14
+        },
+        {
+          "word": "mất",
+          "start": 0.4,
+          "end": 0.78,
+          "probability": 0.61
+        },
+        {
+          "word": "gấp",
+          "start": 0.78,
+          "end": 1.22,
+          "probability": 0.45
+        },
+        {
+          "word": "em",
+          "start": 1.22,
+          "end": 1.72,
+          "probability": 0.55
+        },
+        {
+          "word": "có",
+          "start": 1.72,
+          "end": 2.02,
+          "probability": 0.53
+        },
+        {
+          "word": "theo",
+          "start": 2.02,
+          "end": 2.26,
+          "probability": 0.2
+        },
+        {
+          "word": "hảm",
+          "start": 2.26,
+          "end": 2.58,
+          "probability": 0.66
+        },
+        {
+          "word": "lớt",
+          "start": 2.58,
+          "end": 2.82,
+          "probability": 0.44
+        },
+        {
+          "word": "của",
+          "start": 2.82,
+          "end": 3.02,
+          "probability": 0.95
+        },
+        {
+          "word": "thấy",
+          "start": 3.02,
+          "end": 3.34,
+          "probability": 0.3
+        },
+        {
+          "word": "riu",
+          "start": 3.34,
+          "end": 3.62,
+          "probability": 0.13
+        },
+        {
+          "word": "khẩu",
+          "start": 3.62,
+          "end": 4.54,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.54,
+      "end": 5.58,
+      "text": "Bỏ bịt không?",
+      "words": [
+        {
+          "word": "Bỏ",
+          "start": 4.54,
+          "end": 4.96,
+          "probability": 0.29
+        },
+        {
+          "word": "bịt",
+          "start": 4.96,
+          "end": 5.36,
+          "probability": 0.38
+        },
+        {
+          "word": "không?",
+          "start": 5.36,
+          "end": 5.58,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.02,
+      "end": 9.22,
+      "text": "Chứ còn nếu bây giờ mà mà hả cũng bịt thì nó đáp ngôn mơ này",
+      "words": [
+        {
+          "word": "Chứ",
+          "start": 6.02,
+          "end": 6.3,
+          "probability": 0.22
+        },
+        {
+          "word": "còn",
+          "start": 6.3,
+          "end": 6.46,
+          "probability": 0.11
+        },
+        {
+          "word": "nếu",
+          "start": 6.46,
+          "end": 6.62,
+          "probability": 0.92
+        },
+        {
+          "word": "bây",
+          "start": 6.62,
+          "end": 6.84,
+          "probability": 0.58
+        },
+        {
+          "word": "giờ",
+          "start": 6.84,
+          "end": 6.9,
+          "probability": 0.99
+        },
+        {
+          "word": "mà",
+          "start": 6.9,
+          "end": 7.12,
+          "probability": 0.36
+        },
+        {
+          "word": "mà",
+          "start": 7.12,
+          "end": 7.24,
+          "probability": 0.22
+        },
+        {
+          "word": "hả",
+          "start": 7.24,
+          "end": 7.38,
+          "probability": 0.48
+        },
+        {
+          "word": "cũng",
+          "start": 7.38,
+          "end": 7.54,
+          "probability": 0.15
+        },
+        {
+          "word": "bịt",
+          "start": 7.54,
+          "end": 7.78,
+          "probability": 0.71
+        },
+        {
+          "word": "thì",
+          "start": 7.78,
+          "end": 7.98,
+          "probability": 0.15
+        },
+        {
+          "word": "nó",
+          "start": 7.98,
+          "end": 8.04,
+          "probability": 0.11
+        },
+        {
+          "word": "đáp",
+          "start": 8.04,
+          "end": 8.2,
+          "probability": 0.12
+        },
+        {
+          "word": "ngôn",
+          "start": 8.2,
+          "end": 8.36,
+          "probability": 0.26
+        },
+        {
+          "word": "mơ",
+          "start": 8.36,
+          "end": 8.78,
+          "probability": 0.15
+        },
+        {
+          "word": "này",
+          "start": 8.78,
+          "end": 9.22,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.22,
+      "end": 11.98,
+      "text": "Quả cứ đi không thể bình không đừng thái rồi",
+      "words": [
+        {
+          "word": "Quả",
+          "start": 9.22,
+          "end": 9.74,
+          "probability": 0.33
+        },
+        {
+          "word": "cứ",
+          "start": 9.74,
+          "end": 10.02,
+          "probability": 0.24
+        },
+        {
+          "word": "đi",
+          "start": 10.02,
+          "end": 10.32,
+          "probability": 0.07
+        },
+        {
+          "word": "không",
+          "start": 10.32,
+          "end": 10.54,
+          "probability": 0.91
+        },
+        {
+          "word": "thể",
+          "start": 10.54,
+          "end": 10.76,
+          "probability": 0.59
+        },
+        {
+          "word": "bình",
+          "start": 10.76,
+          "end": 10.96,
+          "probability": 0.2
+        },
+        {
+          "word": "không",
+          "start": 10.96,
+          "end": 11.2,
+          "probability": 0.26
+        },
+        {
+          "word": "đừng",
+          "start": 11.2,
+          "end": 11.34,
+          "probability": 0.18
+        },
+        {
+          "word": "thái",
+          "start": 11.34,
+          "end": 11.6,
+          "probability": 0.16
+        },
+        {
+          "word": "rồi",
+          "start": 11.6,
+          "end": 11.98,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.98,
+      "end": 13.24,
+      "text": "Quả cứ nha không?",
+      "words": [
+        {
+          "word": "Quả",
+          "start": 11.98,
+          "end": 12.3,
+          "probability": 0.91
+        },
+        {
+          "word": "cứ",
+          "start": 12.3,
+          "end": 12.46,
+          "probability": 0.99
+        },
+        {
+          "word": "nha",
+          "start": 12.46,
+          "end": 12.68,
+          "probability": 0.33
+        },
+        {
+          "word": "không?",
+          "start": 12.68,
+          "end": 13.24,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.78,
+      "end": 16.98,
+      "text": "Chứ nó bình bật lý, chỉ bây giờ nha nha nghĩa như chào đông bật lý",
+      "words": [
+        {
+          "word": "Chứ",
+          "start": 13.78,
+          "end": 13.82,
+          "probability": 0.71
+        },
+        {
+          "word": "nó",
+          "start": 13.82,
+          "end": 14.02,
+          "probability": 0.27
+        },
+        {
+          "word": "bình",
+          "start": 14.02,
+          "end": 14.24,
+          "probability": 0.17
+        },
+        {
+          "word": "bật",
+          "start": 14.24,
+          "end": 14.42,
+          "probability": 0.42
+        },
+        {
+          "word": "lý,",
+          "start": 14.42,
+          "end": 14.64,
+          "probability": 0.41
+        },
+        {
+          "word": "chỉ",
+          "start": 14.9,
+          "end": 14.9,
+          "probability": 0.44
+        },
+        {
+          "word": "bây",
+          "start": 14.9,
+          "end": 15.12,
+          "probability": 0.71
+        },
+        {
+          "word": "giờ",
+          "start": 15.12,
+          "end": 15.28,
+          "probability": 1.0
+        },
+        {
+          "word": "nha",
+          "start": 15.28,
+          "end": 15.5,
+          "probability": 0.53
+        },
+        {
+          "word": "nha",
+          "start": 15.5,
+          "end": 15.68,
+          "probability": 0.46
+        },
+        {
+          "word": "nghĩa",
+          "start": 15.68,
+          "end": 15.94,
+          "probability": 0.47
+        },
+        {
+          "word": "như",
+          "start": 15.94,
+          "end": 16.16,
+          "probability": 0.08
+        },
+        {
+          "word": "chào",
+          "start": 16.16,
+          "end": 16.4,
+          "probability": 0.41
+        },
+        {
+          "word": "đông",
+          "start": 16.4,
+          "end": 16.56,
+          "probability": 0.25
+        },
+        {
+          "word": "bật",
+          "start": 16.56,
+          "end": 16.78,
+          "probability": 0.27
+        },
+        {
+          "word": "lý",
+          "start": 16.78,
+          "end": 16.98,
+          "probability": 0.91
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7674491166619864341",
+  "duration_seconds": 31.18,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "thủ đi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 29.56,
+      "end": 31.16,
+      "text": "thủ đi",
+      "words": [
+        {
+          "word": "thủ",
+          "start": 29.56,
+          "end": 30.96,
+          "probability": 0.01
+        },
+        {
+          "word": "đi",
+          "start": 30.96,
+          "end": 31.16,
+          "probability": 0.16
+        }
+      ]
+    }
+  ]
+}

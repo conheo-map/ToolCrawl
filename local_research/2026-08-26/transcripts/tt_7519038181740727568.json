@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7519038181740727568",
+  "duration_seconds": 59.26,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Cảm ơn",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.01,
+      "end": 2.43,
+      "text": "Cảm ơn",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 1.01,
+          "end": 2.09,
+          "probability": 0.31
+        },
+        {
+          "word": "ơn",
+          "start": 2.09,
+          "end": 2.43,
+          "probability": 0.71
+        }
+      ]
+    }
+  ]
+}

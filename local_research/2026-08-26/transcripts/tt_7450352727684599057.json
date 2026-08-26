@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7450352727684599057",
+  "duration_seconds": 108.41,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Well, well, well, well, well, well!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.42,
+      "end": 2.4,
+      "text": "Well, well, well, well, well, well!",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 1.42,
+          "end": 1.62,
+          "probability": 0.0
+        },
+        {
+          "word": "well,",
+          "start": 1.84,
+          "end": 1.84,
+          "probability": 0.1
+        },
+        {
+          "word": "well,",
+          "start": 1.94,
+          "end": 1.96,
+          "probability": 0.85
+        },
+        {
+          "word": "well,",
+          "start": 1.96,
+          "end": 2.06,
+          "probability": 0.96
+        },
+        {
+          "word": "well,",
+          "start": 2.06,
+          "end": 2.14,
+          "probability": 0.97
+        },
+        {
+          "word": "well!",
+          "start": 2.14,
+          "end": 2.4,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

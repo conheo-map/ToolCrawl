@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7558792988759985415",
+  "duration_seconds": 38.25,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Dạ, dạ, dạ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 31.76,
+      "end": 32.4,
+      "text": "Dạ, dạ, dạ.",
+      "words": [
+        {
+          "word": "Dạ,",
+          "start": 31.76,
+          "end": 32.04,
+          "probability": 0.17
+        },
+        {
+          "word": "dạ,",
+          "start": 32.04,
+          "end": 32.16,
+          "probability": 0.46
+        },
+        {
+          "word": "dạ.",
+          "start": 32.4,
+          "end": 32.4,
+          "probability": 0.79
+        }
+      ]
+    }
+  ]
+}

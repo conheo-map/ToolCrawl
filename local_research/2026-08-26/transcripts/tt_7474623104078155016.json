@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7474623104078155016",
+  "duration_seconds": 59.66,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Hồi, hồi, hồi, hồi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.68,
+      "end": 3.06,
+      "text": "Hồi, hồi, hồi, hồi.",
+      "words": [
+        {
+          "word": "Hồi,",
+          "start": 1.68,
+          "end": 2.06,
+          "probability": 0.03
+        },
+        {
+          "word": "hồi,",
+          "start": 2.28,
+          "end": 2.36,
+          "probability": 0.38
+        },
+        {
+          "word": "hồi,",
+          "start": 2.64,
+          "end": 2.64,
+          "probability": 0.66
+        },
+        {
+          "word": "hồi.",
+          "start": 3.06,
+          "end": 3.06,
+          "probability": 0.77
+        }
+      ]
+    }
+  ]
+}
