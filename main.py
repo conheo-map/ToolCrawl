@@ -417,9 +417,14 @@ def sync_to_gdrive(week_number: int) -> None:
         logger.debug(f"Pre-sync reconcile notice: {exc}")
 
     gdrive_target = f"gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week{week_number}/"
-    logger.info(f"📤 Đang đồng bộ toàn bộ {week_dir.name} lên Google Drive (8 luồng song song)...")
+    # Tính toán timeout động dựa trên số lượng file audio thực tế
+    total_wav_count = len(list(week_dir.glob("**/*.wav")))
+    # Ước lượng: tối thiểu 3600s (1 tiếng), hoặc 15 giây/file + buffer
+    dynamic_timeout = max(3600, total_wav_count * 15)
+    logger.info(f"📤 Đang đồng bộ toàn bộ {week_dir.name} ({total_wav_count} audio files) lên Google Drive (8 luồng song song, timeout {dynamic_timeout // 60} phút)...")
+
     try:
-        # Chạy rclone đa luồng với chunk lớn và không ngắt sớm
+        # Chạy rclone đa luồng với chunk lớn, tự retry khi mạng chập chờn và timeout co giãn
         cmd = [
             "rclone", "copy", str(week_dir), gdrive_target,
             "--exclude", "transcripts/**",
@@ -428,6 +433,8 @@ def sync_to_gdrive(week_number: int) -> None:
             "--exclude", "quarantine/**",
             "--transfers", "8",
             "--checkers", "16",
+            "--retries", "5",
+            "--low-level-retries", "10",
             "--drive-chunk-size", "32M",
             "--fast-list",
             "--stats", "10s",
@@ -435,7 +442,7 @@ def sync_to_gdrive(week_number: int) -> None:
         res = subprocess.run(
             cmd,
             capture_output=False,  # In trực tiếp tiến độ ra màn hình
-            timeout=1800,          # Tối đa 30 phút, không bao giờ bị dừng giữa chừng
+            timeout=dynamic_timeout,  # Co giãn theo số lượng file
         )
         if res.returncode == 0:
             logger.info("✅ ĐÃ ĐỒNG BỘ AUDIO LÊN GOOGLE DRIVE! ĐANG ĐỐI SOÁT CUMULATIVE CUỐI CÙNG...")
@@ -447,6 +454,8 @@ def sync_to_gdrive(week_number: int) -> None:
             logger.info("🎉 ĐÃ HOÀN TẤT ĐỒNG BỘ 100% TOÀN BỘ AUDIO, METADATA VÀ SUMMARY TRÊN GOOGLE DRIVE!")
         else:
             logger.warning(f"Rclone sync kết thúc với mã: {res.returncode}")
+    except subprocess.TimeoutExpired:
+        logger.warning(f"⚠️ Quá thời gian timeout ({dynamic_timeout // 60} phút). Vui lòng chạy 'python tools/reconcile_drive.py --remote' để tiếp tục phần còn lại.")
     except Exception as exc:
         logger.debug(f"Rclone sync exception: {exc}")
 
