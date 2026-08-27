@@ -1,0 +1,66 @@
+{
+  "item_id": "tt_7545158682053528849",
+  "duration_seconds": 59.92,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 8,
+  "text": "Hãy cho hình đưa kênh buổi thứ nữa!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.2,
+      "text": "Hãy cho hình đưa kênh buổi thứ nữa!",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.2
+        },
+        {
+          "word": "cho",
+          "start": 0.44,
+          "end": 0.7,
+          "probability": 0.1
+        },
+        {
+          "word": "hình",
+          "start": 0.7,
+          "end": 1.04,
+          "probability": 0.11
+        },
+        {
+          "word": "đưa",
+          "start": 1.04,
+          "end": 1.7,
+          "probability": 0.11
+        },
+        {
+          "word": "kênh",
+          "start": 1.7,
+          "end": 2.12,
+          "probability": 0.56
+        },
+        {
+          "word": "buổi",
+          "start": 2.12,
+          "end": 2.48,
+          "probability": 0.58
+        },
+        {
+          "word": "thứ",
+          "start": 2.48,
+          "end": 2.82,
+          "probability": 0.4
+        },
+        {
+          "word": "nữa!",
+          "start": 2.82,
+          "end": 3.2,
+          "probability": 0.37
+        }
+      ]
+    }
+  ]
+}

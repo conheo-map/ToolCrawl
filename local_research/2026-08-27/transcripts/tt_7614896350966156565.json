@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7614896350966156565",
+  "duration_seconds": 71.15,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Bỏa nguyên á",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.78,
+      "text": "Bỏa nguyên á",
+      "words": [
+        {
+          "word": "Bỏa",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.11
+        },
+        {
+          "word": "nguyên",
+          "start": 0.42,
+          "end": 0.74,
+          "probability": 0.16
+        },
+        {
+          "word": "á",
+          "start": 0.74,
+          "end": 0.78,
+          "probability": 0.28
+        }
+      ]
+    }
+  ]
+}

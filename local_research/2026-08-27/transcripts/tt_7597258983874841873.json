@@ -1,0 +1,282 @@
+{
+  "item_id": "tt_7597258983874841873",
+  "duration_seconds": 200.72,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 36,
+  "text": "Xin kinh mời cái đồng chí đạb yếu Tự kia, nhí lấy, chào gờ 1, 1, 1, 1 ... 1, 2, 1 ... 1, 2, 1, 1 ... 1, 2, kỹ đạ hồi lên lạm việt",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Xin kinh mời cái đồng chí đạb yếu",
+      "words": [
+        {
+          "word": "Xin",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.03
+        },
+        {
+          "word": "kinh",
+          "start": 0.22,
+          "end": 0.56,
+          "probability": 0.28
+        },
+        {
+          "word": "mời",
+          "start": 0.56,
+          "end": 0.98,
+          "probability": 0.59
+        },
+        {
+          "word": "cái",
+          "start": 0.98,
+          "end": 1.26,
+          "probability": 0.08
+        },
+        {
+          "word": "đồng",
+          "start": 1.26,
+          "end": 1.36,
+          "probability": 0.66
+        },
+        {
+          "word": "chí",
+          "start": 1.36,
+          "end": 1.58,
+          "probability": 0.48
+        },
+        {
+          "word": "đạb",
+          "start": 1.58,
+          "end": 1.82,
+          "probability": 0.25
+        },
+        {
+          "word": "yếu",
+          "start": 1.82,
+          "end": 2.3,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.3,
+      "end": 4.8,
+      "text": "Tự kia, nhí lấy, chào gờ",
+      "words": [
+        {
+          "word": "Tự",
+          "start": 2.3,
+          "end": 2.68,
+          "probability": 0.17
+        },
+        {
+          "word": "kia,",
+          "start": 2.68,
+          "end": 3.02,
+          "probability": 0.77
+        },
+        {
+          "word": "nhí",
+          "start": 3.3,
+          "end": 3.36,
+          "probability": 0.06
+        },
+        {
+          "word": "lấy,",
+          "start": 3.36,
+          "end": 3.64,
+          "probability": 0.45
+        },
+        {
+          "word": "chào",
+          "start": 3.84,
+          "end": 3.88,
+          "probability": 0.6
+        },
+        {
+          "word": "gờ",
+          "start": 3.88,
+          "end": 4.8,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.17,
+      "end": 22.26,
+      "text": "1, 1, 1, 1 ...",
+      "words": [
+        {
+          "word": "1,",
+          "start": 10.17,
+          "end": 10.73,
+          "probability": 0.02
+        },
+        {
+          "word": "1,",
+          "start": 10.85,
+          "end": 11.25,
+          "probability": 0.28
+        },
+        {
+          "word": "1,",
+          "start": 11.25,
+          "end": 11.95,
+          "probability": 0.68
+        },
+        {
+          "word": "1",
+          "start": 16.04,
+          "end": 16.9,
+          "probability": 0.66
+        },
+        {
+          "word": "...",
+          "start": 21.7,
+          "end": 22.26,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 22.26,
+      "end": 22.68,
+      "text": "1, 2, 1 ...",
+      "words": [
+        {
+          "word": "1,",
+          "start": 22.26,
+          "end": 22.68,
+          "probability": 0.23
+        },
+        {
+          "word": "2,",
+          "start": 22.68,
+          "end": 22.68,
+          "probability": 0.84
+        },
+        {
+          "word": "1",
+          "start": 22.68,
+          "end": 22.68,
+          "probability": 0.74
+        },
+        {
+          "word": "...",
+          "start": 22.68,
+          "end": 22.68,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 27.55,
+      "end": 29.13,
+      "text": "1, 2, 1, 1 ...",
+      "words": [
+        {
+          "word": "1,",
+          "start": 27.55,
+          "end": 28.61,
+          "probability": 0.37
+        },
+        {
+          "word": "2,",
+          "start": 28.65,
+          "end": 28.65,
+          "probability": 0.96
+        },
+        {
+          "word": "1,",
+          "start": 28.65,
+          "end": 28.65,
+          "probability": 0.52
+        },
+        {
+          "word": "1",
+          "start": 29.13,
+          "end": 29.13,
+          "probability": 0.1
+        },
+        {
+          "word": "...",
+          "start": 29.13,
+          "end": 29.13,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 156.04,
+      "end": 157.28,
+      "text": "1, 2, kỹ đạ hồi",
+      "words": [
+        {
+          "word": "1,",
+          "start": 156.04,
+          "end": 156.2,
+          "probability": 0.38
+        },
+        {
+          "word": "2,",
+          "start": 156.38,
+          "end": 156.6,
+          "probability": 0.96
+        },
+        {
+          "word": "kỹ",
+          "start": 156.62,
+          "end": 156.8,
+          "probability": 0.06
+        },
+        {
+          "word": "đạ",
+          "start": 156.8,
+          "end": 156.94,
+          "probability": 0.86
+        },
+        {
+          "word": "hồi",
+          "start": 156.94,
+          "end": 157.28,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 157.28,
+      "end": 158.48,
+      "text": "lên lạm việt",
+      "words": [
+        {
+          "word": "lên",
+          "start": 157.28,
+          "end": 157.96,
+          "probability": 0.07
+        },
+        {
+          "word": "lạm",
+          "start": 157.96,
+          "end": 158.22,
+          "probability": 0.47
+        },
+        {
+          "word": "việt",
+          "start": 158.22,
+          "end": 158.48,
+          "probability": 0.31
+        }
+      ]
+    }
+  ]
+}

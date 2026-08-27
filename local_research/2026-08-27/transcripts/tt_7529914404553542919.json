@@ -1,0 +1,962 @@
+{
+  "item_id": "tt_7529914404553542919",
+  "duration_seconds": 33.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 151,
+  "text": "Hôm nay 2 tháng 12 năm, khi khu chăm 8, chien cú lộ 3, đoạn qua buôn trí bằng xã í dài, tình ra lài, xã í dã vụ tên hạnh rà thông, khiến một người từ vòng. Thưa đó, khoảng 18,5 cung ngày, anh tê, xin 5, khi khu chăm linh từ chú tại xã ua lời, đu khiến xã mấy, lưu thông chien cú lộ 3, các tự giá phụ túc đi xã í dài. khi đến địa điểm trên đá xã và trạm với một con bò, khu chí hát, chú tại xã í dài, đăng đi trên đường. Hầu quà, xây mấy và con bò bị kéo lưu khoảng hơn 1 mê, anh tê bị vòng xuống lệ đường từ vòng tại xấu, chức xây mấy bị hưu hồng nặc, con bò bị thương. Hịt, vô việc đăng được các quan trích năng đường chá, làm só?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.98,
+      "text": "Hôm nay 2 tháng 12 năm, khi khu chăm 8, chien cú lộ 3, đoạn qua buôn trí bằng xã í dài, tình ra lài, xã í dã vụ tên hạnh rà thông, khiến một người từ vòng.",
+      "words": [
+        {
+          "word": "Hôm",
+          "start": 0.0,
+          "end": 0.1,
+          "probability": 0.23
+        },
+        {
+          "word": "nay",
+          "start": 0.1,
+          "end": 0.26,
+          "probability": 0.95
+        },
+        {
+          "word": "2",
+          "start": 0.26,
+          "end": 0.6,
+          "probability": 0.17
+        },
+        {
+          "word": "tháng",
+          "start": 0.6,
+          "end": 0.78,
+          "probability": 0.82
+        },
+        {
+          "word": "12",
+          "start": 0.78,
+          "end": 0.96,
+          "probability": 0.27
+        },
+        {
+          "word": "năm,",
+          "start": 0.96,
+          "end": 1.06,
+          "probability": 0.28
+        },
+        {
+          "word": "khi",
+          "start": 1.34,
+          "end": 1.34,
+          "probability": 0.06
+        },
+        {
+          "word": "khu",
+          "start": 1.34,
+          "end": 1.42,
+          "probability": 0.33
+        },
+        {
+          "word": "chăm",
+          "start": 1.42,
+          "end": 1.56,
+          "probability": 0.29
+        },
+        {
+          "word": "8,",
+          "start": 1.56,
+          "end": 1.72,
+          "probability": 0.11
+        },
+        {
+          "word": "chien",
+          "start": 2.08,
+          "end": 2.3,
+          "probability": 0.14
+        },
+        {
+          "word": "cú",
+          "start": 2.3,
+          "end": 2.46,
+          "probability": 0.28
+        },
+        {
+          "word": "lộ",
+          "start": 2.46,
+          "end": 2.54,
+          "probability": 0.59
+        },
+        {
+          "word": "3,",
+          "start": 2.54,
+          "end": 2.74,
+          "probability": 0.13
+        },
+        {
+          "word": "đoạn",
+          "start": 2.98,
+          "end": 3.36,
+          "probability": 0.48
+        },
+        {
+          "word": "qua",
+          "start": 3.36,
+          "end": 3.54,
+          "probability": 0.8
+        },
+        {
+          "word": "buôn",
+          "start": 3.54,
+          "end": 3.74,
+          "probability": 0.33
+        },
+        {
+          "word": "trí",
+          "start": 3.74,
+          "end": 3.88,
+          "probability": 0.13
+        },
+        {
+          "word": "bằng",
+          "start": 3.88,
+          "end": 4.08,
+          "probability": 0.43
+        },
+        {
+          "word": "xã",
+          "start": 4.08,
+          "end": 4.46,
+          "probability": 0.3
+        },
+        {
+          "word": "í",
+          "start": 4.46,
+          "end": 4.64,
+          "probability": 0.14
+        },
+        {
+          "word": "dài,",
+          "start": 4.64,
+          "end": 4.68,
+          "probability": 0.47
+        },
+        {
+          "word": "tình",
+          "start": 5.04,
+          "end": 5.22,
+          "probability": 0.68
+        },
+        {
+          "word": "ra",
+          "start": 5.22,
+          "end": 5.4,
+          "probability": 0.29
+        },
+        {
+          "word": "lài,",
+          "start": 5.4,
+          "end": 5.68,
+          "probability": 0.28
+        },
+        {
+          "word": "xã",
+          "start": 5.86,
+          "end": 5.96,
+          "probability": 0.56
+        },
+        {
+          "word": "í",
+          "start": 5.96,
+          "end": 6.06,
+          "probability": 0.53
+        },
+        {
+          "word": "dã",
+          "start": 6.06,
+          "end": 6.14,
+          "probability": 0.43
+        },
+        {
+          "word": "vụ",
+          "start": 6.14,
+          "end": 6.28,
+          "probability": 0.73
+        },
+        {
+          "word": "tên",
+          "start": 6.28,
+          "end": 6.4,
+          "probability": 0.56
+        },
+        {
+          "word": "hạnh",
+          "start": 6.4,
+          "end": 6.66,
+          "probability": 0.23
+        },
+        {
+          "word": "rà",
+          "start": 6.66,
+          "end": 6.66,
+          "probability": 0.17
+        },
+        {
+          "word": "thông,",
+          "start": 6.66,
+          "end": 6.94,
+          "probability": 0.84
+        },
+        {
+          "word": "khiến",
+          "start": 7.18,
+          "end": 7.28,
+          "probability": 0.83
+        },
+        {
+          "word": "một",
+          "start": 7.28,
+          "end": 7.4,
+          "probability": 0.48
+        },
+        {
+          "word": "người",
+          "start": 7.4,
+          "end": 7.56,
+          "probability": 0.65
+        },
+        {
+          "word": "từ",
+          "start": 7.56,
+          "end": 7.7,
+          "probability": 0.55
+        },
+        {
+          "word": "vòng.",
+          "start": 7.7,
+          "end": 7.98,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 8.5,
+      "end": 17.5,
+      "text": "Thưa đó, khoảng 18,5 cung ngày, anh tê, xin 5, khi khu chăm linh từ chú tại xã ua lời, đu khiến xã mấy, lưu thông chien cú lộ 3, các tự giá phụ túc đi xã í dài.",
+      "words": [
+        {
+          "word": "Thưa",
+          "start": 8.5,
+          "end": 8.66,
+          "probability": 0.38
+        },
+        {
+          "word": "đó,",
+          "start": 8.66,
+          "end": 8.92,
+          "probability": 0.91
+        },
+        {
+          "word": "khoảng",
+          "start": 9.02,
+          "end": 9.2,
+          "probability": 0.97
+        },
+        {
+          "word": "18",
+          "start": 9.2,
+          "end": 9.54,
+          "probability": 0.78
+        },
+        {
+          "word": ",5",
+          "start": 9.54,
+          "end": 9.96,
+          "probability": 0.18
+        },
+        {
+          "word": "cung",
+          "start": 9.96,
+          "end": 10.22,
+          "probability": 0.3
+        },
+        {
+          "word": "ngày,",
+          "start": 10.22,
+          "end": 10.4,
+          "probability": 0.56
+        },
+        {
+          "word": "anh",
+          "start": 10.68,
+          "end": 10.74,
+          "probability": 0.47
+        },
+        {
+          "word": "tê,",
+          "start": 10.74,
+          "end": 11.02,
+          "probability": 0.32
+        },
+        {
+          "word": "xin",
+          "start": 11.34,
+          "end": 11.34,
+          "probability": 0.55
+        },
+        {
+          "word": "5,",
+          "start": 11.34,
+          "end": 11.52,
+          "probability": 0.11
+        },
+        {
+          "word": "khi",
+          "start": 11.62,
+          "end": 11.68,
+          "probability": 0.3
+        },
+        {
+          "word": "khu",
+          "start": 11.68,
+          "end": 11.8,
+          "probability": 0.96
+        },
+        {
+          "word": "chăm",
+          "start": 11.8,
+          "end": 11.98,
+          "probability": 0.96
+        },
+        {
+          "word": "linh",
+          "start": 11.98,
+          "end": 12.1,
+          "probability": 0.22
+        },
+        {
+          "word": "từ",
+          "start": 12.1,
+          "end": 12.34,
+          "probability": 0.77
+        },
+        {
+          "word": "chú",
+          "start": 12.34,
+          "end": 12.64,
+          "probability": 0.64
+        },
+        {
+          "word": "tại",
+          "start": 12.64,
+          "end": 12.82,
+          "probability": 0.72
+        },
+        {
+          "word": "xã",
+          "start": 12.82,
+          "end": 13.0,
+          "probability": 0.53
+        },
+        {
+          "word": "ua",
+          "start": 13.0,
+          "end": 13.16,
+          "probability": 0.6
+        },
+        {
+          "word": "lời,",
+          "start": 13.16,
+          "end": 13.52,
+          "probability": 0.37
+        },
+        {
+          "word": "đu",
+          "start": 13.64,
+          "end": 13.76,
+          "probability": 0.35
+        },
+        {
+          "word": "khiến",
+          "start": 13.76,
+          "end": 13.98,
+          "probability": 0.46
+        },
+        {
+          "word": "xã",
+          "start": 13.98,
+          "end": 14.14,
+          "probability": 0.61
+        },
+        {
+          "word": "mấy,",
+          "start": 14.14,
+          "end": 14.42,
+          "probability": 0.57
+        },
+        {
+          "word": "lưu",
+          "start": 14.48,
+          "end": 14.66,
+          "probability": 0.88
+        },
+        {
+          "word": "thông",
+          "start": 14.66,
+          "end": 14.8,
+          "probability": 0.86
+        },
+        {
+          "word": "chien",
+          "start": 14.8,
+          "end": 14.96,
+          "probability": 0.46
+        },
+        {
+          "word": "cú",
+          "start": 14.96,
+          "end": 15.08,
+          "probability": 0.98
+        },
+        {
+          "word": "lộ",
+          "start": 15.08,
+          "end": 15.24,
+          "probability": 0.98
+        },
+        {
+          "word": "3,",
+          "start": 15.24,
+          "end": 15.42,
+          "probability": 0.44
+        },
+        {
+          "word": "các",
+          "start": 15.66,
+          "end": 16.0,
+          "probability": 0.14
+        },
+        {
+          "word": "tự",
+          "start": 16.0,
+          "end": 16.24,
+          "probability": 0.29
+        },
+        {
+          "word": "giá",
+          "start": 16.24,
+          "end": 16.48,
+          "probability": 0.34
+        },
+        {
+          "word": "phụ",
+          "start": 16.48,
+          "end": 16.64,
+          "probability": 0.54
+        },
+        {
+          "word": "túc",
+          "start": 16.64,
+          "end": 16.76,
+          "probability": 0.42
+        },
+        {
+          "word": "đi",
+          "start": 16.76,
+          "end": 16.96,
+          "probability": 0.6
+        },
+        {
+          "word": "xã",
+          "start": 16.96,
+          "end": 17.14,
+          "probability": 0.85
+        },
+        {
+          "word": "í",
+          "start": 17.14,
+          "end": 17.34,
+          "probability": 0.98
+        },
+        {
+          "word": "dài.",
+          "start": 17.34,
+          "end": 17.5,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 17.94,
+      "end": 22.88,
+      "text": "khi đến địa điểm trên đá xã và trạm với một con bò, khu chí hát, chú tại xã í dài, đăng đi trên đường.",
+      "words": [
+        {
+          "word": "khi",
+          "start": 17.94,
+          "end": 18.1,
+          "probability": 0.69
+        },
+        {
+          "word": "đến",
+          "start": 18.1,
+          "end": 18.24,
+          "probability": 0.96
+        },
+        {
+          "word": "địa",
+          "start": 18.24,
+          "end": 18.36,
+          "probability": 0.46
+        },
+        {
+          "word": "điểm",
+          "start": 18.36,
+          "end": 18.54,
+          "probability": 0.69
+        },
+        {
+          "word": "trên",
+          "start": 18.54,
+          "end": 18.68,
+          "probability": 0.89
+        },
+        {
+          "word": "đá",
+          "start": 18.68,
+          "end": 18.82,
+          "probability": 0.62
+        },
+        {
+          "word": "xã",
+          "start": 18.82,
+          "end": 18.98,
+          "probability": 0.9
+        },
+        {
+          "word": "và",
+          "start": 18.98,
+          "end": 19.28,
+          "probability": 0.7
+        },
+        {
+          "word": "trạm",
+          "start": 19.28,
+          "end": 19.48,
+          "probability": 0.55
+        },
+        {
+          "word": "với",
+          "start": 19.48,
+          "end": 19.62,
+          "probability": 0.97
+        },
+        {
+          "word": "một",
+          "start": 19.62,
+          "end": 19.78,
+          "probability": 0.62
+        },
+        {
+          "word": "con",
+          "start": 19.78,
+          "end": 19.92,
+          "probability": 0.62
+        },
+        {
+          "word": "bò,",
+          "start": 19.92,
+          "end": 20.16,
+          "probability": 0.56
+        },
+        {
+          "word": "khu",
+          "start": 20.44,
+          "end": 20.5,
+          "probability": 0.93
+        },
+        {
+          "word": "chí",
+          "start": 20.5,
+          "end": 20.66,
+          "probability": 0.58
+        },
+        {
+          "word": "hát,",
+          "start": 20.66,
+          "end": 20.9,
+          "probability": 0.79
+        },
+        {
+          "word": "chú",
+          "start": 21.2,
+          "end": 21.2,
+          "probability": 0.94
+        },
+        {
+          "word": "tại",
+          "start": 21.2,
+          "end": 21.38,
+          "probability": 0.98
+        },
+        {
+          "word": "xã",
+          "start": 21.38,
+          "end": 21.6,
+          "probability": 0.99
+        },
+        {
+          "word": "í",
+          "start": 21.6,
+          "end": 21.74,
+          "probability": 0.99
+        },
+        {
+          "word": "dài,",
+          "start": 21.74,
+          "end": 21.88,
+          "probability": 0.98
+        },
+        {
+          "word": "đăng",
+          "start": 22.16,
+          "end": 22.42,
+          "probability": 0.54
+        },
+        {
+          "word": "đi",
+          "start": 22.42,
+          "end": 22.56,
+          "probability": 1.0
+        },
+        {
+          "word": "trên",
+          "start": 22.56,
+          "end": 22.7,
+          "probability": 0.79
+        },
+        {
+          "word": "đường.",
+          "start": 22.7,
+          "end": 22.88,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 22.88,
+      "end": 30.3,
+      "text": "Hầu quà, xây mấy và con bò bị kéo lưu khoảng hơn 1 mê, anh tê bị vòng xuống lệ đường từ vòng tại xấu, chức xây mấy bị hưu hồng nặc, con bò bị thương.",
+      "words": [
+        {
+          "word": "Hầu",
+          "start": 22.88,
+          "end": 23.4,
+          "probability": 0.42
+        },
+        {
+          "word": "quà,",
+          "start": 23.4,
+          "end": 23.74,
+          "probability": 0.43
+        },
+        {
+          "word": "xây",
+          "start": 23.92,
+          "end": 24.0,
+          "probability": 0.11
+        },
+        {
+          "word": "mấy",
+          "start": 24.0,
+          "end": 24.18,
+          "probability": 0.34
+        },
+        {
+          "word": "và",
+          "start": 24.18,
+          "end": 24.34,
+          "probability": 0.64
+        },
+        {
+          "word": "con",
+          "start": 24.34,
+          "end": 24.48,
+          "probability": 0.88
+        },
+        {
+          "word": "bò",
+          "start": 24.48,
+          "end": 24.62,
+          "probability": 0.63
+        },
+        {
+          "word": "bị",
+          "start": 24.62,
+          "end": 24.86,
+          "probability": 0.64
+        },
+        {
+          "word": "kéo",
+          "start": 24.86,
+          "end": 24.98,
+          "probability": 0.74
+        },
+        {
+          "word": "lưu",
+          "start": 24.98,
+          "end": 25.16,
+          "probability": 0.42
+        },
+        {
+          "word": "khoảng",
+          "start": 25.16,
+          "end": 25.38,
+          "probability": 0.93
+        },
+        {
+          "word": "hơn",
+          "start": 25.38,
+          "end": 25.56,
+          "probability": 0.6
+        },
+        {
+          "word": "1",
+          "start": 25.56,
+          "end": 25.68,
+          "probability": 0.07
+        },
+        {
+          "word": "mê,",
+          "start": 25.68,
+          "end": 26.0,
+          "probability": 0.37
+        },
+        {
+          "word": "anh",
+          "start": 26.16,
+          "end": 26.26,
+          "probability": 0.66
+        },
+        {
+          "word": "tê",
+          "start": 26.26,
+          "end": 26.38,
+          "probability": 0.23
+        },
+        {
+          "word": "bị",
+          "start": 26.38,
+          "end": 26.58,
+          "probability": 0.96
+        },
+        {
+          "word": "vòng",
+          "start": 26.58,
+          "end": 26.76,
+          "probability": 0.41
+        },
+        {
+          "word": "xuống",
+          "start": 26.76,
+          "end": 26.94,
+          "probability": 0.61
+        },
+        {
+          "word": "lệ",
+          "start": 26.94,
+          "end": 27.08,
+          "probability": 0.4
+        },
+        {
+          "word": "đường",
+          "start": 27.08,
+          "end": 27.26,
+          "probability": 0.56
+        },
+        {
+          "word": "từ",
+          "start": 27.26,
+          "end": 27.42,
+          "probability": 0.23
+        },
+        {
+          "word": "vòng",
+          "start": 27.42,
+          "end": 27.58,
+          "probability": 0.58
+        },
+        {
+          "word": "tại",
+          "start": 27.58,
+          "end": 27.72,
+          "probability": 0.53
+        },
+        {
+          "word": "xấu,",
+          "start": 27.72,
+          "end": 28.1,
+          "probability": 0.35
+        },
+        {
+          "word": "chức",
+          "start": 28.38,
+          "end": 28.46,
+          "probability": 0.43
+        },
+        {
+          "word": "xây",
+          "start": 28.46,
+          "end": 28.64,
+          "probability": 0.88
+        },
+        {
+          "word": "mấy",
+          "start": 28.64,
+          "end": 28.8,
+          "probability": 0.92
+        },
+        {
+          "word": "bị",
+          "start": 28.8,
+          "end": 28.96,
+          "probability": 0.63
+        },
+        {
+          "word": "hưu",
+          "start": 28.96,
+          "end": 29.14,
+          "probability": 0.56
+        },
+        {
+          "word": "hồng",
+          "start": 29.14,
+          "end": 29.22,
+          "probability": 0.18
+        },
+        {
+          "word": "nặc,",
+          "start": 29.22,
+          "end": 29.54,
+          "probability": 0.54
+        },
+        {
+          "word": "con",
+          "start": 29.54,
+          "end": 29.7,
+          "probability": 0.99
+        },
+        {
+          "word": "bò",
+          "start": 29.7,
+          "end": 29.84,
+          "probability": 1.0
+        },
+        {
+          "word": "bị",
+          "start": 29.84,
+          "end": 30.04,
+          "probability": 0.86
+        },
+        {
+          "word": "thương.",
+          "start": 30.04,
+          "end": 30.3,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 30.6,
+      "end": 32.96,
+      "text": "Hịt, vô việc đăng được các quan trích năng đường chá, làm só?",
+      "words": [
+        {
+          "word": "Hịt,",
+          "start": 30.6,
+          "end": 30.9,
+          "probability": 0.69
+        },
+        {
+          "word": "vô",
+          "start": 31.0,
+          "end": 31.04,
+          "probability": 0.54
+        },
+        {
+          "word": "việc",
+          "start": 31.04,
+          "end": 31.22,
+          "probability": 0.79
+        },
+        {
+          "word": "đăng",
+          "start": 31.22,
+          "end": 31.36,
+          "probability": 0.72
+        },
+        {
+          "word": "được",
+          "start": 31.36,
+          "end": 31.52,
+          "probability": 0.94
+        },
+        {
+          "word": "các",
+          "start": 31.52,
+          "end": 31.7,
+          "probability": 0.22
+        },
+        {
+          "word": "quan",
+          "start": 31.7,
+          "end": 31.78,
+          "probability": 0.78
+        },
+        {
+          "word": "trích",
+          "start": 31.78,
+          "end": 31.9,
+          "probability": 0.32
+        },
+        {
+          "word": "năng",
+          "start": 31.9,
+          "end": 32.08,
+          "probability": 0.78
+        },
+        {
+          "word": "đường",
+          "start": 32.08,
+          "end": 32.24,
+          "probability": 0.28
+        },
+        {
+          "word": "chá,",
+          "start": 32.24,
+          "end": 32.48,
+          "probability": 0.26
+        },
+        {
+          "word": "làm",
+          "start": 32.64,
+          "end": 32.76,
+          "probability": 0.82
+        },
+        {
+          "word": "só?",
+          "start": 32.76,
+          "end": 32.96,
+          "probability": 0.22
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7663835132926709013",
+  "duration_seconds": 30.54,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Cái cây không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 30.22,
+      "text": "Cái cây không?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 30.0,
+          "end": 30.14,
+          "probability": 0.28
+        },
+        {
+          "word": "cây",
+          "start": 30.14,
+          "end": 30.2,
+          "probability": 0.11
+        },
+        {
+          "word": "không?",
+          "start": 30.2,
+          "end": 30.22,
+          "probability": 0.05
+        }
+      ]
+    }
+  ]
+}

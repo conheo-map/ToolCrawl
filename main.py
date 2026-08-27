@@ -24,6 +24,7 @@ from processors.vocal_separator import VocalSeparator
 from processors.audio_enhancer import SpeechEnhancer
 from processors.speech_transcriber import SpeechTranscriber
 from processors.quality_assessor import QualityAssessor
+from processors.audio_slicer import AudioSlicer
 from storage.dedup import DedupStore
 from storage.metadata_writer import MetadataWriter
 from storage.state_manager import StateManager
@@ -68,15 +69,15 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--workers", type=int, default=cfg.MAX_WORKERS,
-        help="Số worker thread song song",
+        help="Số luồng download song song",
     )
     parser.add_argument(
         "--week", type=int, default=cfg.WEEK_NUMBER,
-        help="Số tuần (1-7)",
+        help="Tuần crawl (1-7)",
     )
     parser.add_argument(
         "--cookies", type=Path, default=None,
-        help="Đường dẫn đến cookie file (.txt Netscape format)",
+        help="Đường dẫn file cookies.txt",
     )
     parser.add_argument(
         "--batch-num", type=int, default=1,
@@ -84,7 +85,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--skip-music-filter", action="store_true",
-        help="Bỏ qua bước lọc nhạc nền",
+        help="Tắt bộ lọc nhạc (crawl tất cả video)",
     )
     parser.add_argument(
         "--skip-drive-sync", action="store_true",
@@ -111,6 +112,7 @@ def process_url(
     speech_enhancer: SpeechEnhancer | None = None,
     speech_transcriber: SpeechTranscriber | None = None,
     quality_assessor: QualityAssessor | None = None,
+    audio_slicer: AudioSlicer | None = None,
 ) -> str:
     """
     Xử lý một URL qua Pipeline Hybrid 3 Tầng & Speech Enhancement:
@@ -118,7 +120,8 @@ def process_url(
       Tầng 2: Có nhạc + Demucs khả dụng → AI tách giọng → lưu vào audio/
       Tầng 3: Có nhạc + Demucs không có → quarantine
       Tầng 4: Tăng cường độ rõ phụ âm, khử tạp âm nền & cân bằng âm lượng to/nhỏ (Dynamic Leveling)
-      Tầng 5: Sinh transcript tiếng Việt nháp ~70% (Lưu vào transcripts/ trên Local)
+      Tầng 5: Cắt audio thành các phân đoạn 5s - 30s chuẩn ASR theo khoảng lặng
+      Tầng 6: Sinh transcript tiếng Việt nháp ~70% (Lưu vào transcripts/ trên Local)
 
     Trả về: 'done' | 'separated' | 'skipped' | 'rejected' | 'error'
     """
@@ -203,41 +206,68 @@ def process_url(
                 except Exception as e:
                     logger.warning(f"Failed to recalculate duration for {item_id}: {e}")
 
-        # ─── Thẩm định Chất lượng Âm thanh ASR (SNR & Quality Score) ───
-        extended_data = {}
-        if quality_assessor:
-            q_stats = quality_assessor.assess(audio_path)
-            extended_data["snr_db"] = q_stats["snr_db"]
-            extended_data["quality_score"] = q_stats["quality_score"]
-            extended_data["speech_ratio"] = q_stats["speech_ratio"]
-            extended_data["peak_dbfs"] = q_stats["peak_dbfs"]
+        # ─── Cắt phân đoạn ASR thông minh (Smart ASR Slicer: 5s - 30s) ───
+        slices = []
+        if audio_slicer:
+            slices = audio_slicer.slice_audio(audio_path, item_id, output_dir=cfg.AUDIO_DIR)
 
-            if not q_stats["is_clean"] and q_stats["snr_db"] < 8.0:
-                logger.warning(f"[Quality Guard] Audio degraded (SNR={q_stats['snr_db']}dB < 8dB) -> Quarantining: {item_id}")
-                music_detector.quarantine(audio_path)
-                dedup.mark_seen(item_id)
-                state.mark_done(url)
-                return "rejected"
+        if not slices:
+            slices = [{
+                "item_id": item_id,
+                "audio_path": audio_path,
+                "duration_seconds": record.get("duration_seconds", 30.0),
+                "segment_index": 1,
+                "total_segments": 1,
+            }]
 
-        # ─── Bước 05: Sinh Transcript Nháp Tiếng Việt (Chỉ lưu trên Local) ───
-        if speech_transcriber:
-            trans_info = speech_transcriber.transcribe_file(
-                audio_path,
-                output_dir=Path("local_research") / cfg.CRAWL_DATE / "transcripts"
-            )
-            if trans_info.get("text"):
-                extended_data["transcript_raw"] = trans_info["text"]
-                extended_data["transcript_word_count"] = trans_info["word_count"]
+        total_accepted_slices = 0
+        for seg in slices:
+            seg_item_id = seg["item_id"]
+            seg_audio_path = seg["audio_path"]
+            seg_duration = seg["duration_seconds"]
 
-        # Ghi metadata — metadata.json (chuẩn 14 trường Drive) và metadata_extended.json (Local)
-        record.pop("_track", None)
-        writer.add_record(record, extended_info=extended_data)
+            seg_record = dict(record)
+            seg_record["item_id"] = seg_item_id
+            seg_record["duration_seconds"] = seg_duration
+            seg_record["audio_path"] = f"audio/{cfg.CRAWL_DATE}/{seg_audio_path.name}" if hasattr(cfg, "CRAWL_DATE") else f"audio/{seg_audio_path.name}"
+
+            # Thẩm định Chất lượng Âm thanh ASR (SNR & Quality Score)
+            extended_data = {}
+            if quality_assessor:
+                q_stats = quality_assessor.assess(seg_audio_path)
+                extended_data["snr_db"] = q_stats["snr_db"]
+                extended_data["quality_score"] = q_stats["quality_score"]
+                extended_data["speech_ratio"] = q_stats["speech_ratio"]
+                extended_data["peak_dbfs"] = q_stats["peak_dbfs"]
+
+                if not q_stats["is_clean"] and q_stats["snr_db"] < 8.0:
+                    logger.warning(f"[Quality Guard] Audio degraded (SNR={q_stats['snr_db']}dB < 8dB) -> Quarantining: {seg_item_id}")
+                    music_detector.quarantine(seg_audio_path)
+                    dedup.mark_seen(seg_item_id)
+                    continue
+
+            # Sinh Transcript Nháp Tiếng Việt (Chỉ lưu trên Local)
+            if speech_transcriber:
+                trans_info = speech_transcriber.transcribe_file(
+                    seg_audio_path,
+                    output_dir=Path("local_research") / cfg.CRAWL_DATE / "transcripts"
+                )
+                if trans_info.get("text"):
+                    extended_data["transcript_raw"] = trans_info["text"]
+                    extended_data["transcript_word_count"] = trans_info["word_count"]
+
+            # Ghi metadata — metadata.json (chuẩn 14 trường Drive) và metadata_extended.json (Local)
+            seg_record.pop("_track", None)
+            writer.add_record(seg_record, extended_info=extended_data)
+            dedup.mark_seen(seg_item_id)
+            total_accepted_slices += 1
+
         dedup.mark_seen(item_id)
         state.mark_done(url)
 
         status_tag = "[AI-cleaned]" if record.get("vocal_separated") else "[clean]"
-        logger.info(f"OK {status_tag} [{record.get('language_region', 'mixed')}]: {item_id} ({record['duration_seconds']:.1f}s)")
-        return "done"
+        logger.info(f"OK {status_tag} [{record.get('language_region', 'mixed')}]: {item_id} -> {total_accepted_slices} ASR segment(s)")
+        return "done" if total_accepted_slices > 0 else "rejected"
 
     except Exception as exc:
         logger.error(f"Error processing {url}: {exc}")
@@ -306,6 +336,7 @@ def main() -> None:
     speech_enhancer = SpeechEnhancer()
     speech_transcriber = SpeechTranscriber()
     quality_assessor = QualityAssessor()
+    audio_slicer = AudioSlicer()
 
     if vocal_separator.available:
         logger.info("Hybrid Pipeline: Demucs AI vocal separator ENABLED")
@@ -315,6 +346,7 @@ def main() -> None:
             "Install with: pip install demucs"
         )
     logger.info("ASR Speech Enhancer: Studio DSP filter & EBU R128 (-16 LUFS) ACTIVE")
+    logger.info("Smart Audio Slicer: Natural pause-based ASR segmenter (5s - 30s) ACTIVE")
     logger.info("Quality Assessor: Industrial ASR SNR & Speech Quality Verifier ACTIVE")
     logger.info("Speech Transcriber: Automated draft Vietnamese transcription (Step 05) ACTIVE")
 
@@ -353,7 +385,7 @@ def main() -> None:
                 process_url,
                 url, crawler, dedup, state, writer, music_detector, vocal_separator,
                 args.batch_num, False, args.region, speech_enhancer, speech_transcriber,
-                quality_assessor,
+                quality_assessor, audio_slicer,
             ): url
             for url in urls
         }

@@ -1,0 +1,224 @@
+{
+  "item_id": "tt_7543209501579660545",
+  "duration_seconds": 59.82,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 29,
+  "text": "bà đi tỏng ra, em thành gì không? tư phố sài mặt qua, viên đồng à, viên chào hoặc em là mặc giống và em. v sài, xanh mình...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.84,
+      "text": "bà đi tỏng ra, em thành gì không?",
+      "words": [
+        {
+          "word": "bà",
+          "start": 0.0,
+          "end": 0.66,
+          "probability": 0.13
+        },
+        {
+          "word": "đi",
+          "start": 0.66,
+          "end": 1.06,
+          "probability": 0.02
+        },
+        {
+          "word": "tỏng",
+          "start": 1.06,
+          "end": 1.44,
+          "probability": 0.43
+        },
+        {
+          "word": "ra,",
+          "start": 1.44,
+          "end": 1.92,
+          "probability": 0.24
+        },
+        {
+          "word": "em",
+          "start": 1.98,
+          "end": 2.26,
+          "probability": 0.05
+        },
+        {
+          "word": "thành",
+          "start": 2.26,
+          "end": 2.56,
+          "probability": 0.03
+        },
+        {
+          "word": "gì",
+          "start": 2.56,
+          "end": 3.04,
+          "probability": 0.72
+        },
+        {
+          "word": "không?",
+          "start": 3.04,
+          "end": 3.84,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.16,
+      "end": 7.5,
+      "text": "tư phố sài mặt qua, viên đồng",
+      "words": [
+        {
+          "word": "tư",
+          "start": 4.16,
+          "end": 4.44,
+          "probability": 0.2
+        },
+        {
+          "word": "phố",
+          "start": 4.44,
+          "end": 4.82,
+          "probability": 0.08
+        },
+        {
+          "word": "sài",
+          "start": 4.82,
+          "end": 5.56,
+          "probability": 0.18
+        },
+        {
+          "word": "mặt",
+          "start": 5.56,
+          "end": 6.04,
+          "probability": 0.24
+        },
+        {
+          "word": "qua,",
+          "start": 6.04,
+          "end": 6.5,
+          "probability": 0.88
+        },
+        {
+          "word": "viên",
+          "start": 6.56,
+          "end": 6.88,
+          "probability": 0.36
+        },
+        {
+          "word": "đồng",
+          "start": 6.88,
+          "end": 7.5,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.5,
+      "end": 19.9,
+      "text": "à, viên chào hoặc em là mặc giống",
+      "words": [
+        {
+          "word": "à,",
+          "start": 7.5,
+          "end": 8.3,
+          "probability": 0.01
+        },
+        {
+          "word": "viên",
+          "start": 8.66,
+          "end": 8.96,
+          "probability": 0.47
+        },
+        {
+          "word": "chào",
+          "start": 8.96,
+          "end": 9.28,
+          "probability": 0.55
+        },
+        {
+          "word": "hoặc",
+          "start": 13.44,
+          "end": 14.1,
+          "probability": 0.14
+        },
+        {
+          "word": "em",
+          "start": 14.1,
+          "end": 14.26,
+          "probability": 0.01
+        },
+        {
+          "word": "là",
+          "start": 14.26,
+          "end": 14.86,
+          "probability": 0.06
+        },
+        {
+          "word": "mặc",
+          "start": 18.86,
+          "end": 19.46,
+          "probability": 0.32
+        },
+        {
+          "word": "giống",
+          "start": 19.46,
+          "end": 19.9,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 22.91,
+      "end": 23.97,
+      "text": "và em.",
+      "words": [
+        {
+          "word": "và",
+          "start": 22.91,
+          "end": 23.57,
+          "probability": 0.01
+        },
+        {
+          "word": "em.",
+          "start": 23.57,
+          "end": 23.97,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 35.63,
+      "end": 41.07,
+      "text": "v sài, xanh mình...",
+      "words": [
+        {
+          "word": "v",
+          "start": 35.63,
+          "end": 36.03,
+          "probability": 0.02
+        },
+        {
+          "word": "sài,",
+          "start": 36.03,
+          "end": 36.27,
+          "probability": 0.47
+        },
+        {
+          "word": "xanh",
+          "start": 40.35,
+          "end": 40.67,
+          "probability": 0.3
+        },
+        {
+          "word": "mình...",
+          "start": 40.67,
+          "end": 41.07,
+          "probability": 0.08
+        }
+      ]
+    }
+  ]
+}

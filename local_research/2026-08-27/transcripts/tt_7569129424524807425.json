@@ -1,0 +1,238 @@
+{
+  "item_id": "tt_7569129424524807425",
+  "duration_seconds": 39.7,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 34,
+  "text": "và phê tâm là chính thức hay bài, khi ông nhận thất bài chút của hai bún cho MPT Flash, môi ra là họ còn nhận về một phê tám bị đồng phía đường.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 31.24,
+      "text": "và phê tâm là chính thức hay bài,",
+      "words": [
+        {
+          "word": "và",
+          "start": 30.0,
+          "end": 30.22,
+          "probability": 0.05
+        },
+        {
+          "word": "phê",
+          "start": 30.22,
+          "end": 30.24,
+          "probability": 0.18
+        },
+        {
+          "word": "tâm",
+          "start": 30.24,
+          "end": 30.42,
+          "probability": 0.48
+        },
+        {
+          "word": "là",
+          "start": 30.42,
+          "end": 30.6,
+          "probability": 0.41
+        },
+        {
+          "word": "chính",
+          "start": 30.6,
+          "end": 30.78,
+          "probability": 0.82
+        },
+        {
+          "word": "thức",
+          "start": 30.78,
+          "end": 30.86,
+          "probability": 0.54
+        },
+        {
+          "word": "hay",
+          "start": 30.86,
+          "end": 31.08,
+          "probability": 0.15
+        },
+        {
+          "word": "bài,",
+          "start": 31.08,
+          "end": 31.24,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 31.52,
+      "end": 34.06,
+      "text": "khi ông nhận thất bài chút của hai bún cho MPT Flash,",
+      "words": [
+        {
+          "word": "khi",
+          "start": 31.52,
+          "end": 31.74,
+          "probability": 0.08
+        },
+        {
+          "word": "ông",
+          "start": 31.74,
+          "end": 31.88,
+          "probability": 0.13
+        },
+        {
+          "word": "nhận",
+          "start": 31.88,
+          "end": 32.06,
+          "probability": 0.24
+        },
+        {
+          "word": "thất",
+          "start": 32.06,
+          "end": 32.26,
+          "probability": 0.3
+        },
+        {
+          "word": "bài",
+          "start": 32.26,
+          "end": 32.34,
+          "probability": 0.61
+        },
+        {
+          "word": "chút",
+          "start": 32.34,
+          "end": 32.58,
+          "probability": 0.25
+        },
+        {
+          "word": "của",
+          "start": 32.58,
+          "end": 32.7,
+          "probability": 0.56
+        },
+        {
+          "word": "hai",
+          "start": 32.7,
+          "end": 32.92,
+          "probability": 0.3
+        },
+        {
+          "word": "bún",
+          "start": 32.92,
+          "end": 33.1,
+          "probability": 0.22
+        },
+        {
+          "word": "cho",
+          "start": 33.1,
+          "end": 33.3,
+          "probability": 0.29
+        },
+        {
+          "word": "MPT",
+          "start": 33.3,
+          "end": 33.7,
+          "probability": 0.3
+        },
+        {
+          "word": "Flash,",
+          "start": 33.7,
+          "end": 34.06,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 34.3,
+      "end": 36.46,
+      "text": "môi ra là họ còn nhận về một phê tám bị đồng phía đường.",
+      "words": [
+        {
+          "word": "môi",
+          "start": 34.3,
+          "end": 34.38,
+          "probability": 0.33
+        },
+        {
+          "word": "ra",
+          "start": 34.38,
+          "end": 34.5,
+          "probability": 0.12
+        },
+        {
+          "word": "là",
+          "start": 34.5,
+          "end": 34.66,
+          "probability": 0.25
+        },
+        {
+          "word": "họ",
+          "start": 34.66,
+          "end": 34.76,
+          "probability": 0.51
+        },
+        {
+          "word": "còn",
+          "start": 34.76,
+          "end": 34.96,
+          "probability": 0.7
+        },
+        {
+          "word": "nhận",
+          "start": 34.96,
+          "end": 35.1,
+          "probability": 0.63
+        },
+        {
+          "word": "về",
+          "start": 35.1,
+          "end": 35.22,
+          "probability": 0.88
+        },
+        {
+          "word": "một",
+          "start": 35.22,
+          "end": 35.42,
+          "probability": 0.81
+        },
+        {
+          "word": "phê",
+          "start": 35.42,
+          "end": 35.58,
+          "probability": 0.57
+        },
+        {
+          "word": "tám",
+          "start": 35.58,
+          "end": 35.76,
+          "probability": 0.53
+        },
+        {
+          "word": "bị",
+          "start": 35.76,
+          "end": 35.92,
+          "probability": 0.11
+        },
+        {
+          "word": "đồng",
+          "start": 35.92,
+          "end": 36.04,
+          "probability": 0.55
+        },
+        {
+          "word": "phía",
+          "start": 36.04,
+          "end": 36.2,
+          "probability": 0.51
+        },
+        {
+          "word": "đường.",
+          "start": 36.2,
+          "end": 36.46,
+          "probability": 0.51
+        }
+      ]
+    }
+  ]
+}

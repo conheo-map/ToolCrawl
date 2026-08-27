@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7655342710378761480",
+  "duration_seconds": 65.03,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Cái cơ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.37,
+      "end": 10.39,
+      "text": "Cái cơ",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.37,
+          "end": 1.41,
+          "probability": 0.31
+        },
+        {
+          "word": "cơ",
+          "start": 10.11,
+          "end": 10.39,
+          "probability": 0.24
+        }
+      ]
+    }
+  ]
+}

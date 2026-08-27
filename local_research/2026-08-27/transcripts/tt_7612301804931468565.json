@@ -1,0 +1,168 @@
+{
+  "item_id": "tt_7612301804931468565",
+  "duration_seconds": 26.85,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 17,
+  "text": "Sống! Sống mô đẹp phụ đi! Rõ kia! Sống mô đẹp! Rõ kia! Mống mô! Mống mô!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.87,
+      "end": 2.71,
+      "text": "Sống!",
+      "words": [
+        {
+          "word": "Sống!",
+          "start": 1.87,
+          "end": 2.71,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.72,
+      "end": 6.8,
+      "text": "Sống mô đẹp phụ đi!",
+      "words": [
+        {
+          "word": "Sống",
+          "start": 5.72,
+          "end": 6.12,
+          "probability": 0.56
+        },
+        {
+          "word": "mô",
+          "start": 6.12,
+          "end": 6.28,
+          "probability": 0.16
+        },
+        {
+          "word": "đẹp",
+          "start": 6.28,
+          "end": 6.4,
+          "probability": 0.45
+        },
+        {
+          "word": "phụ",
+          "start": 6.4,
+          "end": 6.56,
+          "probability": 0.18
+        },
+        {
+          "word": "đi!",
+          "start": 6.56,
+          "end": 6.8,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.02,
+      "end": 7.64,
+      "text": "Rõ kia!",
+      "words": [
+        {
+          "word": "Rõ",
+          "start": 7.02,
+          "end": 7.38,
+          "probability": 0.31
+        },
+        {
+          "word": "kia!",
+          "start": 7.38,
+          "end": 7.64,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.98,
+      "end": 12.68,
+      "text": "Sống mô đẹp!",
+      "words": [
+        {
+          "word": "Sống",
+          "start": 10.98,
+          "end": 11.42,
+          "probability": 0.66
+        },
+        {
+          "word": "mô",
+          "start": 11.42,
+          "end": 12.52,
+          "probability": 0.94
+        },
+        {
+          "word": "đẹp!",
+          "start": 12.52,
+          "end": 12.68,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.32,
+      "end": 14.04,
+      "text": "Rõ kia!",
+      "words": [
+        {
+          "word": "Rõ",
+          "start": 13.32,
+          "end": 13.66,
+          "probability": 0.99
+        },
+        {
+          "word": "kia!",
+          "start": 13.66,
+          "end": 14.04,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.42,
+      "end": 14.94,
+      "text": "Mống mô!",
+      "words": [
+        {
+          "word": "Mống",
+          "start": 14.42,
+          "end": 14.74,
+          "probability": 0.08
+        },
+        {
+          "word": "mô!",
+          "start": 14.74,
+          "end": 14.94,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.38,
+      "end": 16.06,
+      "text": "Mống mô!",
+      "words": [
+        {
+          "word": "Mống",
+          "start": 15.38,
+          "end": 15.8,
+          "probability": 0.24
+        },
+        {
+          "word": "mô!",
+          "start": 15.8,
+          "end": 16.06,
+          "probability": 0.61
+        }
+      ]
+    }
+  ]
+}

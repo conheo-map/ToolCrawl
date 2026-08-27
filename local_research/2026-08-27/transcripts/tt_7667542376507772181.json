@@ -1,0 +1,152 @@
+{
+  "item_id": "tt_7667542376507772181",
+  "duration_seconds": 33.49,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 21,
+  "text": "Mình phải là sao thông? Cái em là có đỏ lắm một cho chơi màu nhớm để tẻ gặp màn thân.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 30.8,
+      "text": "Mình phải là sao thông?",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 30.0,
+          "end": 30.02,
+          "probability": 0.13
+        },
+        {
+          "word": "phải",
+          "start": 30.02,
+          "end": 30.16,
+          "probability": 0.13
+        },
+        {
+          "word": "là",
+          "start": 30.16,
+          "end": 30.36,
+          "probability": 0.26
+        },
+        {
+          "word": "sao",
+          "start": 30.36,
+          "end": 30.52,
+          "probability": 0.1
+        },
+        {
+          "word": "thông?",
+          "start": 30.52,
+          "end": 30.8,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 30.94,
+      "end": 33.16,
+      "text": "Cái em là có đỏ lắm một cho chơi màu nhớm để tẻ gặp màn thân.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 30.94,
+          "end": 31.02,
+          "probability": 0.34
+        },
+        {
+          "word": "em",
+          "start": 31.02,
+          "end": 31.1,
+          "probability": 0.66
+        },
+        {
+          "word": "là",
+          "start": 31.1,
+          "end": 31.22,
+          "probability": 0.24
+        },
+        {
+          "word": "có",
+          "start": 31.22,
+          "end": 31.34,
+          "probability": 0.55
+        },
+        {
+          "word": "đỏ",
+          "start": 31.34,
+          "end": 31.54,
+          "probability": 0.31
+        },
+        {
+          "word": "lắm",
+          "start": 31.54,
+          "end": 31.68,
+          "probability": 0.11
+        },
+        {
+          "word": "một",
+          "start": 31.68,
+          "end": 31.78,
+          "probability": 0.27
+        },
+        {
+          "word": "cho",
+          "start": 31.78,
+          "end": 31.92,
+          "probability": 0.6
+        },
+        {
+          "word": "chơi",
+          "start": 31.92,
+          "end": 32.1,
+          "probability": 0.42
+        },
+        {
+          "word": "màu",
+          "start": 32.1,
+          "end": 32.32,
+          "probability": 0.54
+        },
+        {
+          "word": "nhớm",
+          "start": 32.32,
+          "end": 32.48,
+          "probability": 0.33
+        },
+        {
+          "word": "để",
+          "start": 32.48,
+          "end": 32.52,
+          "probability": 0.86
+        },
+        {
+          "word": "tẻ",
+          "start": 32.52,
+          "end": 32.66,
+          "probability": 0.19
+        },
+        {
+          "word": "gặp",
+          "start": 32.66,
+          "end": 32.84,
+          "probability": 0.38
+        },
+        {
+          "word": "màn",
+          "start": 32.84,
+          "end": 33.0,
+          "probability": 0.23
+        },
+        {
+          "word": "thân.",
+          "start": 33.0,
+          "end": 33.16,
+          "probability": 0.72
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7618621798250466581",
+  "duration_seconds": 88.6,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Bây giờ mươi dạ!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.04,
+      "text": "Bây giờ mươi dạ!",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 0.0,
+          "end": 0.2,
+          "probability": 0.22
+        },
+        {
+          "word": "giờ",
+          "start": 0.2,
+          "end": 0.56,
+          "probability": 0.88
+        },
+        {
+          "word": "mươi",
+          "start": 0.56,
+          "end": 1.54,
+          "probability": 0.25
+        },
+        {
+          "word": "dạ!",
+          "start": 1.54,
+          "end": 2.04,
+          "probability": 0.04
+        }
+      ]
+    }
+  ]
+}

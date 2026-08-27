@@ -1,0 +1,154 @@
+{
+  "item_id": "tt_7595577859188477202",
+  "duration_seconds": 69.88,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 20,
+  "text": "Thế rẻ trong những đừng hình đừng gà thì vươi Mình đừng gà thì vươi Đừng đừng gà thì vươi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 64.82,
+      "end": 66.96,
+      "text": "Thế rẻ trong những đừng hình đừng gà thì vươi",
+      "words": [
+        {
+          "word": "Thế",
+          "start": 64.82,
+          "end": 65.34,
+          "probability": 0.08
+        },
+        {
+          "word": "rẻ",
+          "start": 65.34,
+          "end": 65.5,
+          "probability": 0.07
+        },
+        {
+          "word": "trong",
+          "start": 65.5,
+          "end": 65.62,
+          "probability": 0.06
+        },
+        {
+          "word": "những",
+          "start": 65.62,
+          "end": 65.96,
+          "probability": 0.13
+        },
+        {
+          "word": "đừng",
+          "start": 65.96,
+          "end": 66.28,
+          "probability": 0.15
+        },
+        {
+          "word": "hình",
+          "start": 66.28,
+          "end": 66.3,
+          "probability": 0.07
+        },
+        {
+          "word": "đừng",
+          "start": 66.3,
+          "end": 66.3,
+          "probability": 0.37
+        },
+        {
+          "word": "gà",
+          "start": 66.3,
+          "end": 66.58,
+          "probability": 0.16
+        },
+        {
+          "word": "thì",
+          "start": 66.58,
+          "end": 66.74,
+          "probability": 0.05
+        },
+        {
+          "word": "vươi",
+          "start": 66.74,
+          "end": 66.96,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 66.96,
+      "end": 68.66,
+      "text": "Mình đừng gà thì vươi",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 66.96,
+          "end": 68.0,
+          "probability": 0.14
+        },
+        {
+          "word": "đừng",
+          "start": 68.0,
+          "end": 68.26,
+          "probability": 0.5
+        },
+        {
+          "word": "gà",
+          "start": 68.26,
+          "end": 68.66,
+          "probability": 0.64
+        },
+        {
+          "word": "thì",
+          "start": 68.66,
+          "end": 68.66,
+          "probability": 0.78
+        },
+        {
+          "word": "vươi",
+          "start": 68.66,
+          "end": 68.66,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 68.66,
+      "end": 69.86,
+      "text": "Đừng đừng gà thì vươi",
+      "words": [
+        {
+          "word": "Đừng",
+          "start": 68.66,
+          "end": 68.66,
+          "probability": 0.29
+        },
+        {
+          "word": "đừng",
+          "start": 68.66,
+          "end": 68.76,
+          "probability": 0.51
+        },
+        {
+          "word": "gà",
+          "start": 68.76,
+          "end": 69.76,
+          "probability": 0.69
+        },
+        {
+          "word": "thì",
+          "start": 69.76,
+          "end": 69.86,
+          "probability": 0.84
+        },
+        {
+          "word": "vươi",
+          "start": 69.86,
+          "end": 69.86,
+          "probability": 0.99
+        }
+      ]
+    }
+  ]
+}

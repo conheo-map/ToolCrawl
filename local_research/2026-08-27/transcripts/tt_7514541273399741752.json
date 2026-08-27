@@ -1,0 +1,934 @@
+{
+  "item_id": "tt_7514541273399741752",
+  "duration_seconds": 63.39,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 142,
+  "text": "Mặc biệt nhà vệ sinh amu với vien tay của gầu kênh Lizzet. Bún gầu dù có chăm kỏ đến mấy tí chi sâu dành ngày đã mang cản lúc mùi con chức chở lại Lizzle là vì đây là khu gần âm tất tương xe xe dụt, tự ký giải trị tụt vi quần mùi hôi. Tên em vừa phải sinh một lần là chứ đủ. Mặc cần có xẻ pháp tí chi sách sẽ hành ngày. Nhưng người nhận nhận dụt viên sách của gầu kênh Lizzet của ai của mình như một chợt đủ trong nhà. Mặc cần có núi lọt or lê có mùi hái mất cộng giọt bụt tình đưa. Chăm nhà sách tự nữ chi tích giòn nhất cũng viên sách vừa cầu kênh Lizzet ai của mình. Hẳng chân, vý tên mùa này tại đây.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.7,
+      "text": "Mặc biệt nhà vệ sinh amu với vien tay của gầu kênh Lizzet.",
+      "words": [
+        {
+          "word": "Mặc",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.18
+        },
+        {
+          "word": "biệt",
+          "start": 0.12,
+          "end": 0.4,
+          "probability": 0.79
+        },
+        {
+          "word": "nhà",
+          "start": 0.4,
+          "end": 0.62,
+          "probability": 0.52
+        },
+        {
+          "word": "vệ",
+          "start": 0.62,
+          "end": 0.82,
+          "probability": 0.42
+        },
+        {
+          "word": "sinh",
+          "start": 0.82,
+          "end": 1.1,
+          "probability": 0.65
+        },
+        {
+          "word": "amu",
+          "start": 1.1,
+          "end": 1.48,
+          "probability": 0.36
+        },
+        {
+          "word": "với",
+          "start": 1.48,
+          "end": 1.7,
+          "probability": 0.12
+        },
+        {
+          "word": "vien",
+          "start": 1.7,
+          "end": 1.98,
+          "probability": 0.33
+        },
+        {
+          "word": "tay",
+          "start": 1.98,
+          "end": 2.14,
+          "probability": 0.24
+        },
+        {
+          "word": "của",
+          "start": 2.14,
+          "end": 2.34,
+          "probability": 0.33
+        },
+        {
+          "word": "gầu",
+          "start": 2.34,
+          "end": 2.62,
+          "probability": 0.23
+        },
+        {
+          "word": "kênh",
+          "start": 2.62,
+          "end": 2.82,
+          "probability": 0.35
+        },
+        {
+          "word": "Lizzet.",
+          "start": 2.82,
+          "end": 3.7,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.04,
+      "end": 8.38,
+      "text": "Bún gầu dù có chăm kỏ đến mấy tí chi sâu dành ngày đã mang cản lúc mùi con chức chở lại",
+      "words": [
+        {
+          "word": "Bún",
+          "start": 4.04,
+          "end": 4.04,
+          "probability": 0.27
+        },
+        {
+          "word": "gầu",
+          "start": 4.04,
+          "end": 4.28,
+          "probability": 0.84
+        },
+        {
+          "word": "dù",
+          "start": 4.28,
+          "end": 4.46,
+          "probability": 0.45
+        },
+        {
+          "word": "có",
+          "start": 4.46,
+          "end": 4.62,
+          "probability": 0.67
+        },
+        {
+          "word": "chăm",
+          "start": 4.62,
+          "end": 4.82,
+          "probability": 0.53
+        },
+        {
+          "word": "kỏ",
+          "start": 4.82,
+          "end": 4.96,
+          "probability": 0.12
+        },
+        {
+          "word": "đến",
+          "start": 4.96,
+          "end": 5.16,
+          "probability": 0.5
+        },
+        {
+          "word": "mấy",
+          "start": 5.16,
+          "end": 5.4,
+          "probability": 0.8
+        },
+        {
+          "word": "tí",
+          "start": 5.4,
+          "end": 5.64,
+          "probability": 0.27
+        },
+        {
+          "word": "chi",
+          "start": 5.64,
+          "end": 5.78,
+          "probability": 0.31
+        },
+        {
+          "word": "sâu",
+          "start": 5.78,
+          "end": 6.02,
+          "probability": 0.36
+        },
+        {
+          "word": "dành",
+          "start": 6.02,
+          "end": 6.22,
+          "probability": 0.29
+        },
+        {
+          "word": "ngày",
+          "start": 6.22,
+          "end": 6.42,
+          "probability": 0.39
+        },
+        {
+          "word": "đã",
+          "start": 6.42,
+          "end": 6.58,
+          "probability": 0.6
+        },
+        {
+          "word": "mang",
+          "start": 6.58,
+          "end": 6.8,
+          "probability": 0.51
+        },
+        {
+          "word": "cản",
+          "start": 6.8,
+          "end": 7.12,
+          "probability": 0.17
+        },
+        {
+          "word": "lúc",
+          "start": 7.12,
+          "end": 7.2,
+          "probability": 0.27
+        },
+        {
+          "word": "mùi",
+          "start": 7.2,
+          "end": 7.48,
+          "probability": 0.58
+        },
+        {
+          "word": "con",
+          "start": 7.48,
+          "end": 7.7,
+          "probability": 0.58
+        },
+        {
+          "word": "chức",
+          "start": 7.7,
+          "end": 7.84,
+          "probability": 0.33
+        },
+        {
+          "word": "chở",
+          "start": 7.84,
+          "end": 8.1,
+          "probability": 0.43
+        },
+        {
+          "word": "lại",
+          "start": 8.1,
+          "end": 8.38,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.38,
+      "end": 13.44,
+      "text": "Lizzle là vì đây là khu gần âm tất tương xe xe dụt, tự ký giải trị tụt vi quần mùi hôi.",
+      "words": [
+        {
+          "word": "Lizzle",
+          "start": 8.38,
+          "end": 8.94,
+          "probability": 0.34
+        },
+        {
+          "word": "là",
+          "start": 8.94,
+          "end": 9.14,
+          "probability": 0.72
+        },
+        {
+          "word": "vì",
+          "start": 9.14,
+          "end": 9.28,
+          "probability": 0.54
+        },
+        {
+          "word": "đây",
+          "start": 9.28,
+          "end": 9.42,
+          "probability": 0.8
+        },
+        {
+          "word": "là",
+          "start": 9.42,
+          "end": 9.64,
+          "probability": 0.98
+        },
+        {
+          "word": "khu",
+          "start": 9.64,
+          "end": 9.76,
+          "probability": 0.61
+        },
+        {
+          "word": "gần",
+          "start": 9.76,
+          "end": 9.92,
+          "probability": 0.38
+        },
+        {
+          "word": "âm",
+          "start": 9.92,
+          "end": 10.24,
+          "probability": 0.64
+        },
+        {
+          "word": "tất",
+          "start": 10.24,
+          "end": 10.44,
+          "probability": 0.27
+        },
+        {
+          "word": "tương",
+          "start": 10.44,
+          "end": 10.74,
+          "probability": 0.33
+        },
+        {
+          "word": "xe",
+          "start": 10.74,
+          "end": 10.9,
+          "probability": 0.32
+        },
+        {
+          "word": "xe",
+          "start": 10.9,
+          "end": 11.12,
+          "probability": 0.39
+        },
+        {
+          "word": "dụt,",
+          "start": 11.12,
+          "end": 11.6,
+          "probability": 0.4
+        },
+        {
+          "word": "tự",
+          "start": 11.6,
+          "end": 11.78,
+          "probability": 0.27
+        },
+        {
+          "word": "ký",
+          "start": 11.78,
+          "end": 11.94,
+          "probability": 0.33
+        },
+        {
+          "word": "giải",
+          "start": 11.94,
+          "end": 12.1,
+          "probability": 0.27
+        },
+        {
+          "word": "trị",
+          "start": 12.1,
+          "end": 12.3,
+          "probability": 0.16
+        },
+        {
+          "word": "tụt",
+          "start": 12.3,
+          "end": 12.48,
+          "probability": 0.57
+        },
+        {
+          "word": "vi",
+          "start": 12.48,
+          "end": 12.78,
+          "probability": 0.54
+        },
+        {
+          "word": "quần",
+          "start": 12.78,
+          "end": 12.88,
+          "probability": 0.39
+        },
+        {
+          "word": "mùi",
+          "start": 12.88,
+          "end": 13.14,
+          "probability": 0.9
+        },
+        {
+          "word": "hôi.",
+          "start": 13.14,
+          "end": 13.44,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.78,
+      "end": 15.68,
+      "text": "Tên em vừa phải sinh một lần là chứ đủ.",
+      "words": [
+        {
+          "word": "Tên",
+          "start": 13.78,
+          "end": 13.86,
+          "probability": 0.69
+        },
+        {
+          "word": "em",
+          "start": 13.86,
+          "end": 14.06,
+          "probability": 0.2
+        },
+        {
+          "word": "vừa",
+          "start": 14.06,
+          "end": 14.24,
+          "probability": 0.26
+        },
+        {
+          "word": "phải",
+          "start": 14.24,
+          "end": 14.42,
+          "probability": 0.24
+        },
+        {
+          "word": "sinh",
+          "start": 14.42,
+          "end": 14.62,
+          "probability": 0.93
+        },
+        {
+          "word": "một",
+          "start": 14.62,
+          "end": 14.76,
+          "probability": 0.73
+        },
+        {
+          "word": "lần",
+          "start": 14.76,
+          "end": 14.96,
+          "probability": 0.79
+        },
+        {
+          "word": "là",
+          "start": 14.96,
+          "end": 15.16,
+          "probability": 0.65
+        },
+        {
+          "word": "chứ",
+          "start": 15.16,
+          "end": 15.34,
+          "probability": 0.27
+        },
+        {
+          "word": "đủ.",
+          "start": 15.34,
+          "end": 15.68,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.94,
+      "end": 18.16,
+      "text": "Mặc cần có xẻ pháp tí chi sách sẽ hành ngày.",
+      "words": [
+        {
+          "word": "Mặc",
+          "start": 15.94,
+          "end": 15.94,
+          "probability": 0.83
+        },
+        {
+          "word": "cần",
+          "start": 15.94,
+          "end": 16.08,
+          "probability": 0.4
+        },
+        {
+          "word": "có",
+          "start": 16.08,
+          "end": 16.24,
+          "probability": 0.89
+        },
+        {
+          "word": "xẻ",
+          "start": 16.24,
+          "end": 16.42,
+          "probability": 0.33
+        },
+        {
+          "word": "pháp",
+          "start": 16.42,
+          "end": 16.7,
+          "probability": 0.82
+        },
+        {
+          "word": "tí",
+          "start": 16.7,
+          "end": 16.86,
+          "probability": 0.95
+        },
+        {
+          "word": "chi",
+          "start": 16.86,
+          "end": 17.04,
+          "probability": 0.98
+        },
+        {
+          "word": "sách",
+          "start": 17.04,
+          "end": 17.3,
+          "probability": 0.36
+        },
+        {
+          "word": "sẽ",
+          "start": 17.3,
+          "end": 17.48,
+          "probability": 0.38
+        },
+        {
+          "word": "hành",
+          "start": 17.48,
+          "end": 17.76,
+          "probability": 0.39
+        },
+        {
+          "word": "ngày.",
+          "start": 17.76,
+          "end": 18.16,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 18.32,
+      "end": 22.78,
+      "text": "Nhưng người nhận nhận dụt viên sách của gầu kênh Lizzet của ai của mình như một chợt đủ trong nhà.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 18.32,
+          "end": 18.48,
+          "probability": 0.6
+        },
+        {
+          "word": "người",
+          "start": 18.48,
+          "end": 18.72,
+          "probability": 0.61
+        },
+        {
+          "word": "nhận",
+          "start": 18.72,
+          "end": 19.0,
+          "probability": 0.38
+        },
+        {
+          "word": "nhận",
+          "start": 19.0,
+          "end": 19.2,
+          "probability": 0.5
+        },
+        {
+          "word": "dụt",
+          "start": 19.2,
+          "end": 19.44,
+          "probability": 0.37
+        },
+        {
+          "word": "viên",
+          "start": 19.44,
+          "end": 19.66,
+          "probability": 0.88
+        },
+        {
+          "word": "sách",
+          "start": 19.66,
+          "end": 19.84,
+          "probability": 0.66
+        },
+        {
+          "word": "của",
+          "start": 19.84,
+          "end": 20.0,
+          "probability": 0.82
+        },
+        {
+          "word": "gầu",
+          "start": 20.0,
+          "end": 20.22,
+          "probability": 0.92
+        },
+        {
+          "word": "kênh",
+          "start": 20.22,
+          "end": 20.46,
+          "probability": 0.8
+        },
+        {
+          "word": "Lizzet",
+          "start": 20.46,
+          "end": 20.7,
+          "probability": 0.99
+        },
+        {
+          "word": "của",
+          "start": 20.7,
+          "end": 20.94,
+          "probability": 0.94
+        },
+        {
+          "word": "ai",
+          "start": 20.94,
+          "end": 21.1,
+          "probability": 0.06
+        },
+        {
+          "word": "của",
+          "start": 21.1,
+          "end": 21.22,
+          "probability": 0.52
+        },
+        {
+          "word": "mình",
+          "start": 21.22,
+          "end": 21.56,
+          "probability": 0.24
+        },
+        {
+          "word": "như",
+          "start": 21.56,
+          "end": 21.78,
+          "probability": 0.42
+        },
+        {
+          "word": "một",
+          "start": 21.78,
+          "end": 22.0,
+          "probability": 0.77
+        },
+        {
+          "word": "chợt",
+          "start": 22.0,
+          "end": 22.1,
+          "probability": 0.44
+        },
+        {
+          "word": "đủ",
+          "start": 22.1,
+          "end": 22.32,
+          "probability": 0.53
+        },
+        {
+          "word": "trong",
+          "start": 22.32,
+          "end": 22.5,
+          "probability": 0.5
+        },
+        {
+          "word": "nhà.",
+          "start": 22.5,
+          "end": 22.78,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 52.78,
+      "end": 55.92,
+      "text": "Mặc cần có núi lọt or lê có mùi hái mất cộng giọt bụt tình đưa.",
+      "words": [
+        {
+          "word": "Mặc",
+          "start": 52.78,
+          "end": 53.02,
+          "probability": 0.01
+        },
+        {
+          "word": "cần",
+          "start": 53.02,
+          "end": 53.02,
+          "probability": 0.0
+        },
+        {
+          "word": "có",
+          "start": 53.02,
+          "end": 53.04,
+          "probability": 0.05
+        },
+        {
+          "word": "núi",
+          "start": 53.04,
+          "end": 53.32,
+          "probability": 0.21
+        },
+        {
+          "word": "lọt",
+          "start": 53.32,
+          "end": 53.56,
+          "probability": 0.34
+        },
+        {
+          "word": "or",
+          "start": 53.56,
+          "end": 53.72,
+          "probability": 0.16
+        },
+        {
+          "word": "lê",
+          "start": 53.72,
+          "end": 53.86,
+          "probability": 0.2
+        },
+        {
+          "word": "có",
+          "start": 53.86,
+          "end": 54.04,
+          "probability": 0.84
+        },
+        {
+          "word": "mùi",
+          "start": 54.04,
+          "end": 54.28,
+          "probability": 0.7
+        },
+        {
+          "word": "hái",
+          "start": 54.28,
+          "end": 54.5,
+          "probability": 0.13
+        },
+        {
+          "word": "mất",
+          "start": 54.5,
+          "end": 54.68,
+          "probability": 0.76
+        },
+        {
+          "word": "cộng",
+          "start": 54.68,
+          "end": 54.9,
+          "probability": 0.48
+        },
+        {
+          "word": "giọt",
+          "start": 54.9,
+          "end": 55.1,
+          "probability": 0.67
+        },
+        {
+          "word": "bụt",
+          "start": 55.1,
+          "end": 55.3,
+          "probability": 0.39
+        },
+        {
+          "word": "tình",
+          "start": 55.3,
+          "end": 55.44,
+          "probability": 0.41
+        },
+        {
+          "word": "đưa.",
+          "start": 55.44,
+          "end": 55.92,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 56.1,
+      "end": 60.54,
+      "text": "Chăm nhà sách tự nữ chi tích giòn nhất cũng viên sách vừa cầu kênh Lizzet ai của mình.",
+      "words": [
+        {
+          "word": "Chăm",
+          "start": 56.1,
+          "end": 56.26,
+          "probability": 0.39
+        },
+        {
+          "word": "nhà",
+          "start": 56.26,
+          "end": 56.48,
+          "probability": 0.07
+        },
+        {
+          "word": "sách",
+          "start": 56.48,
+          "end": 56.74,
+          "probability": 0.34
+        },
+        {
+          "word": "tự",
+          "start": 56.74,
+          "end": 56.94,
+          "probability": 0.23
+        },
+        {
+          "word": "nữ",
+          "start": 56.94,
+          "end": 57.08,
+          "probability": 0.3
+        },
+        {
+          "word": "chi",
+          "start": 57.08,
+          "end": 57.3,
+          "probability": 0.27
+        },
+        {
+          "word": "tích",
+          "start": 57.3,
+          "end": 57.5,
+          "probability": 0.38
+        },
+        {
+          "word": "giòn",
+          "start": 57.5,
+          "end": 57.76,
+          "probability": 0.47
+        },
+        {
+          "word": "nhất",
+          "start": 57.76,
+          "end": 58.08,
+          "probability": 0.41
+        },
+        {
+          "word": "cũng",
+          "start": 58.08,
+          "end": 58.3,
+          "probability": 0.27
+        },
+        {
+          "word": "viên",
+          "start": 58.3,
+          "end": 58.5,
+          "probability": 0.56
+        },
+        {
+          "word": "sách",
+          "start": 58.5,
+          "end": 58.7,
+          "probability": 0.97
+        },
+        {
+          "word": "vừa",
+          "start": 58.7,
+          "end": 58.9,
+          "probability": 0.17
+        },
+        {
+          "word": "cầu",
+          "start": 58.9,
+          "end": 59.16,
+          "probability": 0.24
+        },
+        {
+          "word": "kênh",
+          "start": 59.16,
+          "end": 59.3,
+          "probability": 0.45
+        },
+        {
+          "word": "Lizzet",
+          "start": 59.3,
+          "end": 59.74,
+          "probability": 0.17
+        },
+        {
+          "word": "ai",
+          "start": 59.74,
+          "end": 59.94,
+          "probability": 0.12
+        },
+        {
+          "word": "của",
+          "start": 59.94,
+          "end": 60.08,
+          "probability": 0.4
+        },
+        {
+          "word": "mình.",
+          "start": 60.08,
+          "end": 60.54,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 60.82,
+      "end": 62.98,
+      "text": "Hẳng chân, vý tên mùa này tại đây.",
+      "words": [
+        {
+          "word": "Hẳng",
+          "start": 60.82,
+          "end": 60.9,
+          "probability": 0.47
+        },
+        {
+          "word": "chân,",
+          "start": 60.9,
+          "end": 61.14,
+          "probability": 0.25
+        },
+        {
+          "word": "vý",
+          "start": 61.52,
+          "end": 61.52,
+          "probability": 0.1
+        },
+        {
+          "word": "tên",
+          "start": 61.52,
+          "end": 61.9,
+          "probability": 0.37
+        },
+        {
+          "word": "mùa",
+          "start": 61.9,
+          "end": 62.32,
+          "probability": 0.38
+        },
+        {
+          "word": "này",
+          "start": 62.32,
+          "end": 62.56,
+          "probability": 0.26
+        },
+        {
+          "word": "tại",
+          "start": 62.56,
+          "end": 62.76,
+          "probability": 0.38
+        },
+        {
+          "word": "đây.",
+          "start": 62.76,
+          "end": 62.98,
+          "probability": 0.71
+        }
+      ]
+    }
+  ]
+}

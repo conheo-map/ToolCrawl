@@ -1,0 +1,166 @@
+{
+  "item_id": "tt_7654583570123558160",
+  "duration_seconds": 31.93,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 18,
+  "text": "Tổng ở tác kìa Mày điện Đi in fact Tao sạm không xa in Điều bị tác Ok",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.21,
+      "end": 1.33,
+      "text": "Tổng ở tác kìa",
+      "words": [
+        {
+          "word": "Tổng",
+          "start": 0.21,
+          "end": 0.89,
+          "probability": 0.21
+        },
+        {
+          "word": "ở",
+          "start": 0.89,
+          "end": 0.89,
+          "probability": 0.03
+        },
+        {
+          "word": "tác",
+          "start": 0.89,
+          "end": 1.13,
+          "probability": 0.63
+        },
+        {
+          "word": "kìa",
+          "start": 1.13,
+          "end": 1.33,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.01,
+      "end": 2.97,
+      "text": "Mày điện",
+      "words": [
+        {
+          "word": "Mày",
+          "start": 2.01,
+          "end": 2.49,
+          "probability": 0.02
+        },
+        {
+          "word": "điện",
+          "start": 2.49,
+          "end": 2.97,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.97,
+      "end": 3.61,
+      "text": "Đi in fact",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 2.97,
+          "end": 3.39,
+          "probability": 0.19
+        },
+        {
+          "word": "in",
+          "start": 3.39,
+          "end": 3.39,
+          "probability": 0.05
+        },
+        {
+          "word": "fact",
+          "start": 3.39,
+          "end": 3.61,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 3.61,
+      "end": 4.87,
+      "text": "Tao sạm không xa in",
+      "words": [
+        {
+          "word": "Tao",
+          "start": 3.61,
+          "end": 4.07,
+          "probability": 0.02
+        },
+        {
+          "word": "sạm",
+          "start": 4.07,
+          "end": 4.31,
+          "probability": 0.36
+        },
+        {
+          "word": "không",
+          "start": 4.31,
+          "end": 4.47,
+          "probability": 0.15
+        },
+        {
+          "word": "xa",
+          "start": 4.47,
+          "end": 4.67,
+          "probability": 0.42
+        },
+        {
+          "word": "in",
+          "start": 4.67,
+          "end": 4.87,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 4.87,
+      "end": 5.67,
+      "text": "Điều bị tác",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 4.87,
+          "end": 5.13,
+          "probability": 0.26
+        },
+        {
+          "word": "bị",
+          "start": 5.13,
+          "end": 5.23,
+          "probability": 0.13
+        },
+        {
+          "word": "tác",
+          "start": 5.23,
+          "end": 5.67,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 30.21,
+      "end": 30.59,
+      "text": "Ok",
+      "words": [
+        {
+          "word": "Ok",
+          "start": 30.21,
+          "end": 30.59,
+          "probability": 0.04
+        }
+      ]
+    }
+  ]
+}

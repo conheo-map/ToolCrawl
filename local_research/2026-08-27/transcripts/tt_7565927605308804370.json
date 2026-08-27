@@ -1,0 +1,110 @@
+{
+  "item_id": "tt_7565927605308804370",
+  "duration_seconds": 187.87,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 14,
+  "text": "Dạ bởi vì cái sát không Tên khởi hồi, đơn hỏi, vô chí mấy",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.39,
+      "end": 54.74,
+      "text": "Dạ bởi vì cái sát không",
+      "words": [
+        {
+          "word": "Dạ",
+          "start": 1.39,
+          "end": 1.95,
+          "probability": 0.11
+        },
+        {
+          "word": "bởi",
+          "start": 1.95,
+          "end": 3.13,
+          "probability": 0.36
+        },
+        {
+          "word": "vì",
+          "start": 3.13,
+          "end": 3.51,
+          "probability": 0.23
+        },
+        {
+          "word": "cái",
+          "start": 3.51,
+          "end": 4.75,
+          "probability": 0.01
+        },
+        {
+          "word": "sát",
+          "start": 4.75,
+          "end": 6.37,
+          "probability": 0.01
+        },
+        {
+          "word": "không",
+          "start": 53.92,
+          "end": 54.74,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 54.74,
+      "end": 82.51,
+      "text": "Tên khởi hồi, đơn hỏi, vô chí mấy",
+      "words": [
+        {
+          "word": "Tên",
+          "start": 54.74,
+          "end": 55.28,
+          "probability": 0.1
+        },
+        {
+          "word": "khởi",
+          "start": 81.43,
+          "end": 81.65,
+          "probability": 0.37
+        },
+        {
+          "word": "hồi,",
+          "start": 81.65,
+          "end": 81.73,
+          "probability": 0.04
+        },
+        {
+          "word": "đơn",
+          "start": 81.73,
+          "end": 81.73,
+          "probability": 0.05
+        },
+        {
+          "word": "hỏi,",
+          "start": 81.73,
+          "end": 81.73,
+          "probability": 0.04
+        },
+        {
+          "word": "vô",
+          "start": 81.93,
+          "end": 81.97,
+          "probability": 0.32
+        },
+        {
+          "word": "chí",
+          "start": 81.97,
+          "end": 82.11,
+          "probability": 0.38
+        },
+        {
+          "word": "mấy",
+          "start": 82.11,
+          "end": 82.51,
+          "probability": 0.1
+        }
+      ]
+    }
+  ]
+}

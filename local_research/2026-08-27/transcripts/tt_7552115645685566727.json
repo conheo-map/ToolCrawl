@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7552115645685566727",
+  "duration_seconds": 38.82,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Vào tối tối tối tiếp.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 2.27,
+      "text": "Vào tối tối tối tiếp.",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 0.11,
+          "end": 0.73,
+          "probability": 0.17
+        },
+        {
+          "word": "tối",
+          "start": 0.73,
+          "end": 2.07,
+          "probability": 0.11
+        },
+        {
+          "word": "tối",
+          "start": 2.07,
+          "end": 2.07,
+          "probability": 0.15
+        },
+        {
+          "word": "tối",
+          "start": 2.07,
+          "end": 2.15,
+          "probability": 0.53
+        },
+        {
+          "word": "tiếp.",
+          "start": 2.15,
+          "end": 2.27,
+          "probability": 0.0
+        }
+      ]
+    }
+  ]
+}

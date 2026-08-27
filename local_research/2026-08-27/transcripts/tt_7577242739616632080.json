@@ -1,0 +1,726 @@
+{
+  "item_id": "tt_7577242739616632080",
+  "duration_seconds": 71.64,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 107,
+  "text": "Sao nay ngày 20, 8,5 năm, 8,5 năm, Tòa như dân tình đồng này mở phía tỏa sế sử dân tầm bởi với bí káu nguyễn thi hôm biết, 8,5 tuổi, 1 xa phút an, đồng này, về tội dết nguyễn và tội tăng chữ, bất chuyến, sự dụng trên phép chứ đọc, đây là vụ an đã về trên động dưới lợt, hôm mang trong còn chủ nguyên dân. Hành đi phạt tội của nguyễn thi hôm biết là đặc biệt nguy hiểm, tàn động, thế hiện sự vô cảm, xem thường pháp lợt, nhóm và chính người dụ thiết đá sống chú trong gia đình.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.44,
+      "text": "Sao nay ngày 20, 8,5 năm, 8,5 năm,",
+      "words": [
+        {
+          "word": "Sao",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.42
+        },
+        {
+          "word": "nay",
+          "start": 0.28,
+          "end": 0.32,
+          "probability": 0.79
+        },
+        {
+          "word": "ngày",
+          "start": 0.32,
+          "end": 0.48,
+          "probability": 0.77
+        },
+        {
+          "word": "20,",
+          "start": 0.48,
+          "end": 0.68,
+          "probability": 0.2
+        },
+        {
+          "word": "8",
+          "start": 0.9,
+          "end": 1.0,
+          "probability": 0.03
+        },
+        {
+          "word": ",5",
+          "start": 1.0,
+          "end": 1.16,
+          "probability": 0.16
+        },
+        {
+          "word": "năm,",
+          "start": 1.16,
+          "end": 1.36,
+          "probability": 0.19
+        },
+        {
+          "word": "8",
+          "start": 1.74,
+          "end": 1.76,
+          "probability": 0.05
+        },
+        {
+          "word": ",5",
+          "start": 1.76,
+          "end": 2.32,
+          "probability": 0.65
+        },
+        {
+          "word": "năm,",
+          "start": 2.32,
+          "end": 2.44,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.54,
+      "end": 5.9,
+      "text": "Tòa như dân tình đồng này mở phía tỏa sế sử dân tầm bởi với bí káu nguyễn thi hôm biết,",
+      "words": [
+        {
+          "word": "Tòa",
+          "start": 2.54,
+          "end": 2.76,
+          "probability": 0.31
+        },
+        {
+          "word": "như",
+          "start": 2.76,
+          "end": 2.8,
+          "probability": 0.23
+        },
+        {
+          "word": "dân",
+          "start": 2.8,
+          "end": 3.0,
+          "probability": 0.54
+        },
+        {
+          "word": "tình",
+          "start": 3.0,
+          "end": 3.1,
+          "probability": 0.62
+        },
+        {
+          "word": "đồng",
+          "start": 3.1,
+          "end": 3.34,
+          "probability": 0.7
+        },
+        {
+          "word": "này",
+          "start": 3.34,
+          "end": 3.44,
+          "probability": 0.32
+        },
+        {
+          "word": "mở",
+          "start": 3.44,
+          "end": 3.6,
+          "probability": 0.58
+        },
+        {
+          "word": "phía",
+          "start": 3.6,
+          "end": 3.76,
+          "probability": 0.41
+        },
+        {
+          "word": "tỏa",
+          "start": 3.76,
+          "end": 3.98,
+          "probability": 0.55
+        },
+        {
+          "word": "sế",
+          "start": 3.98,
+          "end": 4.16,
+          "probability": 0.43
+        },
+        {
+          "word": "sử",
+          "start": 4.16,
+          "end": 4.32,
+          "probability": 0.69
+        },
+        {
+          "word": "dân",
+          "start": 4.32,
+          "end": 4.42,
+          "probability": 0.55
+        },
+        {
+          "word": "tầm",
+          "start": 4.42,
+          "end": 4.62,
+          "probability": 0.54
+        },
+        {
+          "word": "bởi",
+          "start": 4.62,
+          "end": 4.76,
+          "probability": 0.61
+        },
+        {
+          "word": "với",
+          "start": 4.76,
+          "end": 4.9,
+          "probability": 0.21
+        },
+        {
+          "word": "bí",
+          "start": 4.9,
+          "end": 5.08,
+          "probability": 0.33
+        },
+        {
+          "word": "káu",
+          "start": 5.08,
+          "end": 5.24,
+          "probability": 0.34
+        },
+        {
+          "word": "nguyễn",
+          "start": 5.24,
+          "end": 5.4,
+          "probability": 0.74
+        },
+        {
+          "word": "thi",
+          "start": 5.4,
+          "end": 5.52,
+          "probability": 0.34
+        },
+        {
+          "word": "hôm",
+          "start": 5.52,
+          "end": 5.64,
+          "probability": 0.27
+        },
+        {
+          "word": "biết,",
+          "start": 5.64,
+          "end": 5.9,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.0,
+      "end": 9.72,
+      "text": "8,5 tuổi, 1 xa phút an, đồng này, về tội dết nguyễn và tội tăng chữ,",
+      "words": [
+        {
+          "word": "8",
+          "start": 6.0,
+          "end": 6.16,
+          "probability": 0.37
+        },
+        {
+          "word": ",5",
+          "start": 6.16,
+          "end": 6.52,
+          "probability": 0.76
+        },
+        {
+          "word": "tuổi,",
+          "start": 6.52,
+          "end": 6.9,
+          "probability": 0.46
+        },
+        {
+          "word": "1",
+          "start": 6.94,
+          "end": 7.1,
+          "probability": 0.43
+        },
+        {
+          "word": "xa",
+          "start": 7.1,
+          "end": 7.26,
+          "probability": 0.35
+        },
+        {
+          "word": "phút",
+          "start": 7.26,
+          "end": 7.42,
+          "probability": 0.7
+        },
+        {
+          "word": "an,",
+          "start": 7.42,
+          "end": 7.76,
+          "probability": 0.56
+        },
+        {
+          "word": "đồng",
+          "start": 7.88,
+          "end": 7.96,
+          "probability": 0.85
+        },
+        {
+          "word": "này,",
+          "start": 7.96,
+          "end": 8.26,
+          "probability": 0.79
+        },
+        {
+          "word": "về",
+          "start": 8.48,
+          "end": 8.56,
+          "probability": 0.69
+        },
+        {
+          "word": "tội",
+          "start": 8.56,
+          "end": 8.68,
+          "probability": 0.55
+        },
+        {
+          "word": "dết",
+          "start": 8.68,
+          "end": 8.8,
+          "probability": 0.31
+        },
+        {
+          "word": "nguyễn",
+          "start": 8.8,
+          "end": 9.0,
+          "probability": 0.64
+        },
+        {
+          "word": "và",
+          "start": 9.0,
+          "end": 9.14,
+          "probability": 0.79
+        },
+        {
+          "word": "tội",
+          "start": 9.14,
+          "end": 9.3,
+          "probability": 0.77
+        },
+        {
+          "word": "tăng",
+          "start": 9.3,
+          "end": 9.48,
+          "probability": 0.55
+        },
+        {
+          "word": "chữ,",
+          "start": 9.48,
+          "end": 9.72,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.9,
+      "end": 13.14,
+      "text": "bất chuyến, sự dụng trên phép chứ đọc, đây là vụ an đã về trên động dưới lợt,",
+      "words": [
+        {
+          "word": "bất",
+          "start": 9.9,
+          "end": 10.04,
+          "probability": 0.4
+        },
+        {
+          "word": "chuyến,",
+          "start": 10.04,
+          "end": 10.38,
+          "probability": 0.28
+        },
+        {
+          "word": "sự",
+          "start": 10.46,
+          "end": 10.58,
+          "probability": 0.33
+        },
+        {
+          "word": "dụng",
+          "start": 10.58,
+          "end": 10.72,
+          "probability": 0.83
+        },
+        {
+          "word": "trên",
+          "start": 10.72,
+          "end": 10.88,
+          "probability": 0.91
+        },
+        {
+          "word": "phép",
+          "start": 10.88,
+          "end": 11.04,
+          "probability": 0.73
+        },
+        {
+          "word": "chứ",
+          "start": 11.04,
+          "end": 11.2,
+          "probability": 0.43
+        },
+        {
+          "word": "đọc,",
+          "start": 11.2,
+          "end": 11.5,
+          "probability": 0.51
+        },
+        {
+          "word": "đây",
+          "start": 11.68,
+          "end": 11.74,
+          "probability": 0.7
+        },
+        {
+          "word": "là",
+          "start": 11.74,
+          "end": 11.88,
+          "probability": 0.99
+        },
+        {
+          "word": "vụ",
+          "start": 11.88,
+          "end": 12.02,
+          "probability": 0.83
+        },
+        {
+          "word": "an",
+          "start": 12.02,
+          "end": 12.16,
+          "probability": 0.37
+        },
+        {
+          "word": "đã",
+          "start": 12.16,
+          "end": 12.32,
+          "probability": 0.95
+        },
+        {
+          "word": "về",
+          "start": 12.32,
+          "end": 12.44,
+          "probability": 0.37
+        },
+        {
+          "word": "trên",
+          "start": 12.44,
+          "end": 12.6,
+          "probability": 0.48
+        },
+        {
+          "word": "động",
+          "start": 12.6,
+          "end": 12.76,
+          "probability": 0.42
+        },
+        {
+          "word": "dưới",
+          "start": 12.76,
+          "end": 12.9,
+          "probability": 0.82
+        },
+        {
+          "word": "lợt,",
+          "start": 12.9,
+          "end": 13.14,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.38,
+      "end": 14.5,
+      "text": "hôm mang trong còn chủ nguyên dân.",
+      "words": [
+        {
+          "word": "hôm",
+          "start": 13.38,
+          "end": 13.38,
+          "probability": 0.24
+        },
+        {
+          "word": "mang",
+          "start": 13.38,
+          "end": 13.56,
+          "probability": 0.27
+        },
+        {
+          "word": "trong",
+          "start": 13.56,
+          "end": 13.7,
+          "probability": 0.94
+        },
+        {
+          "word": "còn",
+          "start": 13.7,
+          "end": 13.88,
+          "probability": 0.19
+        },
+        {
+          "word": "chủ",
+          "start": 13.88,
+          "end": 14.02,
+          "probability": 0.61
+        },
+        {
+          "word": "nguyên",
+          "start": 14.02,
+          "end": 14.18,
+          "probability": 0.38
+        },
+        {
+          "word": "dân.",
+          "start": 14.18,
+          "end": 14.5,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.78,
+      "end": 18.34,
+      "text": "Hành đi phạt tội của nguyễn thi hôm biết là đặc biệt nguy hiểm, tàn động, thế hiện sự vô cảm,",
+      "words": [
+        {
+          "word": "Hành",
+          "start": 14.78,
+          "end": 14.92,
+          "probability": 0.78
+        },
+        {
+          "word": "đi",
+          "start": 14.92,
+          "end": 15.06,
+          "probability": 0.45
+        },
+        {
+          "word": "phạt",
+          "start": 15.06,
+          "end": 15.26,
+          "probability": 0.52
+        },
+        {
+          "word": "tội",
+          "start": 15.26,
+          "end": 15.4,
+          "probability": 0.7
+        },
+        {
+          "word": "của",
+          "start": 15.4,
+          "end": 15.54,
+          "probability": 0.22
+        },
+        {
+          "word": "nguyễn",
+          "start": 15.54,
+          "end": 15.72,
+          "probability": 0.98
+        },
+        {
+          "word": "thi",
+          "start": 15.72,
+          "end": 15.86,
+          "probability": 0.98
+        },
+        {
+          "word": "hôm",
+          "start": 15.86,
+          "end": 15.96,
+          "probability": 0.9
+        },
+        {
+          "word": "biết",
+          "start": 15.96,
+          "end": 16.12,
+          "probability": 0.99
+        },
+        {
+          "word": "là",
+          "start": 16.12,
+          "end": 16.24,
+          "probability": 0.93
+        },
+        {
+          "word": "đặc",
+          "start": 16.24,
+          "end": 16.52,
+          "probability": 0.68
+        },
+        {
+          "word": "biệt",
+          "start": 16.52,
+          "end": 16.52,
+          "probability": 0.88
+        },
+        {
+          "word": "nguy",
+          "start": 16.52,
+          "end": 16.76,
+          "probability": 0.6
+        },
+        {
+          "word": "hiểm,",
+          "start": 16.76,
+          "end": 16.96,
+          "probability": 0.43
+        },
+        {
+          "word": "tàn",
+          "start": 17.04,
+          "end": 17.18,
+          "probability": 0.56
+        },
+        {
+          "word": "động,",
+          "start": 17.18,
+          "end": 17.38,
+          "probability": 0.57
+        },
+        {
+          "word": "thế",
+          "start": 17.62,
+          "end": 17.64,
+          "probability": 0.23
+        },
+        {
+          "word": "hiện",
+          "start": 17.64,
+          "end": 17.8,
+          "probability": 0.7
+        },
+        {
+          "word": "sự",
+          "start": 17.8,
+          "end": 17.94,
+          "probability": 0.9
+        },
+        {
+          "word": "vô",
+          "start": 17.94,
+          "end": 18.12,
+          "probability": 0.57
+        },
+        {
+          "word": "cảm,",
+          "start": 18.12,
+          "end": 18.34,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.5,
+      "end": 21.36,
+      "text": "xem thường pháp lợt, nhóm và chính người dụ thiết đá sống chú trong gia đình.",
+      "words": [
+        {
+          "word": "xem",
+          "start": 18.5,
+          "end": 18.7,
+          "probability": 0.48
+        },
+        {
+          "word": "thường",
+          "start": 18.7,
+          "end": 18.84,
+          "probability": 0.56
+        },
+        {
+          "word": "pháp",
+          "start": 18.84,
+          "end": 19.06,
+          "probability": 0.91
+        },
+        {
+          "word": "lợt,",
+          "start": 19.06,
+          "end": 19.34,
+          "probability": 0.89
+        },
+        {
+          "word": "nhóm",
+          "start": 19.42,
+          "end": 19.52,
+          "probability": 0.56
+        },
+        {
+          "word": "và",
+          "start": 19.52,
+          "end": 19.7,
+          "probability": 0.53
+        },
+        {
+          "word": "chính",
+          "start": 19.7,
+          "end": 19.86,
+          "probability": 0.93
+        },
+        {
+          "word": "người",
+          "start": 19.86,
+          "end": 20.02,
+          "probability": 0.34
+        },
+        {
+          "word": "dụ",
+          "start": 20.02,
+          "end": 20.2,
+          "probability": 0.76
+        },
+        {
+          "word": "thiết",
+          "start": 20.2,
+          "end": 20.4,
+          "probability": 0.38
+        },
+        {
+          "word": "đá",
+          "start": 20.4,
+          "end": 20.58,
+          "probability": 0.43
+        },
+        {
+          "word": "sống",
+          "start": 20.58,
+          "end": 20.76,
+          "probability": 0.58
+        },
+        {
+          "word": "chú",
+          "start": 20.76,
+          "end": 20.96,
+          "probability": 0.51
+        },
+        {
+          "word": "trong",
+          "start": 20.96,
+          "end": 21.12,
+          "probability": 0.84
+        },
+        {
+          "word": "gia",
+          "start": 21.12,
+          "end": 21.3,
+          "probability": 0.84
+        },
+        {
+          "word": "đình.",
+          "start": 21.3,
+          "end": 21.36,
+          "probability": 0.78
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7662008264368033044",
+  "duration_seconds": 33.67,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Thôi đồ qua",
+  "segments": [
+    {
+      "id": 1,
+      "start": 32.85,
+      "end": 33.23,
+      "text": "Thôi đồ qua",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 32.85,
+          "end": 32.93,
+          "probability": 0.1
+        },
+        {
+          "word": "đồ",
+          "start": 32.93,
+          "end": 33.01,
+          "probability": 0.05
+        },
+        {
+          "word": "qua",
+          "start": 33.01,
+          "end": 33.23,
+          "probability": 0.22
+        }
+      ]
+    }
+  ]
+}

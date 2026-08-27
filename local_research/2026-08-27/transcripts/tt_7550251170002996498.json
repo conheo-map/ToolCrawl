@@ -1,0 +1,206 @@
+{
+  "item_id": "tt_7550251170002996498",
+  "duration_seconds": 40.29,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 26,
+  "text": "Mình sẽ ngon nó, hình sẽ ngon nó, cho nó sẽ ngon nó. Chúng ta có đánh cho chế trời cao có có đánh của mình.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 10.08,
+      "end": 11.24,
+      "text": "Mình sẽ ngon nó,",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 10.08,
+          "end": 10.68,
+          "probability": 0.23
+        },
+        {
+          "word": "sẽ",
+          "start": 10.68,
+          "end": 11.24,
+          "probability": 0.24
+        },
+        {
+          "word": "ngon",
+          "start": 11.24,
+          "end": 11.24,
+          "probability": 0.07
+        },
+        {
+          "word": "nó,",
+          "start": 11.24,
+          "end": 11.24,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 11.26,
+      "end": 13.74,
+      "text": "hình sẽ ngon nó,",
+      "words": [
+        {
+          "word": "hình",
+          "start": 11.26,
+          "end": 11.44,
+          "probability": 0.12
+        },
+        {
+          "word": "sẽ",
+          "start": 11.44,
+          "end": 12.06,
+          "probability": 0.68
+        },
+        {
+          "word": "ngon",
+          "start": 12.06,
+          "end": 12.32,
+          "probability": 0.61
+        },
+        {
+          "word": "nó,",
+          "start": 12.32,
+          "end": 13.74,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 14.04,
+      "end": 14.06,
+      "text": "cho nó sẽ ngon nó.",
+      "words": [
+        {
+          "word": "cho",
+          "start": 14.04,
+          "end": 14.06,
+          "probability": 0.02
+        },
+        {
+          "word": "nó",
+          "start": 14.06,
+          "end": 14.06,
+          "probability": 0.15
+        },
+        {
+          "word": "sẽ",
+          "start": 14.06,
+          "end": 14.06,
+          "probability": 0.01
+        },
+        {
+          "word": "ngon",
+          "start": 14.06,
+          "end": 14.06,
+          "probability": 0.56
+        },
+        {
+          "word": "nó.",
+          "start": 14.06,
+          "end": 14.06,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.06,
+      "end": 15.98,
+      "text": "Chúng ta có đánh cho",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 14.06,
+          "end": 14.26,
+          "probability": 0.25
+        },
+        {
+          "word": "ta",
+          "start": 14.26,
+          "end": 14.86,
+          "probability": 0.35
+        },
+        {
+          "word": "có",
+          "start": 14.86,
+          "end": 15.38,
+          "probability": 0.17
+        },
+        {
+          "word": "đánh",
+          "start": 15.38,
+          "end": 15.68,
+          "probability": 0.03
+        },
+        {
+          "word": "cho",
+          "start": 15.68,
+          "end": 15.98,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.98,
+      "end": 18.5,
+      "text": "chế trời cao có có đánh của mình.",
+      "words": [
+        {
+          "word": "chế",
+          "start": 15.98,
+          "end": 16.32,
+          "probability": 0.14
+        },
+        {
+          "word": "trời",
+          "start": 16.32,
+          "end": 16.76,
+          "probability": 0.04
+        },
+        {
+          "word": "cao",
+          "start": 16.76,
+          "end": 17.04,
+          "probability": 0.52
+        },
+        {
+          "word": "có",
+          "start": 17.04,
+          "end": 17.3,
+          "probability": 0.06
+        },
+        {
+          "word": "có",
+          "start": 17.3,
+          "end": 17.52,
+          "probability": 0.16
+        },
+        {
+          "word": "đánh",
+          "start": 17.52,
+          "end": 17.82,
+          "probability": 0.49
+        },
+        {
+          "word": "của",
+          "start": 17.82,
+          "end": 18.22,
+          "probability": 0.37
+        },
+        {
+          "word": "mình.",
+          "start": 18.22,
+          "end": 18.5,
+          "probability": 0.91
+        }
+      ]
+    }
+  ]
+}

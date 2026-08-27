@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7585415944839925012",
+  "duration_seconds": 33.09,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "to the new part from",
+  "segments": [
+    {
+      "id": 1,
+      "start": 30.42,
+      "end": 32.3,
+      "text": "to the new part from",
+      "words": [
+        {
+          "word": "to",
+          "start": 30.42,
+          "end": 30.68,
+          "probability": 0.01
+        },
+        {
+          "word": "the",
+          "start": 30.68,
+          "end": 31.34,
+          "probability": 0.06
+        },
+        {
+          "word": "new",
+          "start": 31.34,
+          "end": 31.66,
+          "probability": 0.72
+        },
+        {
+          "word": "part",
+          "start": 31.66,
+          "end": 31.96,
+          "probability": 0.28
+        },
+        {
+          "word": "from",
+          "start": 31.96,
+          "end": 32.3,
+          "probability": 0.71
+        }
+      ]
+    }
+  ]
+}

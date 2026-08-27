@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7672392414320954645",
+  "duration_seconds": 32.63,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Tại vì mình...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 31.79,
+      "end": 32.59,
+      "text": "Tại vì mình...",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 31.79,
+          "end": 31.95,
+          "probability": 0.27
+        },
+        {
+          "word": "vì",
+          "start": 31.95,
+          "end": 32.17,
+          "probability": 0.3
+        },
+        {
+          "word": "mình...",
+          "start": 32.17,
+          "end": 32.59,
+          "probability": 0.03
+        }
+      ]
+    }
+  ]
+}

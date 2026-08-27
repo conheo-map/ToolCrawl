@@ -1,0 +1,138 @@
+{
+  "item_id": "tt_7520248228189605140",
+  "duration_seconds": 44.17,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 16,
+  "text": "Chào các bạn ạ! Chào các bạn ạ! Chào các bạn ạ! Chào các bạn ạ!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 10.28,
+      "end": 13.78,
+      "text": "Chào các bạn ạ!",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 10.28,
+          "end": 11.68,
+          "probability": 0.11
+        },
+        {
+          "word": "các",
+          "start": 11.68,
+          "end": 13.08,
+          "probability": 0.21
+        },
+        {
+          "word": "bạn",
+          "start": 13.08,
+          "end": 13.08,
+          "probability": 0.32
+        },
+        {
+          "word": "ạ!",
+          "start": 13.08,
+          "end": 13.78,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 20.82,
+      "end": 26.14,
+      "text": "Chào các bạn ạ!",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 20.82,
+          "end": 22.22,
+          "probability": 0.35
+        },
+        {
+          "word": "các",
+          "start": 22.22,
+          "end": 22.22,
+          "probability": 0.75
+        },
+        {
+          "word": "bạn",
+          "start": 22.22,
+          "end": 26.06,
+          "probability": 0.97
+        },
+        {
+          "word": "ạ!",
+          "start": 26.06,
+          "end": 26.14,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 26.14,
+      "end": 28.0,
+      "text": "Chào các bạn ạ!",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 26.14,
+          "end": 26.14,
+          "probability": 0.58
+        },
+        {
+          "word": "các",
+          "start": 26.14,
+          "end": 26.54,
+          "probability": 0.98
+        },
+        {
+          "word": "bạn",
+          "start": 26.54,
+          "end": 26.54,
+          "probability": 0.99
+        },
+        {
+          "word": "ạ!",
+          "start": 26.54,
+          "end": 28.0,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 30.0,
+      "end": 33.22,
+      "text": "Chào các bạn ạ!",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 30.0,
+          "end": 31.3,
+          "probability": 0.02
+        },
+        {
+          "word": "các",
+          "start": 31.3,
+          "end": 31.36,
+          "probability": 0.05
+        },
+        {
+          "word": "bạn",
+          "start": 31.36,
+          "end": 31.38,
+          "probability": 0.32
+        },
+        {
+          "word": "ạ!",
+          "start": 31.38,
+          "end": 33.22,
+          "probability": 0.19
+        }
+      ]
+    }
+  ]
+}

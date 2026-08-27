@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7637888947045125397",
+  "duration_seconds": 28.82,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "vôp al complimentary vui t",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 28.8,
+      "text": "vôp al complimentary vui t",
+      "words": [
+        {
+          "word": "vôp",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.18
+        },
+        {
+          "word": "al",
+          "start": 0.28,
+          "end": 0.48,
+          "probability": 0.17
+        },
+        {
+          "word": "complimentary",
+          "start": 0.48,
+          "end": 0.62,
+          "probability": 0.0
+        },
+        {
+          "word": "vui",
+          "start": 0.62,
+          "end": 27.62,
+          "probability": 0.01
+        },
+        {
+          "word": "t",
+          "start": 27.62,
+          "end": 28.8,
+          "probability": 0.05
+        }
+      ]
+    }
+  ]
+}

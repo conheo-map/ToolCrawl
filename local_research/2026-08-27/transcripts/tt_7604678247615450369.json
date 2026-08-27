@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7604678247615450369",
+  "duration_seconds": 103.24,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Thôi rồi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.24,
+      "end": 0.92,
+      "text": "Thôi rồi.",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 0.24,
+          "end": 0.72,
+          "probability": 0.19
+        },
+        {
+          "word": "rồi.",
+          "start": 0.72,
+          "end": 0.92,
+          "probability": 0.06
+        }
+      ]
+    }
+  ]
+}

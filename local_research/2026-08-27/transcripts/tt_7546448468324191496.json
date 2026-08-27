@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7546448468324191496",
+  "duration_seconds": 28.53,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Chúng ta đã đương tất cả.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 7.06,
+      "end": 8.12,
+      "text": "Chúng ta đã đương tất cả.",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 7.06,
+          "end": 7.58,
+          "probability": 0.19
+        },
+        {
+          "word": "ta",
+          "start": 7.58,
+          "end": 8.12,
+          "probability": 0.24
+        },
+        {
+          "word": "đã",
+          "start": 8.12,
+          "end": 8.12,
+          "probability": 0.08
+        },
+        {
+          "word": "đương",
+          "start": 8.12,
+          "end": 8.12,
+          "probability": 0.03
+        },
+        {
+          "word": "tất",
+          "start": 8.12,
+          "end": 8.12,
+          "probability": 0.06
+        },
+        {
+          "word": "cả.",
+          "start": 8.12,
+          "end": 8.12,
+          "probability": 0.74
+        }
+      ]
+    }
+  ]
+}

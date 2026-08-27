@@ -1,0 +1,60 @@
+{
+  "item_id": "tt_7673865665220234516",
+  "duration_seconds": 31.09,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 7,
+  "text": "Đó là bây giờ, đó bây giờ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 30.59,
+      "end": 31.07,
+      "text": "Đó là bây giờ, đó bây giờ.",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 30.59,
+          "end": 30.75,
+          "probability": 0.12
+        },
+        {
+          "word": "là",
+          "start": 30.75,
+          "end": 30.85,
+          "probability": 0.1
+        },
+        {
+          "word": "bây",
+          "start": 30.85,
+          "end": 31.07,
+          "probability": 0.13
+        },
+        {
+          "word": "giờ,",
+          "start": 31.07,
+          "end": 31.07,
+          "probability": 0.85
+        },
+        {
+          "word": "đó",
+          "start": 31.07,
+          "end": 31.07,
+          "probability": 0.14
+        },
+        {
+          "word": "bây",
+          "start": 31.07,
+          "end": 31.07,
+          "probability": 0.61
+        },
+        {
+          "word": "giờ.",
+          "start": 31.07,
+          "end": 31.07,
+          "probability": 1.0
+        }
+      ]
+    }
+  ]
+}

@@ -81,10 +81,19 @@ PROXY_LIST_FILE: Path | None = None
 # Music Detection
 # ─────────────────────────────────────────────
 MUSIC_FILTER_ENABLED: bool = True
-MUSIC_FLATNESS_THRESHOLD: float = 0.35   # Tăng ngưỡng để phát hiện nhạc nền nhẹ hơn
+MUSIC_FLATNESS_THRESHOLD: float = 0.35
 MUSIC_REJECT_RATIO: float = 0.60
 MUSIC_ANALYSIS_SAMPLE_SEC: float = 30.0
 MUSIC_QUARANTINE_INSTEAD_OF_DELETE: bool = True
+
+# ─────────────────────────────────────────────
+# Smart Audio Slicer (ASR Standard 5s - 30s)
+# ─────────────────────────────────────────────
+AUDIO_SLICER_ENABLED: bool = True
+MAX_ASR_SEGMENT_SEC: float = 30.0
+MIN_ASR_SEGMENT_SEC: float = 5.0
+SILENCE_THRESHOLD_DB: float = -32.0
+MIN_SILENCE_DURATION_SEC: float = 0.35
 
 
 # ─────────────────────────────────────────────

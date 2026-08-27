@@ -1,0 +1,128 @@
+{
+  "item_id": "tt_7600800195294678290",
+  "duration_seconds": 25.66,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 17,
+  "text": "Điều tụi bảo vệ đánh mụ tiến, nó như tối, tối với nó thôi. Cái nó ơi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.61,
+      "end": 6.79,
+      "text": "Điều tụi bảo vệ đánh mụ tiến, nó như tối, tối với nó thôi.",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 2.61,
+          "end": 3.23,
+          "probability": 0.3
+        },
+        {
+          "word": "tụi",
+          "start": 3.23,
+          "end": 3.37,
+          "probability": 0.4
+        },
+        {
+          "word": "bảo",
+          "start": 3.37,
+          "end": 3.51,
+          "probability": 0.18
+        },
+        {
+          "word": "vệ",
+          "start": 3.51,
+          "end": 3.65,
+          "probability": 0.34
+        },
+        {
+          "word": "đánh",
+          "start": 3.65,
+          "end": 3.93,
+          "probability": 0.07
+        },
+        {
+          "word": "mụ",
+          "start": 3.93,
+          "end": 4.15,
+          "probability": 0.13
+        },
+        {
+          "word": "tiến,",
+          "start": 4.15,
+          "end": 4.51,
+          "probability": 0.29
+        },
+        {
+          "word": "nó",
+          "start": 4.79,
+          "end": 4.95,
+          "probability": 0.08
+        },
+        {
+          "word": "như",
+          "start": 4.95,
+          "end": 5.09,
+          "probability": 0.16
+        },
+        {
+          "word": "tối,",
+          "start": 5.09,
+          "end": 5.37,
+          "probability": 0.4
+        },
+        {
+          "word": "tối",
+          "start": 5.77,
+          "end": 5.97,
+          "probability": 0.59
+        },
+        {
+          "word": "với",
+          "start": 5.97,
+          "end": 6.11,
+          "probability": 0.21
+        },
+        {
+          "word": "nó",
+          "start": 6.11,
+          "end": 6.19,
+          "probability": 0.48
+        },
+        {
+          "word": "thôi.",
+          "start": 6.19,
+          "end": 6.79,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 13.4,
+      "end": 14.18,
+      "text": "Cái nó ơi.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 13.4,
+          "end": 13.56,
+          "probability": 0.18
+        },
+        {
+          "word": "nó",
+          "start": 13.56,
+          "end": 13.78,
+          "probability": 0.41
+        },
+        {
+          "word": "ơi.",
+          "start": 13.78,
+          "end": 14.18,
+          "probability": 0.67
+        }
+      ]
+    }
+  ]
+}

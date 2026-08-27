@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7641161659423182087",
+  "duration_seconds": 21.5,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Bây bien",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.24,
+      "end": 2.1,
+      "text": "Bây bien",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 0.24,
+          "end": 0.92,
+          "probability": 0.1
+        },
+        {
+          "word": "bien",
+          "start": 0.92,
+          "end": 2.1,
+          "probability": 0.0
+        }
+      ]
+    }
+  ]
+}

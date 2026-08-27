@@ -1,0 +1,90 @@
+{
+  "item_id": "tt_7598557579651960084",
+  "duration_seconds": 82.1,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 8,
+  "text": "Hả? Nói, nói. Nói, nói, nói. Nói, nói.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 64.58,
+      "end": 65.34,
+      "text": "Hả?",
+      "words": [
+        {
+          "word": "Hả?",
+          "start": 64.58,
+          "end": 65.34,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 65.58,
+      "end": 67.48,
+      "text": "Nói, nói.",
+      "words": [
+        {
+          "word": "Nói,",
+          "start": 65.58,
+          "end": 66.06,
+          "probability": 0.17
+        },
+        {
+          "word": "nói.",
+          "start": 66.36,
+          "end": 67.48,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 70.58,
+      "end": 72.3,
+      "text": "Nói, nói, nói.",
+      "words": [
+        {
+          "word": "Nói,",
+          "start": 70.58,
+          "end": 70.96,
+          "probability": 0.77
+        },
+        {
+          "word": "nói,",
+          "start": 71.18,
+          "end": 71.48,
+          "probability": 0.8
+        },
+        {
+          "word": "nói.",
+          "start": 71.98,
+          "end": 72.3,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 73.94,
+      "end": 74.92,
+      "text": "Nói, nói.",
+      "words": [
+        {
+          "word": "Nói,",
+          "start": 73.94,
+          "end": 74.3,
+          "probability": 0.78
+        },
+        {
+          "word": "nói.",
+          "start": 74.66,
+          "end": 74.92,
+          "probability": 0.94
+        }
+      ]
+    }
+  ]
+}

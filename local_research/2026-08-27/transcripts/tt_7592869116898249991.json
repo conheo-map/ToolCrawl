@@ -1,0 +1,98 @@
+{
+  "item_id": "tt_7592869116898249991",
+  "duration_seconds": 12.36,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "bỏ trải sử dụng kết thêm bỏ trải sử dụng kết thêm",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.58,
+      "end": 2.94,
+      "text": "bỏ trải sử dụng kết thêm",
+      "words": [
+        {
+          "word": "bỏ",
+          "start": 1.58,
+          "end": 1.88,
+          "probability": 0.03
+        },
+        {
+          "word": "trải",
+          "start": 1.88,
+          "end": 2.18,
+          "probability": 0.07
+        },
+        {
+          "word": "sử",
+          "start": 2.18,
+          "end": 2.44,
+          "probability": 0.11
+        },
+        {
+          "word": "dụng",
+          "start": 2.44,
+          "end": 2.46,
+          "probability": 0.51
+        },
+        {
+          "word": "kết",
+          "start": 2.46,
+          "end": 2.64,
+          "probability": 0.07
+        },
+        {
+          "word": "thêm",
+          "start": 2.64,
+          "end": 2.94,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.94,
+      "end": 4.36,
+      "text": "bỏ trải sử dụng kết thêm",
+      "words": [
+        {
+          "word": "bỏ",
+          "start": 2.94,
+          "end": 3.42,
+          "probability": 0.12
+        },
+        {
+          "word": "trải",
+          "start": 3.42,
+          "end": 3.42,
+          "probability": 0.57
+        },
+        {
+          "word": "sử",
+          "start": 3.42,
+          "end": 3.42,
+          "probability": 0.75
+        },
+        {
+          "word": "dụng",
+          "start": 3.42,
+          "end": 3.42,
+          "probability": 0.94
+        },
+        {
+          "word": "kết",
+          "start": 3.42,
+          "end": 4.06,
+          "probability": 0.59
+        },
+        {
+          "word": "thêm",
+          "start": 4.06,
+          "end": 4.36,
+          "probability": 0.96
+        }
+      ]
+    }
+  ]
+}

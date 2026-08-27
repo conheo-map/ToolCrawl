@@ -1,0 +1,70 @@
+{
+  "item_id": "tt_7600983547213548807",
+  "duration_seconds": 17.58,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Vào tên. Vào tên. Vào tên.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Vào tên.",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.11
+        },
+        {
+          "word": "tên.",
+          "start": 0.16,
+          "end": 2.0,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.68,
+      "end": 4.48,
+      "text": "Vào tên.",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 2.68,
+          "end": 2.68,
+          "probability": 0.46
+        },
+        {
+          "word": "tên.",
+          "start": 2.68,
+          "end": 4.48,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.1,
+      "end": 8.68,
+      "text": "Vào tên.",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 8.1,
+          "end": 8.56,
+          "probability": 0.6
+        },
+        {
+          "word": "tên.",
+          "start": 8.56,
+          "end": 8.68,
+          "probability": 0.97
+        }
+      ]
+    }
+  ]
+}

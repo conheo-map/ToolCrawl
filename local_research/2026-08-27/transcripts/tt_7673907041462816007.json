@@ -1,0 +1,132 @@
+{
+  "item_id": "tt_7673907041462816007",
+  "duration_seconds": 42.28,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 15,
+  "text": "Chào yên, với phù cộng tả. Hẹn đẹn đẹp. Hẹn đẹp, hẹn đẹp. Hẹn đẹp.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 32.72,
+      "end": 33.96,
+      "text": "Chào yên, với phù cộng tả.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 32.72,
+          "end": 33.1,
+          "probability": 0.19
+        },
+        {
+          "word": "yên,",
+          "start": 33.1,
+          "end": 33.28,
+          "probability": 0.23
+        },
+        {
+          "word": "với",
+          "start": 33.44,
+          "end": 33.44,
+          "probability": 0.02
+        },
+        {
+          "word": "phù",
+          "start": 33.44,
+          "end": 33.76,
+          "probability": 0.02
+        },
+        {
+          "word": "cộng",
+          "start": 33.76,
+          "end": 33.86,
+          "probability": 0.29
+        },
+        {
+          "word": "tả.",
+          "start": 33.86,
+          "end": 33.96,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 34.66,
+      "end": 36.18,
+      "text": "Hẹn đẹn đẹp.",
+      "words": [
+        {
+          "word": "Hẹn",
+          "start": 34.66,
+          "end": 35.42,
+          "probability": 0.29
+        },
+        {
+          "word": "đẹn",
+          "start": 35.42,
+          "end": 35.64,
+          "probability": 0.12
+        },
+        {
+          "word": "đẹp.",
+          "start": 35.64,
+          "end": 36.18,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 37.0,
+      "end": 38.5,
+      "text": "Hẹn đẹp, hẹn đẹp.",
+      "words": [
+        {
+          "word": "Hẹn",
+          "start": 37.0,
+          "end": 37.76,
+          "probability": 0.63
+        },
+        {
+          "word": "đẹp,",
+          "start": 37.76,
+          "end": 37.76,
+          "probability": 0.85
+        },
+        {
+          "word": "hẹn",
+          "start": 38.5,
+          "end": 38.5,
+          "probability": 0.64
+        },
+        {
+          "word": "đẹp.",
+          "start": 38.5,
+          "end": 38.5,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 39.78,
+      "end": 40.34,
+      "text": "Hẹn đẹp.",
+      "words": [
+        {
+          "word": "Hẹn",
+          "start": 39.78,
+          "end": 39.98,
+          "probability": 0.7
+        },
+        {
+          "word": "đẹp.",
+          "start": 39.98,
+          "end": 40.34,
+          "probability": 0.93
+        }
+      ]
+    }
+  ]
+}

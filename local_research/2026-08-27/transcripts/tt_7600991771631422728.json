@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7600991771631422728",
+  "duration_seconds": 41.41,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Bây giờ, không phải không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 9.9,
+      "end": 10.6,
+      "text": "Bây giờ, không phải không?",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 9.9,
+          "end": 10.06,
+          "probability": 0.2
+        },
+        {
+          "word": "giờ,",
+          "start": 10.06,
+          "end": 10.06,
+          "probability": 0.92
+        },
+        {
+          "word": "không",
+          "start": 10.06,
+          "end": 10.06,
+          "probability": 0.02
+        },
+        {
+          "word": "phải",
+          "start": 10.06,
+          "end": 10.3,
+          "probability": 0.4
+        },
+        {
+          "word": "không?",
+          "start": 10.3,
+          "end": 10.6,
+          "probability": 0.1
+        }
+      ]
+    }
+  ]
+}

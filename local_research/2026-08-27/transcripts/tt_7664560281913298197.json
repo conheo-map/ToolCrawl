@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7664560281913298197",
+  "duration_seconds": 66.61,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Cái gì?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.44,
+      "text": "Cái gì?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.19
+        },
+        {
+          "word": "gì?",
+          "start": 0.4,
+          "end": 0.44,
+          "probability": 0.26
+        }
+      ]
+    }
+  ]
+}
