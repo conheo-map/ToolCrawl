@@ -11,7 +11,8 @@ errors/
 logs/
 
 # Sensitive
-cookies_*.txt
+cookies/
+*cookies*.txt
 proxies.txt
 
 # Checkpoints (regenerable)
