@@ -15,6 +15,7 @@ import yt_dlp
 from utils.logger import get_logger
 from utils.rate_limiter import RateLimiter
 from utils.proxy_manager import ProxyManager
+from utils.cookie_manager import CookieManager
 from processors.audio_converter import convert_to_wav, verify_audio
 from config import (
     AUDIO_DIR,
@@ -39,7 +40,7 @@ class DownloadError(Exception):
 class BaseCrawler:
     """
     Base class cho TikTokCrawler và FacebookCrawler.
-    Xử lý: download, convert, verify, retry logic.
+    Xử lý: download, convert, verify, retry logic và xoay vòng Cookie.
     """
 
     PLATFORM = "base"
@@ -50,22 +51,9 @@ class BaseCrawler:
         cookies_file: Path | None = None,
         rate_limiter: RateLimiter | None = None,
         proxy_manager: ProxyManager | None = None,
+        cookie_manager: CookieManager | None = None,
     ) -> None:
-        self._cookies = None
-        if cookies_file:
-            c_path = Path(cookies_file)
-            if c_path.exists() and c_path.is_file():
-                # Tạo bản sao ghi được trong temp để tránh lỗi Read-only filesystem khi mount :ro
-                temp_cookie = Path(tempfile.gettempdir()) / f"cookies_{self.PLATFORM}_{CRAWL_DATE}.txt"
-                try:
-                    content = c_path.read_text(encoding="utf-8", errors="replace")
-                    temp_cookie.write_text(content, encoding="utf-8")
-                    temp_cookie.chmod(0o666)
-                    self._cookies = temp_cookie
-                except Exception as exc:
-                    logger.warning(f"Could not create temp cookie: {exc}")
-                    self._cookies = c_path
-
+        self._cookie_manager = cookie_manager or CookieManager(cookie_input=cookies_file, platform=self.PLATFORM)
         self._rate = rate_limiter or RateLimiter()
         self._proxy = proxy_manager or ProxyManager()
         AUDIO_DIR.mkdir(parents=True, exist_ok=True)
@@ -207,8 +195,9 @@ class BaseCrawler:
         if proxy_dict:
             opts["proxy"] = proxy_dict.get("http", "")
 
-        if self._cookies and self._cookies.exists():
-            opts["cookiefile"] = str(self._cookies)
+        cookie_file = self._cookie_manager.get_cookie() if self._cookie_manager else None
+        if cookie_file and cookie_file.exists():
+            opts["cookiefile"] = str(cookie_file)
 
         if download and output_dir:
             opts["outtmpl"] = str(output_dir / "%(id)s.%(ext)s")

@@ -31,6 +31,7 @@ from storage.state_manager import StateManager
 from utils.logger import get_logger
 from utils.rate_limiter import RateLimiter
 from utils.proxy_manager import ProxyManager
+from utils.cookie_manager import CookieManager
 
 logger = get_logger("main")
 VN_TZ = timezone(timedelta(hours=7))
@@ -311,18 +312,21 @@ def main() -> None:
     # Khởi tạo components
     rate_limiter = RateLimiter()
     proxy_manager = ProxyManager()
+    cookie_manager = CookieManager(cookie_input=cookies, platform=args.platform)
 
     if args.platform == "tiktok":
         crawler = TikTokCrawler(
             cookies_file=cookies,
             rate_limiter=rate_limiter,
             proxy_manager=proxy_manager,
+            cookie_manager=cookie_manager,
         )
     else:
         crawler = FacebookCrawler(
             cookies_file=cookies,
             rate_limiter=rate_limiter,
             proxy_manager=proxy_manager,
+            cookie_manager=cookie_manager,
         )
 
     dedup = DedupStore()
