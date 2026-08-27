@@ -48,7 +48,10 @@ class TikTokCrawler(BaseCrawler):
         # Case 2: Direct Video URL
         if keyword.startswith("http://") or keyword.startswith("https://"):
             resolved = self._resolve_url(keyword)
-            if "/video/" in resolved or "/photo/" in resolved or "vt.tiktok.com" in resolved:
+            if "/photo/" in resolved:
+                logger.info(f"⏩ [TikTok] Tự động bỏ qua bài đăng ảnh (Photo Slideshow): {resolved}")
+                return []
+            if "/video/" in resolved or "vt.tiktok.com" in resolved:
                 return [resolved]
             # Nếu là link kênh hoặc playlist khác
             channel_urls = self._extract_channel_videos(resolved, max_results)
@@ -67,13 +70,17 @@ class TikTokCrawler(BaseCrawler):
             ]
             expanded_urls = []
             for entry in loaded_entries:
+                if "/photo/" in entry:
+                    continue
                 if entry.startswith("@") or ("tiktok.com/@" in entry and "/video/" not in entry):
                     ch_vids = self._extract_channel_videos(entry, max_results=30)
                     expanded_urls.extend(ch_vids)
                 else:
                     expanded_urls.append(entry)
             
-            logger.info(f"[TikTok] Loaded {len(loaded_entries)} entries from {keyword} -> expanded to {len(expanded_urls)} video URLs")
+            # Lọc bỏ tất cả link photo nếu có
+            expanded_urls = [u for u in expanded_urls if "/photo/" not in u]
+            logger.info(f"[TikTok] Loaded {len(loaded_entries)} entries from {keyword} -> expanded to {len(expanded_urls)} video URLs (Đã loại bỏ photo slideshows)")
             if max_results and max_results > 500:
                 return expanded_urls[:max_results]
             # Nếu người dùng truyền file txt thì mặc định chạy toàn bộ file (không bị chặn ở 500)
@@ -82,6 +89,7 @@ class TikTokCrawler(BaseCrawler):
         # Case 3: HTML scrape search
         try:
             urls = self._search_via_html(keyword, max_results)
+            urls = [u for u in urls if "/photo/" not in u]
             logger.info(f"[TikTok] HTML scrape: {len(urls)} URLs for '{keyword}'")
         except Exception as exc:
             logger.error(f"[TikTok] Search failed for '{keyword}': {exc}")
@@ -92,11 +100,16 @@ class TikTokCrawler(BaseCrawler):
         """
         Crawl một URL TikTok:
           1. Resolve short link (vt.tiktok.com, vm.tiktok.com)
-          2. Download + convert audio
-          3. Build record JSON theo spec
+          2. Bỏ qua nếu là Photo post
+          3. Download + convert audio
+          4. Build record JSON theo spec
         Trả về None nếu lỗi.
         """
         url = self._resolve_url(url)
+        if "/photo/" in url:
+            logger.info(f"⏩ [TikTok] Tự động bỏ qua bài đăng ảnh (Photo Slideshow - không chứa giọng nói ASR): {url}")
+            return None
+
         item_id = self._extract_item_id(url)
         if not item_id:
             logger.warning(f"Cannot extract item_id from URL: {url}")
@@ -284,20 +297,25 @@ class TikTokCrawler(BaseCrawler):
         return opts
 
     def _extract_item_id(self, url: str) -> str | None:
-        """Extract item_id dạng tt_<video_id> từ URL."""
+        """Extract item_id dạng tt_<video_id> từ URL (loại trừ photo)."""
+        if "/photo/" in url:
+            return None
+
         m = TIKTOK_VIDEO_PATTERN.search(url)
         if m:
             return f"tt_{m.group(2)}"
         
-        # Check photo or video pattern
-        m_alt = re.search(r'/(?:video|photo)/(\d{8,19})', url)
+        # Check standard video pattern
+        m_alt = re.search(r'/video/(\d{8,19})', url)
         if m_alt:
             return f"tt_{m_alt.group(1)}"
 
         # Resolve URL if not done
         resolved = self._resolve_url(url)
         if resolved != url:
-            m_res = TIKTOK_VIDEO_PATTERN.search(resolved) or re.search(r'/(?:video|photo)/(\d{8,19})', resolved)
+            if "/photo/" in resolved:
+                return None
+            m_res = TIKTOK_VIDEO_PATTERN.search(resolved) or re.search(r'/video/(\d{8,19})', resolved)
             if m_res:
                 return f"tt_{m_res.group(1 if len(m_res.groups()) == 1 else 2)}"
 

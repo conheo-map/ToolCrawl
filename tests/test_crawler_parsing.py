@@ -7,6 +7,11 @@ def test_tiktok_id_extraction():
     item_id = crawler._extract_item_id(url)
     assert item_id == "tt_7412345678901234567"
 
+    # Photo post must be skipped (return None)
+    photo_url = "https://www.tiktok.com/@username.123/photo/7412345678901234567"
+    assert crawler._extract_item_id(photo_url) is None
+    assert crawler.crawl_url(photo_url) is None
+
 def test_facebook_id_extraction():
     crawler = FacebookCrawler()
     reel_url = "https://www.facebook.com/reel/123456789012345"
