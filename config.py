@@ -41,7 +41,7 @@ AUDIO_FORMAT:      str = "wav"
 AUDIO_CODEC:       str = "pcm_s16le"
 
 MIN_DURATION_SEC: float = 5.0
-MAX_DURATION_SEC: float = 600.0
+MAX_DURATION_SEC: float = 7200.0   # Cho phép cào video dài tới 2 tiếng (tự động cắt thành các đoạn ASR 5s - 30s)
 
 # ─────────────────────────────────────────────
 # Parallel workers
