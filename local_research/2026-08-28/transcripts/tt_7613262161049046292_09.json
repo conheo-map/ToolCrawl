@@ -1,0 +1,778 @@
+{
+  "item_id": "tt_7613262161049046292_09",
+  "duration_seconds": 29.23,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 108,
+  "text": "Chào tối lớp nhé, đây không những người, sẽ là thêm bù tín á. sẽ là thêm bù tín á, đây không những người, tìm viên nhà mình. Không những người nhá. Nói đây không, đây một trong trại rõ của nó, thì việc không những bù... Cái em tinh, các nhiều nơi đây không những người nhá. Tìm viên nhà mù tín. Không những người nhá. Không những người. Chá sau tìm thì thấy việc như không những bù. Đây không những người, sẽ là thêm bù tín. Không những người. Đóng là. Điều bằng gì đây? Vì đề bằng gì? Bằng nước, ngốc, có biết kêu.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 2.95,
+      "text": "Chào tối lớp nhé, đây không những người, sẽ là thêm bù tín á.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 0.11,
+          "end": 0.65,
+          "probability": 0.15
+        },
+        {
+          "word": "tối",
+          "start": 0.65,
+          "end": 0.71,
+          "probability": 0.27
+        },
+        {
+          "word": "lớp",
+          "start": 0.71,
+          "end": 0.85,
+          "probability": 0.55
+        },
+        {
+          "word": "nhé,",
+          "start": 0.85,
+          "end": 1.13,
+          "probability": 0.49
+        },
+        {
+          "word": "đây",
+          "start": 1.31,
+          "end": 1.31,
+          "probability": 0.2
+        },
+        {
+          "word": "không",
+          "start": 1.31,
+          "end": 1.43,
+          "probability": 0.95
+        },
+        {
+          "word": "những",
+          "start": 1.43,
+          "end": 1.53,
+          "probability": 0.13
+        },
+        {
+          "word": "người,",
+          "start": 1.53,
+          "end": 1.69,
+          "probability": 0.53
+        },
+        {
+          "word": "sẽ",
+          "start": 1.85,
+          "end": 1.89,
+          "probability": 0.18
+        },
+        {
+          "word": "là",
+          "start": 1.89,
+          "end": 1.95,
+          "probability": 0.2
+        },
+        {
+          "word": "thêm",
+          "start": 1.95,
+          "end": 2.09,
+          "probability": 0.33
+        },
+        {
+          "word": "bù",
+          "start": 2.09,
+          "end": 2.25,
+          "probability": 0.11
+        },
+        {
+          "word": "tín",
+          "start": 2.25,
+          "end": 2.25,
+          "probability": 0.19
+        },
+        {
+          "word": "á.",
+          "start": 2.25,
+          "end": 2.95,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.29,
+      "end": 5.05,
+      "text": "sẽ là thêm bù tín á, đây không những người, tìm viên nhà mình.",
+      "words": [
+        {
+          "word": "sẽ",
+          "start": 3.29,
+          "end": 3.29,
+          "probability": 0.15
+        },
+        {
+          "word": "là",
+          "start": 3.29,
+          "end": 3.33,
+          "probability": 0.99
+        },
+        {
+          "word": "thêm",
+          "start": 3.33,
+          "end": 3.45,
+          "probability": 0.98
+        },
+        {
+          "word": "bù",
+          "start": 3.45,
+          "end": 3.57,
+          "probability": 0.93
+        },
+        {
+          "word": "tín",
+          "start": 3.57,
+          "end": 3.61,
+          "probability": 0.99
+        },
+        {
+          "word": "á,",
+          "start": 3.61,
+          "end": 3.75,
+          "probability": 0.96
+        },
+        {
+          "word": "đây",
+          "start": 3.91,
+          "end": 3.91,
+          "probability": 0.97
+        },
+        {
+          "word": "không",
+          "start": 3.91,
+          "end": 4.03,
+          "probability": 1.0
+        },
+        {
+          "word": "những",
+          "start": 4.03,
+          "end": 4.09,
+          "probability": 0.98
+        },
+        {
+          "word": "người,",
+          "start": 4.09,
+          "end": 4.35,
+          "probability": 0.98
+        },
+        {
+          "word": "tìm",
+          "start": 4.61,
+          "end": 4.69,
+          "probability": 0.46
+        },
+        {
+          "word": "viên",
+          "start": 4.69,
+          "end": 4.81,
+          "probability": 0.32
+        },
+        {
+          "word": "nhà",
+          "start": 4.81,
+          "end": 4.85,
+          "probability": 0.47
+        },
+        {
+          "word": "mình.",
+          "start": 4.85,
+          "end": 5.05,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.23,
+      "end": 6.87,
+      "text": "Không những người nhá.",
+      "words": [
+        {
+          "word": "Không",
+          "start": 6.23,
+          "end": 6.23,
+          "probability": 0.69
+        },
+        {
+          "word": "những",
+          "start": 6.23,
+          "end": 6.29,
+          "probability": 0.98
+        },
+        {
+          "word": "người",
+          "start": 6.29,
+          "end": 6.45,
+          "probability": 0.99
+        },
+        {
+          "word": "nhá.",
+          "start": 6.45,
+          "end": 6.87,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.15,
+      "end": 11.51,
+      "text": "Nói đây không, đây một trong trại rõ của nó, thì việc không những bù...",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 7.15,
+          "end": 7.17,
+          "probability": 0.35
+        },
+        {
+          "word": "đây",
+          "start": 7.17,
+          "end": 7.29,
+          "probability": 0.79
+        },
+        {
+          "word": "không,",
+          "start": 7.29,
+          "end": 7.51,
+          "probability": 0.99
+        },
+        {
+          "word": "đây",
+          "start": 7.63,
+          "end": 7.69,
+          "probability": 0.36
+        },
+        {
+          "word": "một",
+          "start": 7.69,
+          "end": 8.99,
+          "probability": 0.24
+        },
+        {
+          "word": "trong",
+          "start": 8.99,
+          "end": 9.23,
+          "probability": 0.2
+        },
+        {
+          "word": "trại",
+          "start": 9.23,
+          "end": 10.17,
+          "probability": 0.18
+        },
+        {
+          "word": "rõ",
+          "start": 10.17,
+          "end": 10.29,
+          "probability": 0.03
+        },
+        {
+          "word": "của",
+          "start": 10.29,
+          "end": 10.49,
+          "probability": 0.01
+        },
+        {
+          "word": "nó,",
+          "start": 10.49,
+          "end": 10.61,
+          "probability": 0.21
+        },
+        {
+          "word": "thì",
+          "start": 10.79,
+          "end": 10.91,
+          "probability": 0.09
+        },
+        {
+          "word": "việc",
+          "start": 10.91,
+          "end": 10.99,
+          "probability": 0.0
+        },
+        {
+          "word": "không",
+          "start": 10.99,
+          "end": 11.17,
+          "probability": 0.93
+        },
+        {
+          "word": "những",
+          "start": 11.17,
+          "end": 11.21,
+          "probability": 0.91
+        },
+        {
+          "word": "bù...",
+          "start": 11.21,
+          "end": 11.51,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.05,
+      "end": 15.25,
+      "text": "Cái em tinh, các nhiều nơi đây không những người nhá.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 13.05,
+          "end": 13.19,
+          "probability": 0.19
+        },
+        {
+          "word": "em",
+          "start": 13.19,
+          "end": 13.35,
+          "probability": 0.09
+        },
+        {
+          "word": "tinh,",
+          "start": 13.35,
+          "end": 13.59,
+          "probability": 0.4
+        },
+        {
+          "word": "các",
+          "start": 13.99,
+          "end": 14.05,
+          "probability": 0.39
+        },
+        {
+          "word": "nhiều",
+          "start": 14.05,
+          "end": 14.17,
+          "probability": 0.34
+        },
+        {
+          "word": "nơi",
+          "start": 14.17,
+          "end": 14.31,
+          "probability": 0.11
+        },
+        {
+          "word": "đây",
+          "start": 14.31,
+          "end": 14.45,
+          "probability": 0.6
+        },
+        {
+          "word": "không",
+          "start": 14.45,
+          "end": 14.61,
+          "probability": 0.99
+        },
+        {
+          "word": "những",
+          "start": 14.61,
+          "end": 14.69,
+          "probability": 0.89
+        },
+        {
+          "word": "người",
+          "start": 14.69,
+          "end": 14.81,
+          "probability": 0.98
+        },
+        {
+          "word": "nhá.",
+          "start": 14.81,
+          "end": 15.25,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.41,
+      "end": 15.79,
+      "text": "Tìm viên nhà mù tín.",
+      "words": [
+        {
+          "word": "Tìm",
+          "start": 15.41,
+          "end": 15.43,
+          "probability": 0.83
+        },
+        {
+          "word": "viên",
+          "start": 15.43,
+          "end": 15.49,
+          "probability": 0.98
+        },
+        {
+          "word": "nhà",
+          "start": 15.49,
+          "end": 15.57,
+          "probability": 0.79
+        },
+        {
+          "word": "mù",
+          "start": 15.57,
+          "end": 15.79,
+          "probability": 0.48
+        },
+        {
+          "word": "tín.",
+          "start": 15.79,
+          "end": 15.79,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 16.25,
+      "end": 16.83,
+      "text": "Không những người nhá.",
+      "words": [
+        {
+          "word": "Không",
+          "start": 16.25,
+          "end": 16.25,
+          "probability": 0.98
+        },
+        {
+          "word": "những",
+          "start": 16.25,
+          "end": 16.31,
+          "probability": 0.97
+        },
+        {
+          "word": "người",
+          "start": 16.31,
+          "end": 16.45,
+          "probability": 0.99
+        },
+        {
+          "word": "nhá.",
+          "start": 16.45,
+          "end": 16.83,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 17.17,
+      "end": 17.75,
+      "text": "Không những người.",
+      "words": [
+        {
+          "word": "Không",
+          "start": 17.17,
+          "end": 17.19,
+          "probability": 0.96
+        },
+        {
+          "word": "những",
+          "start": 17.19,
+          "end": 17.27,
+          "probability": 0.98
+        },
+        {
+          "word": "người.",
+          "start": 17.27,
+          "end": 17.75,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 18.33,
+      "end": 19.81,
+      "text": "Chá sau tìm thì thấy việc như không những bù.",
+      "words": [
+        {
+          "word": "Chá",
+          "start": 18.33,
+          "end": 18.65,
+          "probability": 0.41
+        },
+        {
+          "word": "sau",
+          "start": 18.65,
+          "end": 18.85,
+          "probability": 0.18
+        },
+        {
+          "word": "tìm",
+          "start": 18.85,
+          "end": 19.01,
+          "probability": 0.49
+        },
+        {
+          "word": "thì",
+          "start": 19.01,
+          "end": 19.17,
+          "probability": 0.23
+        },
+        {
+          "word": "thấy",
+          "start": 19.17,
+          "end": 19.21,
+          "probability": 0.0
+        },
+        {
+          "word": "việc",
+          "start": 19.21,
+          "end": 19.35,
+          "probability": 0.23
+        },
+        {
+          "word": "như",
+          "start": 19.35,
+          "end": 19.35,
+          "probability": 0.05
+        },
+        {
+          "word": "không",
+          "start": 19.35,
+          "end": 19.51,
+          "probability": 0.81
+        },
+        {
+          "word": "những",
+          "start": 19.51,
+          "end": 19.59,
+          "probability": 0.49
+        },
+        {
+          "word": "bù.",
+          "start": 19.59,
+          "end": 19.81,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 20.03,
+      "end": 21.31,
+      "text": "Đây không những người, sẽ là thêm bù tín.",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 20.03,
+          "end": 20.07,
+          "probability": 0.63
+        },
+        {
+          "word": "không",
+          "start": 20.07,
+          "end": 20.21,
+          "probability": 0.98
+        },
+        {
+          "word": "những",
+          "start": 20.21,
+          "end": 20.23,
+          "probability": 0.97
+        },
+        {
+          "word": "người,",
+          "start": 20.23,
+          "end": 20.39,
+          "probability": 0.93
+        },
+        {
+          "word": "sẽ",
+          "start": 20.69,
+          "end": 20.79,
+          "probability": 0.49
+        },
+        {
+          "word": "là",
+          "start": 20.79,
+          "end": 20.85,
+          "probability": 0.99
+        },
+        {
+          "word": "thêm",
+          "start": 20.85,
+          "end": 20.99,
+          "probability": 0.99
+        },
+        {
+          "word": "bù",
+          "start": 20.99,
+          "end": 21.21,
+          "probability": 0.98
+        },
+        {
+          "word": "tín.",
+          "start": 21.21,
+          "end": 21.31,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 21.71,
+      "end": 22.11,
+      "text": "Không những người.",
+      "words": [
+        {
+          "word": "Không",
+          "start": 21.71,
+          "end": 21.83,
+          "probability": 0.79
+        },
+        {
+          "word": "những",
+          "start": 21.83,
+          "end": 21.91,
+          "probability": 0.96
+        },
+        {
+          "word": "người.",
+          "start": 21.91,
+          "end": 22.11,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 23.13,
+      "end": 23.77,
+      "text": "Đóng là.",
+      "words": [
+        {
+          "word": "Đóng",
+          "start": 23.13,
+          "end": 23.45,
+          "probability": 0.47
+        },
+        {
+          "word": "là.",
+          "start": 23.45,
+          "end": 23.77,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 23.95,
+      "end": 24.75,
+      "text": "Điều bằng gì đây?",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 23.95,
+          "end": 24.17,
+          "probability": 0.33
+        },
+        {
+          "word": "bằng",
+          "start": 24.17,
+          "end": 24.23,
+          "probability": 0.79
+        },
+        {
+          "word": "gì",
+          "start": 24.23,
+          "end": 24.35,
+          "probability": 0.85
+        },
+        {
+          "word": "đây?",
+          "start": 24.35,
+          "end": 24.75,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 26.49,
+      "end": 27.15,
+      "text": "Vì đề bằng gì?",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 26.49,
+          "end": 26.63,
+          "probability": 0.28
+        },
+        {
+          "word": "đề",
+          "start": 26.63,
+          "end": 26.77,
+          "probability": 0.22
+        },
+        {
+          "word": "bằng",
+          "start": 26.77,
+          "end": 26.89,
+          "probability": 0.94
+        },
+        {
+          "word": "gì?",
+          "start": 26.89,
+          "end": 27.15,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 27.51,
+      "end": 29.05,
+      "text": "Bằng nước, ngốc, có biết kêu.",
+      "words": [
+        {
+          "word": "Bằng",
+          "start": 27.51,
+          "end": 27.69,
+          "probability": 0.7
+        },
+        {
+          "word": "nước,",
+          "start": 27.69,
+          "end": 28.23,
+          "probability": 0.17
+        },
+        {
+          "word": "ngốc,",
+          "start": 28.69,
+          "end": 28.71,
+          "probability": 0.13
+        },
+        {
+          "word": "có",
+          "start": 28.75,
+          "end": 28.75,
+          "probability": 0.09
+        },
+        {
+          "word": "biết",
+          "start": 28.75,
+          "end": 28.87,
+          "probability": 0.1
+        },
+        {
+          "word": "kêu.",
+          "start": 28.87,
+          "end": 29.05,
+          "probability": 0.29
+        }
+      ]
+    }
+  ]
+}

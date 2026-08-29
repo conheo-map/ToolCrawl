@@ -1,0 +1,578 @@
+{
+  "item_id": "tt_7622294547921538324_06",
+  "duration_seconds": 29.6,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 84,
+  "text": "Cô sử bụng nè đi dễ, dễ nhất là có bụng rồi. Cô sử bụng nè này nó bởi tòan hành. Cô sử bụng nè bởi tòan hành. Đói tụi tế và nó cũng mạng tình rất rất tụi tế trong đế hồ bơi bình thường. Bởi tế kẻ hồ bơi của nó cũng tự tế. Nhi này là một chọn một cái bài tòan tự tế hành. Bởi tìm gặp, bởi tòan tự tế. Mà đầy nó một tòan hành bởi tòan hành.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 2.36,
+      "text": "Cô sử bụng nè đi dễ, dễ nhất là có bụng rồi.",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 0.08,
+          "end": 0.62,
+          "probability": 0.32
+        },
+        {
+          "word": "sử",
+          "start": 0.62,
+          "end": 0.72,
+          "probability": 0.24
+        },
+        {
+          "word": "bụng",
+          "start": 0.72,
+          "end": 0.74,
+          "probability": 0.5
+        },
+        {
+          "word": "nè",
+          "start": 0.74,
+          "end": 0.9,
+          "probability": 0.26
+        },
+        {
+          "word": "đi",
+          "start": 0.9,
+          "end": 0.98,
+          "probability": 0.27
+        },
+        {
+          "word": "dễ,",
+          "start": 0.98,
+          "end": 1.14,
+          "probability": 0.46
+        },
+        {
+          "word": "dễ",
+          "start": 1.34,
+          "end": 1.48,
+          "probability": 0.57
+        },
+        {
+          "word": "nhất",
+          "start": 1.48,
+          "end": 1.62,
+          "probability": 0.23
+        },
+        {
+          "word": "là",
+          "start": 1.62,
+          "end": 1.64,
+          "probability": 0.69
+        },
+        {
+          "word": "có",
+          "start": 1.64,
+          "end": 1.72,
+          "probability": 0.13
+        },
+        {
+          "word": "bụng",
+          "start": 1.72,
+          "end": 1.84,
+          "probability": 0.76
+        },
+        {
+          "word": "rồi.",
+          "start": 1.84,
+          "end": 2.36,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.74,
+      "end": 3.82,
+      "text": "Cô sử bụng nè này nó bởi tòan hành.",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 2.74,
+          "end": 2.74,
+          "probability": 0.96
+        },
+        {
+          "word": "sử",
+          "start": 2.74,
+          "end": 2.88,
+          "probability": 0.49
+        },
+        {
+          "word": "bụng",
+          "start": 2.88,
+          "end": 3.04,
+          "probability": 0.75
+        },
+        {
+          "word": "nè",
+          "start": 3.04,
+          "end": 3.16,
+          "probability": 0.83
+        },
+        {
+          "word": "này",
+          "start": 3.16,
+          "end": 3.24,
+          "probability": 0.11
+        },
+        {
+          "word": "nó",
+          "start": 3.24,
+          "end": 3.28,
+          "probability": 0.25
+        },
+        {
+          "word": "bởi",
+          "start": 3.28,
+          "end": 3.42,
+          "probability": 0.43
+        },
+        {
+          "word": "tòan",
+          "start": 3.42,
+          "end": 3.54,
+          "probability": 0.18
+        },
+        {
+          "word": "hành.",
+          "start": 3.54,
+          "end": 3.82,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.34,
+      "end": 5.18,
+      "text": "Cô sử bụng nè bởi tòan hành.",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 4.34,
+          "end": 4.46,
+          "probability": 0.93
+        },
+        {
+          "word": "sử",
+          "start": 4.46,
+          "end": 4.58,
+          "probability": 0.95
+        },
+        {
+          "word": "bụng",
+          "start": 4.58,
+          "end": 4.64,
+          "probability": 0.85
+        },
+        {
+          "word": "nè",
+          "start": 4.64,
+          "end": 4.7,
+          "probability": 0.67
+        },
+        {
+          "word": "bởi",
+          "start": 4.7,
+          "end": 4.84,
+          "probability": 0.73
+        },
+        {
+          "word": "tòan",
+          "start": 4.84,
+          "end": 5.0,
+          "probability": 0.98
+        },
+        {
+          "word": "hành.",
+          "start": 5.0,
+          "end": 5.18,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.32,
+      "end": 8.22,
+      "text": "Đói tụi tế và nó cũng mạng tình rất rất tụi tế trong đế hồ bơi bình thường.",
+      "words": [
+        {
+          "word": "Đói",
+          "start": 5.32,
+          "end": 5.38,
+          "probability": 0.21
+        },
+        {
+          "word": "tụi",
+          "start": 5.38,
+          "end": 5.52,
+          "probability": 0.4
+        },
+        {
+          "word": "tế",
+          "start": 5.52,
+          "end": 5.86,
+          "probability": 0.54
+        },
+        {
+          "word": "và",
+          "start": 5.86,
+          "end": 6.08,
+          "probability": 0.4
+        },
+        {
+          "word": "nó",
+          "start": 6.08,
+          "end": 6.22,
+          "probability": 0.78
+        },
+        {
+          "word": "cũng",
+          "start": 6.22,
+          "end": 6.38,
+          "probability": 0.3
+        },
+        {
+          "word": "mạng",
+          "start": 6.38,
+          "end": 6.58,
+          "probability": 0.54
+        },
+        {
+          "word": "tình",
+          "start": 6.58,
+          "end": 6.64,
+          "probability": 0.41
+        },
+        {
+          "word": "rất",
+          "start": 6.64,
+          "end": 6.9,
+          "probability": 0.32
+        },
+        {
+          "word": "rất",
+          "start": 6.9,
+          "end": 6.94,
+          "probability": 0.66
+        },
+        {
+          "word": "tụi",
+          "start": 6.94,
+          "end": 7.06,
+          "probability": 0.65
+        },
+        {
+          "word": "tế",
+          "start": 7.06,
+          "end": 7.2,
+          "probability": 0.87
+        },
+        {
+          "word": "trong",
+          "start": 7.2,
+          "end": 7.34,
+          "probability": 0.75
+        },
+        {
+          "word": "đế",
+          "start": 7.34,
+          "end": 7.52,
+          "probability": 0.14
+        },
+        {
+          "word": "hồ",
+          "start": 7.52,
+          "end": 7.62,
+          "probability": 0.49
+        },
+        {
+          "word": "bơi",
+          "start": 7.62,
+          "end": 7.78,
+          "probability": 0.61
+        },
+        {
+          "word": "bình",
+          "start": 7.78,
+          "end": 7.96,
+          "probability": 0.76
+        },
+        {
+          "word": "thường.",
+          "start": 7.96,
+          "end": 8.22,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.52,
+      "end": 9.86,
+      "text": "Bởi tế kẻ hồ bơi của nó cũng tự tế.",
+      "words": [
+        {
+          "word": "Bởi",
+          "start": 8.52,
+          "end": 8.58,
+          "probability": 0.73
+        },
+        {
+          "word": "tế",
+          "start": 8.58,
+          "end": 8.64,
+          "probability": 0.82
+        },
+        {
+          "word": "kẻ",
+          "start": 8.64,
+          "end": 9.04,
+          "probability": 0.19
+        },
+        {
+          "word": "hồ",
+          "start": 9.04,
+          "end": 9.16,
+          "probability": 0.94
+        },
+        {
+          "word": "bơi",
+          "start": 9.16,
+          "end": 9.3,
+          "probability": 0.98
+        },
+        {
+          "word": "của",
+          "start": 9.3,
+          "end": 9.44,
+          "probability": 0.24
+        },
+        {
+          "word": "nó",
+          "start": 9.44,
+          "end": 9.54,
+          "probability": 0.44
+        },
+        {
+          "word": "cũng",
+          "start": 9.54,
+          "end": 9.64,
+          "probability": 0.28
+        },
+        {
+          "word": "tự",
+          "start": 9.64,
+          "end": 9.72,
+          "probability": 0.51
+        },
+        {
+          "word": "tế.",
+          "start": 9.72,
+          "end": 9.86,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.26,
+      "end": 24.82,
+      "text": "Nhi này là một chọn một cái bài tòan tự tế hành.",
+      "words": [
+        {
+          "word": "Nhi",
+          "start": 10.26,
+          "end": 10.42,
+          "probability": 0.47
+        },
+        {
+          "word": "này",
+          "start": 10.42,
+          "end": 10.5,
+          "probability": 0.07
+        },
+        {
+          "word": "là",
+          "start": 10.5,
+          "end": 10.56,
+          "probability": 0.2
+        },
+        {
+          "word": "một",
+          "start": 10.56,
+          "end": 10.66,
+          "probability": 0.17
+        },
+        {
+          "word": "chọn",
+          "start": 10.66,
+          "end": 10.76,
+          "probability": 0.39
+        },
+        {
+          "word": "một",
+          "start": 10.76,
+          "end": 10.94,
+          "probability": 0.37
+        },
+        {
+          "word": "cái",
+          "start": 10.94,
+          "end": 11.0,
+          "probability": 0.2
+        },
+        {
+          "word": "bài",
+          "start": 11.0,
+          "end": 11.06,
+          "probability": 0.67
+        },
+        {
+          "word": "tòan",
+          "start": 11.06,
+          "end": 11.14,
+          "probability": 0.61
+        },
+        {
+          "word": "tự",
+          "start": 11.14,
+          "end": 11.22,
+          "probability": 0.47
+        },
+        {
+          "word": "tế",
+          "start": 11.22,
+          "end": 24.62,
+          "probability": 0.95
+        },
+        {
+          "word": "hành.",
+          "start": 24.62,
+          "end": 24.82,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 24.82,
+      "end": 26.66,
+      "text": "Bởi tìm gặp, bởi tòan tự tế.",
+      "words": [
+        {
+          "word": "Bởi",
+          "start": 24.82,
+          "end": 25.0,
+          "probability": 0.38
+        },
+        {
+          "word": "tìm",
+          "start": 25.0,
+          "end": 25.18,
+          "probability": 0.35
+        },
+        {
+          "word": "gặp,",
+          "start": 25.18,
+          "end": 25.66,
+          "probability": 0.36
+        },
+        {
+          "word": "bởi",
+          "start": 25.66,
+          "end": 25.68,
+          "probability": 0.42
+        },
+        {
+          "word": "tòan",
+          "start": 25.68,
+          "end": 25.92,
+          "probability": 0.18
+        },
+        {
+          "word": "tự",
+          "start": 25.92,
+          "end": 26.32,
+          "probability": 0.05
+        },
+        {
+          "word": "tế.",
+          "start": 26.32,
+          "end": 26.66,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 26.84,
+      "end": 28.82,
+      "text": "Mà đầy nó một tòan hành bởi tòan hành.",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 26.84,
+          "end": 27.26,
+          "probability": 0.45
+        },
+        {
+          "word": "đầy",
+          "start": 27.26,
+          "end": 27.38,
+          "probability": 0.46
+        },
+        {
+          "word": "nó",
+          "start": 27.38,
+          "end": 27.46,
+          "probability": 0.13
+        },
+        {
+          "word": "một",
+          "start": 27.46,
+          "end": 27.6,
+          "probability": 0.04
+        },
+        {
+          "word": "tòan",
+          "start": 27.6,
+          "end": 27.68,
+          "probability": 0.46
+        },
+        {
+          "word": "hành",
+          "start": 27.68,
+          "end": 27.84,
+          "probability": 0.21
+        },
+        {
+          "word": "bởi",
+          "start": 27.84,
+          "end": 28.26,
+          "probability": 0.44
+        },
+        {
+          "word": "tòan",
+          "start": 28.26,
+          "end": 28.56,
+          "probability": 0.47
+        },
+        {
+          "word": "hành.",
+          "start": 28.56,
+          "end": 28.82,
+          "probability": 0.15
+        }
+      ]
+    }
+  ]
+}

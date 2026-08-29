@@ -1,0 +1,612 @@
+{
+  "item_id": "tt_7666724906700131605_04",
+  "duration_seconds": 22.42,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 91,
+  "text": "Chủ đọc 1 con để con ứng liên tục cho đi chương ơn. Bộ con thương yêu cầu tòn bộ các cửa hàng bán lệ sang dầu mở cửa bán hàng đúng thời gian đã đăng ký, nhưng biết giá đầy đủ và bán đúng giá nhiên biết. Cứ định tăng cường kiểm tra hoạt động bán lệ sang dầu của bộ con thương, diễn ra trong buối cạnh, có nhiều dân nghiệp bán lệ và nạn lấy hàng khó khăn. Chết hồ bán lệ sang dầu giá thấp kéo dài.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.28,
+      "text": "Chủ đọc 1 con để con ứng liên tục cho đi chương ơn.",
+      "words": [
+        {
+          "word": "Chủ",
+          "start": 0.0,
+          "end": 0.38,
+          "probability": 0.44
+        },
+        {
+          "word": "đọc",
+          "start": 0.38,
+          "end": 0.58,
+          "probability": 0.48
+        },
+        {
+          "word": "1",
+          "start": 0.58,
+          "end": 0.76,
+          "probability": 0.31
+        },
+        {
+          "word": "con",
+          "start": 0.76,
+          "end": 1.08,
+          "probability": 0.27
+        },
+        {
+          "word": "để",
+          "start": 1.08,
+          "end": 1.38,
+          "probability": 0.77
+        },
+        {
+          "word": "con",
+          "start": 1.38,
+          "end": 1.56,
+          "probability": 0.25
+        },
+        {
+          "word": "ứng",
+          "start": 1.56,
+          "end": 1.8,
+          "probability": 0.67
+        },
+        {
+          "word": "liên",
+          "start": 1.8,
+          "end": 1.98,
+          "probability": 0.77
+        },
+        {
+          "word": "tục",
+          "start": 1.98,
+          "end": 2.16,
+          "probability": 0.79
+        },
+        {
+          "word": "cho",
+          "start": 2.16,
+          "end": 2.4,
+          "probability": 0.97
+        },
+        {
+          "word": "đi",
+          "start": 2.4,
+          "end": 2.54,
+          "probability": 0.37
+        },
+        {
+          "word": "chương",
+          "start": 2.54,
+          "end": 2.78,
+          "probability": 0.61
+        },
+        {
+          "word": "ơn.",
+          "start": 2.78,
+          "end": 3.28,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.68,
+      "end": 6.4,
+      "text": "Bộ con thương yêu cầu tòn bộ các cửa hàng bán lệ sang dầu",
+      "words": [
+        {
+          "word": "Bộ",
+          "start": 3.68,
+          "end": 3.68,
+          "probability": 0.72
+        },
+        {
+          "word": "con",
+          "start": 3.68,
+          "end": 3.84,
+          "probability": 0.67
+        },
+        {
+          "word": "thương",
+          "start": 3.84,
+          "end": 4.02,
+          "probability": 0.78
+        },
+        {
+          "word": "yêu",
+          "start": 4.02,
+          "end": 4.26,
+          "probability": 0.93
+        },
+        {
+          "word": "cầu",
+          "start": 4.26,
+          "end": 4.54,
+          "probability": 0.9
+        },
+        {
+          "word": "tòn",
+          "start": 4.54,
+          "end": 4.74,
+          "probability": 0.22
+        },
+        {
+          "word": "bộ",
+          "start": 4.74,
+          "end": 4.9,
+          "probability": 0.79
+        },
+        {
+          "word": "các",
+          "start": 4.9,
+          "end": 5.08,
+          "probability": 0.91
+        },
+        {
+          "word": "cửa",
+          "start": 5.08,
+          "end": 5.32,
+          "probability": 0.68
+        },
+        {
+          "word": "hàng",
+          "start": 5.32,
+          "end": 5.5,
+          "probability": 0.94
+        },
+        {
+          "word": "bán",
+          "start": 5.5,
+          "end": 5.68,
+          "probability": 0.48
+        },
+        {
+          "word": "lệ",
+          "start": 5.68,
+          "end": 5.84,
+          "probability": 0.56
+        },
+        {
+          "word": "sang",
+          "start": 5.84,
+          "end": 6.08,
+          "probability": 0.3
+        },
+        {
+          "word": "dầu",
+          "start": 6.08,
+          "end": 6.4,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.4,
+      "end": 8.88,
+      "text": "mở cửa bán hàng đúng thời gian đã đăng ký,",
+      "words": [
+        {
+          "word": "mở",
+          "start": 6.4,
+          "end": 6.88,
+          "probability": 0.21
+        },
+        {
+          "word": "cửa",
+          "start": 6.88,
+          "end": 7.12,
+          "probability": 0.95
+        },
+        {
+          "word": "bán",
+          "start": 7.12,
+          "end": 7.32,
+          "probability": 0.84
+        },
+        {
+          "word": "hàng",
+          "start": 7.32,
+          "end": 7.6,
+          "probability": 0.93
+        },
+        {
+          "word": "đúng",
+          "start": 7.6,
+          "end": 7.8,
+          "probability": 0.8
+        },
+        {
+          "word": "thời",
+          "start": 7.8,
+          "end": 8.04,
+          "probability": 0.75
+        },
+        {
+          "word": "gian",
+          "start": 8.04,
+          "end": 8.18,
+          "probability": 0.91
+        },
+        {
+          "word": "đã",
+          "start": 8.18,
+          "end": 8.4,
+          "probability": 0.81
+        },
+        {
+          "word": "đăng",
+          "start": 8.4,
+          "end": 8.56,
+          "probability": 0.78
+        },
+        {
+          "word": "ký,",
+          "start": 8.56,
+          "end": 8.88,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.26,
+      "end": 11.98,
+      "text": "nhưng biết giá đầy đủ và bán đúng giá nhiên biết.",
+      "words": [
+        {
+          "word": "nhưng",
+          "start": 9.26,
+          "end": 9.32,
+          "probability": 0.07
+        },
+        {
+          "word": "biết",
+          "start": 9.32,
+          "end": 9.54,
+          "probability": 0.71
+        },
+        {
+          "word": "giá",
+          "start": 9.54,
+          "end": 9.76,
+          "probability": 0.71
+        },
+        {
+          "word": "đầy",
+          "start": 9.76,
+          "end": 9.94,
+          "probability": 0.73
+        },
+        {
+          "word": "đủ",
+          "start": 9.94,
+          "end": 10.24,
+          "probability": 0.88
+        },
+        {
+          "word": "và",
+          "start": 10.24,
+          "end": 10.62,
+          "probability": 0.67
+        },
+        {
+          "word": "bán",
+          "start": 10.62,
+          "end": 10.82,
+          "probability": 0.7
+        },
+        {
+          "word": "đúng",
+          "start": 10.82,
+          "end": 11.0,
+          "probability": 0.7
+        },
+        {
+          "word": "giá",
+          "start": 11.0,
+          "end": 11.26,
+          "probability": 0.98
+        },
+        {
+          "word": "nhiên",
+          "start": 11.26,
+          "end": 11.42,
+          "probability": 0.48
+        },
+        {
+          "word": "biết.",
+          "start": 11.42,
+          "end": 11.98,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.5,
+      "end": 15.56,
+      "text": "Cứ định tăng cường kiểm tra hoạt động bán lệ sang dầu của bộ con thương,",
+      "words": [
+        {
+          "word": "Cứ",
+          "start": 12.5,
+          "end": 12.5,
+          "probability": 0.32
+        },
+        {
+          "word": "định",
+          "start": 12.5,
+          "end": 12.74,
+          "probability": 0.76
+        },
+        {
+          "word": "tăng",
+          "start": 12.74,
+          "end": 12.94,
+          "probability": 0.78
+        },
+        {
+          "word": "cường",
+          "start": 12.94,
+          "end": 13.18,
+          "probability": 0.56
+        },
+        {
+          "word": "kiểm",
+          "start": 13.18,
+          "end": 13.38,
+          "probability": 0.73
+        },
+        {
+          "word": "tra",
+          "start": 13.38,
+          "end": 13.6,
+          "probability": 0.99
+        },
+        {
+          "word": "hoạt",
+          "start": 13.6,
+          "end": 13.82,
+          "probability": 0.56
+        },
+        {
+          "word": "động",
+          "start": 13.82,
+          "end": 13.94,
+          "probability": 0.79
+        },
+        {
+          "word": "bán",
+          "start": 13.94,
+          "end": 14.18,
+          "probability": 0.95
+        },
+        {
+          "word": "lệ",
+          "start": 14.18,
+          "end": 14.3,
+          "probability": 0.99
+        },
+        {
+          "word": "sang",
+          "start": 14.3,
+          "end": 14.5,
+          "probability": 0.93
+        },
+        {
+          "word": "dầu",
+          "start": 14.5,
+          "end": 14.7,
+          "probability": 0.98
+        },
+        {
+          "word": "của",
+          "start": 14.7,
+          "end": 14.86,
+          "probability": 0.98
+        },
+        {
+          "word": "bộ",
+          "start": 14.86,
+          "end": 15.04,
+          "probability": 0.68
+        },
+        {
+          "word": "con",
+          "start": 15.04,
+          "end": 15.2,
+          "probability": 0.99
+        },
+        {
+          "word": "thương,",
+          "start": 15.2,
+          "end": 15.56,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.82,
+      "end": 19.82,
+      "text": "diễn ra trong buối cạnh, có nhiều dân nghiệp bán lệ và nạn lấy hàng khó khăn.",
+      "words": [
+        {
+          "word": "diễn",
+          "start": 15.82,
+          "end": 16.02,
+          "probability": 0.69
+        },
+        {
+          "word": "ra",
+          "start": 16.02,
+          "end": 16.26,
+          "probability": 0.95
+        },
+        {
+          "word": "trong",
+          "start": 16.26,
+          "end": 16.48,
+          "probability": 0.94
+        },
+        {
+          "word": "buối",
+          "start": 16.48,
+          "end": 16.64,
+          "probability": 0.51
+        },
+        {
+          "word": "cạnh,",
+          "start": 16.64,
+          "end": 17.04,
+          "probability": 0.7
+        },
+        {
+          "word": "có",
+          "start": 17.24,
+          "end": 17.34,
+          "probability": 0.76
+        },
+        {
+          "word": "nhiều",
+          "start": 17.34,
+          "end": 17.5,
+          "probability": 0.98
+        },
+        {
+          "word": "dân",
+          "start": 17.5,
+          "end": 17.7,
+          "probability": 0.17
+        },
+        {
+          "word": "nghiệp",
+          "start": 17.7,
+          "end": 17.88,
+          "probability": 0.85
+        },
+        {
+          "word": "bán",
+          "start": 17.88,
+          "end": 18.1,
+          "probability": 0.97
+        },
+        {
+          "word": "lệ",
+          "start": 18.1,
+          "end": 18.32,
+          "probability": 0.97
+        },
+        {
+          "word": "và",
+          "start": 18.32,
+          "end": 18.52,
+          "probability": 0.57
+        },
+        {
+          "word": "nạn",
+          "start": 18.52,
+          "end": 18.72,
+          "probability": 0.39
+        },
+        {
+          "word": "lấy",
+          "start": 18.72,
+          "end": 18.98,
+          "probability": 0.6
+        },
+        {
+          "word": "hàng",
+          "start": 18.98,
+          "end": 19.2,
+          "probability": 0.94
+        },
+        {
+          "word": "khó",
+          "start": 19.2,
+          "end": 19.4,
+          "probability": 0.71
+        },
+        {
+          "word": "khăn.",
+          "start": 19.4,
+          "end": 19.82,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 20.06,
+      "end": 22.18,
+      "text": "Chết hồ bán lệ sang dầu giá thấp kéo dài.",
+      "words": [
+        {
+          "word": "Chết",
+          "start": 20.06,
+          "end": 20.2,
+          "probability": 0.54
+        },
+        {
+          "word": "hồ",
+          "start": 20.2,
+          "end": 20.44,
+          "probability": 0.46
+        },
+        {
+          "word": "bán",
+          "start": 20.44,
+          "end": 20.6,
+          "probability": 0.99
+        },
+        {
+          "word": "lệ",
+          "start": 20.6,
+          "end": 20.8,
+          "probability": 1.0
+        },
+        {
+          "word": "sang",
+          "start": 20.8,
+          "end": 20.98,
+          "probability": 0.98
+        },
+        {
+          "word": "dầu",
+          "start": 20.98,
+          "end": 21.16,
+          "probability": 0.99
+        },
+        {
+          "word": "giá",
+          "start": 21.16,
+          "end": 21.46,
+          "probability": 0.52
+        },
+        {
+          "word": "thấp",
+          "start": 21.46,
+          "end": 21.74,
+          "probability": 0.5
+        },
+        {
+          "word": "kéo",
+          "start": 21.74,
+          "end": 21.96,
+          "probability": 0.63
+        },
+        {
+          "word": "dài.",
+          "start": 21.96,
+          "end": 22.18,
+          "probability": 0.67
+        }
+      ]
+    }
+  ]
+}

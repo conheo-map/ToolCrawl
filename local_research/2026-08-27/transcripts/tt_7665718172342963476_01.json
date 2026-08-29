@@ -1,0 +1,788 @@
+{
+  "item_id": "tt_7665718172342963476_01",
+  "duration_seconds": 29.6,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 119,
+  "text": "Chào các bạn đây, là sang sung gà này xí e thay sau un trà của đó mắt tại Việt Nam. Sẵn sung gọi đây là ai ai phôn đầu tiên, với sức mạnh đến từ phân cướng. Các tính năng gái ai trong phần bề và trả nhiệm liên mặt của người dùng. Khi tương tác của gí tuần nhìn tác. Về ngoại hình, sang sung gà này xí e thay sau không khát nhiều so với bạn tin giữa. Về nhiều mại cho cảm giác cầm nằm tốt hơn nhiều, cảm thấy góc cảnh được bó tròn. Mà lại trả nhiệm thân thân. Mày cũng mọng hơn và nhẹ hơn rất nhiều so với bạn tin giữa.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.14,
+      "end": 4.22,
+      "text": "Chào các bạn đây, là sang sung gà này xí e thay sau un trà của đó mắt tại Việt Nam.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 0.14,
+          "end": 0.74,
+          "probability": 0.41
+        },
+        {
+          "word": "các",
+          "start": 0.74,
+          "end": 0.88,
+          "probability": 0.96
+        },
+        {
+          "word": "bạn",
+          "start": 0.88,
+          "end": 1.06,
+          "probability": 1.0
+        },
+        {
+          "word": "đây,",
+          "start": 1.06,
+          "end": 1.24,
+          "probability": 0.4
+        },
+        {
+          "word": "là",
+          "start": 1.42,
+          "end": 1.42,
+          "probability": 0.11
+        },
+        {
+          "word": "sang",
+          "start": 1.42,
+          "end": 1.56,
+          "probability": 0.08
+        },
+        {
+          "word": "sung",
+          "start": 1.56,
+          "end": 1.7,
+          "probability": 0.11
+        },
+        {
+          "word": "gà",
+          "start": 1.7,
+          "end": 1.88,
+          "probability": 0.24
+        },
+        {
+          "word": "này",
+          "start": 1.88,
+          "end": 2.04,
+          "probability": 0.14
+        },
+        {
+          "word": "xí",
+          "start": 2.04,
+          "end": 2.18,
+          "probability": 0.33
+        },
+        {
+          "word": "e",
+          "start": 2.18,
+          "end": 2.3,
+          "probability": 0.08
+        },
+        {
+          "word": "thay",
+          "start": 2.3,
+          "end": 2.52,
+          "probability": 0.27
+        },
+        {
+          "word": "sau",
+          "start": 2.52,
+          "end": 2.62,
+          "probability": 0.6
+        },
+        {
+          "word": "un",
+          "start": 2.62,
+          "end": 2.8,
+          "probability": 0.24
+        },
+        {
+          "word": "trà",
+          "start": 2.8,
+          "end": 2.98,
+          "probability": 0.65
+        },
+        {
+          "word": "của",
+          "start": 2.98,
+          "end": 3.16,
+          "probability": 0.37
+        },
+        {
+          "word": "đó",
+          "start": 3.16,
+          "end": 3.3,
+          "probability": 0.13
+        },
+        {
+          "word": "mắt",
+          "start": 3.3,
+          "end": 3.42,
+          "probability": 0.5
+        },
+        {
+          "word": "tại",
+          "start": 3.42,
+          "end": 3.62,
+          "probability": 0.24
+        },
+        {
+          "word": "Việt",
+          "start": 3.62,
+          "end": 3.82,
+          "probability": 0.23
+        },
+        {
+          "word": "Nam.",
+          "start": 3.82,
+          "end": 4.22,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.12,
+      "end": 8.24,
+      "text": "Sẵn sung gọi đây là ai ai phôn đầu tiên, với sức mạnh đến từ phân cướng.",
+      "words": [
+        {
+          "word": "Sẵn",
+          "start": 5.12,
+          "end": 5.16,
+          "probability": 0.57
+        },
+        {
+          "word": "sung",
+          "start": 5.16,
+          "end": 5.32,
+          "probability": 0.62
+        },
+        {
+          "word": "gọi",
+          "start": 5.32,
+          "end": 5.56,
+          "probability": 0.69
+        },
+        {
+          "word": "đây",
+          "start": 5.56,
+          "end": 5.74,
+          "probability": 0.63
+        },
+        {
+          "word": "là",
+          "start": 5.74,
+          "end": 5.88,
+          "probability": 0.6
+        },
+        {
+          "word": "ai",
+          "start": 5.88,
+          "end": 6.12,
+          "probability": 0.54
+        },
+        {
+          "word": "ai",
+          "start": 6.12,
+          "end": 6.18,
+          "probability": 0.68
+        },
+        {
+          "word": "phôn",
+          "start": 6.18,
+          "end": 6.34,
+          "probability": 0.53
+        },
+        {
+          "word": "đầu",
+          "start": 6.34,
+          "end": 6.56,
+          "probability": 0.47
+        },
+        {
+          "word": "tiên,",
+          "start": 6.56,
+          "end": 6.74,
+          "probability": 0.95
+        },
+        {
+          "word": "với",
+          "start": 6.92,
+          "end": 7.08,
+          "probability": 0.28
+        },
+        {
+          "word": "sức",
+          "start": 7.08,
+          "end": 7.28,
+          "probability": 0.61
+        },
+        {
+          "word": "mạnh",
+          "start": 7.28,
+          "end": 7.42,
+          "probability": 0.88
+        },
+        {
+          "word": "đến",
+          "start": 7.42,
+          "end": 7.6,
+          "probability": 0.95
+        },
+        {
+          "word": "từ",
+          "start": 7.6,
+          "end": 7.76,
+          "probability": 0.85
+        },
+        {
+          "word": "phân",
+          "start": 7.76,
+          "end": 7.98,
+          "probability": 0.62
+        },
+        {
+          "word": "cướng.",
+          "start": 7.98,
+          "end": 8.24,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.46,
+      "end": 11.22,
+      "text": "Các tính năng gái ai trong phần bề và trả nhiệm liên mặt của người dùng.",
+      "words": [
+        {
+          "word": "Các",
+          "start": 8.46,
+          "end": 8.48,
+          "probability": 0.43
+        },
+        {
+          "word": "tính",
+          "start": 8.48,
+          "end": 8.64,
+          "probability": 0.64
+        },
+        {
+          "word": "năng",
+          "start": 8.64,
+          "end": 8.78,
+          "probability": 0.78
+        },
+        {
+          "word": "gái",
+          "start": 8.78,
+          "end": 8.96,
+          "probability": 0.22
+        },
+        {
+          "word": "ai",
+          "start": 8.96,
+          "end": 9.14,
+          "probability": 0.88
+        },
+        {
+          "word": "trong",
+          "start": 9.14,
+          "end": 9.28,
+          "probability": 0.95
+        },
+        {
+          "word": "phần",
+          "start": 9.28,
+          "end": 9.5,
+          "probability": 0.67
+        },
+        {
+          "word": "bề",
+          "start": 9.5,
+          "end": 9.7,
+          "probability": 0.47
+        },
+        {
+          "word": "và",
+          "start": 9.7,
+          "end": 9.98,
+          "probability": 0.91
+        },
+        {
+          "word": "trả",
+          "start": 9.98,
+          "end": 10.14,
+          "probability": 0.45
+        },
+        {
+          "word": "nhiệm",
+          "start": 10.14,
+          "end": 10.24,
+          "probability": 0.7
+        },
+        {
+          "word": "liên",
+          "start": 10.24,
+          "end": 10.48,
+          "probability": 0.79
+        },
+        {
+          "word": "mặt",
+          "start": 10.48,
+          "end": 10.66,
+          "probability": 0.67
+        },
+        {
+          "word": "của",
+          "start": 10.66,
+          "end": 10.8,
+          "probability": 0.91
+        },
+        {
+          "word": "người",
+          "start": 10.8,
+          "end": 10.96,
+          "probability": 0.14
+        },
+        {
+          "word": "dùng.",
+          "start": 10.96,
+          "end": 11.22,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.56,
+      "end": 13.02,
+      "text": "Khi tương tác của gí tuần nhìn tác.",
+      "words": [
+        {
+          "word": "Khi",
+          "start": 11.56,
+          "end": 11.76,
+          "probability": 0.59
+        },
+        {
+          "word": "tương",
+          "start": 11.76,
+          "end": 11.9,
+          "probability": 0.63
+        },
+        {
+          "word": "tác",
+          "start": 11.9,
+          "end": 12.1,
+          "probability": 0.73
+        },
+        {
+          "word": "của",
+          "start": 12.1,
+          "end": 12.22,
+          "probability": 0.18
+        },
+        {
+          "word": "gí",
+          "start": 12.22,
+          "end": 12.38,
+          "probability": 0.31
+        },
+        {
+          "word": "tuần",
+          "start": 12.38,
+          "end": 12.48,
+          "probability": 0.6
+        },
+        {
+          "word": "nhìn",
+          "start": 12.48,
+          "end": 12.7,
+          "probability": 0.34
+        },
+        {
+          "word": "tác.",
+          "start": 12.7,
+          "end": 13.02,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.72,
+      "end": 20.84,
+      "text": "Về ngoại hình, sang sung gà này xí e thay sau không khát nhiều so với bạn tin giữa.",
+      "words": [
+        {
+          "word": "Về",
+          "start": 16.72,
+          "end": 16.92,
+          "probability": 0.54
+        },
+        {
+          "word": "ngoại",
+          "start": 16.92,
+          "end": 17.18,
+          "probability": 0.85
+        },
+        {
+          "word": "hình,",
+          "start": 17.18,
+          "end": 17.68,
+          "probability": 0.79
+        },
+        {
+          "word": "sang",
+          "start": 17.94,
+          "end": 17.98,
+          "probability": 0.86
+        },
+        {
+          "word": "sung",
+          "start": 17.98,
+          "end": 18.22,
+          "probability": 0.99
+        },
+        {
+          "word": "gà",
+          "start": 18.22,
+          "end": 18.38,
+          "probability": 0.99
+        },
+        {
+          "word": "này",
+          "start": 18.38,
+          "end": 18.58,
+          "probability": 0.97
+        },
+        {
+          "word": "xí",
+          "start": 18.58,
+          "end": 18.64,
+          "probability": 0.99
+        },
+        {
+          "word": "e",
+          "start": 18.64,
+          "end": 18.78,
+          "probability": 0.99
+        },
+        {
+          "word": "thay",
+          "start": 18.78,
+          "end": 18.94,
+          "probability": 0.98
+        },
+        {
+          "word": "sau",
+          "start": 18.94,
+          "end": 19.16,
+          "probability": 1.0
+        },
+        {
+          "word": "không",
+          "start": 19.16,
+          "end": 19.34,
+          "probability": 0.73
+        },
+        {
+          "word": "khát",
+          "start": 19.34,
+          "end": 19.52,
+          "probability": 0.69
+        },
+        {
+          "word": "nhiều",
+          "start": 19.52,
+          "end": 19.72,
+          "probability": 0.79
+        },
+        {
+          "word": "so",
+          "start": 19.72,
+          "end": 19.96,
+          "probability": 0.39
+        },
+        {
+          "word": "với",
+          "start": 19.96,
+          "end": 20.04,
+          "probability": 0.89
+        },
+        {
+          "word": "bạn",
+          "start": 20.04,
+          "end": 20.24,
+          "probability": 0.59
+        },
+        {
+          "word": "tin",
+          "start": 20.24,
+          "end": 20.4,
+          "probability": 0.39
+        },
+        {
+          "word": "giữa.",
+          "start": 20.4,
+          "end": 20.84,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 21.04,
+      "end": 24.54,
+      "text": "Về nhiều mại cho cảm giác cầm nằm tốt hơn nhiều, cảm thấy góc cảnh được bó tròn.",
+      "words": [
+        {
+          "word": "Về",
+          "start": 21.04,
+          "end": 21.16,
+          "probability": 0.15
+        },
+        {
+          "word": "nhiều",
+          "start": 21.16,
+          "end": 21.3,
+          "probability": 0.41
+        },
+        {
+          "word": "mại",
+          "start": 21.3,
+          "end": 21.54,
+          "probability": 0.45
+        },
+        {
+          "word": "cho",
+          "start": 21.54,
+          "end": 21.76,
+          "probability": 0.37
+        },
+        {
+          "word": "cảm",
+          "start": 21.76,
+          "end": 21.96,
+          "probability": 0.68
+        },
+        {
+          "word": "giác",
+          "start": 21.96,
+          "end": 22.08,
+          "probability": 0.77
+        },
+        {
+          "word": "cầm",
+          "start": 22.08,
+          "end": 22.3,
+          "probability": 0.8
+        },
+        {
+          "word": "nằm",
+          "start": 22.3,
+          "end": 22.46,
+          "probability": 0.71
+        },
+        {
+          "word": "tốt",
+          "start": 22.46,
+          "end": 22.66,
+          "probability": 0.81
+        },
+        {
+          "word": "hơn",
+          "start": 22.66,
+          "end": 22.88,
+          "probability": 0.96
+        },
+        {
+          "word": "nhiều,",
+          "start": 22.88,
+          "end": 23.16,
+          "probability": 0.79
+        },
+        {
+          "word": "cảm",
+          "start": 23.18,
+          "end": 23.4,
+          "probability": 0.62
+        },
+        {
+          "word": "thấy",
+          "start": 23.4,
+          "end": 23.44,
+          "probability": 0.23
+        },
+        {
+          "word": "góc",
+          "start": 23.44,
+          "end": 23.66,
+          "probability": 0.71
+        },
+        {
+          "word": "cảnh",
+          "start": 23.66,
+          "end": 23.88,
+          "probability": 0.69
+        },
+        {
+          "word": "được",
+          "start": 23.88,
+          "end": 24.02,
+          "probability": 0.93
+        },
+        {
+          "word": "bó",
+          "start": 24.02,
+          "end": 24.22,
+          "probability": 0.53
+        },
+        {
+          "word": "tròn.",
+          "start": 24.22,
+          "end": 24.54,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 25.0,
+      "end": 26.08,
+      "text": "Mà lại trả nhiệm thân thân.",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 25.0,
+          "end": 25.08,
+          "probability": 0.63
+        },
+        {
+          "word": "lại",
+          "start": 25.08,
+          "end": 25.28,
+          "probability": 0.26
+        },
+        {
+          "word": "trả",
+          "start": 25.28,
+          "end": 25.42,
+          "probability": 0.92
+        },
+        {
+          "word": "nhiệm",
+          "start": 25.42,
+          "end": 25.62,
+          "probability": 0.69
+        },
+        {
+          "word": "thân",
+          "start": 25.62,
+          "end": 25.78,
+          "probability": 0.79
+        },
+        {
+          "word": "thân.",
+          "start": 25.78,
+          "end": 26.08,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 27.06,
+      "end": 29.34,
+      "text": "Mày cũng mọng hơn và nhẹ hơn rất nhiều so với bạn tin giữa.",
+      "words": [
+        {
+          "word": "Mày",
+          "start": 27.06,
+          "end": 27.22,
+          "probability": 0.77
+        },
+        {
+          "word": "cũng",
+          "start": 27.22,
+          "end": 27.38,
+          "probability": 0.95
+        },
+        {
+          "word": "mọng",
+          "start": 27.38,
+          "end": 27.58,
+          "probability": 0.66
+        },
+        {
+          "word": "hơn",
+          "start": 27.58,
+          "end": 27.78,
+          "probability": 1.0
+        },
+        {
+          "word": "và",
+          "start": 27.78,
+          "end": 27.92,
+          "probability": 0.91
+        },
+        {
+          "word": "nhẹ",
+          "start": 27.92,
+          "end": 28.04,
+          "probability": 0.66
+        },
+        {
+          "word": "hơn",
+          "start": 28.04,
+          "end": 28.18,
+          "probability": 0.81
+        },
+        {
+          "word": "rất",
+          "start": 28.18,
+          "end": 28.34,
+          "probability": 0.4
+        },
+        {
+          "word": "nhiều",
+          "start": 28.34,
+          "end": 28.52,
+          "probability": 1.0
+        },
+        {
+          "word": "so",
+          "start": 28.52,
+          "end": 28.74,
+          "probability": 0.78
+        },
+        {
+          "word": "với",
+          "start": 28.74,
+          "end": 28.9,
+          "probability": 0.97
+        },
+        {
+          "word": "bạn",
+          "start": 28.9,
+          "end": 29.08,
+          "probability": 0.96
+        },
+        {
+          "word": "tin",
+          "start": 29.08,
+          "end": 29.24,
+          "probability": 0.99
+        },
+        {
+          "word": "giữa.",
+          "start": 29.24,
+          "end": 29.34,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

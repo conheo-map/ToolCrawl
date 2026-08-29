@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7652343258768592149_09",
+  "duration_seconds": 29.57,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Thông ВKO К",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 29.54,
+      "text": "Thông ВKO К",
+      "words": [
+        {
+          "word": "Thông",
+          "start": 0.0,
+          "end": 0.38,
+          "probability": 0.14
+        },
+        {
+          "word": "ВKO",
+          "start": 0.38,
+          "end": 1.1,
+          "probability": 0.0
+        },
+        {
+          "word": "К",
+          "start": 1.1,
+          "end": 29.54,
+          "probability": 0.0
+        }
+      ]
+    }
+  ]
+}

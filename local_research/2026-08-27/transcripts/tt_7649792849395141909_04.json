@@ -1,0 +1,624 @@
+{
+  "item_id": "tt_7649792849395141909_04",
+  "duration_seconds": 26.73,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 91,
+  "text": "Thật rất tỉnh duyên 2 năm trung bộ ở từ ngày 12,5 phục hiện là ngày 9, có nơi nặng, châu tối và đêm có mưa ra vào giống phải nơi. Như đô cao nhất từ 12,5 đúng sê, có nơi trên 3 đúng sê, thấp nhất từ 20,5 đúng sê. Dương bảo hực tiếp cao nguyên trung bộ ở từ ngày 12,5 phục hiện là ngày 9, châu tối và tối có mưa giống dải giá. Như đô cao nhất từ 20,5 đúng sê, thấp nhất từ 20,5 đúng sê.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.76,
+      "text": "Thật rất tỉnh duyên 2 năm trung bộ ở từ ngày 12,5 phục hiện là ngày 9, có nơi nặng, châu tối và đêm có mưa ra vào giống phải nơi.",
+      "words": [
+        {
+          "word": "Thật",
+          "start": 0.0,
+          "end": 0.52,
+          "probability": 0.33
+        },
+        {
+          "word": "rất",
+          "start": 0.52,
+          "end": 0.74,
+          "probability": 0.06
+        },
+        {
+          "word": "tỉnh",
+          "start": 0.74,
+          "end": 1.04,
+          "probability": 0.53
+        },
+        {
+          "word": "duyên",
+          "start": 1.04,
+          "end": 1.28,
+          "probability": 0.53
+        },
+        {
+          "word": "2",
+          "start": 1.28,
+          "end": 1.54,
+          "probability": 0.53
+        },
+        {
+          "word": "năm",
+          "start": 1.54,
+          "end": 1.78,
+          "probability": 0.31
+        },
+        {
+          "word": "trung",
+          "start": 1.78,
+          "end": 1.94,
+          "probability": 0.23
+        },
+        {
+          "word": "bộ",
+          "start": 1.94,
+          "end": 2.14,
+          "probability": 0.81
+        },
+        {
+          "word": "ở",
+          "start": 2.14,
+          "end": 2.32,
+          "probability": 0.3
+        },
+        {
+          "word": "từ",
+          "start": 2.32,
+          "end": 2.42,
+          "probability": 0.53
+        },
+        {
+          "word": "ngày",
+          "start": 2.42,
+          "end": 2.6,
+          "probability": 0.89
+        },
+        {
+          "word": "12",
+          "start": 2.6,
+          "end": 2.94,
+          "probability": 0.2
+        },
+        {
+          "word": ",5",
+          "start": 2.94,
+          "end": 3.76,
+          "probability": 0.09
+        },
+        {
+          "word": "phục",
+          "start": 3.76,
+          "end": 3.98,
+          "probability": 0.27
+        },
+        {
+          "word": "hiện",
+          "start": 3.98,
+          "end": 4.22,
+          "probability": 0.11
+        },
+        {
+          "word": "là",
+          "start": 4.22,
+          "end": 4.5,
+          "probability": 0.57
+        },
+        {
+          "word": "ngày",
+          "start": 4.5,
+          "end": 4.72,
+          "probability": 0.79
+        },
+        {
+          "word": "9,",
+          "start": 4.72,
+          "end": 5.06,
+          "probability": 0.31
+        },
+        {
+          "word": "có",
+          "start": 5.26,
+          "end": 5.32,
+          "probability": 0.13
+        },
+        {
+          "word": "nơi",
+          "start": 5.32,
+          "end": 5.52,
+          "probability": 0.72
+        },
+        {
+          "word": "nặng,",
+          "start": 5.52,
+          "end": 6.14,
+          "probability": 0.59
+        },
+        {
+          "word": "châu",
+          "start": 6.42,
+          "end": 6.54,
+          "probability": 0.22
+        },
+        {
+          "word": "tối",
+          "start": 6.54,
+          "end": 6.74,
+          "probability": 0.67
+        },
+        {
+          "word": "và",
+          "start": 6.74,
+          "end": 6.96,
+          "probability": 0.56
+        },
+        {
+          "word": "đêm",
+          "start": 6.96,
+          "end": 7.2,
+          "probability": 0.76
+        },
+        {
+          "word": "có",
+          "start": 7.2,
+          "end": 7.42,
+          "probability": 0.46
+        },
+        {
+          "word": "mưa",
+          "start": 7.42,
+          "end": 7.54,
+          "probability": 0.5
+        },
+        {
+          "word": "ra",
+          "start": 7.54,
+          "end": 7.76,
+          "probability": 0.36
+        },
+        {
+          "word": "vào",
+          "start": 7.76,
+          "end": 7.94,
+          "probability": 0.18
+        },
+        {
+          "word": "giống",
+          "start": 7.94,
+          "end": 8.12,
+          "probability": 0.51
+        },
+        {
+          "word": "phải",
+          "start": 8.12,
+          "end": 8.32,
+          "probability": 0.51
+        },
+        {
+          "word": "nơi.",
+          "start": 8.32,
+          "end": 8.76,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 9.06,
+      "end": 15.34,
+      "text": "Như đô cao nhất từ 12,5 đúng sê, có nơi trên 3 đúng sê, thấp nhất từ 20,5 đúng sê.",
+      "words": [
+        {
+          "word": "Như",
+          "start": 9.06,
+          "end": 9.18,
+          "probability": 0.29
+        },
+        {
+          "word": "đô",
+          "start": 9.18,
+          "end": 9.32,
+          "probability": 0.29
+        },
+        {
+          "word": "cao",
+          "start": 9.32,
+          "end": 9.5,
+          "probability": 0.81
+        },
+        {
+          "word": "nhất",
+          "start": 9.5,
+          "end": 9.8,
+          "probability": 0.96
+        },
+        {
+          "word": "từ",
+          "start": 9.8,
+          "end": 10.06,
+          "probability": 0.88
+        },
+        {
+          "word": "12",
+          "start": 10.06,
+          "end": 10.4,
+          "probability": 0.15
+        },
+        {
+          "word": ",5",
+          "start": 10.4,
+          "end": 11.0,
+          "probability": 0.77
+        },
+        {
+          "word": "đúng",
+          "start": 11.0,
+          "end": 11.34,
+          "probability": 0.18
+        },
+        {
+          "word": "sê,",
+          "start": 11.34,
+          "end": 11.62,
+          "probability": 0.42
+        },
+        {
+          "word": "có",
+          "start": 11.78,
+          "end": 11.82,
+          "probability": 0.97
+        },
+        {
+          "word": "nơi",
+          "start": 11.82,
+          "end": 12.02,
+          "probability": 0.98
+        },
+        {
+          "word": "trên",
+          "start": 12.02,
+          "end": 12.2,
+          "probability": 0.77
+        },
+        {
+          "word": "3",
+          "start": 12.2,
+          "end": 12.42,
+          "probability": 0.19
+        },
+        {
+          "word": "đúng",
+          "start": 12.42,
+          "end": 12.68,
+          "probability": 0.39
+        },
+        {
+          "word": "sê,",
+          "start": 12.68,
+          "end": 13.04,
+          "probability": 0.86
+        },
+        {
+          "word": "thấp",
+          "start": 13.38,
+          "end": 13.48,
+          "probability": 0.68
+        },
+        {
+          "word": "nhất",
+          "start": 13.48,
+          "end": 13.66,
+          "probability": 0.96
+        },
+        {
+          "word": "từ",
+          "start": 13.66,
+          "end": 13.84,
+          "probability": 0.86
+        },
+        {
+          "word": "20",
+          "start": 13.84,
+          "end": 14.08,
+          "probability": 0.24
+        },
+        {
+          "word": ",5",
+          "start": 14.08,
+          "end": 14.56,
+          "probability": 0.66
+        },
+        {
+          "word": "đúng",
+          "start": 14.56,
+          "end": 14.9,
+          "probability": 0.63
+        },
+        {
+          "word": "sê.",
+          "start": 14.9,
+          "end": 15.34,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 15.68,
+      "end": 21.78,
+      "text": "Dương bảo hực tiếp cao nguyên trung bộ ở từ ngày 12,5 phục hiện là ngày 9, châu tối và tối có mưa giống dải giá.",
+      "words": [
+        {
+          "word": "Dương",
+          "start": 15.68,
+          "end": 15.82,
+          "probability": 0.14
+        },
+        {
+          "word": "bảo",
+          "start": 15.82,
+          "end": 15.86,
+          "probability": 0.32
+        },
+        {
+          "word": "hực",
+          "start": 15.86,
+          "end": 16.04,
+          "probability": 0.47
+        },
+        {
+          "word": "tiếp",
+          "start": 16.04,
+          "end": 16.22,
+          "probability": 0.54
+        },
+        {
+          "word": "cao",
+          "start": 16.22,
+          "end": 16.4,
+          "probability": 0.82
+        },
+        {
+          "word": "nguyên",
+          "start": 16.4,
+          "end": 16.6,
+          "probability": 0.63
+        },
+        {
+          "word": "trung",
+          "start": 16.6,
+          "end": 16.76,
+          "probability": 0.98
+        },
+        {
+          "word": "bộ",
+          "start": 16.76,
+          "end": 16.96,
+          "probability": 0.92
+        },
+        {
+          "word": "ở",
+          "start": 16.96,
+          "end": 17.14,
+          "probability": 0.35
+        },
+        {
+          "word": "từ",
+          "start": 17.14,
+          "end": 17.14,
+          "probability": 0.98
+        },
+        {
+          "word": "ngày",
+          "start": 17.14,
+          "end": 17.34,
+          "probability": 0.99
+        },
+        {
+          "word": "12",
+          "start": 17.34,
+          "end": 17.92,
+          "probability": 0.95
+        },
+        {
+          "word": ",5",
+          "start": 17.92,
+          "end": 18.7,
+          "probability": 0.9
+        },
+        {
+          "word": "phục",
+          "start": 18.7,
+          "end": 18.76,
+          "probability": 0.97
+        },
+        {
+          "word": "hiện",
+          "start": 18.76,
+          "end": 18.9,
+          "probability": 0.97
+        },
+        {
+          "word": "là",
+          "start": 18.9,
+          "end": 19.08,
+          "probability": 0.95
+        },
+        {
+          "word": "ngày",
+          "start": 19.08,
+          "end": 19.28,
+          "probability": 1.0
+        },
+        {
+          "word": "9,",
+          "start": 19.28,
+          "end": 19.58,
+          "probability": 0.93
+        },
+        {
+          "word": "châu",
+          "start": 19.9,
+          "end": 19.92,
+          "probability": 0.7
+        },
+        {
+          "word": "tối",
+          "start": 19.92,
+          "end": 20.12,
+          "probability": 1.0
+        },
+        {
+          "word": "và",
+          "start": 20.12,
+          "end": 20.3,
+          "probability": 0.91
+        },
+        {
+          "word": "tối",
+          "start": 20.3,
+          "end": 20.48,
+          "probability": 0.63
+        },
+        {
+          "word": "có",
+          "start": 20.48,
+          "end": 20.68,
+          "probability": 0.86
+        },
+        {
+          "word": "mưa",
+          "start": 20.68,
+          "end": 20.94,
+          "probability": 0.84
+        },
+        {
+          "word": "giống",
+          "start": 20.94,
+          "end": 21.18,
+          "probability": 0.7
+        },
+        {
+          "word": "dải",
+          "start": 21.18,
+          "end": 21.5,
+          "probability": 0.26
+        },
+        {
+          "word": "giá.",
+          "start": 21.5,
+          "end": 21.78,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 22.12,
+      "end": 26.42,
+      "text": "Như đô cao nhất từ 20,5 đúng sê, thấp nhất từ 20,5 đúng sê.",
+      "words": [
+        {
+          "word": "Như",
+          "start": 22.12,
+          "end": 22.2,
+          "probability": 0.97
+        },
+        {
+          "word": "đô",
+          "start": 22.2,
+          "end": 22.32,
+          "probability": 0.96
+        },
+        {
+          "word": "cao",
+          "start": 22.32,
+          "end": 22.46,
+          "probability": 1.0
+        },
+        {
+          "word": "nhất",
+          "start": 22.46,
+          "end": 22.66,
+          "probability": 1.0
+        },
+        {
+          "word": "từ",
+          "start": 22.66,
+          "end": 22.82,
+          "probability": 0.97
+        },
+        {
+          "word": "20",
+          "start": 22.82,
+          "end": 23.04,
+          "probability": 0.35
+        },
+        {
+          "word": ",5",
+          "start": 23.04,
+          "end": 23.5,
+          "probability": 0.83
+        },
+        {
+          "word": "đúng",
+          "start": 23.5,
+          "end": 23.94,
+          "probability": 0.96
+        },
+        {
+          "word": "sê,",
+          "start": 23.94,
+          "end": 24.28,
+          "probability": 0.98
+        },
+        {
+          "word": "thấp",
+          "start": 24.56,
+          "end": 24.56,
+          "probability": 0.97
+        },
+        {
+          "word": "nhất",
+          "start": 24.56,
+          "end": 24.78,
+          "probability": 0.99
+        },
+        {
+          "word": "từ",
+          "start": 24.78,
+          "end": 25.04,
+          "probability": 0.99
+        },
+        {
+          "word": "20",
+          "start": 25.04,
+          "end": 25.4,
+          "probability": 0.46
+        },
+        {
+          "word": ",5",
+          "start": 25.4,
+          "end": 25.92,
+          "probability": 0.92
+        },
+        {
+          "word": "đúng",
+          "start": 25.92,
+          "end": 26.04,
+          "probability": 0.98
+        },
+        {
+          "word": "sê.",
+          "start": 26.04,
+          "end": 26.42,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

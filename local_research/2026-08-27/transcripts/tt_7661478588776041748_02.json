@@ -1,0 +1,662 @@
+{
+  "item_id": "tt_7661478588776041748_02",
+  "duration_seconds": 28.85,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 90,
+  "text": "Cố lả xấu đúng là mình đều nghe kia xia đó xấu đúng Cố đúng là mình kia xia Mình đi sớm điểm kia mình đi có 5 giờ đặc tử lắm kia xấu đúng là mình đều kia xia Các ngôi kia đó Đường pháp tâm đồng giải hưu hình 2 kưu mét Cực mối xần bây tập xương giức với khu của tủ đức và các uống lớn cầm Hính phân đường cóm hợp dành Các xe mấy trở tuyến rộng khoảng bài mét lối 2 làm xe",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.26,
+      "text": "Cố lả xấu đúng là mình đều nghe kia xia đó",
+      "words": [
+        {
+          "word": "Cố",
+          "start": 0.0,
+          "end": 0.64,
+          "probability": 0.24
+        },
+        {
+          "word": "lả",
+          "start": 0.64,
+          "end": 1.02,
+          "probability": 0.24
+        },
+        {
+          "word": "xấu",
+          "start": 1.02,
+          "end": 1.38,
+          "probability": 0.39
+        },
+        {
+          "word": "đúng",
+          "start": 1.38,
+          "end": 1.64,
+          "probability": 0.14
+        },
+        {
+          "word": "là",
+          "start": 1.64,
+          "end": 1.84,
+          "probability": 0.39
+        },
+        {
+          "word": "mình",
+          "start": 1.84,
+          "end": 1.94,
+          "probability": 0.42
+        },
+        {
+          "word": "đều",
+          "start": 1.94,
+          "end": 2.1,
+          "probability": 0.44
+        },
+        {
+          "word": "nghe",
+          "start": 2.1,
+          "end": 2.3,
+          "probability": 0.1
+        },
+        {
+          "word": "kia",
+          "start": 2.3,
+          "end": 2.5,
+          "probability": 0.49
+        },
+        {
+          "word": "xia",
+          "start": 2.5,
+          "end": 2.66,
+          "probability": 0.54
+        },
+        {
+          "word": "đó",
+          "start": 2.66,
+          "end": 3.26,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.26,
+      "end": 4.04,
+      "text": "xấu đúng",
+      "words": [
+        {
+          "word": "xấu",
+          "start": 3.26,
+          "end": 3.48,
+          "probability": 0.56
+        },
+        {
+          "word": "đúng",
+          "start": 3.48,
+          "end": 4.04,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.04,
+      "end": 6.02,
+      "text": "Cố đúng là mình kia xia",
+      "words": [
+        {
+          "word": "Cố",
+          "start": 4.04,
+          "end": 4.86,
+          "probability": 0.4
+        },
+        {
+          "word": "đúng",
+          "start": 4.86,
+          "end": 4.86,
+          "probability": 0.65
+        },
+        {
+          "word": "là",
+          "start": 4.86,
+          "end": 5.14,
+          "probability": 0.37
+        },
+        {
+          "word": "mình",
+          "start": 5.14,
+          "end": 5.44,
+          "probability": 0.23
+        },
+        {
+          "word": "kia",
+          "start": 5.44,
+          "end": 5.64,
+          "probability": 0.66
+        },
+        {
+          "word": "xia",
+          "start": 5.64,
+          "end": 6.02,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.56,
+      "end": 9.44,
+      "text": "Mình đi sớm điểm kia",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 7.56,
+          "end": 8.36,
+          "probability": 0.55
+        },
+        {
+          "word": "đi",
+          "start": 8.36,
+          "end": 8.62,
+          "probability": 0.41
+        },
+        {
+          "word": "sớm",
+          "start": 8.62,
+          "end": 8.82,
+          "probability": 0.59
+        },
+        {
+          "word": "điểm",
+          "start": 8.82,
+          "end": 9.14,
+          "probability": 0.27
+        },
+        {
+          "word": "kia",
+          "start": 9.14,
+          "end": 9.44,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.44,
+      "end": 11.8,
+      "text": "mình đi có 5 giờ đặc tử lắm kia",
+      "words": [
+        {
+          "word": "mình",
+          "start": 9.44,
+          "end": 9.68,
+          "probability": 0.05
+        },
+        {
+          "word": "đi",
+          "start": 9.68,
+          "end": 9.8,
+          "probability": 0.81
+        },
+        {
+          "word": "có",
+          "start": 9.8,
+          "end": 10.24,
+          "probability": 0.4
+        },
+        {
+          "word": "5",
+          "start": 10.24,
+          "end": 10.64,
+          "probability": 0.28
+        },
+        {
+          "word": "giờ",
+          "start": 10.64,
+          "end": 10.88,
+          "probability": 0.28
+        },
+        {
+          "word": "đặc",
+          "start": 10.88,
+          "end": 11.2,
+          "probability": 0.24
+        },
+        {
+          "word": "tử",
+          "start": 11.2,
+          "end": 11.3,
+          "probability": 0.25
+        },
+        {
+          "word": "lắm",
+          "start": 11.3,
+          "end": 11.58,
+          "probability": 0.39
+        },
+        {
+          "word": "kia",
+          "start": 11.58,
+          "end": 11.8,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.8,
+      "end": 13.28,
+      "text": "xấu đúng là mình đều kia xia",
+      "words": [
+        {
+          "word": "xấu",
+          "start": 11.8,
+          "end": 12.18,
+          "probability": 0.53
+        },
+        {
+          "word": "đúng",
+          "start": 12.18,
+          "end": 12.54,
+          "probability": 0.98
+        },
+        {
+          "word": "là",
+          "start": 12.54,
+          "end": 12.6,
+          "probability": 0.57
+        },
+        {
+          "word": "mình",
+          "start": 12.6,
+          "end": 12.9,
+          "probability": 0.43
+        },
+        {
+          "word": "đều",
+          "start": 12.9,
+          "end": 12.9,
+          "probability": 0.63
+        },
+        {
+          "word": "kia",
+          "start": 12.9,
+          "end": 13.06,
+          "probability": 0.57
+        },
+        {
+          "word": "xia",
+          "start": 13.06,
+          "end": 13.28,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 13.28,
+      "end": 14.58,
+      "text": "Các ngôi kia đó",
+      "words": [
+        {
+          "word": "Các",
+          "start": 13.28,
+          "end": 13.68,
+          "probability": 0.08
+        },
+        {
+          "word": "ngôi",
+          "start": 13.68,
+          "end": 13.88,
+          "probability": 0.13
+        },
+        {
+          "word": "kia",
+          "start": 13.88,
+          "end": 14.08,
+          "probability": 0.81
+        },
+        {
+          "word": "đó",
+          "start": 14.08,
+          "end": 14.58,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 17.71,
+      "end": 20.19,
+      "text": "Đường pháp tâm đồng giải hưu hình 2 kưu mét",
+      "words": [
+        {
+          "word": "Đường",
+          "start": 17.71,
+          "end": 18.17,
+          "probability": 0.42
+        },
+        {
+          "word": "pháp",
+          "start": 18.17,
+          "end": 18.39,
+          "probability": 0.34
+        },
+        {
+          "word": "tâm",
+          "start": 18.39,
+          "end": 18.59,
+          "probability": 0.4
+        },
+        {
+          "word": "đồng",
+          "start": 18.59,
+          "end": 18.83,
+          "probability": 0.6
+        },
+        {
+          "word": "giải",
+          "start": 18.83,
+          "end": 19.05,
+          "probability": 0.54
+        },
+        {
+          "word": "hưu",
+          "start": 19.05,
+          "end": 19.39,
+          "probability": 0.46
+        },
+        {
+          "word": "hình",
+          "start": 19.39,
+          "end": 19.41,
+          "probability": 0.1
+        },
+        {
+          "word": "2",
+          "start": 19.41,
+          "end": 19.61,
+          "probability": 0.3
+        },
+        {
+          "word": "kưu",
+          "start": 19.61,
+          "end": 19.83,
+          "probability": 0.44
+        },
+        {
+          "word": "mét",
+          "start": 19.83,
+          "end": 20.19,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 20.19,
+      "end": 21.67,
+      "text": "Cực mối xần bây tập xương giức",
+      "words": [
+        {
+          "word": "Cực",
+          "start": 20.19,
+          "end": 20.45,
+          "probability": 0.09
+        },
+        {
+          "word": "mối",
+          "start": 20.45,
+          "end": 20.65,
+          "probability": 0.72
+        },
+        {
+          "word": "xần",
+          "start": 20.65,
+          "end": 20.85,
+          "probability": 0.26
+        },
+        {
+          "word": "bây",
+          "start": 20.85,
+          "end": 21.03,
+          "probability": 0.34
+        },
+        {
+          "word": "tập",
+          "start": 21.03,
+          "end": 21.21,
+          "probability": 0.43
+        },
+        {
+          "word": "xương",
+          "start": 21.21,
+          "end": 21.43,
+          "probability": 0.48
+        },
+        {
+          "word": "giức",
+          "start": 21.43,
+          "end": 21.67,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 21.67,
+      "end": 22.77,
+      "text": "với khu của tủ đức",
+      "words": [
+        {
+          "word": "với",
+          "start": 21.67,
+          "end": 21.83,
+          "probability": 0.37
+        },
+        {
+          "word": "khu",
+          "start": 21.83,
+          "end": 21.99,
+          "probability": 0.68
+        },
+        {
+          "word": "của",
+          "start": 21.99,
+          "end": 22.17,
+          "probability": 0.16
+        },
+        {
+          "word": "tủ",
+          "start": 22.17,
+          "end": 22.37,
+          "probability": 0.43
+        },
+        {
+          "word": "đức",
+          "start": 22.37,
+          "end": 22.77,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 22.77,
+      "end": 24.39,
+      "text": "và các uống lớn cầm",
+      "words": [
+        {
+          "word": "và",
+          "start": 22.77,
+          "end": 23.05,
+          "probability": 0.66
+        },
+        {
+          "word": "các",
+          "start": 23.05,
+          "end": 23.23,
+          "probability": 0.51
+        },
+        {
+          "word": "uống",
+          "start": 23.23,
+          "end": 23.45,
+          "probability": 0.56
+        },
+        {
+          "word": "lớn",
+          "start": 23.45,
+          "end": 23.67,
+          "probability": 0.86
+        },
+        {
+          "word": "cầm",
+          "start": 23.67,
+          "end": 24.39,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 24.39,
+      "end": 25.67,
+      "text": "Hính phân đường cóm hợp dành",
+      "words": [
+        {
+          "word": "Hính",
+          "start": 24.39,
+          "end": 24.67,
+          "probability": 0.4
+        },
+        {
+          "word": "phân",
+          "start": 24.67,
+          "end": 24.91,
+          "probability": 0.7
+        },
+        {
+          "word": "đường",
+          "start": 24.91,
+          "end": 25.05,
+          "probability": 0.25
+        },
+        {
+          "word": "cóm",
+          "start": 25.05,
+          "end": 25.47,
+          "probability": 0.15
+        },
+        {
+          "word": "hợp",
+          "start": 25.47,
+          "end": 25.47,
+          "probability": 0.69
+        },
+        {
+          "word": "dành",
+          "start": 25.47,
+          "end": 25.67,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 25.67,
+      "end": 27.75,
+      "text": "Các xe mấy trở tuyến rộng khoảng bài mét",
+      "words": [
+        {
+          "word": "Các",
+          "start": 25.67,
+          "end": 25.83,
+          "probability": 0.1
+        },
+        {
+          "word": "xe",
+          "start": 25.83,
+          "end": 25.99,
+          "probability": 0.31
+        },
+        {
+          "word": "mấy",
+          "start": 25.99,
+          "end": 26.19,
+          "probability": 0.32
+        },
+        {
+          "word": "trở",
+          "start": 26.19,
+          "end": 26.41,
+          "probability": 0.38
+        },
+        {
+          "word": "tuyến",
+          "start": 26.41,
+          "end": 26.71,
+          "probability": 0.69
+        },
+        {
+          "word": "rộng",
+          "start": 26.71,
+          "end": 26.99,
+          "probability": 0.56
+        },
+        {
+          "word": "khoảng",
+          "start": 26.99,
+          "end": 27.23,
+          "probability": 0.83
+        },
+        {
+          "word": "bài",
+          "start": 27.23,
+          "end": 27.45,
+          "probability": 0.46
+        },
+        {
+          "word": "mét",
+          "start": 27.45,
+          "end": 27.75,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 27.75,
+      "end": 28.59,
+      "text": "lối 2 làm xe",
+      "words": [
+        {
+          "word": "lối",
+          "start": 27.75,
+          "end": 27.99,
+          "probability": 0.37
+        },
+        {
+          "word": "2",
+          "start": 27.99,
+          "end": 28.21,
+          "probability": 0.46
+        },
+        {
+          "word": "làm",
+          "start": 28.21,
+          "end": 28.37,
+          "probability": 0.39
+        },
+        {
+          "word": "xe",
+          "start": 28.37,
+          "end": 28.59,
+          "probability": 0.48
+        }
+      ]
+    }
+  ]
+}

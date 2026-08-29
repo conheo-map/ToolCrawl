@@ -1,0 +1,478 @@
+{
+  "item_id": "tt_7639699767123053841_53",
+  "duration_seconds": 29.38,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 58,
+  "text": "Nói, nó có đánh bà. Thì có đánh bà. Chăm nghìn này. Nhưng nó thấy không phải bảy này. Nhưng bà sẽ có đánh bà. Chúng ta có đánh bà. Bà nhớ. Bà nhớ. Chưa thấy bà đi nhớ. Chưa thấy có đánh bà. Bà nhớ. Chưa thấy bà. Chưa thấy bà. Chưa thấy bà. Chưa thấy bà.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.04,
+      "end": 2.1,
+      "text": "Nói, nó có đánh bà.",
+      "words": [
+        {
+          "word": "Nói,",
+          "start": 1.04,
+          "end": 1.56,
+          "probability": 0.07
+        },
+        {
+          "word": "nó",
+          "start": 1.56,
+          "end": 1.68,
+          "probability": 0.03
+        },
+        {
+          "word": "có",
+          "start": 1.68,
+          "end": 1.68,
+          "probability": 0.13
+        },
+        {
+          "word": "đánh",
+          "start": 1.68,
+          "end": 2.1,
+          "probability": 0.1
+        },
+        {
+          "word": "bà.",
+          "start": 2.1,
+          "end": 2.1,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.1,
+      "end": 4.06,
+      "text": "Thì có đánh bà.",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 2.1,
+          "end": 2.38,
+          "probability": 0.09
+        },
+        {
+          "word": "có",
+          "start": 2.38,
+          "end": 2.4,
+          "probability": 0.03
+        },
+        {
+          "word": "đánh",
+          "start": 2.4,
+          "end": 2.84,
+          "probability": 0.55
+        },
+        {
+          "word": "bà.",
+          "start": 2.84,
+          "end": 4.06,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.06,
+      "end": 5.12,
+      "text": "Chăm nghìn này.",
+      "words": [
+        {
+          "word": "Chăm",
+          "start": 4.06,
+          "end": 4.12,
+          "probability": 0.04
+        },
+        {
+          "word": "nghìn",
+          "start": 4.12,
+          "end": 4.38,
+          "probability": 0.52
+        },
+        {
+          "word": "này.",
+          "start": 4.38,
+          "end": 5.12,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.28,
+      "end": 7.98,
+      "text": "Nhưng nó thấy không phải bảy này.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 5.28,
+          "end": 5.48,
+          "probability": 0.6
+        },
+        {
+          "word": "nó",
+          "start": 5.48,
+          "end": 6.76,
+          "probability": 0.09
+        },
+        {
+          "word": "thấy",
+          "start": 6.76,
+          "end": 6.94,
+          "probability": 0.64
+        },
+        {
+          "word": "không",
+          "start": 6.94,
+          "end": 7.06,
+          "probability": 0.03
+        },
+        {
+          "word": "phải",
+          "start": 7.06,
+          "end": 7.3,
+          "probability": 0.89
+        },
+        {
+          "word": "bảy",
+          "start": 7.3,
+          "end": 7.54,
+          "probability": 0.63
+        },
+        {
+          "word": "này.",
+          "start": 7.54,
+          "end": 7.98,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.2,
+      "end": 8.86,
+      "text": "Nhưng bà sẽ có đánh bà.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 8.2,
+          "end": 8.32,
+          "probability": 0.59
+        },
+        {
+          "word": "bà",
+          "start": 8.32,
+          "end": 8.56,
+          "probability": 0.26
+        },
+        {
+          "word": "sẽ",
+          "start": 8.56,
+          "end": 8.84,
+          "probability": 0.06
+        },
+        {
+          "word": "có",
+          "start": 8.84,
+          "end": 8.86,
+          "probability": 0.1
+        },
+        {
+          "word": "đánh",
+          "start": 8.86,
+          "end": 8.86,
+          "probability": 0.52
+        },
+        {
+          "word": "bà.",
+          "start": 8.86,
+          "end": 8.86,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 9.62,
+      "end": 11.32,
+      "text": "Chúng ta có đánh bà.",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 9.62,
+          "end": 9.74,
+          "probability": 0.18
+        },
+        {
+          "word": "ta",
+          "start": 9.74,
+          "end": 9.74,
+          "probability": 0.18
+        },
+        {
+          "word": "có",
+          "start": 9.74,
+          "end": 10.04,
+          "probability": 0.15
+        },
+        {
+          "word": "đánh",
+          "start": 10.04,
+          "end": 11.32,
+          "probability": 0.58
+        },
+        {
+          "word": "bà.",
+          "start": 11.32,
+          "end": 11.32,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.12,
+      "end": 13.0,
+      "text": "Bà nhớ.",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 12.12,
+          "end": 12.64,
+          "probability": 0.48
+        },
+        {
+          "word": "nhớ.",
+          "start": 12.64,
+          "end": 13.0,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.34,
+      "end": 13.72,
+      "text": "Bà nhớ.",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 13.34,
+          "end": 13.5,
+          "probability": 0.81
+        },
+        {
+          "word": "nhớ.",
+          "start": 13.5,
+          "end": 13.72,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 13.82,
+      "end": 14.72,
+      "text": "Chưa thấy bà đi nhớ.",
+      "words": [
+        {
+          "word": "Chưa",
+          "start": 13.82,
+          "end": 14.08,
+          "probability": 0.22
+        },
+        {
+          "word": "thấy",
+          "start": 14.08,
+          "end": 14.34,
+          "probability": 0.25
+        },
+        {
+          "word": "bà",
+          "start": 14.34,
+          "end": 14.44,
+          "probability": 0.61
+        },
+        {
+          "word": "đi",
+          "start": 14.44,
+          "end": 14.62,
+          "probability": 0.08
+        },
+        {
+          "word": "nhớ.",
+          "start": 14.62,
+          "end": 14.72,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 15.14,
+      "end": 16.26,
+      "text": "Chưa thấy có đánh bà.",
+      "words": [
+        {
+          "word": "Chưa",
+          "start": 15.14,
+          "end": 15.46,
+          "probability": 0.91
+        },
+        {
+          "word": "thấy",
+          "start": 15.46,
+          "end": 15.76,
+          "probability": 0.22
+        },
+        {
+          "word": "có",
+          "start": 15.76,
+          "end": 16.0,
+          "probability": 0.08
+        },
+        {
+          "word": "đánh",
+          "start": 16.0,
+          "end": 16.22,
+          "probability": 0.72
+        },
+        {
+          "word": "bà.",
+          "start": 16.22,
+          "end": 16.26,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 16.3,
+      "end": 16.88,
+      "text": "Bà nhớ.",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 16.3,
+          "end": 16.6,
+          "probability": 0.51
+        },
+        {
+          "word": "nhớ.",
+          "start": 16.6,
+          "end": 16.88,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 17.96,
+      "end": 18.48,
+      "text": "Chưa thấy bà.",
+      "words": [
+        {
+          "word": "Chưa",
+          "start": 17.96,
+          "end": 18.48,
+          "probability": 0.61
+        },
+        {
+          "word": "thấy",
+          "start": 18.48,
+          "end": 18.48,
+          "probability": 0.63
+        },
+        {
+          "word": "bà.",
+          "start": 18.48,
+          "end": 18.48,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 19.06,
+      "end": 19.58,
+      "text": "Chưa thấy bà.",
+      "words": [
+        {
+          "word": "Chưa",
+          "start": 19.06,
+          "end": 19.58,
+          "probability": 0.75
+        },
+        {
+          "word": "thấy",
+          "start": 19.58,
+          "end": 19.58,
+          "probability": 0.37
+        },
+        {
+          "word": "bà.",
+          "start": 19.58,
+          "end": 19.58,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 19.58,
+      "end": 29.0,
+      "text": "Chưa thấy bà.",
+      "words": [
+        {
+          "word": "Chưa",
+          "start": 19.58,
+          "end": 19.62,
+          "probability": 0.78
+        },
+        {
+          "word": "thấy",
+          "start": 19.62,
+          "end": 28.9,
+          "probability": 0.29
+        },
+        {
+          "word": "bà.",
+          "start": 28.9,
+          "end": 29.0,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 29.0,
+      "end": 29.34,
+      "text": "Chưa thấy bà.",
+      "words": [
+        {
+          "word": "Chưa",
+          "start": 29.0,
+          "end": 29.34,
+          "probability": 0.01
+        },
+        {
+          "word": "thấy",
+          "start": 29.34,
+          "end": 29.34,
+          "probability": 0.0
+        },
+        {
+          "word": "bà.",
+          "start": 29.34,
+          "end": 29.34,
+          "probability": 0.03
+        }
+      ]
+    }
+  ]
+}

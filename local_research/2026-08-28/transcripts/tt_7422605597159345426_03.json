@@ -1,0 +1,142 @@
+{
+  "item_id": "tt_7422605597159345426_03",
+  "duration_seconds": 17.39,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 18,
+  "text": "Hôm ăn xương này sẽ bờ đáng tàn xanh Lăng tàn một mình bờ tìm nối dời Bờ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.04,
+      "text": "Hôm ăn xương này sẽ bờ đáng tàn xanh",
+      "words": [
+        {
+          "word": "Hôm",
+          "start": 0.0,
+          "end": 0.6,
+          "probability": 0.31
+        },
+        {
+          "word": "ăn",
+          "start": 0.6,
+          "end": 0.88,
+          "probability": 0.18
+        },
+        {
+          "word": "xương",
+          "start": 0.88,
+          "end": 1.14,
+          "probability": 0.21
+        },
+        {
+          "word": "này",
+          "start": 1.14,
+          "end": 1.5,
+          "probability": 0.43
+        },
+        {
+          "word": "sẽ",
+          "start": 1.5,
+          "end": 1.9,
+          "probability": 0.25
+        },
+        {
+          "word": "bờ",
+          "start": 1.9,
+          "end": 2.26,
+          "probability": 0.41
+        },
+        {
+          "word": "đáng",
+          "start": 2.26,
+          "end": 3.0,
+          "probability": 0.21
+        },
+        {
+          "word": "tàn",
+          "start": 3.0,
+          "end": 3.4,
+          "probability": 0.24
+        },
+        {
+          "word": "xanh",
+          "start": 3.4,
+          "end": 4.04,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.38,
+      "end": 9.6,
+      "text": "Lăng tàn một mình bờ tìm nối dời",
+      "words": [
+        {
+          "word": "Lăng",
+          "start": 5.38,
+          "end": 6.1,
+          "probability": 0.09
+        },
+        {
+          "word": "tàn",
+          "start": 6.1,
+          "end": 6.46,
+          "probability": 0.37
+        },
+        {
+          "word": "một",
+          "start": 6.46,
+          "end": 6.78,
+          "probability": 0.35
+        },
+        {
+          "word": "mình",
+          "start": 6.78,
+          "end": 7.18,
+          "probability": 0.63
+        },
+        {
+          "word": "bờ",
+          "start": 7.18,
+          "end": 8.04,
+          "probability": 0.74
+        },
+        {
+          "word": "tìm",
+          "start": 8.04,
+          "end": 8.6,
+          "probability": 0.53
+        },
+        {
+          "word": "nối",
+          "start": 8.6,
+          "end": 8.86,
+          "probability": 0.22
+        },
+        {
+          "word": "dời",
+          "start": 8.86,
+          "end": 9.6,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.26,
+      "end": 12.06,
+      "text": "Bờ",
+      "words": [
+        {
+          "word": "Bờ",
+          "start": 11.26,
+          "end": 12.06,
+          "probability": 0.54
+        }
+      ]
+    }
+  ]
+}

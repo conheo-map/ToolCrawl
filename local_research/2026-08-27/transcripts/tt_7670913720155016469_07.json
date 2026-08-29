@@ -1,0 +1,536 @@
+{
+  "item_id": "tt_7670913720155016469_07",
+  "duration_seconds": 23.88,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 73,
+  "text": "Cái gì này có phòng tình? Thế cắt, tà mẹ cũng thấy là các bạn này được phòng phòng lúc. Cái bạn mẹ sẽ bị được cảm dẫn. Tôi đã có đúng không được cơ nào. Đúng không, tôi đã có đúng không? Tôi đã có đúng không? Tôi đã có đúng không? Tôi đã có đúng không? Tôi đã có đúng không? Tôi đã có đúng không? Tôi đã có đúng không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 4.21,
+      "end": 5.91,
+      "text": "Cái gì này có phòng tình?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 4.21,
+          "end": 4.61,
+          "probability": 0.2
+        },
+        {
+          "word": "gì",
+          "start": 4.61,
+          "end": 4.71,
+          "probability": 0.26
+        },
+        {
+          "word": "này",
+          "start": 4.71,
+          "end": 4.95,
+          "probability": 0.26
+        },
+        {
+          "word": "có",
+          "start": 4.95,
+          "end": 5.25,
+          "probability": 0.4
+        },
+        {
+          "word": "phòng",
+          "start": 5.25,
+          "end": 5.43,
+          "probability": 0.14
+        },
+        {
+          "word": "tình?",
+          "start": 5.43,
+          "end": 5.91,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.81,
+      "end": 9.83,
+      "text": "Thế cắt, tà mẹ cũng thấy là các bạn này được phòng phòng lúc.",
+      "words": [
+        {
+          "word": "Thế",
+          "start": 6.81,
+          "end": 6.81,
+          "probability": 0.4
+        },
+        {
+          "word": "cắt,",
+          "start": 6.81,
+          "end": 7.33,
+          "probability": 0.35
+        },
+        {
+          "word": "tà",
+          "start": 7.45,
+          "end": 7.65,
+          "probability": 0.14
+        },
+        {
+          "word": "mẹ",
+          "start": 7.65,
+          "end": 7.79,
+          "probability": 0.22
+        },
+        {
+          "word": "cũng",
+          "start": 7.79,
+          "end": 7.93,
+          "probability": 0.23
+        },
+        {
+          "word": "thấy",
+          "start": 7.93,
+          "end": 8.13,
+          "probability": 0.48
+        },
+        {
+          "word": "là",
+          "start": 8.13,
+          "end": 8.19,
+          "probability": 0.44
+        },
+        {
+          "word": "các",
+          "start": 8.19,
+          "end": 8.43,
+          "probability": 0.16
+        },
+        {
+          "word": "bạn",
+          "start": 8.43,
+          "end": 8.57,
+          "probability": 0.9
+        },
+        {
+          "word": "này",
+          "start": 8.57,
+          "end": 8.63,
+          "probability": 0.17
+        },
+        {
+          "word": "được",
+          "start": 8.63,
+          "end": 8.85,
+          "probability": 0.33
+        },
+        {
+          "word": "phòng",
+          "start": 8.85,
+          "end": 9.01,
+          "probability": 0.42
+        },
+        {
+          "word": "phòng",
+          "start": 9.01,
+          "end": 9.15,
+          "probability": 0.13
+        },
+        {
+          "word": "lúc.",
+          "start": 9.15,
+          "end": 9.83,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.31,
+      "end": 11.51,
+      "text": "Cái bạn mẹ sẽ bị được cảm dẫn.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 10.31,
+          "end": 10.33,
+          "probability": 0.51
+        },
+        {
+          "word": "bạn",
+          "start": 10.33,
+          "end": 10.49,
+          "probability": 0.79
+        },
+        {
+          "word": "mẹ",
+          "start": 10.49,
+          "end": 10.67,
+          "probability": 0.43
+        },
+        {
+          "word": "sẽ",
+          "start": 10.67,
+          "end": 10.79,
+          "probability": 0.62
+        },
+        {
+          "word": "bị",
+          "start": 10.79,
+          "end": 10.89,
+          "probability": 0.28
+        },
+        {
+          "word": "được",
+          "start": 10.89,
+          "end": 11.03,
+          "probability": 0.66
+        },
+        {
+          "word": "cảm",
+          "start": 11.03,
+          "end": 11.29,
+          "probability": 0.6
+        },
+        {
+          "word": "dẫn.",
+          "start": 11.29,
+          "end": 11.51,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.75,
+      "end": 13.07,
+      "text": "Tôi đã có đúng không được cơ nào.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 11.75,
+          "end": 11.75,
+          "probability": 0.7
+        },
+        {
+          "word": "đã",
+          "start": 11.75,
+          "end": 11.95,
+          "probability": 0.14
+        },
+        {
+          "word": "có",
+          "start": 11.95,
+          "end": 12.27,
+          "probability": 0.14
+        },
+        {
+          "word": "đúng",
+          "start": 12.27,
+          "end": 12.35,
+          "probability": 0.08
+        },
+        {
+          "word": "không",
+          "start": 12.35,
+          "end": 12.35,
+          "probability": 0.62
+        },
+        {
+          "word": "được",
+          "start": 12.35,
+          "end": 12.47,
+          "probability": 0.22
+        },
+        {
+          "word": "cơ",
+          "start": 12.47,
+          "end": 12.75,
+          "probability": 0.38
+        },
+        {
+          "word": "nào.",
+          "start": 12.75,
+          "end": 13.07,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.33,
+      "end": 15.27,
+      "text": "Đúng không, tôi đã có đúng không?",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 13.33,
+          "end": 13.35,
+          "probability": 0.16
+        },
+        {
+          "word": "không,",
+          "start": 13.35,
+          "end": 13.57,
+          "probability": 0.99
+        },
+        {
+          "word": "tôi",
+          "start": 13.75,
+          "end": 13.83,
+          "probability": 0.7
+        },
+        {
+          "word": "đã",
+          "start": 13.83,
+          "end": 14.21,
+          "probability": 0.12
+        },
+        {
+          "word": "có",
+          "start": 14.21,
+          "end": 14.75,
+          "probability": 0.42
+        },
+        {
+          "word": "đúng",
+          "start": 14.75,
+          "end": 15.23,
+          "probability": 0.65
+        },
+        {
+          "word": "không?",
+          "start": 15.23,
+          "end": 15.27,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.27,
+      "end": 17.03,
+      "text": "Tôi đã có đúng không?",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 15.27,
+          "end": 15.27,
+          "probability": 0.1
+        },
+        {
+          "word": "đã",
+          "start": 15.27,
+          "end": 15.27,
+          "probability": 0.12
+        },
+        {
+          "word": "có",
+          "start": 15.27,
+          "end": 15.27,
+          "probability": 0.74
+        },
+        {
+          "word": "đúng",
+          "start": 15.27,
+          "end": 16.43,
+          "probability": 0.79
+        },
+        {
+          "word": "không?",
+          "start": 16.43,
+          "end": 17.03,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 17.09,
+      "end": 17.79,
+      "text": "Tôi đã có đúng không?",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 17.09,
+          "end": 17.49,
+          "probability": 0.4
+        },
+        {
+          "word": "đã",
+          "start": 17.49,
+          "end": 17.65,
+          "probability": 0.29
+        },
+        {
+          "word": "có",
+          "start": 17.65,
+          "end": 17.65,
+          "probability": 0.87
+        },
+        {
+          "word": "đúng",
+          "start": 17.65,
+          "end": 17.65,
+          "probability": 0.83
+        },
+        {
+          "word": "không?",
+          "start": 17.65,
+          "end": 17.79,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 19.63,
+      "end": 22.34,
+      "text": "Tôi đã có đúng không?",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 19.63,
+          "end": 20.03,
+          "probability": 0.63
+        },
+        {
+          "word": "đã",
+          "start": 22.34,
+          "end": 22.34,
+          "probability": 0.55
+        },
+        {
+          "word": "có",
+          "start": 22.34,
+          "end": 22.34,
+          "probability": 0.86
+        },
+        {
+          "word": "đúng",
+          "start": 22.34,
+          "end": 22.34,
+          "probability": 0.88
+        },
+        {
+          "word": "không?",
+          "start": 22.34,
+          "end": 22.34,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 22.34,
+      "end": 23.18,
+      "text": "Tôi đã có đúng không?",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 22.34,
+          "end": 22.38,
+          "probability": 0.79
+        },
+        {
+          "word": "đã",
+          "start": 22.38,
+          "end": 22.38,
+          "probability": 0.68
+        },
+        {
+          "word": "có",
+          "start": 22.38,
+          "end": 22.4,
+          "probability": 0.9
+        },
+        {
+          "word": "đúng",
+          "start": 22.4,
+          "end": 22.58,
+          "probability": 0.92
+        },
+        {
+          "word": "không?",
+          "start": 22.58,
+          "end": 23.18,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 23.18,
+      "end": 23.26,
+      "text": "Tôi đã có đúng không?",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 23.18,
+          "end": 23.18,
+          "probability": 0.86
+        },
+        {
+          "word": "đã",
+          "start": 23.18,
+          "end": 23.18,
+          "probability": 0.77
+        },
+        {
+          "word": "có",
+          "start": 23.18,
+          "end": 23.18,
+          "probability": 0.95
+        },
+        {
+          "word": "đúng",
+          "start": 23.18,
+          "end": 23.26,
+          "probability": 0.94
+        },
+        {
+          "word": "không?",
+          "start": 23.26,
+          "end": 23.26,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 23.26,
+      "end": 23.36,
+      "text": "Tôi đã có đúng không?",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 23.26,
+          "end": 23.26,
+          "probability": 0.91
+        },
+        {
+          "word": "đã",
+          "start": 23.26,
+          "end": 23.26,
+          "probability": 0.81
+        },
+        {
+          "word": "có",
+          "start": 23.26,
+          "end": 23.26,
+          "probability": 0.94
+        },
+        {
+          "word": "đúng",
+          "start": 23.26,
+          "end": 23.34,
+          "probability": 0.94
+        },
+        {
+          "word": "không?",
+          "start": 23.34,
+          "end": 23.36,
+          "probability": 0.87
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "item_id": "tt_7236367010517552389",
+  "duration_seconds": 34.11,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 8,
+  "text": "Bánh điểm bánh cao không? Ok được nhé!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.2,
+      "text": "Bánh điểm bánh cao không?",
+      "words": [
+        {
+          "word": "Bánh",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.12
+        },
+        {
+          "word": "điểm",
+          "start": 0.18,
+          "end": 0.32,
+          "probability": 0.3
+        },
+        {
+          "word": "bánh",
+          "start": 0.32,
+          "end": 0.48,
+          "probability": 0.58
+        },
+        {
+          "word": "cao",
+          "start": 0.48,
+          "end": 0.84,
+          "probability": 0.43
+        },
+        {
+          "word": "không?",
+          "start": 0.84,
+          "end": 1.2,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.48,
+      "end": 2.24,
+      "text": "Ok được nhé!",
+      "words": [
+        {
+          "word": "Ok",
+          "start": 1.48,
+          "end": 1.64,
+          "probability": 0.13
+        },
+        {
+          "word": "được",
+          "start": 1.64,
+          "end": 1.82,
+          "probability": 0.44
+        },
+        {
+          "word": "nhé!",
+          "start": 1.82,
+          "end": 2.24,
+          "probability": 0.54
+        }
+      ]
+    }
+  ]
+}

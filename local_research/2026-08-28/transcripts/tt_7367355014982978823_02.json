@@ -1,0 +1,98 @@
+{
+  "item_id": "tt_7367355014982978823_02",
+  "duration_seconds": 26.96,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "Cái gì tu không hỏe thằng? Cái gì tu không hỏe thằng?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.42,
+      "text": "Cái gì tu không hỏe thằng?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.21
+        },
+        {
+          "word": "gì",
+          "start": 0.12,
+          "end": 0.32,
+          "probability": 0.21
+        },
+        {
+          "word": "tu",
+          "start": 0.32,
+          "end": 0.72,
+          "probability": 0.0
+        },
+        {
+          "word": "không",
+          "start": 0.72,
+          "end": 0.72,
+          "probability": 0.0
+        },
+        {
+          "word": "hỏe",
+          "start": 0.72,
+          "end": 1.12,
+          "probability": 0.26
+        },
+        {
+          "word": "thằng?",
+          "start": 1.12,
+          "end": 1.42,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.42,
+      "end": 2.32,
+      "text": "Cái gì tu không hỏe thằng?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 1.42,
+          "end": 1.98,
+          "probability": 0.5
+        },
+        {
+          "word": "gì",
+          "start": 1.98,
+          "end": 1.98,
+          "probability": 0.95
+        },
+        {
+          "word": "tu",
+          "start": 1.98,
+          "end": 1.98,
+          "probability": 0.67
+        },
+        {
+          "word": "không",
+          "start": 1.98,
+          "end": 1.98,
+          "probability": 0.23
+        },
+        {
+          "word": "hỏe",
+          "start": 1.98,
+          "end": 2.28,
+          "probability": 0.88
+        },
+        {
+          "word": "thằng?",
+          "start": 2.28,
+          "end": 2.32,
+          "probability": 0.9
+        }
+      ]
+    }
+  ]
+}

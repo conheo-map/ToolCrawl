@@ -1,0 +1,66 @@
+{
+  "item_id": "tt_7487599992476060935_03",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 8,
+  "text": "Tất cả các bạn, tất cả các bạn!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.33,
+      "end": 3.43,
+      "text": "Tất cả các bạn, tất cả các bạn!",
+      "words": [
+        {
+          "word": "Tất",
+          "start": 1.33,
+          "end": 2.05,
+          "probability": 0.15
+        },
+        {
+          "word": "cả",
+          "start": 2.05,
+          "end": 2.41,
+          "probability": 0.2
+        },
+        {
+          "word": "các",
+          "start": 2.41,
+          "end": 2.77,
+          "probability": 0.1
+        },
+        {
+          "word": "bạn,",
+          "start": 2.77,
+          "end": 2.77,
+          "probability": 0.49
+        },
+        {
+          "word": "tất",
+          "start": 2.77,
+          "end": 3.03,
+          "probability": 0.22
+        },
+        {
+          "word": "cả",
+          "start": 3.03,
+          "end": 3.21,
+          "probability": 0.99
+        },
+        {
+          "word": "các",
+          "start": 3.21,
+          "end": 3.43,
+          "probability": 0.64
+        },
+        {
+          "word": "bạn!",
+          "start": 3.43,
+          "end": 3.43,
+          "probability": 0.97
+        }
+      ]
+    }
+  ]
+}

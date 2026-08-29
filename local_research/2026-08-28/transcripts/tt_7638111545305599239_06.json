@@ -1,0 +1,118 @@
+{
+  "item_id": "tt_7638111545305599239_06",
+  "duration_seconds": 5.25,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 14,
+  "text": "Lứ trọng khách đầu to bị quyền khu nhật. Đi em. Bây nhiệm là...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.48,
+      "text": "Lứ trọng khách đầu to bị quyền khu nhật.",
+      "words": [
+        {
+          "word": "Lứ",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.51
+        },
+        {
+          "word": "trọng",
+          "start": 0.36,
+          "end": 0.58,
+          "probability": 0.46
+        },
+        {
+          "word": "khách",
+          "start": 0.58,
+          "end": 0.8,
+          "probability": 0.42
+        },
+        {
+          "word": "đầu",
+          "start": 0.8,
+          "end": 0.96,
+          "probability": 0.68
+        },
+        {
+          "word": "to",
+          "start": 0.96,
+          "end": 1.16,
+          "probability": 0.33
+        },
+        {
+          "word": "bị",
+          "start": 1.16,
+          "end": 1.28,
+          "probability": 0.19
+        },
+        {
+          "word": "quyền",
+          "start": 1.28,
+          "end": 1.54,
+          "probability": 0.66
+        },
+        {
+          "word": "khu",
+          "start": 1.54,
+          "end": 1.72,
+          "probability": 0.23
+        },
+        {
+          "word": "nhật.",
+          "start": 1.72,
+          "end": 2.48,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.76,
+      "end": 3.3,
+      "text": "Đi em.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 2.76,
+          "end": 2.94,
+          "probability": 0.57
+        },
+        {
+          "word": "em.",
+          "start": 2.94,
+          "end": 3.3,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.82,
+      "end": 5.22,
+      "text": "Bây nhiệm là...",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 3.82,
+          "end": 3.86,
+          "probability": 0.35
+        },
+        {
+          "word": "nhiệm",
+          "start": 3.86,
+          "end": 4.08,
+          "probability": 0.54
+        },
+        {
+          "word": "là...",
+          "start": 4.08,
+          "end": 5.22,
+          "probability": 0.34
+        }
+      ]
+    }
+  ]
+}

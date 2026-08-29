@@ -1,0 +1,708 @@
+{
+  "item_id": "tt_7640319273805565205_03",
+  "duration_seconds": 29.89,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 95,
+  "text": "Bôi định khảy như do dạm của kích định mang đậu Rung xuống của dùng chống chảm đe dưỡa chức hàng Nhàm kết lại mặt vi và giải cứu đàn em Đại trọng tục ví vật hơn Bôi định khảy đập mắn về phép lực lượng chức hàng Hình thiu tháng quyết năng khảy gì sừng Đã hợi rồi, xưa rồi Để ta đi Để ta đi Để ta đi xích Để ta đi xích Để ta đi xích Để ta đi xích Để ta đi xích Để ta đi xích Để ta đi xích",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.26,
+      "text": "Bôi định khảy như do dạm của kích định mang đậu",
+      "words": [
+        {
+          "word": "Bôi",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.26
+        },
+        {
+          "word": "định",
+          "start": 0.42,
+          "end": 0.6,
+          "probability": 0.6
+        },
+        {
+          "word": "khảy",
+          "start": 0.6,
+          "end": 0.94,
+          "probability": 0.44
+        },
+        {
+          "word": "như",
+          "start": 0.94,
+          "end": 0.96,
+          "probability": 0.07
+        },
+        {
+          "word": "do",
+          "start": 0.96,
+          "end": 1.12,
+          "probability": 0.06
+        },
+        {
+          "word": "dạm",
+          "start": 1.12,
+          "end": 1.16,
+          "probability": 0.45
+        },
+        {
+          "word": "của",
+          "start": 1.16,
+          "end": 1.28,
+          "probability": 0.31
+        },
+        {
+          "word": "kích",
+          "start": 1.28,
+          "end": 1.48,
+          "probability": 0.25
+        },
+        {
+          "word": "định",
+          "start": 1.48,
+          "end": 1.66,
+          "probability": 0.91
+        },
+        {
+          "word": "mang",
+          "start": 1.66,
+          "end": 1.86,
+          "probability": 0.77
+        },
+        {
+          "word": "đậu",
+          "start": 1.86,
+          "end": 2.26,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.26,
+      "end": 4.76,
+      "text": "Rung xuống của dùng chống chảm đe dưỡa chức hàng",
+      "words": [
+        {
+          "word": "Rung",
+          "start": 2.26,
+          "end": 2.82,
+          "probability": 0.18
+        },
+        {
+          "word": "xuống",
+          "start": 2.82,
+          "end": 3.06,
+          "probability": 0.9
+        },
+        {
+          "word": "của",
+          "start": 3.06,
+          "end": 3.2,
+          "probability": 0.27
+        },
+        {
+          "word": "dùng",
+          "start": 3.2,
+          "end": 3.46,
+          "probability": 0.32
+        },
+        {
+          "word": "chống",
+          "start": 3.46,
+          "end": 3.7,
+          "probability": 0.6
+        },
+        {
+          "word": "chảm",
+          "start": 3.7,
+          "end": 4.02,
+          "probability": 0.31
+        },
+        {
+          "word": "đe",
+          "start": 4.02,
+          "end": 4.06,
+          "probability": 0.12
+        },
+        {
+          "word": "dưỡa",
+          "start": 4.06,
+          "end": 4.16,
+          "probability": 0.24
+        },
+        {
+          "word": "chức",
+          "start": 4.16,
+          "end": 4.42,
+          "probability": 0.59
+        },
+        {
+          "word": "hàng",
+          "start": 4.42,
+          "end": 4.76,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.76,
+      "end": 7.4,
+      "text": "Nhàm kết lại mặt vi và giải cứu đàn em",
+      "words": [
+        {
+          "word": "Nhàm",
+          "start": 4.76,
+          "end": 5.2,
+          "probability": 0.35
+        },
+        {
+          "word": "kết",
+          "start": 5.2,
+          "end": 5.4,
+          "probability": 0.17
+        },
+        {
+          "word": "lại",
+          "start": 5.4,
+          "end": 5.56,
+          "probability": 0.95
+        },
+        {
+          "word": "mặt",
+          "start": 5.56,
+          "end": 5.78,
+          "probability": 0.31
+        },
+        {
+          "word": "vi",
+          "start": 5.78,
+          "end": 6.02,
+          "probability": 0.09
+        },
+        {
+          "word": "và",
+          "start": 6.02,
+          "end": 6.42,
+          "probability": 0.73
+        },
+        {
+          "word": "giải",
+          "start": 6.42,
+          "end": 6.72,
+          "probability": 0.61
+        },
+        {
+          "word": "cứu",
+          "start": 6.72,
+          "end": 6.94,
+          "probability": 0.63
+        },
+        {
+          "word": "đàn",
+          "start": 6.94,
+          "end": 7.1,
+          "probability": 0.59
+        },
+        {
+          "word": "em",
+          "start": 7.1,
+          "end": 7.4,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.4,
+      "end": 9.4,
+      "text": "Đại trọng tục ví vật hơn",
+      "words": [
+        {
+          "word": "Đại",
+          "start": 7.4,
+          "end": 8.24,
+          "probability": 0.53
+        },
+        {
+          "word": "trọng",
+          "start": 8.24,
+          "end": 8.44,
+          "probability": 0.64
+        },
+        {
+          "word": "tục",
+          "start": 8.44,
+          "end": 8.64,
+          "probability": 0.56
+        },
+        {
+          "word": "ví",
+          "start": 8.64,
+          "end": 8.8,
+          "probability": 0.11
+        },
+        {
+          "word": "vật",
+          "start": 8.8,
+          "end": 9.0,
+          "probability": 0.22
+        },
+        {
+          "word": "hơn",
+          "start": 9.0,
+          "end": 9.4,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.4,
+      "end": 11.7,
+      "text": "Bôi định khảy đập mắn về phép lực lượng chức hàng",
+      "words": [
+        {
+          "word": "Bôi",
+          "start": 9.4,
+          "end": 9.78,
+          "probability": 0.91
+        },
+        {
+          "word": "định",
+          "start": 9.78,
+          "end": 9.92,
+          "probability": 1.0
+        },
+        {
+          "word": "khảy",
+          "start": 9.92,
+          "end": 10.1,
+          "probability": 0.94
+        },
+        {
+          "word": "đập",
+          "start": 10.1,
+          "end": 10.24,
+          "probability": 0.21
+        },
+        {
+          "word": "mắn",
+          "start": 10.24,
+          "end": 10.48,
+          "probability": 0.32
+        },
+        {
+          "word": "về",
+          "start": 10.48,
+          "end": 10.66,
+          "probability": 0.89
+        },
+        {
+          "word": "phép",
+          "start": 10.66,
+          "end": 10.78,
+          "probability": 0.34
+        },
+        {
+          "word": "lực",
+          "start": 10.78,
+          "end": 10.92,
+          "probability": 0.28
+        },
+        {
+          "word": "lượng",
+          "start": 10.92,
+          "end": 11.1,
+          "probability": 0.63
+        },
+        {
+          "word": "chức",
+          "start": 11.1,
+          "end": 11.28,
+          "probability": 0.87
+        },
+        {
+          "word": "hàng",
+          "start": 11.28,
+          "end": 11.7,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.7,
+      "end": 14.08,
+      "text": "Hình thiu tháng quyết năng khảy gì sừng",
+      "words": [
+        {
+          "word": "Hình",
+          "start": 11.7,
+          "end": 11.94,
+          "probability": 0.3
+        },
+        {
+          "word": "thiu",
+          "start": 11.94,
+          "end": 12.1,
+          "probability": 0.18
+        },
+        {
+          "word": "tháng",
+          "start": 12.1,
+          "end": 12.34,
+          "probability": 0.55
+        },
+        {
+          "word": "quyết",
+          "start": 12.34,
+          "end": 12.58,
+          "probability": 0.41
+        },
+        {
+          "word": "năng",
+          "start": 12.58,
+          "end": 12.78,
+          "probability": 0.26
+        },
+        {
+          "word": "khảy",
+          "start": 12.78,
+          "end": 13.22,
+          "probability": 0.54
+        },
+        {
+          "word": "gì",
+          "start": 13.22,
+          "end": 13.38,
+          "probability": 0.24
+        },
+        {
+          "word": "sừng",
+          "start": 13.38,
+          "end": 14.08,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 14.08,
+      "end": 16.7,
+      "text": "Đã hợi rồi, xưa rồi",
+      "words": [
+        {
+          "word": "Đã",
+          "start": 14.08,
+          "end": 14.52,
+          "probability": 0.38
+        },
+        {
+          "word": "hợi",
+          "start": 14.52,
+          "end": 14.66,
+          "probability": 0.4
+        },
+        {
+          "word": "rồi,",
+          "start": 14.66,
+          "end": 15.44,
+          "probability": 0.29
+        },
+        {
+          "word": "xưa",
+          "start": 15.54,
+          "end": 15.66,
+          "probability": 0.43
+        },
+        {
+          "word": "rồi",
+          "start": 15.66,
+          "end": 16.7,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.7,
+      "end": 17.74,
+      "text": "Để ta đi",
+      "words": [
+        {
+          "word": "Để",
+          "start": 16.7,
+          "end": 16.96,
+          "probability": 0.26
+        },
+        {
+          "word": "ta",
+          "start": 16.96,
+          "end": 17.28,
+          "probability": 0.08
+        },
+        {
+          "word": "đi",
+          "start": 17.28,
+          "end": 17.74,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 17.74,
+      "end": 18.56,
+      "text": "Để ta đi",
+      "words": [
+        {
+          "word": "Để",
+          "start": 17.74,
+          "end": 18.42,
+          "probability": 0.46
+        },
+        {
+          "word": "ta",
+          "start": 18.42,
+          "end": 18.56,
+          "probability": 0.96
+        },
+        {
+          "word": "đi",
+          "start": 18.56,
+          "end": 18.56,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 18.56,
+      "end": 19.86,
+      "text": "Để ta đi xích",
+      "words": [
+        {
+          "word": "Để",
+          "start": 18.56,
+          "end": 18.56,
+          "probability": 0.58
+        },
+        {
+          "word": "ta",
+          "start": 18.56,
+          "end": 18.74,
+          "probability": 0.99
+        },
+        {
+          "word": "đi",
+          "start": 18.74,
+          "end": 19.86,
+          "probability": 0.73
+        },
+        {
+          "word": "xích",
+          "start": 19.86,
+          "end": 19.86,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 19.86,
+      "end": 20.86,
+      "text": "Để ta đi xích",
+      "words": [
+        {
+          "word": "Để",
+          "start": 19.86,
+          "end": 19.92,
+          "probability": 0.29
+        },
+        {
+          "word": "ta",
+          "start": 19.92,
+          "end": 19.92,
+          "probability": 0.97
+        },
+        {
+          "word": "đi",
+          "start": 19.92,
+          "end": 20.22,
+          "probability": 0.87
+        },
+        {
+          "word": "xích",
+          "start": 20.22,
+          "end": 20.86,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 25.56,
+      "end": 25.98,
+      "text": "Để ta đi xích",
+      "words": [
+        {
+          "word": "Để",
+          "start": 25.56,
+          "end": 25.94,
+          "probability": 0.41
+        },
+        {
+          "word": "ta",
+          "start": 25.94,
+          "end": 25.94,
+          "probability": 0.97
+        },
+        {
+          "word": "đi",
+          "start": 25.94,
+          "end": 25.98,
+          "probability": 0.92
+        },
+        {
+          "word": "xích",
+          "start": 25.98,
+          "end": 25.98,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 25.98,
+      "end": 26.4,
+      "text": "Để ta đi xích",
+      "words": [
+        {
+          "word": "Để",
+          "start": 25.98,
+          "end": 25.98,
+          "probability": 0.49
+        },
+        {
+          "word": "ta",
+          "start": 25.98,
+          "end": 26.12,
+          "probability": 0.98
+        },
+        {
+          "word": "đi",
+          "start": 26.12,
+          "end": 26.12,
+          "probability": 0.87
+        },
+        {
+          "word": "xích",
+          "start": 26.12,
+          "end": 26.4,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 26.4,
+      "end": 28.31,
+      "text": "Để ta đi xích",
+      "words": [
+        {
+          "word": "Để",
+          "start": 26.4,
+          "end": 26.4,
+          "probability": 0.61
+        },
+        {
+          "word": "ta",
+          "start": 26.4,
+          "end": 26.4,
+          "probability": 0.98
+        },
+        {
+          "word": "đi",
+          "start": 26.4,
+          "end": 26.58,
+          "probability": 0.78
+        },
+        {
+          "word": "xích",
+          "start": 28.31,
+          "end": 28.31,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 28.31,
+      "end": 28.71,
+      "text": "Để ta đi xích",
+      "words": [
+        {
+          "word": "Để",
+          "start": 28.31,
+          "end": 28.31,
+          "probability": 0.72
+        },
+        {
+          "word": "ta",
+          "start": 28.31,
+          "end": 28.31,
+          "probability": 0.98
+        },
+        {
+          "word": "đi",
+          "start": 28.31,
+          "end": 28.71,
+          "probability": 0.76
+        },
+        {
+          "word": "xích",
+          "start": 28.71,
+          "end": 28.71,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 28.71,
+      "end": 29.85,
+      "text": "Để ta đi xích",
+      "words": [
+        {
+          "word": "Để",
+          "start": 28.71,
+          "end": 29.19,
+          "probability": 0.77
+        },
+        {
+          "word": "ta",
+          "start": 29.19,
+          "end": 29.19,
+          "probability": 0.99
+        },
+        {
+          "word": "đi",
+          "start": 29.19,
+          "end": 29.19,
+          "probability": 0.85
+        },
+        {
+          "word": "xích",
+          "start": 29.19,
+          "end": 29.85,
+          "probability": 0.95
+        }
+      ]
+    }
+  ]
+}

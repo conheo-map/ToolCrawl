@@ -1,0 +1,520 @@
+{
+  "item_id": "tt_7641863248907652372_07",
+  "duration_seconds": 24.64,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 77,
+  "text": "Chồi, tôi có khá khá là dưới em hà bắt đầu, phải vui tôi hành hành cho xấu bắt đầu. Tìa hai tháng lại trở là hoàn thầm đi phòng đường này, mấy dây, hoàn thầm thầm đồ. Mà trở hành đi phía, rồi. Nếu giờ, dân người dân người chút thường, rất là thà thích, mong tầm, chính quyền đi phương cấp chấp. Chắc hành khách thằng đông, đồng thấy gì đó. Cố gắng, giúp dân.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.08,
+      "text": "Chồi, tôi có khá khá là dưới em hà bắt đầu, phải vui tôi hành hành cho xấu bắt đầu.",
+      "words": [
+        {
+          "word": "Chồi,",
+          "start": 0.0,
+          "end": 0.86,
+          "probability": 0.06
+        },
+        {
+          "word": "tôi",
+          "start": 0.96,
+          "end": 1.16,
+          "probability": 0.17
+        },
+        {
+          "word": "có",
+          "start": 1.16,
+          "end": 1.34,
+          "probability": 0.34
+        },
+        {
+          "word": "khá",
+          "start": 1.34,
+          "end": 1.44,
+          "probability": 0.34
+        },
+        {
+          "word": "khá",
+          "start": 1.44,
+          "end": 1.6,
+          "probability": 0.3
+        },
+        {
+          "word": "là",
+          "start": 1.6,
+          "end": 1.9,
+          "probability": 0.43
+        },
+        {
+          "word": "dưới",
+          "start": 1.9,
+          "end": 2.16,
+          "probability": 0.59
+        },
+        {
+          "word": "em",
+          "start": 2.16,
+          "end": 2.42,
+          "probability": 0.39
+        },
+        {
+          "word": "hà",
+          "start": 2.42,
+          "end": 2.54,
+          "probability": 0.22
+        },
+        {
+          "word": "bắt",
+          "start": 2.54,
+          "end": 2.68,
+          "probability": 0.33
+        },
+        {
+          "word": "đầu,",
+          "start": 2.68,
+          "end": 2.9,
+          "probability": 0.98
+        },
+        {
+          "word": "phải",
+          "start": 3.06,
+          "end": 3.22,
+          "probability": 0.11
+        },
+        {
+          "word": "vui",
+          "start": 3.22,
+          "end": 3.44,
+          "probability": 0.46
+        },
+        {
+          "word": "tôi",
+          "start": 3.44,
+          "end": 3.68,
+          "probability": 0.23
+        },
+        {
+          "word": "hành",
+          "start": 3.68,
+          "end": 3.94,
+          "probability": 0.43
+        },
+        {
+          "word": "hành",
+          "start": 3.94,
+          "end": 4.32,
+          "probability": 0.36
+        },
+        {
+          "word": "cho",
+          "start": 4.32,
+          "end": 4.52,
+          "probability": 0.16
+        },
+        {
+          "word": "xấu",
+          "start": 4.52,
+          "end": 4.72,
+          "probability": 0.15
+        },
+        {
+          "word": "bắt",
+          "start": 4.72,
+          "end": 4.94,
+          "probability": 0.46
+        },
+        {
+          "word": "đầu.",
+          "start": 4.94,
+          "end": 5.08,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.34,
+      "end": 11.3,
+      "text": "Tìa hai tháng lại trở là hoàn thầm đi phòng đường này, mấy dây, hoàn thầm thầm đồ.",
+      "words": [
+        {
+          "word": "Tìa",
+          "start": 6.34,
+          "end": 6.82,
+          "probability": 0.29
+        },
+        {
+          "word": "hai",
+          "start": 6.82,
+          "end": 7.06,
+          "probability": 0.38
+        },
+        {
+          "word": "tháng",
+          "start": 7.06,
+          "end": 7.22,
+          "probability": 0.24
+        },
+        {
+          "word": "lại",
+          "start": 7.22,
+          "end": 7.56,
+          "probability": 0.17
+        },
+        {
+          "word": "trở",
+          "start": 7.56,
+          "end": 7.9,
+          "probability": 0.46
+        },
+        {
+          "word": "là",
+          "start": 7.9,
+          "end": 7.96,
+          "probability": 0.27
+        },
+        {
+          "word": "hoàn",
+          "start": 7.96,
+          "end": 8.18,
+          "probability": 0.22
+        },
+        {
+          "word": "thầm",
+          "start": 8.18,
+          "end": 8.38,
+          "probability": 0.59
+        },
+        {
+          "word": "đi",
+          "start": 8.38,
+          "end": 8.52,
+          "probability": 0.17
+        },
+        {
+          "word": "phòng",
+          "start": 8.52,
+          "end": 8.66,
+          "probability": 0.34
+        },
+        {
+          "word": "đường",
+          "start": 8.66,
+          "end": 8.88,
+          "probability": 0.63
+        },
+        {
+          "word": "này,",
+          "start": 8.88,
+          "end": 9.12,
+          "probability": 0.62
+        },
+        {
+          "word": "mấy",
+          "start": 9.36,
+          "end": 9.38,
+          "probability": 0.52
+        },
+        {
+          "word": "dây,",
+          "start": 9.38,
+          "end": 9.68,
+          "probability": 0.28
+        },
+        {
+          "word": "hoàn",
+          "start": 10.02,
+          "end": 10.14,
+          "probability": 0.38
+        },
+        {
+          "word": "thầm",
+          "start": 10.14,
+          "end": 10.54,
+          "probability": 0.62
+        },
+        {
+          "word": "thầm",
+          "start": 10.54,
+          "end": 10.94,
+          "probability": 0.61
+        },
+        {
+          "word": "đồ.",
+          "start": 10.94,
+          "end": 11.3,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.82,
+      "end": 13.34,
+      "text": "Mà trở hành đi phía, rồi.",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 11.82,
+          "end": 11.98,
+          "probability": 0.49
+        },
+        {
+          "word": "trở",
+          "start": 11.98,
+          "end": 12.16,
+          "probability": 0.68
+        },
+        {
+          "word": "hành",
+          "start": 12.16,
+          "end": 12.32,
+          "probability": 0.05
+        },
+        {
+          "word": "đi",
+          "start": 12.32,
+          "end": 12.46,
+          "probability": 0.1
+        },
+        {
+          "word": "phía,",
+          "start": 12.46,
+          "end": 12.72,
+          "probability": 0.29
+        },
+        {
+          "word": "rồi.",
+          "start": 13.1,
+          "end": 13.34,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.48,
+      "end": 20.2,
+      "text": "Nếu giờ, dân người dân người chút thường, rất là thà thích, mong tầm, chính quyền đi phương cấp chấp.",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 14.48,
+          "end": 14.76,
+          "probability": 0.28
+        },
+        {
+          "word": "giờ,",
+          "start": 14.76,
+          "end": 15.24,
+          "probability": 0.13
+        },
+        {
+          "word": "dân",
+          "start": 15.24,
+          "end": 15.76,
+          "probability": 0.53
+        },
+        {
+          "word": "người",
+          "start": 15.76,
+          "end": 15.76,
+          "probability": 0.19
+        },
+        {
+          "word": "dân",
+          "start": 15.76,
+          "end": 15.92,
+          "probability": 0.85
+        },
+        {
+          "word": "người",
+          "start": 15.92,
+          "end": 16.04,
+          "probability": 0.15
+        },
+        {
+          "word": "chút",
+          "start": 16.04,
+          "end": 16.22,
+          "probability": 0.4
+        },
+        {
+          "word": "thường,",
+          "start": 16.22,
+          "end": 16.44,
+          "probability": 0.41
+        },
+        {
+          "word": "rất",
+          "start": 16.6,
+          "end": 16.66,
+          "probability": 0.15
+        },
+        {
+          "word": "là",
+          "start": 16.66,
+          "end": 16.8,
+          "probability": 0.68
+        },
+        {
+          "word": "thà",
+          "start": 16.8,
+          "end": 17.12,
+          "probability": 0.57
+        },
+        {
+          "word": "thích,",
+          "start": 17.12,
+          "end": 17.42,
+          "probability": 0.34
+        },
+        {
+          "word": "mong",
+          "start": 17.42,
+          "end": 17.7,
+          "probability": 0.41
+        },
+        {
+          "word": "tầm,",
+          "start": 17.7,
+          "end": 17.96,
+          "probability": 0.43
+        },
+        {
+          "word": "chính",
+          "start": 18.36,
+          "end": 18.36,
+          "probability": 0.42
+        },
+        {
+          "word": "quyền",
+          "start": 18.36,
+          "end": 18.64,
+          "probability": 0.64
+        },
+        {
+          "word": "đi",
+          "start": 18.64,
+          "end": 18.98,
+          "probability": 0.28
+        },
+        {
+          "word": "phương",
+          "start": 18.98,
+          "end": 19.26,
+          "probability": 0.94
+        },
+        {
+          "word": "cấp",
+          "start": 19.26,
+          "end": 19.5,
+          "probability": 0.43
+        },
+        {
+          "word": "chấp.",
+          "start": 19.5,
+          "end": 20.2,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 20.2,
+      "end": 22.84,
+      "text": "Chắc hành khách thằng đông, đồng thấy gì đó.",
+      "words": [
+        {
+          "word": "Chắc",
+          "start": 20.2,
+          "end": 20.44,
+          "probability": 0.58
+        },
+        {
+          "word": "hành",
+          "start": 20.44,
+          "end": 20.64,
+          "probability": 0.38
+        },
+        {
+          "word": "khách",
+          "start": 20.64,
+          "end": 20.94,
+          "probability": 0.25
+        },
+        {
+          "word": "thằng",
+          "start": 20.94,
+          "end": 21.18,
+          "probability": 0.3
+        },
+        {
+          "word": "đông,",
+          "start": 21.18,
+          "end": 21.52,
+          "probability": 0.43
+        },
+        {
+          "word": "đồng",
+          "start": 21.52,
+          "end": 21.82,
+          "probability": 0.34
+        },
+        {
+          "word": "thấy",
+          "start": 21.82,
+          "end": 22.1,
+          "probability": 0.33
+        },
+        {
+          "word": "gì",
+          "start": 22.1,
+          "end": 22.44,
+          "probability": 0.87
+        },
+        {
+          "word": "đó.",
+          "start": 22.44,
+          "end": 22.84,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.12,
+      "end": 24.4,
+      "text": "Cố gắng, giúp dân.",
+      "words": [
+        {
+          "word": "Cố",
+          "start": 23.12,
+          "end": 23.12,
+          "probability": 0.53
+        },
+        {
+          "word": "gắng,",
+          "start": 23.12,
+          "end": 23.5,
+          "probability": 0.75
+        },
+        {
+          "word": "giúp",
+          "start": 23.94,
+          "end": 24.12,
+          "probability": 0.7
+        },
+        {
+          "word": "dân.",
+          "start": 24.12,
+          "end": 24.4,
+          "probability": 0.61
+        }
+      ]
+    }
+  ]
+}

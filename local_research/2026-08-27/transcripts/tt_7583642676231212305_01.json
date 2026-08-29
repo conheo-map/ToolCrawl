@@ -1,0 +1,832 @@
+{
+  "item_id": "tt_7583642676231212305_01",
+  "duration_seconds": 28.2,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 129,
+  "text": "nhanh kinh nghiên trộ ổ tổ dồi đến quán nhậu trở bạn gái về nhà. Ngay mề bộ tháng 12, tinh từ công an tình quảng chiếc, các quan kể rất đều tra đã hội tổ bị càn. Lễ mắt 3 lế văn hoàng, sinh 5a nghỉ khu trăm linh năm, chú tại tổ dịch phố đồng dương, phương đông hối, tình quảng chiếc về tổ chục khắp tại 3. Cứ định khởi tổ bị càn, mắt 3 giám đối với khoảng đã được viện kiểm soát như rất khu vực một tình quảng chiếc, phê chuẩn. Theo quảng công an, nêm tàn tháng 12, lế văn hoàng được nhập và nhàng người dân tại phương đồng hối, lấy chủ sinh 5a xíu tổ dô tổ dô tà iaris.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.8,
+      "text": "nhanh kinh nghiên trộ ổ tổ dồi đến quán nhậu trở bạn gái về nhà.",
+      "words": [
+        {
+          "word": "nhanh",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.56
+        },
+        {
+          "word": "kinh",
+          "start": 0.12,
+          "end": 0.28,
+          "probability": 0.27
+        },
+        {
+          "word": "nghiên",
+          "start": 0.28,
+          "end": 0.42,
+          "probability": 0.51
+        },
+        {
+          "word": "trộ",
+          "start": 0.42,
+          "end": 0.58,
+          "probability": 0.4
+        },
+        {
+          "word": "ổ",
+          "start": 0.58,
+          "end": 0.86,
+          "probability": 0.27
+        },
+        {
+          "word": "tổ",
+          "start": 0.86,
+          "end": 0.86,
+          "probability": 0.42
+        },
+        {
+          "word": "dồi",
+          "start": 0.86,
+          "end": 1.08,
+          "probability": 0.27
+        },
+        {
+          "word": "đến",
+          "start": 1.08,
+          "end": 1.28,
+          "probability": 0.41
+        },
+        {
+          "word": "quán",
+          "start": 1.28,
+          "end": 1.38,
+          "probability": 0.51
+        },
+        {
+          "word": "nhậu",
+          "start": 1.38,
+          "end": 1.58,
+          "probability": 0.48
+        },
+        {
+          "word": "trở",
+          "start": 1.58,
+          "end": 1.72,
+          "probability": 0.66
+        },
+        {
+          "word": "bạn",
+          "start": 1.72,
+          "end": 1.9,
+          "probability": 0.56
+        },
+        {
+          "word": "gái",
+          "start": 1.9,
+          "end": 2.1,
+          "probability": 0.85
+        },
+        {
+          "word": "về",
+          "start": 2.1,
+          "end": 2.24,
+          "probability": 0.41
+        },
+        {
+          "word": "nhà.",
+          "start": 2.24,
+          "end": 2.8,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.28,
+      "end": 7.56,
+      "text": "Ngay mề bộ tháng 12, tinh từ công an tình quảng chiếc, các quan kể rất đều tra đã hội tổ bị càn.",
+      "words": [
+        {
+          "word": "Ngay",
+          "start": 3.28,
+          "end": 3.34,
+          "probability": 0.56
+        },
+        {
+          "word": "mề",
+          "start": 3.34,
+          "end": 3.48,
+          "probability": 0.28
+        },
+        {
+          "word": "bộ",
+          "start": 3.48,
+          "end": 3.58,
+          "probability": 0.41
+        },
+        {
+          "word": "tháng",
+          "start": 3.58,
+          "end": 3.74,
+          "probability": 0.25
+        },
+        {
+          "word": "12,",
+          "start": 3.74,
+          "end": 4.06,
+          "probability": 0.51
+        },
+        {
+          "word": "tinh",
+          "start": 4.46,
+          "end": 4.52,
+          "probability": 0.28
+        },
+        {
+          "word": "từ",
+          "start": 4.52,
+          "end": 4.68,
+          "probability": 0.84
+        },
+        {
+          "word": "công",
+          "start": 4.68,
+          "end": 4.84,
+          "probability": 0.59
+        },
+        {
+          "word": "an",
+          "start": 4.84,
+          "end": 4.94,
+          "probability": 0.7
+        },
+        {
+          "word": "tình",
+          "start": 4.94,
+          "end": 5.12,
+          "probability": 0.7
+        },
+        {
+          "word": "quảng",
+          "start": 5.12,
+          "end": 5.32,
+          "probability": 0.45
+        },
+        {
+          "word": "chiếc,",
+          "start": 5.32,
+          "end": 5.76,
+          "probability": 0.41
+        },
+        {
+          "word": "các",
+          "start": 5.76,
+          "end": 5.9,
+          "probability": 0.62
+        },
+        {
+          "word": "quan",
+          "start": 5.9,
+          "end": 6.04,
+          "probability": 0.78
+        },
+        {
+          "word": "kể",
+          "start": 6.04,
+          "end": 6.16,
+          "probability": 0.49
+        },
+        {
+          "word": "rất",
+          "start": 6.16,
+          "end": 6.34,
+          "probability": 0.63
+        },
+        {
+          "word": "đều",
+          "start": 6.34,
+          "end": 6.46,
+          "probability": 0.37
+        },
+        {
+          "word": "tra",
+          "start": 6.46,
+          "end": 6.64,
+          "probability": 0.47
+        },
+        {
+          "word": "đã",
+          "start": 6.64,
+          "end": 6.8,
+          "probability": 0.49
+        },
+        {
+          "word": "hội",
+          "start": 6.8,
+          "end": 6.98,
+          "probability": 0.52
+        },
+        {
+          "word": "tổ",
+          "start": 6.98,
+          "end": 7.12,
+          "probability": 0.8
+        },
+        {
+          "word": "bị",
+          "start": 7.12,
+          "end": 7.28,
+          "probability": 0.38
+        },
+        {
+          "word": "càn.",
+          "start": 7.28,
+          "end": 7.56,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.88,
+      "end": 14.72,
+      "text": "Lễ mắt 3 lế văn hoàng, sinh 5a nghỉ khu trăm linh năm, chú tại tổ dịch phố đồng dương, phương đông hối, tình quảng chiếc về tổ chục khắp tại 3.",
+      "words": [
+        {
+          "word": "Lễ",
+          "start": 7.88,
+          "end": 7.98,
+          "probability": 0.58
+        },
+        {
+          "word": "mắt",
+          "start": 7.98,
+          "end": 8.16,
+          "probability": 0.38
+        },
+        {
+          "word": "3",
+          "start": 8.16,
+          "end": 8.44,
+          "probability": 0.34
+        },
+        {
+          "word": "lế",
+          "start": 8.44,
+          "end": 8.68,
+          "probability": 0.17
+        },
+        {
+          "word": "văn",
+          "start": 8.68,
+          "end": 8.82,
+          "probability": 0.57
+        },
+        {
+          "word": "hoàng,",
+          "start": 8.82,
+          "end": 9.16,
+          "probability": 0.46
+        },
+        {
+          "word": "sinh",
+          "start": 9.34,
+          "end": 9.46,
+          "probability": 0.67
+        },
+        {
+          "word": "5a",
+          "start": 9.46,
+          "end": 9.72,
+          "probability": 0.09
+        },
+        {
+          "word": "nghỉ",
+          "start": 9.72,
+          "end": 9.88,
+          "probability": 0.32
+        },
+        {
+          "word": "khu",
+          "start": 9.88,
+          "end": 9.94,
+          "probability": 0.74
+        },
+        {
+          "word": "trăm",
+          "start": 9.94,
+          "end": 10.06,
+          "probability": 0.31
+        },
+        {
+          "word": "linh",
+          "start": 10.06,
+          "end": 10.2,
+          "probability": 0.61
+        },
+        {
+          "word": "năm,",
+          "start": 10.2,
+          "end": 10.5,
+          "probability": 0.6
+        },
+        {
+          "word": "chú",
+          "start": 10.7,
+          "end": 10.84,
+          "probability": 0.73
+        },
+        {
+          "word": "tại",
+          "start": 10.84,
+          "end": 10.98,
+          "probability": 0.73
+        },
+        {
+          "word": "tổ",
+          "start": 10.98,
+          "end": 11.12,
+          "probability": 0.93
+        },
+        {
+          "word": "dịch",
+          "start": 11.12,
+          "end": 11.28,
+          "probability": 0.51
+        },
+        {
+          "word": "phố",
+          "start": 11.28,
+          "end": 11.42,
+          "probability": 0.69
+        },
+        {
+          "word": "đồng",
+          "start": 11.42,
+          "end": 11.56,
+          "probability": 0.47
+        },
+        {
+          "word": "dương,",
+          "start": 11.56,
+          "end": 11.74,
+          "probability": 0.33
+        },
+        {
+          "word": "phương",
+          "start": 12.06,
+          "end": 12.18,
+          "probability": 0.79
+        },
+        {
+          "word": "đông",
+          "start": 12.18,
+          "end": 12.36,
+          "probability": 0.63
+        },
+        {
+          "word": "hối,",
+          "start": 12.36,
+          "end": 12.62,
+          "probability": 0.66
+        },
+        {
+          "word": "tình",
+          "start": 12.96,
+          "end": 13.0,
+          "probability": 0.96
+        },
+        {
+          "word": "quảng",
+          "start": 13.0,
+          "end": 13.2,
+          "probability": 0.97
+        },
+        {
+          "word": "chiếc",
+          "start": 13.2,
+          "end": 13.68,
+          "probability": 0.89
+        },
+        {
+          "word": "về",
+          "start": 13.68,
+          "end": 13.74,
+          "probability": 0.26
+        },
+        {
+          "word": "tổ",
+          "start": 13.74,
+          "end": 13.86,
+          "probability": 0.88
+        },
+        {
+          "word": "chục",
+          "start": 13.86,
+          "end": 14.04,
+          "probability": 0.33
+        },
+        {
+          "word": "khắp",
+          "start": 14.04,
+          "end": 14.24,
+          "probability": 0.66
+        },
+        {
+          "word": "tại",
+          "start": 14.24,
+          "end": 14.4,
+          "probability": 0.69
+        },
+        {
+          "word": "3.",
+          "start": 14.4,
+          "end": 14.72,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.18,
+      "end": 20.14,
+      "text": "Cứ định khởi tổ bị càn, mắt 3 giám đối với khoảng đã được viện kiểm soát như rất khu vực một tình quảng chiếc, phê chuẩn.",
+      "words": [
+        {
+          "word": "Cứ",
+          "start": 15.18,
+          "end": 15.3,
+          "probability": 0.51
+        },
+        {
+          "word": "định",
+          "start": 15.3,
+          "end": 15.42,
+          "probability": 0.61
+        },
+        {
+          "word": "khởi",
+          "start": 15.42,
+          "end": 15.6,
+          "probability": 0.55
+        },
+        {
+          "word": "tổ",
+          "start": 15.6,
+          "end": 15.74,
+          "probability": 0.99
+        },
+        {
+          "word": "bị",
+          "start": 15.74,
+          "end": 15.9,
+          "probability": 0.99
+        },
+        {
+          "word": "càn,",
+          "start": 15.9,
+          "end": 16.12,
+          "probability": 0.97
+        },
+        {
+          "word": "mắt",
+          "start": 16.38,
+          "end": 16.54,
+          "probability": 0.95
+        },
+        {
+          "word": "3",
+          "start": 16.54,
+          "end": 16.76,
+          "probability": 0.63
+        },
+        {
+          "word": "giám",
+          "start": 16.76,
+          "end": 16.96,
+          "probability": 0.13
+        },
+        {
+          "word": "đối",
+          "start": 16.96,
+          "end": 17.0,
+          "probability": 0.5
+        },
+        {
+          "word": "với",
+          "start": 17.0,
+          "end": 17.14,
+          "probability": 0.95
+        },
+        {
+          "word": "khoảng",
+          "start": 17.14,
+          "end": 17.32,
+          "probability": 0.76
+        },
+        {
+          "word": "đã",
+          "start": 17.32,
+          "end": 17.46,
+          "probability": 0.83
+        },
+        {
+          "word": "được",
+          "start": 17.46,
+          "end": 17.6,
+          "probability": 0.89
+        },
+        {
+          "word": "viện",
+          "start": 17.6,
+          "end": 17.74,
+          "probability": 0.39
+        },
+        {
+          "word": "kiểm",
+          "start": 17.74,
+          "end": 17.96,
+          "probability": 0.7
+        },
+        {
+          "word": "soát",
+          "start": 17.96,
+          "end": 18.06,
+          "probability": 0.51
+        },
+        {
+          "word": "như",
+          "start": 18.06,
+          "end": 18.2,
+          "probability": 0.45
+        },
+        {
+          "word": "rất",
+          "start": 18.2,
+          "end": 18.36,
+          "probability": 0.44
+        },
+        {
+          "word": "khu",
+          "start": 18.36,
+          "end": 18.48,
+          "probability": 0.69
+        },
+        {
+          "word": "vực",
+          "start": 18.48,
+          "end": 18.64,
+          "probability": 0.9
+        },
+        {
+          "word": "một",
+          "start": 18.64,
+          "end": 18.86,
+          "probability": 0.46
+        },
+        {
+          "word": "tình",
+          "start": 18.86,
+          "end": 19.18,
+          "probability": 0.94
+        },
+        {
+          "word": "quảng",
+          "start": 19.18,
+          "end": 19.38,
+          "probability": 0.97
+        },
+        {
+          "word": "chiếc,",
+          "start": 19.38,
+          "end": 19.78,
+          "probability": 0.97
+        },
+        {
+          "word": "phê",
+          "start": 19.8,
+          "end": 19.92,
+          "probability": 0.39
+        },
+        {
+          "word": "chuẩn.",
+          "start": 19.92,
+          "end": 20.14,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 20.14,
+      "end": 25.12,
+      "text": "Theo quảng công an, nêm tàn tháng 12, lế văn hoàng được nhập và nhàng người dân tại phương đồng hối,",
+      "words": [
+        {
+          "word": "Theo",
+          "start": 20.14,
+          "end": 20.78,
+          "probability": 0.36
+        },
+        {
+          "word": "quảng",
+          "start": 20.78,
+          "end": 21.04,
+          "probability": 0.04
+        },
+        {
+          "word": "công",
+          "start": 21.04,
+          "end": 21.26,
+          "probability": 0.05
+        },
+        {
+          "word": "an,",
+          "start": 21.26,
+          "end": 21.52,
+          "probability": 0.72
+        },
+        {
+          "word": "nêm",
+          "start": 21.8,
+          "end": 21.92,
+          "probability": 0.2
+        },
+        {
+          "word": "tàn",
+          "start": 21.92,
+          "end": 22.14,
+          "probability": 0.35
+        },
+        {
+          "word": "tháng",
+          "start": 22.14,
+          "end": 22.3,
+          "probability": 0.51
+        },
+        {
+          "word": "12,",
+          "start": 22.3,
+          "end": 22.6,
+          "probability": 0.4
+        },
+        {
+          "word": "lế",
+          "start": 23.0,
+          "end": 23.06,
+          "probability": 0.15
+        },
+        {
+          "word": "văn",
+          "start": 23.06,
+          "end": 23.2,
+          "probability": 0.7
+        },
+        {
+          "word": "hoàng",
+          "start": 23.2,
+          "end": 23.4,
+          "probability": 0.4
+        },
+        {
+          "word": "được",
+          "start": 23.4,
+          "end": 23.52,
+          "probability": 0.18
+        },
+        {
+          "word": "nhập",
+          "start": 23.52,
+          "end": 23.7,
+          "probability": 0.64
+        },
+        {
+          "word": "và",
+          "start": 23.7,
+          "end": 23.84,
+          "probability": 0.16
+        },
+        {
+          "word": "nhàng",
+          "start": 23.84,
+          "end": 24.02,
+          "probability": 0.52
+        },
+        {
+          "word": "người",
+          "start": 24.02,
+          "end": 24.14,
+          "probability": 0.21
+        },
+        {
+          "word": "dân",
+          "start": 24.14,
+          "end": 24.28,
+          "probability": 0.73
+        },
+        {
+          "word": "tại",
+          "start": 24.28,
+          "end": 24.46,
+          "probability": 0.48
+        },
+        {
+          "word": "phương",
+          "start": 24.46,
+          "end": 24.62,
+          "probability": 0.65
+        },
+        {
+          "word": "đồng",
+          "start": 24.62,
+          "end": 24.8,
+          "probability": 0.65
+        },
+        {
+          "word": "hối,",
+          "start": 24.8,
+          "end": 25.12,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 25.4,
+      "end": 27.9,
+      "text": "lấy chủ sinh 5a xíu tổ dô tổ dô tà iaris.",
+      "words": [
+        {
+          "word": "lấy",
+          "start": 25.4,
+          "end": 25.44,
+          "probability": 0.69
+        },
+        {
+          "word": "chủ",
+          "start": 25.44,
+          "end": 25.6,
+          "probability": 0.46
+        },
+        {
+          "word": "sinh",
+          "start": 25.6,
+          "end": 25.8,
+          "probability": 0.55
+        },
+        {
+          "word": "5a",
+          "start": 25.8,
+          "end": 26.18,
+          "probability": 0.0
+        },
+        {
+          "word": "xíu",
+          "start": 26.18,
+          "end": 26.68,
+          "probability": 0.18
+        },
+        {
+          "word": "tổ",
+          "start": 26.68,
+          "end": 26.82,
+          "probability": 0.22
+        },
+        {
+          "word": "dô",
+          "start": 26.82,
+          "end": 27.18,
+          "probability": 0.12
+        },
+        {
+          "word": "tổ",
+          "start": 27.18,
+          "end": 27.42,
+          "probability": 0.14
+        },
+        {
+          "word": "dô",
+          "start": 27.42,
+          "end": 27.42,
+          "probability": 0.75
+        },
+        {
+          "word": "tà",
+          "start": 27.42,
+          "end": 27.5,
+          "probability": 0.38
+        },
+        {
+          "word": "iaris.",
+          "start": 27.5,
+          "end": 27.9,
+          "probability": 0.19
+        }
+      ]
+    }
+  ]
+}

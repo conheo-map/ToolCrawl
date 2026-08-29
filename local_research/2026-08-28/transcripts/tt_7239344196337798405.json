@@ -1,0 +1,68 @@
+{
+  "item_id": "tt_7239344196337798405",
+  "duration_seconds": 33.74,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 7,
+  "text": "Tôi như là gì Tôi như gì",
+  "segments": [
+    {
+      "id": 1,
+      "start": 30.0,
+      "end": 32.16,
+      "text": "Tôi như là gì",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 30.0,
+          "end": 30.66,
+          "probability": 0.01
+        },
+        {
+          "word": "như",
+          "start": 30.66,
+          "end": 31.08,
+          "probability": 0.07
+        },
+        {
+          "word": "là",
+          "start": 31.08,
+          "end": 31.56,
+          "probability": 0.89
+        },
+        {
+          "word": "gì",
+          "start": 31.56,
+          "end": 32.16,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 32.16,
+      "end": 33.7,
+      "text": "Tôi như gì",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 32.16,
+          "end": 32.9,
+          "probability": 0.04
+        },
+        {
+          "word": "như",
+          "start": 32.9,
+          "end": 33.36,
+          "probability": 0.99
+        },
+        {
+          "word": "gì",
+          "start": 33.36,
+          "end": 33.7,
+          "probability": 0.74
+        }
+      ]
+    }
+  ]
+}

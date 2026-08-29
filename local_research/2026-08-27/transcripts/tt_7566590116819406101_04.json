@@ -1,0 +1,410 @@
+{
+  "item_id": "tt_7566590116819406101_04",
+  "duration_seconds": 29.78,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 60,
+  "text": "Xin tổn bình bình ạ bây đi nô, xí do ăn ngô và đi bảo cho hai Phố bàn tổn bình Đừng kích xuất tự hợp thường choo, vui thân ngọt kéo Đừng phòng bảo vệ xí quẻ, vui tổn bình bì, à bè tí tổn xí đồ ăn ngòn bát đặc đồng, nghiệp cầu quyết học từ Ida Li",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 3.36,
+      "text": "Xin tổn bình bình ạ bây đi nô, xí do ăn ngô và đi bảo cho hai",
+      "words": [
+        {
+          "word": "Xin",
+          "start": 0.02,
+          "end": 0.48,
+          "probability": 0.13
+        },
+        {
+          "word": "tổn",
+          "start": 0.48,
+          "end": 0.68,
+          "probability": 0.17
+        },
+        {
+          "word": "bình",
+          "start": 0.68,
+          "end": 0.72,
+          "probability": 0.43
+        },
+        {
+          "word": "bình",
+          "start": 0.72,
+          "end": 0.9,
+          "probability": 0.49
+        },
+        {
+          "word": "ạ",
+          "start": 0.9,
+          "end": 1.1,
+          "probability": 0.22
+        },
+        {
+          "word": "bây",
+          "start": 1.1,
+          "end": 1.18,
+          "probability": 0.34
+        },
+        {
+          "word": "đi",
+          "start": 1.18,
+          "end": 1.3,
+          "probability": 0.18
+        },
+        {
+          "word": "nô,",
+          "start": 1.3,
+          "end": 1.6,
+          "probability": 0.17
+        },
+        {
+          "word": "xí",
+          "start": 1.76,
+          "end": 1.78,
+          "probability": 0.33
+        },
+        {
+          "word": "do",
+          "start": 1.78,
+          "end": 1.9,
+          "probability": 0.19
+        },
+        {
+          "word": "ăn",
+          "start": 1.9,
+          "end": 2.04,
+          "probability": 0.26
+        },
+        {
+          "word": "ngô",
+          "start": 2.04,
+          "end": 2.22,
+          "probability": 0.28
+        },
+        {
+          "word": "và",
+          "start": 2.22,
+          "end": 2.38,
+          "probability": 0.48
+        },
+        {
+          "word": "đi",
+          "start": 2.38,
+          "end": 2.48,
+          "probability": 0.23
+        },
+        {
+          "word": "bảo",
+          "start": 2.48,
+          "end": 2.74,
+          "probability": 0.45
+        },
+        {
+          "word": "cho",
+          "start": 2.74,
+          "end": 2.96,
+          "probability": 0.1
+        },
+        {
+          "word": "hai",
+          "start": 2.96,
+          "end": 3.36,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.36,
+      "end": 12.45,
+      "text": "Phố bàn tổn bình",
+      "words": [
+        {
+          "word": "Phố",
+          "start": 3.36,
+          "end": 3.82,
+          "probability": 0.25
+        },
+        {
+          "word": "bàn",
+          "start": 3.82,
+          "end": 4.16,
+          "probability": 0.12
+        },
+        {
+          "word": "tổn",
+          "start": 5.82,
+          "end": 6.64,
+          "probability": 0.49
+        },
+        {
+          "word": "bình",
+          "start": 12.11,
+          "end": 12.45,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.45,
+      "end": 15.07,
+      "text": "Đừng kích xuất tự hợp thường choo, vui thân ngọt kéo",
+      "words": [
+        {
+          "word": "Đừng",
+          "start": 12.45,
+          "end": 12.45,
+          "probability": 0.02
+        },
+        {
+          "word": "kích",
+          "start": 12.45,
+          "end": 12.67,
+          "probability": 0.56
+        },
+        {
+          "word": "xuất",
+          "start": 12.67,
+          "end": 12.87,
+          "probability": 0.73
+        },
+        {
+          "word": "tự",
+          "start": 12.87,
+          "end": 13.05,
+          "probability": 0.34
+        },
+        {
+          "word": "hợp",
+          "start": 13.05,
+          "end": 13.17,
+          "probability": 0.54
+        },
+        {
+          "word": "thường",
+          "start": 13.17,
+          "end": 13.37,
+          "probability": 0.17
+        },
+        {
+          "word": "choo,",
+          "start": 13.37,
+          "end": 13.81,
+          "probability": 0.2
+        },
+        {
+          "word": "vui",
+          "start": 13.99,
+          "end": 14.11,
+          "probability": 0.08
+        },
+        {
+          "word": "thân",
+          "start": 14.11,
+          "end": 14.31,
+          "probability": 0.46
+        },
+        {
+          "word": "ngọt",
+          "start": 14.31,
+          "end": 14.59,
+          "probability": 0.72
+        },
+        {
+          "word": "kéo",
+          "start": 14.59,
+          "end": 15.07,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.07,
+      "end": 26.94,
+      "text": "Đừng phòng bảo vệ xí quẻ, vui tổn bình bì, à bè tí tổn",
+      "words": [
+        {
+          "word": "Đừng",
+          "start": 15.07,
+          "end": 15.61,
+          "probability": 0.18
+        },
+        {
+          "word": "phòng",
+          "start": 24.38,
+          "end": 24.56,
+          "probability": 0.66
+        },
+        {
+          "word": "bảo",
+          "start": 24.56,
+          "end": 24.66,
+          "probability": 0.77
+        },
+        {
+          "word": "vệ",
+          "start": 24.66,
+          "end": 24.8,
+          "probability": 0.7
+        },
+        {
+          "word": "xí",
+          "start": 24.8,
+          "end": 24.94,
+          "probability": 0.62
+        },
+        {
+          "word": "quẻ,",
+          "start": 24.94,
+          "end": 25.14,
+          "probability": 0.42
+        },
+        {
+          "word": "vui",
+          "start": 25.26,
+          "end": 25.34,
+          "probability": 0.53
+        },
+        {
+          "word": "tổn",
+          "start": 25.34,
+          "end": 25.52,
+          "probability": 0.84
+        },
+        {
+          "word": "bình",
+          "start": 25.52,
+          "end": 25.64,
+          "probability": 0.99
+        },
+        {
+          "word": "bì,",
+          "start": 25.64,
+          "end": 25.92,
+          "probability": 0.25
+        },
+        {
+          "word": "à",
+          "start": 25.98,
+          "end": 26.0,
+          "probability": 0.12
+        },
+        {
+          "word": "bè",
+          "start": 26.0,
+          "end": 26.14,
+          "probability": 0.51
+        },
+        {
+          "word": "tí",
+          "start": 26.14,
+          "end": 26.32,
+          "probability": 0.19
+        },
+        {
+          "word": "tổn",
+          "start": 26.32,
+          "end": 26.94,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 26.94,
+      "end": 29.7,
+      "text": "xí đồ ăn ngòn bát đặc đồng, nghiệp cầu quyết học từ Ida Li",
+      "words": [
+        {
+          "word": "xí",
+          "start": 26.94,
+          "end": 27.04,
+          "probability": 0.53
+        },
+        {
+          "word": "đồ",
+          "start": 27.04,
+          "end": 27.2,
+          "probability": 0.47
+        },
+        {
+          "word": "ăn",
+          "start": 27.2,
+          "end": 27.36,
+          "probability": 0.23
+        },
+        {
+          "word": "ngòn",
+          "start": 27.36,
+          "end": 27.56,
+          "probability": 0.29
+        },
+        {
+          "word": "bát",
+          "start": 27.56,
+          "end": 27.7,
+          "probability": 0.39
+        },
+        {
+          "word": "đặc",
+          "start": 27.7,
+          "end": 27.88,
+          "probability": 0.29
+        },
+        {
+          "word": "đồng,",
+          "start": 27.88,
+          "end": 28.14,
+          "probability": 0.84
+        },
+        {
+          "word": "nghiệp",
+          "start": 28.4,
+          "end": 28.48,
+          "probability": 0.75
+        },
+        {
+          "word": "cầu",
+          "start": 28.48,
+          "end": 28.66,
+          "probability": 0.48
+        },
+        {
+          "word": "quyết",
+          "start": 28.66,
+          "end": 28.82,
+          "probability": 0.4
+        },
+        {
+          "word": "học",
+          "start": 28.82,
+          "end": 29.02,
+          "probability": 0.59
+        },
+        {
+          "word": "từ",
+          "start": 29.02,
+          "end": 29.16,
+          "probability": 0.55
+        },
+        {
+          "word": "Ida",
+          "start": 29.16,
+          "end": 29.44,
+          "probability": 0.17
+        },
+        {
+          "word": "Li",
+          "start": 29.44,
+          "end": 29.7,
+          "probability": 0.62
+        }
+      ]
+    }
+  ]
+}

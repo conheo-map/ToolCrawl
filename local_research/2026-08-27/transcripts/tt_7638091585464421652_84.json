@@ -1,0 +1,134 @@
+{
+  "item_id": "tt_7638091585464421652_84",
+  "duration_seconds": 26.4,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 14,
+  "text": "là Э layer 3 1 là H vào b onze thứ 1 H Đi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.88,
+      "text": "là Э layer 3",
+      "words": [
+        {
+          "word": "là",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.01
+        },
+        {
+          "word": "Э",
+          "start": 0.4,
+          "end": 1.88,
+          "probability": 0.0
+        },
+        {
+          "word": "layer",
+          "start": 1.88,
+          "end": 1.88,
+          "probability": 0.0
+        },
+        {
+          "word": "3",
+          "start": 1.88,
+          "end": 1.88,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.44,
+      "end": 10.12,
+      "text": "1 là H",
+      "words": [
+        {
+          "word": "1",
+          "start": 3.44,
+          "end": 4.84,
+          "probability": 0.0
+        },
+        {
+          "word": "là",
+          "start": 4.84,
+          "end": 6.0,
+          "probability": 0.02
+        },
+        {
+          "word": "H",
+          "start": 6.0,
+          "end": 10.12,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.12,
+      "end": 15.06,
+      "text": "vào b onze thứ 1",
+      "words": [
+        {
+          "word": "vào",
+          "start": 10.12,
+          "end": 10.26,
+          "probability": 0.01
+        },
+        {
+          "word": "b",
+          "start": 10.26,
+          "end": 10.26,
+          "probability": 0.04
+        },
+        {
+          "word": "onze",
+          "start": 10.26,
+          "end": 10.26,
+          "probability": 0.0
+        },
+        {
+          "word": "thứ",
+          "start": 10.26,
+          "end": 12.2,
+          "probability": 0.0
+        },
+        {
+          "word": "1",
+          "start": 12.2,
+          "end": 15.06,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 19.04,
+      "end": 20.44,
+      "text": "H",
+      "words": [
+        {
+          "word": "H",
+          "start": 19.04,
+          "end": 20.44,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 20.44,
+      "end": 20.5,
+      "text": "Đi",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 20.44,
+          "end": 20.5,
+          "probability": 0.12
+        }
+      ]
+    }
+  ]
+}

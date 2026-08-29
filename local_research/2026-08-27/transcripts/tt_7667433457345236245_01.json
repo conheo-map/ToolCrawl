@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7667433457345236245_01",
+  "duration_seconds": 28.63,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Hôm nay Xen Tr",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 28.6,
+      "text": "Hôm nay Xen Tr",
+      "words": [
+        {
+          "word": "Hôm",
+          "start": 0.02,
+          "end": 0.02,
+          "probability": 0.06
+        },
+        {
+          "word": "nay",
+          "start": 0.02,
+          "end": 6.26,
+          "probability": 0.94
+        },
+        {
+          "word": "Xen",
+          "start": 15.6,
+          "end": 18.24,
+          "probability": 0.04
+        },
+        {
+          "word": "Tr",
+          "start": 18.24,
+          "end": 28.6,
+          "probability": 0.01
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "item_id": "tt_7646752255919574292_37",
+  "duration_seconds": 19.5,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 7,
+  "text": "Bây giờ, mình sẽ bây giờ bỏa",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.14,
+      "end": 19.18,
+      "text": "Bây giờ, mình sẽ bây giờ bỏa",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 0.14,
+          "end": 0.66,
+          "probability": 0.14
+        },
+        {
+          "word": "giờ,",
+          "start": 0.66,
+          "end": 0.88,
+          "probability": 0.93
+        },
+        {
+          "word": "mình",
+          "start": 1.24,
+          "end": 5.4,
+          "probability": 0.06
+        },
+        {
+          "word": "sẽ",
+          "start": 5.4,
+          "end": 9.56,
+          "probability": 0.3
+        },
+        {
+          "word": "bây",
+          "start": 9.56,
+          "end": 9.66,
+          "probability": 0.04
+        },
+        {
+          "word": "giờ",
+          "start": 9.66,
+          "end": 14.64,
+          "probability": 0.94
+        },
+        {
+          "word": "bỏa",
+          "start": 14.64,
+          "end": 19.18,
+          "probability": 0.08
+        }
+      ]
+    }
+  ]
+}

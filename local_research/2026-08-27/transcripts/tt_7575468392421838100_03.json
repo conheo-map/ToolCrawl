@@ -1,0 +1,728 @@
+{
+  "item_id": "tt_7575468392421838100_03",
+  "duration_seconds": 28.42,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 105,
+  "text": "Chào kể hạm thầy của mình, như ra. Mằng người ta mua người ta cũng muốn bảo lạm từng lại được ráo. Nó là những ngày thứ như cầu rất là giả của người mua, mong trở về sự miếng bạnh của nó thì chưa. Còn về phía người bán, thì kể hàng hỏa sẽ rất ra. Pỏ cũng muốn tạnh tranh với người dịch tại hàng hỏa của người ta như không ngàn. Nếu thỏa cũng muốn là cái sự miếng bạnh của thì chưa ở đây là, hạm thầy đã tư của tôi, được ra, tôi đạm được. Thôi còn dư, tôi bán.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.8,
+      "text": "Chào kể hạm thầy của mình, như ra.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.22
+        },
+        {
+          "word": "kể",
+          "start": 0.54,
+          "end": 0.96,
+          "probability": 0.35
+        },
+        {
+          "word": "hạm",
+          "start": 0.96,
+          "end": 1.28,
+          "probability": 0.57
+        },
+        {
+          "word": "thầy",
+          "start": 1.28,
+          "end": 1.48,
+          "probability": 0.48
+        },
+        {
+          "word": "của",
+          "start": 1.48,
+          "end": 1.68,
+          "probability": 0.24
+        },
+        {
+          "word": "mình,",
+          "start": 1.68,
+          "end": 1.94,
+          "probability": 1.0
+        },
+        {
+          "word": "như",
+          "start": 2.22,
+          "end": 2.28,
+          "probability": 0.2
+        },
+        {
+          "word": "ra.",
+          "start": 2.28,
+          "end": 2.8,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.1,
+      "end": 5.6,
+      "text": "Mằng người ta mua người ta cũng muốn bảo lạm từng lại được ráo.",
+      "words": [
+        {
+          "word": "Mằng",
+          "start": 3.1,
+          "end": 3.2,
+          "probability": 0.42
+        },
+        {
+          "word": "người",
+          "start": 3.2,
+          "end": 3.42,
+          "probability": 0.29
+        },
+        {
+          "word": "ta",
+          "start": 3.42,
+          "end": 3.44,
+          "probability": 0.95
+        },
+        {
+          "word": "mua",
+          "start": 3.44,
+          "end": 3.64,
+          "probability": 0.72
+        },
+        {
+          "word": "người",
+          "start": 3.64,
+          "end": 3.86,
+          "probability": 0.68
+        },
+        {
+          "word": "ta",
+          "start": 3.86,
+          "end": 3.88,
+          "probability": 0.99
+        },
+        {
+          "word": "cũng",
+          "start": 3.88,
+          "end": 4.04,
+          "probability": 0.67
+        },
+        {
+          "word": "muốn",
+          "start": 4.04,
+          "end": 4.2,
+          "probability": 0.82
+        },
+        {
+          "word": "bảo",
+          "start": 4.2,
+          "end": 4.46,
+          "probability": 0.19
+        },
+        {
+          "word": "lạm",
+          "start": 4.46,
+          "end": 4.76,
+          "probability": 0.32
+        },
+        {
+          "word": "từng",
+          "start": 4.76,
+          "end": 4.98,
+          "probability": 0.31
+        },
+        {
+          "word": "lại",
+          "start": 4.98,
+          "end": 5.1,
+          "probability": 0.31
+        },
+        {
+          "word": "được",
+          "start": 5.1,
+          "end": 5.3,
+          "probability": 0.91
+        },
+        {
+          "word": "ráo.",
+          "start": 5.3,
+          "end": 5.6,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.28,
+      "end": 9.42,
+      "text": "Nó là những ngày thứ như cầu rất là giả của người mua,",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 6.28,
+          "end": 6.58,
+          "probability": 0.56
+        },
+        {
+          "word": "là",
+          "start": 6.58,
+          "end": 6.78,
+          "probability": 0.77
+        },
+        {
+          "word": "những",
+          "start": 6.78,
+          "end": 7.0,
+          "probability": 0.66
+        },
+        {
+          "word": "ngày",
+          "start": 7.0,
+          "end": 7.12,
+          "probability": 0.39
+        },
+        {
+          "word": "thứ",
+          "start": 7.12,
+          "end": 7.26,
+          "probability": 0.81
+        },
+        {
+          "word": "như",
+          "start": 7.26,
+          "end": 7.46,
+          "probability": 0.31
+        },
+        {
+          "word": "cầu",
+          "start": 7.46,
+          "end": 7.74,
+          "probability": 0.71
+        },
+        {
+          "word": "rất",
+          "start": 7.74,
+          "end": 8.28,
+          "probability": 0.43
+        },
+        {
+          "word": "là",
+          "start": 8.28,
+          "end": 8.44,
+          "probability": 0.95
+        },
+        {
+          "word": "giả",
+          "start": 8.44,
+          "end": 8.82,
+          "probability": 0.28
+        },
+        {
+          "word": "của",
+          "start": 8.82,
+          "end": 8.96,
+          "probability": 0.53
+        },
+        {
+          "word": "người",
+          "start": 8.96,
+          "end": 9.16,
+          "probability": 0.45
+        },
+        {
+          "word": "mua,",
+          "start": 9.16,
+          "end": 9.42,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.62,
+      "end": 12.02,
+      "text": "mong trở về sự miếng bạnh của nó thì chưa.",
+      "words": [
+        {
+          "word": "mong",
+          "start": 9.62,
+          "end": 9.78,
+          "probability": 0.65
+        },
+        {
+          "word": "trở",
+          "start": 9.78,
+          "end": 10.0,
+          "probability": 0.72
+        },
+        {
+          "word": "về",
+          "start": 10.0,
+          "end": 10.18,
+          "probability": 0.65
+        },
+        {
+          "word": "sự",
+          "start": 10.18,
+          "end": 10.34,
+          "probability": 0.84
+        },
+        {
+          "word": "miếng",
+          "start": 10.34,
+          "end": 10.56,
+          "probability": 0.53
+        },
+        {
+          "word": "bạnh",
+          "start": 10.56,
+          "end": 10.8,
+          "probability": 0.42
+        },
+        {
+          "word": "của",
+          "start": 10.8,
+          "end": 11.36,
+          "probability": 0.96
+        },
+        {
+          "word": "nó",
+          "start": 11.36,
+          "end": 11.66,
+          "probability": 0.08
+        },
+        {
+          "word": "thì",
+          "start": 11.66,
+          "end": 11.74,
+          "probability": 0.27
+        },
+        {
+          "word": "chưa.",
+          "start": 11.74,
+          "end": 12.02,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.7,
+      "end": 14.48,
+      "text": "Còn về phía người bán,",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 12.7,
+          "end": 12.92,
+          "probability": 0.66
+        },
+        {
+          "word": "về",
+          "start": 12.92,
+          "end": 13.1,
+          "probability": 0.9
+        },
+        {
+          "word": "phía",
+          "start": 13.1,
+          "end": 13.44,
+          "probability": 0.82
+        },
+        {
+          "word": "người",
+          "start": 13.44,
+          "end": 13.68,
+          "probability": 0.85
+        },
+        {
+          "word": "bán,",
+          "start": 13.68,
+          "end": 14.48,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.84,
+      "end": 16.56,
+      "text": "thì kể hàng hỏa sẽ rất ra.",
+      "words": [
+        {
+          "word": "thì",
+          "start": 14.84,
+          "end": 14.9,
+          "probability": 0.15
+        },
+        {
+          "word": "kể",
+          "start": 14.9,
+          "end": 15.1,
+          "probability": 0.55
+        },
+        {
+          "word": "hàng",
+          "start": 15.1,
+          "end": 15.28,
+          "probability": 0.58
+        },
+        {
+          "word": "hỏa",
+          "start": 15.28,
+          "end": 15.5,
+          "probability": 0.53
+        },
+        {
+          "word": "sẽ",
+          "start": 15.5,
+          "end": 15.7,
+          "probability": 0.24
+        },
+        {
+          "word": "rất",
+          "start": 15.7,
+          "end": 15.86,
+          "probability": 0.52
+        },
+        {
+          "word": "ra.",
+          "start": 15.86,
+          "end": 16.56,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 17.08,
+      "end": 20.14,
+      "text": "Pỏ cũng muốn tạnh tranh với người dịch tại hàng hỏa của người ta như không ngàn.",
+      "words": [
+        {
+          "word": "Pỏ",
+          "start": 17.08,
+          "end": 17.08,
+          "probability": 0.14
+        },
+        {
+          "word": "cũng",
+          "start": 17.08,
+          "end": 17.24,
+          "probability": 0.44
+        },
+        {
+          "word": "muốn",
+          "start": 17.24,
+          "end": 17.44,
+          "probability": 0.94
+        },
+        {
+          "word": "tạnh",
+          "start": 17.44,
+          "end": 17.62,
+          "probability": 0.42
+        },
+        {
+          "word": "tranh",
+          "start": 17.62,
+          "end": 17.9,
+          "probability": 0.86
+        },
+        {
+          "word": "với",
+          "start": 17.9,
+          "end": 18.18,
+          "probability": 0.32
+        },
+        {
+          "word": "người",
+          "start": 18.18,
+          "end": 18.44,
+          "probability": 0.45
+        },
+        {
+          "word": "dịch",
+          "start": 18.44,
+          "end": 18.44,
+          "probability": 0.13
+        },
+        {
+          "word": "tại",
+          "start": 18.44,
+          "end": 18.58,
+          "probability": 0.21
+        },
+        {
+          "word": "hàng",
+          "start": 18.58,
+          "end": 18.8,
+          "probability": 0.77
+        },
+        {
+          "word": "hỏa",
+          "start": 18.8,
+          "end": 19.06,
+          "probability": 0.85
+        },
+        {
+          "word": "của",
+          "start": 19.06,
+          "end": 19.26,
+          "probability": 0.93
+        },
+        {
+          "word": "người",
+          "start": 19.26,
+          "end": 19.34,
+          "probability": 0.78
+        },
+        {
+          "word": "ta",
+          "start": 19.34,
+          "end": 19.42,
+          "probability": 0.3
+        },
+        {
+          "word": "như",
+          "start": 19.42,
+          "end": 19.62,
+          "probability": 0.13
+        },
+        {
+          "word": "không",
+          "start": 19.62,
+          "end": 19.84,
+          "probability": 0.57
+        },
+        {
+          "word": "ngàn.",
+          "start": 19.84,
+          "end": 20.14,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 20.9,
+      "end": 23.8,
+      "text": "Nếu thỏa cũng muốn là cái sự miếng bạnh của thì chưa ở đây là,",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 20.9,
+          "end": 21.0,
+          "probability": 0.69
+        },
+        {
+          "word": "thỏa",
+          "start": 21.0,
+          "end": 21.16,
+          "probability": 0.45
+        },
+        {
+          "word": "cũng",
+          "start": 21.16,
+          "end": 21.34,
+          "probability": 0.99
+        },
+        {
+          "word": "muốn",
+          "start": 21.34,
+          "end": 21.56,
+          "probability": 1.0
+        },
+        {
+          "word": "là",
+          "start": 21.56,
+          "end": 21.68,
+          "probability": 0.68
+        },
+        {
+          "word": "cái",
+          "start": 21.68,
+          "end": 21.76,
+          "probability": 0.31
+        },
+        {
+          "word": "sự",
+          "start": 21.76,
+          "end": 21.9,
+          "probability": 0.97
+        },
+        {
+          "word": "miếng",
+          "start": 21.9,
+          "end": 22.14,
+          "probability": 0.97
+        },
+        {
+          "word": "bạnh",
+          "start": 22.14,
+          "end": 22.26,
+          "probability": 0.8
+        },
+        {
+          "word": "của",
+          "start": 22.26,
+          "end": 22.38,
+          "probability": 1.0
+        },
+        {
+          "word": "thì",
+          "start": 22.38,
+          "end": 22.52,
+          "probability": 0.27
+        },
+        {
+          "word": "chưa",
+          "start": 22.52,
+          "end": 22.74,
+          "probability": 0.79
+        },
+        {
+          "word": "ở",
+          "start": 22.74,
+          "end": 22.94,
+          "probability": 0.26
+        },
+        {
+          "word": "đây",
+          "start": 22.94,
+          "end": 23.16,
+          "probability": 0.96
+        },
+        {
+          "word": "là,",
+          "start": 23.16,
+          "end": 23.8,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 23.8,
+      "end": 25.74,
+      "text": "hạm thầy đã tư của tôi, được ra,",
+      "words": [
+        {
+          "word": "hạm",
+          "start": 23.8,
+          "end": 23.96,
+          "probability": 0.49
+        },
+        {
+          "word": "thầy",
+          "start": 23.96,
+          "end": 24.3,
+          "probability": 0.51
+        },
+        {
+          "word": "đã",
+          "start": 24.3,
+          "end": 24.52,
+          "probability": 0.36
+        },
+        {
+          "word": "tư",
+          "start": 24.52,
+          "end": 24.66,
+          "probability": 0.29
+        },
+        {
+          "word": "của",
+          "start": 24.66,
+          "end": 24.82,
+          "probability": 0.9
+        },
+        {
+          "word": "tôi,",
+          "start": 24.82,
+          "end": 25.04,
+          "probability": 0.93
+        },
+        {
+          "word": "được",
+          "start": 25.06,
+          "end": 25.2,
+          "probability": 0.2
+        },
+        {
+          "word": "ra,",
+          "start": 25.2,
+          "end": 25.74,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 26.02,
+      "end": 26.7,
+      "text": "tôi đạm được.",
+      "words": [
+        {
+          "word": "tôi",
+          "start": 26.02,
+          "end": 26.06,
+          "probability": 0.3
+        },
+        {
+          "word": "đạm",
+          "start": 26.06,
+          "end": 26.26,
+          "probability": 0.58
+        },
+        {
+          "word": "được.",
+          "start": 26.26,
+          "end": 26.7,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 26.84,
+      "end": 28.12,
+      "text": "Thôi còn dư, tôi bán.",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 26.84,
+          "end": 27.04,
+          "probability": 0.57
+        },
+        {
+          "word": "còn",
+          "start": 27.04,
+          "end": 27.46,
+          "probability": 0.35
+        },
+        {
+          "word": "dư,",
+          "start": 27.46,
+          "end": 27.66,
+          "probability": 0.49
+        },
+        {
+          "word": "tôi",
+          "start": 27.8,
+          "end": 27.86,
+          "probability": 0.74
+        },
+        {
+          "word": "bán.",
+          "start": 27.86,
+          "end": 28.12,
+          "probability": 0.88
+        }
+      ]
+    }
+  ]
+}

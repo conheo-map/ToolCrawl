@@ -1,0 +1,526 @@
+{
+  "item_id": "tt_7645688453614783762_12",
+  "duration_seconds": 27.72,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 66,
+  "text": "Hồi hồi hả nè mà... hồi hả nè mà hả nè? Hả nè hả nè hả hả nè? Hả nè? Hả nè? Hả nè? Nó nè? Hả nè? Hả nè? Hả nè? Hả nè? Nó nè? Vì chưa? Lượng thiết hàng tin định sự kiện bất phía sổ sinh người một đông hơn, giăm sẽ có tin trần qua thái và đàn bảo phục cụ nè?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 2.71,
+      "text": "Hồi hồi hả nè mà...",
+      "words": [
+        {
+          "word": "Hồi",
+          "start": 0.05,
+          "end": 0.63,
+          "probability": 0.07
+        },
+        {
+          "word": "hồi",
+          "start": 0.63,
+          "end": 1.07,
+          "probability": 0.25
+        },
+        {
+          "word": "hả",
+          "start": 1.07,
+          "end": 1.15,
+          "probability": 0.3
+        },
+        {
+          "word": "nè",
+          "start": 1.15,
+          "end": 1.49,
+          "probability": 0.02
+        },
+        {
+          "word": "mà...",
+          "start": 1.49,
+          "end": 2.71,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.71,
+      "end": 3.55,
+      "text": "hồi hả nè mà hả nè?",
+      "words": [
+        {
+          "word": "hồi",
+          "start": 2.71,
+          "end": 3.17,
+          "probability": 0.22
+        },
+        {
+          "word": "hả",
+          "start": 3.17,
+          "end": 3.17,
+          "probability": 0.57
+        },
+        {
+          "word": "nè",
+          "start": 3.17,
+          "end": 3.17,
+          "probability": 0.51
+        },
+        {
+          "word": "mà",
+          "start": 3.17,
+          "end": 3.55,
+          "probability": 0.22
+        },
+        {
+          "word": "hả",
+          "start": 3.55,
+          "end": 3.55,
+          "probability": 0.38
+        },
+        {
+          "word": "nè?",
+          "start": 3.55,
+          "end": 3.55,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.65,
+      "end": 5.55,
+      "text": "Hả nè hả nè hả hả nè?",
+      "words": [
+        {
+          "word": "Hả",
+          "start": 3.65,
+          "end": 3.83,
+          "probability": 0.41
+        },
+        {
+          "word": "nè",
+          "start": 3.83,
+          "end": 3.87,
+          "probability": 0.87
+        },
+        {
+          "word": "hả",
+          "start": 3.87,
+          "end": 3.97,
+          "probability": 0.44
+        },
+        {
+          "word": "nè",
+          "start": 3.97,
+          "end": 4.07,
+          "probability": 0.83
+        },
+        {
+          "word": "hả",
+          "start": 4.07,
+          "end": 5.07,
+          "probability": 0.46
+        },
+        {
+          "word": "hả",
+          "start": 5.07,
+          "end": 5.13,
+          "probability": 0.5
+        },
+        {
+          "word": "nè?",
+          "start": 5.13,
+          "end": 5.55,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.13,
+      "end": 6.49,
+      "text": "Hả nè?",
+      "words": [
+        {
+          "word": "Hả",
+          "start": 6.13,
+          "end": 6.33,
+          "probability": 0.64
+        },
+        {
+          "word": "nè?",
+          "start": 6.33,
+          "end": 6.49,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.97,
+      "end": 8.83,
+      "text": "Hả nè?",
+      "words": [
+        {
+          "word": "Hả",
+          "start": 6.97,
+          "end": 7.33,
+          "probability": 0.74
+        },
+        {
+          "word": "nè?",
+          "start": 8.83,
+          "end": 8.83,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.83,
+      "end": 9.01,
+      "text": "Hả nè?",
+      "words": [
+        {
+          "word": "Hả",
+          "start": 8.83,
+          "end": 8.83,
+          "probability": 0.75
+        },
+        {
+          "word": "nè?",
+          "start": 8.83,
+          "end": 9.01,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 9.01,
+      "end": 9.37,
+      "text": "Nó nè?",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 9.01,
+          "end": 9.01,
+          "probability": 0.36
+        },
+        {
+          "word": "nè?",
+          "start": 9.01,
+          "end": 9.37,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 9.67,
+      "end": 9.89,
+      "text": "Hả nè?",
+      "words": [
+        {
+          "word": "Hả",
+          "start": 9.67,
+          "end": 9.67,
+          "probability": 0.75
+        },
+        {
+          "word": "nè?",
+          "start": 9.67,
+          "end": 9.89,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 10.53,
+      "end": 10.85,
+      "text": "Hả nè?",
+      "words": [
+        {
+          "word": "Hả",
+          "start": 10.53,
+          "end": 10.85,
+          "probability": 0.76
+        },
+        {
+          "word": "nè?",
+          "start": 10.85,
+          "end": 10.85,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 10.85,
+      "end": 10.91,
+      "text": "Hả nè?",
+      "words": [
+        {
+          "word": "Hả",
+          "start": 10.85,
+          "end": 10.91,
+          "probability": 0.76
+        },
+        {
+          "word": "nè?",
+          "start": 10.91,
+          "end": 10.91,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 10.91,
+      "end": 11.17,
+      "text": "Hả nè?",
+      "words": [
+        {
+          "word": "Hả",
+          "start": 10.91,
+          "end": 11.01,
+          "probability": 0.81
+        },
+        {
+          "word": "nè?",
+          "start": 11.01,
+          "end": 11.17,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 11.69,
+      "end": 11.93,
+      "text": "Nó nè?",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 11.69,
+          "end": 11.93,
+          "probability": 0.51
+        },
+        {
+          "word": "nè?",
+          "start": 11.93,
+          "end": 11.93,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 16.71,
+      "end": 17.43,
+      "text": "Vì chưa?",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 16.71,
+          "end": 17.07,
+          "probability": 0.12
+        },
+        {
+          "word": "chưa?",
+          "start": 17.07,
+          "end": 17.43,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 22.21,
+      "end": 24.95,
+      "text": "Lượng thiết hàng tin định sự kiện bất phía sổ sinh người một đông hơn,",
+      "words": [
+        {
+          "word": "Lượng",
+          "start": 22.21,
+          "end": 22.57,
+          "probability": 0.36
+        },
+        {
+          "word": "thiết",
+          "start": 22.57,
+          "end": 22.75,
+          "probability": 0.24
+        },
+        {
+          "word": "hàng",
+          "start": 22.75,
+          "end": 22.87,
+          "probability": 0.27
+        },
+        {
+          "word": "tin",
+          "start": 22.87,
+          "end": 23.09,
+          "probability": 0.3
+        },
+        {
+          "word": "định",
+          "start": 23.09,
+          "end": 23.19,
+          "probability": 0.37
+        },
+        {
+          "word": "sự",
+          "start": 23.19,
+          "end": 23.35,
+          "probability": 0.71
+        },
+        {
+          "word": "kiện",
+          "start": 23.35,
+          "end": 23.47,
+          "probability": 0.67
+        },
+        {
+          "word": "bất",
+          "start": 23.47,
+          "end": 23.61,
+          "probability": 0.62
+        },
+        {
+          "word": "phía",
+          "start": 23.61,
+          "end": 23.81,
+          "probability": 0.54
+        },
+        {
+          "word": "sổ",
+          "start": 23.81,
+          "end": 23.99,
+          "probability": 0.14
+        },
+        {
+          "word": "sinh",
+          "start": 23.99,
+          "end": 24.11,
+          "probability": 0.59
+        },
+        {
+          "word": "người",
+          "start": 24.11,
+          "end": 24.29,
+          "probability": 0.16
+        },
+        {
+          "word": "một",
+          "start": 24.29,
+          "end": 24.45,
+          "probability": 0.23
+        },
+        {
+          "word": "đông",
+          "start": 24.45,
+          "end": 24.59,
+          "probability": 0.79
+        },
+        {
+          "word": "hơn,",
+          "start": 24.59,
+          "end": 24.95,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 25.23,
+      "end": 27.43,
+      "text": "giăm sẽ có tin trần qua thái và đàn bảo phục cụ nè?",
+      "words": [
+        {
+          "word": "giăm",
+          "start": 25.23,
+          "end": 25.39,
+          "probability": 0.15
+        },
+        {
+          "word": "sẽ",
+          "start": 25.39,
+          "end": 25.55,
+          "probability": 0.46
+        },
+        {
+          "word": "có",
+          "start": 25.55,
+          "end": 25.67,
+          "probability": 0.31
+        },
+        {
+          "word": "tin",
+          "start": 25.67,
+          "end": 25.85,
+          "probability": 0.34
+        },
+        {
+          "word": "trần",
+          "start": 25.85,
+          "end": 26.01,
+          "probability": 0.36
+        },
+        {
+          "word": "qua",
+          "start": 26.01,
+          "end": 26.21,
+          "probability": 0.2
+        },
+        {
+          "word": "thái",
+          "start": 26.21,
+          "end": 26.41,
+          "probability": 0.18
+        },
+        {
+          "word": "và",
+          "start": 26.41,
+          "end": 26.55,
+          "probability": 0.75
+        },
+        {
+          "word": "đàn",
+          "start": 26.55,
+          "end": 26.67,
+          "probability": 0.55
+        },
+        {
+          "word": "bảo",
+          "start": 26.67,
+          "end": 26.85,
+          "probability": 0.75
+        },
+        {
+          "word": "phục",
+          "start": 26.85,
+          "end": 27.07,
+          "probability": 0.59
+        },
+        {
+          "word": "cụ",
+          "start": 27.07,
+          "end": 27.23,
+          "probability": 0.47
+        },
+        {
+          "word": "nè?",
+          "start": 27.23,
+          "end": 27.43,
+          "probability": 0.11
+        }
+      ]
+    }
+  ]
+}

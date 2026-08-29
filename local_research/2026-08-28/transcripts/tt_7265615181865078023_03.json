@@ -1,0 +1,392 @@
+{
+  "item_id": "tt_7265615181865078023_03",
+  "duration_seconds": 26.54,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 57,
+  "text": "Há sĩnh em, anh tạy cho nó sây đêm nguyện hình chất cuộc trên tay, anh hoa cây thông dân chọn em tổn thức. Mại mại em ơi, phương trình cuộc đời dù chưa đại được. Nhưng anh tích rằng nhẹp dù nhất này em. Anh đương nhiên không phải đúng vậy chưa được. Uống nhiều mà.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.14,
+      "text": "Há sĩnh em, anh tạy cho nó sây đêm nguyện hình chất cuộc trên tay, anh hoa cây thông dân chọn em tổn thức.",
+      "words": [
+        {
+          "word": "Há",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.17
+        },
+        {
+          "word": "sĩnh",
+          "start": 0.4,
+          "end": 0.56,
+          "probability": 0.33
+        },
+        {
+          "word": "em,",
+          "start": 0.56,
+          "end": 0.78,
+          "probability": 0.56
+        },
+        {
+          "word": "anh",
+          "start": 1.02,
+          "end": 1.02,
+          "probability": 0.17
+        },
+        {
+          "word": "tạy",
+          "start": 1.02,
+          "end": 1.26,
+          "probability": 0.24
+        },
+        {
+          "word": "cho",
+          "start": 1.26,
+          "end": 1.46,
+          "probability": 0.56
+        },
+        {
+          "word": "nó",
+          "start": 1.46,
+          "end": 1.56,
+          "probability": 0.49
+        },
+        {
+          "word": "sây",
+          "start": 1.56,
+          "end": 1.9,
+          "probability": 0.26
+        },
+        {
+          "word": "đêm",
+          "start": 1.9,
+          "end": 2.38,
+          "probability": 0.56
+        },
+        {
+          "word": "nguyện",
+          "start": 2.38,
+          "end": 2.72,
+          "probability": 0.35
+        },
+        {
+          "word": "hình",
+          "start": 2.72,
+          "end": 2.98,
+          "probability": 0.53
+        },
+        {
+          "word": "chất",
+          "start": 2.98,
+          "end": 3.18,
+          "probability": 0.28
+        },
+        {
+          "word": "cuộc",
+          "start": 3.18,
+          "end": 3.4,
+          "probability": 0.53
+        },
+        {
+          "word": "trên",
+          "start": 3.4,
+          "end": 3.62,
+          "probability": 0.53
+        },
+        {
+          "word": "tay,",
+          "start": 3.62,
+          "end": 3.96,
+          "probability": 0.85
+        },
+        {
+          "word": "anh",
+          "start": 4.26,
+          "end": 4.26,
+          "probability": 0.78
+        },
+        {
+          "word": "hoa",
+          "start": 4.26,
+          "end": 4.38,
+          "probability": 0.67
+        },
+        {
+          "word": "cây",
+          "start": 4.38,
+          "end": 4.56,
+          "probability": 0.56
+        },
+        {
+          "word": "thông",
+          "start": 4.56,
+          "end": 4.82,
+          "probability": 0.82
+        },
+        {
+          "word": "dân",
+          "start": 4.82,
+          "end": 5.08,
+          "probability": 0.41
+        },
+        {
+          "word": "chọn",
+          "start": 5.08,
+          "end": 5.24,
+          "probability": 0.53
+        },
+        {
+          "word": "em",
+          "start": 5.24,
+          "end": 5.48,
+          "probability": 0.99
+        },
+        {
+          "word": "tổn",
+          "start": 5.48,
+          "end": 6.14,
+          "probability": 0.42
+        },
+        {
+          "word": "thức.",
+          "start": 6.14,
+          "end": 6.14,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.52,
+      "end": 8.96,
+      "text": "Mại mại em ơi, phương trình cuộc đời dù chưa đại được.",
+      "words": [
+        {
+          "word": "Mại",
+          "start": 6.52,
+          "end": 6.64,
+          "probability": 0.63
+        },
+        {
+          "word": "mại",
+          "start": 6.64,
+          "end": 6.92,
+          "probability": 0.45
+        },
+        {
+          "word": "em",
+          "start": 6.92,
+          "end": 7.1,
+          "probability": 0.44
+        },
+        {
+          "word": "ơi,",
+          "start": 7.1,
+          "end": 7.28,
+          "probability": 0.19
+        },
+        {
+          "word": "phương",
+          "start": 7.28,
+          "end": 7.48,
+          "probability": 0.64
+        },
+        {
+          "word": "trình",
+          "start": 7.48,
+          "end": 7.62,
+          "probability": 0.59
+        },
+        {
+          "word": "cuộc",
+          "start": 7.62,
+          "end": 7.8,
+          "probability": 0.74
+        },
+        {
+          "word": "đời",
+          "start": 7.8,
+          "end": 8.0,
+          "probability": 0.87
+        },
+        {
+          "word": "dù",
+          "start": 8.0,
+          "end": 8.22,
+          "probability": 0.54
+        },
+        {
+          "word": "chưa",
+          "start": 8.22,
+          "end": 8.46,
+          "probability": 0.71
+        },
+        {
+          "word": "đại",
+          "start": 8.46,
+          "end": 8.64,
+          "probability": 0.28
+        },
+        {
+          "word": "được.",
+          "start": 8.64,
+          "end": 8.96,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.36,
+      "end": 11.5,
+      "text": "Nhưng anh tích rằng nhẹp dù nhất này em.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 9.36,
+          "end": 9.36,
+          "probability": 0.32
+        },
+        {
+          "word": "anh",
+          "start": 9.36,
+          "end": 9.48,
+          "probability": 0.83
+        },
+        {
+          "word": "tích",
+          "start": 9.48,
+          "end": 9.66,
+          "probability": 0.39
+        },
+        {
+          "word": "rằng",
+          "start": 9.66,
+          "end": 10.02,
+          "probability": 0.72
+        },
+        {
+          "word": "nhẹp",
+          "start": 10.02,
+          "end": 10.42,
+          "probability": 0.44
+        },
+        {
+          "word": "dù",
+          "start": 10.42,
+          "end": 10.5,
+          "probability": 0.5
+        },
+        {
+          "word": "nhất",
+          "start": 10.5,
+          "end": 10.72,
+          "probability": 0.89
+        },
+        {
+          "word": "này",
+          "start": 10.72,
+          "end": 10.96,
+          "probability": 0.25
+        },
+        {
+          "word": "em.",
+          "start": 10.96,
+          "end": 11.5,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.87,
+      "end": 15.41,
+      "text": "Anh đương nhiên không phải đúng vậy chưa được.",
+      "words": [
+        {
+          "word": "Anh",
+          "start": 13.87,
+          "end": 14.03,
+          "probability": 0.14
+        },
+        {
+          "word": "đương",
+          "start": 14.03,
+          "end": 14.23,
+          "probability": 0.59
+        },
+        {
+          "word": "nhiên",
+          "start": 14.23,
+          "end": 14.35,
+          "probability": 0.68
+        },
+        {
+          "word": "không",
+          "start": 14.35,
+          "end": 14.63,
+          "probability": 0.47
+        },
+        {
+          "word": "phải",
+          "start": 14.63,
+          "end": 14.79,
+          "probability": 0.96
+        },
+        {
+          "word": "đúng",
+          "start": 14.79,
+          "end": 14.93,
+          "probability": 0.55
+        },
+        {
+          "word": "vậy",
+          "start": 14.93,
+          "end": 15.07,
+          "probability": 0.18
+        },
+        {
+          "word": "chưa",
+          "start": 15.07,
+          "end": 15.17,
+          "probability": 0.29
+        },
+        {
+          "word": "được.",
+          "start": 15.17,
+          "end": 15.41,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.65,
+      "end": 16.37,
+      "text": "Uống nhiều mà.",
+      "words": [
+        {
+          "word": "Uống",
+          "start": 15.65,
+          "end": 15.65,
+          "probability": 0.34
+        },
+        {
+          "word": "nhiều",
+          "start": 15.65,
+          "end": 15.83,
+          "probability": 0.71
+        },
+        {
+          "word": "mà.",
+          "start": 15.83,
+          "end": 16.37,
+          "probability": 0.89
+        }
+      ]
+    }
+  ]
+}

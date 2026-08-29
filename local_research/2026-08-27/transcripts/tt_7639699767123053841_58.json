@@ -1,0 +1,894 @@
+{
+  "item_id": "tt_7639699767123053841_58",
+  "duration_seconds": 28.58,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 118,
+  "text": "Mí Li Gam Với tờ nó phải chú đi cho thấy là em em sửi nó phải không quá mùi Mí Li Gam chí lịch như đây là đang tính cho 9000 và em có thể hình dung nha đoàn bún cộn ta đây ra 9000 nhưng chào chương ngang rồi nè bùi tả này là mùi bún Tại có là mùi lịch là có thì có 1 người biệt em mùi biệt em bùi lịch là 1 biệt em mùi lịch là 1 biệt em 1 biệt em 1 biệt em 1 biệt em bệ ra đây chúng ta có lòng 1 biệt em 1 biệt em chú thấy 1 biệt em không chào 1 biệt em",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.1,
+      "text": "Mí Li Gam",
+      "words": [
+        {
+          "word": "Mí",
+          "start": 0.0,
+          "end": 0.56,
+          "probability": 0.23
+        },
+        {
+          "word": "Li",
+          "start": 0.56,
+          "end": 0.78,
+          "probability": 0.18
+        },
+        {
+          "word": "Gam",
+          "start": 0.78,
+          "end": 1.1,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.1,
+      "end": 2.58,
+      "text": "Với tờ nó phải chú đi cho thấy",
+      "words": [
+        {
+          "word": "Với",
+          "start": 1.1,
+          "end": 1.4,
+          "probability": 0.02
+        },
+        {
+          "word": "tờ",
+          "start": 1.4,
+          "end": 1.52,
+          "probability": 0.07
+        },
+        {
+          "word": "nó",
+          "start": 1.52,
+          "end": 1.62,
+          "probability": 0.41
+        },
+        {
+          "word": "phải",
+          "start": 1.62,
+          "end": 1.74,
+          "probability": 0.88
+        },
+        {
+          "word": "chú",
+          "start": 1.74,
+          "end": 1.94,
+          "probability": 0.5
+        },
+        {
+          "word": "đi",
+          "start": 1.94,
+          "end": 2.1,
+          "probability": 0.73
+        },
+        {
+          "word": "cho",
+          "start": 2.1,
+          "end": 2.22,
+          "probability": 0.43
+        },
+        {
+          "word": "thấy",
+          "start": 2.22,
+          "end": 2.58,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.58,
+      "end": 4.54,
+      "text": "là em em sửi nó phải",
+      "words": [
+        {
+          "word": "là",
+          "start": 2.58,
+          "end": 2.76,
+          "probability": 0.02
+        },
+        {
+          "word": "em",
+          "start": 2.76,
+          "end": 3.7,
+          "probability": 0.1
+        },
+        {
+          "word": "em",
+          "start": 3.7,
+          "end": 3.86,
+          "probability": 0.74
+        },
+        {
+          "word": "sửi",
+          "start": 3.86,
+          "end": 4.08,
+          "probability": 0.38
+        },
+        {
+          "word": "nó",
+          "start": 4.08,
+          "end": 4.3,
+          "probability": 0.52
+        },
+        {
+          "word": "phải",
+          "start": 4.3,
+          "end": 4.54,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.02,
+      "end": 5.82,
+      "text": "không quá mùi",
+      "words": [
+        {
+          "word": "không",
+          "start": 5.02,
+          "end": 5.38,
+          "probability": 0.56
+        },
+        {
+          "word": "quá",
+          "start": 5.38,
+          "end": 5.58,
+          "probability": 0.48
+        },
+        {
+          "word": "mùi",
+          "start": 5.58,
+          "end": 5.82,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 5.82,
+      "end": 7.88,
+      "text": "Mí Li Gam chí lịch như đây là đang tính cho 9000",
+      "words": [
+        {
+          "word": "Mí",
+          "start": 5.82,
+          "end": 6.02,
+          "probability": 0.77
+        },
+        {
+          "word": "Li",
+          "start": 6.02,
+          "end": 6.14,
+          "probability": 0.94
+        },
+        {
+          "word": "Gam",
+          "start": 6.14,
+          "end": 6.22,
+          "probability": 1.0
+        },
+        {
+          "word": "chí",
+          "start": 6.22,
+          "end": 6.38,
+          "probability": 0.17
+        },
+        {
+          "word": "lịch",
+          "start": 6.38,
+          "end": 6.54,
+          "probability": 0.41
+        },
+        {
+          "word": "như",
+          "start": 6.54,
+          "end": 6.76,
+          "probability": 0.24
+        },
+        {
+          "word": "đây",
+          "start": 6.76,
+          "end": 6.84,
+          "probability": 0.64
+        },
+        {
+          "word": "là",
+          "start": 6.84,
+          "end": 7.06,
+          "probability": 0.74
+        },
+        {
+          "word": "đang",
+          "start": 7.06,
+          "end": 7.16,
+          "probability": 0.67
+        },
+        {
+          "word": "tính",
+          "start": 7.16,
+          "end": 7.24,
+          "probability": 0.66
+        },
+        {
+          "word": "cho",
+          "start": 7.24,
+          "end": 7.38,
+          "probability": 0.79
+        },
+        {
+          "word": "9000",
+          "start": 7.38,
+          "end": 7.88,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 7.88,
+      "end": 9.66,
+      "text": "và em có thể hình dung nha đoàn bún cộn",
+      "words": [
+        {
+          "word": "và",
+          "start": 7.88,
+          "end": 8.08,
+          "probability": 0.49
+        },
+        {
+          "word": "em",
+          "start": 8.08,
+          "end": 8.28,
+          "probability": 0.24
+        },
+        {
+          "word": "có",
+          "start": 8.28,
+          "end": 8.38,
+          "probability": 0.95
+        },
+        {
+          "word": "thể",
+          "start": 8.38,
+          "end": 8.52,
+          "probability": 0.52
+        },
+        {
+          "word": "hình",
+          "start": 8.52,
+          "end": 8.7,
+          "probability": 0.59
+        },
+        {
+          "word": "dung",
+          "start": 8.7,
+          "end": 8.78,
+          "probability": 0.76
+        },
+        {
+          "word": "nha",
+          "start": 8.78,
+          "end": 9.06,
+          "probability": 0.16
+        },
+        {
+          "word": "đoàn",
+          "start": 9.06,
+          "end": 9.18,
+          "probability": 0.14
+        },
+        {
+          "word": "bún",
+          "start": 9.18,
+          "end": 9.36,
+          "probability": 0.58
+        },
+        {
+          "word": "cộn",
+          "start": 9.36,
+          "end": 9.66,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 9.66,
+      "end": 10.58,
+      "text": "ta đây ra 9000",
+      "words": [
+        {
+          "word": "ta",
+          "start": 9.66,
+          "end": 9.82,
+          "probability": 0.27
+        },
+        {
+          "word": "đây",
+          "start": 9.82,
+          "end": 9.98,
+          "probability": 0.13
+        },
+        {
+          "word": "ra",
+          "start": 9.98,
+          "end": 10.18,
+          "probability": 0.9
+        },
+        {
+          "word": "9000",
+          "start": 10.18,
+          "end": 10.58,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 10.58,
+      "end": 11.7,
+      "text": "nhưng chào chương ngang rồi nè",
+      "words": [
+        {
+          "word": "nhưng",
+          "start": 10.58,
+          "end": 10.9,
+          "probability": 0.01
+        },
+        {
+          "word": "chào",
+          "start": 10.9,
+          "end": 11.08,
+          "probability": 0.49
+        },
+        {
+          "word": "chương",
+          "start": 11.08,
+          "end": 11.22,
+          "probability": 0.56
+        },
+        {
+          "word": "ngang",
+          "start": 11.22,
+          "end": 11.38,
+          "probability": 0.56
+        },
+        {
+          "word": "rồi",
+          "start": 11.38,
+          "end": 11.56,
+          "probability": 0.43
+        },
+        {
+          "word": "nè",
+          "start": 11.56,
+          "end": 11.7,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 11.7,
+      "end": 13.26,
+      "text": "bùi tả này là mùi bún",
+      "words": [
+        {
+          "word": "bùi",
+          "start": 11.7,
+          "end": 11.98,
+          "probability": 0.48
+        },
+        {
+          "word": "tả",
+          "start": 11.98,
+          "end": 12.12,
+          "probability": 0.59
+        },
+        {
+          "word": "này",
+          "start": 12.12,
+          "end": 12.34,
+          "probability": 0.45
+        },
+        {
+          "word": "là",
+          "start": 12.34,
+          "end": 12.6,
+          "probability": 0.18
+        },
+        {
+          "word": "mùi",
+          "start": 12.6,
+          "end": 12.78,
+          "probability": 0.59
+        },
+        {
+          "word": "bún",
+          "start": 12.78,
+          "end": 13.26,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 13.26,
+      "end": 14.24,
+      "text": "Tại có là",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 13.26,
+          "end": 13.68,
+          "probability": 0.09
+        },
+        {
+          "word": "có",
+          "start": 13.68,
+          "end": 13.86,
+          "probability": 0.17
+        },
+        {
+          "word": "là",
+          "start": 13.86,
+          "end": 14.24,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 14.24,
+      "end": 16.32,
+      "text": "mùi lịch là có thì có 1 người biệt em",
+      "words": [
+        {
+          "word": "mùi",
+          "start": 14.24,
+          "end": 15.02,
+          "probability": 0.29
+        },
+        {
+          "word": "lịch",
+          "start": 15.02,
+          "end": 15.14,
+          "probability": 0.18
+        },
+        {
+          "word": "là",
+          "start": 15.14,
+          "end": 15.38,
+          "probability": 0.05
+        },
+        {
+          "word": "có",
+          "start": 15.38,
+          "end": 15.48,
+          "probability": 0.58
+        },
+        {
+          "word": "thì",
+          "start": 15.48,
+          "end": 15.5,
+          "probability": 0.02
+        },
+        {
+          "word": "có",
+          "start": 15.5,
+          "end": 15.66,
+          "probability": 0.79
+        },
+        {
+          "word": "1",
+          "start": 15.66,
+          "end": 15.7,
+          "probability": 0.12
+        },
+        {
+          "word": "người",
+          "start": 15.7,
+          "end": 15.84,
+          "probability": 0.23
+        },
+        {
+          "word": "biệt",
+          "start": 15.84,
+          "end": 16.1,
+          "probability": 0.12
+        },
+        {
+          "word": "em",
+          "start": 16.1,
+          "end": 16.32,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 16.32,
+      "end": 16.82,
+      "text": "mùi biệt em",
+      "words": [
+        {
+          "word": "mùi",
+          "start": 16.32,
+          "end": 16.52,
+          "probability": 0.39
+        },
+        {
+          "word": "biệt",
+          "start": 16.52,
+          "end": 16.78,
+          "probability": 0.62
+        },
+        {
+          "word": "em",
+          "start": 16.78,
+          "end": 16.82,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 16.82,
+      "end": 17.64,
+      "text": "bùi lịch là 1 biệt em",
+      "words": [
+        {
+          "word": "bùi",
+          "start": 16.82,
+          "end": 17.24,
+          "probability": 0.39
+        },
+        {
+          "word": "lịch",
+          "start": 17.24,
+          "end": 17.42,
+          "probability": 0.74
+        },
+        {
+          "word": "là",
+          "start": 17.42,
+          "end": 17.64,
+          "probability": 0.03
+        },
+        {
+          "word": "1",
+          "start": 17.64,
+          "end": 17.64,
+          "probability": 0.2
+        },
+        {
+          "word": "biệt",
+          "start": 17.64,
+          "end": 17.64,
+          "probability": 0.69
+        },
+        {
+          "word": "em",
+          "start": 17.64,
+          "end": 17.64,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 17.64,
+      "end": 18.68,
+      "text": "mùi lịch là 1 biệt em",
+      "words": [
+        {
+          "word": "mùi",
+          "start": 17.64,
+          "end": 17.64,
+          "probability": 0.68
+        },
+        {
+          "word": "lịch",
+          "start": 17.64,
+          "end": 17.64,
+          "probability": 0.83
+        },
+        {
+          "word": "là",
+          "start": 17.64,
+          "end": 17.64,
+          "probability": 0.39
+        },
+        {
+          "word": "1",
+          "start": 17.64,
+          "end": 17.86,
+          "probability": 0.41
+        },
+        {
+          "word": "biệt",
+          "start": 17.86,
+          "end": 18.1,
+          "probability": 0.98
+        },
+        {
+          "word": "em",
+          "start": 18.1,
+          "end": 18.68,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 18.68,
+      "end": 19.22,
+      "text": "1 biệt em",
+      "words": [
+        {
+          "word": "1",
+          "start": 18.68,
+          "end": 18.98,
+          "probability": 0.0
+        },
+        {
+          "word": "biệt",
+          "start": 18.98,
+          "end": 19.22,
+          "probability": 0.99
+        },
+        {
+          "word": "em",
+          "start": 19.22,
+          "end": 19.22,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 19.22,
+      "end": 19.8,
+      "text": "1 biệt em",
+      "words": [
+        {
+          "word": "1",
+          "start": 19.22,
+          "end": 19.52,
+          "probability": 0.08
+        },
+        {
+          "word": "biệt",
+          "start": 19.52,
+          "end": 19.52,
+          "probability": 0.97
+        },
+        {
+          "word": "em",
+          "start": 19.52,
+          "end": 19.8,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 19.8,
+      "end": 20.36,
+      "text": "1 biệt em",
+      "words": [
+        {
+          "word": "1",
+          "start": 19.8,
+          "end": 20.04,
+          "probability": 0.22
+        },
+        {
+          "word": "biệt",
+          "start": 20.04,
+          "end": 20.36,
+          "probability": 0.97
+        },
+        {
+          "word": "em",
+          "start": 20.36,
+          "end": 20.36,
+          "probability": 0.79
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 20.36,
+      "end": 23.88,
+      "text": "bệ ra đây chúng ta có lòng 1 biệt em",
+      "words": [
+        {
+          "word": "bệ",
+          "start": 20.36,
+          "end": 20.86,
+          "probability": 0.01
+        },
+        {
+          "word": "ra",
+          "start": 20.86,
+          "end": 22.08,
+          "probability": 0.01
+        },
+        {
+          "word": "đây",
+          "start": 22.08,
+          "end": 22.88,
+          "probability": 0.02
+        },
+        {
+          "word": "chúng",
+          "start": 22.88,
+          "end": 23.1,
+          "probability": 0.32
+        },
+        {
+          "word": "ta",
+          "start": 23.1,
+          "end": 23.22,
+          "probability": 1.0
+        },
+        {
+          "word": "có",
+          "start": 23.22,
+          "end": 23.36,
+          "probability": 0.93
+        },
+        {
+          "word": "lòng",
+          "start": 23.36,
+          "end": 23.5,
+          "probability": 0.42
+        },
+        {
+          "word": "1",
+          "start": 23.5,
+          "end": 23.64,
+          "probability": 0.48
+        },
+        {
+          "word": "biệt",
+          "start": 23.64,
+          "end": 23.82,
+          "probability": 0.94
+        },
+        {
+          "word": "em",
+          "start": 23.82,
+          "end": 23.88,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 23.88,
+      "end": 24.76,
+      "text": "1 biệt em",
+      "words": [
+        {
+          "word": "1",
+          "start": 23.88,
+          "end": 24.24,
+          "probability": 0.04
+        },
+        {
+          "word": "biệt",
+          "start": 24.24,
+          "end": 24.48,
+          "probability": 0.99
+        },
+        {
+          "word": "em",
+          "start": 24.48,
+          "end": 24.76,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 24.76,
+      "end": 25.92,
+      "text": "chú thấy 1 biệt em",
+      "words": [
+        {
+          "word": "chú",
+          "start": 24.76,
+          "end": 25.08,
+          "probability": 0.05
+        },
+        {
+          "word": "thấy",
+          "start": 25.08,
+          "end": 25.3,
+          "probability": 0.11
+        },
+        {
+          "word": "1",
+          "start": 25.3,
+          "end": 25.48,
+          "probability": 0.9
+        },
+        {
+          "word": "biệt",
+          "start": 25.48,
+          "end": 25.66,
+          "probability": 0.88
+        },
+        {
+          "word": "em",
+          "start": 25.66,
+          "end": 25.92,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 25.92,
+      "end": 26.92,
+      "text": "không chào",
+      "words": [
+        {
+          "word": "không",
+          "start": 25.92,
+          "end": 26.38,
+          "probability": 0.0
+        },
+        {
+          "word": "chào",
+          "start": 26.38,
+          "end": 26.92,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 26.92,
+      "end": 28.38,
+      "text": "1 biệt em",
+      "words": [
+        {
+          "word": "1",
+          "start": 26.92,
+          "end": 27.26,
+          "probability": 0.12
+        },
+        {
+          "word": "biệt",
+          "start": 27.26,
+          "end": 27.54,
+          "probability": 0.97
+        },
+        {
+          "word": "em",
+          "start": 27.54,
+          "end": 28.38,
+          "probability": 0.94
+        }
+      ]
+    }
+  ]
+}

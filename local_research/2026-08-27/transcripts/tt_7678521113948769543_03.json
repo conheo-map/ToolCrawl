@@ -1,0 +1,804 @@
+{
+  "item_id": "tt_7678521113948769543_03",
+  "duration_seconds": 28.49,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 127,
+  "text": "Dù có lúc hợp bị bắt bình địch chiếc, có lúc trên đặt yêu cầu như họ vẫn cố gắng put quả từng tủ lâu phát và măng lại đi vui họ đã chơi vì một cơ giật ám. Theo lệ vinh Kim sang sích lợi thị dẫn 2 không sao lực đi, khi đưa tình vinh lặng lệ cuộc thần trọng hơn. Tuy nhiên ông thị dẫn ở hiệm một tâm đợi trên khai lối trời trời trời ổn ơ dựa giữa hây hợp, ông đã chỉ đạo lối trời trời trời thật mới. Sao đạo có văn gỡ hạm gây đời hệ, mự vinh Kim cặng với các cầu thủ vì đã không bỏ cuộc và tìm đấu hiết mình tìm có kết quả này.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.24,
+      "end": 9.3,
+      "text": "Dù có lúc hợp bị bắt bình địch chiếc, có lúc trên đặt yêu cầu như họ vẫn cố gắng put quả từng tủ lâu phát và măng lại đi vui họ đã chơi vì một cơ giật ám.",
+      "words": [
+        {
+          "word": "Dù",
+          "start": 0.24,
+          "end": 0.84,
+          "probability": 0.57
+        },
+        {
+          "word": "có",
+          "start": 0.84,
+          "end": 0.98,
+          "probability": 0.89
+        },
+        {
+          "word": "lúc",
+          "start": 0.98,
+          "end": 1.18,
+          "probability": 0.91
+        },
+        {
+          "word": "hợp",
+          "start": 1.18,
+          "end": 1.36,
+          "probability": 0.46
+        },
+        {
+          "word": "bị",
+          "start": 1.36,
+          "end": 1.46,
+          "probability": 0.17
+        },
+        {
+          "word": "bắt",
+          "start": 1.46,
+          "end": 1.56,
+          "probability": 0.5
+        },
+        {
+          "word": "bình",
+          "start": 1.56,
+          "end": 1.7,
+          "probability": 0.13
+        },
+        {
+          "word": "địch",
+          "start": 1.7,
+          "end": 1.88,
+          "probability": 0.37
+        },
+        {
+          "word": "chiếc,",
+          "start": 1.88,
+          "end": 2.32,
+          "probability": 0.68
+        },
+        {
+          "word": "có",
+          "start": 2.4,
+          "end": 2.5,
+          "probability": 0.94
+        },
+        {
+          "word": "lúc",
+          "start": 2.5,
+          "end": 2.66,
+          "probability": 0.99
+        },
+        {
+          "word": "trên",
+          "start": 2.66,
+          "end": 2.88,
+          "probability": 0.35
+        },
+        {
+          "word": "đặt",
+          "start": 2.88,
+          "end": 3.0,
+          "probability": 0.49
+        },
+        {
+          "word": "yêu",
+          "start": 3.0,
+          "end": 3.16,
+          "probability": 0.57
+        },
+        {
+          "word": "cầu",
+          "start": 3.16,
+          "end": 3.44,
+          "probability": 0.5
+        },
+        {
+          "word": "như",
+          "start": 3.44,
+          "end": 3.66,
+          "probability": 0.28
+        },
+        {
+          "word": "họ",
+          "start": 3.66,
+          "end": 3.84,
+          "probability": 0.73
+        },
+        {
+          "word": "vẫn",
+          "start": 3.84,
+          "end": 4.02,
+          "probability": 0.63
+        },
+        {
+          "word": "cố",
+          "start": 4.02,
+          "end": 4.26,
+          "probability": 0.44
+        },
+        {
+          "word": "gắng",
+          "start": 4.26,
+          "end": 4.32,
+          "probability": 0.83
+        },
+        {
+          "word": "put",
+          "start": 4.32,
+          "end": 4.48,
+          "probability": 0.1
+        },
+        {
+          "word": "quả",
+          "start": 4.48,
+          "end": 4.82,
+          "probability": 0.71
+        },
+        {
+          "word": "từng",
+          "start": 4.82,
+          "end": 5.3,
+          "probability": 0.4
+        },
+        {
+          "word": "tủ",
+          "start": 5.3,
+          "end": 5.32,
+          "probability": 0.5
+        },
+        {
+          "word": "lâu",
+          "start": 5.32,
+          "end": 5.56,
+          "probability": 0.71
+        },
+        {
+          "word": "phát",
+          "start": 5.56,
+          "end": 5.8,
+          "probability": 0.67
+        },
+        {
+          "word": "và",
+          "start": 5.8,
+          "end": 6.18,
+          "probability": 0.7
+        },
+        {
+          "word": "măng",
+          "start": 6.18,
+          "end": 6.4,
+          "probability": 0.33
+        },
+        {
+          "word": "lại",
+          "start": 6.4,
+          "end": 6.6,
+          "probability": 0.86
+        },
+        {
+          "word": "đi",
+          "start": 6.6,
+          "end": 6.76,
+          "probability": 0.51
+        },
+        {
+          "word": "vui",
+          "start": 6.76,
+          "end": 7.2,
+          "probability": 0.75
+        },
+        {
+          "word": "họ",
+          "start": 7.2,
+          "end": 7.46,
+          "probability": 0.6
+        },
+        {
+          "word": "đã",
+          "start": 7.46,
+          "end": 7.62,
+          "probability": 0.77
+        },
+        {
+          "word": "chơi",
+          "start": 7.62,
+          "end": 7.78,
+          "probability": 0.37
+        },
+        {
+          "word": "vì",
+          "start": 7.78,
+          "end": 8.06,
+          "probability": 0.39
+        },
+        {
+          "word": "một",
+          "start": 8.06,
+          "end": 8.26,
+          "probability": 0.42
+        },
+        {
+          "word": "cơ",
+          "start": 8.26,
+          "end": 8.44,
+          "probability": 0.54
+        },
+        {
+          "word": "giật",
+          "start": 8.44,
+          "end": 8.62,
+          "probability": 0.31
+        },
+        {
+          "word": "ám.",
+          "start": 8.62,
+          "end": 9.3,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 10.96,
+      "end": 15.8,
+      "text": "Theo lệ vinh Kim sang sích lợi thị dẫn 2 không sao lực đi, khi đưa tình vinh lặng lệ cuộc thần trọng hơn.",
+      "words": [
+        {
+          "word": "Theo",
+          "start": 10.96,
+          "end": 11.14,
+          "probability": 0.53
+        },
+        {
+          "word": "lệ",
+          "start": 11.14,
+          "end": 11.3,
+          "probability": 0.51
+        },
+        {
+          "word": "vinh",
+          "start": 11.3,
+          "end": 11.48,
+          "probability": 0.17
+        },
+        {
+          "word": "Kim",
+          "start": 11.48,
+          "end": 11.68,
+          "probability": 0.35
+        },
+        {
+          "word": "sang",
+          "start": 11.68,
+          "end": 11.86,
+          "probability": 0.15
+        },
+        {
+          "word": "sích",
+          "start": 11.86,
+          "end": 12.12,
+          "probability": 0.6
+        },
+        {
+          "word": "lợi",
+          "start": 12.12,
+          "end": 12.38,
+          "probability": 0.72
+        },
+        {
+          "word": "thị",
+          "start": 12.38,
+          "end": 12.6,
+          "probability": 0.35
+        },
+        {
+          "word": "dẫn",
+          "start": 12.6,
+          "end": 12.68,
+          "probability": 0.72
+        },
+        {
+          "word": "2",
+          "start": 12.68,
+          "end": 12.9,
+          "probability": 0.55
+        },
+        {
+          "word": "không",
+          "start": 12.9,
+          "end": 13.12,
+          "probability": 0.77
+        },
+        {
+          "word": "sao",
+          "start": 13.12,
+          "end": 13.24,
+          "probability": 0.25
+        },
+        {
+          "word": "lực",
+          "start": 13.24,
+          "end": 13.46,
+          "probability": 0.22
+        },
+        {
+          "word": "đi,",
+          "start": 13.46,
+          "end": 13.62,
+          "probability": 0.85
+        },
+        {
+          "word": "khi",
+          "start": 13.74,
+          "end": 13.84,
+          "probability": 0.52
+        },
+        {
+          "word": "đưa",
+          "start": 13.84,
+          "end": 13.92,
+          "probability": 0.31
+        },
+        {
+          "word": "tình",
+          "start": 13.92,
+          "end": 14.06,
+          "probability": 0.55
+        },
+        {
+          "word": "vinh",
+          "start": 14.06,
+          "end": 14.24,
+          "probability": 0.59
+        },
+        {
+          "word": "lặng",
+          "start": 14.24,
+          "end": 14.38,
+          "probability": 0.46
+        },
+        {
+          "word": "lệ",
+          "start": 14.38,
+          "end": 14.62,
+          "probability": 0.14
+        },
+        {
+          "word": "cuộc",
+          "start": 14.62,
+          "end": 14.82,
+          "probability": 0.27
+        },
+        {
+          "word": "thần",
+          "start": 14.82,
+          "end": 15.04,
+          "probability": 0.48
+        },
+        {
+          "word": "trọng",
+          "start": 15.04,
+          "end": 15.28,
+          "probability": 0.72
+        },
+        {
+          "word": "hơn.",
+          "start": 15.28,
+          "end": 15.8,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 16.12,
+      "end": 22.1,
+      "text": "Tuy nhiên ông thị dẫn ở hiệm một tâm đợi trên khai lối trời trời trời ổn ơ dựa giữa hây hợp, ông đã chỉ đạo lối trời trời trời thật mới.",
+      "words": [
+        {
+          "word": "Tuy",
+          "start": 16.12,
+          "end": 16.28,
+          "probability": 0.74
+        },
+        {
+          "word": "nhiên",
+          "start": 16.28,
+          "end": 16.42,
+          "probability": 0.99
+        },
+        {
+          "word": "ông",
+          "start": 16.42,
+          "end": 16.66,
+          "probability": 0.32
+        },
+        {
+          "word": "thị",
+          "start": 16.66,
+          "end": 16.84,
+          "probability": 0.26
+        },
+        {
+          "word": "dẫn",
+          "start": 16.84,
+          "end": 16.9,
+          "probability": 0.33
+        },
+        {
+          "word": "ở",
+          "start": 16.9,
+          "end": 17.08,
+          "probability": 0.15
+        },
+        {
+          "word": "hiệm",
+          "start": 17.08,
+          "end": 17.22,
+          "probability": 0.46
+        },
+        {
+          "word": "một",
+          "start": 17.22,
+          "end": 17.38,
+          "probability": 0.35
+        },
+        {
+          "word": "tâm",
+          "start": 17.38,
+          "end": 17.62,
+          "probability": 0.34
+        },
+        {
+          "word": "đợi",
+          "start": 17.62,
+          "end": 17.78,
+          "probability": 0.66
+        },
+        {
+          "word": "trên",
+          "start": 17.78,
+          "end": 17.94,
+          "probability": 0.23
+        },
+        {
+          "word": "khai",
+          "start": 17.94,
+          "end": 18.14,
+          "probability": 0.66
+        },
+        {
+          "word": "lối",
+          "start": 18.14,
+          "end": 18.32,
+          "probability": 0.65
+        },
+        {
+          "word": "trời",
+          "start": 18.32,
+          "end": 18.48,
+          "probability": 0.34
+        },
+        {
+          "word": "trời",
+          "start": 18.48,
+          "end": 18.66,
+          "probability": 0.44
+        },
+        {
+          "word": "trời",
+          "start": 18.66,
+          "end": 18.72,
+          "probability": 0.52
+        },
+        {
+          "word": "ổn",
+          "start": 18.72,
+          "end": 19.06,
+          "probability": 0.54
+        },
+        {
+          "word": "ơ",
+          "start": 19.06,
+          "end": 19.38,
+          "probability": 0.22
+        },
+        {
+          "word": "dựa",
+          "start": 19.38,
+          "end": 19.58,
+          "probability": 0.3
+        },
+        {
+          "word": "giữa",
+          "start": 19.58,
+          "end": 19.82,
+          "probability": 0.36
+        },
+        {
+          "word": "hây",
+          "start": 19.82,
+          "end": 20.08,
+          "probability": 0.22
+        },
+        {
+          "word": "hợp,",
+          "start": 20.08,
+          "end": 20.44,
+          "probability": 0.36
+        },
+        {
+          "word": "ông",
+          "start": 20.44,
+          "end": 20.62,
+          "probability": 0.93
+        },
+        {
+          "word": "đã",
+          "start": 20.62,
+          "end": 20.74,
+          "probability": 0.95
+        },
+        {
+          "word": "chỉ",
+          "start": 20.74,
+          "end": 20.88,
+          "probability": 0.43
+        },
+        {
+          "word": "đạo",
+          "start": 20.88,
+          "end": 21.04,
+          "probability": 0.62
+        },
+        {
+          "word": "lối",
+          "start": 21.04,
+          "end": 21.22,
+          "probability": 0.61
+        },
+        {
+          "word": "trời",
+          "start": 21.22,
+          "end": 21.38,
+          "probability": 0.53
+        },
+        {
+          "word": "trời",
+          "start": 21.38,
+          "end": 21.56,
+          "probability": 0.73
+        },
+        {
+          "word": "trời",
+          "start": 21.56,
+          "end": 21.58,
+          "probability": 0.65
+        },
+        {
+          "word": "thật",
+          "start": 21.58,
+          "end": 21.76,
+          "probability": 0.42
+        },
+        {
+          "word": "mới.",
+          "start": 21.76,
+          "end": 22.1,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 22.1,
+      "end": 28.36,
+      "text": "Sao đạo có văn gỡ hạm gây đời hệ, mự vinh Kim cặng với các cầu thủ vì đã không bỏ cuộc và tìm đấu hiết mình tìm có kết quả này.",
+      "words": [
+        {
+          "word": "Sao",
+          "start": 22.1,
+          "end": 22.54,
+          "probability": 0.45
+        },
+        {
+          "word": "đạo",
+          "start": 22.54,
+          "end": 22.6,
+          "probability": 0.37
+        },
+        {
+          "word": "có",
+          "start": 22.6,
+          "end": 22.7,
+          "probability": 0.4
+        },
+        {
+          "word": "văn",
+          "start": 22.7,
+          "end": 22.86,
+          "probability": 0.21
+        },
+        {
+          "word": "gỡ",
+          "start": 22.86,
+          "end": 23.04,
+          "probability": 0.61
+        },
+        {
+          "word": "hạm",
+          "start": 23.04,
+          "end": 23.3,
+          "probability": 0.51
+        },
+        {
+          "word": "gây",
+          "start": 23.3,
+          "end": 23.38,
+          "probability": 0.32
+        },
+        {
+          "word": "đời",
+          "start": 23.38,
+          "end": 23.56,
+          "probability": 0.5
+        },
+        {
+          "word": "hệ,",
+          "start": 23.56,
+          "end": 23.8,
+          "probability": 0.32
+        },
+        {
+          "word": "mự",
+          "start": 24.3,
+          "end": 24.48,
+          "probability": 0.16
+        },
+        {
+          "word": "vinh",
+          "start": 24.48,
+          "end": 24.7,
+          "probability": 0.23
+        },
+        {
+          "word": "Kim",
+          "start": 24.7,
+          "end": 24.94,
+          "probability": 0.03
+        },
+        {
+          "word": "cặng",
+          "start": 24.94,
+          "end": 25.12,
+          "probability": 0.25
+        },
+        {
+          "word": "với",
+          "start": 25.12,
+          "end": 25.26,
+          "probability": 0.11
+        },
+        {
+          "word": "các",
+          "start": 25.26,
+          "end": 25.44,
+          "probability": 0.88
+        },
+        {
+          "word": "cầu",
+          "start": 25.44,
+          "end": 25.56,
+          "probability": 0.47
+        },
+        {
+          "word": "thủ",
+          "start": 25.56,
+          "end": 25.72,
+          "probability": 0.46
+        },
+        {
+          "word": "vì",
+          "start": 25.72,
+          "end": 25.94,
+          "probability": 0.48
+        },
+        {
+          "word": "đã",
+          "start": 25.94,
+          "end": 26.04,
+          "probability": 0.88
+        },
+        {
+          "word": "không",
+          "start": 26.04,
+          "end": 26.24,
+          "probability": 0.76
+        },
+        {
+          "word": "bỏ",
+          "start": 26.24,
+          "end": 26.42,
+          "probability": 0.58
+        },
+        {
+          "word": "cuộc",
+          "start": 26.42,
+          "end": 26.62,
+          "probability": 0.48
+        },
+        {
+          "word": "và",
+          "start": 26.62,
+          "end": 26.78,
+          "probability": 0.82
+        },
+        {
+          "word": "tìm",
+          "start": 26.78,
+          "end": 26.88,
+          "probability": 0.45
+        },
+        {
+          "word": "đấu",
+          "start": 26.88,
+          "end": 27.02,
+          "probability": 0.38
+        },
+        {
+          "word": "hiết",
+          "start": 27.02,
+          "end": 27.24,
+          "probability": 0.4
+        },
+        {
+          "word": "mình",
+          "start": 27.24,
+          "end": 27.46,
+          "probability": 0.68
+        },
+        {
+          "word": "tìm",
+          "start": 27.46,
+          "end": 27.72,
+          "probability": 0.45
+        },
+        {
+          "word": "có",
+          "start": 27.72,
+          "end": 27.8,
+          "probability": 0.65
+        },
+        {
+          "word": "kết",
+          "start": 27.8,
+          "end": 27.96,
+          "probability": 0.58
+        },
+        {
+          "word": "quả",
+          "start": 27.96,
+          "end": 28.14,
+          "probability": 0.66
+        },
+        {
+          "word": "này.",
+          "start": 28.14,
+          "end": 28.36,
+          "probability": 0.76
+        }
+      ]
+    }
+  ]
+}

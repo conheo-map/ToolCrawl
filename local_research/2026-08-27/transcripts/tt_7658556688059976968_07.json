@@ -1,0 +1,640 @@
+{
+  "item_id": "tt_7658556688059976968_07",
+  "duration_seconds": 28.11,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 89,
+  "text": "Bỏ ra nhiều mùa xác trên rồi Bỏ đi theo cái mẹn tưởng này Đi có mùa tưởng này Mà đây, ok đi in đấy Chịp ở trong lý Đi không không kỡ Nếu không có mỡ đi bây giờ sẽ dùng nó dò Đi không? Cái qua xin xa thì, à Qua cái phép hợp thì ok biết khi anh bị ta có thể tất cả Ở bên trong là một cái gà nó sẽ Đi ra, thì ta để tiếp cạnh, rồi đi, xí phía dút, ra",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 2.12,
+      "text": "Bỏ ra nhiều mùa xác trên rồi",
+      "words": [
+        {
+          "word": "Bỏ",
+          "start": 0.02,
+          "end": 0.5,
+          "probability": 0.14
+        },
+        {
+          "word": "ra",
+          "start": 0.5,
+          "end": 0.6,
+          "probability": 0.5
+        },
+        {
+          "word": "nhiều",
+          "start": 0.6,
+          "end": 0.74,
+          "probability": 0.23
+        },
+        {
+          "word": "mùa",
+          "start": 0.74,
+          "end": 0.86,
+          "probability": 0.43
+        },
+        {
+          "word": "xác",
+          "start": 0.86,
+          "end": 0.98,
+          "probability": 0.52
+        },
+        {
+          "word": "trên",
+          "start": 0.98,
+          "end": 1.18,
+          "probability": 0.28
+        },
+        {
+          "word": "rồi",
+          "start": 1.18,
+          "end": 2.12,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.12,
+      "end": 4.04,
+      "text": "Bỏ đi theo cái mẹn tưởng này",
+      "words": [
+        {
+          "word": "Bỏ",
+          "start": 2.12,
+          "end": 2.48,
+          "probability": 0.23
+        },
+        {
+          "word": "đi",
+          "start": 2.48,
+          "end": 2.64,
+          "probability": 0.33
+        },
+        {
+          "word": "theo",
+          "start": 2.64,
+          "end": 2.76,
+          "probability": 0.28
+        },
+        {
+          "word": "cái",
+          "start": 2.76,
+          "end": 2.88,
+          "probability": 0.22
+        },
+        {
+          "word": "mẹn",
+          "start": 2.88,
+          "end": 3.02,
+          "probability": 0.28
+        },
+        {
+          "word": "tưởng",
+          "start": 3.02,
+          "end": 3.2,
+          "probability": 0.57
+        },
+        {
+          "word": "này",
+          "start": 3.2,
+          "end": 4.04,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.04,
+      "end": 5.12,
+      "text": "Đi có mùa tưởng này",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 4.04,
+          "end": 4.18,
+          "probability": 0.44
+        },
+        {
+          "word": "có",
+          "start": 4.18,
+          "end": 4.28,
+          "probability": 0.16
+        },
+        {
+          "word": "mùa",
+          "start": 4.28,
+          "end": 4.4,
+          "probability": 0.45
+        },
+        {
+          "word": "tưởng",
+          "start": 4.4,
+          "end": 4.5,
+          "probability": 0.92
+        },
+        {
+          "word": "này",
+          "start": 4.5,
+          "end": 5.12,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.12,
+      "end": 6.5,
+      "text": "Mà đây, ok đi in đấy",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 5.12,
+          "end": 5.24,
+          "probability": 0.34
+        },
+        {
+          "word": "đây,",
+          "start": 5.24,
+          "end": 5.48,
+          "probability": 0.2
+        },
+        {
+          "word": "ok",
+          "start": 5.7,
+          "end": 5.82,
+          "probability": 0.29
+        },
+        {
+          "word": "đi",
+          "start": 5.82,
+          "end": 5.98,
+          "probability": 0.81
+        },
+        {
+          "word": "in",
+          "start": 5.98,
+          "end": 6.04,
+          "probability": 0.24
+        },
+        {
+          "word": "đấy",
+          "start": 6.04,
+          "end": 6.5,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.0,
+      "end": 8.08,
+      "text": "Chịp ở trong lý",
+      "words": [
+        {
+          "word": "Chịp",
+          "start": 7.0,
+          "end": 7.42,
+          "probability": 0.36
+        },
+        {
+          "word": "ở",
+          "start": 7.42,
+          "end": 7.56,
+          "probability": 0.41
+        },
+        {
+          "word": "trong",
+          "start": 7.56,
+          "end": 7.62,
+          "probability": 0.73
+        },
+        {
+          "word": "lý",
+          "start": 7.62,
+          "end": 8.08,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.08,
+      "end": 9.56,
+      "text": "Đi không không kỡ",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 8.08,
+          "end": 8.82,
+          "probability": 0.54
+        },
+        {
+          "word": "không",
+          "start": 8.82,
+          "end": 8.98,
+          "probability": 0.1
+        },
+        {
+          "word": "không",
+          "start": 8.98,
+          "end": 9.24,
+          "probability": 0.14
+        },
+        {
+          "word": "kỡ",
+          "start": 9.24,
+          "end": 9.56,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 10.3,
+      "end": 13.0,
+      "text": "Nếu không có mỡ đi bây giờ sẽ dùng nó dò",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 10.3,
+          "end": 10.72,
+          "probability": 0.54
+        },
+        {
+          "word": "không",
+          "start": 10.72,
+          "end": 10.88,
+          "probability": 0.3
+        },
+        {
+          "word": "có",
+          "start": 10.88,
+          "end": 10.88,
+          "probability": 0.2
+        },
+        {
+          "word": "mỡ",
+          "start": 10.88,
+          "end": 10.88,
+          "probability": 0.44
+        },
+        {
+          "word": "đi",
+          "start": 10.88,
+          "end": 11.14,
+          "probability": 0.02
+        },
+        {
+          "word": "bây",
+          "start": 11.14,
+          "end": 11.4,
+          "probability": 0.42
+        },
+        {
+          "word": "giờ",
+          "start": 11.4,
+          "end": 11.4,
+          "probability": 0.97
+        },
+        {
+          "word": "sẽ",
+          "start": 11.4,
+          "end": 12.0,
+          "probability": 0.79
+        },
+        {
+          "word": "dùng",
+          "start": 12.0,
+          "end": 12.32,
+          "probability": 0.21
+        },
+        {
+          "word": "nó",
+          "start": 12.32,
+          "end": 12.48,
+          "probability": 0.12
+        },
+        {
+          "word": "dò",
+          "start": 12.48,
+          "end": 13.0,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.0,
+      "end": 13.78,
+      "text": "Đi không?",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 13.0,
+          "end": 13.56,
+          "probability": 0.21
+        },
+        {
+          "word": "không?",
+          "start": 13.56,
+          "end": 13.78,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 15.0,
+      "end": 16.98,
+      "text": "Cái qua xin xa thì, à",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 15.0,
+          "end": 15.26,
+          "probability": 0.22
+        },
+        {
+          "word": "qua",
+          "start": 15.26,
+          "end": 15.5,
+          "probability": 0.28
+        },
+        {
+          "word": "xin",
+          "start": 15.5,
+          "end": 15.68,
+          "probability": 0.68
+        },
+        {
+          "word": "xa",
+          "start": 15.68,
+          "end": 15.9,
+          "probability": 0.38
+        },
+        {
+          "word": "thì,",
+          "start": 15.9,
+          "end": 16.56,
+          "probability": 0.8
+        },
+        {
+          "word": "à",
+          "start": 16.92,
+          "end": 16.98,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 16.98,
+      "end": 20.14,
+      "text": "Qua cái phép hợp thì ok biết khi anh bị ta có thể tất cả",
+      "words": [
+        {
+          "word": "Qua",
+          "start": 16.98,
+          "end": 17.36,
+          "probability": 0.26
+        },
+        {
+          "word": "cái",
+          "start": 17.36,
+          "end": 17.54,
+          "probability": 0.46
+        },
+        {
+          "word": "phép",
+          "start": 17.54,
+          "end": 17.7,
+          "probability": 0.13
+        },
+        {
+          "word": "hợp",
+          "start": 17.7,
+          "end": 18.02,
+          "probability": 0.48
+        },
+        {
+          "word": "thì",
+          "start": 18.02,
+          "end": 18.36,
+          "probability": 0.39
+        },
+        {
+          "word": "ok",
+          "start": 18.36,
+          "end": 18.56,
+          "probability": 0.26
+        },
+        {
+          "word": "biết",
+          "start": 18.56,
+          "end": 18.78,
+          "probability": 0.4
+        },
+        {
+          "word": "khi",
+          "start": 18.78,
+          "end": 19.02,
+          "probability": 0.3
+        },
+        {
+          "word": "anh",
+          "start": 19.02,
+          "end": 19.14,
+          "probability": 0.14
+        },
+        {
+          "word": "bị",
+          "start": 19.14,
+          "end": 19.22,
+          "probability": 0.04
+        },
+        {
+          "word": "ta",
+          "start": 19.22,
+          "end": 19.26,
+          "probability": 0.22
+        },
+        {
+          "word": "có",
+          "start": 19.26,
+          "end": 19.4,
+          "probability": 0.62
+        },
+        {
+          "word": "thể",
+          "start": 19.4,
+          "end": 19.52,
+          "probability": 0.79
+        },
+        {
+          "word": "tất",
+          "start": 19.52,
+          "end": 19.78,
+          "probability": 0.48
+        },
+        {
+          "word": "cả",
+          "start": 19.78,
+          "end": 20.14,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 20.14,
+      "end": 23.32,
+      "text": "Ở bên trong là một cái gà nó sẽ",
+      "words": [
+        {
+          "word": "Ở",
+          "start": 20.14,
+          "end": 20.76,
+          "probability": 0.44
+        },
+        {
+          "word": "bên",
+          "start": 20.76,
+          "end": 20.86,
+          "probability": 0.34
+        },
+        {
+          "word": "trong",
+          "start": 20.86,
+          "end": 21.68,
+          "probability": 0.82
+        },
+        {
+          "word": "là",
+          "start": 21.68,
+          "end": 22.18,
+          "probability": 0.57
+        },
+        {
+          "word": "một",
+          "start": 22.18,
+          "end": 22.32,
+          "probability": 0.45
+        },
+        {
+          "word": "cái",
+          "start": 22.32,
+          "end": 22.4,
+          "probability": 0.84
+        },
+        {
+          "word": "gà",
+          "start": 22.4,
+          "end": 22.6,
+          "probability": 0.28
+        },
+        {
+          "word": "nó",
+          "start": 22.6,
+          "end": 22.7,
+          "probability": 0.38
+        },
+        {
+          "word": "sẽ",
+          "start": 22.7,
+          "end": 23.32,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 23.32,
+      "end": 27.6,
+      "text": "Đi ra, thì ta để tiếp cạnh, rồi đi, xí phía dút, ra",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 23.32,
+          "end": 23.82,
+          "probability": 0.54
+        },
+        {
+          "word": "ra,",
+          "start": 23.82,
+          "end": 24.6,
+          "probability": 0.12
+        },
+        {
+          "word": "thì",
+          "start": 24.72,
+          "end": 24.86,
+          "probability": 0.16
+        },
+        {
+          "word": "ta",
+          "start": 24.86,
+          "end": 25.0,
+          "probability": 0.84
+        },
+        {
+          "word": "để",
+          "start": 25.0,
+          "end": 25.14,
+          "probability": 0.27
+        },
+        {
+          "word": "tiếp",
+          "start": 25.14,
+          "end": 25.34,
+          "probability": 0.57
+        },
+        {
+          "word": "cạnh,",
+          "start": 25.34,
+          "end": 25.56,
+          "probability": 0.38
+        },
+        {
+          "word": "rồi",
+          "start": 25.8,
+          "end": 26.38,
+          "probability": 0.13
+        },
+        {
+          "word": "đi,",
+          "start": 26.38,
+          "end": 26.7,
+          "probability": 0.58
+        },
+        {
+          "word": "xí",
+          "start": 26.86,
+          "end": 26.86,
+          "probability": 0.26
+        },
+        {
+          "word": "phía",
+          "start": 26.86,
+          "end": 27.0,
+          "probability": 0.31
+        },
+        {
+          "word": "dút,",
+          "start": 27.0,
+          "end": 27.22,
+          "probability": 0.43
+        },
+        {
+          "word": "ra",
+          "start": 27.38,
+          "end": 27.6,
+          "probability": 0.15
+        }
+      ]
+    }
+  ]
+}

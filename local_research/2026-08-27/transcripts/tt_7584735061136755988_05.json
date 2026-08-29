@@ -1,0 +1,110 @@
+{
+  "item_id": "tt_7584735061136755988_05",
+  "duration_seconds": 24.58,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 14,
+  "text": "sợ tuyến nếu hấp dẫn này không có, hấp dẫn chỉ có ít thông.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.44,
+      "text": "sợ tuyến nếu hấp dẫn này không có,",
+      "words": [
+        {
+          "word": "sợ",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.01
+        },
+        {
+          "word": "tuyến",
+          "start": 0.18,
+          "end": 0.44,
+          "probability": 0.15
+        },
+        {
+          "word": "nếu",
+          "start": 0.44,
+          "end": 0.64,
+          "probability": 0.04
+        },
+        {
+          "word": "hấp",
+          "start": 0.64,
+          "end": 0.96,
+          "probability": 0.02
+        },
+        {
+          "word": "dẫn",
+          "start": 0.96,
+          "end": 0.96,
+          "probability": 0.69
+        },
+        {
+          "word": "này",
+          "start": 0.96,
+          "end": 1.36,
+          "probability": 0.01
+        },
+        {
+          "word": "không",
+          "start": 1.36,
+          "end": 1.66,
+          "probability": 0.03
+        },
+        {
+          "word": "có,",
+          "start": 1.66,
+          "end": 2.44,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.42,
+      "end": 7.24,
+      "text": "hấp dẫn chỉ có ít thông.",
+      "words": [
+        {
+          "word": "hấp",
+          "start": 3.42,
+          "end": 3.42,
+          "probability": 0.38
+        },
+        {
+          "word": "dẫn",
+          "start": 3.42,
+          "end": 3.42,
+          "probability": 0.99
+        },
+        {
+          "word": "chỉ",
+          "start": 3.42,
+          "end": 5.9,
+          "probability": 0.0
+        },
+        {
+          "word": "có",
+          "start": 5.9,
+          "end": 6.0,
+          "probability": 0.2
+        },
+        {
+          "word": "ít",
+          "start": 6.0,
+          "end": 7.24,
+          "probability": 0.16
+        },
+        {
+          "word": "thông.",
+          "start": 7.24,
+          "end": 7.24,
+          "probability": 0.11
+        }
+      ]
+    }
+  ]
+}

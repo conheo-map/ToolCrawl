@@ -1,0 +1,734 @@
+{
+  "item_id": "tt_7654462530282294549_02",
+  "duration_seconds": 29.07,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 111,
+  "text": "Đây là cơn báo tháng sống mạnh nhất trong 2,5 năm qua tại tây mắc khái bị vương. Dự báo trong 12,5,5 mổ rở tới, xưa báo mấy thalah, dí chuyển trợ với nước độ khoảng 5 kêu mấy mổ rở và có giống hiệu cộ vướng lên phía bắc, vướng về phía năng nhật bản, với cấp mấy sấu dật trên thấp mấy vời. Họ đó báo đi theo vướng đông bắc, vướng về phía việc tôn ra của nhật bản và suy yếu rần. Cúng thơ chút tâm từ báo phía tượng hibern của ra, ngoài xưa báo mấy thalah, khi ở khu của tây mắc thái bị vương.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.24,
+      "end": 4.44,
+      "text": "Đây là cơn báo tháng sống mạnh nhất trong 2,5 năm qua tại tây mắc khái bị vương.",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 0.24,
+          "end": 0.54,
+          "probability": 0.62
+        },
+        {
+          "word": "là",
+          "start": 0.54,
+          "end": 0.68,
+          "probability": 1.0
+        },
+        {
+          "word": "cơn",
+          "start": 0.68,
+          "end": 0.84,
+          "probability": 0.6
+        },
+        {
+          "word": "báo",
+          "start": 0.84,
+          "end": 1.02,
+          "probability": 0.8
+        },
+        {
+          "word": "tháng",
+          "start": 1.02,
+          "end": 1.26,
+          "probability": 0.54
+        },
+        {
+          "word": "sống",
+          "start": 1.26,
+          "end": 1.48,
+          "probability": 0.54
+        },
+        {
+          "word": "mạnh",
+          "start": 1.48,
+          "end": 1.72,
+          "probability": 0.73
+        },
+        {
+          "word": "nhất",
+          "start": 1.72,
+          "end": 1.9,
+          "probability": 0.99
+        },
+        {
+          "word": "trong",
+          "start": 1.9,
+          "end": 2.2,
+          "probability": 0.74
+        },
+        {
+          "word": "2",
+          "start": 2.2,
+          "end": 2.48,
+          "probability": 0.29
+        },
+        {
+          "word": ",5",
+          "start": 2.48,
+          "end": 2.74,
+          "probability": 0.44
+        },
+        {
+          "word": "năm",
+          "start": 2.74,
+          "end": 2.86,
+          "probability": 0.28
+        },
+        {
+          "word": "qua",
+          "start": 2.86,
+          "end": 3.04,
+          "probability": 0.95
+        },
+        {
+          "word": "tại",
+          "start": 3.04,
+          "end": 3.34,
+          "probability": 0.68
+        },
+        {
+          "word": "tây",
+          "start": 3.34,
+          "end": 3.56,
+          "probability": 0.31
+        },
+        {
+          "word": "mắc",
+          "start": 3.56,
+          "end": 3.74,
+          "probability": 0.6
+        },
+        {
+          "word": "khái",
+          "start": 3.74,
+          "end": 3.96,
+          "probability": 0.49
+        },
+        {
+          "word": "bị",
+          "start": 3.96,
+          "end": 4.1,
+          "probability": 0.28
+        },
+        {
+          "word": "vương.",
+          "start": 4.1,
+          "end": 4.44,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.14,
+      "end": 13.5,
+      "text": "Dự báo trong 12,5,5 mổ rở tới, xưa báo mấy thalah, dí chuyển trợ với nước độ khoảng 5 kêu mấy mổ rở và có giống hiệu cộ vướng lên phía bắc,",
+      "words": [
+        {
+          "word": "Dự",
+          "start": 5.14,
+          "end": 5.22,
+          "probability": 0.44
+        },
+        {
+          "word": "báo",
+          "start": 5.22,
+          "end": 5.48,
+          "probability": 0.86
+        },
+        {
+          "word": "trong",
+          "start": 5.48,
+          "end": 5.7,
+          "probability": 0.47
+        },
+        {
+          "word": "12",
+          "start": 5.7,
+          "end": 6.12,
+          "probability": 0.46
+        },
+        {
+          "word": ",5",
+          "start": 6.12,
+          "end": 6.6,
+          "probability": 0.76
+        },
+        {
+          "word": ",5",
+          "start": 6.6,
+          "end": 6.8,
+          "probability": 0.48
+        },
+        {
+          "word": "mổ",
+          "start": 6.8,
+          "end": 6.88,
+          "probability": 0.16
+        },
+        {
+          "word": "rở",
+          "start": 6.88,
+          "end": 7.06,
+          "probability": 0.33
+        },
+        {
+          "word": "tới,",
+          "start": 7.06,
+          "end": 7.5,
+          "probability": 0.55
+        },
+        {
+          "word": "xưa",
+          "start": 7.68,
+          "end": 7.86,
+          "probability": 0.39
+        },
+        {
+          "word": "báo",
+          "start": 7.86,
+          "end": 8.04,
+          "probability": 0.98
+        },
+        {
+          "word": "mấy",
+          "start": 8.04,
+          "end": 8.24,
+          "probability": 0.28
+        },
+        {
+          "word": "thalah,",
+          "start": 8.24,
+          "end": 8.88,
+          "probability": 0.26
+        },
+        {
+          "word": "dí",
+          "start": 9.1,
+          "end": 9.12,
+          "probability": 0.36
+        },
+        {
+          "word": "chuyển",
+          "start": 9.12,
+          "end": 9.38,
+          "probability": 0.92
+        },
+        {
+          "word": "trợ",
+          "start": 9.38,
+          "end": 9.68,
+          "probability": 0.46
+        },
+        {
+          "word": "với",
+          "start": 9.68,
+          "end": 9.92,
+          "probability": 0.56
+        },
+        {
+          "word": "nước",
+          "start": 9.92,
+          "end": 10.12,
+          "probability": 0.67
+        },
+        {
+          "word": "độ",
+          "start": 10.12,
+          "end": 10.26,
+          "probability": 0.23
+        },
+        {
+          "word": "khoảng",
+          "start": 10.26,
+          "end": 10.52,
+          "probability": 0.87
+        },
+        {
+          "word": "5",
+          "start": 10.52,
+          "end": 10.76,
+          "probability": 0.27
+        },
+        {
+          "word": "kêu",
+          "start": 10.76,
+          "end": 10.9,
+          "probability": 0.35
+        },
+        {
+          "word": "mấy",
+          "start": 10.9,
+          "end": 11.02,
+          "probability": 0.39
+        },
+        {
+          "word": "mổ",
+          "start": 11.02,
+          "end": 11.2,
+          "probability": 0.25
+        },
+        {
+          "word": "rở",
+          "start": 11.2,
+          "end": 11.38,
+          "probability": 0.88
+        },
+        {
+          "word": "và",
+          "start": 11.38,
+          "end": 11.66,
+          "probability": 0.43
+        },
+        {
+          "word": "có",
+          "start": 11.66,
+          "end": 11.84,
+          "probability": 0.61
+        },
+        {
+          "word": "giống",
+          "start": 11.84,
+          "end": 11.96,
+          "probability": 0.4
+        },
+        {
+          "word": "hiệu",
+          "start": 11.96,
+          "end": 12.16,
+          "probability": 0.8
+        },
+        {
+          "word": "cộ",
+          "start": 12.16,
+          "end": 12.46,
+          "probability": 0.44
+        },
+        {
+          "word": "vướng",
+          "start": 12.46,
+          "end": 12.68,
+          "probability": 0.58
+        },
+        {
+          "word": "lên",
+          "start": 12.68,
+          "end": 12.9,
+          "probability": 0.8
+        },
+        {
+          "word": "phía",
+          "start": 12.9,
+          "end": 13.08,
+          "probability": 0.45
+        },
+        {
+          "word": "bắc,",
+          "start": 13.08,
+          "end": 13.5,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.9,
+      "end": 17.58,
+      "text": "vướng về phía năng nhật bản, với cấp mấy sấu dật trên thấp mấy vời.",
+      "words": [
+        {
+          "word": "vướng",
+          "start": 13.9,
+          "end": 13.9,
+          "probability": 0.82
+        },
+        {
+          "word": "về",
+          "start": 13.9,
+          "end": 14.16,
+          "probability": 0.53
+        },
+        {
+          "word": "phía",
+          "start": 14.16,
+          "end": 14.36,
+          "probability": 0.87
+        },
+        {
+          "word": "năng",
+          "start": 14.36,
+          "end": 14.6,
+          "probability": 0.25
+        },
+        {
+          "word": "nhật",
+          "start": 14.6,
+          "end": 14.8,
+          "probability": 0.44
+        },
+        {
+          "word": "bản,",
+          "start": 14.8,
+          "end": 15.22,
+          "probability": 0.86
+        },
+        {
+          "word": "với",
+          "start": 15.34,
+          "end": 15.5,
+          "probability": 0.73
+        },
+        {
+          "word": "cấp",
+          "start": 15.5,
+          "end": 15.74,
+          "probability": 0.77
+        },
+        {
+          "word": "mấy",
+          "start": 15.74,
+          "end": 16.0,
+          "probability": 0.54
+        },
+        {
+          "word": "sấu",
+          "start": 16.0,
+          "end": 16.32,
+          "probability": 0.59
+        },
+        {
+          "word": "dật",
+          "start": 16.32,
+          "end": 16.64,
+          "probability": 0.44
+        },
+        {
+          "word": "trên",
+          "start": 16.64,
+          "end": 16.8,
+          "probability": 0.63
+        },
+        {
+          "word": "thấp",
+          "start": 16.8,
+          "end": 16.98,
+          "probability": 0.56
+        },
+        {
+          "word": "mấy",
+          "start": 16.98,
+          "end": 17.12,
+          "probability": 0.65
+        },
+        {
+          "word": "vời.",
+          "start": 17.12,
+          "end": 17.58,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 18.1,
+      "end": 23.24,
+      "text": "Họ đó báo đi theo vướng đông bắc, vướng về phía việc tôn ra của nhật bản và suy yếu rần.",
+      "words": [
+        {
+          "word": "Họ",
+          "start": 18.1,
+          "end": 18.28,
+          "probability": 0.09
+        },
+        {
+          "word": "đó",
+          "start": 18.28,
+          "end": 18.5,
+          "probability": 0.78
+        },
+        {
+          "word": "báo",
+          "start": 18.5,
+          "end": 18.72,
+          "probability": 0.74
+        },
+        {
+          "word": "đi",
+          "start": 18.72,
+          "end": 18.94,
+          "probability": 0.82
+        },
+        {
+          "word": "theo",
+          "start": 18.94,
+          "end": 19.16,
+          "probability": 0.99
+        },
+        {
+          "word": "vướng",
+          "start": 19.16,
+          "end": 19.38,
+          "probability": 0.88
+        },
+        {
+          "word": "đông",
+          "start": 19.38,
+          "end": 19.62,
+          "probability": 0.3
+        },
+        {
+          "word": "bắc,",
+          "start": 19.62,
+          "end": 19.94,
+          "probability": 0.8
+        },
+        {
+          "word": "vướng",
+          "start": 20.06,
+          "end": 20.2,
+          "probability": 0.97
+        },
+        {
+          "word": "về",
+          "start": 20.2,
+          "end": 20.5,
+          "probability": 0.99
+        },
+        {
+          "word": "phía",
+          "start": 20.5,
+          "end": 20.66,
+          "probability": 0.97
+        },
+        {
+          "word": "việc",
+          "start": 20.66,
+          "end": 20.9,
+          "probability": 0.33
+        },
+        {
+          "word": "tôn",
+          "start": 20.9,
+          "end": 21.12,
+          "probability": 0.3
+        },
+        {
+          "word": "ra",
+          "start": 21.12,
+          "end": 21.4,
+          "probability": 0.28
+        },
+        {
+          "word": "của",
+          "start": 21.4,
+          "end": 21.7,
+          "probability": 0.39
+        },
+        {
+          "word": "nhật",
+          "start": 21.7,
+          "end": 21.94,
+          "probability": 0.57
+        },
+        {
+          "word": "bản",
+          "start": 21.94,
+          "end": 22.24,
+          "probability": 0.97
+        },
+        {
+          "word": "và",
+          "start": 22.24,
+          "end": 22.58,
+          "probability": 0.91
+        },
+        {
+          "word": "suy",
+          "start": 22.58,
+          "end": 22.8,
+          "probability": 0.66
+        },
+        {
+          "word": "yếu",
+          "start": 22.8,
+          "end": 22.9,
+          "probability": 0.65
+        },
+        {
+          "word": "rần.",
+          "start": 22.9,
+          "end": 23.24,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 23.78,
+      "end": 28.86,
+      "text": "Cúng thơ chút tâm từ báo phía tượng hibern của ra, ngoài xưa báo mấy thalah, khi ở khu của tây mắc thái bị vương.",
+      "words": [
+        {
+          "word": "Cúng",
+          "start": 23.78,
+          "end": 23.88,
+          "probability": 0.37
+        },
+        {
+          "word": "thơ",
+          "start": 23.88,
+          "end": 24.04,
+          "probability": 0.4
+        },
+        {
+          "word": "chút",
+          "start": 24.04,
+          "end": 24.18,
+          "probability": 0.5
+        },
+        {
+          "word": "tâm",
+          "start": 24.18,
+          "end": 24.34,
+          "probability": 0.79
+        },
+        {
+          "word": "từ",
+          "start": 24.34,
+          "end": 24.52,
+          "probability": 0.14
+        },
+        {
+          "word": "báo",
+          "start": 24.52,
+          "end": 24.62,
+          "probability": 0.86
+        },
+        {
+          "word": "phía",
+          "start": 24.62,
+          "end": 24.76,
+          "probability": 0.63
+        },
+        {
+          "word": "tượng",
+          "start": 24.76,
+          "end": 24.9,
+          "probability": 0.53
+        },
+        {
+          "word": "hibern",
+          "start": 24.9,
+          "end": 25.16,
+          "probability": 0.12
+        },
+        {
+          "word": "của",
+          "start": 25.16,
+          "end": 25.34,
+          "probability": 0.12
+        },
+        {
+          "word": "ra,",
+          "start": 25.34,
+          "end": 25.68,
+          "probability": 0.85
+        },
+        {
+          "word": "ngoài",
+          "start": 25.88,
+          "end": 26.14,
+          "probability": 0.86
+        },
+        {
+          "word": "xưa",
+          "start": 26.14,
+          "end": 26.34,
+          "probability": 0.91
+        },
+        {
+          "word": "báo",
+          "start": 26.34,
+          "end": 26.6,
+          "probability": 1.0
+        },
+        {
+          "word": "mấy",
+          "start": 26.6,
+          "end": 26.82,
+          "probability": 0.67
+        },
+        {
+          "word": "thalah,",
+          "start": 26.82,
+          "end": 27.3,
+          "probability": 0.99
+        },
+        {
+          "word": "khi",
+          "start": 27.36,
+          "end": 27.48,
+          "probability": 0.13
+        },
+        {
+          "word": "ở",
+          "start": 27.48,
+          "end": 27.58,
+          "probability": 0.47
+        },
+        {
+          "word": "khu",
+          "start": 27.58,
+          "end": 27.76,
+          "probability": 0.64
+        },
+        {
+          "word": "của",
+          "start": 27.76,
+          "end": 27.94,
+          "probability": 0.27
+        },
+        {
+          "word": "tây",
+          "start": 27.94,
+          "end": 28.18,
+          "probability": 0.92
+        },
+        {
+          "word": "mắc",
+          "start": 28.18,
+          "end": 28.36,
+          "probability": 0.9
+        },
+        {
+          "word": "thái",
+          "start": 28.36,
+          "end": 28.52,
+          "probability": 0.56
+        },
+        {
+          "word": "bị",
+          "start": 28.52,
+          "end": 28.72,
+          "probability": 0.14
+        },
+        {
+          "word": "vương.",
+          "start": 28.72,
+          "end": 28.86,
+          "probability": 0.96
+        }
+      ]
+    }
+  ]
+}

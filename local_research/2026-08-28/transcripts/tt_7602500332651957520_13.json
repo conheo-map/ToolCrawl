@@ -1,0 +1,754 @@
+{
+  "item_id": "tt_7602500332651957520_13",
+  "duration_seconds": 26.07,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 104,
+  "text": "Tại sao mà này anh thấy là Nhưng mà nếu không nếu đi đi đi đi đi lạm Nhưng mà thôi thì tránh nhạy này Thông thay bồ thấy bồ thường thích nằm Mày tình của bác quá Ok, thời gian là rất là đẹp gì trận nào Bác nhiều dây Và nhiều dây Cui bác quá nhỉ Bác hơn xong ý mình được tượng ở đây Thôi thôi thôi Nếu mà nó đẹp Tôi tàn như vậy thì thông mình tạng từ bỏ xuống會 sống rồi đi Ừ, vậy ok, mắt thôi thôi Thôi thôi mình tạng từ bỏ xuống會 sống rồi, đá",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.3,
+      "text": "Tại sao mà này anh thấy là",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 0.02,
+          "end": 0.54,
+          "probability": 0.27
+        },
+        {
+          "word": "sao",
+          "start": 0.54,
+          "end": 0.64,
+          "probability": 0.76
+        },
+        {
+          "word": "mà",
+          "start": 0.64,
+          "end": 0.74,
+          "probability": 0.27
+        },
+        {
+          "word": "này",
+          "start": 0.74,
+          "end": 0.9,
+          "probability": 0.17
+        },
+        {
+          "word": "anh",
+          "start": 0.9,
+          "end": 1.0,
+          "probability": 0.27
+        },
+        {
+          "word": "thấy",
+          "start": 1.0,
+          "end": 1.1,
+          "probability": 0.66
+        },
+        {
+          "word": "là",
+          "start": 1.1,
+          "end": 1.3,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.68,
+      "end": 4.0,
+      "text": "Nhưng mà nếu không nếu đi đi đi đi đi lạm",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 2.68,
+          "end": 3.0,
+          "probability": 0.11
+        },
+        {
+          "word": "mà",
+          "start": 3.0,
+          "end": 3.18,
+          "probability": 0.97
+        },
+        {
+          "word": "nếu",
+          "start": 3.18,
+          "end": 3.3,
+          "probability": 0.59
+        },
+        {
+          "word": "không",
+          "start": 3.3,
+          "end": 3.44,
+          "probability": 0.98
+        },
+        {
+          "word": "nếu",
+          "start": 3.44,
+          "end": 3.56,
+          "probability": 0.31
+        },
+        {
+          "word": "đi",
+          "start": 3.56,
+          "end": 3.66,
+          "probability": 0.84
+        },
+        {
+          "word": "đi",
+          "start": 3.66,
+          "end": 3.82,
+          "probability": 0.8
+        },
+        {
+          "word": "đi",
+          "start": 3.82,
+          "end": 3.84,
+          "probability": 0.33
+        },
+        {
+          "word": "đi",
+          "start": 3.84,
+          "end": 3.84,
+          "probability": 0.14
+        },
+        {
+          "word": "đi",
+          "start": 3.84,
+          "end": 3.84,
+          "probability": 0.07
+        },
+        {
+          "word": "lạm",
+          "start": 3.84,
+          "end": 4.0,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.0,
+      "end": 5.52,
+      "text": "Nhưng mà thôi thì tránh nhạy này",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 4.0,
+          "end": 4.24,
+          "probability": 0.45
+        },
+        {
+          "word": "mà",
+          "start": 4.24,
+          "end": 4.5,
+          "probability": 0.99
+        },
+        {
+          "word": "thôi",
+          "start": 4.5,
+          "end": 4.92,
+          "probability": 0.49
+        },
+        {
+          "word": "thì",
+          "start": 4.92,
+          "end": 5.1,
+          "probability": 0.06
+        },
+        {
+          "word": "tránh",
+          "start": 5.1,
+          "end": 5.22,
+          "probability": 0.27
+        },
+        {
+          "word": "nhạy",
+          "start": 5.22,
+          "end": 5.38,
+          "probability": 0.31
+        },
+        {
+          "word": "này",
+          "start": 5.38,
+          "end": 5.52,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.52,
+      "end": 7.26,
+      "text": "Thông thay bồ thấy bồ thường thích nằm",
+      "words": [
+        {
+          "word": "Thông",
+          "start": 5.52,
+          "end": 5.58,
+          "probability": 0.14
+        },
+        {
+          "word": "thay",
+          "start": 5.58,
+          "end": 5.7,
+          "probability": 0.45
+        },
+        {
+          "word": "bồ",
+          "start": 5.7,
+          "end": 5.86,
+          "probability": 0.52
+        },
+        {
+          "word": "thấy",
+          "start": 5.86,
+          "end": 5.98,
+          "probability": 0.21
+        },
+        {
+          "word": "bồ",
+          "start": 5.98,
+          "end": 6.12,
+          "probability": 0.91
+        },
+        {
+          "word": "thường",
+          "start": 6.12,
+          "end": 6.24,
+          "probability": 0.29
+        },
+        {
+          "word": "thích",
+          "start": 6.24,
+          "end": 6.4,
+          "probability": 0.48
+        },
+        {
+          "word": "nằm",
+          "start": 6.4,
+          "end": 7.26,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.26,
+      "end": 8.54,
+      "text": "Mày tình của bác quá",
+      "words": [
+        {
+          "word": "Mày",
+          "start": 7.26,
+          "end": 7.54,
+          "probability": 0.44
+        },
+        {
+          "word": "tình",
+          "start": 7.54,
+          "end": 7.68,
+          "probability": 0.47
+        },
+        {
+          "word": "của",
+          "start": 7.68,
+          "end": 7.78,
+          "probability": 0.4
+        },
+        {
+          "word": "bác",
+          "start": 7.78,
+          "end": 7.92,
+          "probability": 0.41
+        },
+        {
+          "word": "quá",
+          "start": 7.92,
+          "end": 8.54,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.54,
+      "end": 10.16,
+      "text": "Ok, thời gian là rất là đẹp gì trận nào",
+      "words": [
+        {
+          "word": "Ok,",
+          "start": 8.54,
+          "end": 8.98,
+          "probability": 0.45
+        },
+        {
+          "word": "thời",
+          "start": 9.14,
+          "end": 9.24,
+          "probability": 0.37
+        },
+        {
+          "word": "gian",
+          "start": 9.24,
+          "end": 9.24,
+          "probability": 0.74
+        },
+        {
+          "word": "là",
+          "start": 9.24,
+          "end": 9.4,
+          "probability": 0.19
+        },
+        {
+          "word": "rất",
+          "start": 9.4,
+          "end": 9.52,
+          "probability": 0.09
+        },
+        {
+          "word": "là",
+          "start": 9.52,
+          "end": 9.62,
+          "probability": 0.38
+        },
+        {
+          "word": "đẹp",
+          "start": 9.62,
+          "end": 9.62,
+          "probability": 0.4
+        },
+        {
+          "word": "gì",
+          "start": 9.62,
+          "end": 9.78,
+          "probability": 0.46
+        },
+        {
+          "word": "trận",
+          "start": 9.78,
+          "end": 9.92,
+          "probability": 0.34
+        },
+        {
+          "word": "nào",
+          "start": 9.92,
+          "end": 10.16,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 10.16,
+      "end": 10.96,
+      "text": "Bác nhiều dây",
+      "words": [
+        {
+          "word": "Bác",
+          "start": 10.16,
+          "end": 10.28,
+          "probability": 0.38
+        },
+        {
+          "word": "nhiều",
+          "start": 10.28,
+          "end": 10.5,
+          "probability": 0.16
+        },
+        {
+          "word": "dây",
+          "start": 10.5,
+          "end": 10.96,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 10.96,
+      "end": 12.34,
+      "text": "Và nhiều dây",
+      "words": [
+        {
+          "word": "Và",
+          "start": 10.96,
+          "end": 11.44,
+          "probability": 0.12
+        },
+        {
+          "word": "nhiều",
+          "start": 11.44,
+          "end": 11.58,
+          "probability": 0.96
+        },
+        {
+          "word": "dây",
+          "start": 11.58,
+          "end": 12.34,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 12.74,
+      "end": 13.92,
+      "text": "Cui bác quá nhỉ",
+      "words": [
+        {
+          "word": "Cui",
+          "start": 12.74,
+          "end": 13.06,
+          "probability": 0.21
+        },
+        {
+          "word": "bác",
+          "start": 13.06,
+          "end": 13.16,
+          "probability": 0.96
+        },
+        {
+          "word": "quá",
+          "start": 13.16,
+          "end": 13.28,
+          "probability": 0.4
+        },
+        {
+          "word": "nhỉ",
+          "start": 13.28,
+          "end": 13.92,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 13.92,
+      "end": 16.22,
+      "text": "Bác hơn xong ý mình được tượng ở đây",
+      "words": [
+        {
+          "word": "Bác",
+          "start": 13.92,
+          "end": 14.38,
+          "probability": 0.55
+        },
+        {
+          "word": "hơn",
+          "start": 14.38,
+          "end": 14.58,
+          "probability": 0.77
+        },
+        {
+          "word": "xong",
+          "start": 14.58,
+          "end": 14.72,
+          "probability": 0.14
+        },
+        {
+          "word": "ý",
+          "start": 14.72,
+          "end": 14.94,
+          "probability": 0.14
+        },
+        {
+          "word": "mình",
+          "start": 14.94,
+          "end": 15.12,
+          "probability": 0.8
+        },
+        {
+          "word": "được",
+          "start": 15.12,
+          "end": 15.28,
+          "probability": 0.7
+        },
+        {
+          "word": "tượng",
+          "start": 15.28,
+          "end": 15.38,
+          "probability": 0.41
+        },
+        {
+          "word": "ở",
+          "start": 15.38,
+          "end": 15.56,
+          "probability": 0.25
+        },
+        {
+          "word": "đây",
+          "start": 15.56,
+          "end": 16.22,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 17.88,
+      "end": 18.84,
+      "text": "Thôi thôi thôi",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 17.88,
+          "end": 18.2,
+          "probability": 0.59
+        },
+        {
+          "word": "thôi",
+          "start": 18.2,
+          "end": 18.24,
+          "probability": 0.14
+        },
+        {
+          "word": "thôi",
+          "start": 18.24,
+          "end": 18.84,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 18.84,
+      "end": 19.94,
+      "text": "Nếu mà nó đẹp",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 18.84,
+          "end": 19.24,
+          "probability": 0.65
+        },
+        {
+          "word": "mà",
+          "start": 19.24,
+          "end": 19.38,
+          "probability": 0.66
+        },
+        {
+          "word": "nó",
+          "start": 19.38,
+          "end": 19.54,
+          "probability": 0.33
+        },
+        {
+          "word": "đẹp",
+          "start": 19.54,
+          "end": 19.94,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 19.94,
+      "end": 22.52,
+      "text": "Tôi tàn như vậy thì thông mình tạng từ bỏ xuống會 sống rồi đi",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 19.94,
+          "end": 20.14,
+          "probability": 0.09
+        },
+        {
+          "word": "tàn",
+          "start": 20.14,
+          "end": 20.32,
+          "probability": 0.45
+        },
+        {
+          "word": "như",
+          "start": 20.32,
+          "end": 20.44,
+          "probability": 0.36
+        },
+        {
+          "word": "vậy",
+          "start": 20.44,
+          "end": 20.54,
+          "probability": 0.85
+        },
+        {
+          "word": "thì",
+          "start": 20.54,
+          "end": 20.68,
+          "probability": 0.65
+        },
+        {
+          "word": "thông",
+          "start": 20.68,
+          "end": 20.8,
+          "probability": 0.31
+        },
+        {
+          "word": "mình",
+          "start": 20.8,
+          "end": 20.9,
+          "probability": 0.51
+        },
+        {
+          "word": "tạng",
+          "start": 20.9,
+          "end": 21.06,
+          "probability": 0.56
+        },
+        {
+          "word": "từ",
+          "start": 21.06,
+          "end": 21.16,
+          "probability": 0.11
+        },
+        {
+          "word": "bỏ",
+          "start": 21.16,
+          "end": 21.28,
+          "probability": 0.65
+        },
+        {
+          "word": "xuống會",
+          "start": 21.28,
+          "end": 21.5,
+          "probability": 0.2
+        },
+        {
+          "word": "sống",
+          "start": 21.5,
+          "end": 21.6,
+          "probability": 0.16
+        },
+        {
+          "word": "rồi",
+          "start": 21.6,
+          "end": 21.72,
+          "probability": 0.29
+        },
+        {
+          "word": "đi",
+          "start": 21.72,
+          "end": 22.52,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 22.52,
+      "end": 24.18,
+      "text": "Ừ, vậy ok, mắt thôi thôi",
+      "words": [
+        {
+          "word": "Ừ,",
+          "start": 22.52,
+          "end": 22.82,
+          "probability": 0.31
+        },
+        {
+          "word": "vậy",
+          "start": 22.9,
+          "end": 23.22,
+          "probability": 0.03
+        },
+        {
+          "word": "ok,",
+          "start": 23.22,
+          "end": 23.42,
+          "probability": 0.18
+        },
+        {
+          "word": "mắt",
+          "start": 23.48,
+          "end": 24.06,
+          "probability": 0.13
+        },
+        {
+          "word": "thôi",
+          "start": 24.06,
+          "end": 24.06,
+          "probability": 0.33
+        },
+        {
+          "word": "thôi",
+          "start": 24.06,
+          "end": 24.18,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 24.18,
+      "end": 25.66,
+      "text": "Thôi thôi mình tạng từ bỏ xuống會 sống rồi, đá",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 24.18,
+          "end": 24.34,
+          "probability": 0.5
+        },
+        {
+          "word": "thôi",
+          "start": 24.34,
+          "end": 24.34,
+          "probability": 0.87
+        },
+        {
+          "word": "mình",
+          "start": 24.34,
+          "end": 24.46,
+          "probability": 0.41
+        },
+        {
+          "word": "tạng",
+          "start": 24.46,
+          "end": 24.6,
+          "probability": 0.99
+        },
+        {
+          "word": "từ",
+          "start": 24.6,
+          "end": 24.68,
+          "probability": 0.87
+        },
+        {
+          "word": "bỏ",
+          "start": 24.68,
+          "end": 24.8,
+          "probability": 0.99
+        },
+        {
+          "word": "xuống會",
+          "start": 24.8,
+          "end": 25.06,
+          "probability": 0.94
+        },
+        {
+          "word": "sống",
+          "start": 25.06,
+          "end": 25.18,
+          "probability": 0.98
+        },
+        {
+          "word": "rồi,",
+          "start": 25.18,
+          "end": 25.3,
+          "probability": 0.9
+        },
+        {
+          "word": "đá",
+          "start": 25.36,
+          "end": 25.66,
+          "probability": 0.2
+        }
+      ]
+    }
+  ]
+}

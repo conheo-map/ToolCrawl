@@ -1,0 +1,90 @@
+{
+  "item_id": "tt_7647092179084659988_15",
+  "duration_seconds": 18.55,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "không có bây giờ, không có bây giờ, không có bây giờ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.2,
+      "text": "không có bây giờ, không có bây giờ, không có bây giờ.",
+      "words": [
+        {
+          "word": "không",
+          "start": 0.0,
+          "end": 0.38,
+          "probability": 0.08
+        },
+        {
+          "word": "có",
+          "start": 0.38,
+          "end": 0.82,
+          "probability": 0.12
+        },
+        {
+          "word": "bây",
+          "start": 0.82,
+          "end": 1.42,
+          "probability": 0.44
+        },
+        {
+          "word": "giờ,",
+          "start": 1.42,
+          "end": 1.72,
+          "probability": 0.88
+        },
+        {
+          "word": "không",
+          "start": 2.0,
+          "end": 2.08,
+          "probability": 0.07
+        },
+        {
+          "word": "có",
+          "start": 2.08,
+          "end": 2.08,
+          "probability": 0.39
+        },
+        {
+          "word": "bây",
+          "start": 2.08,
+          "end": 2.08,
+          "probability": 0.58
+        },
+        {
+          "word": "giờ,",
+          "start": 2.08,
+          "end": 2.08,
+          "probability": 0.99
+        },
+        {
+          "word": "không",
+          "start": 2.08,
+          "end": 2.16,
+          "probability": 0.31
+        },
+        {
+          "word": "có",
+          "start": 2.16,
+          "end": 2.18,
+          "probability": 0.68
+        },
+        {
+          "word": "bây",
+          "start": 2.18,
+          "end": 2.2,
+          "probability": 0.83
+        },
+        {
+          "word": "giờ.",
+          "start": 2.2,
+          "end": 2.2,
+          "probability": 1.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "item_id": "tt_7671985709074468116_02",
+  "duration_seconds": 29.62,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 94,
+  "text": "Đại sữa xưa xưa đọng luôn Tình em bị cố địa Tao nó phần này khăn, phần này ngạch Đại giao Đại giao Sau khi tuyệt lấy trái nghiệm, hãy kinh nhóm này thực sự đó là tốt Chại rất khu của kai Đợi tìm qua các bạn đã ứng dùng được kia kinh thất học trên lọc và đu vào trong kia bản hán cả ai kại tính rất nhiều kia hàng bục trong bí xe này và trại trại trại trại bà đặt trinh kia trình thần rồi Lấy rất là mục",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.14,
+      "end": 2.22,
+      "text": "Đại sữa xưa xưa đọng luôn",
+      "words": [
+        {
+          "word": "Đại",
+          "start": 0.14,
+          "end": 0.74,
+          "probability": 0.23
+        },
+        {
+          "word": "sữa",
+          "start": 0.74,
+          "end": 1.08,
+          "probability": 0.09
+        },
+        {
+          "word": "xưa",
+          "start": 1.08,
+          "end": 1.66,
+          "probability": 0.52
+        },
+        {
+          "word": "xưa",
+          "start": 1.66,
+          "end": 1.76,
+          "probability": 0.54
+        },
+        {
+          "word": "đọng",
+          "start": 1.76,
+          "end": 1.98,
+          "probability": 0.43
+        },
+        {
+          "word": "luôn",
+          "start": 1.98,
+          "end": 2.22,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.22,
+      "end": 3.34,
+      "text": "Tình em bị cố địa",
+      "words": [
+        {
+          "word": "Tình",
+          "start": 2.22,
+          "end": 2.78,
+          "probability": 0.23
+        },
+        {
+          "word": "em",
+          "start": 2.78,
+          "end": 2.94,
+          "probability": 0.55
+        },
+        {
+          "word": "bị",
+          "start": 2.94,
+          "end": 3.08,
+          "probability": 0.21
+        },
+        {
+          "word": "cố",
+          "start": 3.08,
+          "end": 3.16,
+          "probability": 0.37
+        },
+        {
+          "word": "địa",
+          "start": 3.16,
+          "end": 3.34,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.34,
+      "end": 5.24,
+      "text": "Tao nó phần này khăn, phần này ngạch",
+      "words": [
+        {
+          "word": "Tao",
+          "start": 3.34,
+          "end": 3.52,
+          "probability": 0.06
+        },
+        {
+          "word": "nó",
+          "start": 3.52,
+          "end": 3.78,
+          "probability": 0.1
+        },
+        {
+          "word": "phần",
+          "start": 3.78,
+          "end": 4.0,
+          "probability": 0.67
+        },
+        {
+          "word": "này",
+          "start": 4.0,
+          "end": 4.14,
+          "probability": 0.4
+        },
+        {
+          "word": "khăn,",
+          "start": 4.14,
+          "end": 4.46,
+          "probability": 0.36
+        },
+        {
+          "word": "phần",
+          "start": 4.46,
+          "end": 4.78,
+          "probability": 0.66
+        },
+        {
+          "word": "này",
+          "start": 4.78,
+          "end": 4.94,
+          "probability": 0.72
+        },
+        {
+          "word": "ngạch",
+          "start": 4.94,
+          "end": 5.24,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.24,
+      "end": 5.78,
+      "text": "Đại giao",
+      "words": [
+        {
+          "word": "Đại",
+          "start": 5.24,
+          "end": 5.56,
+          "probability": 0.24
+        },
+        {
+          "word": "giao",
+          "start": 5.56,
+          "end": 5.78,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 5.78,
+      "end": 6.5,
+      "text": "Đại giao",
+      "words": [
+        {
+          "word": "Đại",
+          "start": 5.78,
+          "end": 6.1,
+          "probability": 0.1
+        },
+        {
+          "word": "giao",
+          "start": 6.1,
+          "end": 6.5,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.99,
+      "end": 13.11,
+      "text": "Sau khi tuyệt lấy trái nghiệm,",
+      "words": [
+        {
+          "word": "Sau",
+          "start": 10.99,
+          "end": 11.43,
+          "probability": 0.0
+        },
+        {
+          "word": "khi",
+          "start": 11.43,
+          "end": 11.87,
+          "probability": 0.94
+        },
+        {
+          "word": "tuyệt",
+          "start": 11.87,
+          "end": 12.53,
+          "probability": 0.4
+        },
+        {
+          "word": "lấy",
+          "start": 12.53,
+          "end": 12.67,
+          "probability": 0.25
+        },
+        {
+          "word": "trái",
+          "start": 12.67,
+          "end": 12.87,
+          "probability": 0.63
+        },
+        {
+          "word": "nghiệm,",
+          "start": 12.87,
+          "end": 13.11,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 13.79,
+      "end": 15.67,
+      "text": "hãy kinh nhóm này thực sự đó là tốt",
+      "words": [
+        {
+          "word": "hãy",
+          "start": 13.79,
+          "end": 14.23,
+          "probability": 0.28
+        },
+        {
+          "word": "kinh",
+          "start": 14.23,
+          "end": 14.67,
+          "probability": 0.22
+        },
+        {
+          "word": "nhóm",
+          "start": 14.67,
+          "end": 14.67,
+          "probability": 0.43
+        },
+        {
+          "word": "này",
+          "start": 14.67,
+          "end": 14.81,
+          "probability": 0.33
+        },
+        {
+          "word": "thực",
+          "start": 14.81,
+          "end": 14.99,
+          "probability": 0.73
+        },
+        {
+          "word": "sự",
+          "start": 14.99,
+          "end": 15.13,
+          "probability": 0.93
+        },
+        {
+          "word": "đó",
+          "start": 15.13,
+          "end": 15.39,
+          "probability": 0.19
+        },
+        {
+          "word": "là",
+          "start": 15.39,
+          "end": 15.41,
+          "probability": 0.24
+        },
+        {
+          "word": "tốt",
+          "start": 15.41,
+          "end": 15.67,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.67,
+      "end": 17.29,
+      "text": "Chại rất khu của kai",
+      "words": [
+        {
+          "word": "Chại",
+          "start": 15.67,
+          "end": 16.25,
+          "probability": 0.18
+        },
+        {
+          "word": "rất",
+          "start": 16.25,
+          "end": 16.49,
+          "probability": 0.22
+        },
+        {
+          "word": "khu",
+          "start": 16.49,
+          "end": 16.67,
+          "probability": 0.14
+        },
+        {
+          "word": "của",
+          "start": 16.67,
+          "end": 16.83,
+          "probability": 0.06
+        },
+        {
+          "word": "kai",
+          "start": 16.83,
+          "end": 17.29,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 17.29,
+      "end": 20.43,
+      "text": "Đợi tìm qua các bạn đã ứng dùng được kia kinh thất học trên lọc",
+      "words": [
+        {
+          "word": "Đợi",
+          "start": 17.29,
+          "end": 17.85,
+          "probability": 0.44
+        },
+        {
+          "word": "tìm",
+          "start": 17.85,
+          "end": 18.07,
+          "probability": 0.35
+        },
+        {
+          "word": "qua",
+          "start": 18.07,
+          "end": 18.27,
+          "probability": 0.76
+        },
+        {
+          "word": "các",
+          "start": 18.27,
+          "end": 18.47,
+          "probability": 0.35
+        },
+        {
+          "word": "bạn",
+          "start": 18.47,
+          "end": 18.59,
+          "probability": 0.99
+        },
+        {
+          "word": "đã",
+          "start": 18.59,
+          "end": 18.69,
+          "probability": 0.55
+        },
+        {
+          "word": "ứng",
+          "start": 18.69,
+          "end": 18.85,
+          "probability": 0.53
+        },
+        {
+          "word": "dùng",
+          "start": 18.85,
+          "end": 19.01,
+          "probability": 0.52
+        },
+        {
+          "word": "được",
+          "start": 19.01,
+          "end": 19.19,
+          "probability": 0.46
+        },
+        {
+          "word": "kia",
+          "start": 19.19,
+          "end": 19.33,
+          "probability": 0.13
+        },
+        {
+          "word": "kinh",
+          "start": 19.33,
+          "end": 19.41,
+          "probability": 0.56
+        },
+        {
+          "word": "thất",
+          "start": 19.41,
+          "end": 19.55,
+          "probability": 0.46
+        },
+        {
+          "word": "học",
+          "start": 19.55,
+          "end": 19.77,
+          "probability": 0.5
+        },
+        {
+          "word": "trên",
+          "start": 19.77,
+          "end": 19.91,
+          "probability": 0.74
+        },
+        {
+          "word": "lọc",
+          "start": 19.91,
+          "end": 20.43,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 21.15,
+      "end": 23.99,
+      "text": "và đu vào trong kia bản hán cả ai kại tính",
+      "words": [
+        {
+          "word": "và",
+          "start": 21.15,
+          "end": 21.59,
+          "probability": 0.23
+        },
+        {
+          "word": "đu",
+          "start": 21.59,
+          "end": 21.89,
+          "probability": 0.73
+        },
+        {
+          "word": "vào",
+          "start": 21.89,
+          "end": 22.09,
+          "probability": 0.98
+        },
+        {
+          "word": "trong",
+          "start": 22.09,
+          "end": 22.37,
+          "probability": 0.96
+        },
+        {
+          "word": "kia",
+          "start": 22.37,
+          "end": 22.59,
+          "probability": 0.32
+        },
+        {
+          "word": "bản",
+          "start": 22.59,
+          "end": 22.81,
+          "probability": 0.51
+        },
+        {
+          "word": "hán",
+          "start": 22.81,
+          "end": 23.23,
+          "probability": 0.31
+        },
+        {
+          "word": "cả",
+          "start": 23.23,
+          "end": 23.39,
+          "probability": 0.34
+        },
+        {
+          "word": "ai",
+          "start": 23.39,
+          "end": 23.59,
+          "probability": 0.22
+        },
+        {
+          "word": "kại",
+          "start": 23.59,
+          "end": 23.77,
+          "probability": 0.32
+        },
+        {
+          "word": "tính",
+          "start": 23.77,
+          "end": 23.99,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 23.99,
+      "end": 26.11,
+      "text": "rất nhiều kia hàng bục trong bí xe này",
+      "words": [
+        {
+          "word": "rất",
+          "start": 23.99,
+          "end": 24.39,
+          "probability": 0.36
+        },
+        {
+          "word": "nhiều",
+          "start": 24.39,
+          "end": 24.67,
+          "probability": 0.55
+        },
+        {
+          "word": "kia",
+          "start": 24.67,
+          "end": 24.89,
+          "probability": 0.82
+        },
+        {
+          "word": "hàng",
+          "start": 24.89,
+          "end": 24.95,
+          "probability": 0.63
+        },
+        {
+          "word": "bục",
+          "start": 24.95,
+          "end": 25.13,
+          "probability": 0.46
+        },
+        {
+          "word": "trong",
+          "start": 25.13,
+          "end": 25.29,
+          "probability": 0.67
+        },
+        {
+          "word": "bí",
+          "start": 25.29,
+          "end": 25.51,
+          "probability": 0.29
+        },
+        {
+          "word": "xe",
+          "start": 25.51,
+          "end": 25.57,
+          "probability": 0.52
+        },
+        {
+          "word": "này",
+          "start": 25.57,
+          "end": 26.11,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 26.11,
+      "end": 28.53,
+      "text": "và trại trại trại trại bà đặt trinh kia trình thần rồi",
+      "words": [
+        {
+          "word": "và",
+          "start": 26.11,
+          "end": 26.33,
+          "probability": 0.3
+        },
+        {
+          "word": "trại",
+          "start": 26.33,
+          "end": 26.63,
+          "probability": 0.6
+        },
+        {
+          "word": "trại",
+          "start": 26.63,
+          "end": 26.91,
+          "probability": 0.43
+        },
+        {
+          "word": "trại",
+          "start": 26.91,
+          "end": 26.95,
+          "probability": 0.52
+        },
+        {
+          "word": "trại",
+          "start": 26.95,
+          "end": 26.97,
+          "probability": 0.56
+        },
+        {
+          "word": "bà",
+          "start": 26.97,
+          "end": 27.03,
+          "probability": 0.28
+        },
+        {
+          "word": "đặt",
+          "start": 27.03,
+          "end": 27.17,
+          "probability": 0.38
+        },
+        {
+          "word": "trinh",
+          "start": 27.17,
+          "end": 27.35,
+          "probability": 0.49
+        },
+        {
+          "word": "kia",
+          "start": 27.35,
+          "end": 27.61,
+          "probability": 0.92
+        },
+        {
+          "word": "trình",
+          "start": 27.61,
+          "end": 27.85,
+          "probability": 0.38
+        },
+        {
+          "word": "thần",
+          "start": 27.85,
+          "end": 28.17,
+          "probability": 0.53
+        },
+        {
+          "word": "rồi",
+          "start": 28.17,
+          "end": 28.53,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 28.53,
+      "end": 29.49,
+      "text": "Lấy rất là mục",
+      "words": [
+        {
+          "word": "Lấy",
+          "start": 28.53,
+          "end": 28.99,
+          "probability": 0.23
+        },
+        {
+          "word": "rất",
+          "start": 28.99,
+          "end": 29.19,
+          "probability": 0.39
+        },
+        {
+          "word": "là",
+          "start": 29.19,
+          "end": 29.23,
+          "probability": 0.81
+        },
+        {
+          "word": "mục",
+          "start": 29.23,
+          "end": 29.49,
+          "probability": 0.41
+        }
+      ]
+    }
+  ]
+}

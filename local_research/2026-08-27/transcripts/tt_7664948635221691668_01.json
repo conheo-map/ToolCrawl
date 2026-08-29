@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7664948635221691668_01",
+  "duration_seconds": 28.21,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Chúng không có kìa...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Chúng không có kìa...",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.1
+        },
+        {
+          "word": "không",
+          "start": 0.46,
+          "end": 0.48,
+          "probability": 0.04
+        },
+        {
+          "word": "có",
+          "start": 0.48,
+          "end": 0.48,
+          "probability": 0.11
+        },
+        {
+          "word": "kìa...",
+          "start": 0.48,
+          "end": 4.0,
+          "probability": 0.26
+        }
+      ]
+    }
+  ]
+}

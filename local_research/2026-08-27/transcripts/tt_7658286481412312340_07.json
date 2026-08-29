@@ -1,0 +1,426 @@
+{
+  "item_id": "tt_7658286481412312340_07",
+  "duration_seconds": 13.93,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 64,
+  "text": "Thì mình phải là một phòng để mình trước, giằm con khi phí xe phòng nó phán chíu chíu hơn. Mặc là làm cái bạc thì nó cóm chí với mà lúc đó mình chỉ với mình hậm con rồi, của bảy đem con thì mình không thể hùng 2 và con thì đó mình trước. Gần thách lấu, mình thay nước chàng thôi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.64,
+      "text": "Thì mình phải là một phòng để mình trước, giằm con khi phí xe phòng nó phán chíu chíu hơn.",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.54
+        },
+        {
+          "word": "mình",
+          "start": 0.26,
+          "end": 0.44,
+          "probability": 0.96
+        },
+        {
+          "word": "phải",
+          "start": 0.44,
+          "end": 0.62,
+          "probability": 0.44
+        },
+        {
+          "word": "là",
+          "start": 0.62,
+          "end": 0.84,
+          "probability": 0.84
+        },
+        {
+          "word": "một",
+          "start": 0.84,
+          "end": 1.04,
+          "probability": 0.76
+        },
+        {
+          "word": "phòng",
+          "start": 1.04,
+          "end": 1.28,
+          "probability": 0.64
+        },
+        {
+          "word": "để",
+          "start": 1.28,
+          "end": 1.44,
+          "probability": 0.36
+        },
+        {
+          "word": "mình",
+          "start": 1.44,
+          "end": 1.62,
+          "probability": 0.95
+        },
+        {
+          "word": "trước,",
+          "start": 1.62,
+          "end": 1.82,
+          "probability": 0.52
+        },
+        {
+          "word": "giằm",
+          "start": 2.0,
+          "end": 2.28,
+          "probability": 0.48
+        },
+        {
+          "word": "con",
+          "start": 2.28,
+          "end": 2.54,
+          "probability": 0.78
+        },
+        {
+          "word": "khi",
+          "start": 2.54,
+          "end": 2.78,
+          "probability": 0.35
+        },
+        {
+          "word": "phí",
+          "start": 2.78,
+          "end": 3.02,
+          "probability": 0.42
+        },
+        {
+          "word": "xe",
+          "start": 3.02,
+          "end": 3.22,
+          "probability": 0.28
+        },
+        {
+          "word": "phòng",
+          "start": 3.22,
+          "end": 3.44,
+          "probability": 0.99
+        },
+        {
+          "word": "nó",
+          "start": 3.44,
+          "end": 3.6,
+          "probability": 0.72
+        },
+        {
+          "word": "phán",
+          "start": 3.6,
+          "end": 3.76,
+          "probability": 0.33
+        },
+        {
+          "word": "chíu",
+          "start": 3.76,
+          "end": 4.1,
+          "probability": 0.47
+        },
+        {
+          "word": "chíu",
+          "start": 4.1,
+          "end": 4.34,
+          "probability": 0.75
+        },
+        {
+          "word": "hơn.",
+          "start": 4.34,
+          "end": 4.64,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.78,
+      "end": 8.26,
+      "text": "Mặc là làm cái bạc thì nó cóm chí với mà lúc đó mình chỉ với mình hậm con rồi,",
+      "words": [
+        {
+          "word": "Mặc",
+          "start": 4.78,
+          "end": 4.9,
+          "probability": 0.34
+        },
+        {
+          "word": "là",
+          "start": 4.9,
+          "end": 5.08,
+          "probability": 0.86
+        },
+        {
+          "word": "làm",
+          "start": 5.08,
+          "end": 5.28,
+          "probability": 0.87
+        },
+        {
+          "word": "cái",
+          "start": 5.28,
+          "end": 5.4,
+          "probability": 0.38
+        },
+        {
+          "word": "bạc",
+          "start": 5.4,
+          "end": 5.7,
+          "probability": 0.44
+        },
+        {
+          "word": "thì",
+          "start": 5.7,
+          "end": 5.86,
+          "probability": 0.2
+        },
+        {
+          "word": "nó",
+          "start": 5.86,
+          "end": 6.04,
+          "probability": 0.31
+        },
+        {
+          "word": "cóm",
+          "start": 6.04,
+          "end": 6.32,
+          "probability": 0.26
+        },
+        {
+          "word": "chí",
+          "start": 6.32,
+          "end": 6.42,
+          "probability": 0.63
+        },
+        {
+          "word": "với",
+          "start": 6.42,
+          "end": 6.6,
+          "probability": 0.51
+        },
+        {
+          "word": "mà",
+          "start": 6.6,
+          "end": 6.72,
+          "probability": 0.7
+        },
+        {
+          "word": "lúc",
+          "start": 6.72,
+          "end": 6.86,
+          "probability": 0.74
+        },
+        {
+          "word": "đó",
+          "start": 6.86,
+          "end": 6.98,
+          "probability": 0.91
+        },
+        {
+          "word": "mình",
+          "start": 6.98,
+          "end": 7.2,
+          "probability": 0.97
+        },
+        {
+          "word": "chỉ",
+          "start": 7.2,
+          "end": 7.34,
+          "probability": 0.36
+        },
+        {
+          "word": "với",
+          "start": 7.34,
+          "end": 7.5,
+          "probability": 0.37
+        },
+        {
+          "word": "mình",
+          "start": 7.5,
+          "end": 7.64,
+          "probability": 0.94
+        },
+        {
+          "word": "hậm",
+          "start": 7.64,
+          "end": 7.8,
+          "probability": 0.55
+        },
+        {
+          "word": "con",
+          "start": 7.8,
+          "end": 8.08,
+          "probability": 0.32
+        },
+        {
+          "word": "rồi,",
+          "start": 8.08,
+          "end": 8.26,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.46,
+      "end": 10.7,
+      "text": "của bảy đem con thì mình không thể hùng 2 và con thì đó mình trước.",
+      "words": [
+        {
+          "word": "của",
+          "start": 8.46,
+          "end": 8.58,
+          "probability": 0.08
+        },
+        {
+          "word": "bảy",
+          "start": 8.58,
+          "end": 8.8,
+          "probability": 0.46
+        },
+        {
+          "word": "đem",
+          "start": 8.8,
+          "end": 8.88,
+          "probability": 0.22
+        },
+        {
+          "word": "con",
+          "start": 8.88,
+          "end": 9.12,
+          "probability": 0.99
+        },
+        {
+          "word": "thì",
+          "start": 9.12,
+          "end": 9.32,
+          "probability": 0.61
+        },
+        {
+          "word": "mình",
+          "start": 9.32,
+          "end": 9.52,
+          "probability": 0.2
+        },
+        {
+          "word": "không",
+          "start": 9.52,
+          "end": 9.52,
+          "probability": 0.13
+        },
+        {
+          "word": "thể",
+          "start": 9.52,
+          "end": 9.52,
+          "probability": 0.25
+        },
+        {
+          "word": "hùng",
+          "start": 9.52,
+          "end": 9.56,
+          "probability": 0.28
+        },
+        {
+          "word": "2",
+          "start": 9.56,
+          "end": 9.74,
+          "probability": 0.5
+        },
+        {
+          "word": "và",
+          "start": 9.74,
+          "end": 9.88,
+          "probability": 0.17
+        },
+        {
+          "word": "con",
+          "start": 9.88,
+          "end": 10.08,
+          "probability": 0.9
+        },
+        {
+          "word": "thì",
+          "start": 10.08,
+          "end": 10.24,
+          "probability": 0.1
+        },
+        {
+          "word": "đó",
+          "start": 10.24,
+          "end": 10.32,
+          "probability": 0.15
+        },
+        {
+          "word": "mình",
+          "start": 10.32,
+          "end": 10.48,
+          "probability": 0.96
+        },
+        {
+          "word": "trước.",
+          "start": 10.48,
+          "end": 10.7,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.24,
+      "end": 13.74,
+      "text": "Gần thách lấu, mình thay nước chàng thôi.",
+      "words": [
+        {
+          "word": "Gần",
+          "start": 11.24,
+          "end": 11.38,
+          "probability": 0.19
+        },
+        {
+          "word": "thách",
+          "start": 11.38,
+          "end": 11.62,
+          "probability": 0.2
+        },
+        {
+          "word": "lấu,",
+          "start": 11.62,
+          "end": 11.96,
+          "probability": 0.51
+        },
+        {
+          "word": "mình",
+          "start": 12.24,
+          "end": 12.66,
+          "probability": 0.65
+        },
+        {
+          "word": "thay",
+          "start": 12.66,
+          "end": 13.06,
+          "probability": 0.47
+        },
+        {
+          "word": "nước",
+          "start": 13.06,
+          "end": 13.24,
+          "probability": 0.67
+        },
+        {
+          "word": "chàng",
+          "start": 13.24,
+          "end": 13.48,
+          "probability": 0.22
+        },
+        {
+          "word": "thôi.",
+          "start": 13.48,
+          "end": 13.74,
+          "probability": 0.28
+        }
+      ]
+    }
+  ]
+}

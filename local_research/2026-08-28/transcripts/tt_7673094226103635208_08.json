@@ -1,0 +1,394 @@
+{
+  "item_id": "tt_7673094226103635208_08",
+  "duration_seconds": 29.94,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 56,
+  "text": "Rồi đưa vào một trong bán giống mùi khác, rồi, rồi, rồi, rồi, rồi, rồi, rồi. Giờ sẽ có, 4, 4, 4, 4, 5, 6, 7, 5, 5, 6, 5, 6, 7, 7, 5, 5. Để chá, 5, 8, 6, 8, 5. Ok, xong, xong, xong. Đưa 1 xong. xong, xong, xong đô for, nha, ok.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 5.19,
+      "text": "Rồi đưa vào một trong bán giống mùi khác, rồi, rồi, rồi, rồi, rồi, rồi, rồi.",
+      "words": [
+        {
+          "word": "Rồi",
+          "start": 0.05,
+          "end": 0.75,
+          "probability": 0.52
+        },
+        {
+          "word": "đưa",
+          "start": 0.75,
+          "end": 0.93,
+          "probability": 0.3
+        },
+        {
+          "word": "vào",
+          "start": 0.93,
+          "end": 1.09,
+          "probability": 0.3
+        },
+        {
+          "word": "một",
+          "start": 1.09,
+          "end": 1.19,
+          "probability": 0.67
+        },
+        {
+          "word": "trong",
+          "start": 1.19,
+          "end": 1.29,
+          "probability": 0.41
+        },
+        {
+          "word": "bán",
+          "start": 1.29,
+          "end": 1.41,
+          "probability": 0.51
+        },
+        {
+          "word": "giống",
+          "start": 1.41,
+          "end": 1.55,
+          "probability": 0.41
+        },
+        {
+          "word": "mùi",
+          "start": 1.55,
+          "end": 1.63,
+          "probability": 0.32
+        },
+        {
+          "word": "khác,",
+          "start": 1.63,
+          "end": 1.83,
+          "probability": 0.06
+        },
+        {
+          "word": "rồi,",
+          "start": 2.41,
+          "end": 2.81,
+          "probability": 0.24
+        },
+        {
+          "word": "rồi,",
+          "start": 2.93,
+          "end": 2.93,
+          "probability": 0.31
+        },
+        {
+          "word": "rồi,",
+          "start": 2.93,
+          "end": 3.07,
+          "probability": 0.26
+        },
+        {
+          "word": "rồi,",
+          "start": 3.93,
+          "end": 3.93,
+          "probability": 0.4
+        },
+        {
+          "word": "rồi,",
+          "start": 3.93,
+          "end": 4.43,
+          "probability": 0.69
+        },
+        {
+          "word": "rồi,",
+          "start": 5.11,
+          "end": 5.11,
+          "probability": 0.87
+        },
+        {
+          "word": "rồi.",
+          "start": 5.19,
+          "end": 5.19,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.41,
+      "end": 11.11,
+      "text": "Giờ sẽ có, 4, 4, 4, 4, 5, 6, 7, 5, 5, 6, 5, 6, 7, 7, 5, 5.",
+      "words": [
+        {
+          "word": "Giờ",
+          "start": 5.41,
+          "end": 5.55,
+          "probability": 0.08
+        },
+        {
+          "word": "sẽ",
+          "start": 5.55,
+          "end": 5.81,
+          "probability": 0.17
+        },
+        {
+          "word": "có,",
+          "start": 5.81,
+          "end": 6.33,
+          "probability": 0.9
+        },
+        {
+          "word": "4,",
+          "start": 6.53,
+          "end": 6.99,
+          "probability": 0.22
+        },
+        {
+          "word": "4,",
+          "start": 7.17,
+          "end": 7.27,
+          "probability": 0.45
+        },
+        {
+          "word": "4,",
+          "start": 7.27,
+          "end": 7.41,
+          "probability": 0.59
+        },
+        {
+          "word": "4,",
+          "start": 7.41,
+          "end": 7.53,
+          "probability": 0.28
+        },
+        {
+          "word": "5,",
+          "start": 7.53,
+          "end": 7.83,
+          "probability": 0.07
+        },
+        {
+          "word": "6,",
+          "start": 7.83,
+          "end": 7.83,
+          "probability": 0.02
+        },
+        {
+          "word": "7,",
+          "start": 7.83,
+          "end": 8.23,
+          "probability": 0.12
+        },
+        {
+          "word": "5,",
+          "start": 8.51,
+          "end": 8.99,
+          "probability": 0.17
+        },
+        {
+          "word": "5,",
+          "start": 8.99,
+          "end": 9.21,
+          "probability": 0.3
+        },
+        {
+          "word": "6,",
+          "start": 9.21,
+          "end": 9.25,
+          "probability": 0.09
+        },
+        {
+          "word": "5,",
+          "start": 9.25,
+          "end": 9.53,
+          "probability": 0.29
+        },
+        {
+          "word": "6,",
+          "start": 9.53,
+          "end": 9.93,
+          "probability": 0.13
+        },
+        {
+          "word": "7,",
+          "start": 11.05,
+          "end": 11.05,
+          "probability": 0.17
+        },
+        {
+          "word": "7,",
+          "start": 11.11,
+          "end": 11.11,
+          "probability": 0.17
+        },
+        {
+          "word": "5,",
+          "start": 11.11,
+          "end": 11.11,
+          "probability": 0.11
+        },
+        {
+          "word": "5.",
+          "start": 11.11,
+          "end": 11.11,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.11,
+      "end": 13.79,
+      "text": "Để chá, 5, 8, 6, 8, 5.",
+      "words": [
+        {
+          "word": "Để",
+          "start": 11.11,
+          "end": 11.13,
+          "probability": 0.1
+        },
+        {
+          "word": "chá,",
+          "start": 11.13,
+          "end": 11.81,
+          "probability": 0.04
+        },
+        {
+          "word": "5,",
+          "start": 11.81,
+          "end": 12.19,
+          "probability": 0.02
+        },
+        {
+          "word": "8,",
+          "start": 12.19,
+          "end": 12.33,
+          "probability": 0.14
+        },
+        {
+          "word": "6,",
+          "start": 12.85,
+          "end": 12.85,
+          "probability": 0.13
+        },
+        {
+          "word": "8,",
+          "start": 13.79,
+          "end": 13.79,
+          "probability": 0.22
+        },
+        {
+          "word": "5.",
+          "start": 13.79,
+          "end": 13.79,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.79,
+      "end": 15.47,
+      "text": "Ok, xong, xong, xong.",
+      "words": [
+        {
+          "word": "Ok,",
+          "start": 13.79,
+          "end": 13.99,
+          "probability": 0.06
+        },
+        {
+          "word": "xong,",
+          "start": 14.59,
+          "end": 14.99,
+          "probability": 0.58
+        },
+        {
+          "word": "xong,",
+          "start": 15.29,
+          "end": 15.29,
+          "probability": 0.76
+        },
+        {
+          "word": "xong.",
+          "start": 15.47,
+          "end": 15.47,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.47,
+      "end": 15.89,
+      "text": "Đưa 1 xong.",
+      "words": [
+        {
+          "word": "Đưa",
+          "start": 15.47,
+          "end": 15.57,
+          "probability": 0.19
+        },
+        {
+          "word": "1",
+          "start": 15.57,
+          "end": 15.69,
+          "probability": 0.41
+        },
+        {
+          "word": "xong.",
+          "start": 15.69,
+          "end": 15.89,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 16.53,
+      "end": 29.75,
+      "text": "xong, xong, xong đô for, nha, ok.",
+      "words": [
+        {
+          "word": "xong,",
+          "start": 16.53,
+          "end": 16.87,
+          "probability": 0.62
+        },
+        {
+          "word": "xong,",
+          "start": 16.89,
+          "end": 16.99,
+          "probability": 0.91
+        },
+        {
+          "word": "xong",
+          "start": 18.33,
+          "end": 18.67,
+          "probability": 0.92
+        },
+        {
+          "word": "đô",
+          "start": 18.67,
+          "end": 20.37,
+          "probability": 0.01
+        },
+        {
+          "word": "for,",
+          "start": 20.37,
+          "end": 20.37,
+          "probability": 0.0
+        },
+        {
+          "word": "nha,",
+          "start": 29.75,
+          "end": 29.75,
+          "probability": 0.01
+        },
+        {
+          "word": "ok.",
+          "start": 29.75,
+          "end": 29.75,
+          "probability": 0.01
+        }
+      ]
+    }
+  ]
+}

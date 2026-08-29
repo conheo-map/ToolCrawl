@@ -1,0 +1,824 @@
+{
+  "item_id": "tt_7644392781439307025_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 125,
+  "text": "Hội thảo tăng trưởng kinh tế 2 con số quy tục nhiều truyên gia hàng đầu. Ngày 2 mấy tháng 6, báo dân trí sẽ tổ chức hội thảo tổ tăng trưởng kinh tế 2 con số, bối cảnh mới, hành động mới tại khách sản buồn manh hành động. Sự kiện thuộc quân khổ diễn đàn ESE Việt Nam 2 nạn công trăm 2 mi sấu với chủ đề nắm bắt cơ hội, gián giáp tăng trưởng. Tăng lộ rung chính sẽ tập trung vào chuyển đổi số, chuyển đổi xanh, ứng dục AI, đổi mới sáng tạo vào vai trò của ESE, trong năm cao năng lực cạnh tranh của xuân nghiệp Việt Nam. Hội thảo tăng trưởng kinh tế 2 con số,",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.56,
+      "end": 4.02,
+      "text": "Hội thảo tăng trưởng kinh tế 2 con số quy tục nhiều truyên gia hàng đầu.",
+      "words": [
+        {
+          "word": "Hội",
+          "start": 0.56,
+          "end": 0.96,
+          "probability": 0.53
+        },
+        {
+          "word": "thảo",
+          "start": 0.96,
+          "end": 1.18,
+          "probability": 0.62
+        },
+        {
+          "word": "tăng",
+          "start": 1.18,
+          "end": 1.4,
+          "probability": 0.83
+        },
+        {
+          "word": "trưởng",
+          "start": 1.4,
+          "end": 1.58,
+          "probability": 0.8
+        },
+        {
+          "word": "kinh",
+          "start": 1.58,
+          "end": 1.82,
+          "probability": 0.62
+        },
+        {
+          "word": "tế",
+          "start": 1.82,
+          "end": 2.0,
+          "probability": 0.78
+        },
+        {
+          "word": "2",
+          "start": 2.0,
+          "end": 2.24,
+          "probability": 0.29
+        },
+        {
+          "word": "con",
+          "start": 2.24,
+          "end": 2.46,
+          "probability": 0.86
+        },
+        {
+          "word": "số",
+          "start": 2.46,
+          "end": 2.5,
+          "probability": 0.9
+        },
+        {
+          "word": "quy",
+          "start": 2.5,
+          "end": 2.78,
+          "probability": 0.17
+        },
+        {
+          "word": "tục",
+          "start": 2.78,
+          "end": 2.86,
+          "probability": 0.57
+        },
+        {
+          "word": "nhiều",
+          "start": 2.86,
+          "end": 3.06,
+          "probability": 0.53
+        },
+        {
+          "word": "truyên",
+          "start": 3.06,
+          "end": 3.24,
+          "probability": 0.49
+        },
+        {
+          "word": "gia",
+          "start": 3.24,
+          "end": 3.4,
+          "probability": 0.52
+        },
+        {
+          "word": "hàng",
+          "start": 3.4,
+          "end": 3.58,
+          "probability": 0.94
+        },
+        {
+          "word": "đầu.",
+          "start": 3.58,
+          "end": 4.02,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.32,
+      "end": 9.38,
+      "text": "Ngày 2 mấy tháng 6, báo dân trí sẽ tổ chức hội thảo tổ tăng trưởng kinh tế 2 con số,",
+      "words": [
+        {
+          "word": "Ngày",
+          "start": 5.32,
+          "end": 5.42,
+          "probability": 0.57
+        },
+        {
+          "word": "2",
+          "start": 5.42,
+          "end": 5.56,
+          "probability": 0.35
+        },
+        {
+          "word": "mấy",
+          "start": 5.56,
+          "end": 5.74,
+          "probability": 0.17
+        },
+        {
+          "word": "tháng",
+          "start": 5.74,
+          "end": 5.86,
+          "probability": 0.84
+        },
+        {
+          "word": "6,",
+          "start": 5.86,
+          "end": 6.14,
+          "probability": 0.42
+        },
+        {
+          "word": "báo",
+          "start": 6.38,
+          "end": 6.48,
+          "probability": 0.68
+        },
+        {
+          "word": "dân",
+          "start": 6.48,
+          "end": 6.66,
+          "probability": 0.66
+        },
+        {
+          "word": "trí",
+          "start": 6.66,
+          "end": 6.84,
+          "probability": 0.51
+        },
+        {
+          "word": "sẽ",
+          "start": 6.84,
+          "end": 7.0,
+          "probability": 0.78
+        },
+        {
+          "word": "tổ",
+          "start": 7.0,
+          "end": 7.14,
+          "probability": 0.89
+        },
+        {
+          "word": "chức",
+          "start": 7.14,
+          "end": 7.32,
+          "probability": 0.48
+        },
+        {
+          "word": "hội",
+          "start": 7.32,
+          "end": 7.5,
+          "probability": 0.7
+        },
+        {
+          "word": "thảo",
+          "start": 7.5,
+          "end": 7.68,
+          "probability": 0.97
+        },
+        {
+          "word": "tổ",
+          "start": 7.68,
+          "end": 7.9,
+          "probability": 0.23
+        },
+        {
+          "word": "tăng",
+          "start": 7.9,
+          "end": 8.18,
+          "probability": 0.96
+        },
+        {
+          "word": "trưởng",
+          "start": 8.18,
+          "end": 8.42,
+          "probability": 0.99
+        },
+        {
+          "word": "kinh",
+          "start": 8.42,
+          "end": 8.64,
+          "probability": 0.98
+        },
+        {
+          "word": "tế",
+          "start": 8.64,
+          "end": 8.78,
+          "probability": 1.0
+        },
+        {
+          "word": "2",
+          "start": 8.78,
+          "end": 8.98,
+          "probability": 0.99
+        },
+        {
+          "word": "con",
+          "start": 8.98,
+          "end": 9.16,
+          "probability": 1.0
+        },
+        {
+          "word": "số,",
+          "start": 9.16,
+          "end": 9.38,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.76,
+      "end": 12.3,
+      "text": "bối cảnh mới, hành động mới tại khách sản buồn manh hành động.",
+      "words": [
+        {
+          "word": "bối",
+          "start": 9.76,
+          "end": 9.78,
+          "probability": 0.8
+        },
+        {
+          "word": "cảnh",
+          "start": 9.78,
+          "end": 10.0,
+          "probability": 0.7
+        },
+        {
+          "word": "mới,",
+          "start": 10.0,
+          "end": 10.32,
+          "probability": 0.87
+        },
+        {
+          "word": "hành",
+          "start": 10.5,
+          "end": 10.58,
+          "probability": 0.71
+        },
+        {
+          "word": "động",
+          "start": 10.58,
+          "end": 10.74,
+          "probability": 0.99
+        },
+        {
+          "word": "mới",
+          "start": 10.74,
+          "end": 11.02,
+          "probability": 0.99
+        },
+        {
+          "word": "tại",
+          "start": 11.02,
+          "end": 11.22,
+          "probability": 0.78
+        },
+        {
+          "word": "khách",
+          "start": 11.22,
+          "end": 11.44,
+          "probability": 0.67
+        },
+        {
+          "word": "sản",
+          "start": 11.44,
+          "end": 11.62,
+          "probability": 0.68
+        },
+        {
+          "word": "buồn",
+          "start": 11.62,
+          "end": 11.82,
+          "probability": 0.61
+        },
+        {
+          "word": "manh",
+          "start": 11.82,
+          "end": 12.02,
+          "probability": 0.68
+        },
+        {
+          "word": "hành",
+          "start": 12.02,
+          "end": 12.3,
+          "probability": 0.38
+        },
+        {
+          "word": "động.",
+          "start": 12.3,
+          "end": 12.3,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.78,
+      "end": 17.84,
+      "text": "Sự kiện thuộc quân khổ diễn đàn ESE Việt Nam 2 nạn công trăm 2 mi sấu với chủ đề nắm bắt cơ hội,",
+      "words": [
+        {
+          "word": "Sự",
+          "start": 12.78,
+          "end": 12.96,
+          "probability": 0.59
+        },
+        {
+          "word": "kiện",
+          "start": 12.96,
+          "end": 13.16,
+          "probability": 0.61
+        },
+        {
+          "word": "thuộc",
+          "start": 13.16,
+          "end": 13.4,
+          "probability": 0.76
+        },
+        {
+          "word": "quân",
+          "start": 13.4,
+          "end": 13.6,
+          "probability": 0.79
+        },
+        {
+          "word": "khổ",
+          "start": 13.6,
+          "end": 13.84,
+          "probability": 0.78
+        },
+        {
+          "word": "diễn",
+          "start": 13.84,
+          "end": 14.0,
+          "probability": 0.75
+        },
+        {
+          "word": "đàn",
+          "start": 14.0,
+          "end": 14.22,
+          "probability": 0.5
+        },
+        {
+          "word": "ESE",
+          "start": 14.22,
+          "end": 14.58,
+          "probability": 0.23
+        },
+        {
+          "word": "Việt",
+          "start": 14.58,
+          "end": 14.82,
+          "probability": 0.93
+        },
+        {
+          "word": "Nam",
+          "start": 14.82,
+          "end": 15.04,
+          "probability": 0.99
+        },
+        {
+          "word": "2",
+          "start": 15.04,
+          "end": 15.28,
+          "probability": 0.12
+        },
+        {
+          "word": "nạn",
+          "start": 15.28,
+          "end": 15.48,
+          "probability": 0.24
+        },
+        {
+          "word": "công",
+          "start": 15.48,
+          "end": 15.66,
+          "probability": 0.38
+        },
+        {
+          "word": "trăm",
+          "start": 15.66,
+          "end": 15.8,
+          "probability": 0.48
+        },
+        {
+          "word": "2",
+          "start": 15.8,
+          "end": 15.96,
+          "probability": 0.34
+        },
+        {
+          "word": "mi",
+          "start": 15.96,
+          "end": 16.14,
+          "probability": 0.13
+        },
+        {
+          "word": "sấu",
+          "start": 16.14,
+          "end": 16.34,
+          "probability": 0.5
+        },
+        {
+          "word": "với",
+          "start": 16.34,
+          "end": 16.54,
+          "probability": 0.76
+        },
+        {
+          "word": "chủ",
+          "start": 16.54,
+          "end": 16.72,
+          "probability": 0.81
+        },
+        {
+          "word": "đề",
+          "start": 16.72,
+          "end": 16.9,
+          "probability": 0.71
+        },
+        {
+          "word": "nắm",
+          "start": 16.9,
+          "end": 17.12,
+          "probability": 0.45
+        },
+        {
+          "word": "bắt",
+          "start": 17.12,
+          "end": 17.34,
+          "probability": 0.71
+        },
+        {
+          "word": "cơ",
+          "start": 17.34,
+          "end": 17.58,
+          "probability": 0.47
+        },
+        {
+          "word": "hội,",
+          "start": 17.58,
+          "end": 17.84,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 18.14,
+      "end": 19.02,
+      "text": "gián giáp tăng trưởng.",
+      "words": [
+        {
+          "word": "gián",
+          "start": 18.14,
+          "end": 18.26,
+          "probability": 0.29
+        },
+        {
+          "word": "giáp",
+          "start": 18.26,
+          "end": 18.46,
+          "probability": 0.51
+        },
+        {
+          "word": "tăng",
+          "start": 18.46,
+          "end": 18.68,
+          "probability": 1.0
+        },
+        {
+          "word": "trưởng.",
+          "start": 18.68,
+          "end": 19.02,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 19.7,
+      "end": 26.12,
+      "text": "Tăng lộ rung chính sẽ tập trung vào chuyển đổi số, chuyển đổi xanh, ứng dục AI, đổi mới sáng tạo vào vai trò của ESE,",
+      "words": [
+        {
+          "word": "Tăng",
+          "start": 19.7,
+          "end": 19.84,
+          "probability": 0.65
+        },
+        {
+          "word": "lộ",
+          "start": 19.84,
+          "end": 20.02,
+          "probability": 0.36
+        },
+        {
+          "word": "rung",
+          "start": 20.02,
+          "end": 20.2,
+          "probability": 0.75
+        },
+        {
+          "word": "chính",
+          "start": 20.2,
+          "end": 20.42,
+          "probability": 0.57
+        },
+        {
+          "word": "sẽ",
+          "start": 20.42,
+          "end": 20.66,
+          "probability": 0.81
+        },
+        {
+          "word": "tập",
+          "start": 20.66,
+          "end": 20.84,
+          "probability": 0.98
+        },
+        {
+          "word": "trung",
+          "start": 20.84,
+          "end": 21.02,
+          "probability": 0.87
+        },
+        {
+          "word": "vào",
+          "start": 21.02,
+          "end": 21.24,
+          "probability": 0.95
+        },
+        {
+          "word": "chuyển",
+          "start": 21.24,
+          "end": 21.42,
+          "probability": 0.68
+        },
+        {
+          "word": "đổi",
+          "start": 21.42,
+          "end": 21.62,
+          "probability": 0.62
+        },
+        {
+          "word": "số,",
+          "start": 21.62,
+          "end": 21.92,
+          "probability": 0.99
+        },
+        {
+          "word": "chuyển",
+          "start": 22.34,
+          "end": 22.34,
+          "probability": 0.98
+        },
+        {
+          "word": "đổi",
+          "start": 22.34,
+          "end": 22.52,
+          "probability": 0.96
+        },
+        {
+          "word": "xanh,",
+          "start": 22.52,
+          "end": 22.8,
+          "probability": 0.69
+        },
+        {
+          "word": "ứng",
+          "start": 23.18,
+          "end": 23.26,
+          "probability": 0.64
+        },
+        {
+          "word": "dục",
+          "start": 23.26,
+          "end": 23.42,
+          "probability": 0.7
+        },
+        {
+          "word": "AI,",
+          "start": 23.42,
+          "end": 23.82,
+          "probability": 0.56
+        },
+        {
+          "word": "đổi",
+          "start": 24.26,
+          "end": 24.26,
+          "probability": 0.67
+        },
+        {
+          "word": "mới",
+          "start": 24.26,
+          "end": 24.5,
+          "probability": 0.86
+        },
+        {
+          "word": "sáng",
+          "start": 24.5,
+          "end": 24.68,
+          "probability": 0.74
+        },
+        {
+          "word": "tạo",
+          "start": 24.68,
+          "end": 24.88,
+          "probability": 0.95
+        },
+        {
+          "word": "vào",
+          "start": 24.88,
+          "end": 25.14,
+          "probability": 0.81
+        },
+        {
+          "word": "vai",
+          "start": 25.14,
+          "end": 25.32,
+          "probability": 0.46
+        },
+        {
+          "word": "trò",
+          "start": 25.32,
+          "end": 25.5,
+          "probability": 0.62
+        },
+        {
+          "word": "của",
+          "start": 25.5,
+          "end": 25.64,
+          "probability": 0.96
+        },
+        {
+          "word": "ESE,",
+          "start": 25.64,
+          "end": 26.12,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 26.46,
+      "end": 28.78,
+      "text": "trong năm cao năng lực cạnh tranh của xuân nghiệp Việt Nam.",
+      "words": [
+        {
+          "word": "trong",
+          "start": 26.46,
+          "end": 26.48,
+          "probability": 0.7
+        },
+        {
+          "word": "năm",
+          "start": 26.48,
+          "end": 26.72,
+          "probability": 0.38
+        },
+        {
+          "word": "cao",
+          "start": 26.72,
+          "end": 26.94,
+          "probability": 0.89
+        },
+        {
+          "word": "năng",
+          "start": 26.94,
+          "end": 27.1,
+          "probability": 0.82
+        },
+        {
+          "word": "lực",
+          "start": 27.1,
+          "end": 27.26,
+          "probability": 0.82
+        },
+        {
+          "word": "cạnh",
+          "start": 27.26,
+          "end": 27.5,
+          "probability": 0.49
+        },
+        {
+          "word": "tranh",
+          "start": 27.5,
+          "end": 27.68,
+          "probability": 0.83
+        },
+        {
+          "word": "của",
+          "start": 27.68,
+          "end": 27.86,
+          "probability": 0.96
+        },
+        {
+          "word": "xuân",
+          "start": 27.86,
+          "end": 28.04,
+          "probability": 0.45
+        },
+        {
+          "word": "nghiệp",
+          "start": 28.04,
+          "end": 28.2,
+          "probability": 0.93
+        },
+        {
+          "word": "Việt",
+          "start": 28.2,
+          "end": 28.46,
+          "probability": 0.99
+        },
+        {
+          "word": "Nam.",
+          "start": 28.46,
+          "end": 28.78,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 29.24,
+      "end": 29.98,
+      "text": "Hội thảo tăng trưởng kinh tế 2 con số,",
+      "words": [
+        {
+          "word": "Hội",
+          "start": 29.24,
+          "end": 29.54,
+          "probability": 0.23
+        },
+        {
+          "word": "thảo",
+          "start": 29.54,
+          "end": 29.7,
+          "probability": 0.36
+        },
+        {
+          "word": "tăng",
+          "start": 29.7,
+          "end": 29.84,
+          "probability": 0.0
+        },
+        {
+          "word": "trưởng",
+          "start": 29.84,
+          "end": 29.98,
+          "probability": 0.01
+        },
+        {
+          "word": "kinh",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.05
+        },
+        {
+          "word": "tế",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.04
+        },
+        {
+          "word": "2",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.0
+        },
+        {
+          "word": "con",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.0
+        },
+        {
+          "word": "số,",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.0
+        }
+      ]
+    }
+  ]
+}

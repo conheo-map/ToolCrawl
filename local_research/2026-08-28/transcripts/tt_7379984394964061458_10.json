@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7379984394964061458_10",
+  "duration_seconds": 19.56,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Hẹn gặp sạch.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.18,
+      "text": "Hẹn gặp sạch.",
+      "words": [
+        {
+          "word": "Hẹn",
+          "start": 0.02,
+          "end": 0.88,
+          "probability": 0.19
+        },
+        {
+          "word": "gặp",
+          "start": 0.88,
+          "end": 0.88,
+          "probability": 0.72
+        },
+        {
+          "word": "sạch.",
+          "start": 0.88,
+          "end": 1.18,
+          "probability": 0.24
+        }
+      ]
+    }
+  ]
+}

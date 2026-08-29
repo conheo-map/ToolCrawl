@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7267160176694693122_02",
+  "duration_seconds": 27.34,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Thưa bảo lâu",
+  "segments": [
+    {
+      "id": 1,
+      "start": 24.08,
+      "end": 25.14,
+      "text": "Thưa bảo lâu",
+      "words": [
+        {
+          "word": "Thưa",
+          "start": 24.08,
+          "end": 24.72,
+          "probability": 0.14
+        },
+        {
+          "word": "bảo",
+          "start": 24.72,
+          "end": 25.04,
+          "probability": 0.48
+        },
+        {
+          "word": "lâu",
+          "start": 25.04,
+          "end": 25.14,
+          "probability": 0.34
+        }
+      ]
+    }
+  ]
+}

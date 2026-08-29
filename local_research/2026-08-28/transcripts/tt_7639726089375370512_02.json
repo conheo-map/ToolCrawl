@@ -1,0 +1,824 @@
+{
+  "item_id": "tt_7639726089375370512_02",
+  "duration_seconds": 26.72,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 124,
+  "text": "Vì dù như co-bá này, nhiều bạn học yêu, cái kênh xe cùm nặp biệt ở yênh. Đó, cái kênh xe biệt của mọi người khỏi vô kia kết để xa đi một chút. Cô bún này thì một bệnh môi, một cái môi, in quan, quen thuộc, in quan, đến kỳ, khu cầu, và có bất đường thẳng đi cách, đi qua, xuyên mọc khu cầu, tìm nằm nhiều rồi. Nhà, đặc biệt là số hiệu và tôi này có thể đẹp. Đối với tình, trởi ngắn thì các bạn thấy nó có u đầu tiên, hôm nay, các bạn. Cô hai, một tổn phía đủ, đủ nâm, cái kênh xe cùm nỗi người, tổn cơ. Cô bà, một bệnh môi, tổn cơ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.7,
+      "text": "Vì dù như co-bá này, nhiều bạn học yêu, cái kênh xe cùm nặp biệt ở yênh.",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.34
+        },
+        {
+          "word": "dù",
+          "start": 0.32,
+          "end": 0.44,
+          "probability": 0.36
+        },
+        {
+          "word": "như",
+          "start": 0.44,
+          "end": 0.54,
+          "probability": 0.14
+        },
+        {
+          "word": "co",
+          "start": 0.54,
+          "end": 0.72,
+          "probability": 0.15
+        },
+        {
+          "word": "-bá",
+          "start": 0.72,
+          "end": 0.84,
+          "probability": 0.36
+        },
+        {
+          "word": "này,",
+          "start": 0.84,
+          "end": 1.08,
+          "probability": 0.91
+        },
+        {
+          "word": "nhiều",
+          "start": 1.28,
+          "end": 1.32,
+          "probability": 0.15
+        },
+        {
+          "word": "bạn",
+          "start": 1.32,
+          "end": 1.56,
+          "probability": 0.49
+        },
+        {
+          "word": "học",
+          "start": 1.56,
+          "end": 1.98,
+          "probability": 0.6
+        },
+        {
+          "word": "yêu,",
+          "start": 1.98,
+          "end": 2.16,
+          "probability": 0.14
+        },
+        {
+          "word": "cái",
+          "start": 2.28,
+          "end": 2.38,
+          "probability": 0.09
+        },
+        {
+          "word": "kênh",
+          "start": 2.38,
+          "end": 2.48,
+          "probability": 0.44
+        },
+        {
+          "word": "xe",
+          "start": 2.48,
+          "end": 2.64,
+          "probability": 0.44
+        },
+        {
+          "word": "cùm",
+          "start": 2.64,
+          "end": 2.82,
+          "probability": 0.39
+        },
+        {
+          "word": "nặp",
+          "start": 2.82,
+          "end": 2.98,
+          "probability": 0.65
+        },
+        {
+          "word": "biệt",
+          "start": 2.98,
+          "end": 3.14,
+          "probability": 0.35
+        },
+        {
+          "word": "ở",
+          "start": 3.14,
+          "end": 3.18,
+          "probability": 0.44
+        },
+        {
+          "word": "yênh.",
+          "start": 3.18,
+          "end": 3.7,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.88,
+      "end": 7.04,
+      "text": "Đó, cái kênh xe biệt của mọi người khỏi vô kia kết để xa đi một chút.",
+      "words": [
+        {
+          "word": "Đó,",
+          "start": 3.88,
+          "end": 4.2,
+          "probability": 0.29
+        },
+        {
+          "word": "cái",
+          "start": 4.42,
+          "end": 4.42,
+          "probability": 0.27
+        },
+        {
+          "word": "kênh",
+          "start": 4.42,
+          "end": 4.56,
+          "probability": 0.97
+        },
+        {
+          "word": "xe",
+          "start": 4.56,
+          "end": 4.74,
+          "probability": 0.93
+        },
+        {
+          "word": "biệt",
+          "start": 4.74,
+          "end": 4.92,
+          "probability": 0.49
+        },
+        {
+          "word": "của",
+          "start": 4.92,
+          "end": 5.1,
+          "probability": 0.5
+        },
+        {
+          "word": "mọi",
+          "start": 5.1,
+          "end": 5.24,
+          "probability": 0.33
+        },
+        {
+          "word": "người",
+          "start": 5.24,
+          "end": 5.24,
+          "probability": 0.48
+        },
+        {
+          "word": "khỏi",
+          "start": 5.24,
+          "end": 5.52,
+          "probability": 0.56
+        },
+        {
+          "word": "vô",
+          "start": 5.52,
+          "end": 5.74,
+          "probability": 0.18
+        },
+        {
+          "word": "kia",
+          "start": 5.74,
+          "end": 5.78,
+          "probability": 0.17
+        },
+        {
+          "word": "kết",
+          "start": 5.78,
+          "end": 5.98,
+          "probability": 0.37
+        },
+        {
+          "word": "để",
+          "start": 5.98,
+          "end": 6.32,
+          "probability": 0.18
+        },
+        {
+          "word": "xa",
+          "start": 6.32,
+          "end": 6.44,
+          "probability": 0.54
+        },
+        {
+          "word": "đi",
+          "start": 6.44,
+          "end": 6.56,
+          "probability": 0.84
+        },
+        {
+          "word": "một",
+          "start": 6.56,
+          "end": 6.7,
+          "probability": 0.39
+        },
+        {
+          "word": "chút.",
+          "start": 6.7,
+          "end": 7.04,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.58,
+      "end": 11.16,
+      "text": "Cô bún này thì một bệnh môi, một cái môi, in quan, quen thuộc, in quan, đến kỳ, khu cầu,",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 7.58,
+          "end": 7.64,
+          "probability": 0.57
+        },
+        {
+          "word": "bún",
+          "start": 7.64,
+          "end": 7.82,
+          "probability": 0.38
+        },
+        {
+          "word": "này",
+          "start": 7.82,
+          "end": 7.96,
+          "probability": 0.91
+        },
+        {
+          "word": "thì",
+          "start": 7.96,
+          "end": 8.14,
+          "probability": 0.93
+        },
+        {
+          "word": "một",
+          "start": 8.14,
+          "end": 8.36,
+          "probability": 0.28
+        },
+        {
+          "word": "bệnh",
+          "start": 8.36,
+          "end": 8.48,
+          "probability": 0.52
+        },
+        {
+          "word": "môi,",
+          "start": 8.48,
+          "end": 8.66,
+          "probability": 0.34
+        },
+        {
+          "word": "một",
+          "start": 8.66,
+          "end": 8.66,
+          "probability": 0.19
+        },
+        {
+          "word": "cái",
+          "start": 8.66,
+          "end": 8.76,
+          "probability": 0.62
+        },
+        {
+          "word": "môi,",
+          "start": 8.76,
+          "end": 8.88,
+          "probability": 0.9
+        },
+        {
+          "word": "in",
+          "start": 8.88,
+          "end": 9.12,
+          "probability": 0.15
+        },
+        {
+          "word": "quan,",
+          "start": 9.12,
+          "end": 9.16,
+          "probability": 0.16
+        },
+        {
+          "word": "quen",
+          "start": 9.16,
+          "end": 9.16,
+          "probability": 0.57
+        },
+        {
+          "word": "thuộc,",
+          "start": 9.16,
+          "end": 9.36,
+          "probability": 0.81
+        },
+        {
+          "word": "in",
+          "start": 9.42,
+          "end": 9.6,
+          "probability": 0.44
+        },
+        {
+          "word": "quan,",
+          "start": 9.6,
+          "end": 9.88,
+          "probability": 0.93
+        },
+        {
+          "word": "đến",
+          "start": 9.98,
+          "end": 10.22,
+          "probability": 0.55
+        },
+        {
+          "word": "kỳ,",
+          "start": 10.22,
+          "end": 10.54,
+          "probability": 0.44
+        },
+        {
+          "word": "khu",
+          "start": 10.72,
+          "end": 10.84,
+          "probability": 0.59
+        },
+        {
+          "word": "cầu,",
+          "start": 10.84,
+          "end": 11.16,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.26,
+      "end": 14.38,
+      "text": "và có bất đường thẳng đi cách, đi qua, xuyên mọc khu cầu, tìm nằm nhiều rồi.",
+      "words": [
+        {
+          "word": "và",
+          "start": 11.26,
+          "end": 11.38,
+          "probability": 0.46
+        },
+        {
+          "word": "có",
+          "start": 11.38,
+          "end": 11.46,
+          "probability": 0.41
+        },
+        {
+          "word": "bất",
+          "start": 11.46,
+          "end": 11.56,
+          "probability": 0.37
+        },
+        {
+          "word": "đường",
+          "start": 11.56,
+          "end": 11.64,
+          "probability": 0.67
+        },
+        {
+          "word": "thẳng",
+          "start": 11.64,
+          "end": 11.84,
+          "probability": 0.75
+        },
+        {
+          "word": "đi",
+          "start": 11.84,
+          "end": 12.02,
+          "probability": 0.48
+        },
+        {
+          "word": "cách,",
+          "start": 12.02,
+          "end": 12.22,
+          "probability": 0.61
+        },
+        {
+          "word": "đi",
+          "start": 12.28,
+          "end": 12.46,
+          "probability": 0.44
+        },
+        {
+          "word": "qua,",
+          "start": 12.46,
+          "end": 12.64,
+          "probability": 0.93
+        },
+        {
+          "word": "xuyên",
+          "start": 12.68,
+          "end": 12.8,
+          "probability": 0.45
+        },
+        {
+          "word": "mọc",
+          "start": 12.8,
+          "end": 12.9,
+          "probability": 0.38
+        },
+        {
+          "word": "khu",
+          "start": 12.9,
+          "end": 13.2,
+          "probability": 0.71
+        },
+        {
+          "word": "cầu,",
+          "start": 13.2,
+          "end": 13.38,
+          "probability": 0.99
+        },
+        {
+          "word": "tìm",
+          "start": 13.52,
+          "end": 13.64,
+          "probability": 0.42
+        },
+        {
+          "word": "nằm",
+          "start": 13.64,
+          "end": 13.88,
+          "probability": 0.63
+        },
+        {
+          "word": "nhiều",
+          "start": 13.88,
+          "end": 14.1,
+          "probability": 0.34
+        },
+        {
+          "word": "rồi.",
+          "start": 14.1,
+          "end": 14.38,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.7,
+      "end": 16.2,
+      "text": "Nhà, đặc biệt là số hiệu và tôi này có thể đẹp.",
+      "words": [
+        {
+          "word": "Nhà,",
+          "start": 14.7,
+          "end": 14.84,
+          "probability": 0.25
+        },
+        {
+          "word": "đặc",
+          "start": 14.88,
+          "end": 15.08,
+          "probability": 0.83
+        },
+        {
+          "word": "biệt",
+          "start": 15.08,
+          "end": 15.14,
+          "probability": 0.96
+        },
+        {
+          "word": "là",
+          "start": 15.14,
+          "end": 15.28,
+          "probability": 0.3
+        },
+        {
+          "word": "số",
+          "start": 15.28,
+          "end": 15.36,
+          "probability": 0.79
+        },
+        {
+          "word": "hiệu",
+          "start": 15.36,
+          "end": 15.5,
+          "probability": 0.52
+        },
+        {
+          "word": "và",
+          "start": 15.5,
+          "end": 15.62,
+          "probability": 0.27
+        },
+        {
+          "word": "tôi",
+          "start": 15.62,
+          "end": 15.7,
+          "probability": 0.13
+        },
+        {
+          "word": "này",
+          "start": 15.7,
+          "end": 15.8,
+          "probability": 0.42
+        },
+        {
+          "word": "có",
+          "start": 15.8,
+          "end": 15.9,
+          "probability": 0.6
+        },
+        {
+          "word": "thể",
+          "start": 15.9,
+          "end": 15.98,
+          "probability": 0.2
+        },
+        {
+          "word": "đẹp.",
+          "start": 15.98,
+          "end": 16.2,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 17.5,
+      "end": 21.04,
+      "text": "Đối với tình, trởi ngắn thì các bạn thấy nó có u đầu tiên, hôm nay, các bạn.",
+      "words": [
+        {
+          "word": "Đối",
+          "start": 17.5,
+          "end": 17.66,
+          "probability": 0.47
+        },
+        {
+          "word": "với",
+          "start": 17.66,
+          "end": 17.76,
+          "probability": 0.28
+        },
+        {
+          "word": "tình,",
+          "start": 17.76,
+          "end": 18.12,
+          "probability": 0.22
+        },
+        {
+          "word": "trởi",
+          "start": 18.12,
+          "end": 18.38,
+          "probability": 0.43
+        },
+        {
+          "word": "ngắn",
+          "start": 18.38,
+          "end": 18.58,
+          "probability": 0.49
+        },
+        {
+          "word": "thì",
+          "start": 18.58,
+          "end": 18.76,
+          "probability": 0.42
+        },
+        {
+          "word": "các",
+          "start": 18.76,
+          "end": 18.86,
+          "probability": 0.72
+        },
+        {
+          "word": "bạn",
+          "start": 18.86,
+          "end": 18.9,
+          "probability": 1.0
+        },
+        {
+          "word": "thấy",
+          "start": 18.9,
+          "end": 19.08,
+          "probability": 0.97
+        },
+        {
+          "word": "nó",
+          "start": 19.08,
+          "end": 19.38,
+          "probability": 0.36
+        },
+        {
+          "word": "có",
+          "start": 19.38,
+          "end": 19.4,
+          "probability": 0.25
+        },
+        {
+          "word": "u",
+          "start": 19.4,
+          "end": 19.6,
+          "probability": 0.18
+        },
+        {
+          "word": "đầu",
+          "start": 19.6,
+          "end": 19.6,
+          "probability": 0.12
+        },
+        {
+          "word": "tiên,",
+          "start": 19.6,
+          "end": 19.76,
+          "probability": 0.97
+        },
+        {
+          "word": "hôm",
+          "start": 19.82,
+          "end": 19.96,
+          "probability": 0.13
+        },
+        {
+          "word": "nay,",
+          "start": 19.96,
+          "end": 19.96,
+          "probability": 0.22
+        },
+        {
+          "word": "các",
+          "start": 20.26,
+          "end": 20.46,
+          "probability": 0.08
+        },
+        {
+          "word": "bạn.",
+          "start": 20.46,
+          "end": 21.04,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 21.04,
+      "end": 24.82,
+      "text": "Cô hai, một tổn phía đủ, đủ nâm, cái kênh xe cùm nỗi người, tổn cơ.",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 21.04,
+          "end": 21.32,
+          "probability": 0.26
+        },
+        {
+          "word": "hai,",
+          "start": 21.32,
+          "end": 21.62,
+          "probability": 0.09
+        },
+        {
+          "word": "một",
+          "start": 21.7,
+          "end": 21.78,
+          "probability": 0.08
+        },
+        {
+          "word": "tổn",
+          "start": 21.78,
+          "end": 21.98,
+          "probability": 0.36
+        },
+        {
+          "word": "phía",
+          "start": 21.98,
+          "end": 22.06,
+          "probability": 0.27
+        },
+        {
+          "word": "đủ,",
+          "start": 22.06,
+          "end": 22.18,
+          "probability": 0.25
+        },
+        {
+          "word": "đủ",
+          "start": 22.26,
+          "end": 23.16,
+          "probability": 0.19
+        },
+        {
+          "word": "nâm,",
+          "start": 23.16,
+          "end": 23.32,
+          "probability": 0.26
+        },
+        {
+          "word": "cái",
+          "start": 23.4,
+          "end": 23.46,
+          "probability": 0.04
+        },
+        {
+          "word": "kênh",
+          "start": 23.46,
+          "end": 23.6,
+          "probability": 0.52
+        },
+        {
+          "word": "xe",
+          "start": 23.6,
+          "end": 23.76,
+          "probability": 0.02
+        },
+        {
+          "word": "cùm",
+          "start": 23.76,
+          "end": 24.06,
+          "probability": 0.04
+        },
+        {
+          "word": "nỗi",
+          "start": 24.06,
+          "end": 24.16,
+          "probability": 0.02
+        },
+        {
+          "word": "người,",
+          "start": 24.16,
+          "end": 24.5,
+          "probability": 0.05
+        },
+        {
+          "word": "tổn",
+          "start": 24.66,
+          "end": 24.7,
+          "probability": 0.78
+        },
+        {
+          "word": "cơ.",
+          "start": 24.7,
+          "end": 24.82,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 25.26,
+      "end": 26.36,
+      "text": "Cô bà, một bệnh môi, tổn cơ.",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 25.26,
+          "end": 25.52,
+          "probability": 0.87
+        },
+        {
+          "word": "bà,",
+          "start": 25.52,
+          "end": 25.72,
+          "probability": 0.36
+        },
+        {
+          "word": "một",
+          "start": 25.82,
+          "end": 25.92,
+          "probability": 0.08
+        },
+        {
+          "word": "bệnh",
+          "start": 25.92,
+          "end": 26.1,
+          "probability": 0.38
+        },
+        {
+          "word": "môi,",
+          "start": 26.1,
+          "end": 26.24,
+          "probability": 0.0
+        },
+        {
+          "word": "tổn",
+          "start": 26.24,
+          "end": 26.24,
+          "probability": 0.75
+        },
+        {
+          "word": "cơ.",
+          "start": 26.24,
+          "end": 26.36,
+          "probability": 0.6
+        }
+      ]
+    }
+  ]
+}

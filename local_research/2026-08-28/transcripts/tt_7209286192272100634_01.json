@@ -1,0 +1,788 @@
+{
+  "item_id": "tt_7209286192272100634_01",
+  "duration_seconds": 28.22,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 107,
+  "text": "Mời chứ không nhau quan tâm để mẹ tòa niên sau nhạc Chắc không sự cậu ABC đi Cậu tổn bốn xuống, cậu xúc cậu này điểm của tâm Đi trên ABC thì mình 2 miệng phần mà mẹ nắm Vì thì yêu cậu bản xác định sống lần nhất của cậu xúc cậu này vàng báo nhớ Đi chào Thìm game cấp về tòa niệng của xúc cậu này ABC đi đến đây Mình như 1 tổn bốn xuống, cậu này bốn tâm Thì có lời khuya được bản này Cậu này kì này Chúng ta sẽ thấy một điều là Ah Bây Bây Bây Bây",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.42,
+      "text": "Mời chứ không nhau quan tâm để mẹ tòa niên sau nhạc",
+      "words": [
+        {
+          "word": "Mời",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.19
+        },
+        {
+          "word": "chứ",
+          "start": 0.18,
+          "end": 0.3,
+          "probability": 0.25
+        },
+        {
+          "word": "không",
+          "start": 0.3,
+          "end": 0.54,
+          "probability": 0.1
+        },
+        {
+          "word": "nhau",
+          "start": 0.54,
+          "end": 0.62,
+          "probability": 0.26
+        },
+        {
+          "word": "quan",
+          "start": 0.62,
+          "end": 0.9,
+          "probability": 0.31
+        },
+        {
+          "word": "tâm",
+          "start": 0.9,
+          "end": 1.04,
+          "probability": 0.79
+        },
+        {
+          "word": "để",
+          "start": 1.04,
+          "end": 1.26,
+          "probability": 0.33
+        },
+        {
+          "word": "mẹ",
+          "start": 1.26,
+          "end": 1.42,
+          "probability": 0.28
+        },
+        {
+          "word": "tòa",
+          "start": 1.42,
+          "end": 1.58,
+          "probability": 0.41
+        },
+        {
+          "word": "niên",
+          "start": 1.58,
+          "end": 1.72,
+          "probability": 0.21
+        },
+        {
+          "word": "sau",
+          "start": 1.72,
+          "end": 1.92,
+          "probability": 0.52
+        },
+        {
+          "word": "nhạc",
+          "start": 1.92,
+          "end": 2.42,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.42,
+      "end": 3.68,
+      "text": "Chắc không sự cậu ABC đi",
+      "words": [
+        {
+          "word": "Chắc",
+          "start": 2.42,
+          "end": 2.6,
+          "probability": 0.23
+        },
+        {
+          "word": "không",
+          "start": 2.6,
+          "end": 2.7,
+          "probability": 0.31
+        },
+        {
+          "word": "sự",
+          "start": 2.7,
+          "end": 2.82,
+          "probability": 0.23
+        },
+        {
+          "word": "cậu",
+          "start": 2.82,
+          "end": 2.94,
+          "probability": 0.62
+        },
+        {
+          "word": "ABC",
+          "start": 2.94,
+          "end": 3.28,
+          "probability": 0.1
+        },
+        {
+          "word": "đi",
+          "start": 3.28,
+          "end": 3.68,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.68,
+      "end": 5.78,
+      "text": "Cậu tổn bốn xuống, cậu xúc cậu này điểm của tâm",
+      "words": [
+        {
+          "word": "Cậu",
+          "start": 3.68,
+          "end": 3.84,
+          "probability": 0.47
+        },
+        {
+          "word": "tổn",
+          "start": 3.84,
+          "end": 4.12,
+          "probability": 0.45
+        },
+        {
+          "word": "bốn",
+          "start": 4.12,
+          "end": 4.3,
+          "probability": 0.55
+        },
+        {
+          "word": "xuống,",
+          "start": 4.3,
+          "end": 4.6,
+          "probability": 0.27
+        },
+        {
+          "word": "cậu",
+          "start": 4.6,
+          "end": 4.86,
+          "probability": 0.51
+        },
+        {
+          "word": "xúc",
+          "start": 4.86,
+          "end": 4.88,
+          "probability": 0.37
+        },
+        {
+          "word": "cậu",
+          "start": 4.88,
+          "end": 5.0,
+          "probability": 0.93
+        },
+        {
+          "word": "này",
+          "start": 5.0,
+          "end": 5.18,
+          "probability": 0.56
+        },
+        {
+          "word": "điểm",
+          "start": 5.18,
+          "end": 5.32,
+          "probability": 0.1
+        },
+        {
+          "word": "của",
+          "start": 5.32,
+          "end": 5.48,
+          "probability": 0.18
+        },
+        {
+          "word": "tâm",
+          "start": 5.48,
+          "end": 5.78,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.78,
+      "end": 8.6,
+      "text": "Đi trên ABC thì mình 2 miệng phần mà mẹ nắm",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 5.78,
+          "end": 6.24,
+          "probability": 0.05
+        },
+        {
+          "word": "trên",
+          "start": 6.24,
+          "end": 6.5,
+          "probability": 0.74
+        },
+        {
+          "word": "ABC",
+          "start": 6.5,
+          "end": 6.8,
+          "probability": 0.54
+        },
+        {
+          "word": "thì",
+          "start": 6.8,
+          "end": 6.96,
+          "probability": 0.44
+        },
+        {
+          "word": "mình",
+          "start": 6.96,
+          "end": 7.12,
+          "probability": 0.13
+        },
+        {
+          "word": "2",
+          "start": 7.12,
+          "end": 7.32,
+          "probability": 0.11
+        },
+        {
+          "word": "miệng",
+          "start": 7.32,
+          "end": 7.5,
+          "probability": 0.41
+        },
+        {
+          "word": "phần",
+          "start": 7.5,
+          "end": 7.74,
+          "probability": 0.43
+        },
+        {
+          "word": "mà",
+          "start": 7.74,
+          "end": 7.82,
+          "probability": 0.33
+        },
+        {
+          "word": "mẹ",
+          "start": 7.82,
+          "end": 8.18,
+          "probability": 0.38
+        },
+        {
+          "word": "nắm",
+          "start": 8.18,
+          "end": 8.6,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.6,
+      "end": 12.96,
+      "text": "Vì thì yêu cậu bản xác định sống lần nhất của cậu xúc cậu này vàng báo nhớ",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 8.6,
+          "end": 8.94,
+          "probability": 0.2
+        },
+        {
+          "word": "thì",
+          "start": 8.94,
+          "end": 8.94,
+          "probability": 0.2
+        },
+        {
+          "word": "yêu",
+          "start": 8.94,
+          "end": 9.1,
+          "probability": 0.24
+        },
+        {
+          "word": "cậu",
+          "start": 9.1,
+          "end": 9.22,
+          "probability": 0.97
+        },
+        {
+          "word": "bản",
+          "start": 9.22,
+          "end": 9.4,
+          "probability": 0.58
+        },
+        {
+          "word": "xác",
+          "start": 9.4,
+          "end": 9.68,
+          "probability": 0.24
+        },
+        {
+          "word": "định",
+          "start": 9.68,
+          "end": 10.0,
+          "probability": 0.6
+        },
+        {
+          "word": "sống",
+          "start": 10.0,
+          "end": 11.06,
+          "probability": 0.2
+        },
+        {
+          "word": "lần",
+          "start": 11.06,
+          "end": 11.36,
+          "probability": 0.16
+        },
+        {
+          "word": "nhất",
+          "start": 11.36,
+          "end": 11.6,
+          "probability": 0.6
+        },
+        {
+          "word": "của",
+          "start": 11.6,
+          "end": 11.76,
+          "probability": 0.94
+        },
+        {
+          "word": "cậu",
+          "start": 11.76,
+          "end": 11.88,
+          "probability": 0.88
+        },
+        {
+          "word": "xúc",
+          "start": 11.88,
+          "end": 12.14,
+          "probability": 0.92
+        },
+        {
+          "word": "cậu",
+          "start": 12.14,
+          "end": 12.14,
+          "probability": 0.99
+        },
+        {
+          "word": "này",
+          "start": 12.14,
+          "end": 12.3,
+          "probability": 1.0
+        },
+        {
+          "word": "vàng",
+          "start": 12.3,
+          "end": 12.58,
+          "probability": 0.55
+        },
+        {
+          "word": "báo",
+          "start": 12.58,
+          "end": 12.72,
+          "probability": 0.33
+        },
+        {
+          "word": "nhớ",
+          "start": 12.72,
+          "end": 12.96,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 12.96,
+      "end": 13.82,
+      "text": "Đi chào",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 12.96,
+          "end": 13.26,
+          "probability": 0.19
+        },
+        {
+          "word": "chào",
+          "start": 13.26,
+          "end": 13.82,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 13.82,
+      "end": 16.02,
+      "text": "Thìm game cấp về tòa niệng của xúc cậu này",
+      "words": [
+        {
+          "word": "Thìm",
+          "start": 13.82,
+          "end": 14.46,
+          "probability": 0.35
+        },
+        {
+          "word": "game",
+          "start": 14.46,
+          "end": 14.58,
+          "probability": 0.23
+        },
+        {
+          "word": "cấp",
+          "start": 14.58,
+          "end": 14.8,
+          "probability": 0.15
+        },
+        {
+          "word": "về",
+          "start": 14.8,
+          "end": 14.92,
+          "probability": 0.2
+        },
+        {
+          "word": "tòa",
+          "start": 14.92,
+          "end": 15.08,
+          "probability": 0.73
+        },
+        {
+          "word": "niệng",
+          "start": 15.08,
+          "end": 15.24,
+          "probability": 0.51
+        },
+        {
+          "word": "của",
+          "start": 15.24,
+          "end": 15.4,
+          "probability": 0.24
+        },
+        {
+          "word": "xúc",
+          "start": 15.4,
+          "end": 15.62,
+          "probability": 0.57
+        },
+        {
+          "word": "cậu",
+          "start": 15.62,
+          "end": 15.76,
+          "probability": 0.99
+        },
+        {
+          "word": "này",
+          "start": 15.76,
+          "end": 16.02,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.02,
+      "end": 16.82,
+      "text": "ABC đi đến đây",
+      "words": [
+        {
+          "word": "ABC",
+          "start": 16.02,
+          "end": 16.16,
+          "probability": 0.45
+        },
+        {
+          "word": "đi",
+          "start": 16.16,
+          "end": 16.44,
+          "probability": 0.8
+        },
+        {
+          "word": "đến",
+          "start": 16.44,
+          "end": 16.44,
+          "probability": 0.09
+        },
+        {
+          "word": "đây",
+          "start": 16.44,
+          "end": 16.82,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 16.82,
+      "end": 18.82,
+      "text": "Mình như 1 tổn bốn xuống, cậu này bốn tâm",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 16.82,
+          "end": 17.06,
+          "probability": 0.62
+        },
+        {
+          "word": "như",
+          "start": 17.06,
+          "end": 17.22,
+          "probability": 0.28
+        },
+        {
+          "word": "1",
+          "start": 17.22,
+          "end": 17.3,
+          "probability": 0.04
+        },
+        {
+          "word": "tổn",
+          "start": 17.3,
+          "end": 17.58,
+          "probability": 0.84
+        },
+        {
+          "word": "bốn",
+          "start": 17.58,
+          "end": 17.74,
+          "probability": 0.76
+        },
+        {
+          "word": "xuống,",
+          "start": 17.74,
+          "end": 17.96,
+          "probability": 0.98
+        },
+        {
+          "word": "cậu",
+          "start": 18.0,
+          "end": 18.24,
+          "probability": 0.87
+        },
+        {
+          "word": "này",
+          "start": 18.24,
+          "end": 18.42,
+          "probability": 0.69
+        },
+        {
+          "word": "bốn",
+          "start": 18.42,
+          "end": 18.56,
+          "probability": 0.71
+        },
+        {
+          "word": "tâm",
+          "start": 18.56,
+          "end": 18.82,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 18.82,
+      "end": 20.4,
+      "text": "Thì có lời khuya được bản này",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 18.82,
+          "end": 19.08,
+          "probability": 0.42
+        },
+        {
+          "word": "có",
+          "start": 19.08,
+          "end": 19.18,
+          "probability": 0.44
+        },
+        {
+          "word": "lời",
+          "start": 19.18,
+          "end": 19.28,
+          "probability": 0.52
+        },
+        {
+          "word": "khuya",
+          "start": 19.28,
+          "end": 19.48,
+          "probability": 0.2
+        },
+        {
+          "word": "được",
+          "start": 19.48,
+          "end": 19.64,
+          "probability": 0.39
+        },
+        {
+          "word": "bản",
+          "start": 19.64,
+          "end": 19.78,
+          "probability": 0.68
+        },
+        {
+          "word": "này",
+          "start": 19.78,
+          "end": 20.4,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 20.4,
+      "end": 21.34,
+      "text": "Cậu này kì này",
+      "words": [
+        {
+          "word": "Cậu",
+          "start": 20.4,
+          "end": 20.52,
+          "probability": 0.49
+        },
+        {
+          "word": "này",
+          "start": 20.52,
+          "end": 20.64,
+          "probability": 0.65
+        },
+        {
+          "word": "kì",
+          "start": 20.64,
+          "end": 20.78,
+          "probability": 0.37
+        },
+        {
+          "word": "này",
+          "start": 20.78,
+          "end": 21.34,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 21.34,
+      "end": 23.8,
+      "text": "Chúng ta sẽ thấy một điều là",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 21.34,
+          "end": 21.6,
+          "probability": 0.53
+        },
+        {
+          "word": "ta",
+          "start": 21.6,
+          "end": 21.68,
+          "probability": 0.65
+        },
+        {
+          "word": "sẽ",
+          "start": 21.68,
+          "end": 22.14,
+          "probability": 0.89
+        },
+        {
+          "word": "thấy",
+          "start": 22.14,
+          "end": 23.1,
+          "probability": 0.53
+        },
+        {
+          "word": "một",
+          "start": 23.1,
+          "end": 23.24,
+          "probability": 0.27
+        },
+        {
+          "word": "điều",
+          "start": 23.24,
+          "end": 23.42,
+          "probability": 0.9
+        },
+        {
+          "word": "là",
+          "start": 23.42,
+          "end": 23.8,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 24.44,
+      "end": 24.5,
+      "text": "Ah",
+      "words": [
+        {
+          "word": "Ah",
+          "start": 24.44,
+          "end": 24.5,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 25.18,
+      "end": 25.54,
+      "text": "Bây",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 25.18,
+          "end": 25.54,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 25.54,
+      "end": 25.86,
+      "text": "Bây",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 25.54,
+          "end": 25.86,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 25.86,
+      "end": 25.92,
+      "text": "Bây",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 25.86,
+          "end": 25.92,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 25.92,
+      "end": 26.2,
+      "text": "Bây",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 25.92,
+          "end": 26.2,
+          "probability": 0.92
+        }
+      ]
+    }
+  ]
+}

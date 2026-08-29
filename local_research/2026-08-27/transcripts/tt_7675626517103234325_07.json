@@ -1,0 +1,646 @@
+{
+  "item_id": "tt_7675626517103234325_07",
+  "duration_seconds": 28.5,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 82,
+  "text": "Dạ, anh quả? Quay vậy? Bác bạn mà em... không phải phổ v� Bảo mẹ, không nào em, không nào em, không đó? Mẹ, em... Nếu mà sao này không? Lấy giúp mẹ. Nguồn mẹ. Nguồn mẹ. Tự cao học xế lực gính, tự cao học xế lực gính. Tự cao học xế lực gính. Tự cao học xế lực gính. Tự cao học xế lực gính. Hẹn dừa đã trở thành sinh viên trường, đã học tốt đứt tháng. Với em.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.14,
+      "text": "Dạ, anh quả?",
+      "words": [
+        {
+          "word": "Dạ,",
+          "start": 0.02,
+          "end": 0.62,
+          "probability": 0.31
+        },
+        {
+          "word": "anh",
+          "start": 0.66,
+          "end": 0.78,
+          "probability": 0.03
+        },
+        {
+          "word": "quả?",
+          "start": 0.78,
+          "end": 1.14,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.62,
+      "end": 2.06,
+      "text": "Quay vậy?",
+      "words": [
+        {
+          "word": "Quay",
+          "start": 1.62,
+          "end": 1.94,
+          "probability": 0.13
+        },
+        {
+          "word": "vậy?",
+          "start": 1.94,
+          "end": 2.06,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.34,
+      "end": 3.9,
+      "text": "Bác bạn mà em...",
+      "words": [
+        {
+          "word": "Bác",
+          "start": 2.34,
+          "end": 2.36,
+          "probability": 0.09
+        },
+        {
+          "word": "bạn",
+          "start": 2.36,
+          "end": 2.56,
+          "probability": 0.21
+        },
+        {
+          "word": "mà",
+          "start": 2.56,
+          "end": 2.94,
+          "probability": 0.03
+        },
+        {
+          "word": "em...",
+          "start": 2.94,
+          "end": 3.9,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.52,
+      "end": 5.74,
+      "text": "không phải phổ v�",
+      "words": [
+        {
+          "word": "không",
+          "start": 4.52,
+          "end": 4.7,
+          "probability": 0.12
+        },
+        {
+          "word": "phải",
+          "start": 4.7,
+          "end": 5.2,
+          "probability": 0.41
+        },
+        {
+          "word": "phổ",
+          "start": 5.2,
+          "end": 5.48,
+          "probability": 0.28
+        },
+        {
+          "word": "v�",
+          "start": 5.48,
+          "end": 5.74,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.0,
+      "end": 9.48,
+      "text": "Bảo mẹ, không nào em, không nào em, không đó?",
+      "words": [
+        {
+          "word": "Bảo",
+          "start": 7.0,
+          "end": 7.48,
+          "probability": 0.03
+        },
+        {
+          "word": "mẹ,",
+          "start": 7.48,
+          "end": 7.8,
+          "probability": 0.46
+        },
+        {
+          "word": "không",
+          "start": 8.0,
+          "end": 8.14,
+          "probability": 0.34
+        },
+        {
+          "word": "nào",
+          "start": 8.14,
+          "end": 8.34,
+          "probability": 0.61
+        },
+        {
+          "word": "em,",
+          "start": 8.34,
+          "end": 8.6,
+          "probability": 0.08
+        },
+        {
+          "word": "không",
+          "start": 8.74,
+          "end": 8.74,
+          "probability": 0.17
+        },
+        {
+          "word": "nào",
+          "start": 8.74,
+          "end": 8.74,
+          "probability": 0.24
+        },
+        {
+          "word": "em,",
+          "start": 8.74,
+          "end": 8.74,
+          "probability": 0.75
+        },
+        {
+          "word": "không",
+          "start": 8.76,
+          "end": 8.78,
+          "probability": 0.27
+        },
+        {
+          "word": "đó?",
+          "start": 8.78,
+          "end": 9.48,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.04,
+      "end": 12.69,
+      "text": "Mẹ, em...",
+      "words": [
+        {
+          "word": "Mẹ,",
+          "start": 10.04,
+          "end": 10.04,
+          "probability": 0.43
+        },
+        {
+          "word": "em...",
+          "start": 12.31,
+          "end": 12.69,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.69,
+      "end": 13.59,
+      "text": "Nếu mà sao này không?",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 12.69,
+          "end": 12.69,
+          "probability": 0.42
+        },
+        {
+          "word": "mà",
+          "start": 12.69,
+          "end": 12.75,
+          "probability": 0.6
+        },
+        {
+          "word": "sao",
+          "start": 12.75,
+          "end": 12.91,
+          "probability": 0.46
+        },
+        {
+          "word": "này",
+          "start": 12.91,
+          "end": 13.21,
+          "probability": 0.46
+        },
+        {
+          "word": "không?",
+          "start": 13.21,
+          "end": 13.59,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.48,
+      "end": 17.24,
+      "text": "Lấy giúp mẹ.",
+      "words": [
+        {
+          "word": "Lấy",
+          "start": 16.48,
+          "end": 16.64,
+          "probability": 0.3
+        },
+        {
+          "word": "giúp",
+          "start": 16.64,
+          "end": 16.92,
+          "probability": 0.28
+        },
+        {
+          "word": "mẹ.",
+          "start": 16.92,
+          "end": 17.24,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 17.92,
+      "end": 18.82,
+      "text": "Nguồn mẹ.",
+      "words": [
+        {
+          "word": "Nguồn",
+          "start": 17.92,
+          "end": 18.38,
+          "probability": 0.46
+        },
+        {
+          "word": "mẹ.",
+          "start": 18.38,
+          "end": 18.82,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 19.4,
+      "end": 19.54,
+      "text": "Nguồn mẹ.",
+      "words": [
+        {
+          "word": "Nguồn",
+          "start": 19.4,
+          "end": 19.54,
+          "probability": 0.56
+        },
+        {
+          "word": "mẹ.",
+          "start": 19.54,
+          "end": 19.54,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 20.8,
+      "end": 22.2,
+      "text": "Tự cao học xế lực gính,",
+      "words": [
+        {
+          "word": "Tự",
+          "start": 20.8,
+          "end": 21.12,
+          "probability": 0.13
+        },
+        {
+          "word": "cao",
+          "start": 21.12,
+          "end": 21.3,
+          "probability": 0.57
+        },
+        {
+          "word": "học",
+          "start": 21.3,
+          "end": 21.5,
+          "probability": 0.84
+        },
+        {
+          "word": "xế",
+          "start": 21.5,
+          "end": 21.68,
+          "probability": 0.19
+        },
+        {
+          "word": "lực",
+          "start": 21.68,
+          "end": 21.78,
+          "probability": 0.55
+        },
+        {
+          "word": "gính,",
+          "start": 21.78,
+          "end": 22.2,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 22.42,
+      "end": 22.86,
+      "text": "tự cao học xế lực gính.",
+      "words": [
+        {
+          "word": "tự",
+          "start": 22.42,
+          "end": 22.52,
+          "probability": 0.57
+        },
+        {
+          "word": "cao",
+          "start": 22.52,
+          "end": 22.58,
+          "probability": 0.77
+        },
+        {
+          "word": "học",
+          "start": 22.58,
+          "end": 22.86,
+          "probability": 0.01
+        },
+        {
+          "word": "xế",
+          "start": 22.86,
+          "end": 22.86,
+          "probability": 0.84
+        },
+        {
+          "word": "lực",
+          "start": 22.86,
+          "end": 22.86,
+          "probability": 0.95
+        },
+        {
+          "word": "gính.",
+          "start": 22.86,
+          "end": 22.86,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 22.86,
+      "end": 22.9,
+      "text": "Tự cao học xế lực gính.",
+      "words": [
+        {
+          "word": "Tự",
+          "start": 22.86,
+          "end": 22.86,
+          "probability": 0.85
+        },
+        {
+          "word": "cao",
+          "start": 22.86,
+          "end": 22.86,
+          "probability": 0.98
+        },
+        {
+          "word": "học",
+          "start": 22.86,
+          "end": 22.86,
+          "probability": 0.83
+        },
+        {
+          "word": "xế",
+          "start": 22.86,
+          "end": 22.86,
+          "probability": 0.94
+        },
+        {
+          "word": "lực",
+          "start": 22.86,
+          "end": 22.9,
+          "probability": 0.98
+        },
+        {
+          "word": "gính.",
+          "start": 22.9,
+          "end": 22.9,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 22.9,
+      "end": 22.92,
+      "text": "Tự cao học xế lực gính.",
+      "words": [
+        {
+          "word": "Tự",
+          "start": 22.9,
+          "end": 22.9,
+          "probability": 0.9
+        },
+        {
+          "word": "cao",
+          "start": 22.9,
+          "end": 22.9,
+          "probability": 0.98
+        },
+        {
+          "word": "học",
+          "start": 22.9,
+          "end": 22.9,
+          "probability": 0.85
+        },
+        {
+          "word": "xế",
+          "start": 22.9,
+          "end": 22.9,
+          "probability": 0.92
+        },
+        {
+          "word": "lực",
+          "start": 22.9,
+          "end": 22.92,
+          "probability": 0.99
+        },
+        {
+          "word": "gính.",
+          "start": 22.92,
+          "end": 22.92,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 22.92,
+      "end": 23.2,
+      "text": "Tự cao học xế lực gính.",
+      "words": [
+        {
+          "word": "Tự",
+          "start": 22.92,
+          "end": 22.92,
+          "probability": 0.92
+        },
+        {
+          "word": "cao",
+          "start": 22.92,
+          "end": 22.92,
+          "probability": 0.99
+        },
+        {
+          "word": "học",
+          "start": 22.92,
+          "end": 22.92,
+          "probability": 0.92
+        },
+        {
+          "word": "xế",
+          "start": 22.92,
+          "end": 22.92,
+          "probability": 0.89
+        },
+        {
+          "word": "lực",
+          "start": 22.92,
+          "end": 23.2,
+          "probability": 0.92
+        },
+        {
+          "word": "gính.",
+          "start": 23.2,
+          "end": 23.2,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 24.5,
+      "end": 26.4,
+      "text": "Hẹn dừa đã trở thành sinh viên trường,",
+      "words": [
+        {
+          "word": "Hẹn",
+          "start": 24.5,
+          "end": 24.98,
+          "probability": 0.33
+        },
+        {
+          "word": "dừa",
+          "start": 24.98,
+          "end": 25.18,
+          "probability": 0.15
+        },
+        {
+          "word": "đã",
+          "start": 25.18,
+          "end": 25.42,
+          "probability": 0.33
+        },
+        {
+          "word": "trở",
+          "start": 25.42,
+          "end": 25.58,
+          "probability": 0.51
+        },
+        {
+          "word": "thành",
+          "start": 25.58,
+          "end": 25.68,
+          "probability": 0.93
+        },
+        {
+          "word": "sinh",
+          "start": 25.68,
+          "end": 25.96,
+          "probability": 0.81
+        },
+        {
+          "word": "viên",
+          "start": 25.96,
+          "end": 26.2,
+          "probability": 0.74
+        },
+        {
+          "word": "trường,",
+          "start": 26.2,
+          "end": 26.4,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 26.52,
+      "end": 27.32,
+      "text": "đã học tốt đứt tháng.",
+      "words": [
+        {
+          "word": "đã",
+          "start": 26.52,
+          "end": 26.54,
+          "probability": 0.07
+        },
+        {
+          "word": "học",
+          "start": 26.54,
+          "end": 26.72,
+          "probability": 0.98
+        },
+        {
+          "word": "tốt",
+          "start": 26.72,
+          "end": 26.88,
+          "probability": 0.31
+        },
+        {
+          "word": "đứt",
+          "start": 26.88,
+          "end": 27.02,
+          "probability": 0.26
+        },
+        {
+          "word": "tháng.",
+          "start": 27.02,
+          "end": 27.32,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 28.08,
+      "end": 28.38,
+      "text": "Với em.",
+      "words": [
+        {
+          "word": "Với",
+          "start": 28.08,
+          "end": 28.14,
+          "probability": 0.71
+        },
+        {
+          "word": "em.",
+          "start": 28.14,
+          "end": 28.38,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

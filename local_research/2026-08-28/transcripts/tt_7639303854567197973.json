@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7639303854567197973",
+  "duration_seconds": 14.61,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Phải quá",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.36,
+      "end": 1.82,
+      "text": "Phải quá",
+      "words": [
+        {
+          "word": "Phải",
+          "start": 1.36,
+          "end": 1.82,
+          "probability": 0.05
+        },
+        {
+          "word": "quá",
+          "start": 1.82,
+          "end": 1.82,
+          "probability": 0.0
+        }
+      ]
+    }
+  ]
+}

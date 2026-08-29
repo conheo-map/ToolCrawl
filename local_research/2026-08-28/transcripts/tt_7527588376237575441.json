@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7527588376237575441",
+  "duration_seconds": 21.22,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Loi tâm xin mạc",
+  "segments": [
+    {
+      "id": 1,
+      "start": 6.58,
+      "end": 7.54,
+      "text": "Loi tâm xin mạc",
+      "words": [
+        {
+          "word": "Loi",
+          "start": 6.58,
+          "end": 7.1,
+          "probability": 0.01
+        },
+        {
+          "word": "tâm",
+          "start": 7.1,
+          "end": 7.34,
+          "probability": 0.08
+        },
+        {
+          "word": "xin",
+          "start": 7.34,
+          "end": 7.5,
+          "probability": 0.12
+        },
+        {
+          "word": "mạc",
+          "start": 7.5,
+          "end": 7.54,
+          "probability": 0.34
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "item_id": "tt_7379205749949435154_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Cái gì? Cái gì? Cái gì?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.3,
+      "end": 1.18,
+      "text": "Cái gì?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.3,
+          "end": 0.94,
+          "probability": 0.24
+        },
+        {
+          "word": "gì?",
+          "start": 0.94,
+          "end": 1.18,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.56,
+      "end": 1.86,
+      "text": "Cái gì?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 1.56,
+          "end": 1.84,
+          "probability": 0.51
+        },
+        {
+          "word": "gì?",
+          "start": 1.84,
+          "end": 1.86,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 1.86,
+      "end": 2.02,
+      "text": "Cái gì?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 1.86,
+          "end": 1.86,
+          "probability": 0.61
+        },
+        {
+          "word": "gì?",
+          "start": 1.86,
+          "end": 2.02,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

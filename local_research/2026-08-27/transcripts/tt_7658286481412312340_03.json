@@ -1,0 +1,576 @@
+{
+  "item_id": "tt_7658286481412312340_03",
+  "duration_seconds": 29.4,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 85,
+  "text": "Bữa dễ, bữa dễ làm, bữa dễ điệu, lại không có tiền. Lại kènh cứ tất cả đại học sinh kể rồi nầm. Còn trong tranh, tài xin kế về tài miến bạn điệu và mạo về môi trường. Để quý sau đại dịch sau mất việc tại thành phố Hũ Chi Minh, chàng trai nguyễn cũng vính, không qua ai thêm vấn, trong nước anh đầy hai tìm kế xin dài, thị được người ba con dù nguyễn xe ứng và ai thương phần.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.34,
+      "text": "Bữa dễ, bữa dễ làm, bữa dễ điệu, lại không có tiền.",
+      "words": [
+        {
+          "word": "Bữa",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.23
+        },
+        {
+          "word": "dễ,",
+          "start": 0.46,
+          "end": 0.94,
+          "probability": 0.54
+        },
+        {
+          "word": "bữa",
+          "start": 1.26,
+          "end": 1.34,
+          "probability": 0.89
+        },
+        {
+          "word": "dễ",
+          "start": 1.34,
+          "end": 1.5,
+          "probability": 0.95
+        },
+        {
+          "word": "làm,",
+          "start": 1.5,
+          "end": 1.76,
+          "probability": 0.69
+        },
+        {
+          "word": "bữa",
+          "start": 2.04,
+          "end": 2.04,
+          "probability": 0.63
+        },
+        {
+          "word": "dễ",
+          "start": 2.04,
+          "end": 2.06,
+          "probability": 0.97
+        },
+        {
+          "word": "điệu,",
+          "start": 2.06,
+          "end": 2.4,
+          "probability": 0.15
+        },
+        {
+          "word": "lại",
+          "start": 2.62,
+          "end": 2.78,
+          "probability": 0.44
+        },
+        {
+          "word": "không",
+          "start": 2.78,
+          "end": 2.94,
+          "probability": 0.91
+        },
+        {
+          "word": "có",
+          "start": 2.94,
+          "end": 3.1,
+          "probability": 0.69
+        },
+        {
+          "word": "tiền.",
+          "start": 3.1,
+          "end": 3.34,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.56,
+      "end": 5.48,
+      "text": "Lại kènh cứ tất cả đại học sinh kể rồi nầm.",
+      "words": [
+        {
+          "word": "Lại",
+          "start": 3.56,
+          "end": 3.76,
+          "probability": 0.39
+        },
+        {
+          "word": "kènh",
+          "start": 3.76,
+          "end": 4.0,
+          "probability": 0.22
+        },
+        {
+          "word": "cứ",
+          "start": 4.0,
+          "end": 4.12,
+          "probability": 0.19
+        },
+        {
+          "word": "tất",
+          "start": 4.12,
+          "end": 4.26,
+          "probability": 0.21
+        },
+        {
+          "word": "cả",
+          "start": 4.26,
+          "end": 4.38,
+          "probability": 0.76
+        },
+        {
+          "word": "đại",
+          "start": 4.38,
+          "end": 4.54,
+          "probability": 0.55
+        },
+        {
+          "word": "học",
+          "start": 4.54,
+          "end": 4.66,
+          "probability": 0.68
+        },
+        {
+          "word": "sinh",
+          "start": 4.66,
+          "end": 4.86,
+          "probability": 0.76
+        },
+        {
+          "word": "kể",
+          "start": 4.86,
+          "end": 4.94,
+          "probability": 0.54
+        },
+        {
+          "word": "rồi",
+          "start": 4.94,
+          "end": 5.2,
+          "probability": 0.36
+        },
+        {
+          "word": "nầm.",
+          "start": 5.2,
+          "end": 5.48,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.14,
+      "end": 9.74,
+      "text": "Còn trong tranh, tài xin kế về tài miến bạn điệu và mạo về môi trường.",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 6.14,
+          "end": 6.22,
+          "probability": 0.46
+        },
+        {
+          "word": "trong",
+          "start": 6.22,
+          "end": 6.48,
+          "probability": 0.41
+        },
+        {
+          "word": "tranh,",
+          "start": 6.48,
+          "end": 6.74,
+          "probability": 0.57
+        },
+        {
+          "word": "tài",
+          "start": 6.98,
+          "end": 7.0,
+          "probability": 0.28
+        },
+        {
+          "word": "xin",
+          "start": 7.0,
+          "end": 7.16,
+          "probability": 0.55
+        },
+        {
+          "word": "kế",
+          "start": 7.16,
+          "end": 7.4,
+          "probability": 0.73
+        },
+        {
+          "word": "về",
+          "start": 7.4,
+          "end": 7.6,
+          "probability": 0.56
+        },
+        {
+          "word": "tài",
+          "start": 7.6,
+          "end": 7.78,
+          "probability": 0.74
+        },
+        {
+          "word": "miến",
+          "start": 7.78,
+          "end": 7.96,
+          "probability": 0.35
+        },
+        {
+          "word": "bạn",
+          "start": 7.96,
+          "end": 8.18,
+          "probability": 0.45
+        },
+        {
+          "word": "điệu",
+          "start": 8.18,
+          "end": 8.44,
+          "probability": 0.49
+        },
+        {
+          "word": "và",
+          "start": 8.44,
+          "end": 8.64,
+          "probability": 0.44
+        },
+        {
+          "word": "mạo",
+          "start": 8.64,
+          "end": 8.96,
+          "probability": 0.44
+        },
+        {
+          "word": "về",
+          "start": 8.96,
+          "end": 9.16,
+          "probability": 0.7
+        },
+        {
+          "word": "môi",
+          "start": 9.16,
+          "end": 9.38,
+          "probability": 0.38
+        },
+        {
+          "word": "trường.",
+          "start": 9.38,
+          "end": 9.74,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 18.21,
+      "end": 20.89,
+      "text": "Để quý sau đại dịch sau mất việc tại thành phố Hũ Chi Minh,",
+      "words": [
+        {
+          "word": "Để",
+          "start": 18.21,
+          "end": 18.39,
+          "probability": 0.53
+        },
+        {
+          "word": "quý",
+          "start": 18.39,
+          "end": 18.57,
+          "probability": 0.33
+        },
+        {
+          "word": "sau",
+          "start": 18.57,
+          "end": 18.71,
+          "probability": 0.28
+        },
+        {
+          "word": "đại",
+          "start": 18.71,
+          "end": 18.91,
+          "probability": 0.61
+        },
+        {
+          "word": "dịch",
+          "start": 18.91,
+          "end": 19.15,
+          "probability": 0.61
+        },
+        {
+          "word": "sau",
+          "start": 19.15,
+          "end": 19.33,
+          "probability": 0.39
+        },
+        {
+          "word": "mất",
+          "start": 19.33,
+          "end": 19.51,
+          "probability": 0.71
+        },
+        {
+          "word": "việc",
+          "start": 19.51,
+          "end": 19.73,
+          "probability": 0.24
+        },
+        {
+          "word": "tại",
+          "start": 19.73,
+          "end": 19.99,
+          "probability": 0.51
+        },
+        {
+          "word": "thành",
+          "start": 19.99,
+          "end": 20.23,
+          "probability": 0.27
+        },
+        {
+          "word": "phố",
+          "start": 20.23,
+          "end": 20.27,
+          "probability": 0.82
+        },
+        {
+          "word": "Hũ",
+          "start": 20.27,
+          "end": 20.45,
+          "probability": 0.5
+        },
+        {
+          "word": "Chi",
+          "start": 20.45,
+          "end": 20.57,
+          "probability": 0.33
+        },
+        {
+          "word": "Minh,",
+          "start": 20.57,
+          "end": 20.89,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 21.21,
+      "end": 23.81,
+      "text": "chàng trai nguyễn cũng vính, không qua ai thêm vấn,",
+      "words": [
+        {
+          "word": "chàng",
+          "start": 21.21,
+          "end": 21.27,
+          "probability": 0.27
+        },
+        {
+          "word": "trai",
+          "start": 21.27,
+          "end": 21.49,
+          "probability": 0.75
+        },
+        {
+          "word": "nguyễn",
+          "start": 21.49,
+          "end": 21.73,
+          "probability": 0.66
+        },
+        {
+          "word": "cũng",
+          "start": 21.73,
+          "end": 21.95,
+          "probability": 0.16
+        },
+        {
+          "word": "vính,",
+          "start": 21.95,
+          "end": 22.51,
+          "probability": 0.28
+        },
+        {
+          "word": "không",
+          "start": 22.63,
+          "end": 22.77,
+          "probability": 0.62
+        },
+        {
+          "word": "qua",
+          "start": 22.77,
+          "end": 23.05,
+          "probability": 0.22
+        },
+        {
+          "word": "ai",
+          "start": 23.05,
+          "end": 23.21,
+          "probability": 0.55
+        },
+        {
+          "word": "thêm",
+          "start": 23.21,
+          "end": 23.35,
+          "probability": 0.39
+        },
+        {
+          "word": "vấn,",
+          "start": 23.35,
+          "end": 23.81,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 24.13,
+      "end": 26.01,
+      "text": "trong nước anh đầy hai tìm kế xin dài,",
+      "words": [
+        {
+          "word": "trong",
+          "start": 24.13,
+          "end": 24.13,
+          "probability": 0.78
+        },
+        {
+          "word": "nước",
+          "start": 24.13,
+          "end": 24.29,
+          "probability": 0.66
+        },
+        {
+          "word": "anh",
+          "start": 24.29,
+          "end": 24.49,
+          "probability": 0.36
+        },
+        {
+          "word": "đầy",
+          "start": 24.49,
+          "end": 24.67,
+          "probability": 0.74
+        },
+        {
+          "word": "hai",
+          "start": 24.67,
+          "end": 25.03,
+          "probability": 0.34
+        },
+        {
+          "word": "tìm",
+          "start": 25.03,
+          "end": 25.21,
+          "probability": 0.68
+        },
+        {
+          "word": "kế",
+          "start": 25.21,
+          "end": 25.47,
+          "probability": 0.95
+        },
+        {
+          "word": "xin",
+          "start": 25.47,
+          "end": 25.67,
+          "probability": 0.71
+        },
+        {
+          "word": "dài,",
+          "start": 25.67,
+          "end": 26.01,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 26.29,
+      "end": 29.09,
+      "text": "thị được người ba con dù nguyễn xe ứng và ai thương phần.",
+      "words": [
+        {
+          "word": "thị",
+          "start": 26.29,
+          "end": 26.39,
+          "probability": 0.3
+        },
+        {
+          "word": "được",
+          "start": 26.39,
+          "end": 26.51,
+          "probability": 0.3
+        },
+        {
+          "word": "người",
+          "start": 26.51,
+          "end": 26.75,
+          "probability": 0.41
+        },
+        {
+          "word": "ba",
+          "start": 26.75,
+          "end": 26.97,
+          "probability": 0.53
+        },
+        {
+          "word": "con",
+          "start": 26.97,
+          "end": 27.29,
+          "probability": 0.76
+        },
+        {
+          "word": "dù",
+          "start": 27.29,
+          "end": 27.49,
+          "probability": 0.48
+        },
+        {
+          "word": "nguyễn",
+          "start": 27.49,
+          "end": 27.95,
+          "probability": 0.34
+        },
+        {
+          "word": "xe",
+          "start": 27.95,
+          "end": 28.21,
+          "probability": 0.14
+        },
+        {
+          "word": "ứng",
+          "start": 28.21,
+          "end": 28.21,
+          "probability": 0.07
+        },
+        {
+          "word": "và",
+          "start": 28.21,
+          "end": 28.49,
+          "probability": 0.53
+        },
+        {
+          "word": "ai",
+          "start": 28.49,
+          "end": 28.73,
+          "probability": 0.33
+        },
+        {
+          "word": "thương",
+          "start": 28.73,
+          "end": 28.87,
+          "probability": 0.72
+        },
+        {
+          "word": "phần.",
+          "start": 28.87,
+          "end": 29.09,
+          "probability": 0.62
+        }
+      ]
+    }
+  ]
+}

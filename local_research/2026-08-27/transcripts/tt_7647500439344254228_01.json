@@ -1,0 +1,586 @@
+{
+  "item_id": "tt_7647500439344254228_01",
+  "duration_seconds": 25.36,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 88,
+  "text": "Lấy là một hành trình vô cùng đặc biệt. Hành trình mở đường cho một sự sống. Tối bà thành sấu năm 2020, đặc thầy sấu lực lượng cả sức như thông tàn phù hí mình, đã mở đường cho xe vần chuyển của tìm hứng tặng, từ bình viên giân dân một một năm, đến bình đa học viên dự thành phù hí mình, chỉ trong bố phúc, gớ phần dữ tròn thời gian văn cho các cái tạn cướng người. Quảng người chính như cùng này.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 4.28,
+      "end": 8.66,
+      "text": "Lấy là một hành trình vô cùng đặc biệt. Hành trình mở đường cho một sự sống.",
+      "words": [
+        {
+          "word": "Lấy",
+          "start": 4.28,
+          "end": 4.64,
+          "probability": 0.46
+        },
+        {
+          "word": "là",
+          "start": 4.64,
+          "end": 4.84,
+          "probability": 0.75
+        },
+        {
+          "word": "một",
+          "start": 4.84,
+          "end": 5.0,
+          "probability": 0.55
+        },
+        {
+          "word": "hành",
+          "start": 5.0,
+          "end": 5.18,
+          "probability": 0.56
+        },
+        {
+          "word": "trình",
+          "start": 5.18,
+          "end": 5.4,
+          "probability": 0.82
+        },
+        {
+          "word": "vô",
+          "start": 5.4,
+          "end": 5.64,
+          "probability": 0.73
+        },
+        {
+          "word": "cùng",
+          "start": 5.64,
+          "end": 5.8,
+          "probability": 0.94
+        },
+        {
+          "word": "đặc",
+          "start": 5.8,
+          "end": 5.96,
+          "probability": 0.8
+        },
+        {
+          "word": "biệt.",
+          "start": 5.96,
+          "end": 6.62,
+          "probability": 0.96
+        },
+        {
+          "word": "Hành",
+          "start": 6.94,
+          "end": 7.04,
+          "probability": 0.9
+        },
+        {
+          "word": "trình",
+          "start": 7.04,
+          "end": 7.22,
+          "probability": 0.99
+        },
+        {
+          "word": "mở",
+          "start": 7.22,
+          "end": 7.36,
+          "probability": 0.62
+        },
+        {
+          "word": "đường",
+          "start": 7.36,
+          "end": 7.7,
+          "probability": 0.8
+        },
+        {
+          "word": "cho",
+          "start": 7.7,
+          "end": 7.98,
+          "probability": 0.54
+        },
+        {
+          "word": "một",
+          "start": 7.98,
+          "end": 8.1,
+          "probability": 0.86
+        },
+        {
+          "word": "sự",
+          "start": 8.1,
+          "end": 8.28,
+          "probability": 0.8
+        },
+        {
+          "word": "sống.",
+          "start": 8.28,
+          "end": 8.66,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 9.5,
+      "end": 13.16,
+      "text": "Tối bà thành sấu năm 2020, đặc thầy sấu lực lượng cả sức như thông tàn phù hí mình,",
+      "words": [
+        {
+          "word": "Tối",
+          "start": 9.5,
+          "end": 9.5,
+          "probability": 0.72
+        },
+        {
+          "word": "bà",
+          "start": 9.5,
+          "end": 9.68,
+          "probability": 0.45
+        },
+        {
+          "word": "thành",
+          "start": 9.68,
+          "end": 9.86,
+          "probability": 0.51
+        },
+        {
+          "word": "sấu",
+          "start": 9.86,
+          "end": 10.0,
+          "probability": 0.64
+        },
+        {
+          "word": "năm",
+          "start": 10.0,
+          "end": 10.2,
+          "probability": 0.55
+        },
+        {
+          "word": "2020,",
+          "start": 10.2,
+          "end": 10.52,
+          "probability": 0.28
+        },
+        {
+          "word": "đặc",
+          "start": 10.86,
+          "end": 10.86,
+          "probability": 0.13
+        },
+        {
+          "word": "thầy",
+          "start": 10.86,
+          "end": 10.88,
+          "probability": 0.44
+        },
+        {
+          "word": "sấu",
+          "start": 10.88,
+          "end": 11.22,
+          "probability": 0.77
+        },
+        {
+          "word": "lực",
+          "start": 11.22,
+          "end": 11.56,
+          "probability": 0.43
+        },
+        {
+          "word": "lượng",
+          "start": 11.56,
+          "end": 11.7,
+          "probability": 0.63
+        },
+        {
+          "word": "cả",
+          "start": 11.7,
+          "end": 11.86,
+          "probability": 0.48
+        },
+        {
+          "word": "sức",
+          "start": 11.86,
+          "end": 11.96,
+          "probability": 0.21
+        },
+        {
+          "word": "như",
+          "start": 11.96,
+          "end": 12.08,
+          "probability": 0.12
+        },
+        {
+          "word": "thông",
+          "start": 12.08,
+          "end": 12.26,
+          "probability": 0.68
+        },
+        {
+          "word": "tàn",
+          "start": 12.26,
+          "end": 12.42,
+          "probability": 0.38
+        },
+        {
+          "word": "phù",
+          "start": 12.42,
+          "end": 12.56,
+          "probability": 0.58
+        },
+        {
+          "word": "hí",
+          "start": 12.56,
+          "end": 12.76,
+          "probability": 0.36
+        },
+        {
+          "word": "mình,",
+          "start": 12.76,
+          "end": 13.16,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.44,
+      "end": 17.18,
+      "text": "đã mở đường cho xe vần chuyển của tìm hứng tặng, từ bình viên giân dân một một năm,",
+      "words": [
+        {
+          "word": "đã",
+          "start": 13.44,
+          "end": 13.52,
+          "probability": 0.62
+        },
+        {
+          "word": "mở",
+          "start": 13.52,
+          "end": 13.64,
+          "probability": 0.71
+        },
+        {
+          "word": "đường",
+          "start": 13.64,
+          "end": 13.76,
+          "probability": 0.72
+        },
+        {
+          "word": "cho",
+          "start": 13.76,
+          "end": 13.98,
+          "probability": 0.6
+        },
+        {
+          "word": "xe",
+          "start": 13.98,
+          "end": 14.08,
+          "probability": 0.59
+        },
+        {
+          "word": "vần",
+          "start": 14.08,
+          "end": 14.26,
+          "probability": 0.49
+        },
+        {
+          "word": "chuyển",
+          "start": 14.26,
+          "end": 14.52,
+          "probability": 0.79
+        },
+        {
+          "word": "của",
+          "start": 14.52,
+          "end": 14.72,
+          "probability": 0.32
+        },
+        {
+          "word": "tìm",
+          "start": 14.72,
+          "end": 14.9,
+          "probability": 0.62
+        },
+        {
+          "word": "hứng",
+          "start": 14.9,
+          "end": 15.12,
+          "probability": 0.33
+        },
+        {
+          "word": "tặng,",
+          "start": 15.12,
+          "end": 15.62,
+          "probability": 0.64
+        },
+        {
+          "word": "từ",
+          "start": 15.72,
+          "end": 15.78,
+          "probability": 0.33
+        },
+        {
+          "word": "bình",
+          "start": 15.78,
+          "end": 15.9,
+          "probability": 0.6
+        },
+        {
+          "word": "viên",
+          "start": 15.9,
+          "end": 16.06,
+          "probability": 0.44
+        },
+        {
+          "word": "giân",
+          "start": 16.06,
+          "end": 16.26,
+          "probability": 0.18
+        },
+        {
+          "word": "dân",
+          "start": 16.26,
+          "end": 16.44,
+          "probability": 0.39
+        },
+        {
+          "word": "một",
+          "start": 16.44,
+          "end": 16.58,
+          "probability": 0.33
+        },
+        {
+          "word": "một",
+          "start": 16.58,
+          "end": 16.74,
+          "probability": 0.49
+        },
+        {
+          "word": "năm,",
+          "start": 16.74,
+          "end": 17.18,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 17.44,
+      "end": 20.46,
+      "text": "đến bình đa học viên dự thành phù hí mình, chỉ trong bố phúc,",
+      "words": [
+        {
+          "word": "đến",
+          "start": 17.44,
+          "end": 17.62,
+          "probability": 0.96
+        },
+        {
+          "word": "bình",
+          "start": 17.62,
+          "end": 17.82,
+          "probability": 0.96
+        },
+        {
+          "word": "đa",
+          "start": 17.82,
+          "end": 18.1,
+          "probability": 0.36
+        },
+        {
+          "word": "học",
+          "start": 18.1,
+          "end": 18.18,
+          "probability": 0.89
+        },
+        {
+          "word": "viên",
+          "start": 18.18,
+          "end": 18.32,
+          "probability": 0.26
+        },
+        {
+          "word": "dự",
+          "start": 18.32,
+          "end": 18.48,
+          "probability": 0.42
+        },
+        {
+          "word": "thành",
+          "start": 18.48,
+          "end": 18.62,
+          "probability": 0.39
+        },
+        {
+          "word": "phù",
+          "start": 18.62,
+          "end": 18.74,
+          "probability": 0.98
+        },
+        {
+          "word": "hí",
+          "start": 18.74,
+          "end": 18.92,
+          "probability": 0.99
+        },
+        {
+          "word": "mình,",
+          "start": 18.92,
+          "end": 19.34,
+          "probability": 0.62
+        },
+        {
+          "word": "chỉ",
+          "start": 19.6,
+          "end": 19.64,
+          "probability": 0.59
+        },
+        {
+          "word": "trong",
+          "start": 19.64,
+          "end": 19.8,
+          "probability": 0.57
+        },
+        {
+          "word": "bố",
+          "start": 19.8,
+          "end": 19.96,
+          "probability": 0.5
+        },
+        {
+          "word": "phúc,",
+          "start": 19.96,
+          "end": 20.46,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 20.74,
+      "end": 23.5,
+      "text": "gớ phần dữ tròn thời gian văn cho các cái tạn cướng người.",
+      "words": [
+        {
+          "word": "gớ",
+          "start": 20.74,
+          "end": 20.92,
+          "probability": 0.2
+        },
+        {
+          "word": "phần",
+          "start": 20.92,
+          "end": 21.04,
+          "probability": 0.62
+        },
+        {
+          "word": "dữ",
+          "start": 21.04,
+          "end": 21.26,
+          "probability": 0.54
+        },
+        {
+          "word": "tròn",
+          "start": 21.26,
+          "end": 21.46,
+          "probability": 0.49
+        },
+        {
+          "word": "thời",
+          "start": 21.46,
+          "end": 21.7,
+          "probability": 0.76
+        },
+        {
+          "word": "gian",
+          "start": 21.7,
+          "end": 21.84,
+          "probability": 0.79
+        },
+        {
+          "word": "văn",
+          "start": 21.84,
+          "end": 22.18,
+          "probability": 0.29
+        },
+        {
+          "word": "cho",
+          "start": 22.18,
+          "end": 22.42,
+          "probability": 0.95
+        },
+        {
+          "word": "các",
+          "start": 22.42,
+          "end": 22.58,
+          "probability": 0.5
+        },
+        {
+          "word": "cái",
+          "start": 22.58,
+          "end": 22.74,
+          "probability": 0.09
+        },
+        {
+          "word": "tạn",
+          "start": 22.74,
+          "end": 22.92,
+          "probability": 0.52
+        },
+        {
+          "word": "cướng",
+          "start": 22.92,
+          "end": 23.16,
+          "probability": 0.45
+        },
+        {
+          "word": "người.",
+          "start": 23.16,
+          "end": 23.5,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 24.18,
+      "end": 25.16,
+      "text": "Quảng người chính như cùng này.",
+      "words": [
+        {
+          "word": "Quảng",
+          "start": 24.18,
+          "end": 24.32,
+          "probability": 0.31
+        },
+        {
+          "word": "người",
+          "start": 24.32,
+          "end": 24.54,
+          "probability": 0.48
+        },
+        {
+          "word": "chính",
+          "start": 24.54,
+          "end": 24.68,
+          "probability": 0.52
+        },
+        {
+          "word": "như",
+          "start": 24.68,
+          "end": 24.82,
+          "probability": 0.34
+        },
+        {
+          "word": "cùng",
+          "start": 24.82,
+          "end": 25.02,
+          "probability": 0.27
+        },
+        {
+          "word": "này.",
+          "start": 25.02,
+          "end": 25.16,
+          "probability": 0.48
+        }
+      ]
+    }
+  ]
+}

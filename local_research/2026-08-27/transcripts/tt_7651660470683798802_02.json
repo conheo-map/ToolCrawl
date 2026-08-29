@@ -1,0 +1,672 @@
+{
+  "item_id": "tt_7651660470683798802_02",
+  "duration_seconds": 27.7,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 105,
+  "text": "Tại sĩ lại ổ tù trở ra điện ánh vào ủy xe ử hầm Trung cư này. Đến khi ra về, tại sĩ được báo tiền với ổ tù là một chắc sống bên nhìn động. Pì thay sốt tiền này không thật án nên tại sĩ đã để gỷ lấy bên lại và một thống suất từ thời điểm này với một ủy được cho lại những viên bảo vệ hầm Trung cư, và đây là những gì giễn ra sâu đó. Bù việc chi dừng lại khi người đàn ông trảy sàng hoài khu vực mỗi khu Trung cư, khô hoán người dân.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 4.01,
+      "text": "Tại sĩ lại ổ tù trở ra điện ánh vào ủy xe ử hầm Trung cư này.",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 0.05,
+          "end": 0.61,
+          "probability": 0.57
+        },
+        {
+          "word": "sĩ",
+          "start": 0.61,
+          "end": 0.83,
+          "probability": 0.23
+        },
+        {
+          "word": "lại",
+          "start": 0.83,
+          "end": 1.05,
+          "probability": 0.24
+        },
+        {
+          "word": "ổ",
+          "start": 1.05,
+          "end": 1.33,
+          "probability": 0.16
+        },
+        {
+          "word": "tù",
+          "start": 1.33,
+          "end": 1.33,
+          "probability": 0.25
+        },
+        {
+          "word": "trở",
+          "start": 1.33,
+          "end": 1.59,
+          "probability": 0.77
+        },
+        {
+          "word": "ra",
+          "start": 1.59,
+          "end": 1.79,
+          "probability": 0.37
+        },
+        {
+          "word": "điện",
+          "start": 1.79,
+          "end": 1.99,
+          "probability": 0.41
+        },
+        {
+          "word": "ánh",
+          "start": 1.99,
+          "end": 2.25,
+          "probability": 0.54
+        },
+        {
+          "word": "vào",
+          "start": 2.25,
+          "end": 2.43,
+          "probability": 0.59
+        },
+        {
+          "word": "ủy",
+          "start": 2.43,
+          "end": 2.65,
+          "probability": 0.49
+        },
+        {
+          "word": "xe",
+          "start": 2.65,
+          "end": 2.81,
+          "probability": 0.59
+        },
+        {
+          "word": "ử",
+          "start": 2.81,
+          "end": 3.03,
+          "probability": 0.3
+        },
+        {
+          "word": "hầm",
+          "start": 3.03,
+          "end": 3.19,
+          "probability": 0.6
+        },
+        {
+          "word": "Trung",
+          "start": 3.19,
+          "end": 3.39,
+          "probability": 0.5
+        },
+        {
+          "word": "cư",
+          "start": 3.39,
+          "end": 3.53,
+          "probability": 0.26
+        },
+        {
+          "word": "này.",
+          "start": 3.53,
+          "end": 4.01,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.73,
+      "end": 8.79,
+      "text": "Đến khi ra về, tại sĩ được báo tiền với ổ tù là một chắc sống bên nhìn động.",
+      "words": [
+        {
+          "word": "Đến",
+          "start": 4.73,
+          "end": 4.73,
+          "probability": 0.8
+        },
+        {
+          "word": "khi",
+          "start": 4.73,
+          "end": 4.95,
+          "probability": 0.78
+        },
+        {
+          "word": "ra",
+          "start": 4.95,
+          "end": 5.15,
+          "probability": 0.59
+        },
+        {
+          "word": "về,",
+          "start": 5.15,
+          "end": 5.47,
+          "probability": 0.51
+        },
+        {
+          "word": "tại",
+          "start": 5.69,
+          "end": 5.85,
+          "probability": 0.45
+        },
+        {
+          "word": "sĩ",
+          "start": 5.85,
+          "end": 5.99,
+          "probability": 0.91
+        },
+        {
+          "word": "được",
+          "start": 5.99,
+          "end": 6.21,
+          "probability": 0.87
+        },
+        {
+          "word": "báo",
+          "start": 6.21,
+          "end": 6.45,
+          "probability": 0.83
+        },
+        {
+          "word": "tiền",
+          "start": 6.45,
+          "end": 6.69,
+          "probability": 0.57
+        },
+        {
+          "word": "với",
+          "start": 6.69,
+          "end": 6.91,
+          "probability": 0.13
+        },
+        {
+          "word": "ổ",
+          "start": 6.91,
+          "end": 7.13,
+          "probability": 0.96
+        },
+        {
+          "word": "tù",
+          "start": 7.13,
+          "end": 7.27,
+          "probability": 0.93
+        },
+        {
+          "word": "là",
+          "start": 7.27,
+          "end": 7.45,
+          "probability": 0.78
+        },
+        {
+          "word": "một",
+          "start": 7.45,
+          "end": 7.63,
+          "probability": 0.93
+        },
+        {
+          "word": "chắc",
+          "start": 7.63,
+          "end": 7.83,
+          "probability": 0.46
+        },
+        {
+          "word": "sống",
+          "start": 7.83,
+          "end": 8.05,
+          "probability": 0.48
+        },
+        {
+          "word": "bên",
+          "start": 8.05,
+          "end": 8.27,
+          "probability": 0.18
+        },
+        {
+          "word": "nhìn",
+          "start": 8.27,
+          "end": 8.37,
+          "probability": 0.68
+        },
+        {
+          "word": "động.",
+          "start": 8.37,
+          "end": 8.79,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.47,
+      "end": 18.75,
+      "text": "Pì thay sốt tiền này không thật án nên tại sĩ đã để gỷ lấy bên lại và một thống suất từ thời điểm này với một ủy được cho lại những viên bảo vệ hầm Trung cư, và đây là những gì giễn ra sâu đó.",
+      "words": [
+        {
+          "word": "Pì",
+          "start": 9.47,
+          "end": 9.49,
+          "probability": 0.29
+        },
+        {
+          "word": "thay",
+          "start": 9.49,
+          "end": 9.73,
+          "probability": 0.55
+        },
+        {
+          "word": "sốt",
+          "start": 9.73,
+          "end": 9.91,
+          "probability": 0.32
+        },
+        {
+          "word": "tiền",
+          "start": 9.91,
+          "end": 10.09,
+          "probability": 0.87
+        },
+        {
+          "word": "này",
+          "start": 10.09,
+          "end": 10.33,
+          "probability": 0.96
+        },
+        {
+          "word": "không",
+          "start": 10.33,
+          "end": 10.51,
+          "probability": 0.97
+        },
+        {
+          "word": "thật",
+          "start": 10.51,
+          "end": 10.71,
+          "probability": 0.42
+        },
+        {
+          "word": "án",
+          "start": 10.71,
+          "end": 10.95,
+          "probability": 0.44
+        },
+        {
+          "word": "nên",
+          "start": 10.95,
+          "end": 11.09,
+          "probability": 0.24
+        },
+        {
+          "word": "tại",
+          "start": 11.09,
+          "end": 11.31,
+          "probability": 0.8
+        },
+        {
+          "word": "sĩ",
+          "start": 11.31,
+          "end": 11.47,
+          "probability": 0.95
+        },
+        {
+          "word": "đã",
+          "start": 11.47,
+          "end": 11.65,
+          "probability": 0.98
+        },
+        {
+          "word": "để",
+          "start": 11.65,
+          "end": 11.83,
+          "probability": 0.58
+        },
+        {
+          "word": "gỷ",
+          "start": 11.83,
+          "end": 11.97,
+          "probability": 0.48
+        },
+        {
+          "word": "lấy",
+          "start": 11.97,
+          "end": 12.17,
+          "probability": 0.84
+        },
+        {
+          "word": "bên",
+          "start": 12.17,
+          "end": 12.37,
+          "probability": 0.62
+        },
+        {
+          "word": "lại",
+          "start": 12.37,
+          "end": 12.55,
+          "probability": 0.49
+        },
+        {
+          "word": "và",
+          "start": 12.55,
+          "end": 12.75,
+          "probability": 0.92
+        },
+        {
+          "word": "một",
+          "start": 12.75,
+          "end": 12.95,
+          "probability": 0.5
+        },
+        {
+          "word": "thống",
+          "start": 12.95,
+          "end": 13.13,
+          "probability": 0.5
+        },
+        {
+          "word": "suất",
+          "start": 13.13,
+          "end": 13.47,
+          "probability": 0.32
+        },
+        {
+          "word": "từ",
+          "start": 13.47,
+          "end": 13.71,
+          "probability": 0.48
+        },
+        {
+          "word": "thời",
+          "start": 13.71,
+          "end": 13.97,
+          "probability": 0.44
+        },
+        {
+          "word": "điểm",
+          "start": 13.97,
+          "end": 14.03,
+          "probability": 0.93
+        },
+        {
+          "word": "này",
+          "start": 14.03,
+          "end": 14.27,
+          "probability": 0.82
+        },
+        {
+          "word": "với",
+          "start": 14.27,
+          "end": 14.45,
+          "probability": 0.88
+        },
+        {
+          "word": "một",
+          "start": 14.45,
+          "end": 14.65,
+          "probability": 0.86
+        },
+        {
+          "word": "ủy",
+          "start": 14.65,
+          "end": 14.81,
+          "probability": 0.57
+        },
+        {
+          "word": "được",
+          "start": 14.81,
+          "end": 14.97,
+          "probability": 0.65
+        },
+        {
+          "word": "cho",
+          "start": 14.97,
+          "end": 15.17,
+          "probability": 0.79
+        },
+        {
+          "word": "lại",
+          "start": 15.17,
+          "end": 15.35,
+          "probability": 0.19
+        },
+        {
+          "word": "những",
+          "start": 15.35,
+          "end": 15.51,
+          "probability": 0.37
+        },
+        {
+          "word": "viên",
+          "start": 15.51,
+          "end": 15.71,
+          "probability": 0.63
+        },
+        {
+          "word": "bảo",
+          "start": 15.71,
+          "end": 15.91,
+          "probability": 0.76
+        },
+        {
+          "word": "vệ",
+          "start": 15.91,
+          "end": 16.11,
+          "probability": 0.89
+        },
+        {
+          "word": "hầm",
+          "start": 16.11,
+          "end": 16.31,
+          "probability": 0.99
+        },
+        {
+          "word": "Trung",
+          "start": 16.31,
+          "end": 16.55,
+          "probability": 1.0
+        },
+        {
+          "word": "cư,",
+          "start": 16.55,
+          "end": 16.83,
+          "probability": 0.89
+        },
+        {
+          "word": "và",
+          "start": 17.09,
+          "end": 17.19,
+          "probability": 0.95
+        },
+        {
+          "word": "đây",
+          "start": 17.19,
+          "end": 17.35,
+          "probability": 0.73
+        },
+        {
+          "word": "là",
+          "start": 17.35,
+          "end": 17.53,
+          "probability": 0.79
+        },
+        {
+          "word": "những",
+          "start": 17.53,
+          "end": 17.67,
+          "probability": 0.99
+        },
+        {
+          "word": "gì",
+          "start": 17.67,
+          "end": 17.89,
+          "probability": 0.81
+        },
+        {
+          "word": "giễn",
+          "start": 17.89,
+          "end": 18.11,
+          "probability": 0.23
+        },
+        {
+          "word": "ra",
+          "start": 18.11,
+          "end": 18.29,
+          "probability": 0.19
+        },
+        {
+          "word": "sâu",
+          "start": 18.29,
+          "end": 18.49,
+          "probability": 0.39
+        },
+        {
+          "word": "đó.",
+          "start": 18.49,
+          "end": 18.75,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 22.72,
+      "end": 27.36,
+      "text": "Bù việc chi dừng lại khi người đàn ông trảy sàng hoài khu vực mỗi khu Trung cư, khô hoán người dân.",
+      "words": [
+        {
+          "word": "Bù",
+          "start": 22.72,
+          "end": 22.88,
+          "probability": 0.47
+        },
+        {
+          "word": "việc",
+          "start": 22.88,
+          "end": 23.1,
+          "probability": 0.92
+        },
+        {
+          "word": "chi",
+          "start": 23.1,
+          "end": 23.3,
+          "probability": 0.26
+        },
+        {
+          "word": "dừng",
+          "start": 23.3,
+          "end": 23.48,
+          "probability": 0.42
+        },
+        {
+          "word": "lại",
+          "start": 23.48,
+          "end": 23.72,
+          "probability": 1.0
+        },
+        {
+          "word": "khi",
+          "start": 23.72,
+          "end": 23.92,
+          "probability": 0.7
+        },
+        {
+          "word": "người",
+          "start": 23.92,
+          "end": 24.06,
+          "probability": 0.65
+        },
+        {
+          "word": "đàn",
+          "start": 24.06,
+          "end": 24.22,
+          "probability": 0.3
+        },
+        {
+          "word": "ông",
+          "start": 24.22,
+          "end": 24.46,
+          "probability": 0.52
+        },
+        {
+          "word": "trảy",
+          "start": 24.46,
+          "end": 24.72,
+          "probability": 0.47
+        },
+        {
+          "word": "sàng",
+          "start": 24.72,
+          "end": 24.88,
+          "probability": 0.31
+        },
+        {
+          "word": "hoài",
+          "start": 24.88,
+          "end": 25.12,
+          "probability": 0.43
+        },
+        {
+          "word": "khu",
+          "start": 25.12,
+          "end": 25.32,
+          "probability": 0.69
+        },
+        {
+          "word": "vực",
+          "start": 25.32,
+          "end": 25.42,
+          "probability": 0.5
+        },
+        {
+          "word": "mỗi",
+          "start": 25.42,
+          "end": 25.66,
+          "probability": 0.43
+        },
+        {
+          "word": "khu",
+          "start": 25.66,
+          "end": 25.9,
+          "probability": 0.62
+        },
+        {
+          "word": "Trung",
+          "start": 25.9,
+          "end": 26.06,
+          "probability": 0.92
+        },
+        {
+          "word": "cư,",
+          "start": 26.06,
+          "end": 26.34,
+          "probability": 0.99
+        },
+        {
+          "word": "khô",
+          "start": 26.68,
+          "end": 26.76,
+          "probability": 0.4
+        },
+        {
+          "word": "hoán",
+          "start": 26.76,
+          "end": 26.98,
+          "probability": 0.67
+        },
+        {
+          "word": "người",
+          "start": 26.98,
+          "end": 27.18,
+          "probability": 0.72
+        },
+        {
+          "word": "dân.",
+          "start": 27.18,
+          "end": 27.36,
+          "probability": 0.76
+        }
+      ]
+    }
+  ]
+}

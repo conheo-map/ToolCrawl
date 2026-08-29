@@ -1,0 +1,658 @@
+{
+  "item_id": "tt_7663118781723462933_01",
+  "duration_seconds": 25.75,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 100,
+  "text": "Trong không sang chật hẹp, và nhiều đọn cuối gấp từ tân cao cùng chình, các chiến sĩ cạnh sát phòng chai trước trải và kíu nạn kíu hộ đã phải thấy tuyên nhau khiến giữ chặt cánh kíu thương để đưa nạn nhân xung đất ăn toàn. Ngày mười sáo tháng 20, năm 20, khuông trong 20 sấu. Đại diện phòng cạnh sát phòng chai trước trải và kíu nạn kíu hộ con gán thành phố hổ chí mình cho biết. Đơn vì vừa dài kíu thành công, một người đang ông gập tay nạn lâu động nhớm chọng.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.47,
+      "end": 5.87,
+      "text": "Trong không sang chật hẹp, và nhiều đọn cuối gấp từ tân cao cùng chình,",
+      "words": [
+        {
+          "word": "Trong",
+          "start": 2.47,
+          "end": 2.87,
+          "probability": 0.45
+        },
+        {
+          "word": "không",
+          "start": 2.87,
+          "end": 3.03,
+          "probability": 0.26
+        },
+        {
+          "word": "sang",
+          "start": 3.03,
+          "end": 3.17,
+          "probability": 0.31
+        },
+        {
+          "word": "chật",
+          "start": 3.17,
+          "end": 3.41,
+          "probability": 0.43
+        },
+        {
+          "word": "hẹp,",
+          "start": 3.41,
+          "end": 3.79,
+          "probability": 0.71
+        },
+        {
+          "word": "và",
+          "start": 3.89,
+          "end": 4.01,
+          "probability": 0.26
+        },
+        {
+          "word": "nhiều",
+          "start": 4.01,
+          "end": 4.17,
+          "probability": 0.9
+        },
+        {
+          "word": "đọn",
+          "start": 4.17,
+          "end": 4.37,
+          "probability": 0.36
+        },
+        {
+          "word": "cuối",
+          "start": 4.37,
+          "end": 4.59,
+          "probability": 0.41
+        },
+        {
+          "word": "gấp",
+          "start": 4.59,
+          "end": 4.81,
+          "probability": 0.52
+        },
+        {
+          "word": "từ",
+          "start": 4.81,
+          "end": 5.05,
+          "probability": 0.85
+        },
+        {
+          "word": "tân",
+          "start": 5.05,
+          "end": 5.23,
+          "probability": 0.5
+        },
+        {
+          "word": "cao",
+          "start": 5.23,
+          "end": 5.57,
+          "probability": 0.86
+        },
+        {
+          "word": "cùng",
+          "start": 5.57,
+          "end": 5.59,
+          "probability": 0.43
+        },
+        {
+          "word": "chình,",
+          "start": 5.59,
+          "end": 5.87,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.11,
+      "end": 10.07,
+      "text": "các chiến sĩ cạnh sát phòng chai trước trải và kíu nạn kíu hộ đã phải thấy tuyên nhau",
+      "words": [
+        {
+          "word": "các",
+          "start": 6.11,
+          "end": 6.19,
+          "probability": 0.51
+        },
+        {
+          "word": "chiến",
+          "start": 6.19,
+          "end": 6.37,
+          "probability": 0.68
+        },
+        {
+          "word": "sĩ",
+          "start": 6.37,
+          "end": 6.57,
+          "probability": 0.69
+        },
+        {
+          "word": "cạnh",
+          "start": 6.57,
+          "end": 6.77,
+          "probability": 0.6
+        },
+        {
+          "word": "sát",
+          "start": 6.77,
+          "end": 6.95,
+          "probability": 0.81
+        },
+        {
+          "word": "phòng",
+          "start": 6.95,
+          "end": 7.13,
+          "probability": 0.65
+        },
+        {
+          "word": "chai",
+          "start": 7.13,
+          "end": 7.29,
+          "probability": 0.39
+        },
+        {
+          "word": "trước",
+          "start": 7.29,
+          "end": 7.45,
+          "probability": 0.42
+        },
+        {
+          "word": "trải",
+          "start": 7.45,
+          "end": 7.65,
+          "probability": 0.4
+        },
+        {
+          "word": "và",
+          "start": 7.65,
+          "end": 7.89,
+          "probability": 0.74
+        },
+        {
+          "word": "kíu",
+          "start": 7.89,
+          "end": 8.03,
+          "probability": 0.37
+        },
+        {
+          "word": "nạn",
+          "start": 8.03,
+          "end": 8.21,
+          "probability": 0.63
+        },
+        {
+          "word": "kíu",
+          "start": 8.21,
+          "end": 8.39,
+          "probability": 0.78
+        },
+        {
+          "word": "hộ",
+          "start": 8.39,
+          "end": 8.71,
+          "probability": 0.77
+        },
+        {
+          "word": "đã",
+          "start": 8.71,
+          "end": 9.11,
+          "probability": 0.65
+        },
+        {
+          "word": "phải",
+          "start": 9.11,
+          "end": 9.35,
+          "probability": 0.9
+        },
+        {
+          "word": "thấy",
+          "start": 9.35,
+          "end": 9.59,
+          "probability": 0.32
+        },
+        {
+          "word": "tuyên",
+          "start": 9.59,
+          "end": 9.81,
+          "probability": 0.5
+        },
+        {
+          "word": "nhau",
+          "start": 9.81,
+          "end": 10.07,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.07,
+      "end": 13.71,
+      "text": "khiến giữ chặt cánh kíu thương để đưa nạn nhân xung đất ăn toàn.",
+      "words": [
+        {
+          "word": "khiến",
+          "start": 10.07,
+          "end": 10.59,
+          "probability": 0.3
+        },
+        {
+          "word": "giữ",
+          "start": 10.59,
+          "end": 10.85,
+          "probability": 0.64
+        },
+        {
+          "word": "chặt",
+          "start": 10.85,
+          "end": 11.09,
+          "probability": 0.6
+        },
+        {
+          "word": "cánh",
+          "start": 11.09,
+          "end": 11.35,
+          "probability": 0.39
+        },
+        {
+          "word": "kíu",
+          "start": 11.35,
+          "end": 11.55,
+          "probability": 0.85
+        },
+        {
+          "word": "thương",
+          "start": 11.55,
+          "end": 11.81,
+          "probability": 0.77
+        },
+        {
+          "word": "để",
+          "start": 11.81,
+          "end": 12.17,
+          "probability": 0.96
+        },
+        {
+          "word": "đưa",
+          "start": 12.17,
+          "end": 12.33,
+          "probability": 0.94
+        },
+        {
+          "word": "nạn",
+          "start": 12.33,
+          "end": 12.51,
+          "probability": 0.76
+        },
+        {
+          "word": "nhân",
+          "start": 12.51,
+          "end": 12.75,
+          "probability": 0.88
+        },
+        {
+          "word": "xung",
+          "start": 12.75,
+          "end": 12.91,
+          "probability": 0.28
+        },
+        {
+          "word": "đất",
+          "start": 12.91,
+          "end": 13.07,
+          "probability": 0.82
+        },
+        {
+          "word": "ăn",
+          "start": 13.07,
+          "end": 13.27,
+          "probability": 0.39
+        },
+        {
+          "word": "toàn.",
+          "start": 13.27,
+          "end": 13.71,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.53,
+      "end": 17.01,
+      "text": "Ngày mười sáo tháng 20, năm 20, khuông trong 20 sấu.",
+      "words": [
+        {
+          "word": "Ngày",
+          "start": 14.53,
+          "end": 14.67,
+          "probability": 0.63
+        },
+        {
+          "word": "mười",
+          "start": 14.67,
+          "end": 14.85,
+          "probability": 0.16
+        },
+        {
+          "word": "sáo",
+          "start": 14.85,
+          "end": 15.01,
+          "probability": 0.47
+        },
+        {
+          "word": "tháng",
+          "start": 15.01,
+          "end": 15.19,
+          "probability": 0.67
+        },
+        {
+          "word": "20,",
+          "start": 15.19,
+          "end": 15.43,
+          "probability": 0.24
+        },
+        {
+          "word": "năm",
+          "start": 15.49,
+          "end": 15.55,
+          "probability": 0.09
+        },
+        {
+          "word": "20,",
+          "start": 15.55,
+          "end": 15.85,
+          "probability": 0.2
+        },
+        {
+          "word": "khuông",
+          "start": 15.95,
+          "end": 16.09,
+          "probability": 0.12
+        },
+        {
+          "word": "trong",
+          "start": 16.09,
+          "end": 16.21,
+          "probability": 0.41
+        },
+        {
+          "word": "20",
+          "start": 16.21,
+          "end": 16.47,
+          "probability": 0.62
+        },
+        {
+          "word": "sấu.",
+          "start": 16.47,
+          "end": 17.01,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 17.23,
+      "end": 21.79,
+      "text": "Đại diện phòng cạnh sát phòng chai trước trải và kíu nạn kíu hộ con gán thành phố hổ chí mình cho biết.",
+      "words": [
+        {
+          "word": "Đại",
+          "start": 17.23,
+          "end": 17.37,
+          "probability": 0.55
+        },
+        {
+          "word": "diện",
+          "start": 17.37,
+          "end": 17.57,
+          "probability": 0.67
+        },
+        {
+          "word": "phòng",
+          "start": 17.57,
+          "end": 17.77,
+          "probability": 0.73
+        },
+        {
+          "word": "cạnh",
+          "start": 17.77,
+          "end": 17.97,
+          "probability": 0.67
+        },
+        {
+          "word": "sát",
+          "start": 17.97,
+          "end": 18.13,
+          "probability": 0.99
+        },
+        {
+          "word": "phòng",
+          "start": 18.13,
+          "end": 18.33,
+          "probability": 0.99
+        },
+        {
+          "word": "chai",
+          "start": 18.33,
+          "end": 18.51,
+          "probability": 0.99
+        },
+        {
+          "word": "trước",
+          "start": 18.51,
+          "end": 18.67,
+          "probability": 1.0
+        },
+        {
+          "word": "trải",
+          "start": 18.67,
+          "end": 18.91,
+          "probability": 0.99
+        },
+        {
+          "word": "và",
+          "start": 18.91,
+          "end": 19.21,
+          "probability": 0.99
+        },
+        {
+          "word": "kíu",
+          "start": 19.21,
+          "end": 19.33,
+          "probability": 1.0
+        },
+        {
+          "word": "nạn",
+          "start": 19.33,
+          "end": 19.51,
+          "probability": 0.99
+        },
+        {
+          "word": "kíu",
+          "start": 19.51,
+          "end": 19.71,
+          "probability": 0.99
+        },
+        {
+          "word": "hộ",
+          "start": 19.71,
+          "end": 19.97,
+          "probability": 0.98
+        },
+        {
+          "word": "con",
+          "start": 19.97,
+          "end": 20.11,
+          "probability": 0.32
+        },
+        {
+          "word": "gán",
+          "start": 20.11,
+          "end": 20.29,
+          "probability": 0.2
+        },
+        {
+          "word": "thành",
+          "start": 20.29,
+          "end": 20.51,
+          "probability": 0.61
+        },
+        {
+          "word": "phố",
+          "start": 20.51,
+          "end": 20.67,
+          "probability": 0.67
+        },
+        {
+          "word": "hổ",
+          "start": 20.67,
+          "end": 20.87,
+          "probability": 0.56
+        },
+        {
+          "word": "chí",
+          "start": 20.87,
+          "end": 21.01,
+          "probability": 0.42
+        },
+        {
+          "word": "mình",
+          "start": 21.01,
+          "end": 21.15,
+          "probability": 0.86
+        },
+        {
+          "word": "cho",
+          "start": 21.15,
+          "end": 21.33,
+          "probability": 0.82
+        },
+        {
+          "word": "biết.",
+          "start": 21.33,
+          "end": 21.79,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 22.07,
+      "end": 25.61,
+      "text": "Đơn vì vừa dài kíu thành công, một người đang ông gập tay nạn lâu động nhớm chọng.",
+      "words": [
+        {
+          "word": "Đơn",
+          "start": 22.07,
+          "end": 22.23,
+          "probability": 0.67
+        },
+        {
+          "word": "vì",
+          "start": 22.23,
+          "end": 22.43,
+          "probability": 0.52
+        },
+        {
+          "word": "vừa",
+          "start": 22.43,
+          "end": 22.67,
+          "probability": 0.82
+        },
+        {
+          "word": "dài",
+          "start": 22.67,
+          "end": 22.85,
+          "probability": 0.51
+        },
+        {
+          "word": "kíu",
+          "start": 22.85,
+          "end": 23.07,
+          "probability": 0.98
+        },
+        {
+          "word": "thành",
+          "start": 23.07,
+          "end": 23.29,
+          "probability": 0.73
+        },
+        {
+          "word": "công,",
+          "start": 23.29,
+          "end": 23.53,
+          "probability": 0.89
+        },
+        {
+          "word": "một",
+          "start": 23.75,
+          "end": 23.83,
+          "probability": 0.27
+        },
+        {
+          "word": "người",
+          "start": 23.83,
+          "end": 23.97,
+          "probability": 0.84
+        },
+        {
+          "word": "đang",
+          "start": 23.97,
+          "end": 24.17,
+          "probability": 0.42
+        },
+        {
+          "word": "ông",
+          "start": 24.17,
+          "end": 24.35,
+          "probability": 0.28
+        },
+        {
+          "word": "gập",
+          "start": 24.35,
+          "end": 24.55,
+          "probability": 0.65
+        },
+        {
+          "word": "tay",
+          "start": 24.55,
+          "end": 24.73,
+          "probability": 0.69
+        },
+        {
+          "word": "nạn",
+          "start": 24.73,
+          "end": 24.87,
+          "probability": 0.84
+        },
+        {
+          "word": "lâu",
+          "start": 24.87,
+          "end": 25.03,
+          "probability": 0.31
+        },
+        {
+          "word": "động",
+          "start": 25.03,
+          "end": 25.21,
+          "probability": 0.47
+        },
+        {
+          "word": "nhớm",
+          "start": 25.21,
+          "end": 25.43,
+          "probability": 0.46
+        },
+        {
+          "word": "chọng.",
+          "start": 25.43,
+          "end": 25.61,
+          "probability": 0.41
+        }
+      ]
+    }
+  ]
+}

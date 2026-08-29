@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7596692493081627925_01",
+  "duration_seconds": 25.76,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Hả hả hả hả?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.39,
+      "end": 1.85,
+      "text": "Hả hả hả hả?",
+      "words": [
+        {
+          "word": "Hả",
+          "start": 1.39,
+          "end": 1.61,
+          "probability": 0.05
+        },
+        {
+          "word": "hả",
+          "start": 1.61,
+          "end": 1.63,
+          "probability": 0.5
+        },
+        {
+          "word": "hả",
+          "start": 1.63,
+          "end": 1.75,
+          "probability": 0.73
+        },
+        {
+          "word": "hả?",
+          "start": 1.75,
+          "end": 1.85,
+          "probability": 0.73
+        }
+      ]
+    }
+  ]
+}

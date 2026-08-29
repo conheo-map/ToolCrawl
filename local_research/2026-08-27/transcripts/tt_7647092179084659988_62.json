@@ -1,0 +1,504 @@
+{
+  "item_id": "tt_7647092179084659988_62",
+  "duration_seconds": 23.68,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 73,
+  "text": "Còn sống quá thì các bạn bởi vì đạm về công ty tâm đứa, mất ốc xong ở bên đồ đúng là Cám dạm ở đúng cố xong ở bên kia đẹp Cái đẹp là một học kia đẹp Cái đẹp đúng là một kia đẹp Cái đẹp là nó sẽ đúng là Cái đẹp là nó là đẹp lại chuyện đó là không có sỏa Phát hay là cái gì nữa tờ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.08,
+      "text": "Còn sống quá thì các bạn bởi vì đạm về công ty tâm đứa, mất ốc xong ở bên đồ đúng là",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.47
+        },
+        {
+          "word": "sống",
+          "start": 0.46,
+          "end": 0.82,
+          "probability": 0.48
+        },
+        {
+          "word": "quá",
+          "start": 0.82,
+          "end": 1.04,
+          "probability": 0.75
+        },
+        {
+          "word": "thì",
+          "start": 1.04,
+          "end": 1.18,
+          "probability": 0.19
+        },
+        {
+          "word": "các",
+          "start": 1.18,
+          "end": 1.32,
+          "probability": 0.45
+        },
+        {
+          "word": "bạn",
+          "start": 1.32,
+          "end": 1.5,
+          "probability": 0.34
+        },
+        {
+          "word": "bởi",
+          "start": 1.5,
+          "end": 1.78,
+          "probability": 0.48
+        },
+        {
+          "word": "vì",
+          "start": 1.78,
+          "end": 1.92,
+          "probability": 0.25
+        },
+        {
+          "word": "đạm",
+          "start": 1.92,
+          "end": 2.18,
+          "probability": 0.33
+        },
+        {
+          "word": "về",
+          "start": 2.18,
+          "end": 2.42,
+          "probability": 0.16
+        },
+        {
+          "word": "công",
+          "start": 2.42,
+          "end": 2.74,
+          "probability": 0.15
+        },
+        {
+          "word": "ty",
+          "start": 2.74,
+          "end": 2.74,
+          "probability": 0.08
+        },
+        {
+          "word": "tâm",
+          "start": 2.74,
+          "end": 2.9,
+          "probability": 0.54
+        },
+        {
+          "word": "đứa,",
+          "start": 2.9,
+          "end": 3.08,
+          "probability": 0.5
+        },
+        {
+          "word": "mất",
+          "start": 3.24,
+          "end": 3.32,
+          "probability": 0.47
+        },
+        {
+          "word": "ốc",
+          "start": 3.32,
+          "end": 3.56,
+          "probability": 0.32
+        },
+        {
+          "word": "xong",
+          "start": 3.56,
+          "end": 3.66,
+          "probability": 0.25
+        },
+        {
+          "word": "ở",
+          "start": 3.66,
+          "end": 3.82,
+          "probability": 0.12
+        },
+        {
+          "word": "bên",
+          "start": 3.82,
+          "end": 3.92,
+          "probability": 0.37
+        },
+        {
+          "word": "đồ",
+          "start": 3.92,
+          "end": 4.08,
+          "probability": 0.51
+        },
+        {
+          "word": "đúng",
+          "start": 4.08,
+          "end": 4.38,
+          "probability": 0.51
+        },
+        {
+          "word": "là",
+          "start": 4.38,
+          "end": 5.08,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 9.24,
+      "end": 12.02,
+      "text": "Cám dạm ở đúng cố xong ở bên kia đẹp",
+      "words": [
+        {
+          "word": "Cám",
+          "start": 9.24,
+          "end": 9.56,
+          "probability": 0.14
+        },
+        {
+          "word": "dạm",
+          "start": 9.56,
+          "end": 9.72,
+          "probability": 0.15
+        },
+        {
+          "word": "ở",
+          "start": 9.72,
+          "end": 10.02,
+          "probability": 0.62
+        },
+        {
+          "word": "đúng",
+          "start": 10.02,
+          "end": 10.36,
+          "probability": 0.52
+        },
+        {
+          "word": "cố",
+          "start": 10.36,
+          "end": 10.54,
+          "probability": 0.52
+        },
+        {
+          "word": "xong",
+          "start": 10.54,
+          "end": 10.84,
+          "probability": 0.61
+        },
+        {
+          "word": "ở",
+          "start": 10.84,
+          "end": 11.02,
+          "probability": 0.21
+        },
+        {
+          "word": "bên",
+          "start": 11.02,
+          "end": 11.6,
+          "probability": 0.07
+        },
+        {
+          "word": "kia",
+          "start": 11.6,
+          "end": 11.76,
+          "probability": 0.1
+        },
+        {
+          "word": "đẹp",
+          "start": 11.76,
+          "end": 12.02,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.02,
+      "end": 14.1,
+      "text": "Cái đẹp là một học kia đẹp",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 12.02,
+          "end": 12.62,
+          "probability": 0.19
+        },
+        {
+          "word": "đẹp",
+          "start": 12.62,
+          "end": 12.62,
+          "probability": 0.98
+        },
+        {
+          "word": "là",
+          "start": 12.62,
+          "end": 13.08,
+          "probability": 0.1
+        },
+        {
+          "word": "một",
+          "start": 13.08,
+          "end": 13.28,
+          "probability": 0.32
+        },
+        {
+          "word": "học",
+          "start": 13.28,
+          "end": 13.52,
+          "probability": 0.1
+        },
+        {
+          "word": "kia",
+          "start": 13.52,
+          "end": 13.64,
+          "probability": 0.75
+        },
+        {
+          "word": "đẹp",
+          "start": 13.64,
+          "end": 14.1,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.1,
+      "end": 16.96,
+      "text": "Cái đẹp đúng là một kia đẹp",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 14.1,
+          "end": 14.3,
+          "probability": 0.49
+        },
+        {
+          "word": "đẹp",
+          "start": 14.3,
+          "end": 14.54,
+          "probability": 0.96
+        },
+        {
+          "word": "đúng",
+          "start": 14.54,
+          "end": 14.54,
+          "probability": 0.03
+        },
+        {
+          "word": "là",
+          "start": 14.54,
+          "end": 15.24,
+          "probability": 0.23
+        },
+        {
+          "word": "một",
+          "start": 15.24,
+          "end": 16.96,
+          "probability": 0.47
+        },
+        {
+          "word": "kia",
+          "start": 16.96,
+          "end": 16.96,
+          "probability": 0.39
+        },
+        {
+          "word": "đẹp",
+          "start": 16.96,
+          "end": 16.96,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.96,
+      "end": 17.72,
+      "text": "Cái đẹp là nó sẽ đúng là",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 16.96,
+          "end": 16.96,
+          "probability": 0.52
+        },
+        {
+          "word": "đẹp",
+          "start": 16.96,
+          "end": 16.96,
+          "probability": 0.96
+        },
+        {
+          "word": "là",
+          "start": 16.96,
+          "end": 16.96,
+          "probability": 0.27
+        },
+        {
+          "word": "nó",
+          "start": 16.96,
+          "end": 16.96,
+          "probability": 0.05
+        },
+        {
+          "word": "sẽ",
+          "start": 16.96,
+          "end": 17.08,
+          "probability": 0.04
+        },
+        {
+          "word": "đúng",
+          "start": 17.08,
+          "end": 17.34,
+          "probability": 0.32
+        },
+        {
+          "word": "là",
+          "start": 17.34,
+          "end": 17.72,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 18.58,
+      "end": 21.26,
+      "text": "Cái đẹp là nó là đẹp lại chuyện đó là không có sỏa",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 18.58,
+          "end": 19.02,
+          "probability": 0.38
+        },
+        {
+          "word": "đẹp",
+          "start": 19.02,
+          "end": 19.22,
+          "probability": 0.87
+        },
+        {
+          "word": "là",
+          "start": 19.22,
+          "end": 19.22,
+          "probability": 0.42
+        },
+        {
+          "word": "nó",
+          "start": 19.22,
+          "end": 19.38,
+          "probability": 0.93
+        },
+        {
+          "word": "là",
+          "start": 19.38,
+          "end": 19.5,
+          "probability": 0.45
+        },
+        {
+          "word": "đẹp",
+          "start": 19.5,
+          "end": 19.62,
+          "probability": 0.89
+        },
+        {
+          "word": "lại",
+          "start": 19.62,
+          "end": 19.82,
+          "probability": 0.04
+        },
+        {
+          "word": "chuyện",
+          "start": 19.82,
+          "end": 19.96,
+          "probability": 0.18
+        },
+        {
+          "word": "đó",
+          "start": 19.96,
+          "end": 20.18,
+          "probability": 0.06
+        },
+        {
+          "word": "là",
+          "start": 20.18,
+          "end": 20.48,
+          "probability": 0.42
+        },
+        {
+          "word": "không",
+          "start": 20.48,
+          "end": 20.66,
+          "probability": 0.25
+        },
+        {
+          "word": "có",
+          "start": 20.66,
+          "end": 20.76,
+          "probability": 0.8
+        },
+        {
+          "word": "sỏa",
+          "start": 20.76,
+          "end": 21.26,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 22.12,
+      "end": 23.66,
+      "text": "Phát hay là cái gì nữa tờ",
+      "words": [
+        {
+          "word": "Phát",
+          "start": 22.12,
+          "end": 22.56,
+          "probability": 0.14
+        },
+        {
+          "word": "hay",
+          "start": 22.56,
+          "end": 22.82,
+          "probability": 0.63
+        },
+        {
+          "word": "là",
+          "start": 22.82,
+          "end": 22.94,
+          "probability": 0.82
+        },
+        {
+          "word": "cái",
+          "start": 22.94,
+          "end": 23.14,
+          "probability": 0.22
+        },
+        {
+          "word": "gì",
+          "start": 23.14,
+          "end": 23.16,
+          "probability": 0.56
+        },
+        {
+          "word": "nữa",
+          "start": 23.16,
+          "end": 23.38,
+          "probability": 0.15
+        },
+        {
+          "word": "tờ",
+          "start": 23.38,
+          "end": 23.66,
+          "probability": 0.11
+        }
+      ]
+    }
+  ]
+}

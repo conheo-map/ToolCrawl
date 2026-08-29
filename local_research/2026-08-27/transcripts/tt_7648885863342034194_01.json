@@ -1,0 +1,78 @@
+{
+  "item_id": "tt_7648885863342034194_01",
+  "duration_seconds": 8.86,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 10,
+  "text": "Here we go! 10, 9, 8, 7, 6, 5, 4.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.4,
+      "text": "Here we go! 10, 9, 8, 7, 6, 5, 4.",
+      "words": [
+        {
+          "word": "Here",
+          "start": 0.0,
+          "end": 0.2,
+          "probability": 0.03
+        },
+        {
+          "word": "we",
+          "start": 0.2,
+          "end": 0.44,
+          "probability": 1.0
+        },
+        {
+          "word": "go!",
+          "start": 0.44,
+          "end": 1.1,
+          "probability": 1.0
+        },
+        {
+          "word": "10,",
+          "start": 1.42,
+          "end": 2.04,
+          "probability": 0.77
+        },
+        {
+          "word": "9,",
+          "start": 2.7,
+          "end": 3.2,
+          "probability": 0.96
+        },
+        {
+          "word": "8,",
+          "start": 3.8,
+          "end": 4.26,
+          "probability": 1.0
+        },
+        {
+          "word": "7,",
+          "start": 4.7,
+          "end": 5.28,
+          "probability": 1.0
+        },
+        {
+          "word": "6,",
+          "start": 5.86,
+          "end": 6.28,
+          "probability": 0.99
+        },
+        {
+          "word": "5,",
+          "start": 6.88,
+          "end": 7.52,
+          "probability": 1.0
+        },
+        {
+          "word": "4.",
+          "start": 7.92,
+          "end": 8.4,
+          "probability": 0.89
+        }
+      ]
+    }
+  ]
+}

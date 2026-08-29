@@ -1,0 +1,726 @@
+{
+  "item_id": "tt_7326411218472815873_10",
+  "duration_seconds": 29.74,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 94,
+  "text": "Có đất cái này là gì? Nen của ở đây là cân của ở người bảy Cộng người ba Chia cho 2 Chứ Nen của 2 Như vậy cái này mằng Nen của ở gì đấy? Cân người bảy Cộng ba Chien 2 cân Cứ đó mình sẽ có đất A bằng B, B, B, B B, B, B, B Nên A, Cộng B Sẽ bằng 2 người, tất cả hay Đưa chá Đây đây là cái con đường đi theo hướng tự loại Bóng đường đi thướng tự loại Cộng đường Năm đứa",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Có đất cái này là gì?",
+      "words": [
+        {
+          "word": "Có",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.25
+        },
+        {
+          "word": "đất",
+          "start": 0.36,
+          "end": 0.5,
+          "probability": 0.31
+        },
+        {
+          "word": "cái",
+          "start": 0.5,
+          "end": 0.62,
+          "probability": 0.36
+        },
+        {
+          "word": "này",
+          "start": 0.62,
+          "end": 0.7,
+          "probability": 0.48
+        },
+        {
+          "word": "là",
+          "start": 0.7,
+          "end": 0.86,
+          "probability": 0.38
+        },
+        {
+          "word": "gì?",
+          "start": 0.86,
+          "end": 1.32,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.8,
+      "end": 4.12,
+      "text": "Nen của ở đây là cân của ở người bảy",
+      "words": [
+        {
+          "word": "Nen",
+          "start": 1.8,
+          "end": 1.98,
+          "probability": 0.56
+        },
+        {
+          "word": "của",
+          "start": 1.98,
+          "end": 2.18,
+          "probability": 0.62
+        },
+        {
+          "word": "ở",
+          "start": 2.18,
+          "end": 2.48,
+          "probability": 0.56
+        },
+        {
+          "word": "đây",
+          "start": 2.48,
+          "end": 2.54,
+          "probability": 0.66
+        },
+        {
+          "word": "là",
+          "start": 2.54,
+          "end": 2.68,
+          "probability": 0.98
+        },
+        {
+          "word": "cân",
+          "start": 2.68,
+          "end": 2.9,
+          "probability": 0.42
+        },
+        {
+          "word": "của",
+          "start": 2.9,
+          "end": 3.12,
+          "probability": 0.97
+        },
+        {
+          "word": "ở",
+          "start": 3.12,
+          "end": 3.22,
+          "probability": 0.13
+        },
+        {
+          "word": "người",
+          "start": 3.22,
+          "end": 3.4,
+          "probability": 0.42
+        },
+        {
+          "word": "bảy",
+          "start": 3.4,
+          "end": 4.12,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.12,
+      "end": 5.24,
+      "text": "Cộng người ba",
+      "words": [
+        {
+          "word": "Cộng",
+          "start": 4.12,
+          "end": 4.6,
+          "probability": 0.5
+        },
+        {
+          "word": "người",
+          "start": 4.6,
+          "end": 4.8,
+          "probability": 0.26
+        },
+        {
+          "word": "ba",
+          "start": 4.8,
+          "end": 5.24,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.24,
+      "end": 6.5,
+      "text": "Chia cho 2",
+      "words": [
+        {
+          "word": "Chia",
+          "start": 5.24,
+          "end": 5.92,
+          "probability": 0.33
+        },
+        {
+          "word": "cho",
+          "start": 5.92,
+          "end": 6.08,
+          "probability": 0.66
+        },
+        {
+          "word": "2",
+          "start": 6.08,
+          "end": 6.5,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.5,
+      "end": 8.16,
+      "text": "Chứ Nen của 2",
+      "words": [
+        {
+          "word": "Chứ",
+          "start": 6.5,
+          "end": 7.28,
+          "probability": 0.14
+        },
+        {
+          "word": "Nen",
+          "start": 7.28,
+          "end": 7.54,
+          "probability": 0.69
+        },
+        {
+          "word": "của",
+          "start": 7.54,
+          "end": 7.72,
+          "probability": 1.0
+        },
+        {
+          "word": "2",
+          "start": 7.72,
+          "end": 8.16,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.16,
+      "end": 10.64,
+      "text": "Như vậy cái này mằng Nen của ở gì đấy?",
+      "words": [
+        {
+          "word": "Như",
+          "start": 8.16,
+          "end": 8.76,
+          "probability": 0.34
+        },
+        {
+          "word": "vậy",
+          "start": 8.76,
+          "end": 8.88,
+          "probability": 0.62
+        },
+        {
+          "word": "cái",
+          "start": 8.88,
+          "end": 8.98,
+          "probability": 0.67
+        },
+        {
+          "word": "này",
+          "start": 8.98,
+          "end": 9.18,
+          "probability": 0.44
+        },
+        {
+          "word": "mằng",
+          "start": 9.18,
+          "end": 9.22,
+          "probability": 0.29
+        },
+        {
+          "word": "Nen",
+          "start": 9.22,
+          "end": 9.48,
+          "probability": 0.82
+        },
+        {
+          "word": "của",
+          "start": 9.48,
+          "end": 9.86,
+          "probability": 1.0
+        },
+        {
+          "word": "ở",
+          "start": 9.86,
+          "end": 9.96,
+          "probability": 0.91
+        },
+        {
+          "word": "gì",
+          "start": 9.96,
+          "end": 10.16,
+          "probability": 0.68
+        },
+        {
+          "word": "đấy?",
+          "start": 10.16,
+          "end": 10.64,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 11.12,
+      "end": 12.08,
+      "text": "Cân người bảy",
+      "words": [
+        {
+          "word": "Cân",
+          "start": 11.12,
+          "end": 11.14,
+          "probability": 0.69
+        },
+        {
+          "word": "người",
+          "start": 11.14,
+          "end": 11.4,
+          "probability": 0.97
+        },
+        {
+          "word": "bảy",
+          "start": 11.4,
+          "end": 12.08,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 12.08,
+      "end": 13.06,
+      "text": "Cộng ba",
+      "words": [
+        {
+          "word": "Cộng",
+          "start": 12.08,
+          "end": 12.5,
+          "probability": 0.97
+        },
+        {
+          "word": "ba",
+          "start": 12.5,
+          "end": 13.06,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 13.06,
+      "end": 14.1,
+      "text": "Chien 2 cân",
+      "words": [
+        {
+          "word": "Chien",
+          "start": 13.06,
+          "end": 13.46,
+          "probability": 0.5
+        },
+        {
+          "word": "2",
+          "start": 13.46,
+          "end": 13.7,
+          "probability": 0.91
+        },
+        {
+          "word": "cân",
+          "start": 13.7,
+          "end": 14.1,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 14.1,
+      "end": 15.9,
+      "text": "Cứ đó mình sẽ có đất",
+      "words": [
+        {
+          "word": "Cứ",
+          "start": 14.1,
+          "end": 15.1,
+          "probability": 0.01
+        },
+        {
+          "word": "đó",
+          "start": 15.1,
+          "end": 15.28,
+          "probability": 0.42
+        },
+        {
+          "word": "mình",
+          "start": 15.28,
+          "end": 15.44,
+          "probability": 0.89
+        },
+        {
+          "word": "sẽ",
+          "start": 15.44,
+          "end": 15.6,
+          "probability": 0.96
+        },
+        {
+          "word": "có",
+          "start": 15.6,
+          "end": 15.74,
+          "probability": 0.94
+        },
+        {
+          "word": "đất",
+          "start": 15.74,
+          "end": 15.9,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 15.9,
+      "end": 18.22,
+      "text": "A bằng B, B, B, B",
+      "words": [
+        {
+          "word": "A",
+          "start": 15.9,
+          "end": 16.2,
+          "probability": 0.18
+        },
+        {
+          "word": "bằng",
+          "start": 16.2,
+          "end": 16.44,
+          "probability": 0.7
+        },
+        {
+          "word": "B,",
+          "start": 16.44,
+          "end": 16.8,
+          "probability": 0.67
+        },
+        {
+          "word": "B,",
+          "start": 16.82,
+          "end": 17.12,
+          "probability": 0.64
+        },
+        {
+          "word": "B,",
+          "start": 17.8,
+          "end": 17.8,
+          "probability": 0.81
+        },
+        {
+          "word": "B",
+          "start": 17.92,
+          "end": 18.22,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 18.22,
+      "end": 19.44,
+      "text": "B, B, B, B",
+      "words": [
+        {
+          "word": "B,",
+          "start": 18.22,
+          "end": 18.64,
+          "probability": 0.17
+        },
+        {
+          "word": "B,",
+          "start": 18.9,
+          "end": 19.04,
+          "probability": 0.97
+        },
+        {
+          "word": "B,",
+          "start": 19.04,
+          "end": 19.18,
+          "probability": 0.96
+        },
+        {
+          "word": "B",
+          "start": 19.18,
+          "end": 19.44,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 19.44,
+      "end": 21.36,
+      "text": "Nên A, Cộng B",
+      "words": [
+        {
+          "word": "Nên",
+          "start": 19.44,
+          "end": 20.38,
+          "probability": 0.22
+        },
+        {
+          "word": "A,",
+          "start": 20.38,
+          "end": 20.66,
+          "probability": 0.9
+        },
+        {
+          "word": "Cộng",
+          "start": 20.8,
+          "end": 20.8,
+          "probability": 0.72
+        },
+        {
+          "word": "B",
+          "start": 20.8,
+          "end": 21.36,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 21.36,
+      "end": 23.52,
+      "text": "Sẽ bằng 2 người, tất cả hay",
+      "words": [
+        {
+          "word": "Sẽ",
+          "start": 21.36,
+          "end": 21.76,
+          "probability": 0.31
+        },
+        {
+          "word": "bằng",
+          "start": 21.76,
+          "end": 21.9,
+          "probability": 0.67
+        },
+        {
+          "word": "2",
+          "start": 21.9,
+          "end": 22.12,
+          "probability": 0.69
+        },
+        {
+          "word": "người,",
+          "start": 22.12,
+          "end": 22.4,
+          "probability": 0.35
+        },
+        {
+          "word": "tất",
+          "start": 22.76,
+          "end": 22.76,
+          "probability": 0.46
+        },
+        {
+          "word": "cả",
+          "start": 22.76,
+          "end": 22.98,
+          "probability": 0.07
+        },
+        {
+          "word": "hay",
+          "start": 22.98,
+          "end": 23.52,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 23.52,
+      "end": 24.06,
+      "text": "Đưa chá",
+      "words": [
+        {
+          "word": "Đưa",
+          "start": 23.52,
+          "end": 23.56,
+          "probability": 0.01
+        },
+        {
+          "word": "chá",
+          "start": 23.56,
+          "end": 24.06,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 24.06,
+      "end": 27.16,
+      "text": "Đây đây là cái con đường đi theo hướng tự loại",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 24.06,
+          "end": 24.58,
+          "probability": 0.22
+        },
+        {
+          "word": "đây",
+          "start": 24.58,
+          "end": 24.76,
+          "probability": 0.27
+        },
+        {
+          "word": "là",
+          "start": 24.76,
+          "end": 24.84,
+          "probability": 0.15
+        },
+        {
+          "word": "cái",
+          "start": 24.84,
+          "end": 25.0,
+          "probability": 0.3
+        },
+        {
+          "word": "con",
+          "start": 25.0,
+          "end": 25.16,
+          "probability": 0.61
+        },
+        {
+          "word": "đường",
+          "start": 25.16,
+          "end": 25.38,
+          "probability": 0.64
+        },
+        {
+          "word": "đi",
+          "start": 25.38,
+          "end": 25.7,
+          "probability": 0.91
+        },
+        {
+          "word": "theo",
+          "start": 25.7,
+          "end": 25.96,
+          "probability": 0.94
+        },
+        {
+          "word": "hướng",
+          "start": 25.96,
+          "end": 26.22,
+          "probability": 0.84
+        },
+        {
+          "word": "tự",
+          "start": 26.22,
+          "end": 26.38,
+          "probability": 0.39
+        },
+        {
+          "word": "loại",
+          "start": 26.38,
+          "end": 27.16,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 27.16,
+      "end": 28.36,
+      "text": "Bóng đường đi thướng tự loại",
+      "words": [
+        {
+          "word": "Bóng",
+          "start": 27.16,
+          "end": 27.4,
+          "probability": 0.48
+        },
+        {
+          "word": "đường",
+          "start": 27.4,
+          "end": 27.58,
+          "probability": 0.89
+        },
+        {
+          "word": "đi",
+          "start": 27.58,
+          "end": 27.66,
+          "probability": 0.99
+        },
+        {
+          "word": "thướng",
+          "start": 27.66,
+          "end": 27.88,
+          "probability": 0.65
+        },
+        {
+          "word": "tự",
+          "start": 27.88,
+          "end": 28.02,
+          "probability": 0.9
+        },
+        {
+          "word": "loại",
+          "start": 28.02,
+          "end": 28.36,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 28.36,
+      "end": 28.86,
+      "text": "Cộng đường",
+      "words": [
+        {
+          "word": "Cộng",
+          "start": 28.36,
+          "end": 28.58,
+          "probability": 0.37
+        },
+        {
+          "word": "đường",
+          "start": 28.58,
+          "end": 28.86,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 28.86,
+      "end": 29.6,
+      "text": "Năm đứa",
+      "words": [
+        {
+          "word": "Năm",
+          "start": 28.86,
+          "end": 29.38,
+          "probability": 0.24
+        },
+        {
+          "word": "đứa",
+          "start": 29.38,
+          "end": 29.6,
+          "probability": 0.65
+        }
+      ]
+    }
+  ]
+}

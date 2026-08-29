@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7589218630642978068_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Chào mẹ hôm nay.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Chào mẹ hôm nay.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.16
+        },
+        {
+          "word": "mẹ",
+          "start": 0.32,
+          "end": 0.5,
+          "probability": 0.18
+        },
+        {
+          "word": "hôm",
+          "start": 0.5,
+          "end": 0.76,
+          "probability": 0.22
+        },
+        {
+          "word": "nay.",
+          "start": 0.76,
+          "end": 0.88,
+          "probability": 0.78
+        }
+      ]
+    }
+  ]
+}

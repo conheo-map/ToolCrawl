@@ -1,0 +1,702 @@
+{
+  "item_id": "tt_7623710844886600980_25",
+  "duration_seconds": 29.98,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 92,
+  "text": "Bằng ngày chiếc này Bằng ngày chiếc này Tì lệ sống sống quay sống sống Mà kêm có được là B phải xe phải trên B-C C phải đe phải trên CD Tì lệ mẹ, tạc xe phải là bằng B-C ở 1 trong 2 tu Nhân vừa sống sống hình đậm Ngà 1 tu Nhân sống sống hình đậm Đợi mọi người chỉ bà Bởi này các người chỉ nếu bà bình Cộng vừa sống hình sống hình sống đậm Chia chơi 2 Có sống Bởi bà các năm trên 2",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 1.53,
+      "text": "Bằng ngày chiếc này",
+      "words": [
+        {
+          "word": "Bằng",
+          "start": 0.11,
+          "end": 0.53,
+          "probability": 0.32
+        },
+        {
+          "word": "ngày",
+          "start": 0.53,
+          "end": 0.69,
+          "probability": 0.26
+        },
+        {
+          "word": "chiếc",
+          "start": 0.69,
+          "end": 0.87,
+          "probability": 0.52
+        },
+        {
+          "word": "này",
+          "start": 0.87,
+          "end": 1.53,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.55,
+      "end": 3.57,
+      "text": "Bằng ngày chiếc này",
+      "words": [
+        {
+          "word": "Bằng",
+          "start": 2.55,
+          "end": 2.95,
+          "probability": 0.3
+        },
+        {
+          "word": "ngày",
+          "start": 2.95,
+          "end": 3.25,
+          "probability": 0.96
+        },
+        {
+          "word": "chiếc",
+          "start": 3.25,
+          "end": 3.43,
+          "probability": 0.97
+        },
+        {
+          "word": "này",
+          "start": 3.43,
+          "end": 3.57,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.35,
+      "end": 5.93,
+      "text": "Tì lệ sống sống quay sống sống",
+      "words": [
+        {
+          "word": "Tì",
+          "start": 4.35,
+          "end": 4.75,
+          "probability": 0.08
+        },
+        {
+          "word": "lệ",
+          "start": 4.75,
+          "end": 4.93,
+          "probability": 0.46
+        },
+        {
+          "word": "sống",
+          "start": 4.93,
+          "end": 5.15,
+          "probability": 0.41
+        },
+        {
+          "word": "sống",
+          "start": 5.15,
+          "end": 5.37,
+          "probability": 0.52
+        },
+        {
+          "word": "quay",
+          "start": 5.37,
+          "end": 5.55,
+          "probability": 0.33
+        },
+        {
+          "word": "sống",
+          "start": 5.55,
+          "end": 5.69,
+          "probability": 0.61
+        },
+        {
+          "word": "sống",
+          "start": 5.69,
+          "end": 5.93,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.67,
+      "end": 10.71,
+      "text": "Mà kêm có được là B phải xe phải trên B-C",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 7.67,
+          "end": 8.07,
+          "probability": 0.06
+        },
+        {
+          "word": "kêm",
+          "start": 8.07,
+          "end": 8.45,
+          "probability": 0.21
+        },
+        {
+          "word": "có",
+          "start": 8.45,
+          "end": 8.59,
+          "probability": 0.89
+        },
+        {
+          "word": "được",
+          "start": 8.59,
+          "end": 8.81,
+          "probability": 0.6
+        },
+        {
+          "word": "là",
+          "start": 8.81,
+          "end": 9.03,
+          "probability": 0.11
+        },
+        {
+          "word": "B",
+          "start": 9.03,
+          "end": 9.17,
+          "probability": 0.35
+        },
+        {
+          "word": "phải",
+          "start": 9.17,
+          "end": 9.45,
+          "probability": 0.21
+        },
+        {
+          "word": "xe",
+          "start": 9.45,
+          "end": 9.73,
+          "probability": 0.39
+        },
+        {
+          "word": "phải",
+          "start": 9.73,
+          "end": 9.89,
+          "probability": 0.31
+        },
+        {
+          "word": "trên",
+          "start": 9.89,
+          "end": 10.23,
+          "probability": 0.52
+        },
+        {
+          "word": "B",
+          "start": 10.23,
+          "end": 10.41,
+          "probability": 0.41
+        },
+        {
+          "word": "-C",
+          "start": 10.41,
+          "end": 10.71,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 10.71,
+      "end": 12.97,
+      "text": "C phải đe phải trên CD",
+      "words": [
+        {
+          "word": "C",
+          "start": 10.71,
+          "end": 11.41,
+          "probability": 0.02
+        },
+        {
+          "word": "phải",
+          "start": 11.41,
+          "end": 11.71,
+          "probability": 0.17
+        },
+        {
+          "word": "đe",
+          "start": 11.71,
+          "end": 11.71,
+          "probability": 0.44
+        },
+        {
+          "word": "phải",
+          "start": 11.71,
+          "end": 11.99,
+          "probability": 0.77
+        },
+        {
+          "word": "trên",
+          "start": 11.99,
+          "end": 12.21,
+          "probability": 0.94
+        },
+        {
+          "word": "CD",
+          "start": 12.21,
+          "end": 12.97,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 12.97,
+      "end": 15.51,
+      "text": "Tì lệ mẹ, tạc xe phải là bằng",
+      "words": [
+        {
+          "word": "Tì",
+          "start": 12.97,
+          "end": 13.37,
+          "probability": 0.58
+        },
+        {
+          "word": "lệ",
+          "start": 13.37,
+          "end": 13.43,
+          "probability": 0.98
+        },
+        {
+          "word": "mẹ,",
+          "start": 13.43,
+          "end": 13.83,
+          "probability": 0.16
+        },
+        {
+          "word": "tạc",
+          "start": 14.03,
+          "end": 14.19,
+          "probability": 0.18
+        },
+        {
+          "word": "xe",
+          "start": 14.19,
+          "end": 14.37,
+          "probability": 0.73
+        },
+        {
+          "word": "phải",
+          "start": 14.37,
+          "end": 14.87,
+          "probability": 0.93
+        },
+        {
+          "word": "là",
+          "start": 14.87,
+          "end": 15.03,
+          "probability": 0.08
+        },
+        {
+          "word": "bằng",
+          "start": 15.03,
+          "end": 15.51,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.51,
+      "end": 16.91,
+      "text": "B-C ở 1 trong 2 tu",
+      "words": [
+        {
+          "word": "B",
+          "start": 15.51,
+          "end": 15.81,
+          "probability": 0.95
+        },
+        {
+          "word": "-C",
+          "start": 15.81,
+          "end": 15.93,
+          "probability": 0.99
+        },
+        {
+          "word": "ở",
+          "start": 15.93,
+          "end": 16.03,
+          "probability": 0.09
+        },
+        {
+          "word": "1",
+          "start": 16.03,
+          "end": 16.13,
+          "probability": 0.48
+        },
+        {
+          "word": "trong",
+          "start": 16.13,
+          "end": 16.21,
+          "probability": 0.54
+        },
+        {
+          "word": "2",
+          "start": 16.21,
+          "end": 16.39,
+          "probability": 0.86
+        },
+        {
+          "word": "tu",
+          "start": 16.39,
+          "end": 16.91,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.91,
+      "end": 18.07,
+      "text": "Nhân vừa sống sống hình đậm",
+      "words": [
+        {
+          "word": "Nhân",
+          "start": 16.91,
+          "end": 17.31,
+          "probability": 0.21
+        },
+        {
+          "word": "vừa",
+          "start": 17.31,
+          "end": 17.43,
+          "probability": 0.22
+        },
+        {
+          "word": "sống",
+          "start": 17.43,
+          "end": 17.59,
+          "probability": 0.77
+        },
+        {
+          "word": "sống",
+          "start": 17.59,
+          "end": 17.71,
+          "probability": 0.88
+        },
+        {
+          "word": "hình",
+          "start": 17.71,
+          "end": 17.85,
+          "probability": 0.3
+        },
+        {
+          "word": "đậm",
+          "start": 17.85,
+          "end": 18.07,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 18.69,
+      "end": 19.65,
+      "text": "Ngà 1 tu",
+      "words": [
+        {
+          "word": "Ngà",
+          "start": 18.69,
+          "end": 19.09,
+          "probability": 0.12
+        },
+        {
+          "word": "1",
+          "start": 19.09,
+          "end": 19.21,
+          "probability": 0.26
+        },
+        {
+          "word": "tu",
+          "start": 19.21,
+          "end": 19.65,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 19.65,
+      "end": 21.13,
+      "text": "Nhân sống sống hình đậm",
+      "words": [
+        {
+          "word": "Nhân",
+          "start": 19.65,
+          "end": 20.23,
+          "probability": 0.73
+        },
+        {
+          "word": "sống",
+          "start": 20.23,
+          "end": 20.45,
+          "probability": 0.89
+        },
+        {
+          "word": "sống",
+          "start": 20.45,
+          "end": 20.57,
+          "probability": 0.94
+        },
+        {
+          "word": "hình",
+          "start": 20.57,
+          "end": 21.13,
+          "probability": 0.96
+        },
+        {
+          "word": "đậm",
+          "start": 21.13,
+          "end": 21.13,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 21.13,
+      "end": 22.61,
+      "text": "Đợi mọi người chỉ bà",
+      "words": [
+        {
+          "word": "Đợi",
+          "start": 21.13,
+          "end": 21.47,
+          "probability": 0.36
+        },
+        {
+          "word": "mọi",
+          "start": 21.47,
+          "end": 21.55,
+          "probability": 0.2
+        },
+        {
+          "word": "người",
+          "start": 21.55,
+          "end": 21.63,
+          "probability": 0.03
+        },
+        {
+          "word": "chỉ",
+          "start": 21.63,
+          "end": 22.49,
+          "probability": 0.13
+        },
+        {
+          "word": "bà",
+          "start": 22.49,
+          "end": 22.61,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 22.61,
+      "end": 24.55,
+      "text": "Bởi này các người chỉ nếu bà bình",
+      "words": [
+        {
+          "word": "Bởi",
+          "start": 22.61,
+          "end": 22.77,
+          "probability": 0.38
+        },
+        {
+          "word": "này",
+          "start": 22.77,
+          "end": 22.91,
+          "probability": 0.12
+        },
+        {
+          "word": "các",
+          "start": 22.91,
+          "end": 23.05,
+          "probability": 0.11
+        },
+        {
+          "word": "người",
+          "start": 23.05,
+          "end": 23.21,
+          "probability": 0.3
+        },
+        {
+          "word": "chỉ",
+          "start": 23.21,
+          "end": 23.41,
+          "probability": 0.78
+        },
+        {
+          "word": "nếu",
+          "start": 23.41,
+          "end": 23.53,
+          "probability": 0.1
+        },
+        {
+          "word": "bà",
+          "start": 23.53,
+          "end": 23.69,
+          "probability": 0.71
+        },
+        {
+          "word": "bình",
+          "start": 23.69,
+          "end": 24.55,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 24.55,
+      "end": 26.71,
+      "text": "Cộng vừa sống hình sống hình sống đậm",
+      "words": [
+        {
+          "word": "Cộng",
+          "start": 24.55,
+          "end": 24.93,
+          "probability": 0.55
+        },
+        {
+          "word": "vừa",
+          "start": 24.93,
+          "end": 25.11,
+          "probability": 0.63
+        },
+        {
+          "word": "sống",
+          "start": 25.11,
+          "end": 25.19,
+          "probability": 0.98
+        },
+        {
+          "word": "hình",
+          "start": 25.19,
+          "end": 25.39,
+          "probability": 0.54
+        },
+        {
+          "word": "sống",
+          "start": 25.39,
+          "end": 25.45,
+          "probability": 0.83
+        },
+        {
+          "word": "hình",
+          "start": 25.45,
+          "end": 25.95,
+          "probability": 0.6
+        },
+        {
+          "word": "sống",
+          "start": 25.95,
+          "end": 25.95,
+          "probability": 0.71
+        },
+        {
+          "word": "đậm",
+          "start": 25.95,
+          "end": 26.71,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 26.71,
+      "end": 28.09,
+      "text": "Chia chơi 2",
+      "words": [
+        {
+          "word": "Chia",
+          "start": 26.71,
+          "end": 27.15,
+          "probability": 0.14
+        },
+        {
+          "word": "chơi",
+          "start": 27.15,
+          "end": 27.29,
+          "probability": 0.12
+        },
+        {
+          "word": "2",
+          "start": 27.29,
+          "end": 28.09,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 28.09,
+      "end": 28.79,
+      "text": "Có sống",
+      "words": [
+        {
+          "word": "Có",
+          "start": 28.09,
+          "end": 28.37,
+          "probability": 0.04
+        },
+        {
+          "word": "sống",
+          "start": 28.37,
+          "end": 28.79,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 28.79,
+      "end": 29.67,
+      "text": "Bởi bà các năm trên 2",
+      "words": [
+        {
+          "word": "Bởi",
+          "start": 28.79,
+          "end": 29.07,
+          "probability": 0.6
+        },
+        {
+          "word": "bà",
+          "start": 29.07,
+          "end": 29.15,
+          "probability": 0.29
+        },
+        {
+          "word": "các",
+          "start": 29.15,
+          "end": 29.25,
+          "probability": 0.24
+        },
+        {
+          "word": "năm",
+          "start": 29.25,
+          "end": 29.35,
+          "probability": 0.54
+        },
+        {
+          "word": "trên",
+          "start": 29.35,
+          "end": 29.47,
+          "probability": 0.54
+        },
+        {
+          "word": "2",
+          "start": 29.47,
+          "end": 29.67,
+          "probability": 0.94
+        }
+      ]
+    }
+  ]
+}

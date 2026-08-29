@@ -1,0 +1,682 @@
+{
+  "item_id": "tt_7582561584359197968_03",
+  "duration_seconds": 20.43,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 108,
+  "text": "Một điểm chương trì có mùi chiến học sinh được nguyên ăn từ thường 2 năm nay, nhưng có đến năm học sinh bị đánh như má, cả năm học sinh được không được nguyễm phát hiện ra sự nghiêm lẫn. Đây là lý só khiến chỉ hương và nhiều nhà học tông khác mất niềm tin và đặt câu hỏi, có hay không một cuộc bản về má bỏ dưới, trong đó những má bỏ dưới ạo được lập ra để đánh vào lòng trước ở nhà học tâm. Chỉ hơi cho biết sẽ tiếp tục làm só vụ việc này với các nhà học tâm khác.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 7.94,
+      "text": "Một điểm chương trì có mùi chiến học sinh được nguyên ăn từ thường 2 năm nay, nhưng có đến năm học sinh bị đánh như má, cả năm học sinh được không được nguyễm phát hiện ra sự nghiêm lẫn.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 0.02,
+          "end": 0.54,
+          "probability": 0.7
+        },
+        {
+          "word": "điểm",
+          "start": 0.54,
+          "end": 0.7,
+          "probability": 0.66
+        },
+        {
+          "word": "chương",
+          "start": 0.7,
+          "end": 0.92,
+          "probability": 0.23
+        },
+        {
+          "word": "trì",
+          "start": 0.92,
+          "end": 1.0,
+          "probability": 0.39
+        },
+        {
+          "word": "có",
+          "start": 1.0,
+          "end": 1.16,
+          "probability": 0.96
+        },
+        {
+          "word": "mùi",
+          "start": 1.16,
+          "end": 1.3,
+          "probability": 0.52
+        },
+        {
+          "word": "chiến",
+          "start": 1.3,
+          "end": 1.52,
+          "probability": 0.75
+        },
+        {
+          "word": "học",
+          "start": 1.52,
+          "end": 1.7,
+          "probability": 0.88
+        },
+        {
+          "word": "sinh",
+          "start": 1.7,
+          "end": 1.86,
+          "probability": 0.93
+        },
+        {
+          "word": "được",
+          "start": 1.86,
+          "end": 2.0,
+          "probability": 0.75
+        },
+        {
+          "word": "nguyên",
+          "start": 2.0,
+          "end": 2.26,
+          "probability": 0.43
+        },
+        {
+          "word": "ăn",
+          "start": 2.26,
+          "end": 2.4,
+          "probability": 0.68
+        },
+        {
+          "word": "từ",
+          "start": 2.4,
+          "end": 2.5,
+          "probability": 0.87
+        },
+        {
+          "word": "thường",
+          "start": 2.5,
+          "end": 2.68,
+          "probability": 0.46
+        },
+        {
+          "word": "2",
+          "start": 2.68,
+          "end": 2.84,
+          "probability": 0.61
+        },
+        {
+          "word": "năm",
+          "start": 2.84,
+          "end": 2.98,
+          "probability": 0.97
+        },
+        {
+          "word": "nay,",
+          "start": 2.98,
+          "end": 3.32,
+          "probability": 0.92
+        },
+        {
+          "word": "nhưng",
+          "start": 3.48,
+          "end": 3.6,
+          "probability": 0.76
+        },
+        {
+          "word": "có",
+          "start": 3.6,
+          "end": 3.76,
+          "probability": 0.87
+        },
+        {
+          "word": "đến",
+          "start": 3.76,
+          "end": 3.88,
+          "probability": 0.85
+        },
+        {
+          "word": "năm",
+          "start": 3.88,
+          "end": 4.04,
+          "probability": 0.54
+        },
+        {
+          "word": "học",
+          "start": 4.04,
+          "end": 4.22,
+          "probability": 0.96
+        },
+        {
+          "word": "sinh",
+          "start": 4.22,
+          "end": 4.36,
+          "probability": 1.0
+        },
+        {
+          "word": "bị",
+          "start": 4.36,
+          "end": 4.5,
+          "probability": 0.96
+        },
+        {
+          "word": "đánh",
+          "start": 4.5,
+          "end": 4.62,
+          "probability": 0.73
+        },
+        {
+          "word": "như",
+          "start": 4.62,
+          "end": 4.78,
+          "probability": 0.12
+        },
+        {
+          "word": "má,",
+          "start": 4.78,
+          "end": 5.22,
+          "probability": 0.39
+        },
+        {
+          "word": "cả",
+          "start": 5.48,
+          "end": 5.58,
+          "probability": 0.86
+        },
+        {
+          "word": "năm",
+          "start": 5.58,
+          "end": 5.7,
+          "probability": 0.96
+        },
+        {
+          "word": "học",
+          "start": 5.7,
+          "end": 5.88,
+          "probability": 0.99
+        },
+        {
+          "word": "sinh",
+          "start": 5.88,
+          "end": 6.02,
+          "probability": 1.0
+        },
+        {
+          "word": "được",
+          "start": 6.02,
+          "end": 6.2,
+          "probability": 0.34
+        },
+        {
+          "word": "không",
+          "start": 6.2,
+          "end": 6.36,
+          "probability": 0.79
+        },
+        {
+          "word": "được",
+          "start": 6.36,
+          "end": 6.48,
+          "probability": 0.83
+        },
+        {
+          "word": "nguyễm",
+          "start": 6.48,
+          "end": 6.82,
+          "probability": 0.68
+        },
+        {
+          "word": "phát",
+          "start": 6.82,
+          "end": 6.96,
+          "probability": 0.88
+        },
+        {
+          "word": "hiện",
+          "start": 6.96,
+          "end": 7.1,
+          "probability": 0.92
+        },
+        {
+          "word": "ra",
+          "start": 7.1,
+          "end": 7.3,
+          "probability": 0.87
+        },
+        {
+          "word": "sự",
+          "start": 7.3,
+          "end": 7.44,
+          "probability": 0.92
+        },
+        {
+          "word": "nghiêm",
+          "start": 7.44,
+          "end": 7.58,
+          "probability": 0.57
+        },
+        {
+          "word": "lẫn.",
+          "start": 7.58,
+          "end": 7.94,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 8.34,
+      "end": 16.84,
+      "text": "Đây là lý só khiến chỉ hương và nhiều nhà học tông khác mất niềm tin và đặt câu hỏi, có hay không một cuộc bản về má bỏ dưới, trong đó những má bỏ dưới ạo được lập ra để đánh vào lòng trước ở nhà học tâm.",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 8.34,
+          "end": 8.42,
+          "probability": 0.74
+        },
+        {
+          "word": "là",
+          "start": 8.42,
+          "end": 8.54,
+          "probability": 0.99
+        },
+        {
+          "word": "lý",
+          "start": 8.54,
+          "end": 8.66,
+          "probability": 0.38
+        },
+        {
+          "word": "só",
+          "start": 8.66,
+          "end": 8.82,
+          "probability": 0.19
+        },
+        {
+          "word": "khiến",
+          "start": 8.82,
+          "end": 9.06,
+          "probability": 0.59
+        },
+        {
+          "word": "chỉ",
+          "start": 9.06,
+          "end": 9.2,
+          "probability": 0.3
+        },
+        {
+          "word": "hương",
+          "start": 9.2,
+          "end": 9.34,
+          "probability": 0.51
+        },
+        {
+          "word": "và",
+          "start": 9.34,
+          "end": 9.5,
+          "probability": 0.78
+        },
+        {
+          "word": "nhiều",
+          "start": 9.5,
+          "end": 9.66,
+          "probability": 0.82
+        },
+        {
+          "word": "nhà",
+          "start": 9.66,
+          "end": 9.84,
+          "probability": 0.93
+        },
+        {
+          "word": "học",
+          "start": 9.84,
+          "end": 10.04,
+          "probability": 0.69
+        },
+        {
+          "word": "tông",
+          "start": 10.04,
+          "end": 10.14,
+          "probability": 0.53
+        },
+        {
+          "word": "khác",
+          "start": 10.14,
+          "end": 10.32,
+          "probability": 0.73
+        },
+        {
+          "word": "mất",
+          "start": 10.32,
+          "end": 10.5,
+          "probability": 0.75
+        },
+        {
+          "word": "niềm",
+          "start": 10.5,
+          "end": 10.68,
+          "probability": 0.63
+        },
+        {
+          "word": "tin",
+          "start": 10.68,
+          "end": 10.82,
+          "probability": 0.4
+        },
+        {
+          "word": "và",
+          "start": 10.82,
+          "end": 10.94,
+          "probability": 0.84
+        },
+        {
+          "word": "đặt",
+          "start": 10.94,
+          "end": 11.14,
+          "probability": 0.55
+        },
+        {
+          "word": "câu",
+          "start": 11.14,
+          "end": 11.26,
+          "probability": 0.82
+        },
+        {
+          "word": "hỏi,",
+          "start": 11.26,
+          "end": 11.54,
+          "probability": 0.3
+        },
+        {
+          "word": "có",
+          "start": 11.72,
+          "end": 11.78,
+          "probability": 0.94
+        },
+        {
+          "word": "hay",
+          "start": 11.78,
+          "end": 11.94,
+          "probability": 0.66
+        },
+        {
+          "word": "không",
+          "start": 11.94,
+          "end": 12.1,
+          "probability": 0.86
+        },
+        {
+          "word": "một",
+          "start": 12.1,
+          "end": 12.22,
+          "probability": 0.74
+        },
+        {
+          "word": "cuộc",
+          "start": 12.22,
+          "end": 12.4,
+          "probability": 0.3
+        },
+        {
+          "word": "bản",
+          "start": 12.4,
+          "end": 12.56,
+          "probability": 0.77
+        },
+        {
+          "word": "về",
+          "start": 12.56,
+          "end": 12.72,
+          "probability": 0.18
+        },
+        {
+          "word": "má",
+          "start": 12.72,
+          "end": 12.88,
+          "probability": 0.88
+        },
+        {
+          "word": "bỏ",
+          "start": 12.88,
+          "end": 13.06,
+          "probability": 0.82
+        },
+        {
+          "word": "dưới,",
+          "start": 13.06,
+          "end": 13.38,
+          "probability": 0.59
+        },
+        {
+          "word": "trong",
+          "start": 13.64,
+          "end": 13.7,
+          "probability": 0.94
+        },
+        {
+          "word": "đó",
+          "start": 13.7,
+          "end": 13.86,
+          "probability": 0.86
+        },
+        {
+          "word": "những",
+          "start": 13.86,
+          "end": 14.02,
+          "probability": 0.57
+        },
+        {
+          "word": "má",
+          "start": 14.02,
+          "end": 14.16,
+          "probability": 0.94
+        },
+        {
+          "word": "bỏ",
+          "start": 14.16,
+          "end": 14.34,
+          "probability": 0.99
+        },
+        {
+          "word": "dưới",
+          "start": 14.34,
+          "end": 14.52,
+          "probability": 0.99
+        },
+        {
+          "word": "ạo",
+          "start": 14.52,
+          "end": 14.7,
+          "probability": 0.39
+        },
+        {
+          "word": "được",
+          "start": 14.7,
+          "end": 14.82,
+          "probability": 0.87
+        },
+        {
+          "word": "lập",
+          "start": 14.82,
+          "end": 15.02,
+          "probability": 0.86
+        },
+        {
+          "word": "ra",
+          "start": 15.02,
+          "end": 15.16,
+          "probability": 0.68
+        },
+        {
+          "word": "để",
+          "start": 15.16,
+          "end": 15.32,
+          "probability": 0.89
+        },
+        {
+          "word": "đánh",
+          "start": 15.32,
+          "end": 15.48,
+          "probability": 0.73
+        },
+        {
+          "word": "vào",
+          "start": 15.48,
+          "end": 15.62,
+          "probability": 0.62
+        },
+        {
+          "word": "lòng",
+          "start": 15.62,
+          "end": 15.76,
+          "probability": 0.73
+        },
+        {
+          "word": "trước",
+          "start": 15.76,
+          "end": 15.96,
+          "probability": 0.63
+        },
+        {
+          "word": "ở",
+          "start": 15.96,
+          "end": 16.04,
+          "probability": 0.24
+        },
+        {
+          "word": "nhà",
+          "start": 16.04,
+          "end": 16.34,
+          "probability": 0.28
+        },
+        {
+          "word": "học",
+          "start": 16.34,
+          "end": 16.56,
+          "probability": 0.92
+        },
+        {
+          "word": "tâm.",
+          "start": 16.56,
+          "end": 16.84,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 17.26,
+      "end": 20.0,
+      "text": "Chỉ hơi cho biết sẽ tiếp tục làm só vụ việc này với các nhà học tâm khác.",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 17.26,
+          "end": 17.38,
+          "probability": 0.6
+        },
+        {
+          "word": "hơi",
+          "start": 17.38,
+          "end": 17.5,
+          "probability": 0.45
+        },
+        {
+          "word": "cho",
+          "start": 17.5,
+          "end": 17.66,
+          "probability": 0.72
+        },
+        {
+          "word": "biết",
+          "start": 17.66,
+          "end": 17.8,
+          "probability": 0.96
+        },
+        {
+          "word": "sẽ",
+          "start": 17.8,
+          "end": 17.94,
+          "probability": 0.7
+        },
+        {
+          "word": "tiếp",
+          "start": 17.94,
+          "end": 18.14,
+          "probability": 0.33
+        },
+        {
+          "word": "tục",
+          "start": 18.14,
+          "end": 18.2,
+          "probability": 0.94
+        },
+        {
+          "word": "làm",
+          "start": 18.2,
+          "end": 18.4,
+          "probability": 0.71
+        },
+        {
+          "word": "só",
+          "start": 18.4,
+          "end": 18.58,
+          "probability": 0.56
+        },
+        {
+          "word": "vụ",
+          "start": 18.58,
+          "end": 18.74,
+          "probability": 0.81
+        },
+        {
+          "word": "việc",
+          "start": 18.74,
+          "end": 18.9,
+          "probability": 0.82
+        },
+        {
+          "word": "này",
+          "start": 18.9,
+          "end": 19.06,
+          "probability": 0.85
+        },
+        {
+          "word": "với",
+          "start": 19.06,
+          "end": 19.24,
+          "probability": 0.96
+        },
+        {
+          "word": "các",
+          "start": 19.24,
+          "end": 19.38,
+          "probability": 0.66
+        },
+        {
+          "word": "nhà",
+          "start": 19.38,
+          "end": 19.54,
+          "probability": 1.0
+        },
+        {
+          "word": "học",
+          "start": 19.54,
+          "end": 19.72,
+          "probability": 0.99
+        },
+        {
+          "word": "tâm",
+          "start": 19.72,
+          "end": 19.84,
+          "probability": 0.72
+        },
+        {
+          "word": "khác.",
+          "start": 19.84,
+          "end": 20.0,
+          "probability": 0.95
+        }
+      ]
+    }
+  ]
+}

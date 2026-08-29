@@ -1,0 +1,208 @@
+{
+  "item_id": "tt_7669386169901272337_04",
+  "duration_seconds": 22.53,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 25,
+  "text": "Nếu dừng ai đầy em sẽ tìm chân Để mình chẳng hề bố quay nả dừng nhẹ Hãy dở Bước khi đêm Tại anh hả",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.3,
+      "end": 3.58,
+      "text": "Nếu dừng ai đầy em sẽ tìm chân",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 0.3,
+          "end": 1.02,
+          "probability": 0.78
+        },
+        {
+          "word": "dừng",
+          "start": 1.02,
+          "end": 1.46,
+          "probability": 0.37
+        },
+        {
+          "word": "ai",
+          "start": 1.46,
+          "end": 1.82,
+          "probability": 0.35
+        },
+        {
+          "word": "đầy",
+          "start": 1.82,
+          "end": 2.38,
+          "probability": 0.52
+        },
+        {
+          "word": "em",
+          "start": 2.38,
+          "end": 2.64,
+          "probability": 0.78
+        },
+        {
+          "word": "sẽ",
+          "start": 2.64,
+          "end": 2.82,
+          "probability": 0.68
+        },
+        {
+          "word": "tìm",
+          "start": 2.82,
+          "end": 3.12,
+          "probability": 0.65
+        },
+        {
+          "word": "chân",
+          "start": 3.12,
+          "end": 3.58,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.58,
+      "end": 7.14,
+      "text": "Để mình chẳng hề bố quay nả",
+      "words": [
+        {
+          "word": "Để",
+          "start": 3.58,
+          "end": 4.34,
+          "probability": 0.24
+        },
+        {
+          "word": "mình",
+          "start": 4.34,
+          "end": 4.74,
+          "probability": 0.71
+        },
+        {
+          "word": "chẳng",
+          "start": 4.74,
+          "end": 5.16,
+          "probability": 0.72
+        },
+        {
+          "word": "hề",
+          "start": 5.16,
+          "end": 5.46,
+          "probability": 0.47
+        },
+        {
+          "word": "bố",
+          "start": 5.46,
+          "end": 6.02,
+          "probability": 0.58
+        },
+        {
+          "word": "quay",
+          "start": 6.02,
+          "end": 6.48,
+          "probability": 0.69
+        },
+        {
+          "word": "nả",
+          "start": 6.48,
+          "end": 7.14,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.14,
+      "end": 8.24,
+      "text": "dừng nhẹ",
+      "words": [
+        {
+          "word": "dừng",
+          "start": 7.14,
+          "end": 7.8,
+          "probability": 0.75
+        },
+        {
+          "word": "nhẹ",
+          "start": 7.8,
+          "end": 8.24,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.24,
+      "end": 9.98,
+      "text": "Hãy dở",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 8.24,
+          "end": 9.5,
+          "probability": 0.42
+        },
+        {
+          "word": "dở",
+          "start": 9.5,
+          "end": 9.98,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.98,
+      "end": 12.62,
+      "text": "Bước khi đêm",
+      "words": [
+        {
+          "word": "Bước",
+          "start": 9.98,
+          "end": 11.1,
+          "probability": 0.08
+        },
+        {
+          "word": "khi",
+          "start": 11.1,
+          "end": 11.68,
+          "probability": 0.75
+        },
+        {
+          "word": "đêm",
+          "start": 11.68,
+          "end": 12.62,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 12.62,
+      "end": 13.42,
+      "text": "Tại anh hả",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 12.62,
+          "end": 12.9,
+          "probability": 0.28
+        },
+        {
+          "word": "anh",
+          "start": 12.9,
+          "end": 13.24,
+          "probability": 0.12
+        },
+        {
+          "word": "hả",
+          "start": 13.24,
+          "end": 13.42,
+          "probability": 0.42
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "item_id": "tt_7587371931431619861_01",
+  "duration_seconds": 29.2,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 132,
+  "text": "Sê quyết hả Thủ Sê Bán, đâm sập cầu đi bộ. Bộ tên án sê ra vào khoảng chính giường 12 phút ngày 15, 2 tạm táng 12, 8 mừng về bằng cốc trên đường bằng gà chát, tục thư khu bằng của nói, việc bằng bò, tình xamut, brakan. Theo chuyến thông địa phương, chức Sê Bán Mì Thám bán đã trẻ trên đường trong vình trạm thủ Sê nâng linh gà, khiến thủng vào vào cầu vượt đi bộ phiêu trên, làm đạn cầu bị sợp. Khối bê tông dưới xuống phần đầu Sê Bán và đề linh gà bình của một Sê bán tải trở chính đáng trẻ xam xam. Tải Sê Bán tải, 5 chiến tuổi đã thử vong tải chốt, theo được lượng cứ hộ đi phương.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.34,
+      "text": "Sê quyết hả Thủ Sê Bán, đâm sập cầu đi bộ.",
+      "words": [
+        {
+          "word": "Sê",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.03
+        },
+        {
+          "word": "quyết",
+          "start": 0.24,
+          "end": 0.4,
+          "probability": 0.59
+        },
+        {
+          "word": "hả",
+          "start": 0.4,
+          "end": 0.6,
+          "probability": 0.55
+        },
+        {
+          "word": "Thủ",
+          "start": 0.6,
+          "end": 0.76,
+          "probability": 0.28
+        },
+        {
+          "word": "Sê",
+          "start": 0.76,
+          "end": 0.92,
+          "probability": 0.61
+        },
+        {
+          "word": "Bán,",
+          "start": 0.92,
+          "end": 1.2,
+          "probability": 0.36
+        },
+        {
+          "word": "đâm",
+          "start": 1.56,
+          "end": 1.56,
+          "probability": 0.53
+        },
+        {
+          "word": "sập",
+          "start": 1.56,
+          "end": 1.74,
+          "probability": 0.3
+        },
+        {
+          "word": "cầu",
+          "start": 1.74,
+          "end": 1.9,
+          "probability": 0.6
+        },
+        {
+          "word": "đi",
+          "start": 1.9,
+          "end": 2.04,
+          "probability": 0.84
+        },
+        {
+          "word": "bộ.",
+          "start": 2.04,
+          "end": 2.34,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.0,
+      "end": 8.24,
+      "text": "Bộ tên án sê ra vào khoảng chính giường 12 phút ngày 15, 2 tạm táng 12, 8 mừng về bằng cốc trên đường bằng gà chát,",
+      "words": [
+        {
+          "word": "Bộ",
+          "start": 3.0,
+          "end": 3.08,
+          "probability": 0.62
+        },
+        {
+          "word": "tên",
+          "start": 3.08,
+          "end": 3.18,
+          "probability": 0.59
+        },
+        {
+          "word": "án",
+          "start": 3.18,
+          "end": 3.38,
+          "probability": 0.32
+        },
+        {
+          "word": "sê",
+          "start": 3.38,
+          "end": 3.48,
+          "probability": 0.52
+        },
+        {
+          "word": "ra",
+          "start": 3.48,
+          "end": 3.62,
+          "probability": 0.82
+        },
+        {
+          "word": "vào",
+          "start": 3.62,
+          "end": 3.76,
+          "probability": 0.89
+        },
+        {
+          "word": "khoảng",
+          "start": 3.76,
+          "end": 3.96,
+          "probability": 0.79
+        },
+        {
+          "word": "chính",
+          "start": 3.96,
+          "end": 4.14,
+          "probability": 0.35
+        },
+        {
+          "word": "giường",
+          "start": 4.14,
+          "end": 4.3,
+          "probability": 0.31
+        },
+        {
+          "word": "12",
+          "start": 4.3,
+          "end": 4.52,
+          "probability": 0.11
+        },
+        {
+          "word": "phút",
+          "start": 4.52,
+          "end": 4.74,
+          "probability": 0.55
+        },
+        {
+          "word": "ngày",
+          "start": 4.74,
+          "end": 4.88,
+          "probability": 0.38
+        },
+        {
+          "word": "15,",
+          "start": 4.88,
+          "end": 5.16,
+          "probability": 0.21
+        },
+        {
+          "word": "2",
+          "start": 5.6,
+          "end": 5.6,
+          "probability": 0.07
+        },
+        {
+          "word": "tạm",
+          "start": 5.6,
+          "end": 5.94,
+          "probability": 0.47
+        },
+        {
+          "word": "táng",
+          "start": 5.94,
+          "end": 5.94,
+          "probability": 0.21
+        },
+        {
+          "word": "12,",
+          "start": 5.94,
+          "end": 5.94,
+          "probability": 0.38
+        },
+        {
+          "word": "8",
+          "start": 6.18,
+          "end": 6.34,
+          "probability": 0.26
+        },
+        {
+          "word": "mừng",
+          "start": 6.34,
+          "end": 6.7,
+          "probability": 0.18
+        },
+        {
+          "word": "về",
+          "start": 6.7,
+          "end": 6.94,
+          "probability": 0.58
+        },
+        {
+          "word": "bằng",
+          "start": 6.94,
+          "end": 7.08,
+          "probability": 0.59
+        },
+        {
+          "word": "cốc",
+          "start": 7.08,
+          "end": 7.22,
+          "probability": 0.51
+        },
+        {
+          "word": "trên",
+          "start": 7.22,
+          "end": 7.4,
+          "probability": 0.86
+        },
+        {
+          "word": "đường",
+          "start": 7.4,
+          "end": 7.56,
+          "probability": 0.94
+        },
+        {
+          "word": "bằng",
+          "start": 7.56,
+          "end": 7.72,
+          "probability": 0.75
+        },
+        {
+          "word": "gà",
+          "start": 7.72,
+          "end": 7.9,
+          "probability": 0.39
+        },
+        {
+          "word": "chát,",
+          "start": 7.9,
+          "end": 8.24,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.54,
+      "end": 11.42,
+      "text": "tục thư khu bằng của nói, việc bằng bò, tình xamut, brakan.",
+      "words": [
+        {
+          "word": "tục",
+          "start": 8.54,
+          "end": 8.56,
+          "probability": 0.59
+        },
+        {
+          "word": "thư",
+          "start": 8.56,
+          "end": 8.78,
+          "probability": 0.31
+        },
+        {
+          "word": "khu",
+          "start": 8.78,
+          "end": 8.88,
+          "probability": 0.45
+        },
+        {
+          "word": "bằng",
+          "start": 8.88,
+          "end": 9.0,
+          "probability": 0.62
+        },
+        {
+          "word": "của",
+          "start": 9.0,
+          "end": 9.14,
+          "probability": 0.74
+        },
+        {
+          "word": "nói,",
+          "start": 9.14,
+          "end": 9.52,
+          "probability": 0.63
+        },
+        {
+          "word": "việc",
+          "start": 9.68,
+          "end": 9.8,
+          "probability": 0.1
+        },
+        {
+          "word": "bằng",
+          "start": 9.8,
+          "end": 9.96,
+          "probability": 0.77
+        },
+        {
+          "word": "bò,",
+          "start": 9.96,
+          "end": 10.26,
+          "probability": 0.67
+        },
+        {
+          "word": "tình",
+          "start": 10.44,
+          "end": 10.64,
+          "probability": 0.61
+        },
+        {
+          "word": "xamut,",
+          "start": 10.64,
+          "end": 10.94,
+          "probability": 0.38
+        },
+        {
+          "word": "brakan.",
+          "start": 11.12,
+          "end": 11.42,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.04,
+      "end": 16.32,
+      "text": "Theo chuyến thông địa phương, chức Sê Bán Mì Thám bán đã trẻ trên đường trong vình trạm thủ Sê nâng linh gà,",
+      "words": [
+        {
+          "word": "Theo",
+          "start": 12.04,
+          "end": 12.2,
+          "probability": 0.46
+        },
+        {
+          "word": "chuyến",
+          "start": 12.2,
+          "end": 12.36,
+          "probability": 0.52
+        },
+        {
+          "word": "thông",
+          "start": 12.36,
+          "end": 12.5,
+          "probability": 0.83
+        },
+        {
+          "word": "địa",
+          "start": 12.5,
+          "end": 12.68,
+          "probability": 0.69
+        },
+        {
+          "word": "phương,",
+          "start": 12.68,
+          "end": 13.04,
+          "probability": 0.91
+        },
+        {
+          "word": "chức",
+          "start": 13.24,
+          "end": 13.34,
+          "probability": 0.64
+        },
+        {
+          "word": "Sê",
+          "start": 13.34,
+          "end": 13.52,
+          "probability": 0.75
+        },
+        {
+          "word": "Bán",
+          "start": 13.52,
+          "end": 13.68,
+          "probability": 0.98
+        },
+        {
+          "word": "Mì",
+          "start": 13.68,
+          "end": 13.86,
+          "probability": 0.22
+        },
+        {
+          "word": "Thám",
+          "start": 13.86,
+          "end": 14.04,
+          "probability": 0.51
+        },
+        {
+          "word": "bán",
+          "start": 14.04,
+          "end": 14.22,
+          "probability": 0.49
+        },
+        {
+          "word": "đã",
+          "start": 14.22,
+          "end": 14.4,
+          "probability": 0.66
+        },
+        {
+          "word": "trẻ",
+          "start": 14.4,
+          "end": 14.58,
+          "probability": 0.67
+        },
+        {
+          "word": "trên",
+          "start": 14.58,
+          "end": 14.74,
+          "probability": 0.98
+        },
+        {
+          "word": "đường",
+          "start": 14.74,
+          "end": 14.88,
+          "probability": 0.93
+        },
+        {
+          "word": "trong",
+          "start": 14.88,
+          "end": 15.06,
+          "probability": 0.9
+        },
+        {
+          "word": "vình",
+          "start": 15.06,
+          "end": 15.22,
+          "probability": 0.23
+        },
+        {
+          "word": "trạm",
+          "start": 15.22,
+          "end": 15.38,
+          "probability": 0.65
+        },
+        {
+          "word": "thủ",
+          "start": 15.38,
+          "end": 15.58,
+          "probability": 0.61
+        },
+        {
+          "word": "Sê",
+          "start": 15.58,
+          "end": 15.74,
+          "probability": 0.83
+        },
+        {
+          "word": "nâng",
+          "start": 15.74,
+          "end": 15.92,
+          "probability": 0.7
+        },
+        {
+          "word": "linh",
+          "start": 15.92,
+          "end": 16.08,
+          "probability": 0.4
+        },
+        {
+          "word": "gà,",
+          "start": 16.08,
+          "end": 16.32,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.64,
+      "end": 19.84,
+      "text": "khiến thủng vào vào cầu vượt đi bộ phiêu trên, làm đạn cầu bị sợp.",
+      "words": [
+        {
+          "word": "khiến",
+          "start": 16.64,
+          "end": 16.76,
+          "probability": 0.81
+        },
+        {
+          "word": "thủng",
+          "start": 16.76,
+          "end": 16.94,
+          "probability": 0.8
+        },
+        {
+          "word": "vào",
+          "start": 16.94,
+          "end": 17.08,
+          "probability": 0.29
+        },
+        {
+          "word": "vào",
+          "start": 17.08,
+          "end": 17.3,
+          "probability": 0.54
+        },
+        {
+          "word": "cầu",
+          "start": 17.3,
+          "end": 17.38,
+          "probability": 0.49
+        },
+        {
+          "word": "vượt",
+          "start": 17.38,
+          "end": 17.5,
+          "probability": 0.75
+        },
+        {
+          "word": "đi",
+          "start": 17.5,
+          "end": 17.72,
+          "probability": 0.95
+        },
+        {
+          "word": "bộ",
+          "start": 17.72,
+          "end": 17.8,
+          "probability": 0.93
+        },
+        {
+          "word": "phiêu",
+          "start": 17.8,
+          "end": 18.02,
+          "probability": 0.23
+        },
+        {
+          "word": "trên,",
+          "start": 18.02,
+          "end": 18.28,
+          "probability": 0.84
+        },
+        {
+          "word": "làm",
+          "start": 18.62,
+          "end": 18.62,
+          "probability": 0.82
+        },
+        {
+          "word": "đạn",
+          "start": 18.62,
+          "end": 18.8,
+          "probability": 0.35
+        },
+        {
+          "word": "cầu",
+          "start": 18.8,
+          "end": 18.98,
+          "probability": 0.88
+        },
+        {
+          "word": "bị",
+          "start": 18.98,
+          "end": 19.16,
+          "probability": 0.39
+        },
+        {
+          "word": "sợp.",
+          "start": 19.16,
+          "end": 19.84,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 19.84,
+      "end": 24.38,
+      "text": "Khối bê tông dưới xuống phần đầu Sê Bán và đề linh gà bình của một Sê bán tải trở chính đáng trẻ xam xam.",
+      "words": [
+        {
+          "word": "Khối",
+          "start": 19.84,
+          "end": 20.04,
+          "probability": 0.55
+        },
+        {
+          "word": "bê",
+          "start": 20.04,
+          "end": 20.18,
+          "probability": 0.35
+        },
+        {
+          "word": "tông",
+          "start": 20.18,
+          "end": 20.34,
+          "probability": 0.46
+        },
+        {
+          "word": "dưới",
+          "start": 20.34,
+          "end": 20.54,
+          "probability": 0.65
+        },
+        {
+          "word": "xuống",
+          "start": 20.54,
+          "end": 20.74,
+          "probability": 0.65
+        },
+        {
+          "word": "phần",
+          "start": 20.74,
+          "end": 20.9,
+          "probability": 0.69
+        },
+        {
+          "word": "đầu",
+          "start": 20.9,
+          "end": 21.08,
+          "probability": 0.96
+        },
+        {
+          "word": "Sê",
+          "start": 21.08,
+          "end": 21.28,
+          "probability": 0.03
+        },
+        {
+          "word": "Bán",
+          "start": 21.28,
+          "end": 21.42,
+          "probability": 0.1
+        },
+        {
+          "word": "và",
+          "start": 21.42,
+          "end": 21.58,
+          "probability": 0.85
+        },
+        {
+          "word": "đề",
+          "start": 21.58,
+          "end": 21.76,
+          "probability": 0.31
+        },
+        {
+          "word": "linh",
+          "start": 21.76,
+          "end": 21.88,
+          "probability": 0.31
+        },
+        {
+          "word": "gà",
+          "start": 21.88,
+          "end": 22.02,
+          "probability": 0.11
+        },
+        {
+          "word": "bình",
+          "start": 22.02,
+          "end": 22.18,
+          "probability": 0.48
+        },
+        {
+          "word": "của",
+          "start": 22.18,
+          "end": 22.32,
+          "probability": 0.99
+        },
+        {
+          "word": "một",
+          "start": 22.32,
+          "end": 22.5,
+          "probability": 0.73
+        },
+        {
+          "word": "Sê",
+          "start": 22.5,
+          "end": 22.64,
+          "probability": 0.84
+        },
+        {
+          "word": "bán",
+          "start": 22.64,
+          "end": 22.82,
+          "probability": 0.61
+        },
+        {
+          "word": "tải",
+          "start": 22.82,
+          "end": 23.0,
+          "probability": 0.54
+        },
+        {
+          "word": "trở",
+          "start": 23.0,
+          "end": 23.2,
+          "probability": 0.63
+        },
+        {
+          "word": "chính",
+          "start": 23.2,
+          "end": 23.4,
+          "probability": 0.09
+        },
+        {
+          "word": "đáng",
+          "start": 23.4,
+          "end": 23.56,
+          "probability": 0.45
+        },
+        {
+          "word": "trẻ",
+          "start": 23.56,
+          "end": 23.74,
+          "probability": 0.71
+        },
+        {
+          "word": "xam",
+          "start": 23.74,
+          "end": 23.92,
+          "probability": 0.2
+        },
+        {
+          "word": "xam.",
+          "start": 23.92,
+          "end": 24.38,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 24.78,
+      "end": 28.88,
+      "text": "Tải Sê Bán tải, 5 chiến tuổi đã thử vong tải chốt, theo được lượng cứ hộ đi phương.",
+      "words": [
+        {
+          "word": "Tải",
+          "start": 24.78,
+          "end": 24.88,
+          "probability": 0.41
+        },
+        {
+          "word": "Sê",
+          "start": 24.88,
+          "end": 25.12,
+          "probability": 0.91
+        },
+        {
+          "word": "Bán",
+          "start": 25.12,
+          "end": 25.42,
+          "probability": 0.52
+        },
+        {
+          "word": "tải,",
+          "start": 25.42,
+          "end": 25.8,
+          "probability": 0.98
+        },
+        {
+          "word": "5",
+          "start": 25.96,
+          "end": 26.12,
+          "probability": 0.08
+        },
+        {
+          "word": "chiến",
+          "start": 26.12,
+          "end": 26.34,
+          "probability": 0.47
+        },
+        {
+          "word": "tuổi",
+          "start": 26.34,
+          "end": 26.66,
+          "probability": 0.77
+        },
+        {
+          "word": "đã",
+          "start": 26.66,
+          "end": 26.98,
+          "probability": 0.8
+        },
+        {
+          "word": "thử",
+          "start": 26.98,
+          "end": 27.1,
+          "probability": 0.61
+        },
+        {
+          "word": "vong",
+          "start": 27.1,
+          "end": 27.26,
+          "probability": 0.74
+        },
+        {
+          "word": "tải",
+          "start": 27.26,
+          "end": 27.42,
+          "probability": 0.57
+        },
+        {
+          "word": "chốt,",
+          "start": 27.42,
+          "end": 27.74,
+          "probability": 0.54
+        },
+        {
+          "word": "theo",
+          "start": 27.9,
+          "end": 28.06,
+          "probability": 0.73
+        },
+        {
+          "word": "được",
+          "start": 28.06,
+          "end": 28.12,
+          "probability": 0.41
+        },
+        {
+          "word": "lượng",
+          "start": 28.12,
+          "end": 28.28,
+          "probability": 0.92
+        },
+        {
+          "word": "cứ",
+          "start": 28.28,
+          "end": 28.44,
+          "probability": 0.49
+        },
+        {
+          "word": "hộ",
+          "start": 28.44,
+          "end": 28.58,
+          "probability": 0.58
+        },
+        {
+          "word": "đi",
+          "start": 28.58,
+          "end": 28.76,
+          "probability": 0.17
+        },
+        {
+          "word": "phương.",
+          "start": 28.76,
+          "end": 28.88,
+          "probability": 0.48
+        }
+      ]
+    }
+  ]
+}

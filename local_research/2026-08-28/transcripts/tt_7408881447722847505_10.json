@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7408881447722847505_10",
+  "duration_seconds": 19.56,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Hãy like, share and subscribe!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.16,
+      "text": "Hãy like, share and subscribe!",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 0.02,
+          "end": 1.16,
+          "probability": 0.09
+        },
+        {
+          "word": "like,",
+          "start": 1.16,
+          "end": 1.16,
+          "probability": 0.09
+        },
+        {
+          "word": "share",
+          "start": 1.16,
+          "end": 1.16,
+          "probability": 0.34
+        },
+        {
+          "word": "and",
+          "start": 1.16,
+          "end": 1.16,
+          "probability": 0.56
+        },
+        {
+          "word": "subscribe!",
+          "start": 1.16,
+          "end": 1.16,
+          "probability": 0.67
+        }
+      ]
+    }
+  ]
+}

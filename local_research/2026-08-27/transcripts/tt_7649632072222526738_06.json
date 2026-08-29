@@ -1,0 +1,128 @@
+{
+  "item_id": "tt_7649632072222526738_06",
+  "duration_seconds": 5.25,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 17,
+  "text": "Đây, chúng ta tất hiện. Hòa, gửi nó trở thành của đang, sống của gửi qua trọng.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.4,
+      "end": 2.1,
+      "text": "Đây, chúng ta tất hiện.",
+      "words": [
+        {
+          "word": "Đây,",
+          "start": 0.4,
+          "end": 0.72,
+          "probability": 0.09
+        },
+        {
+          "word": "chúng",
+          "start": 0.8,
+          "end": 0.86,
+          "probability": 0.48
+        },
+        {
+          "word": "ta",
+          "start": 0.86,
+          "end": 1.18,
+          "probability": 0.56
+        },
+        {
+          "word": "tất",
+          "start": 1.18,
+          "end": 1.74,
+          "probability": 0.57
+        },
+        {
+          "word": "hiện.",
+          "start": 1.74,
+          "end": 2.1,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.52,
+      "end": 4.56,
+      "text": "Hòa, gửi nó trở thành của đang, sống của gửi qua trọng.",
+      "words": [
+        {
+          "word": "Hòa,",
+          "start": 2.52,
+          "end": 2.76,
+          "probability": 0.24
+        },
+        {
+          "word": "gửi",
+          "start": 2.8,
+          "end": 2.96,
+          "probability": 0.47
+        },
+        {
+          "word": "nó",
+          "start": 2.96,
+          "end": 3.12,
+          "probability": 0.52
+        },
+        {
+          "word": "trở",
+          "start": 3.12,
+          "end": 3.26,
+          "probability": 0.18
+        },
+        {
+          "word": "thành",
+          "start": 3.26,
+          "end": 3.34,
+          "probability": 0.34
+        },
+        {
+          "word": "của",
+          "start": 3.34,
+          "end": 3.46,
+          "probability": 0.36
+        },
+        {
+          "word": "đang,",
+          "start": 3.46,
+          "end": 3.68,
+          "probability": 0.28
+        },
+        {
+          "word": "sống",
+          "start": 3.72,
+          "end": 3.82,
+          "probability": 0.45
+        },
+        {
+          "word": "của",
+          "start": 3.82,
+          "end": 3.98,
+          "probability": 0.98
+        },
+        {
+          "word": "gửi",
+          "start": 3.98,
+          "end": 4.1,
+          "probability": 0.73
+        },
+        {
+          "word": "qua",
+          "start": 4.1,
+          "end": 4.3,
+          "probability": 0.04
+        },
+        {
+          "word": "trọng.",
+          "start": 4.3,
+          "end": 4.56,
+          "probability": 0.71
+        }
+      ]
+    }
+  ]
+}

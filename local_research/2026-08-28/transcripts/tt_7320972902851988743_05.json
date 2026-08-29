@@ -1,0 +1,192 @@
+{
+  "item_id": "tt_7320972902851988743_05",
+  "duration_seconds": 5.24,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 25,
+  "text": "Tìm cái tì lệ làm lúng, có chỉ giới vào tầm lúc bạm. Bạm, bạm, phần chăm tốt. Bạm, phần chăm tốt. Thái lưu dạm.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.22,
+      "text": "Tìm cái tì lệ làm lúng, có chỉ giới vào tầm lúc bạm.",
+      "words": [
+        {
+          "word": "Tìm",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.26
+        },
+        {
+          "word": "cái",
+          "start": 0.28,
+          "end": 0.32,
+          "probability": 0.19
+        },
+        {
+          "word": "tì",
+          "start": 0.32,
+          "end": 0.48,
+          "probability": 0.48
+        },
+        {
+          "word": "lệ",
+          "start": 0.48,
+          "end": 0.62,
+          "probability": 0.38
+        },
+        {
+          "word": "làm",
+          "start": 0.62,
+          "end": 0.82,
+          "probability": 0.38
+        },
+        {
+          "word": "lúng,",
+          "start": 0.82,
+          "end": 1.04,
+          "probability": 0.39
+        },
+        {
+          "word": "có",
+          "start": 1.22,
+          "end": 1.22,
+          "probability": 0.24
+        },
+        {
+          "word": "chỉ",
+          "start": 1.22,
+          "end": 1.36,
+          "probability": 0.59
+        },
+        {
+          "word": "giới",
+          "start": 1.36,
+          "end": 1.5,
+          "probability": 0.26
+        },
+        {
+          "word": "vào",
+          "start": 1.5,
+          "end": 1.62,
+          "probability": 0.69
+        },
+        {
+          "word": "tầm",
+          "start": 1.62,
+          "end": 1.76,
+          "probability": 0.48
+        },
+        {
+          "word": "lúc",
+          "start": 1.76,
+          "end": 1.9,
+          "probability": 0.19
+        },
+        {
+          "word": "bạm.",
+          "start": 1.9,
+          "end": 2.22,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.22,
+      "end": 3.18,
+      "text": "Bạm, bạm, phần chăm tốt.",
+      "words": [
+        {
+          "word": "Bạm,",
+          "start": 2.22,
+          "end": 2.46,
+          "probability": 0.38
+        },
+        {
+          "word": "bạm,",
+          "start": 2.58,
+          "end": 2.78,
+          "probability": 0.52
+        },
+        {
+          "word": "phần",
+          "start": 2.78,
+          "end": 2.78,
+          "probability": 0.31
+        },
+        {
+          "word": "chăm",
+          "start": 2.78,
+          "end": 2.92,
+          "probability": 0.44
+        },
+        {
+          "word": "tốt.",
+          "start": 2.92,
+          "end": 3.18,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.28,
+      "end": 4.16,
+      "text": "Bạm, phần chăm tốt.",
+      "words": [
+        {
+          "word": "Bạm,",
+          "start": 3.28,
+          "end": 3.44,
+          "probability": 0.74
+        },
+        {
+          "word": "phần",
+          "start": 3.62,
+          "end": 3.76,
+          "probability": 0.81
+        },
+        {
+          "word": "chăm",
+          "start": 3.76,
+          "end": 3.94,
+          "probability": 0.98
+        },
+        {
+          "word": "tốt.",
+          "start": 3.94,
+          "end": 4.16,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.22,
+      "end": 4.84,
+      "text": "Thái lưu dạm.",
+      "words": [
+        {
+          "word": "Thái",
+          "start": 4.22,
+          "end": 4.36,
+          "probability": 0.17
+        },
+        {
+          "word": "lưu",
+          "start": 4.36,
+          "end": 4.5,
+          "probability": 0.43
+        },
+        {
+          "word": "dạm.",
+          "start": 4.5,
+          "end": 4.84,
+          "probability": 0.43
+        }
+      ]
+    }
+  ]
+}

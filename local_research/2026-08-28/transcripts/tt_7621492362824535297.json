@@ -1,0 +1,80 @@
+{
+  "item_id": "tt_7621492362824535297",
+  "duration_seconds": 18.25,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "xong rồi dây, quốc tính bụng lại gái này.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.26,
+      "text": "xong rồi dây,",
+      "words": [
+        {
+          "word": "xong",
+          "start": 0.0,
+          "end": 0.52,
+          "probability": 0.17
+        },
+        {
+          "word": "rồi",
+          "start": 0.52,
+          "end": 1.24,
+          "probability": 0.08
+        },
+        {
+          "word": "dây,",
+          "start": 1.24,
+          "end": 2.26,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.4,
+      "end": 5.34,
+      "text": "quốc tính bụng lại gái này.",
+      "words": [
+        {
+          "word": "quốc",
+          "start": 3.4,
+          "end": 4.0,
+          "probability": 0.02
+        },
+        {
+          "word": "tính",
+          "start": 4.0,
+          "end": 4.36,
+          "probability": 0.02
+        },
+        {
+          "word": "bụng",
+          "start": 4.36,
+          "end": 4.52,
+          "probability": 0.14
+        },
+        {
+          "word": "lại",
+          "start": 4.52,
+          "end": 4.88,
+          "probability": 0.06
+        },
+        {
+          "word": "gái",
+          "start": 4.88,
+          "end": 5.14,
+          "probability": 0.1
+        },
+        {
+          "word": "này.",
+          "start": 5.14,
+          "end": 5.34,
+          "probability": 0.05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "item_id": "tt_7677077655723756816_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 22,
+  "text": "tên l Indyng tên Nhưng anh dã Hất thích Ví Tà Lý Nhưng anh Thuyết And then it's on the plate Dạ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.6,
+      "end": 9.1,
+      "text": "tên l Indyng tên Nhưng anh dã Hất thích Ví Tà",
+      "words": [
+        {
+          "word": "tên",
+          "start": 1.6,
+          "end": 2.74,
+          "probability": 0.09
+        },
+        {
+          "word": "l",
+          "start": 2.74,
+          "end": 2.82,
+          "probability": 0.07
+        },
+        {
+          "word": "Indyng",
+          "start": 2.82,
+          "end": 3.36,
+          "probability": 0.13
+        },
+        {
+          "word": "tên",
+          "start": 6.78,
+          "end": 6.94,
+          "probability": 0.18
+        },
+        {
+          "word": "Nhưng",
+          "start": 6.94,
+          "end": 7.34,
+          "probability": 0.08
+        },
+        {
+          "word": "anh",
+          "start": 7.34,
+          "end": 7.94,
+          "probability": 0.01
+        },
+        {
+          "word": "dã",
+          "start": 7.94,
+          "end": 7.94,
+          "probability": 0.0
+        },
+        {
+          "word": "Hất",
+          "start": 7.94,
+          "end": 7.94,
+          "probability": 0.0
+        },
+        {
+          "word": "thích",
+          "start": 7.94,
+          "end": 8.7,
+          "probability": 0.07
+        },
+        {
+          "word": "Ví",
+          "start": 8.7,
+          "end": 8.7,
+          "probability": 0.01
+        },
+        {
+          "word": "Tà",
+          "start": 8.7,
+          "end": 9.1,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 15.95,
+      "end": 20.27,
+      "text": "Lý Nhưng anh Thuyết",
+      "words": [
+        {
+          "word": "Lý",
+          "start": 15.95,
+          "end": 16.39,
+          "probability": 0.02
+        },
+        {
+          "word": "Nhưng",
+          "start": 16.39,
+          "end": 16.81,
+          "probability": 0.47
+        },
+        {
+          "word": "anh",
+          "start": 19.05,
+          "end": 19.63,
+          "probability": 0.14
+        },
+        {
+          "word": "Thuyết",
+          "start": 19.63,
+          "end": 20.27,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 20.27,
+      "end": 22.83,
+      "text": "And then it's on the plate",
+      "words": [
+        {
+          "word": "And",
+          "start": 20.27,
+          "end": 20.69,
+          "probability": 0.01
+        },
+        {
+          "word": "then",
+          "start": 20.69,
+          "end": 21.39,
+          "probability": 0.05
+        },
+        {
+          "word": "it's",
+          "start": 21.39,
+          "end": 21.93,
+          "probability": 0.52
+        },
+        {
+          "word": "on",
+          "start": 21.93,
+          "end": 22.09,
+          "probability": 0.93
+        },
+        {
+          "word": "the",
+          "start": 22.09,
+          "end": 22.29,
+          "probability": 0.97
+        },
+        {
+          "word": "plate",
+          "start": 22.29,
+          "end": 22.83,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 24.71,
+      "end": 25.2,
+      "text": "Dạ.",
+      "words": [
+        {
+          "word": "Dạ.",
+          "start": 24.71,
+          "end": 25.2,
+          "probability": 0.26
+        }
+      ]
+    }
+  ]
+}

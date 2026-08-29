@@ -1,0 +1,492 @@
+{
+  "item_id": "tt_7648543981663489301_01",
+  "duration_seconds": 29.83,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 75,
+  "text": "không phải điểm dù lịch nổ tiến hay một công trên đặc biệt. Dễn ngày qua, một kê phường hợp vào ngày 5 tối trong khu viện nhằm mấy đường quảng gái, lại trở thành tập điểm chú ý nhờ sách đó được rở của buồn hoàn lửa. Mỗi ngày, lúc động người dẫn và dù khách điểm đến đây để ngắm nhìn, chipped ảnh và lưu dữ nhìn khoản khách đẹp của buồn hè.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 10.45,
+      "end": 13.45,
+      "text": "không phải điểm dù lịch nổ tiến hay một công trên đặc biệt.",
+      "words": [
+        {
+          "word": "không",
+          "start": 10.45,
+          "end": 10.65,
+          "probability": 0.44
+        },
+        {
+          "word": "phải",
+          "start": 10.65,
+          "end": 10.81,
+          "probability": 0.98
+        },
+        {
+          "word": "điểm",
+          "start": 10.81,
+          "end": 10.99,
+          "probability": 0.78
+        },
+        {
+          "word": "dù",
+          "start": 10.99,
+          "end": 11.15,
+          "probability": 0.25
+        },
+        {
+          "word": "lịch",
+          "start": 11.15,
+          "end": 11.29,
+          "probability": 0.63
+        },
+        {
+          "word": "nổ",
+          "start": 11.29,
+          "end": 11.49,
+          "probability": 0.53
+        },
+        {
+          "word": "tiến",
+          "start": 11.49,
+          "end": 11.81,
+          "probability": 0.55
+        },
+        {
+          "word": "hay",
+          "start": 11.81,
+          "end": 12.03,
+          "probability": 0.59
+        },
+        {
+          "word": "một",
+          "start": 12.03,
+          "end": 12.19,
+          "probability": 0.65
+        },
+        {
+          "word": "công",
+          "start": 12.19,
+          "end": 12.41,
+          "probability": 0.94
+        },
+        {
+          "word": "trên",
+          "start": 12.41,
+          "end": 12.55,
+          "probability": 0.38
+        },
+        {
+          "word": "đặc",
+          "start": 12.55,
+          "end": 12.77,
+          "probability": 0.88
+        },
+        {
+          "word": "biệt.",
+          "start": 12.77,
+          "end": 13.45,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 13.69,
+      "end": 17.75,
+      "text": "Dễn ngày qua, một kê phường hợp vào ngày 5 tối trong khu viện nhằm mấy đường quảng gái,",
+      "words": [
+        {
+          "word": "Dễn",
+          "start": 13.69,
+          "end": 13.87,
+          "probability": 0.29
+        },
+        {
+          "word": "ngày",
+          "start": 13.87,
+          "end": 14.07,
+          "probability": 0.46
+        },
+        {
+          "word": "qua,",
+          "start": 14.07,
+          "end": 14.35,
+          "probability": 0.96
+        },
+        {
+          "word": "một",
+          "start": 14.59,
+          "end": 14.69,
+          "probability": 0.73
+        },
+        {
+          "word": "kê",
+          "start": 14.69,
+          "end": 14.85,
+          "probability": 0.32
+        },
+        {
+          "word": "phường",
+          "start": 14.85,
+          "end": 15.03,
+          "probability": 0.52
+        },
+        {
+          "word": "hợp",
+          "start": 15.03,
+          "end": 15.29,
+          "probability": 0.56
+        },
+        {
+          "word": "vào",
+          "start": 15.29,
+          "end": 15.47,
+          "probability": 0.51
+        },
+        {
+          "word": "ngày",
+          "start": 15.47,
+          "end": 15.57,
+          "probability": 0.07
+        },
+        {
+          "word": "5",
+          "start": 15.57,
+          "end": 15.77,
+          "probability": 0.19
+        },
+        {
+          "word": "tối",
+          "start": 15.77,
+          "end": 16.03,
+          "probability": 0.23
+        },
+        {
+          "word": "trong",
+          "start": 16.03,
+          "end": 16.25,
+          "probability": 0.79
+        },
+        {
+          "word": "khu",
+          "start": 16.25,
+          "end": 16.43,
+          "probability": 0.75
+        },
+        {
+          "word": "viện",
+          "start": 16.43,
+          "end": 16.63,
+          "probability": 0.55
+        },
+        {
+          "word": "nhằm",
+          "start": 16.63,
+          "end": 16.91,
+          "probability": 0.63
+        },
+        {
+          "word": "mấy",
+          "start": 16.91,
+          "end": 16.99,
+          "probability": 0.59
+        },
+        {
+          "word": "đường",
+          "start": 16.99,
+          "end": 17.19,
+          "probability": 0.91
+        },
+        {
+          "word": "quảng",
+          "start": 17.19,
+          "end": 17.41,
+          "probability": 0.27
+        },
+        {
+          "word": "gái,",
+          "start": 17.41,
+          "end": 17.75,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 17.95,
+      "end": 21.45,
+      "text": "lại trở thành tập điểm chú ý nhờ sách đó được rở của buồn hoàn lửa.",
+      "words": [
+        {
+          "word": "lại",
+          "start": 17.95,
+          "end": 18.09,
+          "probability": 0.67
+        },
+        {
+          "word": "trở",
+          "start": 18.09,
+          "end": 18.29,
+          "probability": 0.47
+        },
+        {
+          "word": "thành",
+          "start": 18.29,
+          "end": 18.45,
+          "probability": 0.99
+        },
+        {
+          "word": "tập",
+          "start": 18.45,
+          "end": 18.63,
+          "probability": 0.9
+        },
+        {
+          "word": "điểm",
+          "start": 18.63,
+          "end": 18.83,
+          "probability": 0.75
+        },
+        {
+          "word": "chú",
+          "start": 18.83,
+          "end": 19.05,
+          "probability": 0.26
+        },
+        {
+          "word": "ý",
+          "start": 19.05,
+          "end": 19.23,
+          "probability": 0.82
+        },
+        {
+          "word": "nhờ",
+          "start": 19.23,
+          "end": 19.49,
+          "probability": 0.71
+        },
+        {
+          "word": "sách",
+          "start": 19.49,
+          "end": 19.71,
+          "probability": 0.51
+        },
+        {
+          "word": "đó",
+          "start": 19.71,
+          "end": 19.93,
+          "probability": 0.6
+        },
+        {
+          "word": "được",
+          "start": 19.93,
+          "end": 20.19,
+          "probability": 0.78
+        },
+        {
+          "word": "rở",
+          "start": 20.19,
+          "end": 20.45,
+          "probability": 0.38
+        },
+        {
+          "word": "của",
+          "start": 20.45,
+          "end": 20.67,
+          "probability": 0.78
+        },
+        {
+          "word": "buồn",
+          "start": 20.67,
+          "end": 20.95,
+          "probability": 0.66
+        },
+        {
+          "word": "hoàn",
+          "start": 20.95,
+          "end": 21.19,
+          "probability": 0.21
+        },
+        {
+          "word": "lửa.",
+          "start": 21.19,
+          "end": 21.45,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 22.29,
+      "end": 28.97,
+      "text": "Mỗi ngày, lúc động người dẫn và dù khách điểm đến đây để ngắm nhìn, chipped ảnh và lưu dữ nhìn khoản khách đẹp của buồn hè.",
+      "words": [
+        {
+          "word": "Mỗi",
+          "start": 22.29,
+          "end": 22.47,
+          "probability": 0.74
+        },
+        {
+          "word": "ngày,",
+          "start": 22.47,
+          "end": 22.81,
+          "probability": 0.98
+        },
+        {
+          "word": "lúc",
+          "start": 23.01,
+          "end": 23.11,
+          "probability": 0.41
+        },
+        {
+          "word": "động",
+          "start": 23.11,
+          "end": 23.29,
+          "probability": 0.07
+        },
+        {
+          "word": "người",
+          "start": 23.29,
+          "end": 23.47,
+          "probability": 0.61
+        },
+        {
+          "word": "dẫn",
+          "start": 23.47,
+          "end": 23.67,
+          "probability": 0.62
+        },
+        {
+          "word": "và",
+          "start": 23.67,
+          "end": 23.87,
+          "probability": 0.67
+        },
+        {
+          "word": "dù",
+          "start": 23.87,
+          "end": 23.99,
+          "probability": 0.3
+        },
+        {
+          "word": "khách",
+          "start": 23.99,
+          "end": 24.25,
+          "probability": 0.62
+        },
+        {
+          "word": "điểm",
+          "start": 24.25,
+          "end": 24.45,
+          "probability": 0.78
+        },
+        {
+          "word": "đến",
+          "start": 24.45,
+          "end": 24.67,
+          "probability": 0.46
+        },
+        {
+          "word": "đây",
+          "start": 24.67,
+          "end": 24.93,
+          "probability": 0.94
+        },
+        {
+          "word": "để",
+          "start": 24.93,
+          "end": 25.19,
+          "probability": 0.34
+        },
+        {
+          "word": "ngắm",
+          "start": 25.19,
+          "end": 25.37,
+          "probability": 0.54
+        },
+        {
+          "word": "nhìn,",
+          "start": 25.37,
+          "end": 25.77,
+          "probability": 0.65
+        },
+        {
+          "word": "chipped",
+          "start": 26.07,
+          "end": 26.13,
+          "probability": 0.23
+        },
+        {
+          "word": "ảnh",
+          "start": 26.13,
+          "end": 26.55,
+          "probability": 0.55
+        },
+        {
+          "word": "và",
+          "start": 26.55,
+          "end": 26.77,
+          "probability": 0.83
+        },
+        {
+          "word": "lưu",
+          "start": 26.77,
+          "end": 26.95,
+          "probability": 0.52
+        },
+        {
+          "word": "dữ",
+          "start": 26.95,
+          "end": 27.21,
+          "probability": 0.65
+        },
+        {
+          "word": "nhìn",
+          "start": 27.21,
+          "end": 27.45,
+          "probability": 0.76
+        },
+        {
+          "word": "khoản",
+          "start": 27.45,
+          "end": 27.69,
+          "probability": 0.66
+        },
+        {
+          "word": "khách",
+          "start": 27.69,
+          "end": 27.93,
+          "probability": 0.65
+        },
+        {
+          "word": "đẹp",
+          "start": 27.93,
+          "end": 28.19,
+          "probability": 0.84
+        },
+        {
+          "word": "của",
+          "start": 28.19,
+          "end": 28.45,
+          "probability": 0.98
+        },
+        {
+          "word": "buồn",
+          "start": 28.45,
+          "end": 28.67,
+          "probability": 0.86
+        },
+        {
+          "word": "hè.",
+          "start": 28.67,
+          "end": 28.97,
+          "probability": 0.49
+        }
+      ]
+    }
+  ]
+}

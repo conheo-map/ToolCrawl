@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7589218630642978068_02",
+  "duration_seconds": 29.92,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Lấy ngày sống",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.14,
+      "text": "Lấy ngày sống",
+      "words": [
+        {
+          "word": "Lấy",
+          "start": 0.0,
+          "end": 0.64,
+          "probability": 0.13
+        },
+        {
+          "word": "ngày",
+          "start": 0.64,
+          "end": 0.86,
+          "probability": 0.24
+        },
+        {
+          "word": "sống",
+          "start": 0.86,
+          "end": 1.14,
+          "probability": 0.25
+        }
+      ]
+    }
+  ]
+}

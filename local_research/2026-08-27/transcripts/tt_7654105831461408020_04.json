@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7654105831461408020_04",
+  "duration_seconds": 29.37,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Trời and the",
+  "segments": [
+    {
+      "id": 1,
+      "start": 14.76,
+      "end": 21.34,
+      "text": "Trời and the",
+      "words": [
+        {
+          "word": "Trời",
+          "start": 14.76,
+          "end": 16.16,
+          "probability": 0.08
+        },
+        {
+          "word": "and",
+          "start": 16.16,
+          "end": 17.56,
+          "probability": 0.0
+        },
+        {
+          "word": "the",
+          "start": 17.56,
+          "end": 21.34,
+          "probability": 0.13
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "item_id": "tt_7647092179084659988_18",
+  "duration_seconds": 21.7,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 11,
+  "text": "Sai ơn tôi thì quần, lúc xa em là đoàn lẽ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.73,
+      "end": 5.03,
+      "text": "Sai ơn tôi thì quần,",
+      "words": [
+        {
+          "word": "Sai",
+          "start": 3.73,
+          "end": 4.05,
+          "probability": 0.16
+        },
+        {
+          "word": "ơn",
+          "start": 4.05,
+          "end": 4.13,
+          "probability": 0.21
+        },
+        {
+          "word": "tôi",
+          "start": 4.13,
+          "end": 4.33,
+          "probability": 0.06
+        },
+        {
+          "word": "thì",
+          "start": 4.33,
+          "end": 4.55,
+          "probability": 0.15
+        },
+        {
+          "word": "quần,",
+          "start": 4.55,
+          "end": 5.03,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.05,
+      "end": 6.03,
+      "text": "lúc xa em là đoàn lẽ.",
+      "words": [
+        {
+          "word": "lúc",
+          "start": 5.05,
+          "end": 5.23,
+          "probability": 0.06
+        },
+        {
+          "word": "xa",
+          "start": 5.23,
+          "end": 5.41,
+          "probability": 0.21
+        },
+        {
+          "word": "em",
+          "start": 5.41,
+          "end": 5.49,
+          "probability": 0.29
+        },
+        {
+          "word": "là",
+          "start": 5.49,
+          "end": 5.61,
+          "probability": 0.23
+        },
+        {
+          "word": "đoàn",
+          "start": 5.61,
+          "end": 5.83,
+          "probability": 0.18
+        },
+        {
+          "word": "lẽ.",
+          "start": 5.83,
+          "end": 6.03,
+          "probability": 0.18
+        }
+      ]
+    }
+  ]
+}

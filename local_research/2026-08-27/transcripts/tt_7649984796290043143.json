@@ -1,0 +1,678 @@
+{
+  "item_id": "tt_7649984796290043143",
+  "duration_seconds": 32.05,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 102,
+  "text": "Vào vào rào dễ. Bố phía của bạn sẽ tất cả lấy dễ. Bại hôm vực chích kinh, ký tên nó sẽ một kế liệt ở đặc trứng bây giờ là phòng các bạn. Tới dơ sáng tạo vào tưởng tưởng về bố phía mình muốn. Mà rào dễ nhất nhất mới sẽ lời chào ít tưởng ấn tưởng nhất. Cơ thể là một câu trình yêu lãnh ngàn, hàng bố phương kinh dễ. Cái là ít tưởng mà bằng nử dây trong đau, và bà chữ nhấn cố tơ dây nó, sẽ nhấn được con hoa đặc biệt tức chứng trên.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.37,
+      "end": 2.77,
+      "text": "Vào vào rào dễ. Bố phía của bạn sẽ tất cả lấy dễ.",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 0.37,
+          "end": 0.49,
+          "probability": 0.13
+        },
+        {
+          "word": "vào",
+          "start": 0.49,
+          "end": 0.49,
+          "probability": 0.05
+        },
+        {
+          "word": "rào",
+          "start": 0.49,
+          "end": 0.59,
+          "probability": 0.18
+        },
+        {
+          "word": "dễ.",
+          "start": 0.59,
+          "end": 0.99,
+          "probability": 0.13
+        },
+        {
+          "word": "Bố",
+          "start": 1.17,
+          "end": 1.19,
+          "probability": 0.14
+        },
+        {
+          "word": "phía",
+          "start": 1.19,
+          "end": 1.33,
+          "probability": 0.62
+        },
+        {
+          "word": "của",
+          "start": 1.33,
+          "end": 1.47,
+          "probability": 0.37
+        },
+        {
+          "word": "bạn",
+          "start": 1.47,
+          "end": 1.67,
+          "probability": 0.38
+        },
+        {
+          "word": "sẽ",
+          "start": 1.67,
+          "end": 1.81,
+          "probability": 0.59
+        },
+        {
+          "word": "tất",
+          "start": 1.81,
+          "end": 2.01,
+          "probability": 0.58
+        },
+        {
+          "word": "cả",
+          "start": 2.01,
+          "end": 2.01,
+          "probability": 0.44
+        },
+        {
+          "word": "lấy",
+          "start": 2.01,
+          "end": 2.19,
+          "probability": 0.18
+        },
+        {
+          "word": "dễ.",
+          "start": 2.19,
+          "end": 2.77,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.97,
+      "end": 7.37,
+      "text": "Bại hôm vực chích kinh, ký tên nó sẽ một kế liệt ở đặc trứng bây giờ là phòng các bạn.",
+      "words": [
+        {
+          "word": "Bại",
+          "start": 2.97,
+          "end": 3.13,
+          "probability": 0.11
+        },
+        {
+          "word": "hôm",
+          "start": 3.13,
+          "end": 3.27,
+          "probability": 0.4
+        },
+        {
+          "word": "vực",
+          "start": 3.27,
+          "end": 3.45,
+          "probability": 0.57
+        },
+        {
+          "word": "chích",
+          "start": 3.45,
+          "end": 3.67,
+          "probability": 0.27
+        },
+        {
+          "word": "kinh,",
+          "start": 3.67,
+          "end": 4.03,
+          "probability": 0.49
+        },
+        {
+          "word": "ký",
+          "start": 4.07,
+          "end": 4.31,
+          "probability": 0.25
+        },
+        {
+          "word": "tên",
+          "start": 4.31,
+          "end": 4.43,
+          "probability": 0.36
+        },
+        {
+          "word": "nó",
+          "start": 4.43,
+          "end": 4.61,
+          "probability": 0.52
+        },
+        {
+          "word": "sẽ",
+          "start": 4.61,
+          "end": 4.87,
+          "probability": 0.16
+        },
+        {
+          "word": "một",
+          "start": 4.87,
+          "end": 4.91,
+          "probability": 0.38
+        },
+        {
+          "word": "kế",
+          "start": 4.91,
+          "end": 5.09,
+          "probability": 0.48
+        },
+        {
+          "word": "liệt",
+          "start": 5.09,
+          "end": 5.29,
+          "probability": 0.19
+        },
+        {
+          "word": "ở",
+          "start": 5.29,
+          "end": 5.49,
+          "probability": 0.29
+        },
+        {
+          "word": "đặc",
+          "start": 5.49,
+          "end": 5.71,
+          "probability": 0.14
+        },
+        {
+          "word": "trứng",
+          "start": 5.71,
+          "end": 5.75,
+          "probability": 0.42
+        },
+        {
+          "word": "bây",
+          "start": 5.75,
+          "end": 6.03,
+          "probability": 0.41
+        },
+        {
+          "word": "giờ",
+          "start": 6.03,
+          "end": 6.57,
+          "probability": 0.34
+        },
+        {
+          "word": "là",
+          "start": 6.57,
+          "end": 6.77,
+          "probability": 0.49
+        },
+        {
+          "word": "phòng",
+          "start": 6.77,
+          "end": 6.99,
+          "probability": 0.7
+        },
+        {
+          "word": "các",
+          "start": 6.99,
+          "end": 7.17,
+          "probability": 0.12
+        },
+        {
+          "word": "bạn.",
+          "start": 7.17,
+          "end": 7.37,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.05,
+      "end": 10.75,
+      "text": "Tới dơ sáng tạo vào tưởng tưởng về bố phía mình muốn.",
+      "words": [
+        {
+          "word": "Tới",
+          "start": 8.05,
+          "end": 8.21,
+          "probability": 0.42
+        },
+        {
+          "word": "dơ",
+          "start": 8.21,
+          "end": 8.39,
+          "probability": 0.31
+        },
+        {
+          "word": "sáng",
+          "start": 8.39,
+          "end": 8.61,
+          "probability": 0.51
+        },
+        {
+          "word": "tạo",
+          "start": 8.61,
+          "end": 8.85,
+          "probability": 0.73
+        },
+        {
+          "word": "vào",
+          "start": 8.85,
+          "end": 9.03,
+          "probability": 0.24
+        },
+        {
+          "word": "tưởng",
+          "start": 9.03,
+          "end": 9.21,
+          "probability": 0.57
+        },
+        {
+          "word": "tưởng",
+          "start": 9.21,
+          "end": 9.41,
+          "probability": 0.59
+        },
+        {
+          "word": "về",
+          "start": 9.41,
+          "end": 9.59,
+          "probability": 0.59
+        },
+        {
+          "word": "bố",
+          "start": 9.59,
+          "end": 9.75,
+          "probability": 0.68
+        },
+        {
+          "word": "phía",
+          "start": 9.75,
+          "end": 9.93,
+          "probability": 0.92
+        },
+        {
+          "word": "mình",
+          "start": 9.93,
+          "end": 10.17,
+          "probability": 0.63
+        },
+        {
+          "word": "muốn.",
+          "start": 10.17,
+          "end": 10.75,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.21,
+      "end": 14.85,
+      "text": "Mà rào dễ nhất nhất mới sẽ lời chào ít tưởng ấn tưởng nhất.",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 12.21,
+          "end": 12.25,
+          "probability": 0.59
+        },
+        {
+          "word": "rào",
+          "start": 12.25,
+          "end": 12.45,
+          "probability": 0.7
+        },
+        {
+          "word": "dễ",
+          "start": 12.45,
+          "end": 12.53,
+          "probability": 0.86
+        },
+        {
+          "word": "nhất",
+          "start": 12.53,
+          "end": 12.69,
+          "probability": 0.34
+        },
+        {
+          "word": "nhất",
+          "start": 12.69,
+          "end": 12.91,
+          "probability": 0.01
+        },
+        {
+          "word": "mới",
+          "start": 12.91,
+          "end": 12.91,
+          "probability": 0.03
+        },
+        {
+          "word": "sẽ",
+          "start": 12.91,
+          "end": 13.07,
+          "probability": 0.16
+        },
+        {
+          "word": "lời",
+          "start": 13.07,
+          "end": 13.27,
+          "probability": 0.58
+        },
+        {
+          "word": "chào",
+          "start": 13.27,
+          "end": 13.43,
+          "probability": 0.36
+        },
+        {
+          "word": "ít",
+          "start": 13.43,
+          "end": 13.73,
+          "probability": 0.58
+        },
+        {
+          "word": "tưởng",
+          "start": 13.73,
+          "end": 13.85,
+          "probability": 0.73
+        },
+        {
+          "word": "ấn",
+          "start": 13.85,
+          "end": 14.13,
+          "probability": 0.36
+        },
+        {
+          "word": "tưởng",
+          "start": 14.13,
+          "end": 14.29,
+          "probability": 0.84
+        },
+        {
+          "word": "nhất.",
+          "start": 14.29,
+          "end": 14.85,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.58,
+      "end": 19.84,
+      "text": "Cơ thể là một câu trình yêu lãnh ngàn, hàng bố phương kinh dễ.",
+      "words": [
+        {
+          "word": "Cơ",
+          "start": 16.58,
+          "end": 16.7,
+          "probability": 0.39
+        },
+        {
+          "word": "thể",
+          "start": 16.7,
+          "end": 16.8,
+          "probability": 0.92
+        },
+        {
+          "word": "là",
+          "start": 16.8,
+          "end": 16.94,
+          "probability": 0.73
+        },
+        {
+          "word": "một",
+          "start": 16.94,
+          "end": 17.1,
+          "probability": 0.55
+        },
+        {
+          "word": "câu",
+          "start": 17.1,
+          "end": 17.24,
+          "probability": 0.75
+        },
+        {
+          "word": "trình",
+          "start": 17.24,
+          "end": 17.52,
+          "probability": 0.53
+        },
+        {
+          "word": "yêu",
+          "start": 17.52,
+          "end": 17.78,
+          "probability": 0.71
+        },
+        {
+          "word": "lãnh",
+          "start": 17.78,
+          "end": 18.08,
+          "probability": 0.71
+        },
+        {
+          "word": "ngàn,",
+          "start": 18.08,
+          "end": 18.44,
+          "probability": 0.08
+        },
+        {
+          "word": "hàng",
+          "start": 18.64,
+          "end": 18.66,
+          "probability": 0.13
+        },
+        {
+          "word": "bố",
+          "start": 18.66,
+          "end": 18.86,
+          "probability": 0.78
+        },
+        {
+          "word": "phương",
+          "start": 18.86,
+          "end": 19.12,
+          "probability": 0.62
+        },
+        {
+          "word": "kinh",
+          "start": 19.12,
+          "end": 19.44,
+          "probability": 0.7
+        },
+        {
+          "word": "dễ.",
+          "start": 19.44,
+          "end": 19.84,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 20.4,
+      "end": 22.4,
+      "text": "Cái là ít tưởng mà bằng nử dây trong đau,",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 20.4,
+          "end": 20.44,
+          "probability": 0.35
+        },
+        {
+          "word": "là",
+          "start": 20.44,
+          "end": 20.58,
+          "probability": 0.53
+        },
+        {
+          "word": "ít",
+          "start": 20.58,
+          "end": 20.86,
+          "probability": 0.99
+        },
+        {
+          "word": "tưởng",
+          "start": 20.86,
+          "end": 21.02,
+          "probability": 0.99
+        },
+        {
+          "word": "mà",
+          "start": 21.02,
+          "end": 21.22,
+          "probability": 0.53
+        },
+        {
+          "word": "bằng",
+          "start": 21.22,
+          "end": 21.36,
+          "probability": 0.53
+        },
+        {
+          "word": "nử",
+          "start": 21.36,
+          "end": 21.62,
+          "probability": 0.17
+        },
+        {
+          "word": "dây",
+          "start": 21.62,
+          "end": 21.78,
+          "probability": 0.15
+        },
+        {
+          "word": "trong",
+          "start": 21.78,
+          "end": 21.98,
+          "probability": 0.82
+        },
+        {
+          "word": "đau,",
+          "start": 21.98,
+          "end": 22.4,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 22.74,
+      "end": 25.88,
+      "text": "và bà chữ nhấn cố tơ dây nó, sẽ nhấn được con hoa đặc biệt tức chứng trên.",
+      "words": [
+        {
+          "word": "và",
+          "start": 22.74,
+          "end": 22.88,
+          "probability": 0.69
+        },
+        {
+          "word": "bà",
+          "start": 22.88,
+          "end": 23.04,
+          "probability": 0.68
+        },
+        {
+          "word": "chữ",
+          "start": 23.04,
+          "end": 23.2,
+          "probability": 0.27
+        },
+        {
+          "word": "nhấn",
+          "start": 23.2,
+          "end": 23.4,
+          "probability": 0.22
+        },
+        {
+          "word": "cố",
+          "start": 23.4,
+          "end": 23.58,
+          "probability": 0.3
+        },
+        {
+          "word": "tơ",
+          "start": 23.58,
+          "end": 23.7,
+          "probability": 0.5
+        },
+        {
+          "word": "dây",
+          "start": 23.7,
+          "end": 23.86,
+          "probability": 0.83
+        },
+        {
+          "word": "nó,",
+          "start": 23.86,
+          "end": 24.22,
+          "probability": 0.93
+        },
+        {
+          "word": "sẽ",
+          "start": 24.22,
+          "end": 24.34,
+          "probability": 0.44
+        },
+        {
+          "word": "nhấn",
+          "start": 24.34,
+          "end": 24.5,
+          "probability": 0.58
+        },
+        {
+          "word": "được",
+          "start": 24.5,
+          "end": 24.66,
+          "probability": 0.59
+        },
+        {
+          "word": "con",
+          "start": 24.66,
+          "end": 24.82,
+          "probability": 0.12
+        },
+        {
+          "word": "hoa",
+          "start": 24.82,
+          "end": 25.0,
+          "probability": 0.17
+        },
+        {
+          "word": "đặc",
+          "start": 25.0,
+          "end": 25.16,
+          "probability": 0.64
+        },
+        {
+          "word": "biệt",
+          "start": 25.16,
+          "end": 25.34,
+          "probability": 0.9
+        },
+        {
+          "word": "tức",
+          "start": 25.34,
+          "end": 25.56,
+          "probability": 0.12
+        },
+        {
+          "word": "chứng",
+          "start": 25.56,
+          "end": 25.72,
+          "probability": 0.42
+        },
+        {
+          "word": "trên.",
+          "start": 25.72,
+          "end": 25.88,
+          "probability": 0.3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7584098621730098453_04",
+  "duration_seconds": 21.75,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Bởi vì...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 1.71,
+      "text": "Bởi vì...",
+      "words": [
+        {
+          "word": "Bởi",
+          "start": 0.11,
+          "end": 0.81,
+          "probability": 0.4
+        },
+        {
+          "word": "vì...",
+          "start": 0.81,
+          "end": 1.71,
+          "probability": 0.28
+        }
+      ]
+    }
+  ]
+}

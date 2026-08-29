@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7652343458329267477_10",
+  "duration_seconds": 27.79,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Thì, tó",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Thì, tó",
+      "words": [
+        {
+          "word": "Thì,",
+          "start": 0.0,
+          "end": 0.52,
+          "probability": 0.32
+        },
+        {
+          "word": "tó",
+          "start": 0.82,
+          "end": 0.88,
+          "probability": 0.19
+        }
+      ]
+    }
+  ]
+}

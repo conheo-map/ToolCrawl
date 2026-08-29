@@ -1,0 +1,554 @@
+{
+  "item_id": "tt_7658556688059976968_01",
+  "duration_seconds": 29.62,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 61,
+  "text": "Mà có đồng G-7, Tổ trình sát Phát hiện Một khoảng không Bòn nước, Y ngờ có sự sống Xin Pép Đồng G-7, Các chúng tôi trình sát, Bệnh pháp liê bộ Tổ trức tìm biêm Chúng ta hay Mình hãy Mình hãy Đừng em ăn toàn Những yếu lần G-7, Qua? Qua? Bây giờ em Những đồng tắt thùng thùng",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.84,
+      "text": "Mà có đồng G-7,",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.14
+        },
+        {
+          "word": "có",
+          "start": 0.16,
+          "end": 0.3,
+          "probability": 0.1
+        },
+        {
+          "word": "đồng",
+          "start": 0.3,
+          "end": 0.5,
+          "probability": 0.24
+        },
+        {
+          "word": "G",
+          "start": 0.5,
+          "end": 0.66,
+          "probability": 0.27
+        },
+        {
+          "word": "-7,",
+          "start": 0.66,
+          "end": 0.84,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.68,
+      "end": 2.76,
+      "text": "Tổ trình sát",
+      "words": [
+        {
+          "word": "Tổ",
+          "start": 1.68,
+          "end": 2.04,
+          "probability": 0.05
+        },
+        {
+          "word": "trình",
+          "start": 2.04,
+          "end": 2.4,
+          "probability": 0.25
+        },
+        {
+          "word": "sát",
+          "start": 2.4,
+          "end": 2.76,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.76,
+      "end": 4.0,
+      "text": "Phát hiện",
+      "words": [
+        {
+          "word": "Phát",
+          "start": 2.76,
+          "end": 3.6,
+          "probability": 0.28
+        },
+        {
+          "word": "hiện",
+          "start": 3.6,
+          "end": 4.0,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.0,
+      "end": 5.28,
+      "text": "Một khoảng không",
+      "words": [
+        {
+          "word": "Một",
+          "start": 4.0,
+          "end": 4.5,
+          "probability": 0.35
+        },
+        {
+          "word": "khoảng",
+          "start": 4.5,
+          "end": 4.72,
+          "probability": 0.61
+        },
+        {
+          "word": "không",
+          "start": 4.72,
+          "end": 5.28,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 5.28,
+      "end": 6.38,
+      "text": "Bòn nước,",
+      "words": [
+        {
+          "word": "Bòn",
+          "start": 5.28,
+          "end": 6.0,
+          "probability": 0.2
+        },
+        {
+          "word": "nước,",
+          "start": 6.0,
+          "end": 6.38,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 6.6,
+      "end": 7.84,
+      "text": "Y ngờ có sự sống",
+      "words": [
+        {
+          "word": "Y",
+          "start": 6.6,
+          "end": 6.88,
+          "probability": 0.03
+        },
+        {
+          "word": "ngờ",
+          "start": 6.88,
+          "end": 7.04,
+          "probability": 0.15
+        },
+        {
+          "word": "có",
+          "start": 7.04,
+          "end": 7.16,
+          "probability": 0.68
+        },
+        {
+          "word": "sự",
+          "start": 7.16,
+          "end": 7.26,
+          "probability": 0.6
+        },
+        {
+          "word": "sống",
+          "start": 7.26,
+          "end": 7.84,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 7.84,
+      "end": 9.02,
+      "text": "Xin Pép",
+      "words": [
+        {
+          "word": "Xin",
+          "start": 7.84,
+          "end": 8.46,
+          "probability": 0.11
+        },
+        {
+          "word": "Pép",
+          "start": 8.46,
+          "end": 9.02,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 9.02,
+      "end": 9.7,
+      "text": "Đồng G-7,",
+      "words": [
+        {
+          "word": "Đồng",
+          "start": 9.02,
+          "end": 9.4,
+          "probability": 0.6
+        },
+        {
+          "word": "G",
+          "start": 9.4,
+          "end": 9.6,
+          "probability": 0.97
+        },
+        {
+          "word": "-7,",
+          "start": 9.6,
+          "end": 9.7,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 10.12,
+      "end": 10.98,
+      "text": "Các chúng tôi trình sát,",
+      "words": [
+        {
+          "word": "Các",
+          "start": 10.12,
+          "end": 10.28,
+          "probability": 0.2
+        },
+        {
+          "word": "chúng",
+          "start": 10.28,
+          "end": 10.38,
+          "probability": 0.16
+        },
+        {
+          "word": "tôi",
+          "start": 10.38,
+          "end": 10.5,
+          "probability": 0.96
+        },
+        {
+          "word": "trình",
+          "start": 10.5,
+          "end": 10.68,
+          "probability": 0.4
+        },
+        {
+          "word": "sát,",
+          "start": 10.68,
+          "end": 10.98,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 10.98,
+      "end": 12.1,
+      "text": "Bệnh pháp liê bộ",
+      "words": [
+        {
+          "word": "Bệnh",
+          "start": 10.98,
+          "end": 11.4,
+          "probability": 0.38
+        },
+        {
+          "word": "pháp",
+          "start": 11.4,
+          "end": 11.54,
+          "probability": 0.38
+        },
+        {
+          "word": "liê",
+          "start": 11.54,
+          "end": 11.76,
+          "probability": 0.17
+        },
+        {
+          "word": "bộ",
+          "start": 11.76,
+          "end": 12.1,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 12.1,
+      "end": 13.04,
+      "text": "Tổ trức tìm biêm",
+      "words": [
+        {
+          "word": "Tổ",
+          "start": 12.1,
+          "end": 12.36,
+          "probability": 0.69
+        },
+        {
+          "word": "trức",
+          "start": 12.36,
+          "end": 12.6,
+          "probability": 0.62
+        },
+        {
+          "word": "tìm",
+          "start": 12.6,
+          "end": 12.78,
+          "probability": 0.51
+        },
+        {
+          "word": "biêm",
+          "start": 12.78,
+          "end": 13.04,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 13.7,
+      "end": 15.08,
+      "text": "Chúng ta hay",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 13.7,
+          "end": 13.98,
+          "probability": 0.14
+        },
+        {
+          "word": "ta",
+          "start": 13.98,
+          "end": 14.12,
+          "probability": 0.12
+        },
+        {
+          "word": "hay",
+          "start": 14.12,
+          "end": 15.08,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 15.08,
+      "end": 15.26,
+      "text": "Mình hãy",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 15.08,
+          "end": 15.26,
+          "probability": 0.07
+        },
+        {
+          "word": "hãy",
+          "start": 15.26,
+          "end": 15.26,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 15.26,
+      "end": 16.34,
+      "text": "Mình hãy",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 15.26,
+          "end": 15.56,
+          "probability": 0.19
+        },
+        {
+          "word": "hãy",
+          "start": 15.56,
+          "end": 16.34,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 20.06,
+      "end": 21.28,
+      "text": "Đừng em ăn toàn",
+      "words": [
+        {
+          "word": "Đừng",
+          "start": 20.06,
+          "end": 20.58,
+          "probability": 0.05
+        },
+        {
+          "word": "em",
+          "start": 20.58,
+          "end": 20.72,
+          "probability": 0.12
+        },
+        {
+          "word": "ăn",
+          "start": 20.72,
+          "end": 20.86,
+          "probability": 0.71
+        },
+        {
+          "word": "toàn",
+          "start": 20.86,
+          "end": 21.28,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 21.28,
+      "end": 22.94,
+      "text": "Những yếu lần G-7,",
+      "words": [
+        {
+          "word": "Những",
+          "start": 21.28,
+          "end": 22.04,
+          "probability": 0.62
+        },
+        {
+          "word": "yếu",
+          "start": 22.04,
+          "end": 22.24,
+          "probability": 0.41
+        },
+        {
+          "word": "lần",
+          "start": 22.24,
+          "end": 22.34,
+          "probability": 0.41
+        },
+        {
+          "word": "G",
+          "start": 22.34,
+          "end": 22.56,
+          "probability": 0.22
+        },
+        {
+          "word": "-7,",
+          "start": 22.56,
+          "end": 22.94,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 23.22,
+      "end": 23.32,
+      "text": "Qua?",
+      "words": [
+        {
+          "word": "Qua?",
+          "start": 23.22,
+          "end": 23.32,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 23.32,
+      "end": 23.46,
+      "text": "Qua?",
+      "words": [
+        {
+          "word": "Qua?",
+          "start": 23.32,
+          "end": 23.46,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 24.74,
+      "end": 25.2,
+      "text": "Bây giờ em",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 24.74,
+          "end": 24.82,
+          "probability": 0.21
+        },
+        {
+          "word": "giờ",
+          "start": 24.82,
+          "end": 24.82,
+          "probability": 0.8
+        },
+        {
+          "word": "em",
+          "start": 24.82,
+          "end": 25.2,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 25.72,
+      "end": 27.1,
+      "text": "Những đồng tắt thùng thùng",
+      "words": [
+        {
+          "word": "Những",
+          "start": 25.72,
+          "end": 26.24,
+          "probability": 0.36
+        },
+        {
+          "word": "đồng",
+          "start": 26.24,
+          "end": 26.54,
+          "probability": 0.72
+        },
+        {
+          "word": "tắt",
+          "start": 26.54,
+          "end": 26.68,
+          "probability": 0.31
+        },
+        {
+          "word": "thùng",
+          "start": 26.68,
+          "end": 26.86,
+          "probability": 0.27
+        },
+        {
+          "word": "thùng",
+          "start": 26.86,
+          "end": 27.1,
+          "probability": 0.5
+        }
+      ]
+    }
+  ]
+}

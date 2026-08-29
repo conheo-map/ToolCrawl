@@ -1,0 +1,540 @@
+{
+  "item_id": "tt_7337273066042510599_02",
+  "duration_seconds": 25.11,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 79,
+  "text": "Anh có xem tí trưởng, giảm hảo, giảm hảo. Để có cháu ngon dạy. Hãy ra đi. Nhưng mà để đàn xam rồi nhưng mà để toàn tốt cụ này mà, để từ năm qua em có. Một mình phải từ cụ này được. Để được xác xác xác xác xác, để từ hoài tuần, hoài tuần. Hãy có xác xác xác xác xác xác xác xác xác xác xác xác, để được xác xác xác xác xác xác.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 5.3,
+      "text": "Anh có xem tí trưởng, giảm hảo, giảm hảo.",
+      "words": [
+        {
+          "word": "Anh",
+          "start": 0.02,
+          "end": 0.82,
+          "probability": 0.11
+        },
+        {
+          "word": "có",
+          "start": 0.82,
+          "end": 1.12,
+          "probability": 0.71
+        },
+        {
+          "word": "xem",
+          "start": 1.12,
+          "end": 1.44,
+          "probability": 0.15
+        },
+        {
+          "word": "tí",
+          "start": 1.44,
+          "end": 2.48,
+          "probability": 0.21
+        },
+        {
+          "word": "trưởng,",
+          "start": 2.48,
+          "end": 2.7,
+          "probability": 0.31
+        },
+        {
+          "word": "giảm",
+          "start": 2.86,
+          "end": 4.12,
+          "probability": 0.3
+        },
+        {
+          "word": "hảo,",
+          "start": 4.12,
+          "end": 4.48,
+          "probability": 0.37
+        },
+        {
+          "word": "giảm",
+          "start": 4.66,
+          "end": 4.92,
+          "probability": 0.9
+        },
+        {
+          "word": "hảo.",
+          "start": 4.92,
+          "end": 5.3,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.92,
+      "end": 8.5,
+      "text": "Để có cháu ngon dạy.",
+      "words": [
+        {
+          "word": "Để",
+          "start": 6.92,
+          "end": 7.42,
+          "probability": 0.16
+        },
+        {
+          "word": "có",
+          "start": 7.42,
+          "end": 7.92,
+          "probability": 0.08
+        },
+        {
+          "word": "cháu",
+          "start": 7.92,
+          "end": 8.5,
+          "probability": 0.18
+        },
+        {
+          "word": "ngon",
+          "start": 8.5,
+          "end": 8.5,
+          "probability": 0.02
+        },
+        {
+          "word": "dạy.",
+          "start": 8.5,
+          "end": 8.5,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.5,
+      "end": 9.32,
+      "text": "Hãy ra đi.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 8.5,
+          "end": 8.62,
+          "probability": 0.15
+        },
+        {
+          "word": "ra",
+          "start": 8.62,
+          "end": 8.9,
+          "probability": 0.02
+        },
+        {
+          "word": "đi.",
+          "start": 8.9,
+          "end": 9.32,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.88,
+      "end": 14.62,
+      "text": "Nhưng mà để đàn xam rồi nhưng mà để toàn tốt cụ này mà, để từ năm qua em có.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 10.88,
+          "end": 10.94,
+          "probability": 0.13
+        },
+        {
+          "word": "mà",
+          "start": 10.94,
+          "end": 11.72,
+          "probability": 0.16
+        },
+        {
+          "word": "để",
+          "start": 11.72,
+          "end": 11.8,
+          "probability": 0.16
+        },
+        {
+          "word": "đàn",
+          "start": 11.8,
+          "end": 11.94,
+          "probability": 0.1
+        },
+        {
+          "word": "xam",
+          "start": 11.94,
+          "end": 12.1,
+          "probability": 0.47
+        },
+        {
+          "word": "rồi",
+          "start": 12.1,
+          "end": 12.36,
+          "probability": 0.21
+        },
+        {
+          "word": "nhưng",
+          "start": 12.36,
+          "end": 12.52,
+          "probability": 0.08
+        },
+        {
+          "word": "mà",
+          "start": 12.52,
+          "end": 12.68,
+          "probability": 0.75
+        },
+        {
+          "word": "để",
+          "start": 12.68,
+          "end": 12.88,
+          "probability": 0.59
+        },
+        {
+          "word": "toàn",
+          "start": 12.88,
+          "end": 13.0,
+          "probability": 0.59
+        },
+        {
+          "word": "tốt",
+          "start": 13.0,
+          "end": 13.16,
+          "probability": 0.18
+        },
+        {
+          "word": "cụ",
+          "start": 13.16,
+          "end": 13.34,
+          "probability": 0.21
+        },
+        {
+          "word": "này",
+          "start": 13.34,
+          "end": 13.5,
+          "probability": 0.05
+        },
+        {
+          "word": "mà,",
+          "start": 13.5,
+          "end": 13.78,
+          "probability": 0.29
+        },
+        {
+          "word": "để",
+          "start": 13.78,
+          "end": 13.96,
+          "probability": 0.26
+        },
+        {
+          "word": "từ",
+          "start": 13.96,
+          "end": 14.08,
+          "probability": 0.73
+        },
+        {
+          "word": "năm",
+          "start": 14.08,
+          "end": 14.24,
+          "probability": 0.78
+        },
+        {
+          "word": "qua",
+          "start": 14.24,
+          "end": 14.4,
+          "probability": 0.22
+        },
+        {
+          "word": "em",
+          "start": 14.4,
+          "end": 14.62,
+          "probability": 0.22
+        },
+        {
+          "word": "có.",
+          "start": 14.62,
+          "end": 14.62,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.44,
+      "end": 17.66,
+      "text": "Một mình phải từ cụ này được.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 15.44,
+          "end": 15.7,
+          "probability": 0.24
+        },
+        {
+          "word": "mình",
+          "start": 15.7,
+          "end": 16.24,
+          "probability": 0.05
+        },
+        {
+          "word": "phải",
+          "start": 16.24,
+          "end": 16.62,
+          "probability": 0.02
+        },
+        {
+          "word": "từ",
+          "start": 16.62,
+          "end": 16.78,
+          "probability": 0.05
+        },
+        {
+          "word": "cụ",
+          "start": 16.78,
+          "end": 17.0,
+          "probability": 0.8
+        },
+        {
+          "word": "này",
+          "start": 17.0,
+          "end": 17.26,
+          "probability": 0.47
+        },
+        {
+          "word": "được.",
+          "start": 17.26,
+          "end": 17.66,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 19.02,
+      "end": 21.84,
+      "text": "Để được xác xác xác xác xác, để từ hoài tuần, hoài tuần.",
+      "words": [
+        {
+          "word": "Để",
+          "start": 19.02,
+          "end": 19.3,
+          "probability": 0.46
+        },
+        {
+          "word": "được",
+          "start": 19.3,
+          "end": 19.46,
+          "probability": 0.01
+        },
+        {
+          "word": "xác",
+          "start": 19.46,
+          "end": 19.68,
+          "probability": 0.2
+        },
+        {
+          "word": "xác",
+          "start": 19.68,
+          "end": 20.14,
+          "probability": 0.48
+        },
+        {
+          "word": "xác",
+          "start": 20.14,
+          "end": 20.14,
+          "probability": 0.63
+        },
+        {
+          "word": "xác",
+          "start": 20.14,
+          "end": 20.14,
+          "probability": 0.71
+        },
+        {
+          "word": "xác,",
+          "start": 20.14,
+          "end": 20.14,
+          "probability": 0.78
+        },
+        {
+          "word": "để",
+          "start": 20.14,
+          "end": 20.22,
+          "probability": 0.27
+        },
+        {
+          "word": "từ",
+          "start": 20.22,
+          "end": 20.76,
+          "probability": 0.14
+        },
+        {
+          "word": "hoài",
+          "start": 20.76,
+          "end": 21.06,
+          "probability": 0.11
+        },
+        {
+          "word": "tuần,",
+          "start": 21.06,
+          "end": 21.58,
+          "probability": 0.05
+        },
+        {
+          "word": "hoài",
+          "start": 21.6,
+          "end": 21.84,
+          "probability": 0.47
+        },
+        {
+          "word": "tuần.",
+          "start": 21.84,
+          "end": 21.84,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 21.86,
+      "end": 24.78,
+      "text": "Hãy có xác xác xác xác xác xác xác xác xác xác xác xác, để được xác xác xác xác xác xác.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 21.86,
+          "end": 21.86,
+          "probability": 0.22
+        },
+        {
+          "word": "có",
+          "start": 21.86,
+          "end": 21.86,
+          "probability": 0.09
+        },
+        {
+          "word": "xác",
+          "start": 21.86,
+          "end": 21.86,
+          "probability": 0.42
+        },
+        {
+          "word": "xác",
+          "start": 21.86,
+          "end": 22.2,
+          "probability": 0.93
+        },
+        {
+          "word": "xác",
+          "start": 22.2,
+          "end": 22.38,
+          "probability": 0.88
+        },
+        {
+          "word": "xác",
+          "start": 22.38,
+          "end": 23.16,
+          "probability": 0.83
+        },
+        {
+          "word": "xác",
+          "start": 23.16,
+          "end": 23.16,
+          "probability": 0.79
+        },
+        {
+          "word": "xác",
+          "start": 23.16,
+          "end": 23.34,
+          "probability": 0.82
+        },
+        {
+          "word": "xác",
+          "start": 23.34,
+          "end": 23.34,
+          "probability": 0.78
+        },
+        {
+          "word": "xác",
+          "start": 23.34,
+          "end": 23.52,
+          "probability": 0.73
+        },
+        {
+          "word": "xác",
+          "start": 23.52,
+          "end": 23.52,
+          "probability": 0.77
+        },
+        {
+          "word": "xác",
+          "start": 23.52,
+          "end": 23.7,
+          "probability": 0.76
+        },
+        {
+          "word": "xác",
+          "start": 23.7,
+          "end": 23.72,
+          "probability": 0.79
+        },
+        {
+          "word": "xác,",
+          "start": 23.72,
+          "end": 23.72,
+          "probability": 0.79
+        },
+        {
+          "word": "để",
+          "start": 23.72,
+          "end": 23.94,
+          "probability": 0.56
+        },
+        {
+          "word": "được",
+          "start": 23.94,
+          "end": 24.44,
+          "probability": 0.05
+        },
+        {
+          "word": "xác",
+          "start": 24.44,
+          "end": 24.44,
+          "probability": 0.61
+        },
+        {
+          "word": "xác",
+          "start": 24.44,
+          "end": 24.48,
+          "probability": 0.94
+        },
+        {
+          "word": "xác",
+          "start": 24.48,
+          "end": 24.78,
+          "probability": 0.9
+        },
+        {
+          "word": "xác",
+          "start": 24.78,
+          "end": 24.78,
+          "probability": 0.88
+        },
+        {
+          "word": "xác",
+          "start": 24.78,
+          "end": 24.78,
+          "probability": 0.85
+        },
+        {
+          "word": "xác.",
+          "start": 24.78,
+          "end": 24.78,
+          "probability": 0.84
+        }
+      ]
+    }
+  ]
+}

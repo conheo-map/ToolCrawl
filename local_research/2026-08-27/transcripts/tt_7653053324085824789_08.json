@@ -1,0 +1,552 @@
+{
+  "item_id": "tt_7653053324085824789_08",
+  "duration_seconds": 22.1,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 85,
+  "text": "Thưa phần Lan thực sự yêu thích phạt động hoài trời và họ dành xích hiểu trời. Và tôi nghĩ đây là một phân của cảm giác hạnh phúc và sự hài lòng, sự mắn nguyễn khi bạn hoàn bình với thình yên. Còn Lan của các mũ nước sản và bộ phân thí và lẽ là có phí tỷ dưới rất sản, chúng tôi có phải mình là phần trời yết đất nước là rân. Ở phần Lan có khí trong nha hồn nứt.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.58,
+      "end": 4.38,
+      "text": "Thưa phần Lan thực sự yêu thích phạt động hoài trời và họ dành xích hiểu trời.",
+      "words": [
+        {
+          "word": "Thưa",
+          "start": 0.58,
+          "end": 0.94,
+          "probability": 0.19
+        },
+        {
+          "word": "phần",
+          "start": 0.94,
+          "end": 1.16,
+          "probability": 0.8
+        },
+        {
+          "word": "Lan",
+          "start": 1.16,
+          "end": 1.34,
+          "probability": 0.33
+        },
+        {
+          "word": "thực",
+          "start": 1.34,
+          "end": 1.52,
+          "probability": 0.56
+        },
+        {
+          "word": "sự",
+          "start": 1.52,
+          "end": 1.68,
+          "probability": 0.99
+        },
+        {
+          "word": "yêu",
+          "start": 1.68,
+          "end": 1.9,
+          "probability": 0.82
+        },
+        {
+          "word": "thích",
+          "start": 1.9,
+          "end": 2.04,
+          "probability": 0.71
+        },
+        {
+          "word": "phạt",
+          "start": 2.04,
+          "end": 2.26,
+          "probability": 0.41
+        },
+        {
+          "word": "động",
+          "start": 2.26,
+          "end": 2.44,
+          "probability": 0.89
+        },
+        {
+          "word": "hoài",
+          "start": 2.44,
+          "end": 2.7,
+          "probability": 0.49
+        },
+        {
+          "word": "trời",
+          "start": 2.7,
+          "end": 3.0,
+          "probability": 0.79
+        },
+        {
+          "word": "và",
+          "start": 3.0,
+          "end": 3.34,
+          "probability": 0.8
+        },
+        {
+          "word": "họ",
+          "start": 3.34,
+          "end": 3.58,
+          "probability": 0.74
+        },
+        {
+          "word": "dành",
+          "start": 3.58,
+          "end": 3.74,
+          "probability": 0.39
+        },
+        {
+          "word": "xích",
+          "start": 3.74,
+          "end": 3.92,
+          "probability": 0.32
+        },
+        {
+          "word": "hiểu",
+          "start": 3.92,
+          "end": 4.1,
+          "probability": 0.28
+        },
+        {
+          "word": "trời.",
+          "start": 4.1,
+          "end": 4.38,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.68,
+      "end": 11.06,
+      "text": "Và tôi nghĩ đây là một phân của cảm giác hạnh phúc và sự hài lòng, sự mắn nguyễn khi bạn hoàn bình với thình yên.",
+      "words": [
+        {
+          "word": "Và",
+          "start": 5.68,
+          "end": 5.88,
+          "probability": 0.77
+        },
+        {
+          "word": "tôi",
+          "start": 5.88,
+          "end": 6.04,
+          "probability": 0.61
+        },
+        {
+          "word": "nghĩ",
+          "start": 6.04,
+          "end": 6.18,
+          "probability": 0.98
+        },
+        {
+          "word": "đây",
+          "start": 6.18,
+          "end": 6.36,
+          "probability": 0.83
+        },
+        {
+          "word": "là",
+          "start": 6.36,
+          "end": 6.46,
+          "probability": 0.94
+        },
+        {
+          "word": "một",
+          "start": 6.46,
+          "end": 6.62,
+          "probability": 0.92
+        },
+        {
+          "word": "phân",
+          "start": 6.62,
+          "end": 6.78,
+          "probability": 0.69
+        },
+        {
+          "word": "của",
+          "start": 6.78,
+          "end": 6.92,
+          "probability": 0.11
+        },
+        {
+          "word": "cảm",
+          "start": 6.92,
+          "end": 7.1,
+          "probability": 0.46
+        },
+        {
+          "word": "giác",
+          "start": 7.1,
+          "end": 7.22,
+          "probability": 0.64
+        },
+        {
+          "word": "hạnh",
+          "start": 7.22,
+          "end": 7.54,
+          "probability": 0.47
+        },
+        {
+          "word": "phúc",
+          "start": 7.54,
+          "end": 7.64,
+          "probability": 0.96
+        },
+        {
+          "word": "và",
+          "start": 7.64,
+          "end": 7.9,
+          "probability": 0.85
+        },
+        {
+          "word": "sự",
+          "start": 7.9,
+          "end": 8.08,
+          "probability": 0.85
+        },
+        {
+          "word": "hài",
+          "start": 8.08,
+          "end": 8.24,
+          "probability": 0.35
+        },
+        {
+          "word": "lòng,",
+          "start": 8.24,
+          "end": 8.54,
+          "probability": 0.62
+        },
+        {
+          "word": "sự",
+          "start": 8.82,
+          "end": 8.92,
+          "probability": 0.9
+        },
+        {
+          "word": "mắn",
+          "start": 8.92,
+          "end": 9.16,
+          "probability": 0.45
+        },
+        {
+          "word": "nguyễn",
+          "start": 9.16,
+          "end": 9.52,
+          "probability": 0.67
+        },
+        {
+          "word": "khi",
+          "start": 9.52,
+          "end": 9.82,
+          "probability": 0.47
+        },
+        {
+          "word": "bạn",
+          "start": 9.82,
+          "end": 10.04,
+          "probability": 0.6
+        },
+        {
+          "word": "hoàn",
+          "start": 10.04,
+          "end": 10.24,
+          "probability": 0.52
+        },
+        {
+          "word": "bình",
+          "start": 10.24,
+          "end": 10.4,
+          "probability": 0.37
+        },
+        {
+          "word": "với",
+          "start": 10.4,
+          "end": 10.54,
+          "probability": 0.33
+        },
+        {
+          "word": "thình",
+          "start": 10.54,
+          "end": 10.74,
+          "probability": 0.3
+        },
+        {
+          "word": "yên.",
+          "start": 10.74,
+          "end": 11.06,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.32,
+      "end": 19.44,
+      "text": "Còn Lan của các mũ nước sản và bộ phân thí và lẽ là có phí tỷ dưới rất sản, chúng tôi có phải mình là phần trời yết đất nước là rân.",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 12.32,
+          "end": 12.46,
+          "probability": 0.48
+        },
+        {
+          "word": "Lan",
+          "start": 12.46,
+          "end": 12.64,
+          "probability": 0.99
+        },
+        {
+          "word": "của",
+          "start": 12.64,
+          "end": 12.86,
+          "probability": 0.43
+        },
+        {
+          "word": "các",
+          "start": 12.86,
+          "end": 13.04,
+          "probability": 0.33
+        },
+        {
+          "word": "mũ",
+          "start": 13.04,
+          "end": 13.18,
+          "probability": 0.61
+        },
+        {
+          "word": "nước",
+          "start": 13.18,
+          "end": 13.36,
+          "probability": 0.24
+        },
+        {
+          "word": "sản",
+          "start": 13.36,
+          "end": 13.58,
+          "probability": 0.67
+        },
+        {
+          "word": "và",
+          "start": 13.58,
+          "end": 13.76,
+          "probability": 0.44
+        },
+        {
+          "word": "bộ",
+          "start": 13.76,
+          "end": 13.96,
+          "probability": 0.54
+        },
+        {
+          "word": "phân",
+          "start": 13.96,
+          "end": 14.14,
+          "probability": 0.2
+        },
+        {
+          "word": "thí",
+          "start": 14.14,
+          "end": 14.28,
+          "probability": 0.35
+        },
+        {
+          "word": "và",
+          "start": 14.28,
+          "end": 14.46,
+          "probability": 0.66
+        },
+        {
+          "word": "lẽ",
+          "start": 14.46,
+          "end": 14.62,
+          "probability": 0.48
+        },
+        {
+          "word": "là",
+          "start": 14.62,
+          "end": 14.78,
+          "probability": 0.7
+        },
+        {
+          "word": "có",
+          "start": 14.78,
+          "end": 14.96,
+          "probability": 0.27
+        },
+        {
+          "word": "phí",
+          "start": 14.96,
+          "end": 15.1,
+          "probability": 0.17
+        },
+        {
+          "word": "tỷ",
+          "start": 15.1,
+          "end": 15.28,
+          "probability": 0.4
+        },
+        {
+          "word": "dưới",
+          "start": 15.28,
+          "end": 15.62,
+          "probability": 0.54
+        },
+        {
+          "word": "rất",
+          "start": 15.62,
+          "end": 16.3,
+          "probability": 0.69
+        },
+        {
+          "word": "sản,",
+          "start": 16.3,
+          "end": 16.66,
+          "probability": 0.62
+        },
+        {
+          "word": "chúng",
+          "start": 17.0,
+          "end": 17.16,
+          "probability": 0.73
+        },
+        {
+          "word": "tôi",
+          "start": 17.16,
+          "end": 17.4,
+          "probability": 0.93
+        },
+        {
+          "word": "có",
+          "start": 17.4,
+          "end": 17.58,
+          "probability": 0.69
+        },
+        {
+          "word": "phải",
+          "start": 17.58,
+          "end": 17.76,
+          "probability": 0.22
+        },
+        {
+          "word": "mình",
+          "start": 17.76,
+          "end": 17.96,
+          "probability": 0.07
+        },
+        {
+          "word": "là",
+          "start": 17.96,
+          "end": 18.02,
+          "probability": 0.78
+        },
+        {
+          "word": "phần",
+          "start": 18.02,
+          "end": 18.2,
+          "probability": 0.51
+        },
+        {
+          "word": "trời",
+          "start": 18.2,
+          "end": 18.36,
+          "probability": 0.47
+        },
+        {
+          "word": "yết",
+          "start": 18.36,
+          "end": 18.54,
+          "probability": 0.22
+        },
+        {
+          "word": "đất",
+          "start": 18.54,
+          "end": 18.78,
+          "probability": 0.57
+        },
+        {
+          "word": "nước",
+          "start": 18.78,
+          "end": 18.96,
+          "probability": 0.93
+        },
+        {
+          "word": "là",
+          "start": 18.96,
+          "end": 19.12,
+          "probability": 0.5
+        },
+        {
+          "word": "rân.",
+          "start": 19.12,
+          "end": 19.44,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 19.98,
+      "end": 21.94,
+      "text": "Ở phần Lan có khí trong nha hồn nứt.",
+      "words": [
+        {
+          "word": "Ở",
+          "start": 19.98,
+          "end": 20.08,
+          "probability": 0.54
+        },
+        {
+          "word": "phần",
+          "start": 20.08,
+          "end": 20.22,
+          "probability": 0.99
+        },
+        {
+          "word": "Lan",
+          "start": 20.22,
+          "end": 20.48,
+          "probability": 1.0
+        },
+        {
+          "word": "có",
+          "start": 20.48,
+          "end": 20.88,
+          "probability": 0.61
+        },
+        {
+          "word": "khí",
+          "start": 20.88,
+          "end": 21.14,
+          "probability": 0.34
+        },
+        {
+          "word": "trong",
+          "start": 21.14,
+          "end": 21.3,
+          "probability": 0.6
+        },
+        {
+          "word": "nha",
+          "start": 21.3,
+          "end": 21.48,
+          "probability": 0.4
+        },
+        {
+          "word": "hồn",
+          "start": 21.48,
+          "end": 21.82,
+          "probability": 0.65
+        },
+        {
+          "word": "nứt.",
+          "start": 21.82,
+          "end": 21.94,
+          "probability": 0.35
+        }
+      ]
+    }
+  ]
+}

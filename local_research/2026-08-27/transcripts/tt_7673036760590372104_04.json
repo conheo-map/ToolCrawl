@@ -1,0 +1,160 @@
+{
+  "item_id": "tt_7673036760590372104_04",
+  "duration_seconds": 8.28,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 21,
+  "text": "Thugg dưới con chạc tiền lưới dưới xố mời tuonge điện dưới con nhao sơm bôi Nào rô, vá, sop alu",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.38,
+      "text": "Thugg dưới con chạc tiền lưới dưới xố mời tuonge điện",
+      "words": [
+        {
+          "word": "Thugg",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.31
+        },
+        {
+          "word": "dưới",
+          "start": 0.36,
+          "end": 0.52,
+          "probability": 0.45
+        },
+        {
+          "word": "con",
+          "start": 0.52,
+          "end": 0.68,
+          "probability": 0.69
+        },
+        {
+          "word": "chạc",
+          "start": 0.68,
+          "end": 1.18,
+          "probability": 0.45
+        },
+        {
+          "word": "tiền",
+          "start": 1.18,
+          "end": 1.36,
+          "probability": 0.21
+        },
+        {
+          "word": "lưới",
+          "start": 1.36,
+          "end": 1.56,
+          "probability": 0.36
+        },
+        {
+          "word": "dưới",
+          "start": 1.56,
+          "end": 2.0,
+          "probability": 0.82
+        },
+        {
+          "word": "xố",
+          "start": 2.0,
+          "end": 2.46,
+          "probability": 0.05
+        },
+        {
+          "word": "mời",
+          "start": 2.46,
+          "end": 2.72,
+          "probability": 0.05
+        },
+        {
+          "word": "tuonge",
+          "start": 2.72,
+          "end": 2.94,
+          "probability": 0.03
+        },
+        {
+          "word": "điện",
+          "start": 2.94,
+          "end": 3.38,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.38,
+      "end": 4.72,
+      "text": "dưới con nhao sơm bôi",
+      "words": [
+        {
+          "word": "dưới",
+          "start": 3.38,
+          "end": 3.68,
+          "probability": 0.71
+        },
+        {
+          "word": "con",
+          "start": 3.68,
+          "end": 3.88,
+          "probability": 0.15
+        },
+        {
+          "word": "nhao",
+          "start": 3.88,
+          "end": 4.16,
+          "probability": 0.27
+        },
+        {
+          "word": "sơm",
+          "start": 4.16,
+          "end": 4.5,
+          "probability": 0.27
+        },
+        {
+          "word": "bôi",
+          "start": 4.5,
+          "end": 4.72,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.72,
+      "end": 6.6,
+      "text": "Nào rô, vá, sop alu",
+      "words": [
+        {
+          "word": "Nào",
+          "start": 4.72,
+          "end": 5.2,
+          "probability": 0.28
+        },
+        {
+          "word": "rô,",
+          "start": 5.2,
+          "end": 5.58,
+          "probability": 0.45
+        },
+        {
+          "word": "vá,",
+          "start": 5.76,
+          "end": 6.0,
+          "probability": 0.18
+        },
+        {
+          "word": "sop",
+          "start": 6.14,
+          "end": 6.18,
+          "probability": 0.31
+        },
+        {
+          "word": "alu",
+          "start": 6.18,
+          "end": 6.6,
+          "probability": 0.31
+        }
+      ]
+    }
+  ]
+}

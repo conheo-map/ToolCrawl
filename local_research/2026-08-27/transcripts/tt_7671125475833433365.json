@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7671125475833433365",
+  "duration_seconds": 4.63,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Good luck!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.34,
+      "text": "Good luck!",
+      "words": [
+        {
+          "word": "Good",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.02
+        },
+        {
+          "word": "luck!",
+          "start": 0.12,
+          "end": 0.34,
+          "probability": 0.48
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "item_id": "tt_7240443477660568838_06",
+  "duration_seconds": 17.83,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "Hier, các thương t:) Cảm ơn C consider đóng C teaspoons đi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 10.14,
+      "text": "Hier, các thương t:)",
+      "words": [
+        {
+          "word": "Hier,",
+          "start": 0.0,
+          "end": 0.72,
+          "probability": 0.0
+        },
+        {
+          "word": "các",
+          "start": 1.28,
+          "end": 5.18,
+          "probability": 0.04
+        },
+        {
+          "word": "thương",
+          "start": 5.18,
+          "end": 5.18,
+          "probability": 0.02
+        },
+        {
+          "word": "t:)",
+          "start": 5.18,
+          "end": 10.14,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 10.14,
+      "end": 12.42,
+      "text": "Cảm ơn",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 10.14,
+          "end": 11.6,
+          "probability": 0.35
+        },
+        {
+          "word": "ơn",
+          "start": 11.6,
+          "end": 12.42,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.42,
+      "end": 14.7,
+      "text": "C consider đóng",
+      "words": [
+        {
+          "word": "C",
+          "start": 12.42,
+          "end": 13.12,
+          "probability": 0.01
+        },
+        {
+          "word": "consider",
+          "start": 13.12,
+          "end": 13.12,
+          "probability": 0.0
+        },
+        {
+          "word": "đóng",
+          "start": 13.12,
+          "end": 14.7,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.7,
+      "end": 17.8,
+      "text": "C teaspoons đi",
+      "words": [
+        {
+          "word": "C",
+          "start": 14.7,
+          "end": 15.46,
+          "probability": 0.0
+        },
+        {
+          "word": "teaspoons",
+          "start": 15.46,
+          "end": 15.54,
+          "probability": 0.0
+        },
+        {
+          "word": "đi",
+          "start": 15.54,
+          "end": 17.8,
+          "probability": 0.01
+        }
+      ]
+    }
+  ]
+}

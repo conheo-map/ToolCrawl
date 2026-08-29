@@ -1,0 +1,734 @@
+{
+  "item_id": "tt_7621875602332585232_03",
+  "duration_seconds": 27.4,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 106,
+  "text": "OK, bởi vì mình sẽ là phía nó sẽ làm sao? Lớm chuyện với đây. Phần đi một đi gát. Vì dụt, tại thời điểm mùi bún phút. Thì tại thời điểm mà, cái mùi quanh gọi chúng ta đã chỗ lất cái người ta này to bộ lức dân trong trọc. Tất cả mùi quanh hiện, giữa, chiều cao khác, theo tế, và game cần về tế mùi bún. Game về tế mùi bún, game về tế mùi bún. Văn đi, mặt tế mặt tế mùi bún thì game mấu chút nó gì. Nào chúng ta về tế mùi bún, môi cười dạ và tế.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.24,
+      "text": "OK, bởi vì mình sẽ là phía nó sẽ làm sao?",
+      "words": [
+        {
+          "word": "OK,",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.18
+        },
+        {
+          "word": "bởi",
+          "start": 0.74,
+          "end": 0.86,
+          "probability": 0.48
+        },
+        {
+          "word": "vì",
+          "start": 0.86,
+          "end": 0.96,
+          "probability": 0.27
+        },
+        {
+          "word": "mình",
+          "start": 0.96,
+          "end": 1.16,
+          "probability": 0.92
+        },
+        {
+          "word": "sẽ",
+          "start": 1.16,
+          "end": 1.32,
+          "probability": 0.95
+        },
+        {
+          "word": "là",
+          "start": 1.32,
+          "end": 1.46,
+          "probability": 0.43
+        },
+        {
+          "word": "phía",
+          "start": 1.46,
+          "end": 1.54,
+          "probability": 0.38
+        },
+        {
+          "word": "nó",
+          "start": 1.54,
+          "end": 1.7,
+          "probability": 0.91
+        },
+        {
+          "word": "sẽ",
+          "start": 1.7,
+          "end": 1.84,
+          "probability": 0.21
+        },
+        {
+          "word": "làm",
+          "start": 1.84,
+          "end": 1.96,
+          "probability": 0.38
+        },
+        {
+          "word": "sao?",
+          "start": 1.96,
+          "end": 2.24,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.42,
+      "end": 3.42,
+      "text": "Lớm chuyện với đây.",
+      "words": [
+        {
+          "word": "Lớm",
+          "start": 2.42,
+          "end": 2.52,
+          "probability": 0.49
+        },
+        {
+          "word": "chuyện",
+          "start": 2.52,
+          "end": 2.6,
+          "probability": 0.32
+        },
+        {
+          "word": "với",
+          "start": 2.6,
+          "end": 2.7,
+          "probability": 0.21
+        },
+        {
+          "word": "đây.",
+          "start": 2.7,
+          "end": 3.42,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.7,
+      "end": 4.64,
+      "text": "Phần đi một đi gát.",
+      "words": [
+        {
+          "word": "Phần",
+          "start": 3.7,
+          "end": 3.74,
+          "probability": 0.16
+        },
+        {
+          "word": "đi",
+          "start": 3.74,
+          "end": 3.82,
+          "probability": 0.14
+        },
+        {
+          "word": "một",
+          "start": 3.82,
+          "end": 3.9,
+          "probability": 0.19
+        },
+        {
+          "word": "đi",
+          "start": 3.9,
+          "end": 4.0,
+          "probability": 0.26
+        },
+        {
+          "word": "gát.",
+          "start": 4.0,
+          "end": 4.64,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.94,
+      "end": 6.66,
+      "text": "Vì dụt, tại thời điểm mùi bún phút.",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 4.94,
+          "end": 4.98,
+          "probability": 0.28
+        },
+        {
+          "word": "dụt,",
+          "start": 4.98,
+          "end": 5.56,
+          "probability": 0.44
+        },
+        {
+          "word": "tại",
+          "start": 5.7,
+          "end": 5.74,
+          "probability": 0.38
+        },
+        {
+          "word": "thời",
+          "start": 5.74,
+          "end": 5.92,
+          "probability": 0.51
+        },
+        {
+          "word": "điểm",
+          "start": 5.92,
+          "end": 6.06,
+          "probability": 0.89
+        },
+        {
+          "word": "mùi",
+          "start": 6.06,
+          "end": 6.24,
+          "probability": 0.28
+        },
+        {
+          "word": "bún",
+          "start": 6.24,
+          "end": 6.38,
+          "probability": 0.12
+        },
+        {
+          "word": "phút.",
+          "start": 6.38,
+          "end": 6.66,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.94,
+      "end": 8.06,
+      "text": "Thì tại thời điểm mà,",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 6.94,
+          "end": 6.94,
+          "probability": 0.72
+        },
+        {
+          "word": "tại",
+          "start": 6.94,
+          "end": 7.08,
+          "probability": 0.82
+        },
+        {
+          "word": "thời",
+          "start": 7.08,
+          "end": 7.18,
+          "probability": 0.99
+        },
+        {
+          "word": "điểm",
+          "start": 7.18,
+          "end": 7.32,
+          "probability": 0.98
+        },
+        {
+          "word": "mà,",
+          "start": 7.32,
+          "end": 8.06,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.14,
+      "end": 11.36,
+      "text": "cái mùi quanh gọi chúng ta đã chỗ lất cái người ta này to bộ lức dân trong trọc.",
+      "words": [
+        {
+          "word": "cái",
+          "start": 8.14,
+          "end": 8.16,
+          "probability": 0.31
+        },
+        {
+          "word": "mùi",
+          "start": 8.16,
+          "end": 8.28,
+          "probability": 0.74
+        },
+        {
+          "word": "quanh",
+          "start": 8.28,
+          "end": 8.56,
+          "probability": 0.31
+        },
+        {
+          "word": "gọi",
+          "start": 8.56,
+          "end": 8.88,
+          "probability": 0.25
+        },
+        {
+          "word": "chúng",
+          "start": 8.88,
+          "end": 9.06,
+          "probability": 0.49
+        },
+        {
+          "word": "ta",
+          "start": 9.06,
+          "end": 9.12,
+          "probability": 0.98
+        },
+        {
+          "word": "đã",
+          "start": 9.12,
+          "end": 9.3,
+          "probability": 0.37
+        },
+        {
+          "word": "chỗ",
+          "start": 9.3,
+          "end": 9.3,
+          "probability": 0.52
+        },
+        {
+          "word": "lất",
+          "start": 9.3,
+          "end": 9.38,
+          "probability": 0.28
+        },
+        {
+          "word": "cái",
+          "start": 9.38,
+          "end": 9.48,
+          "probability": 0.12
+        },
+        {
+          "word": "người",
+          "start": 9.48,
+          "end": 9.6,
+          "probability": 0.24
+        },
+        {
+          "word": "ta",
+          "start": 9.6,
+          "end": 9.68,
+          "probability": 0.14
+        },
+        {
+          "word": "này",
+          "start": 9.68,
+          "end": 9.8,
+          "probability": 0.29
+        },
+        {
+          "word": "to",
+          "start": 9.8,
+          "end": 10.04,
+          "probability": 0.39
+        },
+        {
+          "word": "bộ",
+          "start": 10.04,
+          "end": 10.04,
+          "probability": 0.41
+        },
+        {
+          "word": "lức",
+          "start": 10.04,
+          "end": 10.28,
+          "probability": 0.55
+        },
+        {
+          "word": "dân",
+          "start": 10.28,
+          "end": 10.52,
+          "probability": 0.62
+        },
+        {
+          "word": "trong",
+          "start": 10.52,
+          "end": 10.72,
+          "probability": 0.95
+        },
+        {
+          "word": "trọc.",
+          "start": 10.72,
+          "end": 11.36,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 11.64,
+      "end": 13.9,
+      "text": "Tất cả mùi quanh hiện, giữa, chiều cao khác,",
+      "words": [
+        {
+          "word": "Tất",
+          "start": 11.64,
+          "end": 11.74,
+          "probability": 0.63
+        },
+        {
+          "word": "cả",
+          "start": 11.74,
+          "end": 11.78,
+          "probability": 0.47
+        },
+        {
+          "word": "mùi",
+          "start": 11.78,
+          "end": 11.92,
+          "probability": 0.92
+        },
+        {
+          "word": "quanh",
+          "start": 11.92,
+          "end": 12.08,
+          "probability": 0.97
+        },
+        {
+          "word": "hiện,",
+          "start": 12.08,
+          "end": 12.22,
+          "probability": 0.3
+        },
+        {
+          "word": "giữa,",
+          "start": 12.42,
+          "end": 12.48,
+          "probability": 0.46
+        },
+        {
+          "word": "chiều",
+          "start": 12.7,
+          "end": 12.92,
+          "probability": 0.67
+        },
+        {
+          "word": "cao",
+          "start": 12.92,
+          "end": 13.2,
+          "probability": 0.81
+        },
+        {
+          "word": "khác,",
+          "start": 13.2,
+          "end": 13.9,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 14.38,
+      "end": 16.82,
+      "text": "theo tế, và game cần về tế mùi bún.",
+      "words": [
+        {
+          "word": "theo",
+          "start": 14.38,
+          "end": 14.38,
+          "probability": 0.95
+        },
+        {
+          "word": "tế,",
+          "start": 14.38,
+          "end": 15.22,
+          "probability": 0.42
+        },
+        {
+          "word": "và",
+          "start": 15.5,
+          "end": 15.56,
+          "probability": 0.55
+        },
+        {
+          "word": "game",
+          "start": 15.56,
+          "end": 15.74,
+          "probability": 0.39
+        },
+        {
+          "word": "cần",
+          "start": 15.74,
+          "end": 15.96,
+          "probability": 0.48
+        },
+        {
+          "word": "về",
+          "start": 15.96,
+          "end": 16.1,
+          "probability": 0.7
+        },
+        {
+          "word": "tế",
+          "start": 16.1,
+          "end": 16.2,
+          "probability": 0.18
+        },
+        {
+          "word": "mùi",
+          "start": 16.2,
+          "end": 16.4,
+          "probability": 0.44
+        },
+        {
+          "word": "bún.",
+          "start": 16.4,
+          "end": 16.82,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 19.64,
+      "end": 21.54,
+      "text": "Game về tế mùi bún, game về tế mùi bún.",
+      "words": [
+        {
+          "word": "Game",
+          "start": 19.64,
+          "end": 19.96,
+          "probability": 0.4
+        },
+        {
+          "word": "về",
+          "start": 19.96,
+          "end": 20.12,
+          "probability": 0.95
+        },
+        {
+          "word": "tế",
+          "start": 20.12,
+          "end": 20.26,
+          "probability": 0.65
+        },
+        {
+          "word": "mùi",
+          "start": 20.26,
+          "end": 20.4,
+          "probability": 0.89
+        },
+        {
+          "word": "bún,",
+          "start": 20.4,
+          "end": 20.46,
+          "probability": 0.59
+        },
+        {
+          "word": "game",
+          "start": 20.46,
+          "end": 20.58,
+          "probability": 0.95
+        },
+        {
+          "word": "về",
+          "start": 20.58,
+          "end": 20.72,
+          "probability": 0.75
+        },
+        {
+          "word": "tế",
+          "start": 20.72,
+          "end": 20.78,
+          "probability": 0.96
+        },
+        {
+          "word": "mùi",
+          "start": 20.78,
+          "end": 21.42,
+          "probability": 0.91
+        },
+        {
+          "word": "bún.",
+          "start": 21.42,
+          "end": 21.54,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 22.18,
+      "end": 25.44,
+      "text": "Văn đi, mặt tế mặt tế mùi bún thì game mấu chút nó gì.",
+      "words": [
+        {
+          "word": "Văn",
+          "start": 22.18,
+          "end": 22.5,
+          "probability": 0.34
+        },
+        {
+          "word": "đi,",
+          "start": 22.5,
+          "end": 22.58,
+          "probability": 0.43
+        },
+        {
+          "word": "mặt",
+          "start": 22.7,
+          "end": 22.9,
+          "probability": 0.53
+        },
+        {
+          "word": "tế",
+          "start": 22.9,
+          "end": 23.06,
+          "probability": 0.65
+        },
+        {
+          "word": "mặt",
+          "start": 23.06,
+          "end": 23.26,
+          "probability": 0.75
+        },
+        {
+          "word": "tế",
+          "start": 23.26,
+          "end": 23.5,
+          "probability": 0.82
+        },
+        {
+          "word": "mùi",
+          "start": 23.5,
+          "end": 24.02,
+          "probability": 0.74
+        },
+        {
+          "word": "bún",
+          "start": 24.02,
+          "end": 24.18,
+          "probability": 0.99
+        },
+        {
+          "word": "thì",
+          "start": 24.18,
+          "end": 24.5,
+          "probability": 0.3
+        },
+        {
+          "word": "game",
+          "start": 24.5,
+          "end": 24.66,
+          "probability": 0.86
+        },
+        {
+          "word": "mấu",
+          "start": 24.66,
+          "end": 24.84,
+          "probability": 0.34
+        },
+        {
+          "word": "chút",
+          "start": 24.84,
+          "end": 25.02,
+          "probability": 0.62
+        },
+        {
+          "word": "nó",
+          "start": 25.02,
+          "end": 25.2,
+          "probability": 0.24
+        },
+        {
+          "word": "gì.",
+          "start": 25.2,
+          "end": 25.44,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 25.92,
+      "end": 27.2,
+      "text": "Nào chúng ta về tế mùi bún, môi cười dạ và tế.",
+      "words": [
+        {
+          "word": "Nào",
+          "start": 25.92,
+          "end": 26.0,
+          "probability": 0.31
+        },
+        {
+          "word": "chúng",
+          "start": 26.0,
+          "end": 26.12,
+          "probability": 0.22
+        },
+        {
+          "word": "ta",
+          "start": 26.12,
+          "end": 26.2,
+          "probability": 0.99
+        },
+        {
+          "word": "về",
+          "start": 26.2,
+          "end": 26.34,
+          "probability": 0.82
+        },
+        {
+          "word": "tế",
+          "start": 26.34,
+          "end": 26.4,
+          "probability": 0.96
+        },
+        {
+          "word": "mùi",
+          "start": 26.4,
+          "end": 26.52,
+          "probability": 0.92
+        },
+        {
+          "word": "bún,",
+          "start": 26.52,
+          "end": 26.52,
+          "probability": 0.78
+        },
+        {
+          "word": "môi",
+          "start": 26.52,
+          "end": 26.66,
+          "probability": 0.25
+        },
+        {
+          "word": "cười",
+          "start": 26.66,
+          "end": 26.74,
+          "probability": 0.14
+        },
+        {
+          "word": "dạ",
+          "start": 26.74,
+          "end": 26.92,
+          "probability": 0.22
+        },
+        {
+          "word": "và",
+          "start": 26.92,
+          "end": 27.06,
+          "probability": 0.38
+        },
+        {
+          "word": "tế.",
+          "start": 27.06,
+          "end": 27.2,
+          "probability": 0.92
+        }
+      ]
+    }
+  ]
+}

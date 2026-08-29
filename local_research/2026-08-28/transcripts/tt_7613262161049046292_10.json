@@ -1,0 +1,568 @@
+{
+  "item_id": "tt_7613262161049046292_10",
+  "duration_seconds": 25.78,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 73,
+  "text": "Nó mừng hôm nay, bây giờ, rồi, cái em đi đi khóc, em đi đi khóc. Đôi, chính phải năm bây, chính này năm bây, bún, rồi, bây thì chịu cao của mực nước còn nạn, các bạn chưa bây giờ sẽ mẹ sôn ở trên bây giờ, em cũng tìm hai sản mẹ nữa. Mới một phẩy, năm bây bún. Bây giờ, gái này, sức gì emới một phay sau. Sao khí.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.68,
+      "text": "Nó mừng hôm nay,",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.26
+        },
+        {
+          "word": "mừng",
+          "start": 0.34,
+          "end": 0.48,
+          "probability": 0.18
+        },
+        {
+          "word": "hôm",
+          "start": 0.48,
+          "end": 0.68,
+          "probability": 0.13
+        },
+        {
+          "word": "nay,",
+          "start": 0.68,
+          "end": 0.68,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.3,
+      "end": 3.66,
+      "text": "bây giờ,",
+      "words": [
+        {
+          "word": "bây",
+          "start": 3.3,
+          "end": 3.66,
+          "probability": 0.22
+        },
+        {
+          "word": "giờ,",
+          "start": 3.66,
+          "end": 3.66,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.66,
+      "end": 7.24,
+      "text": "rồi, cái em đi đi khóc, em đi đi khóc.",
+      "words": [
+        {
+          "word": "rồi,",
+          "start": 3.66,
+          "end": 4.0,
+          "probability": 0.01
+        },
+        {
+          "word": "cái",
+          "start": 4.1,
+          "end": 4.1,
+          "probability": 0.01
+        },
+        {
+          "word": "em",
+          "start": 4.1,
+          "end": 4.26,
+          "probability": 0.06
+        },
+        {
+          "word": "đi",
+          "start": 4.26,
+          "end": 4.3,
+          "probability": 0.15
+        },
+        {
+          "word": "đi",
+          "start": 4.3,
+          "end": 4.48,
+          "probability": 0.13
+        },
+        {
+          "word": "khóc,",
+          "start": 4.48,
+          "end": 4.7,
+          "probability": 0.24
+        },
+        {
+          "word": "em",
+          "start": 5.76,
+          "end": 5.94,
+          "probability": 0.25
+        },
+        {
+          "word": "đi",
+          "start": 5.94,
+          "end": 6.48,
+          "probability": 0.89
+        },
+        {
+          "word": "đi",
+          "start": 6.48,
+          "end": 6.64,
+          "probability": 0.92
+        },
+        {
+          "word": "khóc.",
+          "start": 6.64,
+          "end": 7.24,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.4,
+      "end": 8.76,
+      "text": "Đôi,",
+      "words": [
+        {
+          "word": "Đôi,",
+          "start": 8.4,
+          "end": 8.76,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.4,
+      "end": 10.5,
+      "text": "chính phải năm bây,",
+      "words": [
+        {
+          "word": "chính",
+          "start": 9.4,
+          "end": 9.56,
+          "probability": 0.54
+        },
+        {
+          "word": "phải",
+          "start": 9.56,
+          "end": 9.72,
+          "probability": 0.46
+        },
+        {
+          "word": "năm",
+          "start": 9.72,
+          "end": 10.0,
+          "probability": 0.31
+        },
+        {
+          "word": "bây,",
+          "start": 10.0,
+          "end": 10.5,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.96,
+      "end": 11.8,
+      "text": "chính này năm bây,",
+      "words": [
+        {
+          "word": "chính",
+          "start": 10.96,
+          "end": 11.1,
+          "probability": 0.76
+        },
+        {
+          "word": "này",
+          "start": 11.1,
+          "end": 11.16,
+          "probability": 0.14
+        },
+        {
+          "word": "năm",
+          "start": 11.16,
+          "end": 11.32,
+          "probability": 0.86
+        },
+        {
+          "word": "bây,",
+          "start": 11.32,
+          "end": 11.8,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.5,
+      "end": 12.86,
+      "text": "bún,",
+      "words": [
+        {
+          "word": "bún,",
+          "start": 12.5,
+          "end": 12.86,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.34,
+      "end": 13.54,
+      "text": "rồi,",
+      "words": [
+        {
+          "word": "rồi,",
+          "start": 13.34,
+          "end": 13.54,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 13.74,
+      "end": 15.94,
+      "text": "bây thì chịu cao của mực nước còn nạn,",
+      "words": [
+        {
+          "word": "bây",
+          "start": 13.74,
+          "end": 13.96,
+          "probability": 0.65
+        },
+        {
+          "word": "thì",
+          "start": 13.96,
+          "end": 14.18,
+          "probability": 0.44
+        },
+        {
+          "word": "chịu",
+          "start": 14.18,
+          "end": 14.48,
+          "probability": 0.57
+        },
+        {
+          "word": "cao",
+          "start": 14.48,
+          "end": 14.88,
+          "probability": 0.72
+        },
+        {
+          "word": "của",
+          "start": 14.88,
+          "end": 15.1,
+          "probability": 0.87
+        },
+        {
+          "word": "mực",
+          "start": 15.1,
+          "end": 15.4,
+          "probability": 0.44
+        },
+        {
+          "word": "nước",
+          "start": 15.4,
+          "end": 15.58,
+          "probability": 0.63
+        },
+        {
+          "word": "còn",
+          "start": 15.58,
+          "end": 15.8,
+          "probability": 0.65
+        },
+        {
+          "word": "nạn,",
+          "start": 15.8,
+          "end": 15.94,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 16.04,
+      "end": 17.4,
+      "text": "các bạn chưa bây giờ sẽ mẹ sôn ở trên bây giờ,",
+      "words": [
+        {
+          "word": "các",
+          "start": 16.04,
+          "end": 16.12,
+          "probability": 0.45
+        },
+        {
+          "word": "bạn",
+          "start": 16.12,
+          "end": 16.26,
+          "probability": 0.95
+        },
+        {
+          "word": "chưa",
+          "start": 16.26,
+          "end": 16.36,
+          "probability": 0.05
+        },
+        {
+          "word": "bây",
+          "start": 16.36,
+          "end": 16.48,
+          "probability": 0.51
+        },
+        {
+          "word": "giờ",
+          "start": 16.48,
+          "end": 16.48,
+          "probability": 0.94
+        },
+        {
+          "word": "sẽ",
+          "start": 16.48,
+          "end": 16.68,
+          "probability": 0.81
+        },
+        {
+          "word": "mẹ",
+          "start": 16.68,
+          "end": 16.82,
+          "probability": 0.7
+        },
+        {
+          "word": "sôn",
+          "start": 16.82,
+          "end": 16.94,
+          "probability": 0.22
+        },
+        {
+          "word": "ở",
+          "start": 16.94,
+          "end": 17.04,
+          "probability": 0.11
+        },
+        {
+          "word": "trên",
+          "start": 17.04,
+          "end": 17.24,
+          "probability": 0.5
+        },
+        {
+          "word": "bây",
+          "start": 17.24,
+          "end": 17.38,
+          "probability": 0.78
+        },
+        {
+          "word": "giờ,",
+          "start": 17.38,
+          "end": 17.4,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 17.54,
+      "end": 18.82,
+      "text": "em cũng tìm hai sản mẹ nữa.",
+      "words": [
+        {
+          "word": "em",
+          "start": 17.54,
+          "end": 17.54,
+          "probability": 0.16
+        },
+        {
+          "word": "cũng",
+          "start": 17.54,
+          "end": 17.62,
+          "probability": 0.42
+        },
+        {
+          "word": "tìm",
+          "start": 17.62,
+          "end": 17.76,
+          "probability": 0.52
+        },
+        {
+          "word": "hai",
+          "start": 17.76,
+          "end": 17.88,
+          "probability": 0.52
+        },
+        {
+          "word": "sản",
+          "start": 17.88,
+          "end": 18.02,
+          "probability": 0.2
+        },
+        {
+          "word": "mẹ",
+          "start": 18.02,
+          "end": 18.12,
+          "probability": 0.27
+        },
+        {
+          "word": "nữa.",
+          "start": 18.12,
+          "end": 18.82,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 19.06,
+      "end": 19.66,
+      "text": "Mới một phẩy,",
+      "words": [
+        {
+          "word": "Mới",
+          "start": 19.06,
+          "end": 19.16,
+          "probability": 0.45
+        },
+        {
+          "word": "một",
+          "start": 19.16,
+          "end": 19.36,
+          "probability": 0.62
+        },
+        {
+          "word": "phẩy,",
+          "start": 19.36,
+          "end": 19.66,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 20.44,
+      "end": 21.04,
+      "text": "năm bây bún.",
+      "words": [
+        {
+          "word": "năm",
+          "start": 20.44,
+          "end": 20.54,
+          "probability": 0.99
+        },
+        {
+          "word": "bây",
+          "start": 20.54,
+          "end": 20.64,
+          "probability": 0.81
+        },
+        {
+          "word": "bún.",
+          "start": 20.64,
+          "end": 21.04,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 21.76,
+      "end": 22.86,
+      "text": "Bây giờ, gái này, sức gì emới một phay sau.",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 21.76,
+          "end": 21.78,
+          "probability": 0.21
+        },
+        {
+          "word": "giờ,",
+          "start": 21.78,
+          "end": 21.78,
+          "probability": 0.52
+        },
+        {
+          "word": "gái",
+          "start": 21.9,
+          "end": 21.9,
+          "probability": 0.12
+        },
+        {
+          "word": "này,",
+          "start": 21.9,
+          "end": 21.98,
+          "probability": 0.91
+        },
+        {
+          "word": "sức",
+          "start": 22.06,
+          "end": 22.12,
+          "probability": 0.39
+        },
+        {
+          "word": "gì",
+          "start": 22.12,
+          "end": 22.22,
+          "probability": 0.54
+        },
+        {
+          "word": "emới",
+          "start": 22.22,
+          "end": 22.38,
+          "probability": 0.2
+        },
+        {
+          "word": "một",
+          "start": 22.38,
+          "end": 22.5,
+          "probability": 0.98
+        },
+        {
+          "word": "phay",
+          "start": 22.5,
+          "end": 22.62,
+          "probability": 0.67
+        },
+        {
+          "word": "sau.",
+          "start": 22.62,
+          "end": 22.86,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 25.12,
+      "end": 25.44,
+      "text": "Sao khí.",
+      "words": [
+        {
+          "word": "Sao",
+          "start": 25.12,
+          "end": 25.32,
+          "probability": 0.6
+        },
+        {
+          "word": "khí.",
+          "start": 25.32,
+          "end": 25.44,
+          "probability": 0.26
+        }
+      ]
+    }
+  ]
+}

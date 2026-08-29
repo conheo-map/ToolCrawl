@@ -1,0 +1,106 @@
+{
+  "item_id": "tt_7658916293654940936",
+  "duration_seconds": 20.4,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "1 1 2 bà cầu đi 1 1 2 bà cầu đi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.88,
+      "end": 1.96,
+      "text": "1 1",
+      "words": [
+        {
+          "word": "1",
+          "start": 0.88,
+          "end": 1.62,
+          "probability": 0.08
+        },
+        {
+          "word": "1",
+          "start": 1.62,
+          "end": 1.96,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 10.98,
+      "end": 12.6,
+      "text": "2 bà cầu đi",
+      "words": [
+        {
+          "word": "2",
+          "start": 10.98,
+          "end": 11.14,
+          "probability": 0.38
+        },
+        {
+          "word": "bà",
+          "start": 11.14,
+          "end": 11.46,
+          "probability": 0.05
+        },
+        {
+          "word": "cầu",
+          "start": 11.46,
+          "end": 12.04,
+          "probability": 0.19
+        },
+        {
+          "word": "đi",
+          "start": 12.04,
+          "end": 12.6,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 14.75,
+      "end": 15.79,
+      "text": "1 1 2 bà cầu đi",
+      "words": [
+        {
+          "word": "1",
+          "start": 14.75,
+          "end": 15.15,
+          "probability": 0.44
+        },
+        {
+          "word": "1",
+          "start": 15.15,
+          "end": 15.23,
+          "probability": 0.12
+        },
+        {
+          "word": "2",
+          "start": 15.23,
+          "end": 15.37,
+          "probability": 0.31
+        },
+        {
+          "word": "bà",
+          "start": 15.37,
+          "end": 15.37,
+          "probability": 0.74
+        },
+        {
+          "word": "cầu",
+          "start": 15.37,
+          "end": 15.79,
+          "probability": 0.69
+        },
+        {
+          "word": "đi",
+          "start": 15.79,
+          "end": 15.79,
+          "probability": 0.96
+        }
+      ]
+    }
+  ]
+}

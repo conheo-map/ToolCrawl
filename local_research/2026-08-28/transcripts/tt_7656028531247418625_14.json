@@ -1,0 +1,60 @@
+{
+  "item_id": "tt_7656028531247418625_14",
+  "duration_seconds": 13.24,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 7,
+  "text": "Cái này có thể sẽ bị đăng.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.1,
+      "end": 2.1,
+      "text": "Cái này có thể sẽ bị đăng.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 1.1,
+          "end": 1.42,
+          "probability": 0.36
+        },
+        {
+          "word": "này",
+          "start": 1.42,
+          "end": 1.54,
+          "probability": 0.19
+        },
+        {
+          "word": "có",
+          "start": 1.54,
+          "end": 1.64,
+          "probability": 0.23
+        },
+        {
+          "word": "thể",
+          "start": 1.64,
+          "end": 1.78,
+          "probability": 0.16
+        },
+        {
+          "word": "sẽ",
+          "start": 1.78,
+          "end": 1.88,
+          "probability": 0.13
+        },
+        {
+          "word": "bị",
+          "start": 1.88,
+          "end": 1.98,
+          "probability": 0.36
+        },
+        {
+          "word": "đăng.",
+          "start": 1.98,
+          "end": 2.1,
+          "probability": 0.19
+        }
+      ]
+    }
+  ]
+}

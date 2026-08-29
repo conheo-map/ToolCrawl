@@ -1,0 +1,210 @@
+{
+  "item_id": "tt_7663060732291861780_01",
+  "duration_seconds": 10.22,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 28,
+  "text": "Đừng có thể, thì có thể hỏi nó có tốt Đừng có chanh, em em Tà hả, xưa là cái hả tốt Tức cái gì thì nó em",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.46,
+      "text": "Đừng có thể, thì có thể hỏi nó có tốt",
+      "words": [
+        {
+          "word": "Đừng",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.09
+        },
+        {
+          "word": "có",
+          "start": 0.32,
+          "end": 0.32,
+          "probability": 0.35
+        },
+        {
+          "word": "thể,",
+          "start": 0.32,
+          "end": 0.74,
+          "probability": 0.12
+        },
+        {
+          "word": "thì",
+          "start": 0.92,
+          "end": 1.0,
+          "probability": 0.06
+        },
+        {
+          "word": "có",
+          "start": 1.0,
+          "end": 1.28,
+          "probability": 0.12
+        },
+        {
+          "word": "thể",
+          "start": 1.28,
+          "end": 1.34,
+          "probability": 0.69
+        },
+        {
+          "word": "hỏi",
+          "start": 1.34,
+          "end": 1.34,
+          "probability": 0.17
+        },
+        {
+          "word": "nó",
+          "start": 1.34,
+          "end": 1.56,
+          "probability": 0.36
+        },
+        {
+          "word": "có",
+          "start": 1.56,
+          "end": 1.7,
+          "probability": 0.16
+        },
+        {
+          "word": "tốt",
+          "start": 1.7,
+          "end": 2.46,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.46,
+      "end": 4.88,
+      "text": "Đừng có chanh, em em",
+      "words": [
+        {
+          "word": "Đừng",
+          "start": 2.46,
+          "end": 3.1,
+          "probability": 0.21
+        },
+        {
+          "word": "có",
+          "start": 3.1,
+          "end": 3.34,
+          "probability": 0.91
+        },
+        {
+          "word": "chanh,",
+          "start": 3.34,
+          "end": 3.78,
+          "probability": 0.13
+        },
+        {
+          "word": "em",
+          "start": 4.08,
+          "end": 4.08,
+          "probability": 0.1
+        },
+        {
+          "word": "em",
+          "start": 4.08,
+          "end": 4.88,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.7,
+      "end": 8.42,
+      "text": "Tà hả, xưa là cái hả tốt",
+      "words": [
+        {
+          "word": "Tà",
+          "start": 6.7,
+          "end": 7.12,
+          "probability": 0.29
+        },
+        {
+          "word": "hả,",
+          "start": 7.12,
+          "end": 7.34,
+          "probability": 0.26
+        },
+        {
+          "word": "xưa",
+          "start": 7.34,
+          "end": 7.44,
+          "probability": 0.19
+        },
+        {
+          "word": "là",
+          "start": 7.44,
+          "end": 7.62,
+          "probability": 0.04
+        },
+        {
+          "word": "cái",
+          "start": 7.62,
+          "end": 7.74,
+          "probability": 0.32
+        },
+        {
+          "word": "hả",
+          "start": 7.74,
+          "end": 7.9,
+          "probability": 0.54
+        },
+        {
+          "word": "tốt",
+          "start": 7.9,
+          "end": 8.42,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.42,
+      "end": 9.76,
+      "text": "Tức cái gì thì nó em",
+      "words": [
+        {
+          "word": "Tức",
+          "start": 8.42,
+          "end": 8.72,
+          "probability": 0.12
+        },
+        {
+          "word": "cái",
+          "start": 8.72,
+          "end": 8.96,
+          "probability": 0.09
+        },
+        {
+          "word": "gì",
+          "start": 8.96,
+          "end": 9.1,
+          "probability": 0.25
+        },
+        {
+          "word": "thì",
+          "start": 9.1,
+          "end": 9.28,
+          "probability": 0.1
+        },
+        {
+          "word": "nó",
+          "start": 9.28,
+          "end": 9.38,
+          "probability": 0.15
+        },
+        {
+          "word": "em",
+          "start": 9.38,
+          "end": 9.76,
+          "probability": 0.61
+        }
+      ]
+    }
+  ]
+}

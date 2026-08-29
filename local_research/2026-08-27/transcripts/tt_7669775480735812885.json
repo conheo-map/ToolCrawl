@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7669775480735812885",
+  "duration_seconds": 29.89,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Vào tên!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.18,
+      "end": 3.6,
+      "text": "Vào tên!",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 3.18,
+          "end": 3.3,
+          "probability": 0.2
+        },
+        {
+          "word": "tên!",
+          "start": 3.3,
+          "end": 3.6,
+          "probability": 0.26
+        }
+      ]
+    }
+  ]
+}

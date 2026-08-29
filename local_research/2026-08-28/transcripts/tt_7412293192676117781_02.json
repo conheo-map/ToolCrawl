@@ -1,0 +1,100 @@
+{
+  "item_id": "tt_7412293192676117781_02",
+  "duration_seconds": 26.3,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 11,
+  "text": "Xeo Queb Sinh Ha Duen Dù em giorter ..mà Yен Này!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.94,
+      "text": "Xeo Queb Sinh Ha Duen",
+      "words": [
+        {
+          "word": "Xeo",
+          "start": 0.0,
+          "end": 0.76,
+          "probability": 0.31
+        },
+        {
+          "word": "Queb",
+          "start": 0.76,
+          "end": 1.48,
+          "probability": 0.01
+        },
+        {
+          "word": "Sinh",
+          "start": 1.48,
+          "end": 1.5,
+          "probability": 0.34
+        },
+        {
+          "word": "Ha",
+          "start": 1.5,
+          "end": 2.22,
+          "probability": 0.04
+        },
+        {
+          "word": "Duen",
+          "start": 2.22,
+          "end": 2.94,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.94,
+      "end": 3.9,
+      "text": "Dù em giorter",
+      "words": [
+        {
+          "word": "Dù",
+          "start": 2.94,
+          "end": 3.18,
+          "probability": 0.07
+        },
+        {
+          "word": "em",
+          "start": 3.18,
+          "end": 3.18,
+          "probability": 0.01
+        },
+        {
+          "word": "giorter",
+          "start": 3.18,
+          "end": 3.9,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.78,
+      "end": 13.88,
+      "text": "..mà Yен Này!",
+      "words": [
+        {
+          "word": "..mà",
+          "start": 10.78,
+          "end": 12.18,
+          "probability": 0.05
+        },
+        {
+          "word": "Yен",
+          "start": 12.18,
+          "end": 12.22,
+          "probability": 0.0
+        },
+        {
+          "word": "Này!",
+          "start": 12.22,
+          "end": 13.88,
+          "probability": 0.01
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "item_id": "tt_7677446032103312648_01",
+  "duration_seconds": 28.16,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 100,
+  "text": "Thuy kỳ, Tung Cuong Master ở dày thú một chắc năm 2020, của lỗi yêu dòng Thóc Tìm, đã biến đống trường ABC lúc bột con thân gặn không chặp hềm lý sống buộc nấu, trong tiến nhé hòa của các cố đồng viên Việt Nam. Đó được phản thác đại dính Việt Nam, đổi lời thác app của chục đa học lạc không, dẫn tâm tế bi tiếp vào vấn cửa trước đại dính thái lần. Đáng chú ý, nghe khi suất trường đấu này, lúc bóc của đại dính Việt Nam đã bất ngờ gặp lối kỳ thuộc.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.89,
+      "end": 8.65,
+      "text": "Thuy kỳ, Tung Cuong Master ở dày thú một chắc năm 2020, của lỗi yêu dòng Thóc Tìm,",
+      "words": [
+        {
+          "word": "Thuy",
+          "start": 3.89,
+          "end": 4.53,
+          "probability": 0.25
+        },
+        {
+          "word": "kỳ,",
+          "start": 4.53,
+          "end": 4.71,
+          "probability": 0.55
+        },
+        {
+          "word": "Tung",
+          "start": 4.89,
+          "end": 5.07,
+          "probability": 0.4
+        },
+        {
+          "word": "Cuong",
+          "start": 5.07,
+          "end": 5.25,
+          "probability": 0.16
+        },
+        {
+          "word": "Master",
+          "start": 5.25,
+          "end": 5.51,
+          "probability": 0.48
+        },
+        {
+          "word": "ở",
+          "start": 5.51,
+          "end": 5.93,
+          "probability": 0.95
+        },
+        {
+          "word": "dày",
+          "start": 5.93,
+          "end": 5.97,
+          "probability": 0.28
+        },
+        {
+          "word": "thú",
+          "start": 5.97,
+          "end": 6.15,
+          "probability": 0.54
+        },
+        {
+          "word": "một",
+          "start": 6.15,
+          "end": 6.33,
+          "probability": 0.38
+        },
+        {
+          "word": "chắc",
+          "start": 6.33,
+          "end": 6.47,
+          "probability": 0.37
+        },
+        {
+          "word": "năm",
+          "start": 6.47,
+          "end": 6.69,
+          "probability": 0.47
+        },
+        {
+          "word": "2020,",
+          "start": 6.69,
+          "end": 7.07,
+          "probability": 0.14
+        },
+        {
+          "word": "của",
+          "start": 7.25,
+          "end": 7.37,
+          "probability": 0.36
+        },
+        {
+          "word": "lỗi",
+          "start": 7.37,
+          "end": 7.57,
+          "probability": 0.49
+        },
+        {
+          "word": "yêu",
+          "start": 7.57,
+          "end": 7.79,
+          "probability": 0.13
+        },
+        {
+          "word": "dòng",
+          "start": 7.79,
+          "end": 8.03,
+          "probability": 0.42
+        },
+        {
+          "word": "Thóc",
+          "start": 8.03,
+          "end": 8.25,
+          "probability": 0.56
+        },
+        {
+          "word": "Tìm,",
+          "start": 8.25,
+          "end": 8.65,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 8.75,
+      "end": 12.13,
+      "text": "đã biến đống trường ABC lúc bột con thân gặn không chặp hềm lý sống buộc nấu,",
+      "words": [
+        {
+          "word": "đã",
+          "start": 8.75,
+          "end": 8.83,
+          "probability": 0.49
+        },
+        {
+          "word": "biến",
+          "start": 8.83,
+          "end": 8.99,
+          "probability": 0.65
+        },
+        {
+          "word": "đống",
+          "start": 8.99,
+          "end": 9.19,
+          "probability": 0.5
+        },
+        {
+          "word": "trường",
+          "start": 9.19,
+          "end": 9.43,
+          "probability": 0.64
+        },
+        {
+          "word": "ABC",
+          "start": 9.43,
+          "end": 9.87,
+          "probability": 0.12
+        },
+        {
+          "word": "lúc",
+          "start": 9.87,
+          "end": 10.09,
+          "probability": 0.3
+        },
+        {
+          "word": "bột",
+          "start": 10.09,
+          "end": 10.33,
+          "probability": 0.19
+        },
+        {
+          "word": "con",
+          "start": 10.33,
+          "end": 10.45,
+          "probability": 0.83
+        },
+        {
+          "word": "thân",
+          "start": 10.45,
+          "end": 10.67,
+          "probability": 0.28
+        },
+        {
+          "word": "gặn",
+          "start": 10.67,
+          "end": 10.77,
+          "probability": 0.39
+        },
+        {
+          "word": "không",
+          "start": 10.77,
+          "end": 10.99,
+          "probability": 0.91
+        },
+        {
+          "word": "chặp",
+          "start": 10.99,
+          "end": 11.11,
+          "probability": 0.37
+        },
+        {
+          "word": "hềm",
+          "start": 11.11,
+          "end": 11.35,
+          "probability": 0.31
+        },
+        {
+          "word": "lý",
+          "start": 11.35,
+          "end": 11.41,
+          "probability": 0.23
+        },
+        {
+          "word": "sống",
+          "start": 11.41,
+          "end": 11.57,
+          "probability": 0.55
+        },
+        {
+          "word": "buộc",
+          "start": 11.57,
+          "end": 11.83,
+          "probability": 0.43
+        },
+        {
+          "word": "nấu,",
+          "start": 11.83,
+          "end": 12.13,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.31,
+      "end": 14.63,
+      "text": "trong tiến nhé hòa của các cố đồng viên Việt Nam.",
+      "words": [
+        {
+          "word": "trong",
+          "start": 12.31,
+          "end": 12.45,
+          "probability": 0.31
+        },
+        {
+          "word": "tiến",
+          "start": 12.45,
+          "end": 12.67,
+          "probability": 0.55
+        },
+        {
+          "word": "nhé",
+          "start": 12.67,
+          "end": 12.85,
+          "probability": 0.29
+        },
+        {
+          "word": "hòa",
+          "start": 12.85,
+          "end": 13.15,
+          "probability": 0.35
+        },
+        {
+          "word": "của",
+          "start": 13.15,
+          "end": 13.23,
+          "probability": 0.22
+        },
+        {
+          "word": "các",
+          "start": 13.23,
+          "end": 13.41,
+          "probability": 0.97
+        },
+        {
+          "word": "cố",
+          "start": 13.41,
+          "end": 13.59,
+          "probability": 0.61
+        },
+        {
+          "word": "đồng",
+          "start": 13.59,
+          "end": 13.77,
+          "probability": 0.5
+        },
+        {
+          "word": "viên",
+          "start": 13.77,
+          "end": 14.01,
+          "probability": 0.57
+        },
+        {
+          "word": "Việt",
+          "start": 14.01,
+          "end": 14.25,
+          "probability": 0.94
+        },
+        {
+          "word": "Nam.",
+          "start": 14.25,
+          "end": 14.63,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.31,
+      "end": 19.23,
+      "text": "Đó được phản thác đại dính Việt Nam, đổi lời thác app của chục đa học lạc không,",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 15.31,
+          "end": 15.39,
+          "probability": 0.66
+        },
+        {
+          "word": "được",
+          "start": 15.39,
+          "end": 15.53,
+          "probability": 0.36
+        },
+        {
+          "word": "phản",
+          "start": 15.53,
+          "end": 15.71,
+          "probability": 0.64
+        },
+        {
+          "word": "thác",
+          "start": 15.71,
+          "end": 15.85,
+          "probability": 0.41
+        },
+        {
+          "word": "đại",
+          "start": 15.85,
+          "end": 16.09,
+          "probability": 0.64
+        },
+        {
+          "word": "dính",
+          "start": 16.09,
+          "end": 16.25,
+          "probability": 0.28
+        },
+        {
+          "word": "Việt",
+          "start": 16.25,
+          "end": 16.49,
+          "probability": 0.51
+        },
+        {
+          "word": "Nam,",
+          "start": 16.49,
+          "end": 16.71,
+          "probability": 0.98
+        },
+        {
+          "word": "đổi",
+          "start": 16.99,
+          "end": 17.15,
+          "probability": 0.54
+        },
+        {
+          "word": "lời",
+          "start": 17.15,
+          "end": 17.35,
+          "probability": 0.47
+        },
+        {
+          "word": "thác",
+          "start": 17.35,
+          "end": 17.57,
+          "probability": 0.44
+        },
+        {
+          "word": "app",
+          "start": 17.57,
+          "end": 17.99,
+          "probability": 0.11
+        },
+        {
+          "word": "của",
+          "start": 17.99,
+          "end": 18.27,
+          "probability": 0.64
+        },
+        {
+          "word": "chục",
+          "start": 18.27,
+          "end": 18.41,
+          "probability": 0.42
+        },
+        {
+          "word": "đa",
+          "start": 18.41,
+          "end": 18.55,
+          "probability": 0.46
+        },
+        {
+          "word": "học",
+          "start": 18.55,
+          "end": 18.73,
+          "probability": 0.77
+        },
+        {
+          "word": "lạc",
+          "start": 18.73,
+          "end": 18.95,
+          "probability": 0.68
+        },
+        {
+          "word": "không,",
+          "start": 18.95,
+          "end": 19.23,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 19.43,
+      "end": 22.01,
+      "text": "dẫn tâm tế bi tiếp vào vấn cửa trước đại dính thái lần.",
+      "words": [
+        {
+          "word": "dẫn",
+          "start": 19.43,
+          "end": 19.61,
+          "probability": 0.43
+        },
+        {
+          "word": "tâm",
+          "start": 19.61,
+          "end": 19.81,
+          "probability": 0.61
+        },
+        {
+          "word": "tế",
+          "start": 19.81,
+          "end": 19.97,
+          "probability": 0.53
+        },
+        {
+          "word": "bi",
+          "start": 19.97,
+          "end": 20.33,
+          "probability": 0.18
+        },
+        {
+          "word": "tiếp",
+          "start": 20.33,
+          "end": 20.41,
+          "probability": 0.11
+        },
+        {
+          "word": "vào",
+          "start": 20.41,
+          "end": 20.55,
+          "probability": 0.78
+        },
+        {
+          "word": "vấn",
+          "start": 20.55,
+          "end": 20.73,
+          "probability": 0.17
+        },
+        {
+          "word": "cửa",
+          "start": 20.73,
+          "end": 20.91,
+          "probability": 0.27
+        },
+        {
+          "word": "trước",
+          "start": 20.91,
+          "end": 21.21,
+          "probability": 0.46
+        },
+        {
+          "word": "đại",
+          "start": 21.21,
+          "end": 21.29,
+          "probability": 0.94
+        },
+        {
+          "word": "dính",
+          "start": 21.29,
+          "end": 21.53,
+          "probability": 0.85
+        },
+        {
+          "word": "thái",
+          "start": 21.53,
+          "end": 21.71,
+          "probability": 0.48
+        },
+        {
+          "word": "lần.",
+          "start": 21.71,
+          "end": 22.01,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.05,
+      "end": 25.27,
+      "text": "Đáng chú ý, nghe khi suất trường đấu này,",
+      "words": [
+        {
+          "word": "Đáng",
+          "start": 23.05,
+          "end": 23.25,
+          "probability": 0.58
+        },
+        {
+          "word": "chú",
+          "start": 23.25,
+          "end": 23.45,
+          "probability": 0.26
+        },
+        {
+          "word": "ý,",
+          "start": 23.45,
+          "end": 23.75,
+          "probability": 0.91
+        },
+        {
+          "word": "nghe",
+          "start": 23.93,
+          "end": 24.11,
+          "probability": 0.67
+        },
+        {
+          "word": "khi",
+          "start": 24.11,
+          "end": 24.25,
+          "probability": 0.34
+        },
+        {
+          "word": "suất",
+          "start": 24.25,
+          "end": 24.49,
+          "probability": 0.24
+        },
+        {
+          "word": "trường",
+          "start": 24.49,
+          "end": 24.75,
+          "probability": 0.49
+        },
+        {
+          "word": "đấu",
+          "start": 24.75,
+          "end": 24.95,
+          "probability": 0.57
+        },
+        {
+          "word": "này,",
+          "start": 24.95,
+          "end": 25.27,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 25.41,
+      "end": 28.13,
+      "text": "lúc bóc của đại dính Việt Nam đã bất ngờ gặp lối kỳ thuộc.",
+      "words": [
+        {
+          "word": "lúc",
+          "start": 25.41,
+          "end": 25.57,
+          "probability": 0.47
+        },
+        {
+          "word": "bóc",
+          "start": 25.57,
+          "end": 25.77,
+          "probability": 0.38
+        },
+        {
+          "word": "của",
+          "start": 25.77,
+          "end": 25.95,
+          "probability": 0.57
+        },
+        {
+          "word": "đại",
+          "start": 25.95,
+          "end": 26.03,
+          "probability": 0.97
+        },
+        {
+          "word": "dính",
+          "start": 26.03,
+          "end": 26.19,
+          "probability": 0.95
+        },
+        {
+          "word": "Việt",
+          "start": 26.19,
+          "end": 26.39,
+          "probability": 0.99
+        },
+        {
+          "word": "Nam",
+          "start": 26.39,
+          "end": 26.63,
+          "probability": 1.0
+        },
+        {
+          "word": "đã",
+          "start": 26.63,
+          "end": 26.81,
+          "probability": 0.8
+        },
+        {
+          "word": "bất",
+          "start": 26.81,
+          "end": 26.99,
+          "probability": 0.63
+        },
+        {
+          "word": "ngờ",
+          "start": 26.99,
+          "end": 27.25,
+          "probability": 0.54
+        },
+        {
+          "word": "gặp",
+          "start": 27.25,
+          "end": 27.49,
+          "probability": 0.73
+        },
+        {
+          "word": "lối",
+          "start": 27.49,
+          "end": 27.69,
+          "probability": 0.82
+        },
+        {
+          "word": "kỳ",
+          "start": 27.69,
+          "end": 27.89,
+          "probability": 0.63
+        },
+        {
+          "word": "thuộc.",
+          "start": 27.89,
+          "end": 28.13,
+          "probability": 0.79
+        }
+      ]
+    }
+  ]
+}

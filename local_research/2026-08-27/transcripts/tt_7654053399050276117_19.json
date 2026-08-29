@@ -1,0 +1,72 @@
+{
+  "item_id": "tt_7654053399050276117_19",
+  "duration_seconds": 28.51,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "Bây giờ vừa vừa ngon đó đi thời gian",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 28.12,
+      "text": "Bây giờ vừa vừa ngon đó đi thời gian",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 0.02,
+          "end": 0.62,
+          "probability": 0.36
+        },
+        {
+          "word": "giờ",
+          "start": 0.62,
+          "end": 0.62,
+          "probability": 0.97
+        },
+        {
+          "word": "vừa",
+          "start": 0.62,
+          "end": 1.06,
+          "probability": 0.08
+        },
+        {
+          "word": "vừa",
+          "start": 1.06,
+          "end": 1.06,
+          "probability": 0.48
+        },
+        {
+          "word": "ngon",
+          "start": 1.06,
+          "end": 1.24,
+          "probability": 0.04
+        },
+        {
+          "word": "đó",
+          "start": 1.24,
+          "end": 1.36,
+          "probability": 0.0
+        },
+        {
+          "word": "đi",
+          "start": 1.36,
+          "end": 6.42,
+          "probability": 0.01
+        },
+        {
+          "word": "thời",
+          "start": 6.42,
+          "end": 27.58,
+          "probability": 0.0
+        },
+        {
+          "word": "gian",
+          "start": 27.58,
+          "end": 28.12,
+          "probability": 0.76
+        }
+      ]
+    }
+  ]
+}

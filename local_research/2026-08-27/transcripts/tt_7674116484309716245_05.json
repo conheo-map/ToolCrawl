@@ -1,0 +1,486 @@
+{
+  "item_id": "tt_7674116484309716245_05",
+  "duration_seconds": 27.74,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 66,
+  "text": "Nếu như đúng là hậu đủ Sinh này là chương lai ngon sẻ Mà sẽ làm gì để hậu ngọt Nếu như đầy như đủ của mình thì ta ai Mà như đúng là mẹ Mẹ phải mọt bà yên Vậy chăm phúc bà yên nữa Hình dường là bà sẽ hầy nước cơm Và bà đứa Nếu mà ria mình còn không mình tế thôi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.27,
+      "end": 2.29,
+      "text": "Nếu như đúng là hậu đủ",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 0.27,
+          "end": 0.65,
+          "probability": 0.18
+        },
+        {
+          "word": "như",
+          "start": 0.65,
+          "end": 0.77,
+          "probability": 0.61
+        },
+        {
+          "word": "đúng",
+          "start": 0.77,
+          "end": 0.99,
+          "probability": 0.14
+        },
+        {
+          "word": "là",
+          "start": 0.99,
+          "end": 1.15,
+          "probability": 0.4
+        },
+        {
+          "word": "hậu",
+          "start": 1.15,
+          "end": 1.79,
+          "probability": 0.42
+        },
+        {
+          "word": "đủ",
+          "start": 1.79,
+          "end": 2.29,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.02,
+      "end": 6.48,
+      "text": "Sinh này là chương lai ngon sẻ",
+      "words": [
+        {
+          "word": "Sinh",
+          "start": 4.02,
+          "end": 4.74,
+          "probability": 0.18
+        },
+        {
+          "word": "này",
+          "start": 4.74,
+          "end": 4.96,
+          "probability": 0.2
+        },
+        {
+          "word": "là",
+          "start": 4.96,
+          "end": 5.3,
+          "probability": 0.9
+        },
+        {
+          "word": "chương",
+          "start": 5.3,
+          "end": 5.62,
+          "probability": 0.23
+        },
+        {
+          "word": "lai",
+          "start": 5.62,
+          "end": 5.68,
+          "probability": 0.5
+        },
+        {
+          "word": "ngon",
+          "start": 5.68,
+          "end": 5.96,
+          "probability": 0.12
+        },
+        {
+          "word": "sẻ",
+          "start": 5.96,
+          "end": 6.48,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.42,
+      "end": 11.0,
+      "text": "Mà sẽ làm gì để hậu ngọt",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 7.42,
+          "end": 7.92,
+          "probability": 0.12
+        },
+        {
+          "word": "sẽ",
+          "start": 7.92,
+          "end": 8.08,
+          "probability": 0.73
+        },
+        {
+          "word": "làm",
+          "start": 8.08,
+          "end": 8.32,
+          "probability": 0.59
+        },
+        {
+          "word": "gì",
+          "start": 8.32,
+          "end": 8.56,
+          "probability": 0.35
+        },
+        {
+          "word": "để",
+          "start": 8.56,
+          "end": 9.84,
+          "probability": 0.13
+        },
+        {
+          "word": "hậu",
+          "start": 9.84,
+          "end": 10.8,
+          "probability": 0.74
+        },
+        {
+          "word": "ngọt",
+          "start": 10.8,
+          "end": 11.0,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.0,
+      "end": 13.3,
+      "text": "Nếu như đầy như đủ của mình thì ta ai",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 11.0,
+          "end": 11.24,
+          "probability": 0.34
+        },
+        {
+          "word": "như",
+          "start": 11.24,
+          "end": 11.4,
+          "probability": 0.23
+        },
+        {
+          "word": "đầy",
+          "start": 11.4,
+          "end": 11.46,
+          "probability": 0.47
+        },
+        {
+          "word": "như",
+          "start": 11.46,
+          "end": 11.64,
+          "probability": 0.12
+        },
+        {
+          "word": "đủ",
+          "start": 11.64,
+          "end": 11.88,
+          "probability": 0.18
+        },
+        {
+          "word": "của",
+          "start": 11.88,
+          "end": 11.94,
+          "probability": 0.34
+        },
+        {
+          "word": "mình",
+          "start": 11.94,
+          "end": 12.1,
+          "probability": 0.75
+        },
+        {
+          "word": "thì",
+          "start": 12.1,
+          "end": 12.34,
+          "probability": 0.11
+        },
+        {
+          "word": "ta",
+          "start": 12.34,
+          "end": 12.46,
+          "probability": 0.28
+        },
+        {
+          "word": "ai",
+          "start": 12.46,
+          "end": 13.3,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.3,
+      "end": 14.98,
+      "text": "Mà như đúng là mẹ",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 13.3,
+          "end": 13.64,
+          "probability": 0.38
+        },
+        {
+          "word": "như",
+          "start": 13.64,
+          "end": 14.06,
+          "probability": 0.08
+        },
+        {
+          "word": "đúng",
+          "start": 14.06,
+          "end": 14.22,
+          "probability": 0.5
+        },
+        {
+          "word": "là",
+          "start": 14.22,
+          "end": 14.32,
+          "probability": 0.9
+        },
+        {
+          "word": "mẹ",
+          "start": 14.32,
+          "end": 14.98,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.98,
+      "end": 18.0,
+      "text": "Mẹ phải mọt bà yên",
+      "words": [
+        {
+          "word": "Mẹ",
+          "start": 14.98,
+          "end": 15.54,
+          "probability": 0.1
+        },
+        {
+          "word": "phải",
+          "start": 15.54,
+          "end": 15.82,
+          "probability": 0.62
+        },
+        {
+          "word": "mọt",
+          "start": 15.82,
+          "end": 16.24,
+          "probability": 0.43
+        },
+        {
+          "word": "bà",
+          "start": 16.24,
+          "end": 17.6,
+          "probability": 0.17
+        },
+        {
+          "word": "yên",
+          "start": 17.6,
+          "end": 18.0,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 19.02,
+      "end": 20.94,
+      "text": "Vậy chăm phúc bà yên nữa",
+      "words": [
+        {
+          "word": "Vậy",
+          "start": 19.02,
+          "end": 19.52,
+          "probability": 0.08
+        },
+        {
+          "word": "chăm",
+          "start": 19.52,
+          "end": 19.68,
+          "probability": 0.23
+        },
+        {
+          "word": "phúc",
+          "start": 19.68,
+          "end": 19.76,
+          "probability": 0.42
+        },
+        {
+          "word": "bà",
+          "start": 19.76,
+          "end": 20.02,
+          "probability": 0.91
+        },
+        {
+          "word": "yên",
+          "start": 20.02,
+          "end": 20.22,
+          "probability": 0.94
+        },
+        {
+          "word": "nữa",
+          "start": 20.22,
+          "end": 20.94,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 20.94,
+      "end": 23.23,
+      "text": "Hình dường là bà sẽ hầy nước cơm",
+      "words": [
+        {
+          "word": "Hình",
+          "start": 20.94,
+          "end": 21.5,
+          "probability": 0.27
+        },
+        {
+          "word": "dường",
+          "start": 21.5,
+          "end": 21.72,
+          "probability": 0.28
+        },
+        {
+          "word": "là",
+          "start": 21.72,
+          "end": 22.02,
+          "probability": 0.76
+        },
+        {
+          "word": "bà",
+          "start": 22.02,
+          "end": 22.16,
+          "probability": 0.81
+        },
+        {
+          "word": "sẽ",
+          "start": 22.16,
+          "end": 22.32,
+          "probability": 0.77
+        },
+        {
+          "word": "hầy",
+          "start": 22.32,
+          "end": 22.72,
+          "probability": 0.48
+        },
+        {
+          "word": "nước",
+          "start": 22.72,
+          "end": 22.98,
+          "probability": 0.44
+        },
+        {
+          "word": "cơm",
+          "start": 22.98,
+          "end": 23.23,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 23.74,
+      "end": 25.06,
+      "text": "Và bà đứa",
+      "words": [
+        {
+          "word": "Và",
+          "start": 23.74,
+          "end": 24.04,
+          "probability": 0.11
+        },
+        {
+          "word": "bà",
+          "start": 24.04,
+          "end": 24.4,
+          "probability": 0.78
+        },
+        {
+          "word": "đứa",
+          "start": 24.4,
+          "end": 25.06,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 25.06,
+      "end": 27.1,
+      "text": "Nếu mà ria mình còn không mình tế thôi",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 25.06,
+          "end": 25.36,
+          "probability": 0.14
+        },
+        {
+          "word": "mà",
+          "start": 25.36,
+          "end": 25.5,
+          "probability": 0.81
+        },
+        {
+          "word": "ria",
+          "start": 25.5,
+          "end": 25.74,
+          "probability": 0.13
+        },
+        {
+          "word": "mình",
+          "start": 25.74,
+          "end": 25.94,
+          "probability": 0.19
+        },
+        {
+          "word": "còn",
+          "start": 25.94,
+          "end": 26.08,
+          "probability": 0.31
+        },
+        {
+          "word": "không",
+          "start": 26.08,
+          "end": 26.28,
+          "probability": 0.65
+        },
+        {
+          "word": "mình",
+          "start": 26.28,
+          "end": 26.46,
+          "probability": 0.14
+        },
+        {
+          "word": "tế",
+          "start": 26.46,
+          "end": 26.68,
+          "probability": 0.3
+        },
+        {
+          "word": "thôi",
+          "start": 26.68,
+          "end": 27.1,
+          "probability": 0.36
+        }
+      ]
+    }
+  ]
+}

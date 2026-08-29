@@ -1,0 +1,84 @@
+{
+  "item_id": "tt_7677480986019515649_18",
+  "duration_seconds": 8.11,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 11,
+  "text": "Et miếng go thì mặt hơn. Et miếng go hoặc hơn.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Et miếng go thì mặt hơn. Et miếng go hoặc hơn.",
+      "words": [
+        {
+          "word": "Et",
+          "start": 0.0,
+          "end": 0.56,
+          "probability": 0.04
+        },
+        {
+          "word": "miếng",
+          "start": 0.56,
+          "end": 0.92,
+          "probability": 0.34
+        },
+        {
+          "word": "go",
+          "start": 0.92,
+          "end": 0.96,
+          "probability": 0.07
+        },
+        {
+          "word": "thì",
+          "start": 0.96,
+          "end": 1.18,
+          "probability": 0.12
+        },
+        {
+          "word": "mặt",
+          "start": 1.18,
+          "end": 1.42,
+          "probability": 0.29
+        },
+        {
+          "word": "hơn.",
+          "start": 1.42,
+          "end": 1.82,
+          "probability": 0.26
+        },
+        {
+          "word": "Et",
+          "start": 2.08,
+          "end": 2.16,
+          "probability": 0.97
+        },
+        {
+          "word": "miếng",
+          "start": 2.16,
+          "end": 2.46,
+          "probability": 0.99
+        },
+        {
+          "word": "go",
+          "start": 2.46,
+          "end": 2.58,
+          "probability": 0.98
+        },
+        {
+          "word": "hoặc",
+          "start": 2.58,
+          "end": 2.94,
+          "probability": 0.45
+        },
+        {
+          "word": "hơn.",
+          "start": 2.94,
+          "end": 3.3,
+          "probability": 0.99
+        }
+      ]
+    }
+  ]
+}

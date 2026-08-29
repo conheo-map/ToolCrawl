@@ -1,0 +1,98 @@
+{
+  "item_id": "tt_7233025141343636741_03",
+  "duration_seconds": 6.34,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "Giờ có này bao tiêu tuổi Bất nhau ở đâu trong nông",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.94,
+      "end": 4.46,
+      "text": "Giờ có này bao tiêu tuổi",
+      "words": [
+        {
+          "word": "Giờ",
+          "start": 1.94,
+          "end": 2.62,
+          "probability": 0.41
+        },
+        {
+          "word": "có",
+          "start": 2.62,
+          "end": 2.92,
+          "probability": 0.29
+        },
+        {
+          "word": "này",
+          "start": 2.92,
+          "end": 3.2,
+          "probability": 0.08
+        },
+        {
+          "word": "bao",
+          "start": 3.2,
+          "end": 3.54,
+          "probability": 0.48
+        },
+        {
+          "word": "tiêu",
+          "start": 3.54,
+          "end": 3.84,
+          "probability": 0.4
+        },
+        {
+          "word": "tuổi",
+          "start": 3.84,
+          "end": 4.46,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.46,
+      "end": 6.14,
+      "text": "Bất nhau ở đâu trong nông",
+      "words": [
+        {
+          "word": "Bất",
+          "start": 4.46,
+          "end": 4.82,
+          "probability": 0.12
+        },
+        {
+          "word": "nhau",
+          "start": 4.82,
+          "end": 5.08,
+          "probability": 0.48
+        },
+        {
+          "word": "ở",
+          "start": 5.08,
+          "end": 5.2,
+          "probability": 0.07
+        },
+        {
+          "word": "đâu",
+          "start": 5.2,
+          "end": 5.42,
+          "probability": 0.87
+        },
+        {
+          "word": "trong",
+          "start": 5.42,
+          "end": 5.66,
+          "probability": 0.63
+        },
+        {
+          "word": "nông",
+          "start": 5.66,
+          "end": 6.14,
+          "probability": 0.41
+        }
+      ]
+    }
+  ]
+}

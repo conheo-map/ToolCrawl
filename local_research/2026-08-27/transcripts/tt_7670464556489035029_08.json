@@ -1,0 +1,160 @@
+{
+  "item_id": "tt_7670464556489035029_08",
+  "duration_seconds": 29.47,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 12,
+  "text": "1,5,4,5,5,6 Năng�, Hương H场 Tức chỉ暢 Khiagram đủ Kinh cbased như conford",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.21,
+      "end": 7.03,
+      "text": "1,5,4,5,5,6",
+      "words": [
+        {
+          "word": "1",
+          "start": 0.21,
+          "end": 0.39,
+          "probability": 0.11
+        },
+        {
+          "word": ",5",
+          "start": 0.39,
+          "end": 0.91,
+          "probability": 0.22
+        },
+        {
+          "word": ",4",
+          "start": 0.91,
+          "end": 2.15,
+          "probability": 0.04
+        },
+        {
+          "word": ",5",
+          "start": 2.15,
+          "end": 2.27,
+          "probability": 0.56
+        },
+        {
+          "word": ",5",
+          "start": 6.49,
+          "end": 7.01,
+          "probability": 0.64
+        },
+        {
+          "word": ",6",
+          "start": 7.01,
+          "end": 7.03,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.03,
+      "end": 7.35,
+      "text": "Năng�, Hương H场",
+      "words": [
+        {
+          "word": "Năng�,",
+          "start": 7.03,
+          "end": 7.09,
+          "probability": 0.0
+        },
+        {
+          "word": "Hương",
+          "start": 7.09,
+          "end": 7.09,
+          "probability": 0.03
+        },
+        {
+          "word": "H场",
+          "start": 7.09,
+          "end": 7.35,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.65,
+      "end": 21.75,
+      "text": "Tức chỉ暢",
+      "words": [
+        {
+          "word": "Tức",
+          "start": 10.65,
+          "end": 12.31,
+          "probability": 0.01
+        },
+        {
+          "word": "chỉ暢",
+          "start": 21.01,
+          "end": 21.75,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 22.11,
+      "end": 23.05,
+      "text": "Khiagram đủ",
+      "words": [
+        {
+          "word": "Khiagram",
+          "start": 22.11,
+          "end": 22.63,
+          "probability": 0.04
+        },
+        {
+          "word": "đủ",
+          "start": 22.63,
+          "end": 23.05,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 23.05,
+      "end": 23.95,
+      "text": "Kinh cbased",
+      "words": [
+        {
+          "word": "Kinh",
+          "start": 23.05,
+          "end": 23.75,
+          "probability": 0.01
+        },
+        {
+          "word": "cbased",
+          "start": 23.75,
+          "end": 23.95,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.95,
+      "end": 26.65,
+      "text": "như conford",
+      "words": [
+        {
+          "word": "như",
+          "start": 23.95,
+          "end": 24.85,
+          "probability": 0.01
+        },
+        {
+          "word": "conford",
+          "start": 24.85,
+          "end": 26.65,
+          "probability": 0.0
+        }
+      ]
+    }
+  ]
+}

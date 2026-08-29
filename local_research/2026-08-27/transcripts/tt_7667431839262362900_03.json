@@ -1,0 +1,808 @@
+{
+  "item_id": "tt_7667431839262362900_03",
+  "duration_seconds": 28.51,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 121,
+  "text": "Xin cảm ơn anh mẹ thế liên đã thang ra một chào mẹ mẹ. Đó vọc ở trang người Việt chú tà lâu này thì như quốc viên gọi nói là xem phà lý là một cân tích quyết em phà, là bị bước. Nhưng mà trong thời điểm hiết phà, gái dưới rất là lầy giả vạc biệt độ mạc, dương như là những quyết nịch mô bán không chỉ nữa từ lúc cầu tích quyết mà còn bị chí phối, bởi tâm lý rắn đông, và nỗ sợ mọc qua khởi. Dưới đó, nhìn tại chính hệ viên thì làm sao để người dân biết mình đang ra phết định. Mô bán vì như cầu tại chính thật sự.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.42,
+      "text": "Xin cảm ơn anh mẹ thế liên đã thang ra một chào mẹ mẹ.",
+      "words": [
+        {
+          "word": "Xin",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.26
+        },
+        {
+          "word": "cảm",
+          "start": 0.34,
+          "end": 0.5,
+          "probability": 0.59
+        },
+        {
+          "word": "ơn",
+          "start": 0.5,
+          "end": 0.58,
+          "probability": 0.94
+        },
+        {
+          "word": "anh",
+          "start": 0.58,
+          "end": 0.8,
+          "probability": 0.84
+        },
+        {
+          "word": "mẹ",
+          "start": 0.8,
+          "end": 0.9,
+          "probability": 0.23
+        },
+        {
+          "word": "thế",
+          "start": 0.9,
+          "end": 1.02,
+          "probability": 0.52
+        },
+        {
+          "word": "liên",
+          "start": 1.02,
+          "end": 1.26,
+          "probability": 0.4
+        },
+        {
+          "word": "đã",
+          "start": 1.26,
+          "end": 1.44,
+          "probability": 0.65
+        },
+        {
+          "word": "thang",
+          "start": 1.44,
+          "end": 1.58,
+          "probability": 0.57
+        },
+        {
+          "word": "ra",
+          "start": 1.58,
+          "end": 1.68,
+          "probability": 0.41
+        },
+        {
+          "word": "một",
+          "start": 1.68,
+          "end": 1.78,
+          "probability": 0.53
+        },
+        {
+          "word": "chào",
+          "start": 1.78,
+          "end": 1.94,
+          "probability": 0.37
+        },
+        {
+          "word": "mẹ",
+          "start": 1.94,
+          "end": 2.14,
+          "probability": 0.16
+        },
+        {
+          "word": "mẹ.",
+          "start": 2.14,
+          "end": 2.42,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.86,
+      "end": 8.6,
+      "text": "Đó vọc ở trang người Việt chú tà lâu này thì như quốc viên gọi nói là xem phà lý là một cân tích quyết em phà,",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 3.86,
+          "end": 4.22,
+          "probability": 0.27
+        },
+        {
+          "word": "vọc",
+          "start": 4.22,
+          "end": 4.38,
+          "probability": 0.34
+        },
+        {
+          "word": "ở",
+          "start": 4.38,
+          "end": 4.64,
+          "probability": 0.31
+        },
+        {
+          "word": "trang",
+          "start": 4.64,
+          "end": 4.8,
+          "probability": 0.32
+        },
+        {
+          "word": "người",
+          "start": 4.8,
+          "end": 4.96,
+          "probability": 0.69
+        },
+        {
+          "word": "Việt",
+          "start": 4.96,
+          "end": 5.16,
+          "probability": 0.45
+        },
+        {
+          "word": "chú",
+          "start": 5.16,
+          "end": 5.32,
+          "probability": 0.15
+        },
+        {
+          "word": "tà",
+          "start": 5.32,
+          "end": 5.44,
+          "probability": 0.5
+        },
+        {
+          "word": "lâu",
+          "start": 5.44,
+          "end": 5.68,
+          "probability": 0.71
+        },
+        {
+          "word": "này",
+          "start": 5.68,
+          "end": 5.88,
+          "probability": 0.25
+        },
+        {
+          "word": "thì",
+          "start": 5.88,
+          "end": 6.04,
+          "probability": 0.7
+        },
+        {
+          "word": "như",
+          "start": 6.04,
+          "end": 6.18,
+          "probability": 0.25
+        },
+        {
+          "word": "quốc",
+          "start": 6.18,
+          "end": 6.36,
+          "probability": 0.2
+        },
+        {
+          "word": "viên",
+          "start": 6.36,
+          "end": 6.44,
+          "probability": 0.26
+        },
+        {
+          "word": "gọi",
+          "start": 6.44,
+          "end": 6.6,
+          "probability": 0.28
+        },
+        {
+          "word": "nói",
+          "start": 6.6,
+          "end": 6.8,
+          "probability": 0.52
+        },
+        {
+          "word": "là",
+          "start": 6.8,
+          "end": 7.0,
+          "probability": 0.94
+        },
+        {
+          "word": "xem",
+          "start": 7.0,
+          "end": 7.22,
+          "probability": 0.71
+        },
+        {
+          "word": "phà",
+          "start": 7.22,
+          "end": 7.44,
+          "probability": 0.28
+        },
+        {
+          "word": "lý",
+          "start": 7.44,
+          "end": 7.58,
+          "probability": 0.22
+        },
+        {
+          "word": "là",
+          "start": 7.58,
+          "end": 7.7,
+          "probability": 0.76
+        },
+        {
+          "word": "một",
+          "start": 7.7,
+          "end": 7.86,
+          "probability": 0.99
+        },
+        {
+          "word": "cân",
+          "start": 7.86,
+          "end": 8.02,
+          "probability": 0.29
+        },
+        {
+          "word": "tích",
+          "start": 8.02,
+          "end": 8.14,
+          "probability": 0.44
+        },
+        {
+          "word": "quyết",
+          "start": 8.14,
+          "end": 8.3,
+          "probability": 0.24
+        },
+        {
+          "word": "em",
+          "start": 8.3,
+          "end": 8.52,
+          "probability": 0.41
+        },
+        {
+          "word": "phà,",
+          "start": 8.52,
+          "end": 8.6,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.74,
+      "end": 9.26,
+      "text": "là bị bước.",
+      "words": [
+        {
+          "word": "là",
+          "start": 8.74,
+          "end": 8.74,
+          "probability": 0.07
+        },
+        {
+          "word": "bị",
+          "start": 8.74,
+          "end": 8.9,
+          "probability": 0.17
+        },
+        {
+          "word": "bước.",
+          "start": 8.9,
+          "end": 9.26,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.66,
+      "end": 10.98,
+      "text": "Nhưng mà trong thời điểm hiết phà,",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 9.66,
+          "end": 9.74,
+          "probability": 0.53
+        },
+        {
+          "word": "mà",
+          "start": 9.74,
+          "end": 9.8,
+          "probability": 0.92
+        },
+        {
+          "word": "trong",
+          "start": 9.8,
+          "end": 9.98,
+          "probability": 0.87
+        },
+        {
+          "word": "thời",
+          "start": 9.98,
+          "end": 10.2,
+          "probability": 0.49
+        },
+        {
+          "word": "điểm",
+          "start": 10.2,
+          "end": 10.36,
+          "probability": 0.51
+        },
+        {
+          "word": "hiết",
+          "start": 10.36,
+          "end": 10.74,
+          "probability": 0.2
+        },
+        {
+          "word": "phà,",
+          "start": 10.74,
+          "end": 10.98,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.2,
+      "end": 13.1,
+      "text": "gái dưới rất là lầy giả vạc biệt độ mạc,",
+      "words": [
+        {
+          "word": "gái",
+          "start": 11.2,
+          "end": 11.38,
+          "probability": 0.41
+        },
+        {
+          "word": "dưới",
+          "start": 11.38,
+          "end": 11.58,
+          "probability": 0.38
+        },
+        {
+          "word": "rất",
+          "start": 11.58,
+          "end": 11.78,
+          "probability": 0.23
+        },
+        {
+          "word": "là",
+          "start": 11.78,
+          "end": 11.88,
+          "probability": 0.9
+        },
+        {
+          "word": "lầy",
+          "start": 11.88,
+          "end": 12.02,
+          "probability": 0.39
+        },
+        {
+          "word": "giả",
+          "start": 12.02,
+          "end": 12.18,
+          "probability": 0.5
+        },
+        {
+          "word": "vạc",
+          "start": 12.18,
+          "end": 12.34,
+          "probability": 0.24
+        },
+        {
+          "word": "biệt",
+          "start": 12.34,
+          "end": 12.52,
+          "probability": 0.19
+        },
+        {
+          "word": "độ",
+          "start": 12.52,
+          "end": 12.7,
+          "probability": 0.07
+        },
+        {
+          "word": "mạc,",
+          "start": 12.7,
+          "end": 13.1,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.36,
+      "end": 18.16,
+      "text": "dương như là những quyết nịch mô bán không chỉ nữa từ lúc cầu tích quyết mà còn bị chí phối,",
+      "words": [
+        {
+          "word": "dương",
+          "start": 13.36,
+          "end": 13.36,
+          "probability": 0.47
+        },
+        {
+          "word": "như",
+          "start": 13.36,
+          "end": 13.54,
+          "probability": 0.28
+        },
+        {
+          "word": "là",
+          "start": 13.54,
+          "end": 13.72,
+          "probability": 0.85
+        },
+        {
+          "word": "những",
+          "start": 13.72,
+          "end": 13.94,
+          "probability": 0.47
+        },
+        {
+          "word": "quyết",
+          "start": 13.94,
+          "end": 14.14,
+          "probability": 0.9
+        },
+        {
+          "word": "nịch",
+          "start": 14.14,
+          "end": 14.38,
+          "probability": 0.31
+        },
+        {
+          "word": "mô",
+          "start": 14.38,
+          "end": 14.58,
+          "probability": 0.42
+        },
+        {
+          "word": "bán",
+          "start": 14.58,
+          "end": 14.86,
+          "probability": 0.64
+        },
+        {
+          "word": "không",
+          "start": 14.86,
+          "end": 15.16,
+          "probability": 0.96
+        },
+        {
+          "word": "chỉ",
+          "start": 15.16,
+          "end": 15.38,
+          "probability": 0.8
+        },
+        {
+          "word": "nữa",
+          "start": 15.38,
+          "end": 15.64,
+          "probability": 0.16
+        },
+        {
+          "word": "từ",
+          "start": 15.64,
+          "end": 15.76,
+          "probability": 0.2
+        },
+        {
+          "word": "lúc",
+          "start": 15.76,
+          "end": 16.0,
+          "probability": 0.44
+        },
+        {
+          "word": "cầu",
+          "start": 16.0,
+          "end": 16.18,
+          "probability": 0.5
+        },
+        {
+          "word": "tích",
+          "start": 16.18,
+          "end": 16.32,
+          "probability": 0.91
+        },
+        {
+          "word": "quyết",
+          "start": 16.32,
+          "end": 16.74,
+          "probability": 0.59
+        },
+        {
+          "word": "mà",
+          "start": 16.74,
+          "end": 17.12,
+          "probability": 0.73
+        },
+        {
+          "word": "còn",
+          "start": 17.12,
+          "end": 17.34,
+          "probability": 0.49
+        },
+        {
+          "word": "bị",
+          "start": 17.34,
+          "end": 17.56,
+          "probability": 0.43
+        },
+        {
+          "word": "chí",
+          "start": 17.56,
+          "end": 17.84,
+          "probability": 0.59
+        },
+        {
+          "word": "phối,",
+          "start": 17.84,
+          "end": 18.16,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.6,
+      "end": 21.3,
+      "text": "bởi tâm lý rắn đông, và nỗ sợ mọc qua khởi.",
+      "words": [
+        {
+          "word": "bởi",
+          "start": 18.6,
+          "end": 18.62,
+          "probability": 0.83
+        },
+        {
+          "word": "tâm",
+          "start": 18.62,
+          "end": 18.68,
+          "probability": 0.9
+        },
+        {
+          "word": "lý",
+          "start": 18.68,
+          "end": 18.84,
+          "probability": 0.17
+        },
+        {
+          "word": "rắn",
+          "start": 18.84,
+          "end": 19.02,
+          "probability": 0.23
+        },
+        {
+          "word": "đông,",
+          "start": 19.02,
+          "end": 19.38,
+          "probability": 0.46
+        },
+        {
+          "word": "và",
+          "start": 19.64,
+          "end": 19.74,
+          "probability": 0.74
+        },
+        {
+          "word": "nỗ",
+          "start": 19.74,
+          "end": 19.92,
+          "probability": 0.36
+        },
+        {
+          "word": "sợ",
+          "start": 19.92,
+          "end": 20.28,
+          "probability": 0.72
+        },
+        {
+          "word": "mọc",
+          "start": 20.28,
+          "end": 20.76,
+          "probability": 0.61
+        },
+        {
+          "word": "qua",
+          "start": 20.76,
+          "end": 21.02,
+          "probability": 0.46
+        },
+        {
+          "word": "khởi.",
+          "start": 21.02,
+          "end": 21.3,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 22.42,
+      "end": 26.52,
+      "text": "Dưới đó, nhìn tại chính hệ viên thì làm sao để người dân biết mình đang ra phết định.",
+      "words": [
+        {
+          "word": "Dưới",
+          "start": 22.42,
+          "end": 22.78,
+          "probability": 0.65
+        },
+        {
+          "word": "đó,",
+          "start": 22.78,
+          "end": 22.96,
+          "probability": 0.37
+        },
+        {
+          "word": "nhìn",
+          "start": 22.96,
+          "end": 23.26,
+          "probability": 0.54
+        },
+        {
+          "word": "tại",
+          "start": 23.26,
+          "end": 23.54,
+          "probability": 0.28
+        },
+        {
+          "word": "chính",
+          "start": 23.54,
+          "end": 23.72,
+          "probability": 0.94
+        },
+        {
+          "word": "hệ",
+          "start": 23.72,
+          "end": 23.86,
+          "probability": 0.54
+        },
+        {
+          "word": "viên",
+          "start": 23.86,
+          "end": 24.12,
+          "probability": 0.49
+        },
+        {
+          "word": "thì",
+          "start": 24.12,
+          "end": 24.28,
+          "probability": 0.53
+        },
+        {
+          "word": "làm",
+          "start": 24.28,
+          "end": 24.46,
+          "probability": 0.86
+        },
+        {
+          "word": "sao",
+          "start": 24.46,
+          "end": 24.62,
+          "probability": 0.85
+        },
+        {
+          "word": "để",
+          "start": 24.62,
+          "end": 24.78,
+          "probability": 0.53
+        },
+        {
+          "word": "người",
+          "start": 24.78,
+          "end": 24.92,
+          "probability": 0.43
+        },
+        {
+          "word": "dân",
+          "start": 24.92,
+          "end": 25.06,
+          "probability": 0.52
+        },
+        {
+          "word": "biết",
+          "start": 25.06,
+          "end": 25.38,
+          "probability": 0.34
+        },
+        {
+          "word": "mình",
+          "start": 25.38,
+          "end": 25.6,
+          "probability": 0.58
+        },
+        {
+          "word": "đang",
+          "start": 25.6,
+          "end": 25.84,
+          "probability": 0.92
+        },
+        {
+          "word": "ra",
+          "start": 25.84,
+          "end": 26.02,
+          "probability": 0.38
+        },
+        {
+          "word": "phết",
+          "start": 26.02,
+          "end": 26.14,
+          "probability": 0.17
+        },
+        {
+          "word": "định.",
+          "start": 26.14,
+          "end": 26.52,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 26.86,
+      "end": 28.28,
+      "text": "Mô bán vì như cầu tại chính thật sự.",
+      "words": [
+        {
+          "word": "Mô",
+          "start": 26.86,
+          "end": 26.86,
+          "probability": 0.89
+        },
+        {
+          "word": "bán",
+          "start": 26.86,
+          "end": 27.16,
+          "probability": 0.98
+        },
+        {
+          "word": "vì",
+          "start": 27.16,
+          "end": 27.36,
+          "probability": 0.16
+        },
+        {
+          "word": "như",
+          "start": 27.36,
+          "end": 27.56,
+          "probability": 0.34
+        },
+        {
+          "word": "cầu",
+          "start": 27.56,
+          "end": 27.7,
+          "probability": 0.98
+        },
+        {
+          "word": "tại",
+          "start": 27.7,
+          "end": 27.86,
+          "probability": 0.95
+        },
+        {
+          "word": "chính",
+          "start": 27.86,
+          "end": 27.98,
+          "probability": 0.97
+        },
+        {
+          "word": "thật",
+          "start": 27.98,
+          "end": 28.18,
+          "probability": 0.58
+        },
+        {
+          "word": "sự.",
+          "start": 28.18,
+          "end": 28.28,
+          "probability": 0.96
+        }
+      ]
+    }
+  ]
+}

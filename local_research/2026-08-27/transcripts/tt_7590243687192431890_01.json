@@ -1,0 +1,768 @@
+{
+  "item_id": "tt_7590243687192431890_01",
+  "duration_seconds": 26.92,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 117,
+  "text": "Tại vì phố đón năm 2019, chỉ cắt bốn kêu mất như lịch nhau 20 mưu. Đường đường ngày cúp tế, một đường tưởng tưởng sắc quan vui quyết hốc đã tạo nên những nghiệp li của việc đời không này và ngày mai tưởng tại sông sông. Lý tổ điều mét, mi, và biết điều mét, ngà, năm được sĩnh nhau dựa elb yền Berry. Về mặt đẹl ý, khoảng tích sửa 2 đảo chỉ khoảng bốn kêu mét, nhưng về thời gian, 2 nơi lại cách nhau tới 20 mưu sờ đường đường ngày cúp tế trẻ dữ chúng. Lý tổ điều mét thụng bằng á lịch ca, sử dụng mưu sờ UTC chứ chính.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.32,
+      "text": "Tại vì phố đón năm 2019, chỉ cắt bốn kêu mất như lịch nhau 20 mưu.",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.13
+        },
+        {
+          "word": "vì",
+          "start": 0.12,
+          "end": 0.12,
+          "probability": 0.1
+        },
+        {
+          "word": "phố",
+          "start": 0.12,
+          "end": 0.38,
+          "probability": 0.16
+        },
+        {
+          "word": "đón",
+          "start": 0.38,
+          "end": 0.54,
+          "probability": 0.5
+        },
+        {
+          "word": "năm",
+          "start": 0.54,
+          "end": 0.76,
+          "probability": 0.39
+        },
+        {
+          "word": "2019,",
+          "start": 0.76,
+          "end": 1.02,
+          "probability": 0.45
+        },
+        {
+          "word": "chỉ",
+          "start": 1.44,
+          "end": 1.58,
+          "probability": 0.59
+        },
+        {
+          "word": "cắt",
+          "start": 1.58,
+          "end": 1.72,
+          "probability": 0.25
+        },
+        {
+          "word": "bốn",
+          "start": 1.72,
+          "end": 1.88,
+          "probability": 0.53
+        },
+        {
+          "word": "kêu",
+          "start": 1.88,
+          "end": 2.08,
+          "probability": 0.22
+        },
+        {
+          "word": "mất",
+          "start": 2.08,
+          "end": 2.34,
+          "probability": 0.29
+        },
+        {
+          "word": "như",
+          "start": 2.34,
+          "end": 2.52,
+          "probability": 0.44
+        },
+        {
+          "word": "lịch",
+          "start": 2.52,
+          "end": 2.68,
+          "probability": 0.43
+        },
+        {
+          "word": "nhau",
+          "start": 2.68,
+          "end": 2.86,
+          "probability": 0.82
+        },
+        {
+          "word": "20",
+          "start": 2.86,
+          "end": 3.08,
+          "probability": 0.24
+        },
+        {
+          "word": "mưu.",
+          "start": 3.08,
+          "end": 3.32,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.06,
+      "end": 8.08,
+      "text": "Đường đường ngày cúp tế, một đường tưởng tưởng sắc quan vui quyết hốc đã tạo nên những nghiệp li của việc",
+      "words": [
+        {
+          "word": "Đường",
+          "start": 4.06,
+          "end": 4.2,
+          "probability": 0.68
+        },
+        {
+          "word": "đường",
+          "start": 4.2,
+          "end": 4.36,
+          "probability": 0.67
+        },
+        {
+          "word": "ngày",
+          "start": 4.36,
+          "end": 4.5,
+          "probability": 0.23
+        },
+        {
+          "word": "cúp",
+          "start": 4.5,
+          "end": 4.66,
+          "probability": 0.31
+        },
+        {
+          "word": "tế,",
+          "start": 4.66,
+          "end": 4.96,
+          "probability": 0.46
+        },
+        {
+          "word": "một",
+          "start": 5.22,
+          "end": 5.24,
+          "probability": 0.71
+        },
+        {
+          "word": "đường",
+          "start": 5.24,
+          "end": 5.4,
+          "probability": 0.93
+        },
+        {
+          "word": "tưởng",
+          "start": 5.4,
+          "end": 5.7,
+          "probability": 0.53
+        },
+        {
+          "word": "tưởng",
+          "start": 5.7,
+          "end": 5.82,
+          "probability": 0.82
+        },
+        {
+          "word": "sắc",
+          "start": 5.82,
+          "end": 5.98,
+          "probability": 0.25
+        },
+        {
+          "word": "quan",
+          "start": 5.98,
+          "end": 6.2,
+          "probability": 0.36
+        },
+        {
+          "word": "vui",
+          "start": 6.2,
+          "end": 6.24,
+          "probability": 0.25
+        },
+        {
+          "word": "quyết",
+          "start": 6.24,
+          "end": 6.62,
+          "probability": 0.31
+        },
+        {
+          "word": "hốc",
+          "start": 6.62,
+          "end": 6.62,
+          "probability": 0.16
+        },
+        {
+          "word": "đã",
+          "start": 6.62,
+          "end": 6.92,
+          "probability": 0.71
+        },
+        {
+          "word": "tạo",
+          "start": 6.92,
+          "end": 7.1,
+          "probability": 0.74
+        },
+        {
+          "word": "nên",
+          "start": 7.1,
+          "end": 7.24,
+          "probability": 0.95
+        },
+        {
+          "word": "những",
+          "start": 7.24,
+          "end": 7.38,
+          "probability": 0.75
+        },
+        {
+          "word": "nghiệp",
+          "start": 7.38,
+          "end": 7.54,
+          "probability": 0.46
+        },
+        {
+          "word": "li",
+          "start": 7.54,
+          "end": 7.76,
+          "probability": 0.4
+        },
+        {
+          "word": "của",
+          "start": 7.76,
+          "end": 7.76,
+          "probability": 0.16
+        },
+        {
+          "word": "việc",
+          "start": 7.76,
+          "end": 8.08,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.08,
+      "end": 10.04,
+      "text": "đời không này và ngày mai tưởng tại sông sông.",
+      "words": [
+        {
+          "word": "đời",
+          "start": 8.08,
+          "end": 8.4,
+          "probability": 0.35
+        },
+        {
+          "word": "không",
+          "start": 8.4,
+          "end": 8.56,
+          "probability": 0.44
+        },
+        {
+          "word": "này",
+          "start": 8.56,
+          "end": 8.72,
+          "probability": 0.43
+        },
+        {
+          "word": "và",
+          "start": 8.72,
+          "end": 8.9,
+          "probability": 0.55
+        },
+        {
+          "word": "ngày",
+          "start": 8.9,
+          "end": 9.06,
+          "probability": 0.63
+        },
+        {
+          "word": "mai",
+          "start": 9.06,
+          "end": 9.24,
+          "probability": 0.89
+        },
+        {
+          "word": "tưởng",
+          "start": 9.24,
+          "end": 9.4,
+          "probability": 0.62
+        },
+        {
+          "word": "tại",
+          "start": 9.4,
+          "end": 9.6,
+          "probability": 0.55
+        },
+        {
+          "word": "sông",
+          "start": 9.6,
+          "end": 9.78,
+          "probability": 0.31
+        },
+        {
+          "word": "sông.",
+          "start": 9.78,
+          "end": 10.04,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.56,
+      "end": 14.74,
+      "text": "Lý tổ điều mét, mi, và biết điều mét, ngà, năm được sĩnh nhau dựa elb yền Berry.",
+      "words": [
+        {
+          "word": "Lý",
+          "start": 10.56,
+          "end": 10.7,
+          "probability": 0.72
+        },
+        {
+          "word": "tổ",
+          "start": 10.7,
+          "end": 10.84,
+          "probability": 0.52
+        },
+        {
+          "word": "điều",
+          "start": 10.84,
+          "end": 11.08,
+          "probability": 0.26
+        },
+        {
+          "word": "mét,",
+          "start": 11.08,
+          "end": 11.38,
+          "probability": 0.37
+        },
+        {
+          "word": "mi,",
+          "start": 11.54,
+          "end": 11.7,
+          "probability": 0.21
+        },
+        {
+          "word": "và",
+          "start": 11.82,
+          "end": 12.06,
+          "probability": 0.62
+        },
+        {
+          "word": "biết",
+          "start": 12.06,
+          "end": 12.24,
+          "probability": 0.57
+        },
+        {
+          "word": "điều",
+          "start": 12.24,
+          "end": 12.42,
+          "probability": 0.95
+        },
+        {
+          "word": "mét,",
+          "start": 12.42,
+          "end": 12.74,
+          "probability": 0.9
+        },
+        {
+          "word": "ngà,",
+          "start": 12.9,
+          "end": 13.18,
+          "probability": 0.37
+        },
+        {
+          "word": "năm",
+          "start": 13.48,
+          "end": 13.48,
+          "probability": 0.68
+        },
+        {
+          "word": "được",
+          "start": 13.48,
+          "end": 13.58,
+          "probability": 0.44
+        },
+        {
+          "word": "sĩnh",
+          "start": 13.58,
+          "end": 13.8,
+          "probability": 0.31
+        },
+        {
+          "word": "nhau",
+          "start": 13.8,
+          "end": 13.92,
+          "probability": 0.96
+        },
+        {
+          "word": "dựa",
+          "start": 13.92,
+          "end": 14.16,
+          "probability": 0.32
+        },
+        {
+          "word": "elb",
+          "start": 14.16,
+          "end": 14.38,
+          "probability": 0.34
+        },
+        {
+          "word": "yền",
+          "start": 14.38,
+          "end": 14.44,
+          "probability": 0.3
+        },
+        {
+          "word": "Berry.",
+          "start": 14.44,
+          "end": 14.74,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.34,
+      "end": 19.1,
+      "text": "Về mặt đẹl ý, khoảng tích sửa 2 đảo chỉ khoảng bốn kêu mét, nhưng về thời gian,",
+      "words": [
+        {
+          "word": "Về",
+          "start": 15.34,
+          "end": 15.48,
+          "probability": 0.51
+        },
+        {
+          "word": "mặt",
+          "start": 15.48,
+          "end": 15.62,
+          "probability": 0.34
+        },
+        {
+          "word": "đẹl",
+          "start": 15.62,
+          "end": 15.84,
+          "probability": 0.27
+        },
+        {
+          "word": "ý,",
+          "start": 15.84,
+          "end": 16.06,
+          "probability": 0.27
+        },
+        {
+          "word": "khoảng",
+          "start": 16.34,
+          "end": 16.38,
+          "probability": 0.94
+        },
+        {
+          "word": "tích",
+          "start": 16.38,
+          "end": 16.54,
+          "probability": 0.35
+        },
+        {
+          "word": "sửa",
+          "start": 16.54,
+          "end": 16.7,
+          "probability": 0.42
+        },
+        {
+          "word": "2",
+          "start": 16.7,
+          "end": 16.86,
+          "probability": 0.45
+        },
+        {
+          "word": "đảo",
+          "start": 16.86,
+          "end": 17.06,
+          "probability": 0.63
+        },
+        {
+          "word": "chỉ",
+          "start": 17.06,
+          "end": 17.24,
+          "probability": 0.28
+        },
+        {
+          "word": "khoảng",
+          "start": 17.24,
+          "end": 17.4,
+          "probability": 0.97
+        },
+        {
+          "word": "bốn",
+          "start": 17.4,
+          "end": 17.6,
+          "probability": 0.74
+        },
+        {
+          "word": "kêu",
+          "start": 17.6,
+          "end": 17.76,
+          "probability": 0.98
+        },
+        {
+          "word": "mét,",
+          "start": 17.76,
+          "end": 18.22,
+          "probability": 0.89
+        },
+        {
+          "word": "nhưng",
+          "start": 18.52,
+          "end": 18.58,
+          "probability": 0.63
+        },
+        {
+          "word": "về",
+          "start": 18.58,
+          "end": 18.74,
+          "probability": 0.88
+        },
+        {
+          "word": "thời",
+          "start": 18.74,
+          "end": 18.98,
+          "probability": 0.6
+        },
+        {
+          "word": "gian,",
+          "start": 18.98,
+          "end": 19.1,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 19.36,
+      "end": 22.94,
+      "text": "2 nơi lại cách nhau tới 20 mưu sờ đường đường ngày cúp tế trẻ dữ chúng.",
+      "words": [
+        {
+          "word": "2",
+          "start": 19.36,
+          "end": 19.54,
+          "probability": 0.34
+        },
+        {
+          "word": "nơi",
+          "start": 19.54,
+          "end": 19.66,
+          "probability": 0.35
+        },
+        {
+          "word": "lại",
+          "start": 19.66,
+          "end": 19.8,
+          "probability": 0.86
+        },
+        {
+          "word": "cách",
+          "start": 19.8,
+          "end": 19.94,
+          "probability": 0.71
+        },
+        {
+          "word": "nhau",
+          "start": 19.94,
+          "end": 20.12,
+          "probability": 0.99
+        },
+        {
+          "word": "tới",
+          "start": 20.12,
+          "end": 20.34,
+          "probability": 0.34
+        },
+        {
+          "word": "20",
+          "start": 20.34,
+          "end": 20.62,
+          "probability": 0.7
+        },
+        {
+          "word": "mưu",
+          "start": 20.62,
+          "end": 20.8,
+          "probability": 0.97
+        },
+        {
+          "word": "sờ",
+          "start": 20.8,
+          "end": 21.28,
+          "probability": 0.31
+        },
+        {
+          "word": "đường",
+          "start": 21.28,
+          "end": 21.54,
+          "probability": 0.73
+        },
+        {
+          "word": "đường",
+          "start": 21.54,
+          "end": 21.74,
+          "probability": 0.95
+        },
+        {
+          "word": "ngày",
+          "start": 21.74,
+          "end": 21.86,
+          "probability": 0.99
+        },
+        {
+          "word": "cúp",
+          "start": 21.86,
+          "end": 22.02,
+          "probability": 0.95
+        },
+        {
+          "word": "tế",
+          "start": 22.02,
+          "end": 22.16,
+          "probability": 0.85
+        },
+        {
+          "word": "trẻ",
+          "start": 22.16,
+          "end": 22.36,
+          "probability": 0.38
+        },
+        {
+          "word": "dữ",
+          "start": 22.36,
+          "end": 22.52,
+          "probability": 0.46
+        },
+        {
+          "word": "chúng.",
+          "start": 22.52,
+          "end": 22.94,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 22.94,
+      "end": 26.8,
+      "text": "Lý tổ điều mét thụng bằng á lịch ca, sử dụng mưu sờ UTC chứ chính.",
+      "words": [
+        {
+          "word": "Lý",
+          "start": 22.94,
+          "end": 23.44,
+          "probability": 0.59
+        },
+        {
+          "word": "tổ",
+          "start": 23.44,
+          "end": 23.58,
+          "probability": 0.69
+        },
+        {
+          "word": "điều",
+          "start": 23.58,
+          "end": 23.78,
+          "probability": 0.55
+        },
+        {
+          "word": "mét",
+          "start": 23.78,
+          "end": 24.0,
+          "probability": 0.07
+        },
+        {
+          "word": "thụng",
+          "start": 24.0,
+          "end": 24.24,
+          "probability": 0.33
+        },
+        {
+          "word": "bằng",
+          "start": 24.24,
+          "end": 24.38,
+          "probability": 0.44
+        },
+        {
+          "word": "á",
+          "start": 24.38,
+          "end": 24.5,
+          "probability": 0.21
+        },
+        {
+          "word": "lịch",
+          "start": 24.5,
+          "end": 24.64,
+          "probability": 0.16
+        },
+        {
+          "word": "ca,",
+          "start": 24.64,
+          "end": 25.1,
+          "probability": 0.09
+        },
+        {
+          "word": "sử",
+          "start": 25.24,
+          "end": 25.34,
+          "probability": 0.49
+        },
+        {
+          "word": "dụng",
+          "start": 25.34,
+          "end": 25.54,
+          "probability": 0.95
+        },
+        {
+          "word": "mưu",
+          "start": 25.54,
+          "end": 25.78,
+          "probability": 0.35
+        },
+        {
+          "word": "sờ",
+          "start": 25.78,
+          "end": 25.84,
+          "probability": 0.04
+        },
+        {
+          "word": "UTC",
+          "start": 25.84,
+          "end": 26.28,
+          "probability": 0.67
+        },
+        {
+          "word": "chứ",
+          "start": 26.28,
+          "end": 26.52,
+          "probability": 0.23
+        },
+        {
+          "word": "chính.",
+          "start": 26.52,
+          "end": 26.8,
+          "probability": 0.68
+        }
+      ]
+    }
+  ]
+}

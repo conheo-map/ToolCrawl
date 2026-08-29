@@ -1,0 +1,476 @@
+{
+  "item_id": "tt_7641967451189579029_04",
+  "duration_seconds": 24.52,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 71,
+  "text": "Tối thì về cu zân trưa đẹp là các người làm cái vod a yệt, trong cái kí giới dưới ăn này. Lần mà là một dưới ăn cu dân trưa cu dân. Nếu chân dưới ăn này thì tối với tụi khu lại có thể cá, và bà nhà được tư. Dưới bà nhà được tư thì mức một nhà được tư. Họn hỏi được chỉ là một khu vực.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 9.06,
+      "text": "Tối thì về cu zân trưa đẹp là các người làm cái vod a yệt, trong cái kí giới dưới ăn này.",
+      "words": [
+        {
+          "word": "Tối",
+          "start": 0.02,
+          "end": 0.68,
+          "probability": 0.24
+        },
+        {
+          "word": "thì",
+          "start": 0.68,
+          "end": 2.04,
+          "probability": 0.4
+        },
+        {
+          "word": "về",
+          "start": 2.04,
+          "end": 2.3,
+          "probability": 0.11
+        },
+        {
+          "word": "cu",
+          "start": 2.3,
+          "end": 2.48,
+          "probability": 0.13
+        },
+        {
+          "word": "zân",
+          "start": 2.48,
+          "end": 2.64,
+          "probability": 0.08
+        },
+        {
+          "word": "trưa",
+          "start": 2.64,
+          "end": 2.8,
+          "probability": 0.22
+        },
+        {
+          "word": "đẹp",
+          "start": 2.8,
+          "end": 3.36,
+          "probability": 0.37
+        },
+        {
+          "word": "là",
+          "start": 3.36,
+          "end": 3.38,
+          "probability": 0.06
+        },
+        {
+          "word": "các",
+          "start": 3.38,
+          "end": 3.84,
+          "probability": 0.14
+        },
+        {
+          "word": "người",
+          "start": 3.84,
+          "end": 4.04,
+          "probability": 0.08
+        },
+        {
+          "word": "làm",
+          "start": 4.04,
+          "end": 4.58,
+          "probability": 0.11
+        },
+        {
+          "word": "cái",
+          "start": 4.58,
+          "end": 5.96,
+          "probability": 0.2
+        },
+        {
+          "word": "vod",
+          "start": 5.96,
+          "end": 6.36,
+          "probability": 0.11
+        },
+        {
+          "word": "a",
+          "start": 6.36,
+          "end": 6.64,
+          "probability": 0.17
+        },
+        {
+          "word": "yệt,",
+          "start": 6.64,
+          "end": 6.78,
+          "probability": 0.2
+        },
+        {
+          "word": "trong",
+          "start": 6.84,
+          "end": 7.14,
+          "probability": 0.36
+        },
+        {
+          "word": "cái",
+          "start": 7.14,
+          "end": 7.46,
+          "probability": 0.74
+        },
+        {
+          "word": "kí",
+          "start": 7.46,
+          "end": 7.68,
+          "probability": 0.22
+        },
+        {
+          "word": "giới",
+          "start": 7.68,
+          "end": 8.08,
+          "probability": 0.18
+        },
+        {
+          "word": "dưới",
+          "start": 8.08,
+          "end": 8.48,
+          "probability": 0.44
+        },
+        {
+          "word": "ăn",
+          "start": 8.48,
+          "end": 8.72,
+          "probability": 0.24
+        },
+        {
+          "word": "này.",
+          "start": 8.72,
+          "end": 9.06,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 9.48,
+      "end": 11.36,
+      "text": "Lần mà là một dưới ăn cu dân trưa cu dân.",
+      "words": [
+        {
+          "word": "Lần",
+          "start": 9.48,
+          "end": 9.6,
+          "probability": 0.09
+        },
+        {
+          "word": "mà",
+          "start": 9.6,
+          "end": 9.78,
+          "probability": 0.01
+        },
+        {
+          "word": "là",
+          "start": 9.78,
+          "end": 9.78,
+          "probability": 0.12
+        },
+        {
+          "word": "một",
+          "start": 9.78,
+          "end": 10.02,
+          "probability": 0.26
+        },
+        {
+          "word": "dưới",
+          "start": 10.02,
+          "end": 10.28,
+          "probability": 0.91
+        },
+        {
+          "word": "ăn",
+          "start": 10.28,
+          "end": 10.44,
+          "probability": 0.96
+        },
+        {
+          "word": "cu",
+          "start": 10.44,
+          "end": 10.58,
+          "probability": 0.77
+        },
+        {
+          "word": "dân",
+          "start": 10.58,
+          "end": 10.72,
+          "probability": 0.69
+        },
+        {
+          "word": "trưa",
+          "start": 10.72,
+          "end": 10.96,
+          "probability": 0.52
+        },
+        {
+          "word": "cu",
+          "start": 10.96,
+          "end": 11.16,
+          "probability": 0.74
+        },
+        {
+          "word": "dân.",
+          "start": 11.16,
+          "end": 11.36,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.84,
+      "end": 18.72,
+      "text": "Nếu chân dưới ăn này thì tối với tụi khu lại có thể cá, và bà nhà được tư.",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 11.84,
+          "end": 12.2,
+          "probability": 0.26
+        },
+        {
+          "word": "chân",
+          "start": 12.2,
+          "end": 12.74,
+          "probability": 0.25
+        },
+        {
+          "word": "dưới",
+          "start": 12.74,
+          "end": 13.04,
+          "probability": 0.68
+        },
+        {
+          "word": "ăn",
+          "start": 13.04,
+          "end": 13.34,
+          "probability": 0.96
+        },
+        {
+          "word": "này",
+          "start": 13.34,
+          "end": 13.46,
+          "probability": 0.9
+        },
+        {
+          "word": "thì",
+          "start": 13.46,
+          "end": 13.66,
+          "probability": 0.68
+        },
+        {
+          "word": "tối",
+          "start": 13.66,
+          "end": 13.92,
+          "probability": 0.61
+        },
+        {
+          "word": "với",
+          "start": 13.92,
+          "end": 14.52,
+          "probability": 0.1
+        },
+        {
+          "word": "tụi",
+          "start": 14.52,
+          "end": 14.92,
+          "probability": 0.45
+        },
+        {
+          "word": "khu",
+          "start": 14.92,
+          "end": 15.72,
+          "probability": 0.34
+        },
+        {
+          "word": "lại",
+          "start": 15.72,
+          "end": 15.94,
+          "probability": 0.24
+        },
+        {
+          "word": "có",
+          "start": 15.94,
+          "end": 16.14,
+          "probability": 0.18
+        },
+        {
+          "word": "thể",
+          "start": 16.14,
+          "end": 16.4,
+          "probability": 0.08
+        },
+        {
+          "word": "cá,",
+          "start": 16.4,
+          "end": 16.62,
+          "probability": 0.15
+        },
+        {
+          "word": "và",
+          "start": 16.8,
+          "end": 17.0,
+          "probability": 0.17
+        },
+        {
+          "word": "bà",
+          "start": 17.0,
+          "end": 17.72,
+          "probability": 0.31
+        },
+        {
+          "word": "nhà",
+          "start": 17.72,
+          "end": 17.94,
+          "probability": 0.07
+        },
+        {
+          "word": "được",
+          "start": 17.94,
+          "end": 18.18,
+          "probability": 0.11
+        },
+        {
+          "word": "tư.",
+          "start": 18.18,
+          "end": 18.72,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 18.9,
+      "end": 21.4,
+      "text": "Dưới bà nhà được tư thì mức một nhà được tư.",
+      "words": [
+        {
+          "word": "Dưới",
+          "start": 18.9,
+          "end": 19.1,
+          "probability": 0.37
+        },
+        {
+          "word": "bà",
+          "start": 19.1,
+          "end": 19.24,
+          "probability": 0.95
+        },
+        {
+          "word": "nhà",
+          "start": 19.24,
+          "end": 19.42,
+          "probability": 1.0
+        },
+        {
+          "word": "được",
+          "start": 19.42,
+          "end": 19.7,
+          "probability": 0.99
+        },
+        {
+          "word": "tư",
+          "start": 19.7,
+          "end": 19.88,
+          "probability": 0.95
+        },
+        {
+          "word": "thì",
+          "start": 19.88,
+          "end": 20.32,
+          "probability": 0.4
+        },
+        {
+          "word": "mức",
+          "start": 20.32,
+          "end": 20.48,
+          "probability": 0.34
+        },
+        {
+          "word": "một",
+          "start": 20.48,
+          "end": 20.72,
+          "probability": 0.34
+        },
+        {
+          "word": "nhà",
+          "start": 20.72,
+          "end": 20.8,
+          "probability": 0.95
+        },
+        {
+          "word": "được",
+          "start": 20.8,
+          "end": 21.08,
+          "probability": 0.98
+        },
+        {
+          "word": "tư.",
+          "start": 21.08,
+          "end": 21.4,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 22.06,
+      "end": 24.36,
+      "text": "Họn hỏi được chỉ là một khu vực.",
+      "words": [
+        {
+          "word": "Họn",
+          "start": 22.06,
+          "end": 22.12,
+          "probability": 0.18
+        },
+        {
+          "word": "hỏi",
+          "start": 22.12,
+          "end": 22.54,
+          "probability": 0.19
+        },
+        {
+          "word": "được",
+          "start": 22.54,
+          "end": 23.16,
+          "probability": 0.67
+        },
+        {
+          "word": "chỉ",
+          "start": 23.16,
+          "end": 23.82,
+          "probability": 0.05
+        },
+        {
+          "word": "là",
+          "start": 23.82,
+          "end": 23.94,
+          "probability": 0.22
+        },
+        {
+          "word": "một",
+          "start": 23.94,
+          "end": 24.06,
+          "probability": 0.82
+        },
+        {
+          "word": "khu",
+          "start": 24.06,
+          "end": 24.22,
+          "probability": 0.9
+        },
+        {
+          "word": "vực.",
+          "start": 24.22,
+          "end": 24.36,
+          "probability": 0.18
+        }
+      ]
+    }
+  ]
+}

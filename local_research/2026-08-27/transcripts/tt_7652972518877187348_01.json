@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7652972518877187348_01",
+  "duration_seconds": 29.85,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Cảm ơn các bạn ạ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.86,
+      "end": 1.92,
+      "text": "Cảm ơn các bạn ạ",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 0.86,
+          "end": 1.46,
+          "probability": 0.37
+        },
+        {
+          "word": "ơn",
+          "start": 1.46,
+          "end": 1.76,
+          "probability": 0.42
+        },
+        {
+          "word": "các",
+          "start": 1.76,
+          "end": 1.92,
+          "probability": 0.07
+        },
+        {
+          "word": "bạn",
+          "start": 1.92,
+          "end": 1.92,
+          "probability": 0.2
+        },
+        {
+          "word": "ạ",
+          "start": 1.92,
+          "end": 1.92,
+          "probability": 0.28
+        }
+      ]
+    }
+  ]
+}

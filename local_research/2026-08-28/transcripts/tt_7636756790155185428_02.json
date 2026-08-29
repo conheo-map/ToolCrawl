@@ -1,0 +1,98 @@
+{
+  "item_id": "tt_7636756790155185428_02",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "Mình sẽ có thể bỏa lần. Mình sẽ có thể bỏa lần.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.58,
+      "end": 4.4,
+      "text": "Mình sẽ có thể bỏa lần.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 2.58,
+          "end": 2.74,
+          "probability": 0.11
+        },
+        {
+          "word": "sẽ",
+          "start": 2.74,
+          "end": 3.34,
+          "probability": 0.13
+        },
+        {
+          "word": "có",
+          "start": 3.34,
+          "end": 3.34,
+          "probability": 0.05
+        },
+        {
+          "word": "thể",
+          "start": 3.34,
+          "end": 4.1,
+          "probability": 0.06
+        },
+        {
+          "word": "bỏa",
+          "start": 4.1,
+          "end": 4.1,
+          "probability": 0.06
+        },
+        {
+          "word": "lần.",
+          "start": 4.1,
+          "end": 4.4,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.4,
+      "end": 5.56,
+      "text": "Mình sẽ có thể bỏa lần.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 4.4,
+          "end": 5.56,
+          "probability": 0.52
+        },
+        {
+          "word": "sẽ",
+          "start": 5.56,
+          "end": 5.56,
+          "probability": 0.63
+        },
+        {
+          "word": "có",
+          "start": 5.56,
+          "end": 5.56,
+          "probability": 0.27
+        },
+        {
+          "word": "thể",
+          "start": 5.56,
+          "end": 5.56,
+          "probability": 0.79
+        },
+        {
+          "word": "bỏa",
+          "start": 5.56,
+          "end": 5.56,
+          "probability": 0.78
+        },
+        {
+          "word": "lần.",
+          "start": 5.56,
+          "end": 5.56,
+          "probability": 0.95
+        }
+      ]
+    }
+  ]
+}

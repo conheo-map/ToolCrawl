@@ -1,0 +1,164 @@
+{
+  "item_id": "tt_7312096986470092033_05",
+  "duration_seconds": 18.7,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 19,
+  "text": "foram 3 đam biển trị kiến bình cô ancuyen continu ngon 1 cứ bị這裡 ảc kia để xét xo",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.4,
+      "text": "foram 3 đam biển trị kiến bình",
+      "words": [
+        {
+          "word": "foram",
+          "start": 0.0,
+          "end": 0.52,
+          "probability": 0.0
+        },
+        {
+          "word": "3",
+          "start": 0.52,
+          "end": 1.32,
+          "probability": 0.01
+        },
+        {
+          "word": "đam",
+          "start": 1.32,
+          "end": 3.0,
+          "probability": 0.11
+        },
+        {
+          "word": "biển",
+          "start": 3.0,
+          "end": 3.0,
+          "probability": 0.05
+        },
+        {
+          "word": "trị",
+          "start": 3.0,
+          "end": 3.54,
+          "probability": 0.03
+        },
+        {
+          "word": "kiến",
+          "start": 3.54,
+          "end": 4.08,
+          "probability": 0.11
+        },
+        {
+          "word": "bình",
+          "start": 4.08,
+          "end": 4.4,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.4,
+      "end": 8.0,
+      "text": "cô ancuyen",
+      "words": [
+        {
+          "word": "cô",
+          "start": 4.4,
+          "end": 4.4,
+          "probability": 0.0
+        },
+        {
+          "word": "ancuyen",
+          "start": 4.4,
+          "end": 8.0,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.1,
+      "end": 15.48,
+      "text": "continu ngon 1",
+      "words": [
+        {
+          "word": "continu",
+          "start": 11.1,
+          "end": 11.1,
+          "probability": 0.0
+        },
+        {
+          "word": "ngon",
+          "start": 11.1,
+          "end": 11.1,
+          "probability": 0.04
+        },
+        {
+          "word": "1",
+          "start": 11.1,
+          "end": 15.48,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.48,
+      "end": 16.6,
+      "text": "cứ bị這裡",
+      "words": [
+        {
+          "word": "cứ",
+          "start": 15.48,
+          "end": 16.18,
+          "probability": 0.0
+        },
+        {
+          "word": "bị這裡",
+          "start": 16.18,
+          "end": 16.6,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.6,
+      "end": 18.68,
+      "text": "ảc kia để xét xo",
+      "words": [
+        {
+          "word": "ảc",
+          "start": 16.6,
+          "end": 18.58,
+          "probability": 0.03
+        },
+        {
+          "word": "kia",
+          "start": 18.58,
+          "end": 18.68,
+          "probability": 0.23
+        },
+        {
+          "word": "để",
+          "start": 18.68,
+          "end": 18.68,
+          "probability": 0.0
+        },
+        {
+          "word": "xét",
+          "start": 18.68,
+          "end": 18.68,
+          "probability": 0.01
+        },
+        {
+          "word": "xo",
+          "start": 18.68,
+          "end": 18.68,
+          "probability": 0.09
+        }
+      ]
+    }
+  ]
+}

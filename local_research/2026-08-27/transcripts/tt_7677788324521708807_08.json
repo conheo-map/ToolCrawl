@@ -1,0 +1,480 @@
+{
+  "item_id": "tt_7677788324521708807_08",
+  "duration_seconds": 28.78,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 73,
+  "text": "nhưng mà tờ lúc mà đừng có trở để vi trở con cái được dễ hóa tại khám xuống bằng lát dù đó không ngon là con được học tây, để học luôn, nhưng khi xin gẩn, ở đó mình giấu mình được học trong dễ bằng lát, không tế nè vi trở cũng được học lúc xãng rồi đây dừa cơm áo tây, mình có dừa chăm loại trách con không lòng",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.54,
+      "text": "nhưng mà tờ lúc mà đừng có trở để vi trở con cái được dễ hóa tại khám xuống bằng lát dù đó",
+      "words": [
+        {
+          "word": "nhưng",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.37
+        },
+        {
+          "word": "mà",
+          "start": 0.44,
+          "end": 0.74,
+          "probability": 0.99
+        },
+        {
+          "word": "tờ",
+          "start": 0.74,
+          "end": 0.98,
+          "probability": 0.31
+        },
+        {
+          "word": "lúc",
+          "start": 0.98,
+          "end": 1.14,
+          "probability": 0.55
+        },
+        {
+          "word": "mà",
+          "start": 1.14,
+          "end": 1.34,
+          "probability": 0.82
+        },
+        {
+          "word": "đừng",
+          "start": 1.34,
+          "end": 1.5,
+          "probability": 0.39
+        },
+        {
+          "word": "có",
+          "start": 1.5,
+          "end": 1.68,
+          "probability": 0.53
+        },
+        {
+          "word": "trở",
+          "start": 1.68,
+          "end": 1.9,
+          "probability": 0.5
+        },
+        {
+          "word": "để",
+          "start": 1.9,
+          "end": 2.16,
+          "probability": 0.23
+        },
+        {
+          "word": "vi",
+          "start": 2.16,
+          "end": 2.38,
+          "probability": 0.3
+        },
+        {
+          "word": "trở",
+          "start": 2.38,
+          "end": 2.54,
+          "probability": 0.39
+        },
+        {
+          "word": "con",
+          "start": 2.54,
+          "end": 2.86,
+          "probability": 0.36
+        },
+        {
+          "word": "cái",
+          "start": 2.86,
+          "end": 3.54,
+          "probability": 0.23
+        },
+        {
+          "word": "được",
+          "start": 3.54,
+          "end": 3.8,
+          "probability": 0.41
+        },
+        {
+          "word": "dễ",
+          "start": 3.8,
+          "end": 4.08,
+          "probability": 0.43
+        },
+        {
+          "word": "hóa",
+          "start": 4.08,
+          "end": 4.42,
+          "probability": 0.58
+        },
+        {
+          "word": "tại",
+          "start": 4.42,
+          "end": 4.48,
+          "probability": 0.27
+        },
+        {
+          "word": "khám",
+          "start": 4.48,
+          "end": 4.66,
+          "probability": 0.5
+        },
+        {
+          "word": "xuống",
+          "start": 4.66,
+          "end": 5.16,
+          "probability": 0.62
+        },
+        {
+          "word": "bằng",
+          "start": 5.16,
+          "end": 5.48,
+          "probability": 0.37
+        },
+        {
+          "word": "lát",
+          "start": 5.48,
+          "end": 5.78,
+          "probability": 0.38
+        },
+        {
+          "word": "dù",
+          "start": 5.78,
+          "end": 5.92,
+          "probability": 0.55
+        },
+        {
+          "word": "đó",
+          "start": 5.92,
+          "end": 6.54,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.54,
+      "end": 15.38,
+      "text": "không ngon là con được học tây, để học luôn, nhưng khi xin gẩn, ở đó mình giấu mình được học trong dễ",
+      "words": [
+        {
+          "word": "không",
+          "start": 6.54,
+          "end": 6.76,
+          "probability": 0.56
+        },
+        {
+          "word": "ngon",
+          "start": 6.76,
+          "end": 7.02,
+          "probability": 0.45
+        },
+        {
+          "word": "là",
+          "start": 7.02,
+          "end": 7.28,
+          "probability": 0.7
+        },
+        {
+          "word": "con",
+          "start": 7.28,
+          "end": 7.46,
+          "probability": 0.55
+        },
+        {
+          "word": "được",
+          "start": 7.46,
+          "end": 7.74,
+          "probability": 0.35
+        },
+        {
+          "word": "học",
+          "start": 7.74,
+          "end": 7.98,
+          "probability": 0.53
+        },
+        {
+          "word": "tây,",
+          "start": 7.98,
+          "end": 8.34,
+          "probability": 0.27
+        },
+        {
+          "word": "để",
+          "start": 8.86,
+          "end": 9.76,
+          "probability": 0.2
+        },
+        {
+          "word": "học",
+          "start": 9.76,
+          "end": 10.06,
+          "probability": 1.0
+        },
+        {
+          "word": "luôn,",
+          "start": 10.06,
+          "end": 10.36,
+          "probability": 0.9
+        },
+        {
+          "word": "nhưng",
+          "start": 10.6,
+          "end": 10.82,
+          "probability": 0.13
+        },
+        {
+          "word": "khi",
+          "start": 10.82,
+          "end": 11.08,
+          "probability": 0.77
+        },
+        {
+          "word": "xin",
+          "start": 11.08,
+          "end": 11.36,
+          "probability": 0.22
+        },
+        {
+          "word": "gẩn,",
+          "start": 11.36,
+          "end": 11.72,
+          "probability": 0.28
+        },
+        {
+          "word": "ở",
+          "start": 11.98,
+          "end": 12.16,
+          "probability": 0.4
+        },
+        {
+          "word": "đó",
+          "start": 12.16,
+          "end": 12.28,
+          "probability": 0.86
+        },
+        {
+          "word": "mình",
+          "start": 12.28,
+          "end": 12.6,
+          "probability": 0.72
+        },
+        {
+          "word": "giấu",
+          "start": 12.6,
+          "end": 12.9,
+          "probability": 0.28
+        },
+        {
+          "word": "mình",
+          "start": 12.9,
+          "end": 13.1,
+          "probability": 0.24
+        },
+        {
+          "word": "được",
+          "start": 13.1,
+          "end": 13.24,
+          "probability": 0.32
+        },
+        {
+          "word": "học",
+          "start": 13.24,
+          "end": 13.54,
+          "probability": 0.38
+        },
+        {
+          "word": "trong",
+          "start": 13.54,
+          "end": 14.04,
+          "probability": 0.14
+        },
+        {
+          "word": "dễ",
+          "start": 14.04,
+          "end": 15.38,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 16.12,
+      "end": 20.48,
+      "text": "bằng lát, không tế nè vi trở cũng được học lúc xãng rồi",
+      "words": [
+        {
+          "word": "bằng",
+          "start": 16.12,
+          "end": 16.66,
+          "probability": 0.51
+        },
+        {
+          "word": "lát,",
+          "start": 16.66,
+          "end": 17.2,
+          "probability": 0.98
+        },
+        {
+          "word": "không",
+          "start": 18.26,
+          "end": 18.26,
+          "probability": 0.43
+        },
+        {
+          "word": "tế",
+          "start": 18.26,
+          "end": 18.52,
+          "probability": 0.22
+        },
+        {
+          "word": "nè",
+          "start": 18.52,
+          "end": 18.72,
+          "probability": 0.26
+        },
+        {
+          "word": "vi",
+          "start": 18.72,
+          "end": 19.02,
+          "probability": 0.64
+        },
+        {
+          "word": "trở",
+          "start": 19.02,
+          "end": 19.02,
+          "probability": 0.91
+        },
+        {
+          "word": "cũng",
+          "start": 19.02,
+          "end": 19.16,
+          "probability": 0.56
+        },
+        {
+          "word": "được",
+          "start": 19.16,
+          "end": 19.34,
+          "probability": 0.99
+        },
+        {
+          "word": "học",
+          "start": 19.34,
+          "end": 19.48,
+          "probability": 0.68
+        },
+        {
+          "word": "lúc",
+          "start": 19.48,
+          "end": 19.7,
+          "probability": 0.52
+        },
+        {
+          "word": "xãng",
+          "start": 19.7,
+          "end": 20.12,
+          "probability": 0.34
+        },
+        {
+          "word": "rồi",
+          "start": 20.12,
+          "end": 20.48,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 21.96,
+      "end": 27.86,
+      "text": "đây dừa cơm áo tây, mình có dừa chăm loại trách con không lòng",
+      "words": [
+        {
+          "word": "đây",
+          "start": 21.96,
+          "end": 22.36,
+          "probability": 0.07
+        },
+        {
+          "word": "dừa",
+          "start": 22.36,
+          "end": 23.04,
+          "probability": 0.33
+        },
+        {
+          "word": "cơm",
+          "start": 23.04,
+          "end": 23.76,
+          "probability": 0.57
+        },
+        {
+          "word": "áo",
+          "start": 23.76,
+          "end": 24.02,
+          "probability": 0.37
+        },
+        {
+          "word": "tây,",
+          "start": 24.02,
+          "end": 24.56,
+          "probability": 0.6
+        },
+        {
+          "word": "mình",
+          "start": 24.7,
+          "end": 24.98,
+          "probability": 0.21
+        },
+        {
+          "word": "có",
+          "start": 24.98,
+          "end": 25.02,
+          "probability": 0.33
+        },
+        {
+          "word": "dừa",
+          "start": 25.02,
+          "end": 25.58,
+          "probability": 0.55
+        },
+        {
+          "word": "chăm",
+          "start": 25.58,
+          "end": 26.54,
+          "probability": 0.32
+        },
+        {
+          "word": "loại",
+          "start": 26.54,
+          "end": 26.8,
+          "probability": 0.35
+        },
+        {
+          "word": "trách",
+          "start": 26.8,
+          "end": 27.14,
+          "probability": 0.21
+        },
+        {
+          "word": "con",
+          "start": 27.14,
+          "end": 27.18,
+          "probability": 0.86
+        },
+        {
+          "word": "không",
+          "start": 27.18,
+          "end": 27.44,
+          "probability": 0.61
+        },
+        {
+          "word": "lòng",
+          "start": 27.44,
+          "end": 27.86,
+          "probability": 0.26
+        }
+      ]
+    }
+  ]
+}

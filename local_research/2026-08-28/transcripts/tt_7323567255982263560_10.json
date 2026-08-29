@@ -1,0 +1,698 @@
+{
+  "item_id": "tt_7323567255982263560_10",
+  "duration_seconds": 28.11,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 104,
+  "text": "Các ạ bây giờ tải điểm ca. Thôi, thì kèm đủy đây, khoảng cách tuy điểm xe đến mặt phần ạ bây. Các ạ bây giờ tính thông qua khoảng bên hết, nó là xe ca trên hết ca. Đúng rồi lợp nhé. xe ca trên hết ca. Nhân khoảng cách tuy điểm hết để mặt phần ạ bây. Thì khoảng bên hết bây giờ, kèm. xe ca trên hết ca, kèm chứ biết, nhưng kèm đủy nó khi mà kèm kèm kèm, kèm. xe í vô ngốc về ạ bây. Thì xe ca trên hết ca, kèm tính thông qua xe í vô.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 2.34,
+      "text": "Các ạ bây giờ tải điểm ca.",
+      "words": [
+        {
+          "word": "Các",
+          "start": 0.02,
+          "end": 0.64,
+          "probability": 0.42
+        },
+        {
+          "word": "ạ",
+          "start": 0.64,
+          "end": 1.0,
+          "probability": 0.12
+        },
+        {
+          "word": "bây",
+          "start": 1.0,
+          "end": 1.1,
+          "probability": 0.4
+        },
+        {
+          "word": "giờ",
+          "start": 1.1,
+          "end": 1.14,
+          "probability": 0.66
+        },
+        {
+          "word": "tải",
+          "start": 1.14,
+          "end": 1.28,
+          "probability": 0.11
+        },
+        {
+          "word": "điểm",
+          "start": 1.28,
+          "end": 1.48,
+          "probability": 0.82
+        },
+        {
+          "word": "ca.",
+          "start": 1.48,
+          "end": 2.34,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.52,
+      "end": 7.28,
+      "text": "Thôi, thì kèm đủy đây, khoảng cách tuy điểm xe đến mặt phần ạ bây.",
+      "words": [
+        {
+          "word": "Thôi,",
+          "start": 2.52,
+          "end": 2.92,
+          "probability": 0.25
+        },
+        {
+          "word": "thì",
+          "start": 3.28,
+          "end": 3.28,
+          "probability": 0.53
+        },
+        {
+          "word": "kèm",
+          "start": 3.28,
+          "end": 3.46,
+          "probability": 0.44
+        },
+        {
+          "word": "đủy",
+          "start": 3.46,
+          "end": 3.62,
+          "probability": 0.54
+        },
+        {
+          "word": "đây,",
+          "start": 3.62,
+          "end": 4.08,
+          "probability": 0.33
+        },
+        {
+          "word": "khoảng",
+          "start": 4.32,
+          "end": 4.32,
+          "probability": 0.89
+        },
+        {
+          "word": "cách",
+          "start": 4.32,
+          "end": 4.52,
+          "probability": 0.87
+        },
+        {
+          "word": "tuy",
+          "start": 4.52,
+          "end": 4.7,
+          "probability": 0.44
+        },
+        {
+          "word": "điểm",
+          "start": 4.7,
+          "end": 4.9,
+          "probability": 0.67
+        },
+        {
+          "word": "xe",
+          "start": 4.9,
+          "end": 5.34,
+          "probability": 0.36
+        },
+        {
+          "word": "đến",
+          "start": 5.34,
+          "end": 5.66,
+          "probability": 0.54
+        },
+        {
+          "word": "mặt",
+          "start": 5.66,
+          "end": 5.82,
+          "probability": 0.53
+        },
+        {
+          "word": "phần",
+          "start": 5.82,
+          "end": 6.06,
+          "probability": 0.52
+        },
+        {
+          "word": "ạ",
+          "start": 6.06,
+          "end": 6.6,
+          "probability": 0.41
+        },
+        {
+          "word": "bây.",
+          "start": 6.6,
+          "end": 7.28,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.74,
+      "end": 11.92,
+      "text": "Các ạ bây giờ tính thông qua khoảng bên hết, nó là xe ca trên hết ca. Đúng rồi lợp nhé.",
+      "words": [
+        {
+          "word": "Các",
+          "start": 7.74,
+          "end": 7.86,
+          "probability": 0.42
+        },
+        {
+          "word": "ạ",
+          "start": 7.86,
+          "end": 7.94,
+          "probability": 0.4
+        },
+        {
+          "word": "bây",
+          "start": 7.94,
+          "end": 8.0,
+          "probability": 0.87
+        },
+        {
+          "word": "giờ",
+          "start": 8.0,
+          "end": 8.0,
+          "probability": 0.36
+        },
+        {
+          "word": "tính",
+          "start": 8.0,
+          "end": 8.24,
+          "probability": 0.74
+        },
+        {
+          "word": "thông",
+          "start": 8.24,
+          "end": 8.48,
+          "probability": 0.8
+        },
+        {
+          "word": "qua",
+          "start": 8.48,
+          "end": 8.58,
+          "probability": 0.14
+        },
+        {
+          "word": "khoảng",
+          "start": 8.58,
+          "end": 8.74,
+          "probability": 0.48
+        },
+        {
+          "word": "bên",
+          "start": 8.74,
+          "end": 8.92,
+          "probability": 0.02
+        },
+        {
+          "word": "hết,",
+          "start": 8.92,
+          "end": 9.14,
+          "probability": 0.39
+        },
+        {
+          "word": "nó",
+          "start": 9.24,
+          "end": 9.36,
+          "probability": 0.59
+        },
+        {
+          "word": "là",
+          "start": 9.36,
+          "end": 9.52,
+          "probability": 0.73
+        },
+        {
+          "word": "xe",
+          "start": 9.52,
+          "end": 9.78,
+          "probability": 0.76
+        },
+        {
+          "word": "ca",
+          "start": 9.78,
+          "end": 10.14,
+          "probability": 0.69
+        },
+        {
+          "word": "trên",
+          "start": 10.14,
+          "end": 10.32,
+          "probability": 0.49
+        },
+        {
+          "word": "hết",
+          "start": 10.32,
+          "end": 10.54,
+          "probability": 0.77
+        },
+        {
+          "word": "ca.",
+          "start": 10.54,
+          "end": 10.86,
+          "probability": 0.96
+        },
+        {
+          "word": "Đúng",
+          "start": 11.08,
+          "end": 11.1,
+          "probability": 0.63
+        },
+        {
+          "word": "rồi",
+          "start": 11.1,
+          "end": 11.26,
+          "probability": 0.2
+        },
+        {
+          "word": "lợp",
+          "start": 11.26,
+          "end": 11.46,
+          "probability": 0.54
+        },
+        {
+          "word": "nhé.",
+          "start": 11.46,
+          "end": 11.92,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.22,
+      "end": 15.92,
+      "text": "xe ca trên hết ca. Nhân khoảng cách tuy điểm hết để mặt phần ạ bây.",
+      "words": [
+        {
+          "word": "xe",
+          "start": 12.22,
+          "end": 12.24,
+          "probability": 0.92
+        },
+        {
+          "word": "ca",
+          "start": 12.24,
+          "end": 12.46,
+          "probability": 1.0
+        },
+        {
+          "word": "trên",
+          "start": 12.46,
+          "end": 12.62,
+          "probability": 0.77
+        },
+        {
+          "word": "hết",
+          "start": 12.62,
+          "end": 12.82,
+          "probability": 0.98
+        },
+        {
+          "word": "ca.",
+          "start": 12.82,
+          "end": 13.5,
+          "probability": 1.0
+        },
+        {
+          "word": "Nhân",
+          "start": 13.78,
+          "end": 13.94,
+          "probability": 0.42
+        },
+        {
+          "word": "khoảng",
+          "start": 13.94,
+          "end": 14.16,
+          "probability": 0.82
+        },
+        {
+          "word": "cách",
+          "start": 14.16,
+          "end": 14.36,
+          "probability": 0.99
+        },
+        {
+          "word": "tuy",
+          "start": 14.36,
+          "end": 14.44,
+          "probability": 0.99
+        },
+        {
+          "word": "điểm",
+          "start": 14.44,
+          "end": 14.6,
+          "probability": 0.99
+        },
+        {
+          "word": "hết",
+          "start": 14.6,
+          "end": 14.92,
+          "probability": 0.95
+        },
+        {
+          "word": "để",
+          "start": 14.92,
+          "end": 15.12,
+          "probability": 0.29
+        },
+        {
+          "word": "mặt",
+          "start": 15.12,
+          "end": 15.24,
+          "probability": 0.97
+        },
+        {
+          "word": "phần",
+          "start": 15.24,
+          "end": 15.36,
+          "probability": 0.6
+        },
+        {
+          "word": "ạ",
+          "start": 15.36,
+          "end": 15.5,
+          "probability": 0.95
+        },
+        {
+          "word": "bây.",
+          "start": 15.5,
+          "end": 15.92,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.4,
+      "end": 18.34,
+      "text": "Thì khoảng bên hết bây giờ, kèm.",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 16.4,
+          "end": 16.64,
+          "probability": 0.6
+        },
+        {
+          "word": "khoảng",
+          "start": 16.64,
+          "end": 16.78,
+          "probability": 0.99
+        },
+        {
+          "word": "bên",
+          "start": 16.78,
+          "end": 16.92,
+          "probability": 0.57
+        },
+        {
+          "word": "hết",
+          "start": 16.92,
+          "end": 17.08,
+          "probability": 0.96
+        },
+        {
+          "word": "bây",
+          "start": 17.08,
+          "end": 17.24,
+          "probability": 0.67
+        },
+        {
+          "word": "giờ,",
+          "start": 17.24,
+          "end": 17.3,
+          "probability": 0.92
+        },
+        {
+          "word": "kèm.",
+          "start": 17.78,
+          "end": 18.34,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 18.34,
+      "end": 23.24,
+      "text": "xe ca trên hết ca, kèm chứ biết, nhưng kèm đủy nó khi mà kèm kèm kèm, kèm.",
+      "words": [
+        {
+          "word": "xe",
+          "start": 18.34,
+          "end": 18.58,
+          "probability": 0.91
+        },
+        {
+          "word": "ca",
+          "start": 18.58,
+          "end": 19.12,
+          "probability": 1.0
+        },
+        {
+          "word": "trên",
+          "start": 19.12,
+          "end": 19.32,
+          "probability": 0.84
+        },
+        {
+          "word": "hết",
+          "start": 19.32,
+          "end": 19.54,
+          "probability": 0.99
+        },
+        {
+          "word": "ca,",
+          "start": 19.54,
+          "end": 19.76,
+          "probability": 0.93
+        },
+        {
+          "word": "kèm",
+          "start": 19.8,
+          "end": 19.88,
+          "probability": 0.73
+        },
+        {
+          "word": "chứ",
+          "start": 19.88,
+          "end": 20.02,
+          "probability": 0.21
+        },
+        {
+          "word": "biết,",
+          "start": 20.02,
+          "end": 20.4,
+          "probability": 0.45
+        },
+        {
+          "word": "nhưng",
+          "start": 20.66,
+          "end": 20.66,
+          "probability": 0.65
+        },
+        {
+          "word": "kèm",
+          "start": 20.66,
+          "end": 20.88,
+          "probability": 0.93
+        },
+        {
+          "word": "đủy",
+          "start": 20.88,
+          "end": 21.06,
+          "probability": 0.99
+        },
+        {
+          "word": "nó",
+          "start": 21.06,
+          "end": 21.4,
+          "probability": 0.4
+        },
+        {
+          "word": "khi",
+          "start": 21.4,
+          "end": 21.68,
+          "probability": 0.15
+        },
+        {
+          "word": "mà",
+          "start": 21.68,
+          "end": 21.84,
+          "probability": 0.72
+        },
+        {
+          "word": "kèm",
+          "start": 21.84,
+          "end": 22.06,
+          "probability": 0.94
+        },
+        {
+          "word": "kèm",
+          "start": 22.06,
+          "end": 22.78,
+          "probability": 0.66
+        },
+        {
+          "word": "kèm,",
+          "start": 22.78,
+          "end": 22.98,
+          "probability": 0.51
+        },
+        {
+          "word": "kèm.",
+          "start": 22.98,
+          "end": 23.24,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 23.32,
+      "end": 24.26,
+      "text": "xe í vô ngốc về ạ bây.",
+      "words": [
+        {
+          "word": "xe",
+          "start": 23.32,
+          "end": 23.32,
+          "probability": 0.76
+        },
+        {
+          "word": "í",
+          "start": 23.32,
+          "end": 23.56,
+          "probability": 0.4
+        },
+        {
+          "word": "vô",
+          "start": 23.56,
+          "end": 23.66,
+          "probability": 0.28
+        },
+        {
+          "word": "ngốc",
+          "start": 23.66,
+          "end": 23.82,
+          "probability": 0.33
+        },
+        {
+          "word": "về",
+          "start": 23.82,
+          "end": 23.98,
+          "probability": 0.1
+        },
+        {
+          "word": "ạ",
+          "start": 23.98,
+          "end": 24.26,
+          "probability": 0.59
+        },
+        {
+          "word": "bây.",
+          "start": 24.26,
+          "end": 24.26,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 24.72,
+      "end": 27.42,
+      "text": "Thì xe ca trên hết ca, kèm tính thông qua xe í vô.",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 24.72,
+          "end": 25.12,
+          "probability": 0.39
+        },
+        {
+          "word": "xe",
+          "start": 25.12,
+          "end": 25.3,
+          "probability": 0.41
+        },
+        {
+          "word": "ca",
+          "start": 25.3,
+          "end": 25.52,
+          "probability": 0.54
+        },
+        {
+          "word": "trên",
+          "start": 25.52,
+          "end": 25.68,
+          "probability": 0.24
+        },
+        {
+          "word": "hết",
+          "start": 25.68,
+          "end": 25.92,
+          "probability": 0.04
+        },
+        {
+          "word": "ca,",
+          "start": 25.92,
+          "end": 26.12,
+          "probability": 0.92
+        },
+        {
+          "word": "kèm",
+          "start": 26.24,
+          "end": 26.38,
+          "probability": 0.48
+        },
+        {
+          "word": "tính",
+          "start": 26.38,
+          "end": 26.54,
+          "probability": 0.47
+        },
+        {
+          "word": "thông",
+          "start": 26.54,
+          "end": 26.74,
+          "probability": 0.58
+        },
+        {
+          "word": "qua",
+          "start": 26.74,
+          "end": 26.92,
+          "probability": 0.29
+        },
+        {
+          "word": "xe",
+          "start": 26.92,
+          "end": 27.12,
+          "probability": 0.86
+        },
+        {
+          "word": "í",
+          "start": 27.12,
+          "end": 27.36,
+          "probability": 0.1
+        },
+        {
+          "word": "vô.",
+          "start": 27.36,
+          "end": 27.42,
+          "probability": 0.01
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "item_id": "tt_7658130523738426641_01",
+  "duration_seconds": 27.31,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 23,
+  "text": "1 cao Tương Hạc Bình 3 cao 1 cao 1 cao 1 cao 1 cao 5 cao 2 cao 5 cao 5 cao",
+  "segments": [
+    {
+      "id": 1,
+      "start": 8.95,
+      "end": 11.75,
+      "text": "1 cao",
+      "words": [
+        {
+          "word": "1",
+          "start": 8.95,
+          "end": 10.35,
+          "probability": 0.04
+        },
+        {
+          "word": "cao",
+          "start": 10.35,
+          "end": 11.75,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 11.75,
+      "end": 13.09,
+      "text": "Tương Hạc Bình",
+      "words": [
+        {
+          "word": "Tương",
+          "start": 11.75,
+          "end": 11.77,
+          "probability": 0.01
+        },
+        {
+          "word": "Hạc",
+          "start": 11.77,
+          "end": 12.41,
+          "probability": 0.08
+        },
+        {
+          "word": "Bình",
+          "start": 12.41,
+          "end": 13.09,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.09,
+      "end": 13.85,
+      "text": "3 cao",
+      "words": [
+        {
+          "word": "3",
+          "start": 13.09,
+          "end": 13.85,
+          "probability": 0.01
+        },
+        {
+          "word": "cao",
+          "start": 13.85,
+          "end": 13.85,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.85,
+      "end": 14.07,
+      "text": "1 cao",
+      "words": [
+        {
+          "word": "1",
+          "start": 13.85,
+          "end": 14.07,
+          "probability": 0.01
+        },
+        {
+          "word": "cao",
+          "start": 14.07,
+          "end": 14.07,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.07,
+      "end": 15.35,
+      "text": "1 cao",
+      "words": [
+        {
+          "word": "1",
+          "start": 14.07,
+          "end": 15.35,
+          "probability": 0.05
+        },
+        {
+          "word": "cao",
+          "start": 15.35,
+          "end": 15.35,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.35,
+      "end": 15.39,
+      "text": "1 cao",
+      "words": [
+        {
+          "word": "1",
+          "start": 15.35,
+          "end": 15.35,
+          "probability": 0.25
+        },
+        {
+          "word": "cao",
+          "start": 15.35,
+          "end": 15.39,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.39,
+      "end": 15.65,
+      "text": "1 cao",
+      "words": [
+        {
+          "word": "1",
+          "start": 15.39,
+          "end": 15.39,
+          "probability": 0.4
+        },
+        {
+          "word": "cao",
+          "start": 15.39,
+          "end": 15.65,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.65,
+      "end": 16.61,
+      "text": "5 cao",
+      "words": [
+        {
+          "word": "5",
+          "start": 15.65,
+          "end": 15.65,
+          "probability": 0.05
+        },
+        {
+          "word": "cao",
+          "start": 15.65,
+          "end": 16.61,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 18.17,
+      "end": 20.97,
+      "text": "2 cao",
+      "words": [
+        {
+          "word": "2",
+          "start": 18.17,
+          "end": 19.57,
+          "probability": 0.15
+        },
+        {
+          "word": "cao",
+          "start": 19.57,
+          "end": 20.97,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 20.97,
+      "end": 25.11,
+      "text": "5 cao",
+      "words": [
+        {
+          "word": "5",
+          "start": 20.97,
+          "end": 22.45,
+          "probability": 0.17
+        },
+        {
+          "word": "cao",
+          "start": 22.45,
+          "end": 25.11,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 25.89,
+      "end": 27.29,
+      "text": "5 cao",
+      "words": [
+        {
+          "word": "5",
+          "start": 25.89,
+          "end": 27.29,
+          "probability": 0.25
+        },
+        {
+          "word": "cao",
+          "start": 27.29,
+          "end": 27.29,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

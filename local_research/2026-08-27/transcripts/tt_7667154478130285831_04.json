@@ -1,0 +1,622 @@
+{
+  "item_id": "tt_7667154478130285831_04",
+  "duration_seconds": 29.42,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 82,
+  "text": "Đối quan thân, rồi chực tiếp, các các mọi người sẽ phải khu đe xí, đặc biệt tạm đi vì chỉ thăm 2, thì bán đảo sẽ đi là 2, thì từng tình lớp, tình lớp 1,8, 1,5 và 3, thì hình tại là khi hình mộn, không tôi đã quy tập hết và là đình kìm kìm, mà đọc và đình kìm kìm kìm kìm, thì hình tại là không một, thì hình hình lỗi lệ, là 3,5,8, của chỉ xí.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 4.78,
+      "text": "Đối quan thân, rồi chực tiếp, các các mọi người sẽ phải khu đe xí,",
+      "words": [
+        {
+          "word": "Đối",
+          "start": 0.08,
+          "end": 0.64,
+          "probability": 0.42
+        },
+        {
+          "word": "quan",
+          "start": 0.64,
+          "end": 0.84,
+          "probability": 0.16
+        },
+        {
+          "word": "thân,",
+          "start": 0.84,
+          "end": 1.1,
+          "probability": 0.33
+        },
+        {
+          "word": "rồi",
+          "start": 1.44,
+          "end": 1.62,
+          "probability": 0.13
+        },
+        {
+          "word": "chực",
+          "start": 1.62,
+          "end": 1.86,
+          "probability": 0.3
+        },
+        {
+          "word": "tiếp,",
+          "start": 1.86,
+          "end": 2.04,
+          "probability": 0.96
+        },
+        {
+          "word": "các",
+          "start": 2.92,
+          "end": 3.3,
+          "probability": 0.38
+        },
+        {
+          "word": "các",
+          "start": 3.3,
+          "end": 3.46,
+          "probability": 0.24
+        },
+        {
+          "word": "mọi",
+          "start": 3.46,
+          "end": 3.56,
+          "probability": 0.15
+        },
+        {
+          "word": "người",
+          "start": 3.56,
+          "end": 3.68,
+          "probability": 0.28
+        },
+        {
+          "word": "sẽ",
+          "start": 3.68,
+          "end": 3.84,
+          "probability": 0.17
+        },
+        {
+          "word": "phải",
+          "start": 3.84,
+          "end": 3.98,
+          "probability": 0.83
+        },
+        {
+          "word": "khu",
+          "start": 3.98,
+          "end": 4.14,
+          "probability": 0.28
+        },
+        {
+          "word": "đe",
+          "start": 4.14,
+          "end": 4.26,
+          "probability": 0.21
+        },
+        {
+          "word": "xí,",
+          "start": 4.26,
+          "end": 4.78,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.14,
+      "end": 6.68,
+      "text": "đặc biệt tạm đi vì chỉ thăm 2,",
+      "words": [
+        {
+          "word": "đặc",
+          "start": 5.14,
+          "end": 5.24,
+          "probability": 0.52
+        },
+        {
+          "word": "biệt",
+          "start": 5.24,
+          "end": 5.38,
+          "probability": 0.94
+        },
+        {
+          "word": "tạm",
+          "start": 5.38,
+          "end": 5.62,
+          "probability": 0.48
+        },
+        {
+          "word": "đi",
+          "start": 5.62,
+          "end": 5.84,
+          "probability": 0.15
+        },
+        {
+          "word": "vì",
+          "start": 5.84,
+          "end": 5.94,
+          "probability": 0.18
+        },
+        {
+          "word": "chỉ",
+          "start": 5.94,
+          "end": 6.1,
+          "probability": 0.23
+        },
+        {
+          "word": "thăm",
+          "start": 6.1,
+          "end": 6.26,
+          "probability": 0.3
+        },
+        {
+          "word": "2,",
+          "start": 6.26,
+          "end": 6.68,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.48,
+      "end": 10.0,
+      "text": "thì bán đảo sẽ đi là 2,",
+      "words": [
+        {
+          "word": "thì",
+          "start": 8.48,
+          "end": 8.88,
+          "probability": 0.29
+        },
+        {
+          "word": "bán",
+          "start": 8.88,
+          "end": 9.28,
+          "probability": 0.25
+        },
+        {
+          "word": "đảo",
+          "start": 9.28,
+          "end": 9.42,
+          "probability": 0.27
+        },
+        {
+          "word": "sẽ",
+          "start": 9.42,
+          "end": 9.56,
+          "probability": 0.73
+        },
+        {
+          "word": "đi",
+          "start": 9.56,
+          "end": 9.66,
+          "probability": 0.24
+        },
+        {
+          "word": "là",
+          "start": 9.66,
+          "end": 9.78,
+          "probability": 0.13
+        },
+        {
+          "word": "2,",
+          "start": 9.78,
+          "end": 10.0,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.34,
+      "end": 13.1,
+      "text": "thì từng tình lớp, tình lớp 1,8,",
+      "words": [
+        {
+          "word": "thì",
+          "start": 10.34,
+          "end": 10.4,
+          "probability": 0.15
+        },
+        {
+          "word": "từng",
+          "start": 10.4,
+          "end": 10.68,
+          "probability": 0.39
+        },
+        {
+          "word": "tình",
+          "start": 10.68,
+          "end": 11.1,
+          "probability": 0.59
+        },
+        {
+          "word": "lớp,",
+          "start": 11.1,
+          "end": 11.34,
+          "probability": 0.89
+        },
+        {
+          "word": "tình",
+          "start": 11.52,
+          "end": 11.52,
+          "probability": 0.56
+        },
+        {
+          "word": "lớp",
+          "start": 11.52,
+          "end": 11.64,
+          "probability": 0.99
+        },
+        {
+          "word": "1",
+          "start": 11.64,
+          "end": 11.94,
+          "probability": 0.57
+        },
+        {
+          "word": ",8,",
+          "start": 11.94,
+          "end": 13.1,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.1,
+      "end": 15.66,
+      "text": "1,5 và 3,",
+      "words": [
+        {
+          "word": "1",
+          "start": 13.1,
+          "end": 13.56,
+          "probability": 0.14
+        },
+        {
+          "word": ",5",
+          "start": 13.56,
+          "end": 14.76,
+          "probability": 0.17
+        },
+        {
+          "word": "và",
+          "start": 14.76,
+          "end": 15.2,
+          "probability": 0.45
+        },
+        {
+          "word": "3,",
+          "start": 15.2,
+          "end": 15.66,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.78,
+      "end": 18.1,
+      "text": "thì hình tại là khi hình mộn,",
+      "words": [
+        {
+          "word": "thì",
+          "start": 15.78,
+          "end": 16.08,
+          "probability": 0.06
+        },
+        {
+          "word": "hình",
+          "start": 16.08,
+          "end": 16.28,
+          "probability": 0.43
+        },
+        {
+          "word": "tại",
+          "start": 16.28,
+          "end": 16.42,
+          "probability": 0.43
+        },
+        {
+          "word": "là",
+          "start": 16.42,
+          "end": 16.68,
+          "probability": 0.48
+        },
+        {
+          "word": "khi",
+          "start": 16.68,
+          "end": 17.22,
+          "probability": 0.1
+        },
+        {
+          "word": "hình",
+          "start": 17.22,
+          "end": 17.6,
+          "probability": 0.33
+        },
+        {
+          "word": "mộn,",
+          "start": 17.6,
+          "end": 18.1,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.4,
+      "end": 20.94,
+      "text": "không tôi đã quy tập hết và là đình kìm kìm,",
+      "words": [
+        {
+          "word": "không",
+          "start": 18.4,
+          "end": 18.8,
+          "probability": 0.03
+        },
+        {
+          "word": "tôi",
+          "start": 18.8,
+          "end": 18.9,
+          "probability": 0.24
+        },
+        {
+          "word": "đã",
+          "start": 18.9,
+          "end": 19.1,
+          "probability": 0.92
+        },
+        {
+          "word": "quy",
+          "start": 19.1,
+          "end": 19.24,
+          "probability": 0.46
+        },
+        {
+          "word": "tập",
+          "start": 19.24,
+          "end": 19.38,
+          "probability": 0.64
+        },
+        {
+          "word": "hết",
+          "start": 19.38,
+          "end": 19.68,
+          "probability": 0.24
+        },
+        {
+          "word": "và",
+          "start": 19.68,
+          "end": 19.94,
+          "probability": 0.76
+        },
+        {
+          "word": "là",
+          "start": 19.94,
+          "end": 20.24,
+          "probability": 0.3
+        },
+        {
+          "word": "đình",
+          "start": 20.24,
+          "end": 20.34,
+          "probability": 0.07
+        },
+        {
+          "word": "kìm",
+          "start": 20.34,
+          "end": 20.54,
+          "probability": 0.66
+        },
+        {
+          "word": "kìm,",
+          "start": 20.54,
+          "end": 20.94,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 21.8,
+      "end": 23.64,
+      "text": "mà đọc và đình kìm kìm kìm kìm,",
+      "words": [
+        {
+          "word": "mà",
+          "start": 21.8,
+          "end": 22.0,
+          "probability": 0.56
+        },
+        {
+          "word": "đọc",
+          "start": 22.0,
+          "end": 22.3,
+          "probability": 0.49
+        },
+        {
+          "word": "và",
+          "start": 22.3,
+          "end": 23.28,
+          "probability": 0.81
+        },
+        {
+          "word": "đình",
+          "start": 23.28,
+          "end": 23.36,
+          "probability": 0.68
+        },
+        {
+          "word": "kìm",
+          "start": 23.36,
+          "end": 23.46,
+          "probability": 0.88
+        },
+        {
+          "word": "kìm",
+          "start": 23.46,
+          "end": 23.54,
+          "probability": 0.71
+        },
+        {
+          "word": "kìm",
+          "start": 23.54,
+          "end": 23.64,
+          "probability": 0.7
+        },
+        {
+          "word": "kìm,",
+          "start": 23.64,
+          "end": 23.64,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 24.22,
+      "end": 25.84,
+      "text": "thì hình tại là không một,",
+      "words": [
+        {
+          "word": "thì",
+          "start": 24.22,
+          "end": 24.32,
+          "probability": 0.03
+        },
+        {
+          "word": "hình",
+          "start": 24.32,
+          "end": 24.9,
+          "probability": 0.95
+        },
+        {
+          "word": "tại",
+          "start": 24.9,
+          "end": 25.08,
+          "probability": 0.99
+        },
+        {
+          "word": "là",
+          "start": 25.08,
+          "end": 25.54,
+          "probability": 0.8
+        },
+        {
+          "word": "không",
+          "start": 25.54,
+          "end": 25.64,
+          "probability": 0.35
+        },
+        {
+          "word": "một,",
+          "start": 25.64,
+          "end": 25.84,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 26.02,
+      "end": 27.38,
+      "text": "thì hình hình lỗi lệ,",
+      "words": [
+        {
+          "word": "thì",
+          "start": 26.02,
+          "end": 26.1,
+          "probability": 0.18
+        },
+        {
+          "word": "hình",
+          "start": 26.1,
+          "end": 26.48,
+          "probability": 0.55
+        },
+        {
+          "word": "hình",
+          "start": 26.48,
+          "end": 26.62,
+          "probability": 0.57
+        },
+        {
+          "word": "lỗi",
+          "start": 26.62,
+          "end": 26.82,
+          "probability": 0.31
+        },
+        {
+          "word": "lệ,",
+          "start": 26.82,
+          "end": 27.38,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 28.08,
+      "end": 28.64,
+      "text": "là 3,5,8,",
+      "words": [
+        {
+          "word": "là",
+          "start": 28.08,
+          "end": 28.08,
+          "probability": 0.78
+        },
+        {
+          "word": "3",
+          "start": 28.08,
+          "end": 28.26,
+          "probability": 0.26
+        },
+        {
+          "word": ",5",
+          "start": 28.26,
+          "end": 28.32,
+          "probability": 0.46
+        },
+        {
+          "word": ",8,",
+          "start": 28.32,
+          "end": 28.64,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 28.66,
+      "end": 29.2,
+      "text": "của chỉ xí.",
+      "words": [
+        {
+          "word": "của",
+          "start": 28.66,
+          "end": 28.72,
+          "probability": 0.25
+        },
+        {
+          "word": "chỉ",
+          "start": 28.72,
+          "end": 28.9,
+          "probability": 0.07
+        },
+        {
+          "word": "xí.",
+          "start": 28.9,
+          "end": 29.2,
+          "probability": 0.35
+        }
+      ]
+    }
+  ]
+}

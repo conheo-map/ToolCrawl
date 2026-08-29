@@ -1,0 +1,448 @@
+{
+  "item_id": "tt_7268576046633471234_02",
+  "duration_seconds": 29.8,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 57,
+  "text": "Châu rồi, tôi nghe tên... Có hỏi... Có hỏi... Có hỏi... Mà con đường rồi... Tại sao能 đang ở mấy... Châu rồi, tôi nghĩ không? Tại sao mà... Sao Sugar, phần gắn rồi... Thằng cái hình ạ, có fellowship ấy! Bảo gần nhình, bảo hình, bảo hình, bảo thường. Thằng cái hình ạ, có thằng cái hình...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 2.99,
+      "text": "Châu rồi, tôi nghe tên...",
+      "words": [
+        {
+          "word": "Châu",
+          "start": 0.05,
+          "end": 0.69,
+          "probability": 0.07
+        },
+        {
+          "word": "rồi,",
+          "start": 0.69,
+          "end": 0.83,
+          "probability": 0.01
+        },
+        {
+          "word": "tôi",
+          "start": 1.35,
+          "end": 1.57,
+          "probability": 0.06
+        },
+        {
+          "word": "nghe",
+          "start": 1.57,
+          "end": 1.57,
+          "probability": 0.19
+        },
+        {
+          "word": "tên...",
+          "start": 1.57,
+          "end": 2.99,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.99,
+      "end": 5.57,
+      "text": "Có hỏi...",
+      "words": [
+        {
+          "word": "Có",
+          "start": 2.99,
+          "end": 4.77,
+          "probability": 0.0
+        },
+        {
+          "word": "hỏi...",
+          "start": 4.77,
+          "end": 5.57,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.57,
+      "end": 6.19,
+      "text": "Có hỏi...",
+      "words": [
+        {
+          "word": "Có",
+          "start": 5.57,
+          "end": 5.57,
+          "probability": 0.02
+        },
+        {
+          "word": "hỏi...",
+          "start": 5.57,
+          "end": 6.19,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.19,
+      "end": 7.51,
+      "text": "Có hỏi...",
+      "words": [
+        {
+          "word": "Có",
+          "start": 6.19,
+          "end": 7.39,
+          "probability": 0.11
+        },
+        {
+          "word": "hỏi...",
+          "start": 7.39,
+          "end": 7.51,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 10.35,
+      "end": 11.75,
+      "text": "Mà con đường rồi...",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 10.35,
+          "end": 11.75,
+          "probability": 0.05
+        },
+        {
+          "word": "con",
+          "start": 11.75,
+          "end": 11.75,
+          "probability": 0.01
+        },
+        {
+          "word": "đường",
+          "start": 11.75,
+          "end": 11.75,
+          "probability": 0.05
+        },
+        {
+          "word": "rồi...",
+          "start": 11.75,
+          "end": 11.75,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.75,
+      "end": 12.89,
+      "text": "Tại sao能 đang ở mấy...",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 11.75,
+          "end": 11.75,
+          "probability": 0.08
+        },
+        {
+          "word": "sao能",
+          "start": 11.75,
+          "end": 11.89,
+          "probability": 0.21
+        },
+        {
+          "word": "đang",
+          "start": 11.89,
+          "end": 11.89,
+          "probability": 0.0
+        },
+        {
+          "word": "ở",
+          "start": 11.89,
+          "end": 11.89,
+          "probability": 0.05
+        },
+        {
+          "word": "mấy...",
+          "start": 11.89,
+          "end": 12.89,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.89,
+      "end": 18.75,
+      "text": "Châu rồi, tôi nghĩ không?",
+      "words": [
+        {
+          "word": "Châu",
+          "start": 12.89,
+          "end": 12.89,
+          "probability": 0.26
+        },
+        {
+          "word": "rồi,",
+          "start": 12.89,
+          "end": 17.63,
+          "probability": 0.81
+        },
+        {
+          "word": "tôi",
+          "start": 18.75,
+          "end": 18.75,
+          "probability": 0.07
+        },
+        {
+          "word": "nghĩ",
+          "start": 18.75,
+          "end": 18.75,
+          "probability": 0.02
+        },
+        {
+          "word": "không?",
+          "start": 18.75,
+          "end": 18.75,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 18.75,
+      "end": 21.11,
+      "text": "Tại sao mà...",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 18.75,
+          "end": 19.33,
+          "probability": 0.42
+        },
+        {
+          "word": "sao",
+          "start": 19.33,
+          "end": 19.33,
+          "probability": 0.98
+        },
+        {
+          "word": "mà...",
+          "start": 19.33,
+          "end": 21.11,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 21.11,
+      "end": 21.21,
+      "text": "Sao Sugar, phần gắn rồi...",
+      "words": [
+        {
+          "word": "Sao",
+          "start": 21.11,
+          "end": 21.11,
+          "probability": 0.45
+        },
+        {
+          "word": "Sugar,",
+          "start": 21.11,
+          "end": 21.11,
+          "probability": 0.0
+        },
+        {
+          "word": "phần",
+          "start": 21.11,
+          "end": 21.21,
+          "probability": 0.05
+        },
+        {
+          "word": "gắn",
+          "start": 21.21,
+          "end": 21.21,
+          "probability": 0.01
+        },
+        {
+          "word": "rồi...",
+          "start": 21.21,
+          "end": 21.21,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 21.21,
+      "end": 22.73,
+      "text": "Thằng cái hình ạ, có fellowship ấy!",
+      "words": [
+        {
+          "word": "Thằng",
+          "start": 21.21,
+          "end": 22.55,
+          "probability": 0.02
+        },
+        {
+          "word": "cái",
+          "start": 22.55,
+          "end": 22.73,
+          "probability": 0.03
+        },
+        {
+          "word": "hình",
+          "start": 22.73,
+          "end": 22.73,
+          "probability": 0.04
+        },
+        {
+          "word": "ạ,",
+          "start": 22.73,
+          "end": 22.73,
+          "probability": 0.1
+        },
+        {
+          "word": "có",
+          "start": 22.73,
+          "end": 22.73,
+          "probability": 0.02
+        },
+        {
+          "word": "fellowship",
+          "start": 22.73,
+          "end": 22.73,
+          "probability": 0.0
+        },
+        {
+          "word": "ấy!",
+          "start": 22.73,
+          "end": 22.73,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 22.73,
+      "end": 24.49,
+      "text": "Bảo gần nhình, bảo hình, bảo hình, bảo thường.",
+      "words": [
+        {
+          "word": "Bảo",
+          "start": 22.73,
+          "end": 22.73,
+          "probability": 0.03
+        },
+        {
+          "word": "gần",
+          "start": 22.73,
+          "end": 22.77,
+          "probability": 0.14
+        },
+        {
+          "word": "nhình,",
+          "start": 22.77,
+          "end": 22.77,
+          "probability": 0.01
+        },
+        {
+          "word": "bảo",
+          "start": 24.49,
+          "end": 24.49,
+          "probability": 0.2
+        },
+        {
+          "word": "hình,",
+          "start": 24.49,
+          "end": 24.49,
+          "probability": 0.45
+        },
+        {
+          "word": "bảo",
+          "start": 24.49,
+          "end": 24.49,
+          "probability": 0.66
+        },
+        {
+          "word": "hình,",
+          "start": 24.49,
+          "end": 24.49,
+          "probability": 0.61
+        },
+        {
+          "word": "bảo",
+          "start": 24.49,
+          "end": 24.49,
+          "probability": 0.83
+        },
+        {
+          "word": "thường.",
+          "start": 24.49,
+          "end": 24.49,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 24.49,
+      "end": 28.59,
+      "text": "Thằng cái hình ạ, có thằng cái hình...",
+      "words": [
+        {
+          "word": "Thằng",
+          "start": 24.49,
+          "end": 25.71,
+          "probability": 0.45
+        },
+        {
+          "word": "cái",
+          "start": 25.71,
+          "end": 25.71,
+          "probability": 0.52
+        },
+        {
+          "word": "hình",
+          "start": 25.71,
+          "end": 25.71,
+          "probability": 0.93
+        },
+        {
+          "word": "ạ,",
+          "start": 25.71,
+          "end": 25.71,
+          "probability": 0.53
+        },
+        {
+          "word": "có",
+          "start": 25.71,
+          "end": 27.01,
+          "probability": 0.72
+        },
+        {
+          "word": "thằng",
+          "start": 27.01,
+          "end": 27.01,
+          "probability": 0.5
+        },
+        {
+          "word": "cái",
+          "start": 27.01,
+          "end": 27.01,
+          "probability": 0.6
+        },
+        {
+          "word": "hình...",
+          "start": 27.01,
+          "end": 28.59,
+          "probability": 0.69
+        }
+      ]
+    }
+  ]
+}

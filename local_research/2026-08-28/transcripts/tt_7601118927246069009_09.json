@@ -1,0 +1,794 @@
+{
+  "item_id": "tt_7601118927246069009_09",
+  "duration_seconds": 28.37,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 112,
+  "text": "Này đi ở kia này đi con chậm Bà Hãy kêu đường đường nhau Giờ quay ở ăn bây hát nhưng màu là lịch biệt ai như hơn không Bây giờ thì nhìn xem lại nhá Sau chinoa, Sau chinoa đã làm nằm Sau chinoa Đúng rồi, ở ăn bây hát mình cần sau lắm Và cho bây hát mình sẽ bây hát mình sẽ bây hát Bây nó mở ở ăn bây hát Bây hát, ở ăn bây giờ sẽ bây hát mình sẽ bây hát Bây hát mình cần sau, không sao? Tế mà tế không đúng rồi Mình sẽ ở ăn mình phương, chạm sau thì phương Đúng thôi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.68,
+      "text": "Này đi ở kia này đi con chậm",
+      "words": [
+        {
+          "word": "Này",
+          "start": 0.0,
+          "end": 0.5,
+          "probability": 0.15
+        },
+        {
+          "word": "đi",
+          "start": 0.5,
+          "end": 0.66,
+          "probability": 0.78
+        },
+        {
+          "word": "ở",
+          "start": 0.66,
+          "end": 0.74,
+          "probability": 0.29
+        },
+        {
+          "word": "kia",
+          "start": 0.74,
+          "end": 0.88,
+          "probability": 0.22
+        },
+        {
+          "word": "này",
+          "start": 0.88,
+          "end": 0.92,
+          "probability": 0.09
+        },
+        {
+          "word": "đi",
+          "start": 0.92,
+          "end": 1.16,
+          "probability": 0.09
+        },
+        {
+          "word": "con",
+          "start": 1.16,
+          "end": 1.28,
+          "probability": 0.17
+        },
+        {
+          "word": "chậm",
+          "start": 1.28,
+          "end": 1.68,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.12,
+      "end": 2.48,
+      "text": "Bà",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 2.12,
+          "end": 2.48,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.48,
+      "end": 3.88,
+      "text": "Hãy kêu đường đường nhau",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 2.48,
+          "end": 2.84,
+          "probability": 0.06
+        },
+        {
+          "word": "kêu",
+          "start": 2.84,
+          "end": 2.94,
+          "probability": 0.15
+        },
+        {
+          "word": "đường",
+          "start": 2.94,
+          "end": 3.06,
+          "probability": 0.27
+        },
+        {
+          "word": "đường",
+          "start": 3.06,
+          "end": 3.14,
+          "probability": 0.26
+        },
+        {
+          "word": "nhau",
+          "start": 3.14,
+          "end": 3.88,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 3.88,
+      "end": 6.16,
+      "text": "Giờ quay ở ăn bây hát nhưng màu là lịch biệt ai như hơn không",
+      "words": [
+        {
+          "word": "Giờ",
+          "start": 3.88,
+          "end": 4.2,
+          "probability": 0.1
+        },
+        {
+          "word": "quay",
+          "start": 4.2,
+          "end": 4.38,
+          "probability": 0.21
+        },
+        {
+          "word": "ở",
+          "start": 4.38,
+          "end": 4.46,
+          "probability": 0.05
+        },
+        {
+          "word": "ăn",
+          "start": 4.46,
+          "end": 4.64,
+          "probability": 0.19
+        },
+        {
+          "word": "bây",
+          "start": 4.64,
+          "end": 4.68,
+          "probability": 0.42
+        },
+        {
+          "word": "hát",
+          "start": 4.68,
+          "end": 4.8,
+          "probability": 0.71
+        },
+        {
+          "word": "nhưng",
+          "start": 4.8,
+          "end": 4.94,
+          "probability": 0.2
+        },
+        {
+          "word": "màu",
+          "start": 4.94,
+          "end": 5.12,
+          "probability": 0.28
+        },
+        {
+          "word": "là",
+          "start": 5.12,
+          "end": 5.18,
+          "probability": 0.29
+        },
+        {
+          "word": "lịch",
+          "start": 5.18,
+          "end": 5.36,
+          "probability": 0.3
+        },
+        {
+          "word": "biệt",
+          "start": 5.36,
+          "end": 5.56,
+          "probability": 0.17
+        },
+        {
+          "word": "ai",
+          "start": 5.56,
+          "end": 5.72,
+          "probability": 0.06
+        },
+        {
+          "word": "như",
+          "start": 5.72,
+          "end": 5.8,
+          "probability": 0.17
+        },
+        {
+          "word": "hơn",
+          "start": 5.8,
+          "end": 5.98,
+          "probability": 0.77
+        },
+        {
+          "word": "không",
+          "start": 5.98,
+          "end": 6.16,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.64,
+      "end": 8.24,
+      "text": "Bây giờ thì nhìn xem lại nhá",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 6.64,
+          "end": 7.0,
+          "probability": 0.23
+        },
+        {
+          "word": "giờ",
+          "start": 7.0,
+          "end": 7.0,
+          "probability": 0.48
+        },
+        {
+          "word": "thì",
+          "start": 7.0,
+          "end": 7.12,
+          "probability": 0.62
+        },
+        {
+          "word": "nhìn",
+          "start": 7.12,
+          "end": 7.28,
+          "probability": 0.46
+        },
+        {
+          "word": "xem",
+          "start": 7.28,
+          "end": 7.34,
+          "probability": 0.68
+        },
+        {
+          "word": "lại",
+          "start": 7.34,
+          "end": 7.46,
+          "probability": 0.58
+        },
+        {
+          "word": "nhá",
+          "start": 7.46,
+          "end": 8.24,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.24,
+      "end": 12.04,
+      "text": "Sau chinoa, Sau chinoa đã làm nằm Sau chinoa",
+      "words": [
+        {
+          "word": "Sau",
+          "start": 8.24,
+          "end": 8.58,
+          "probability": 0.59
+        },
+        {
+          "word": "chinoa,",
+          "start": 8.58,
+          "end": 9.84,
+          "probability": 0.43
+        },
+        {
+          "word": "Sau",
+          "start": 9.88,
+          "end": 10.02,
+          "probability": 0.8
+        },
+        {
+          "word": "chinoa",
+          "start": 10.02,
+          "end": 10.34,
+          "probability": 0.97
+        },
+        {
+          "word": "đã",
+          "start": 10.34,
+          "end": 10.52,
+          "probability": 0.49
+        },
+        {
+          "word": "làm",
+          "start": 10.52,
+          "end": 10.72,
+          "probability": 0.3
+        },
+        {
+          "word": "nằm",
+          "start": 10.72,
+          "end": 10.9,
+          "probability": 0.38
+        },
+        {
+          "word": "Sau",
+          "start": 10.9,
+          "end": 11.06,
+          "probability": 0.89
+        },
+        {
+          "word": "chinoa",
+          "start": 11.06,
+          "end": 12.04,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.04,
+      "end": 14.48,
+      "text": "Đúng rồi, ở ăn bây hát mình cần sau lắm",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 12.04,
+          "end": 12.3,
+          "probability": 0.56
+        },
+        {
+          "word": "rồi,",
+          "start": 12.3,
+          "end": 12.5,
+          "probability": 0.74
+        },
+        {
+          "word": "ở",
+          "start": 12.76,
+          "end": 12.76,
+          "probability": 0.6
+        },
+        {
+          "word": "ăn",
+          "start": 12.76,
+          "end": 12.82,
+          "probability": 0.57
+        },
+        {
+          "word": "bây",
+          "start": 12.82,
+          "end": 12.96,
+          "probability": 0.96
+        },
+        {
+          "word": "hát",
+          "start": 12.96,
+          "end": 13.16,
+          "probability": 0.91
+        },
+        {
+          "word": "mình",
+          "start": 13.16,
+          "end": 13.36,
+          "probability": 0.42
+        },
+        {
+          "word": "cần",
+          "start": 13.36,
+          "end": 13.52,
+          "probability": 0.23
+        },
+        {
+          "word": "sau",
+          "start": 13.52,
+          "end": 13.68,
+          "probability": 0.29
+        },
+        {
+          "word": "lắm",
+          "start": 13.68,
+          "end": 14.48,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 14.48,
+      "end": 16.68,
+      "text": "Và cho bây hát mình sẽ bây hát mình sẽ bây hát",
+      "words": [
+        {
+          "word": "Và",
+          "start": 14.48,
+          "end": 14.86,
+          "probability": 0.14
+        },
+        {
+          "word": "cho",
+          "start": 14.86,
+          "end": 15.02,
+          "probability": 0.05
+        },
+        {
+          "word": "bây",
+          "start": 15.02,
+          "end": 15.14,
+          "probability": 0.97
+        },
+        {
+          "word": "hát",
+          "start": 15.14,
+          "end": 15.2,
+          "probability": 0.99
+        },
+        {
+          "word": "mình",
+          "start": 15.2,
+          "end": 15.36,
+          "probability": 0.17
+        },
+        {
+          "word": "sẽ",
+          "start": 15.36,
+          "end": 15.46,
+          "probability": 0.05
+        },
+        {
+          "word": "bây",
+          "start": 15.46,
+          "end": 16.36,
+          "probability": 0.59
+        },
+        {
+          "word": "hát",
+          "start": 16.36,
+          "end": 16.36,
+          "probability": 0.96
+        },
+        {
+          "word": "mình",
+          "start": 16.36,
+          "end": 16.4,
+          "probability": 0.11
+        },
+        {
+          "word": "sẽ",
+          "start": 16.4,
+          "end": 16.68,
+          "probability": 0.14
+        },
+        {
+          "word": "bây",
+          "start": 16.68,
+          "end": 16.68,
+          "probability": 0.59
+        },
+        {
+          "word": "hát",
+          "start": 16.68,
+          "end": 16.68,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 16.68,
+      "end": 18.12,
+      "text": "Bây nó mở ở ăn bây hát",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 16.68,
+          "end": 16.68,
+          "probability": 0.42
+        },
+        {
+          "word": "nó",
+          "start": 16.68,
+          "end": 16.68,
+          "probability": 0.02
+        },
+        {
+          "word": "mở",
+          "start": 16.68,
+          "end": 16.88,
+          "probability": 0.19
+        },
+        {
+          "word": "ở",
+          "start": 16.88,
+          "end": 17.1,
+          "probability": 0.32
+        },
+        {
+          "word": "ăn",
+          "start": 17.1,
+          "end": 17.16,
+          "probability": 0.95
+        },
+        {
+          "word": "bây",
+          "start": 17.16,
+          "end": 17.34,
+          "probability": 0.96
+        },
+        {
+          "word": "hát",
+          "start": 17.34,
+          "end": 18.12,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 18.12,
+      "end": 20.22,
+      "text": "Bây hát, ở ăn bây giờ sẽ bây hát mình sẽ bây hát",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 18.12,
+          "end": 18.48,
+          "probability": 0.46
+        },
+        {
+          "word": "hát,",
+          "start": 18.48,
+          "end": 18.62,
+          "probability": 0.7
+        },
+        {
+          "word": "ở",
+          "start": 18.62,
+          "end": 18.62,
+          "probability": 0.07
+        },
+        {
+          "word": "ăn",
+          "start": 18.62,
+          "end": 19.04,
+          "probability": 0.85
+        },
+        {
+          "word": "bây",
+          "start": 19.04,
+          "end": 19.18,
+          "probability": 0.65
+        },
+        {
+          "word": "giờ",
+          "start": 19.18,
+          "end": 19.34,
+          "probability": 0.36
+        },
+        {
+          "word": "sẽ",
+          "start": 19.34,
+          "end": 19.4,
+          "probability": 0.1
+        },
+        {
+          "word": "bây",
+          "start": 19.4,
+          "end": 19.52,
+          "probability": 0.76
+        },
+        {
+          "word": "hát",
+          "start": 19.52,
+          "end": 19.6,
+          "probability": 0.59
+        },
+        {
+          "word": "mình",
+          "start": 19.6,
+          "end": 19.66,
+          "probability": 0.57
+        },
+        {
+          "word": "sẽ",
+          "start": 19.66,
+          "end": 20.22,
+          "probability": 0.19
+        },
+        {
+          "word": "bây",
+          "start": 20.22,
+          "end": 20.22,
+          "probability": 0.76
+        },
+        {
+          "word": "hát",
+          "start": 20.22,
+          "end": 20.22,
+          "probability": 0.79
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 20.72,
+      "end": 22.28,
+      "text": "Bây hát mình cần sau, không sao?",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 20.72,
+          "end": 21.08,
+          "probability": 0.57
+        },
+        {
+          "word": "hát",
+          "start": 21.08,
+          "end": 21.08,
+          "probability": 0.89
+        },
+        {
+          "word": "mình",
+          "start": 21.08,
+          "end": 21.08,
+          "probability": 0.1
+        },
+        {
+          "word": "cần",
+          "start": 21.08,
+          "end": 21.08,
+          "probability": 0.0
+        },
+        {
+          "word": "sau,",
+          "start": 21.08,
+          "end": 21.68,
+          "probability": 0.41
+        },
+        {
+          "word": "không",
+          "start": 21.68,
+          "end": 22.14,
+          "probability": 0.56
+        },
+        {
+          "word": "sao?",
+          "start": 22.14,
+          "end": 22.28,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 23.18,
+      "end": 24.6,
+      "text": "Tế mà tế không đúng rồi",
+      "words": [
+        {
+          "word": "Tế",
+          "start": 23.18,
+          "end": 23.28,
+          "probability": 0.45
+        },
+        {
+          "word": "mà",
+          "start": 23.28,
+          "end": 23.4,
+          "probability": 0.38
+        },
+        {
+          "word": "tế",
+          "start": 23.4,
+          "end": 23.52,
+          "probability": 0.69
+        },
+        {
+          "word": "không",
+          "start": 23.52,
+          "end": 23.72,
+          "probability": 0.67
+        },
+        {
+          "word": "đúng",
+          "start": 23.72,
+          "end": 23.88,
+          "probability": 0.74
+        },
+        {
+          "word": "rồi",
+          "start": 23.88,
+          "end": 24.6,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 24.6,
+      "end": 27.42,
+      "text": "Mình sẽ ở ăn mình phương, chạm sau thì phương",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 24.6,
+          "end": 24.94,
+          "probability": 0.08
+        },
+        {
+          "word": "sẽ",
+          "start": 24.94,
+          "end": 25.04,
+          "probability": 0.76
+        },
+        {
+          "word": "ở",
+          "start": 25.04,
+          "end": 25.14,
+          "probability": 0.04
+        },
+        {
+          "word": "ăn",
+          "start": 25.14,
+          "end": 25.32,
+          "probability": 0.91
+        },
+        {
+          "word": "mình",
+          "start": 25.32,
+          "end": 25.48,
+          "probability": 0.72
+        },
+        {
+          "word": "phương,",
+          "start": 25.48,
+          "end": 26.08,
+          "probability": 0.73
+        },
+        {
+          "word": "chạm",
+          "start": 26.5,
+          "end": 26.5,
+          "probability": 0.24
+        },
+        {
+          "word": "sau",
+          "start": 26.5,
+          "end": 26.66,
+          "probability": 0.87
+        },
+        {
+          "word": "thì",
+          "start": 26.66,
+          "end": 26.76,
+          "probability": 0.05
+        },
+        {
+          "word": "phương",
+          "start": 26.76,
+          "end": 27.42,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 27.42,
+      "end": 28.02,
+      "text": "Đúng thôi",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 27.42,
+          "end": 27.84,
+          "probability": 0.58
+        },
+        {
+          "word": "thôi",
+          "start": 27.84,
+          "end": 28.02,
+          "probability": 0.72
+        }
+      ]
+    }
+  ]
+}

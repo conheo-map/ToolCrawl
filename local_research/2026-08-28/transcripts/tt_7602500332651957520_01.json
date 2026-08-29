@@ -1,0 +1,816 @@
+{
+  "item_id": "tt_7602500332651957520_01",
+  "duration_seconds": 27.73,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 113,
+  "text": "Thái toàn tôi ương trong chuyện động trích từ đề thi từ cuộc thay đất là bốn Cơ muốn Trời ơi, vông, ôi xí mở đi ôi xí mở đi Cô kẹn mừng sao Các điểm áa bê thuật cảnh nào, ôi xí mở đi Thỏ mả nó a mà ôi bê bằng mong muốn sân mẹ Nhà rồi một chất điểm gì chuyện thẳng từ mơ Tới một điểm nào đó, trên đường có khúc nào, ôi bê một điểm nào đó có thể là điểm này của hình này thì này này Bán đầu chất điểm gì chuyện với vận tốc nả tắm sân mẹ trên rai Bây giờ điểm thẳng",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.02,
+      "text": "Thái toàn tôi ương trong chuyện động trích từ đề thi từ cuộc thay đất là bốn",
+      "words": [
+        {
+          "word": "Thái",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.09
+        },
+        {
+          "word": "toàn",
+          "start": 0.16,
+          "end": 0.32,
+          "probability": 0.64
+        },
+        {
+          "word": "tôi",
+          "start": 0.32,
+          "end": 0.5,
+          "probability": 0.3
+        },
+        {
+          "word": "ương",
+          "start": 0.5,
+          "end": 0.68,
+          "probability": 0.3
+        },
+        {
+          "word": "trong",
+          "start": 0.68,
+          "end": 0.84,
+          "probability": 0.76
+        },
+        {
+          "word": "chuyện",
+          "start": 0.84,
+          "end": 0.98,
+          "probability": 0.56
+        },
+        {
+          "word": "động",
+          "start": 0.98,
+          "end": 1.14,
+          "probability": 0.24
+        },
+        {
+          "word": "trích",
+          "start": 1.14,
+          "end": 1.28,
+          "probability": 0.54
+        },
+        {
+          "word": "từ",
+          "start": 1.28,
+          "end": 1.5,
+          "probability": 0.77
+        },
+        {
+          "word": "đề",
+          "start": 1.5,
+          "end": 1.64,
+          "probability": 0.44
+        },
+        {
+          "word": "thi",
+          "start": 1.64,
+          "end": 1.88,
+          "probability": 0.42
+        },
+        {
+          "word": "từ",
+          "start": 1.88,
+          "end": 1.92,
+          "probability": 0.15
+        },
+        {
+          "word": "cuộc",
+          "start": 1.92,
+          "end": 2.18,
+          "probability": 0.31
+        },
+        {
+          "word": "thay",
+          "start": 2.18,
+          "end": 2.26,
+          "probability": 0.4
+        },
+        {
+          "word": "đất",
+          "start": 2.26,
+          "end": 2.44,
+          "probability": 0.55
+        },
+        {
+          "word": "là",
+          "start": 2.44,
+          "end": 2.6,
+          "probability": 0.34
+        },
+        {
+          "word": "bốn",
+          "start": 2.6,
+          "end": 3.02,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.02,
+      "end": 3.76,
+      "text": "Cơ muốn",
+      "words": [
+        {
+          "word": "Cơ",
+          "start": 3.02,
+          "end": 3.4,
+          "probability": 0.13
+        },
+        {
+          "word": "muốn",
+          "start": 3.4,
+          "end": 3.76,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.76,
+      "end": 5.74,
+      "text": "Trời ơi, vông, ôi xí mở đi",
+      "words": [
+        {
+          "word": "Trời",
+          "start": 3.76,
+          "end": 4.16,
+          "probability": 0.44
+        },
+        {
+          "word": "ơi,",
+          "start": 4.16,
+          "end": 4.2,
+          "probability": 0.11
+        },
+        {
+          "word": "vông,",
+          "start": 4.22,
+          "end": 4.44,
+          "probability": 0.56
+        },
+        {
+          "word": "ôi",
+          "start": 4.82,
+          "end": 4.82,
+          "probability": 0.1
+        },
+        {
+          "word": "xí",
+          "start": 4.82,
+          "end": 4.86,
+          "probability": 0.21
+        },
+        {
+          "word": "mở",
+          "start": 4.86,
+          "end": 5.74,
+          "probability": 0.25
+        },
+        {
+          "word": "đi",
+          "start": 5.74,
+          "end": 5.74,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.74,
+      "end": 6.82,
+      "text": "ôi xí mở đi",
+      "words": [
+        {
+          "word": "ôi",
+          "start": 5.74,
+          "end": 6.3,
+          "probability": 0.52
+        },
+        {
+          "word": "xí",
+          "start": 6.3,
+          "end": 6.36,
+          "probability": 0.99
+        },
+        {
+          "word": "mở",
+          "start": 6.36,
+          "end": 6.82,
+          "probability": 0.98
+        },
+        {
+          "word": "đi",
+          "start": 6.82,
+          "end": 6.82,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.82,
+      "end": 7.84,
+      "text": "Cô kẹn mừng sao",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 6.82,
+          "end": 7.04,
+          "probability": 0.16
+        },
+        {
+          "word": "kẹn",
+          "start": 7.04,
+          "end": 7.2,
+          "probability": 0.32
+        },
+        {
+          "word": "mừng",
+          "start": 7.2,
+          "end": 7.26,
+          "probability": 0.38
+        },
+        {
+          "word": "sao",
+          "start": 7.26,
+          "end": 7.84,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.22,
+      "end": 10.36,
+      "text": "Các điểm áa bê thuật cảnh nào, ôi xí mở đi",
+      "words": [
+        {
+          "word": "Các",
+          "start": 8.22,
+          "end": 8.58,
+          "probability": 0.25
+        },
+        {
+          "word": "điểm",
+          "start": 8.58,
+          "end": 8.74,
+          "probability": 0.65
+        },
+        {
+          "word": "áa",
+          "start": 8.74,
+          "end": 9.0,
+          "probability": 0.28
+        },
+        {
+          "word": "bê",
+          "start": 9.0,
+          "end": 9.06,
+          "probability": 0.51
+        },
+        {
+          "word": "thuật",
+          "start": 9.06,
+          "end": 9.3,
+          "probability": 0.44
+        },
+        {
+          "word": "cảnh",
+          "start": 9.3,
+          "end": 9.56,
+          "probability": 0.74
+        },
+        {
+          "word": "nào,",
+          "start": 9.56,
+          "end": 9.74,
+          "probability": 0.15
+        },
+        {
+          "word": "ôi",
+          "start": 9.74,
+          "end": 9.9,
+          "probability": 0.98
+        },
+        {
+          "word": "xí",
+          "start": 9.9,
+          "end": 9.92,
+          "probability": 0.99
+        },
+        {
+          "word": "mở",
+          "start": 9.92,
+          "end": 10.36,
+          "probability": 0.88
+        },
+        {
+          "word": "đi",
+          "start": 10.36,
+          "end": 10.36,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 10.36,
+      "end": 12.68,
+      "text": "Thỏ mả nó a mà ôi bê bằng mong muốn sân mẹ",
+      "words": [
+        {
+          "word": "Thỏ",
+          "start": 10.36,
+          "end": 10.66,
+          "probability": 0.38
+        },
+        {
+          "word": "mả",
+          "start": 10.66,
+          "end": 10.76,
+          "probability": 0.19
+        },
+        {
+          "word": "nó",
+          "start": 10.76,
+          "end": 10.84,
+          "probability": 0.64
+        },
+        {
+          "word": "a",
+          "start": 10.84,
+          "end": 11.0,
+          "probability": 0.06
+        },
+        {
+          "word": "mà",
+          "start": 11.0,
+          "end": 11.06,
+          "probability": 0.28
+        },
+        {
+          "word": "ôi",
+          "start": 11.06,
+          "end": 11.3,
+          "probability": 0.34
+        },
+        {
+          "word": "bê",
+          "start": 11.3,
+          "end": 11.34,
+          "probability": 0.81
+        },
+        {
+          "word": "bằng",
+          "start": 11.34,
+          "end": 11.78,
+          "probability": 0.47
+        },
+        {
+          "word": "mong",
+          "start": 11.78,
+          "end": 12.0,
+          "probability": 0.23
+        },
+        {
+          "word": "muốn",
+          "start": 12.0,
+          "end": 12.08,
+          "probability": 0.48
+        },
+        {
+          "word": "sân",
+          "start": 12.08,
+          "end": 12.22,
+          "probability": 0.22
+        },
+        {
+          "word": "mẹ",
+          "start": 12.22,
+          "end": 12.68,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.46,
+      "end": 13.82,
+      "text": "Nhà",
+      "words": [
+        {
+          "word": "Nhà",
+          "start": 13.46,
+          "end": 13.82,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 13.82,
+      "end": 14.54,
+      "text": "rồi",
+      "words": [
+        {
+          "word": "rồi",
+          "start": 13.82,
+          "end": 14.54,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 15.14,
+      "end": 17.64,
+      "text": "một chất điểm gì chuyện thẳng từ mơ",
+      "words": [
+        {
+          "word": "một",
+          "start": 15.14,
+          "end": 15.5,
+          "probability": 0.06
+        },
+        {
+          "word": "chất",
+          "start": 15.5,
+          "end": 15.64,
+          "probability": 0.76
+        },
+        {
+          "word": "điểm",
+          "start": 15.64,
+          "end": 15.9,
+          "probability": 0.72
+        },
+        {
+          "word": "gì",
+          "start": 15.9,
+          "end": 16.1,
+          "probability": 0.24
+        },
+        {
+          "word": "chuyện",
+          "start": 16.1,
+          "end": 16.3,
+          "probability": 0.73
+        },
+        {
+          "word": "thẳng",
+          "start": 16.3,
+          "end": 16.6,
+          "probability": 0.72
+        },
+        {
+          "word": "từ",
+          "start": 16.6,
+          "end": 16.86,
+          "probability": 0.83
+        },
+        {
+          "word": "mơ",
+          "start": 16.86,
+          "end": 17.64,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 17.64,
+      "end": 20.14,
+      "text": "Tới một điểm nào đó, trên đường có khúc nào, ôi bê",
+      "words": [
+        {
+          "word": "Tới",
+          "start": 17.64,
+          "end": 18.02,
+          "probability": 0.48
+        },
+        {
+          "word": "một",
+          "start": 18.02,
+          "end": 18.14,
+          "probability": 0.74
+        },
+        {
+          "word": "điểm",
+          "start": 18.14,
+          "end": 18.3,
+          "probability": 0.84
+        },
+        {
+          "word": "nào",
+          "start": 18.3,
+          "end": 18.52,
+          "probability": 0.97
+        },
+        {
+          "word": "đó,",
+          "start": 18.52,
+          "end": 18.76,
+          "probability": 0.94
+        },
+        {
+          "word": "trên",
+          "start": 18.76,
+          "end": 18.94,
+          "probability": 0.53
+        },
+        {
+          "word": "đường",
+          "start": 18.94,
+          "end": 19.04,
+          "probability": 0.9
+        },
+        {
+          "word": "có",
+          "start": 19.04,
+          "end": 19.2,
+          "probability": 0.62
+        },
+        {
+          "word": "khúc",
+          "start": 19.2,
+          "end": 19.44,
+          "probability": 0.78
+        },
+        {
+          "word": "nào,",
+          "start": 19.44,
+          "end": 19.66,
+          "probability": 0.78
+        },
+        {
+          "word": "ôi",
+          "start": 19.84,
+          "end": 20.14,
+          "probability": 0.71
+        },
+        {
+          "word": "bê",
+          "start": 20.14,
+          "end": 20.14,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 20.14,
+      "end": 21.16,
+      "text": "một điểm nào đó",
+      "words": [
+        {
+          "word": "một",
+          "start": 20.14,
+          "end": 20.4,
+          "probability": 0.33
+        },
+        {
+          "word": "điểm",
+          "start": 20.4,
+          "end": 20.46,
+          "probability": 0.99
+        },
+        {
+          "word": "nào",
+          "start": 20.46,
+          "end": 20.62,
+          "probability": 1.0
+        },
+        {
+          "word": "đó",
+          "start": 20.62,
+          "end": 21.16,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 21.16,
+      "end": 23.06,
+      "text": "có thể là điểm này của hình này thì này này",
+      "words": [
+        {
+          "word": "có",
+          "start": 21.16,
+          "end": 21.34,
+          "probability": 0.09
+        },
+        {
+          "word": "thể",
+          "start": 21.34,
+          "end": 21.44,
+          "probability": 0.87
+        },
+        {
+          "word": "là",
+          "start": 21.44,
+          "end": 21.52,
+          "probability": 0.14
+        },
+        {
+          "word": "điểm",
+          "start": 21.52,
+          "end": 21.62,
+          "probability": 0.77
+        },
+        {
+          "word": "này",
+          "start": 21.62,
+          "end": 21.78,
+          "probability": 0.96
+        },
+        {
+          "word": "của",
+          "start": 21.78,
+          "end": 21.86,
+          "probability": 0.47
+        },
+        {
+          "word": "hình",
+          "start": 21.86,
+          "end": 22.02,
+          "probability": 0.1
+        },
+        {
+          "word": "này",
+          "start": 22.02,
+          "end": 22.2,
+          "probability": 0.78
+        },
+        {
+          "word": "thì",
+          "start": 22.2,
+          "end": 22.36,
+          "probability": 0.12
+        },
+        {
+          "word": "này",
+          "start": 22.36,
+          "end": 22.82,
+          "probability": 0.76
+        },
+        {
+          "word": "này",
+          "start": 22.82,
+          "end": 23.06,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 23.06,
+      "end": 25.56,
+      "text": "Bán đầu chất điểm gì chuyện với vận tốc nả tắm sân mẹ",
+      "words": [
+        {
+          "word": "Bán",
+          "start": 23.06,
+          "end": 23.2,
+          "probability": 0.34
+        },
+        {
+          "word": "đầu",
+          "start": 23.2,
+          "end": 23.36,
+          "probability": 0.71
+        },
+        {
+          "word": "chất",
+          "start": 23.36,
+          "end": 23.46,
+          "probability": 0.67
+        },
+        {
+          "word": "điểm",
+          "start": 23.46,
+          "end": 23.6,
+          "probability": 1.0
+        },
+        {
+          "word": "gì",
+          "start": 23.6,
+          "end": 23.78,
+          "probability": 0.99
+        },
+        {
+          "word": "chuyện",
+          "start": 23.78,
+          "end": 23.94,
+          "probability": 0.97
+        },
+        {
+          "word": "với",
+          "start": 23.94,
+          "end": 24.08,
+          "probability": 0.67
+        },
+        {
+          "word": "vận",
+          "start": 24.08,
+          "end": 24.3,
+          "probability": 0.61
+        },
+        {
+          "word": "tốc",
+          "start": 24.3,
+          "end": 24.42,
+          "probability": 0.6
+        },
+        {
+          "word": "nả",
+          "start": 24.42,
+          "end": 24.84,
+          "probability": 0.15
+        },
+        {
+          "word": "tắm",
+          "start": 24.84,
+          "end": 24.86,
+          "probability": 0.39
+        },
+        {
+          "word": "sân",
+          "start": 24.86,
+          "end": 25.08,
+          "probability": 0.21
+        },
+        {
+          "word": "mẹ",
+          "start": 25.08,
+          "end": 25.56,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 25.56,
+      "end": 26.44,
+      "text": "trên rai",
+      "words": [
+        {
+          "word": "trên",
+          "start": 25.56,
+          "end": 25.9,
+          "probability": 0.16
+        },
+        {
+          "word": "rai",
+          "start": 25.9,
+          "end": 26.44,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 26.44,
+      "end": 27.42,
+      "text": "Bây giờ điểm thẳng",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 26.44,
+          "end": 26.98,
+          "probability": 0.3
+        },
+        {
+          "word": "giờ",
+          "start": 26.98,
+          "end": 27.08,
+          "probability": 0.69
+        },
+        {
+          "word": "điểm",
+          "start": 27.08,
+          "end": 27.28,
+          "probability": 0.08
+        },
+        {
+          "word": "thẳng",
+          "start": 27.28,
+          "end": 27.42,
+          "probability": 0.49
+        }
+      ]
+    }
+  ]
+}

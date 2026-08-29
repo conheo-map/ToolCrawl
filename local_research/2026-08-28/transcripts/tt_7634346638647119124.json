@@ -1,0 +1,100 @@
+{
+  "item_id": "tt_7634346638647119124",
+  "duration_seconds": 18.17,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 11,
+  "text": "Dùng bất đúng không? Dùng bất đúng không? Bất đúng không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.4,
+      "end": 2.2,
+      "text": "Dùng bất đúng không?",
+      "words": [
+        {
+          "word": "Dùng",
+          "start": 0.4,
+          "end": 1.14,
+          "probability": 0.01
+        },
+        {
+          "word": "bất",
+          "start": 1.14,
+          "end": 1.36,
+          "probability": 0.03
+        },
+        {
+          "word": "đúng",
+          "start": 1.36,
+          "end": 1.86,
+          "probability": 0.06
+        },
+        {
+          "word": "không?",
+          "start": 1.86,
+          "end": 2.2,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.28,
+      "end": 3.12,
+      "text": "Dùng bất đúng không?",
+      "words": [
+        {
+          "word": "Dùng",
+          "start": 2.28,
+          "end": 2.56,
+          "probability": 0.35
+        },
+        {
+          "word": "bất",
+          "start": 2.56,
+          "end": 2.78,
+          "probability": 0.76
+        },
+        {
+          "word": "đúng",
+          "start": 2.78,
+          "end": 2.96,
+          "probability": 0.94
+        },
+        {
+          "word": "không?",
+          "start": 2.96,
+          "end": 3.12,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.38,
+      "end": 3.48,
+      "text": "Bất đúng không?",
+      "words": [
+        {
+          "word": "Bất",
+          "start": 3.38,
+          "end": 3.38,
+          "probability": 0.09
+        },
+        {
+          "word": "đúng",
+          "start": 3.38,
+          "end": 3.46,
+          "probability": 0.93
+        },
+        {
+          "word": "không?",
+          "start": 3.46,
+          "end": 3.48,
+          "probability": 0.86
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "item_id": "tt_7615485567618387217_02",
+  "duration_seconds": 16.97,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 11,
+  "text": "Điều bán, cói chơi xa ốt Điều này k tiêu nền",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.86,
+      "text": "Điều bán, cói chơi xa ốt",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 0.02,
+          "end": 0.68,
+          "probability": 0.2
+        },
+        {
+          "word": "bán,",
+          "start": 0.68,
+          "end": 0.94,
+          "probability": 0.33
+        },
+        {
+          "word": "cói",
+          "start": 1.04,
+          "end": 1.22,
+          "probability": 0.15
+        },
+        {
+          "word": "chơi",
+          "start": 1.22,
+          "end": 1.32,
+          "probability": 0.19
+        },
+        {
+          "word": "xa",
+          "start": 1.32,
+          "end": 1.46,
+          "probability": 0.3
+        },
+        {
+          "word": "ốt",
+          "start": 1.46,
+          "end": 1.86,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.86,
+      "end": 4.2,
+      "text": "Điều này k tiêu nền",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 1.86,
+          "end": 2.2,
+          "probability": 0.15
+        },
+        {
+          "word": "này",
+          "start": 2.2,
+          "end": 2.34,
+          "probability": 0.22
+        },
+        {
+          "word": "k",
+          "start": 2.34,
+          "end": 2.52,
+          "probability": 0.13
+        },
+        {
+          "word": "tiêu",
+          "start": 2.52,
+          "end": 3.04,
+          "probability": 0.21
+        },
+        {
+          "word": "nền",
+          "start": 3.04,
+          "end": 4.2,
+          "probability": 0.41
+        }
+      ]
+    }
+  ]
+}

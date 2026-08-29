@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7385879474362961159_10",
+  "duration_seconds": 19.56,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Chúng ta phải không phải không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.12,
+      "text": "Chúng ta phải không phải không?",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 0.02,
+          "end": 0.86,
+          "probability": 0.15
+        },
+        {
+          "word": "ta",
+          "start": 0.86,
+          "end": 1.12,
+          "probability": 0.48
+        },
+        {
+          "word": "phải",
+          "start": 1.12,
+          "end": 1.12,
+          "probability": 0.06
+        },
+        {
+          "word": "không",
+          "start": 1.12,
+          "end": 1.12,
+          "probability": 0.07
+        },
+        {
+          "word": "phải",
+          "start": 1.12,
+          "end": 1.12,
+          "probability": 0.03
+        },
+        {
+          "word": "không?",
+          "start": 1.12,
+          "end": 1.12,
+          "probability": 0.1
+        }
+      ]
+    }
+  ]
+}

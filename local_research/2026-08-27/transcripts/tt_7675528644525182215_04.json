@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7675528644525182215_04",
+  "duration_seconds": 27.9,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Tung bà tình",
+  "segments": [
+    {
+      "id": 1,
+      "start": 23.84,
+      "end": 25.24,
+      "text": "Tung bà tình",
+      "words": [
+        {
+          "word": "Tung",
+          "start": 23.84,
+          "end": 25.24,
+          "probability": 0.15
+        },
+        {
+          "word": "bà",
+          "start": 25.24,
+          "end": 25.24,
+          "probability": 0.25
+        },
+        {
+          "word": "tình",
+          "start": 25.24,
+          "end": 25.24,
+          "probability": 0.36
+        }
+      ]
+    }
+  ]
+}

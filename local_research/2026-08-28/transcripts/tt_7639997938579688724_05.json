@@ -1,0 +1,92 @@
+{
+  "item_id": "tt_7639997938579688724_05",
+  "duration_seconds": 29.71,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 11,
+  "text": "Cái cái cái cái cái gì đâu không? Dạ gà không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.06,
+      "text": "Cái cái cái cái cái gì đâu không?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.26
+        },
+        {
+          "word": "cái",
+          "start": 0.42,
+          "end": 0.76,
+          "probability": 0.45
+        },
+        {
+          "word": "cái",
+          "start": 0.76,
+          "end": 0.94,
+          "probability": 0.63
+        },
+        {
+          "word": "cái",
+          "start": 0.94,
+          "end": 1.14,
+          "probability": 0.59
+        },
+        {
+          "word": "cái",
+          "start": 1.14,
+          "end": 1.26,
+          "probability": 0.58
+        },
+        {
+          "word": "gì",
+          "start": 1.26,
+          "end": 1.4,
+          "probability": 0.15
+        },
+        {
+          "word": "đâu",
+          "start": 1.4,
+          "end": 1.62,
+          "probability": 0.14
+        },
+        {
+          "word": "không?",
+          "start": 1.62,
+          "end": 2.06,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.24,
+      "end": 2.52,
+      "text": "Dạ gà không?",
+      "words": [
+        {
+          "word": "Dạ",
+          "start": 2.24,
+          "end": 2.26,
+          "probability": 0.39
+        },
+        {
+          "word": "gà",
+          "start": 2.26,
+          "end": 2.44,
+          "probability": 0.25
+        },
+        {
+          "word": "không?",
+          "start": 2.44,
+          "end": 2.52,
+          "probability": 0.43
+        }
+      ]
+    }
+  ]
+}

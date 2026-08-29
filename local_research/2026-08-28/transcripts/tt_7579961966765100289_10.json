@@ -1,0 +1,484 @@
+{
+  "item_id": "tt_7579961966765100289_10",
+  "duration_seconds": 29.69,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 59,
+  "text": "Hãy phải để không nghe tính cho Mọi thứ giúp xích Vì chúng biết Mỗi gì mà là Hàng chưa cho Mình hàng Nên vời bàng đánh vời bàng đánh vương Nên vời bàng đánh vương Bì Tình gì này rất Hàng đánh vô sống mình hàng OK xác xí không nghe hãy tàn OK Cái mình hiểu không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.24,
+      "end": 1.82,
+      "text": "Hãy phải để không nghe tính cho",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 0.24,
+          "end": 0.74,
+          "probability": 0.2
+        },
+        {
+          "word": "phải",
+          "start": 0.74,
+          "end": 0.9,
+          "probability": 0.18
+        },
+        {
+          "word": "để",
+          "start": 0.9,
+          "end": 1.04,
+          "probability": 0.21
+        },
+        {
+          "word": "không",
+          "start": 1.04,
+          "end": 1.14,
+          "probability": 0.9
+        },
+        {
+          "word": "nghe",
+          "start": 1.14,
+          "end": 1.26,
+          "probability": 0.56
+        },
+        {
+          "word": "tính",
+          "start": 1.26,
+          "end": 1.42,
+          "probability": 0.25
+        },
+        {
+          "word": "cho",
+          "start": 1.42,
+          "end": 1.82,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.49,
+      "end": 3.72,
+      "text": "Mọi thứ giúp xích",
+      "words": [
+        {
+          "word": "Mọi",
+          "start": 2.49,
+          "end": 2.78,
+          "probability": 0.11
+        },
+        {
+          "word": "thứ",
+          "start": 2.78,
+          "end": 2.88,
+          "probability": 0.27
+        },
+        {
+          "word": "giúp",
+          "start": 2.88,
+          "end": 3.06,
+          "probability": 0.25
+        },
+        {
+          "word": "xích",
+          "start": 3.06,
+          "end": 3.72,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.72,
+      "end": 4.84,
+      "text": "Vì chúng biết",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 3.72,
+          "end": 4.06,
+          "probability": 0.06
+        },
+        {
+          "word": "chúng",
+          "start": 4.06,
+          "end": 4.14,
+          "probability": 0.03
+        },
+        {
+          "word": "biết",
+          "start": 4.14,
+          "end": 4.84,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.84,
+      "end": 6.92,
+      "text": "Mỗi gì mà là",
+      "words": [
+        {
+          "word": "Mỗi",
+          "start": 4.84,
+          "end": 5.14,
+          "probability": 0.15
+        },
+        {
+          "word": "gì",
+          "start": 5.14,
+          "end": 5.26,
+          "probability": 0.64
+        },
+        {
+          "word": "mà",
+          "start": 5.26,
+          "end": 5.4,
+          "probability": 0.15
+        },
+        {
+          "word": "là",
+          "start": 5.4,
+          "end": 6.92,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.74,
+      "end": 8.84,
+      "text": "Hàng chưa cho",
+      "words": [
+        {
+          "word": "Hàng",
+          "start": 7.74,
+          "end": 8.32,
+          "probability": 0.16
+        },
+        {
+          "word": "chưa",
+          "start": 8.32,
+          "end": 8.5,
+          "probability": 0.2
+        },
+        {
+          "word": "cho",
+          "start": 8.5,
+          "end": 8.84,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.84,
+      "end": 9.9,
+      "text": "Mình hàng",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 8.84,
+          "end": 9.14,
+          "probability": 0.26
+        },
+        {
+          "word": "hàng",
+          "start": 9.14,
+          "end": 9.9,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 9.9,
+      "end": 12.32,
+      "text": "Nên vời bàng đánh vời bàng đánh vương",
+      "words": [
+        {
+          "word": "Nên",
+          "start": 9.9,
+          "end": 10.28,
+          "probability": 0.51
+        },
+        {
+          "word": "vời",
+          "start": 10.28,
+          "end": 10.5,
+          "probability": 0.2
+        },
+        {
+          "word": "bàng",
+          "start": 10.5,
+          "end": 10.66,
+          "probability": 0.6
+        },
+        {
+          "word": "đánh",
+          "start": 10.66,
+          "end": 10.96,
+          "probability": 0.12
+        },
+        {
+          "word": "vời",
+          "start": 10.96,
+          "end": 11.0,
+          "probability": 0.5
+        },
+        {
+          "word": "bàng",
+          "start": 11.0,
+          "end": 11.3,
+          "probability": 0.89
+        },
+        {
+          "word": "đánh",
+          "start": 11.3,
+          "end": 12.04,
+          "probability": 0.45
+        },
+        {
+          "word": "vương",
+          "start": 12.04,
+          "end": 12.32,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 12.32,
+      "end": 14.62,
+      "text": "Nên vời bàng đánh vương",
+      "words": [
+        {
+          "word": "Nên",
+          "start": 12.32,
+          "end": 12.58,
+          "probability": 0.37
+        },
+        {
+          "word": "vời",
+          "start": 12.58,
+          "end": 12.68,
+          "probability": 0.57
+        },
+        {
+          "word": "bàng",
+          "start": 12.68,
+          "end": 14.62,
+          "probability": 0.77
+        },
+        {
+          "word": "đánh",
+          "start": 14.62,
+          "end": 14.62,
+          "probability": 0.6
+        },
+        {
+          "word": "vương",
+          "start": 14.62,
+          "end": 14.62,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 14.62,
+      "end": 14.96,
+      "text": "Bì",
+      "words": [
+        {
+          "word": "Bì",
+          "start": 14.62,
+          "end": 14.96,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 15.92,
+      "end": 17.02,
+      "text": "Tình gì này rất",
+      "words": [
+        {
+          "word": "Tình",
+          "start": 15.92,
+          "end": 16.5,
+          "probability": 0.37
+        },
+        {
+          "word": "gì",
+          "start": 16.5,
+          "end": 16.62,
+          "probability": 0.17
+        },
+        {
+          "word": "này",
+          "start": 16.62,
+          "end": 16.72,
+          "probability": 0.46
+        },
+        {
+          "word": "rất",
+          "start": 16.72,
+          "end": 17.02,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 17.02,
+      "end": 18.88,
+      "text": "Hàng đánh vô sống mình hàng",
+      "words": [
+        {
+          "word": "Hàng",
+          "start": 17.02,
+          "end": 17.44,
+          "probability": 0.52
+        },
+        {
+          "word": "đánh",
+          "start": 17.44,
+          "end": 17.58,
+          "probability": 0.56
+        },
+        {
+          "word": "vô",
+          "start": 17.58,
+          "end": 17.7,
+          "probability": 0.69
+        },
+        {
+          "word": "sống",
+          "start": 17.7,
+          "end": 17.82,
+          "probability": 0.18
+        },
+        {
+          "word": "mình",
+          "start": 17.82,
+          "end": 17.96,
+          "probability": 0.27
+        },
+        {
+          "word": "hàng",
+          "start": 17.96,
+          "end": 18.88,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 18.88,
+      "end": 19.98,
+      "text": "OK",
+      "words": [
+        {
+          "word": "OK",
+          "start": 18.88,
+          "end": 19.98,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 19.98,
+      "end": 21.48,
+      "text": "xác xí không nghe hãy tàn",
+      "words": [
+        {
+          "word": "xác",
+          "start": 19.98,
+          "end": 20.66,
+          "probability": 0.13
+        },
+        {
+          "word": "xí",
+          "start": 20.66,
+          "end": 20.74,
+          "probability": 0.42
+        },
+        {
+          "word": "không",
+          "start": 20.74,
+          "end": 20.84,
+          "probability": 0.97
+        },
+        {
+          "word": "nghe",
+          "start": 20.84,
+          "end": 20.96,
+          "probability": 0.51
+        },
+        {
+          "word": "hãy",
+          "start": 20.96,
+          "end": 21.16,
+          "probability": 0.18
+        },
+        {
+          "word": "tàn",
+          "start": 21.16,
+          "end": 21.48,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 23.98,
+      "end": 24.78,
+      "text": "OK",
+      "words": [
+        {
+          "word": "OK",
+          "start": 23.98,
+          "end": 24.78,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 24.78,
+      "end": 29.44,
+      "text": "Cái mình hiểu không?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 24.78,
+          "end": 25.94,
+          "probability": 0.05
+        },
+        {
+          "word": "mình",
+          "start": 29.04,
+          "end": 29.04,
+          "probability": 0.16
+        },
+        {
+          "word": "hiểu",
+          "start": 29.04,
+          "end": 29.14,
+          "probability": 0.05
+        },
+        {
+          "word": "không?",
+          "start": 29.14,
+          "end": 29.44,
+          "probability": 0.07
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7267160176694693122_01",
+  "duration_seconds": 6.77,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Tại sao?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.26,
+      "end": 2.38,
+      "text": "Tại sao?",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 2.26,
+          "end": 2.34,
+          "probability": 0.12
+        },
+        {
+          "word": "sao?",
+          "start": 2.34,
+          "end": 2.38,
+          "probability": 0.34
+        }
+      ]
+    }
+  ]
+}

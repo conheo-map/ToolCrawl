@@ -1,0 +1,684 @@
+{
+  "item_id": "tt_7602870969014783248_02",
+  "duration_seconds": 26.88,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 99,
+  "text": "1, 1, 3, và trạm bây giờ trên hơn tại vì chỉ bây giờ có tổ rổ là mời bà sau. Mà tất cả các bạn ạ. Chien mà rất nhiều thứ cần hãy trạm tiền nhở mà ở văn được. Sao cho phản trách giữa hãy trạm tu của nó của đi. Mời là của đi. Lổ trạm mà nó là thì bằng nắm. Và tổng chêu dài dây nổi từ trạm a để mời vào trạm bây đến nơi nơi nơi. Đó thì thực ra là bài này nó giữa nó chính là bài toán. Bài toán.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.54,
+      "text": "1, 1, 3,",
+      "words": [
+        {
+          "word": "1,",
+          "start": 0.0,
+          "end": 0.56,
+          "probability": 0.12
+        },
+        {
+          "word": "1,",
+          "start": 0.78,
+          "end": 1.44,
+          "probability": 0.3
+        },
+        {
+          "word": "3,",
+          "start": 2.1,
+          "end": 2.54,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.54,
+      "end": 8.18,
+      "text": "và trạm bây giờ trên hơn tại vì chỉ bây giờ có tổ rổ là mời bà sau.",
+      "words": [
+        {
+          "word": "và",
+          "start": 2.54,
+          "end": 2.54,
+          "probability": 0.18
+        },
+        {
+          "word": "trạm",
+          "start": 2.54,
+          "end": 2.8,
+          "probability": 0.55
+        },
+        {
+          "word": "bây",
+          "start": 2.8,
+          "end": 2.98,
+          "probability": 0.49
+        },
+        {
+          "word": "giờ",
+          "start": 2.98,
+          "end": 3.16,
+          "probability": 0.46
+        },
+        {
+          "word": "trên",
+          "start": 3.16,
+          "end": 3.4,
+          "probability": 0.66
+        },
+        {
+          "word": "hơn",
+          "start": 3.4,
+          "end": 3.64,
+          "probability": 0.4
+        },
+        {
+          "word": "tại",
+          "start": 3.64,
+          "end": 3.86,
+          "probability": 0.29
+        },
+        {
+          "word": "vì",
+          "start": 3.86,
+          "end": 4.0,
+          "probability": 0.98
+        },
+        {
+          "word": "chỉ",
+          "start": 4.0,
+          "end": 4.18,
+          "probability": 0.13
+        },
+        {
+          "word": "bây",
+          "start": 4.18,
+          "end": 4.4,
+          "probability": 0.55
+        },
+        {
+          "word": "giờ",
+          "start": 4.4,
+          "end": 4.42,
+          "probability": 0.28
+        },
+        {
+          "word": "có",
+          "start": 4.42,
+          "end": 4.66,
+          "probability": 0.84
+        },
+        {
+          "word": "tổ",
+          "start": 4.66,
+          "end": 4.78,
+          "probability": 0.5
+        },
+        {
+          "word": "rổ",
+          "start": 4.78,
+          "end": 4.92,
+          "probability": 0.46
+        },
+        {
+          "word": "là",
+          "start": 4.92,
+          "end": 5.58,
+          "probability": 0.42
+        },
+        {
+          "word": "mời",
+          "start": 5.58,
+          "end": 6.28,
+          "probability": 0.35
+        },
+        {
+          "word": "bà",
+          "start": 6.28,
+          "end": 7.66,
+          "probability": 0.31
+        },
+        {
+          "word": "sau.",
+          "start": 7.66,
+          "end": 8.18,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.68,
+      "end": 9.42,
+      "text": "Mà tất cả các bạn ạ.",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 8.68,
+          "end": 8.68,
+          "probability": 0.37
+        },
+        {
+          "word": "tất",
+          "start": 8.68,
+          "end": 8.76,
+          "probability": 0.29
+        },
+        {
+          "word": "cả",
+          "start": 8.76,
+          "end": 8.76,
+          "probability": 0.42
+        },
+        {
+          "word": "các",
+          "start": 8.76,
+          "end": 9.2,
+          "probability": 0.07
+        },
+        {
+          "word": "bạn",
+          "start": 9.2,
+          "end": 9.2,
+          "probability": 0.69
+        },
+        {
+          "word": "ạ.",
+          "start": 9.2,
+          "end": 9.42,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.04,
+      "end": 13.58,
+      "text": "Chien mà rất nhiều thứ cần hãy trạm tiền nhở mà ở văn được.",
+      "words": [
+        {
+          "word": "Chien",
+          "start": 10.04,
+          "end": 10.44,
+          "probability": 0.22
+        },
+        {
+          "word": "mà",
+          "start": 10.44,
+          "end": 10.56,
+          "probability": 0.36
+        },
+        {
+          "word": "rất",
+          "start": 10.56,
+          "end": 10.7,
+          "probability": 0.45
+        },
+        {
+          "word": "nhiều",
+          "start": 10.7,
+          "end": 10.84,
+          "probability": 0.09
+        },
+        {
+          "word": "thứ",
+          "start": 10.84,
+          "end": 11.02,
+          "probability": 0.09
+        },
+        {
+          "word": "cần",
+          "start": 11.02,
+          "end": 11.44,
+          "probability": 0.46
+        },
+        {
+          "word": "hãy",
+          "start": 11.44,
+          "end": 11.84,
+          "probability": 0.13
+        },
+        {
+          "word": "trạm",
+          "start": 11.84,
+          "end": 12.1,
+          "probability": 0.79
+        },
+        {
+          "word": "tiền",
+          "start": 12.1,
+          "end": 12.32,
+          "probability": 0.41
+        },
+        {
+          "word": "nhở",
+          "start": 12.32,
+          "end": 12.6,
+          "probability": 0.26
+        },
+        {
+          "word": "mà",
+          "start": 12.6,
+          "end": 13.04,
+          "probability": 0.25
+        },
+        {
+          "word": "ở",
+          "start": 13.04,
+          "end": 13.06,
+          "probability": 0.14
+        },
+        {
+          "word": "văn",
+          "start": 13.06,
+          "end": 13.58,
+          "probability": 0.23
+        },
+        {
+          "word": "được.",
+          "start": 13.58,
+          "end": 13.58,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.88,
+      "end": 15.52,
+      "text": "Sao cho phản trách giữa hãy trạm tu của nó của đi.",
+      "words": [
+        {
+          "word": "Sao",
+          "start": 13.88,
+          "end": 13.88,
+          "probability": 0.57
+        },
+        {
+          "word": "cho",
+          "start": 13.88,
+          "end": 13.96,
+          "probability": 0.26
+        },
+        {
+          "word": "phản",
+          "start": 13.96,
+          "end": 14.18,
+          "probability": 0.37
+        },
+        {
+          "word": "trách",
+          "start": 14.18,
+          "end": 14.32,
+          "probability": 0.52
+        },
+        {
+          "word": "giữa",
+          "start": 14.32,
+          "end": 14.5,
+          "probability": 0.26
+        },
+        {
+          "word": "hãy",
+          "start": 14.5,
+          "end": 14.78,
+          "probability": 0.73
+        },
+        {
+          "word": "trạm",
+          "start": 14.78,
+          "end": 14.82,
+          "probability": 0.94
+        },
+        {
+          "word": "tu",
+          "start": 14.82,
+          "end": 15.02,
+          "probability": 0.22
+        },
+        {
+          "word": "của",
+          "start": 15.02,
+          "end": 15.02,
+          "probability": 0.08
+        },
+        {
+          "word": "nó",
+          "start": 15.02,
+          "end": 15.18,
+          "probability": 0.63
+        },
+        {
+          "word": "của",
+          "start": 15.18,
+          "end": 15.3,
+          "probability": 0.22
+        },
+        {
+          "word": "đi.",
+          "start": 15.3,
+          "end": 15.52,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.94,
+      "end": 16.62,
+      "text": "Mời là của đi.",
+      "words": [
+        {
+          "word": "Mời",
+          "start": 15.94,
+          "end": 15.98,
+          "probability": 0.32
+        },
+        {
+          "word": "là",
+          "start": 15.98,
+          "end": 16.14,
+          "probability": 0.19
+        },
+        {
+          "word": "của",
+          "start": 16.14,
+          "end": 16.38,
+          "probability": 0.12
+        },
+        {
+          "word": "đi.",
+          "start": 16.38,
+          "end": 16.62,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 17.04,
+      "end": 18.0,
+      "text": "Lổ trạm mà nó là thì bằng nắm.",
+      "words": [
+        {
+          "word": "Lổ",
+          "start": 17.04,
+          "end": 17.14,
+          "probability": 0.31
+        },
+        {
+          "word": "trạm",
+          "start": 17.14,
+          "end": 17.28,
+          "probability": 0.75
+        },
+        {
+          "word": "mà",
+          "start": 17.28,
+          "end": 17.48,
+          "probability": 0.32
+        },
+        {
+          "word": "nó",
+          "start": 17.48,
+          "end": 17.56,
+          "probability": 0.16
+        },
+        {
+          "word": "là",
+          "start": 17.56,
+          "end": 17.62,
+          "probability": 0.27
+        },
+        {
+          "word": "thì",
+          "start": 17.62,
+          "end": 17.68,
+          "probability": 0.14
+        },
+        {
+          "word": "bằng",
+          "start": 17.68,
+          "end": 17.78,
+          "probability": 0.22
+        },
+        {
+          "word": "nắm.",
+          "start": 17.78,
+          "end": 18.0,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 19.34,
+      "end": 22.32,
+      "text": "Và tổng chêu dài dây nổi từ trạm a để mời vào trạm bây đến nơi nơi nơi.",
+      "words": [
+        {
+          "word": "Và",
+          "start": 19.34,
+          "end": 19.66,
+          "probability": 0.53
+        },
+        {
+          "word": "tổng",
+          "start": 19.66,
+          "end": 19.94,
+          "probability": 0.64
+        },
+        {
+          "word": "chêu",
+          "start": 19.94,
+          "end": 20.02,
+          "probability": 0.37
+        },
+        {
+          "word": "dài",
+          "start": 20.02,
+          "end": 20.22,
+          "probability": 0.39
+        },
+        {
+          "word": "dây",
+          "start": 20.22,
+          "end": 20.42,
+          "probability": 0.4
+        },
+        {
+          "word": "nổi",
+          "start": 20.42,
+          "end": 20.6,
+          "probability": 0.37
+        },
+        {
+          "word": "từ",
+          "start": 20.6,
+          "end": 20.72,
+          "probability": 0.66
+        },
+        {
+          "word": "trạm",
+          "start": 20.72,
+          "end": 20.9,
+          "probability": 0.88
+        },
+        {
+          "word": "a",
+          "start": 20.9,
+          "end": 21.1,
+          "probability": 0.15
+        },
+        {
+          "word": "để",
+          "start": 21.1,
+          "end": 21.24,
+          "probability": 0.16
+        },
+        {
+          "word": "mời",
+          "start": 21.24,
+          "end": 21.4,
+          "probability": 0.51
+        },
+        {
+          "word": "vào",
+          "start": 21.4,
+          "end": 21.52,
+          "probability": 0.15
+        },
+        {
+          "word": "trạm",
+          "start": 21.52,
+          "end": 21.62,
+          "probability": 0.97
+        },
+        {
+          "word": "bây",
+          "start": 21.62,
+          "end": 21.8,
+          "probability": 0.98
+        },
+        {
+          "word": "đến",
+          "start": 21.8,
+          "end": 21.92,
+          "probability": 0.2
+        },
+        {
+          "word": "nơi",
+          "start": 21.92,
+          "end": 22.08,
+          "probability": 0.31
+        },
+        {
+          "word": "nơi",
+          "start": 22.08,
+          "end": 22.24,
+          "probability": 0.22
+        },
+        {
+          "word": "nơi.",
+          "start": 22.24,
+          "end": 22.32,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 22.78,
+      "end": 25.44,
+      "text": "Đó thì thực ra là bài này nó giữa nó chính là bài toán.",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 22.78,
+          "end": 23.1,
+          "probability": 0.15
+        },
+        {
+          "word": "thì",
+          "start": 23.1,
+          "end": 23.16,
+          "probability": 0.42
+        },
+        {
+          "word": "thực",
+          "start": 23.16,
+          "end": 23.4,
+          "probability": 0.34
+        },
+        {
+          "word": "ra",
+          "start": 23.4,
+          "end": 23.58,
+          "probability": 0.73
+        },
+        {
+          "word": "là",
+          "start": 23.58,
+          "end": 23.76,
+          "probability": 0.3
+        },
+        {
+          "word": "bài",
+          "start": 23.76,
+          "end": 23.84,
+          "probability": 0.4
+        },
+        {
+          "word": "này",
+          "start": 23.84,
+          "end": 23.94,
+          "probability": 0.64
+        },
+        {
+          "word": "nó",
+          "start": 23.94,
+          "end": 24.14,
+          "probability": 0.82
+        },
+        {
+          "word": "giữa",
+          "start": 24.14,
+          "end": 24.24,
+          "probability": 0.43
+        },
+        {
+          "word": "nó",
+          "start": 24.24,
+          "end": 24.48,
+          "probability": 0.73
+        },
+        {
+          "word": "chính",
+          "start": 24.48,
+          "end": 24.6,
+          "probability": 0.28
+        },
+        {
+          "word": "là",
+          "start": 24.6,
+          "end": 24.76,
+          "probability": 0.29
+        },
+        {
+          "word": "bài",
+          "start": 24.76,
+          "end": 24.86,
+          "probability": 0.9
+        },
+        {
+          "word": "toán.",
+          "start": 24.86,
+          "end": 25.44,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 25.66,
+      "end": 26.34,
+      "text": "Bài toán.",
+      "words": [
+        {
+          "word": "Bài",
+          "start": 25.66,
+          "end": 26.02,
+          "probability": 0.91
+        },
+        {
+          "word": "toán.",
+          "start": 26.02,
+          "end": 26.34,
+          "probability": 0.97
+        }
+      ]
+    }
+  ]
+}

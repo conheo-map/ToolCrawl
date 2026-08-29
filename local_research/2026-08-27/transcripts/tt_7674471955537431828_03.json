@@ -1,0 +1,620 @@
+{
+  "item_id": "tt_7674471955537431828_03",
+  "duration_seconds": 25.98,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 91,
+  "text": "Hình hoa, nghe ăn, có mưa dạo hả giống dải ra Với lượng mưa từ mưa đến 8 mưa đi đi mẹ Có nơi mưa lượng trên 8 mưa đi đi mẹ Mưa tật chung và chú tối lên và sáng Vừa tạo bên chục mộ và năng bộ có mưa dạo hả giải ra Có dông, với lượng mưa từ mê làm đến 8 mưa đi đi mẹ Cục mộ có nơi, gưa tò trên 8 mưa đi mẹ Bống thào chút tâm dự bảo chực thì văn cuốc gia",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.38,
+      "text": "Hình hoa, nghe ăn, có mưa dạo hả giống dải ra",
+      "words": [
+        {
+          "word": "Hình",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.25
+        },
+        {
+          "word": "hoa,",
+          "start": 0.44,
+          "end": 0.9,
+          "probability": 0.55
+        },
+        {
+          "word": "nghe",
+          "start": 1.06,
+          "end": 1.26,
+          "probability": 0.49
+        },
+        {
+          "word": "ăn,",
+          "start": 1.26,
+          "end": 1.68,
+          "probability": 0.67
+        },
+        {
+          "word": "có",
+          "start": 2.02,
+          "end": 2.02,
+          "probability": 0.82
+        },
+        {
+          "word": "mưa",
+          "start": 2.02,
+          "end": 2.2,
+          "probability": 0.57
+        },
+        {
+          "word": "dạo",
+          "start": 2.2,
+          "end": 2.44,
+          "probability": 0.36
+        },
+        {
+          "word": "hả",
+          "start": 2.44,
+          "end": 2.62,
+          "probability": 0.29
+        },
+        {
+          "word": "giống",
+          "start": 2.62,
+          "end": 2.78,
+          "probability": 0.72
+        },
+        {
+          "word": "dải",
+          "start": 2.78,
+          "end": 3.06,
+          "probability": 0.38
+        },
+        {
+          "word": "ra",
+          "start": 3.06,
+          "end": 3.38,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.38,
+      "end": 6.14,
+      "text": "Với lượng mưa từ mưa đến 8 mưa đi đi mẹ",
+      "words": [
+        {
+          "word": "Với",
+          "start": 3.38,
+          "end": 3.8,
+          "probability": 0.46
+        },
+        {
+          "word": "lượng",
+          "start": 3.8,
+          "end": 3.98,
+          "probability": 0.53
+        },
+        {
+          "word": "mưa",
+          "start": 3.98,
+          "end": 4.24,
+          "probability": 0.78
+        },
+        {
+          "word": "từ",
+          "start": 4.24,
+          "end": 4.5,
+          "probability": 0.86
+        },
+        {
+          "word": "mưa",
+          "start": 4.5,
+          "end": 4.7,
+          "probability": 0.46
+        },
+        {
+          "word": "đến",
+          "start": 4.7,
+          "end": 4.92,
+          "probability": 0.61
+        },
+        {
+          "word": "8",
+          "start": 4.92,
+          "end": 5.18,
+          "probability": 0.25
+        },
+        {
+          "word": "mưa",
+          "start": 5.18,
+          "end": 5.4,
+          "probability": 0.73
+        },
+        {
+          "word": "đi",
+          "start": 5.4,
+          "end": 5.6,
+          "probability": 0.09
+        },
+        {
+          "word": "đi",
+          "start": 5.6,
+          "end": 5.8,
+          "probability": 0.1
+        },
+        {
+          "word": "mẹ",
+          "start": 5.8,
+          "end": 6.14,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.14,
+      "end": 8.76,
+      "text": "Có nơi mưa lượng trên 8 mưa đi đi mẹ",
+      "words": [
+        {
+          "word": "Có",
+          "start": 6.14,
+          "end": 6.44,
+          "probability": 0.01
+        },
+        {
+          "word": "nơi",
+          "start": 6.44,
+          "end": 6.68,
+          "probability": 0.9
+        },
+        {
+          "word": "mưa",
+          "start": 6.68,
+          "end": 6.96,
+          "probability": 0.97
+        },
+        {
+          "word": "lượng",
+          "start": 6.96,
+          "end": 7.3,
+          "probability": 0.41
+        },
+        {
+          "word": "trên",
+          "start": 7.3,
+          "end": 7.68,
+          "probability": 0.92
+        },
+        {
+          "word": "8",
+          "start": 7.68,
+          "end": 7.94,
+          "probability": 0.17
+        },
+        {
+          "word": "mưa",
+          "start": 7.94,
+          "end": 8.16,
+          "probability": 0.96
+        },
+        {
+          "word": "đi",
+          "start": 8.16,
+          "end": 8.28,
+          "probability": 0.78
+        },
+        {
+          "word": "đi",
+          "start": 8.28,
+          "end": 8.48,
+          "probability": 0.39
+        },
+        {
+          "word": "mẹ",
+          "start": 8.48,
+          "end": 8.76,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.76,
+      "end": 11.8,
+      "text": "Mưa tật chung và chú tối lên và sáng",
+      "words": [
+        {
+          "word": "Mưa",
+          "start": 8.76,
+          "end": 9.28,
+          "probability": 0.5
+        },
+        {
+          "word": "tật",
+          "start": 9.28,
+          "end": 9.56,
+          "probability": 0.33
+        },
+        {
+          "word": "chung",
+          "start": 9.56,
+          "end": 9.66,
+          "probability": 0.69
+        },
+        {
+          "word": "và",
+          "start": 9.66,
+          "end": 9.94,
+          "probability": 0.67
+        },
+        {
+          "word": "chú",
+          "start": 9.94,
+          "end": 10.18,
+          "probability": 0.42
+        },
+        {
+          "word": "tối",
+          "start": 10.18,
+          "end": 10.58,
+          "probability": 0.86
+        },
+        {
+          "word": "lên",
+          "start": 10.58,
+          "end": 10.96,
+          "probability": 0.43
+        },
+        {
+          "word": "và",
+          "start": 10.96,
+          "end": 11.22,
+          "probability": 0.9
+        },
+        {
+          "word": "sáng",
+          "start": 11.22,
+          "end": 11.8,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.8,
+      "end": 15.7,
+      "text": "Vừa tạo bên chục mộ và năng bộ có mưa dạo hả giải ra",
+      "words": [
+        {
+          "word": "Vừa",
+          "start": 11.8,
+          "end": 12.54,
+          "probability": 0.27
+        },
+        {
+          "word": "tạo",
+          "start": 12.54,
+          "end": 12.92,
+          "probability": 0.64
+        },
+        {
+          "word": "bên",
+          "start": 12.92,
+          "end": 13.14,
+          "probability": 0.17
+        },
+        {
+          "word": "chục",
+          "start": 13.14,
+          "end": 13.34,
+          "probability": 0.47
+        },
+        {
+          "word": "mộ",
+          "start": 13.34,
+          "end": 13.54,
+          "probability": 0.63
+        },
+        {
+          "word": "và",
+          "start": 13.54,
+          "end": 13.74,
+          "probability": 0.67
+        },
+        {
+          "word": "năng",
+          "start": 13.74,
+          "end": 13.98,
+          "probability": 0.4
+        },
+        {
+          "word": "bộ",
+          "start": 13.98,
+          "end": 14.2,
+          "probability": 0.77
+        },
+        {
+          "word": "có",
+          "start": 14.2,
+          "end": 14.42,
+          "probability": 0.96
+        },
+        {
+          "word": "mưa",
+          "start": 14.42,
+          "end": 14.6,
+          "probability": 0.99
+        },
+        {
+          "word": "dạo",
+          "start": 14.6,
+          "end": 14.88,
+          "probability": 0.98
+        },
+        {
+          "word": "hả",
+          "start": 14.88,
+          "end": 15.16,
+          "probability": 0.79
+        },
+        {
+          "word": "giải",
+          "start": 15.16,
+          "end": 15.32,
+          "probability": 0.68
+        },
+        {
+          "word": "ra",
+          "start": 15.32,
+          "end": 15.7,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.7,
+      "end": 19.62,
+      "text": "Có dông, với lượng mưa từ mê làm đến 8 mưa đi đi mẹ",
+      "words": [
+        {
+          "word": "Có",
+          "start": 15.7,
+          "end": 16.02,
+          "probability": 0.62
+        },
+        {
+          "word": "dông,",
+          "start": 16.02,
+          "end": 16.52,
+          "probability": 0.47
+        },
+        {
+          "word": "với",
+          "start": 16.82,
+          "end": 16.88,
+          "probability": 0.44
+        },
+        {
+          "word": "lượng",
+          "start": 16.88,
+          "end": 17.06,
+          "probability": 1.0
+        },
+        {
+          "word": "mưa",
+          "start": 17.06,
+          "end": 17.34,
+          "probability": 0.99
+        },
+        {
+          "word": "từ",
+          "start": 17.34,
+          "end": 17.52,
+          "probability": 1.0
+        },
+        {
+          "word": "mê",
+          "start": 17.52,
+          "end": 17.7,
+          "probability": 0.28
+        },
+        {
+          "word": "làm",
+          "start": 17.7,
+          "end": 18.0,
+          "probability": 0.38
+        },
+        {
+          "word": "đến",
+          "start": 18.0,
+          "end": 18.3,
+          "probability": 0.9
+        },
+        {
+          "word": "8",
+          "start": 18.3,
+          "end": 18.64,
+          "probability": 0.96
+        },
+        {
+          "word": "mưa",
+          "start": 18.64,
+          "end": 18.86,
+          "probability": 0.98
+        },
+        {
+          "word": "đi",
+          "start": 18.86,
+          "end": 19.06,
+          "probability": 0.98
+        },
+        {
+          "word": "đi",
+          "start": 19.06,
+          "end": 19.42,
+          "probability": 0.08
+        },
+        {
+          "word": "mẹ",
+          "start": 19.42,
+          "end": 19.62,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 19.62,
+      "end": 23.04,
+      "text": "Cục mộ có nơi, gưa tò trên 8 mưa đi mẹ",
+      "words": [
+        {
+          "word": "Cục",
+          "start": 19.62,
+          "end": 19.94,
+          "probability": 0.47
+        },
+        {
+          "word": "mộ",
+          "start": 19.94,
+          "end": 20.12,
+          "probability": 0.63
+        },
+        {
+          "word": "có",
+          "start": 20.12,
+          "end": 20.36,
+          "probability": 0.72
+        },
+        {
+          "word": "nơi,",
+          "start": 20.36,
+          "end": 20.64,
+          "probability": 0.99
+        },
+        {
+          "word": "gưa",
+          "start": 20.88,
+          "end": 21.04,
+          "probability": 0.51
+        },
+        {
+          "word": "tò",
+          "start": 21.04,
+          "end": 21.32,
+          "probability": 0.43
+        },
+        {
+          "word": "trên",
+          "start": 21.32,
+          "end": 21.66,
+          "probability": 0.9
+        },
+        {
+          "word": "8",
+          "start": 21.66,
+          "end": 22.12,
+          "probability": 0.84
+        },
+        {
+          "word": "mưa",
+          "start": 22.12,
+          "end": 22.24,
+          "probability": 0.99
+        },
+        {
+          "word": "đi",
+          "start": 22.24,
+          "end": 22.42,
+          "probability": 0.97
+        },
+        {
+          "word": "mẹ",
+          "start": 22.42,
+          "end": 23.04,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 23.04,
+      "end": 25.82,
+      "text": "Bống thào chút tâm dự bảo chực thì văn cuốc gia",
+      "words": [
+        {
+          "word": "Bống",
+          "start": 23.04,
+          "end": 23.66,
+          "probability": 0.11
+        },
+        {
+          "word": "thào",
+          "start": 23.66,
+          "end": 23.88,
+          "probability": 0.19
+        },
+        {
+          "word": "chút",
+          "start": 23.88,
+          "end": 24.1,
+          "probability": 0.55
+        },
+        {
+          "word": "tâm",
+          "start": 24.1,
+          "end": 24.26,
+          "probability": 0.79
+        },
+        {
+          "word": "dự",
+          "start": 24.26,
+          "end": 24.42,
+          "probability": 0.52
+        },
+        {
+          "word": "bảo",
+          "start": 24.42,
+          "end": 24.6,
+          "probability": 0.6
+        },
+        {
+          "word": "chực",
+          "start": 24.6,
+          "end": 24.86,
+          "probability": 0.25
+        },
+        {
+          "word": "thì",
+          "start": 24.86,
+          "end": 25.12,
+          "probability": 0.14
+        },
+        {
+          "word": "văn",
+          "start": 25.12,
+          "end": 25.3,
+          "probability": 0.74
+        },
+        {
+          "word": "cuốc",
+          "start": 25.3,
+          "end": 25.5,
+          "probability": 0.34
+        },
+        {
+          "word": "gia",
+          "start": 25.5,
+          "end": 25.82,
+          "probability": 0.56
+        }
+      ]
+    }
+  ]
+}

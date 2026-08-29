@@ -1,0 +1,608 @@
+{
+  "item_id": "tt_7662351033112268039_33",
+  "duration_seconds": 28.75,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 85,
+  "text": "Chào các bạn. Thông này tôi sẽ nhớ thế hợp. Dạ rất kết bản, dạy quản, hướng dạng làm. Cái món tương ớt thì mồ hảo dụng. Mùi nếu gần có, rất sợt, hỏi, gần nè đỏ, dạ đủ đủ. Mặc ông, mình biết quá. Đường, dạc bước sẽ thật hệ, dây sao? Đầu tiên, ớt, tương ớt, tương ớt, tương, lạc nhấn ché. Cái cước mỏ, đầy, xây, tức thình này gần đi. Vậy chơi chơi chơi chơi. xây, tụ đủ, dạy nè đỏ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.12,
+      "text": "Chào các bạn.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.17
+        },
+        {
+          "word": "các",
+          "start": 0.54,
+          "end": 0.68,
+          "probability": 0.54
+        },
+        {
+          "word": "bạn.",
+          "start": 0.68,
+          "end": 1.12,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.34,
+      "end": 3.02,
+      "text": "Thông này tôi sẽ nhớ thế hợp.",
+      "words": [
+        {
+          "word": "Thông",
+          "start": 1.34,
+          "end": 1.52,
+          "probability": 0.43
+        },
+        {
+          "word": "này",
+          "start": 1.52,
+          "end": 1.66,
+          "probability": 0.12
+        },
+        {
+          "word": "tôi",
+          "start": 1.66,
+          "end": 1.88,
+          "probability": 0.35
+        },
+        {
+          "word": "sẽ",
+          "start": 1.88,
+          "end": 1.94,
+          "probability": 0.32
+        },
+        {
+          "word": "nhớ",
+          "start": 1.94,
+          "end": 2.2,
+          "probability": 0.31
+        },
+        {
+          "word": "thế",
+          "start": 2.2,
+          "end": 2.82,
+          "probability": 0.39
+        },
+        {
+          "word": "hợp.",
+          "start": 2.82,
+          "end": 3.02,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.04,
+      "end": 5.48,
+      "text": "Dạ rất kết bản, dạy quản, hướng dạng làm.",
+      "words": [
+        {
+          "word": "Dạ",
+          "start": 3.04,
+          "end": 3.32,
+          "probability": 0.46
+        },
+        {
+          "word": "rất",
+          "start": 3.32,
+          "end": 3.5,
+          "probability": 0.08
+        },
+        {
+          "word": "kết",
+          "start": 3.5,
+          "end": 3.68,
+          "probability": 0.26
+        },
+        {
+          "word": "bản,",
+          "start": 3.68,
+          "end": 3.92,
+          "probability": 0.48
+        },
+        {
+          "word": "dạy",
+          "start": 4.28,
+          "end": 4.48,
+          "probability": 0.48
+        },
+        {
+          "word": "quản,",
+          "start": 4.48,
+          "end": 4.7,
+          "probability": 0.24
+        },
+        {
+          "word": "hướng",
+          "start": 4.86,
+          "end": 5.08,
+          "probability": 0.61
+        },
+        {
+          "word": "dạng",
+          "start": 5.08,
+          "end": 5.16,
+          "probability": 0.4
+        },
+        {
+          "word": "làm.",
+          "start": 5.16,
+          "end": 5.48,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.6,
+      "end": 8.24,
+      "text": "Cái món tương ớt thì mồ hảo dụng.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 5.6,
+          "end": 5.6,
+          "probability": 0.6
+        },
+        {
+          "word": "món",
+          "start": 5.6,
+          "end": 6.16,
+          "probability": 0.94
+        },
+        {
+          "word": "tương",
+          "start": 6.16,
+          "end": 6.44,
+          "probability": 0.33
+        },
+        {
+          "word": "ớt",
+          "start": 6.44,
+          "end": 6.82,
+          "probability": 0.52
+        },
+        {
+          "word": "thì",
+          "start": 6.82,
+          "end": 7.06,
+          "probability": 0.54
+        },
+        {
+          "word": "mồ",
+          "start": 7.06,
+          "end": 7.32,
+          "probability": 0.25
+        },
+        {
+          "word": "hảo",
+          "start": 7.32,
+          "end": 7.58,
+          "probability": 0.63
+        },
+        {
+          "word": "dụng.",
+          "start": 7.58,
+          "end": 8.24,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.32,
+      "end": 13.34,
+      "text": "Mùi nếu gần có, rất sợt, hỏi, gần nè đỏ, dạ đủ đủ.",
+      "words": [
+        {
+          "word": "Mùi",
+          "start": 8.32,
+          "end": 8.32,
+          "probability": 0.5
+        },
+        {
+          "word": "nếu",
+          "start": 8.32,
+          "end": 8.44,
+          "probability": 0.43
+        },
+        {
+          "word": "gần",
+          "start": 8.44,
+          "end": 8.7,
+          "probability": 0.4
+        },
+        {
+          "word": "có,",
+          "start": 8.7,
+          "end": 9.26,
+          "probability": 0.85
+        },
+        {
+          "word": "rất",
+          "start": 9.9,
+          "end": 9.9,
+          "probability": 0.4
+        },
+        {
+          "word": "sợt,",
+          "start": 9.9,
+          "end": 10.56,
+          "probability": 0.38
+        },
+        {
+          "word": "hỏi,",
+          "start": 10.98,
+          "end": 10.98,
+          "probability": 0.48
+        },
+        {
+          "word": "gần",
+          "start": 11.22,
+          "end": 11.52,
+          "probability": 0.78
+        },
+        {
+          "word": "nè",
+          "start": 11.52,
+          "end": 11.94,
+          "probability": 0.22
+        },
+        {
+          "word": "đỏ,",
+          "start": 11.94,
+          "end": 12.22,
+          "probability": 0.18
+        },
+        {
+          "word": "dạ",
+          "start": 12.62,
+          "end": 12.78,
+          "probability": 0.68
+        },
+        {
+          "word": "đủ",
+          "start": 12.78,
+          "end": 12.9,
+          "probability": 0.38
+        },
+        {
+          "word": "đủ.",
+          "start": 12.9,
+          "end": 13.34,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.72,
+      "end": 15.0,
+      "text": "Mặc ông, mình biết quá.",
+      "words": [
+        {
+          "word": "Mặc",
+          "start": 13.72,
+          "end": 13.72,
+          "probability": 0.5
+        },
+        {
+          "word": "ông,",
+          "start": 13.72,
+          "end": 14.0,
+          "probability": 0.55
+        },
+        {
+          "word": "mình",
+          "start": 14.38,
+          "end": 14.38,
+          "probability": 0.49
+        },
+        {
+          "word": "biết",
+          "start": 14.38,
+          "end": 14.64,
+          "probability": 0.07
+        },
+        {
+          "word": "quá.",
+          "start": 14.64,
+          "end": 15.0,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.24,
+      "end": 18.06,
+      "text": "Đường, dạc bước sẽ thật hệ, dây sao?",
+      "words": [
+        {
+          "word": "Đường,",
+          "start": 15.24,
+          "end": 15.52,
+          "probability": 0.17
+        },
+        {
+          "word": "dạc",
+          "start": 15.82,
+          "end": 16.02,
+          "probability": 0.64
+        },
+        {
+          "word": "bước",
+          "start": 16.02,
+          "end": 16.48,
+          "probability": 0.38
+        },
+        {
+          "word": "sẽ",
+          "start": 16.48,
+          "end": 16.84,
+          "probability": 0.52
+        },
+        {
+          "word": "thật",
+          "start": 16.84,
+          "end": 17.06,
+          "probability": 0.28
+        },
+        {
+          "word": "hệ,",
+          "start": 17.06,
+          "end": 17.3,
+          "probability": 0.31
+        },
+        {
+          "word": "dây",
+          "start": 17.5,
+          "end": 17.7,
+          "probability": 0.26
+        },
+        {
+          "word": "sao?",
+          "start": 17.7,
+          "end": 18.06,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 18.42,
+      "end": 21.12,
+      "text": "Đầu tiên, ớt, tương ớt, tương ớt, tương, lạc nhấn ché.",
+      "words": [
+        {
+          "word": "Đầu",
+          "start": 18.42,
+          "end": 18.66,
+          "probability": 0.15
+        },
+        {
+          "word": "tiên,",
+          "start": 18.66,
+          "end": 18.92,
+          "probability": 0.7
+        },
+        {
+          "word": "ớt,",
+          "start": 19.18,
+          "end": 19.48,
+          "probability": 0.8
+        },
+        {
+          "word": "tương",
+          "start": 19.66,
+          "end": 19.66,
+          "probability": 0.2
+        },
+        {
+          "word": "ớt,",
+          "start": 19.66,
+          "end": 19.78,
+          "probability": 0.55
+        },
+        {
+          "word": "tương",
+          "start": 19.86,
+          "end": 19.86,
+          "probability": 0.75
+        },
+        {
+          "word": "ớt,",
+          "start": 19.86,
+          "end": 19.86,
+          "probability": 0.85
+        },
+        {
+          "word": "tương,",
+          "start": 20.32,
+          "end": 20.32,
+          "probability": 0.74
+        },
+        {
+          "word": "lạc",
+          "start": 20.32,
+          "end": 20.5,
+          "probability": 0.62
+        },
+        {
+          "word": "nhấn",
+          "start": 20.5,
+          "end": 20.72,
+          "probability": 0.26
+        },
+        {
+          "word": "ché.",
+          "start": 20.72,
+          "end": 21.12,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 21.46,
+      "end": 23.92,
+      "text": "Cái cước mỏ, đầy, xây, tức thình này gần đi.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 21.46,
+          "end": 21.46,
+          "probability": 0.52
+        },
+        {
+          "word": "cước",
+          "start": 21.46,
+          "end": 21.62,
+          "probability": 0.39
+        },
+        {
+          "word": "mỏ,",
+          "start": 21.62,
+          "end": 21.86,
+          "probability": 0.63
+        },
+        {
+          "word": "đầy,",
+          "start": 22.24,
+          "end": 22.32,
+          "probability": 0.59
+        },
+        {
+          "word": "xây,",
+          "start": 22.66,
+          "end": 22.84,
+          "probability": 0.36
+        },
+        {
+          "word": "tức",
+          "start": 23.08,
+          "end": 23.1,
+          "probability": 0.31
+        },
+        {
+          "word": "thình",
+          "start": 23.1,
+          "end": 23.24,
+          "probability": 0.11
+        },
+        {
+          "word": "này",
+          "start": 23.24,
+          "end": 23.36,
+          "probability": 0.29
+        },
+        {
+          "word": "gần",
+          "start": 23.36,
+          "end": 23.56,
+          "probability": 0.78
+        },
+        {
+          "word": "đi.",
+          "start": 23.56,
+          "end": 23.92,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 24.08,
+      "end": 24.9,
+      "text": "Vậy chơi chơi chơi chơi.",
+      "words": [
+        {
+          "word": "Vậy",
+          "start": 24.08,
+          "end": 24.2,
+          "probability": 0.19
+        },
+        {
+          "word": "chơi",
+          "start": 24.2,
+          "end": 24.38,
+          "probability": 0.25
+        },
+        {
+          "word": "chơi",
+          "start": 24.38,
+          "end": 24.58,
+          "probability": 0.16
+        },
+        {
+          "word": "chơi",
+          "start": 24.58,
+          "end": 24.66,
+          "probability": 0.37
+        },
+        {
+          "word": "chơi.",
+          "start": 24.66,
+          "end": 24.9,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 26.6,
+      "end": 28.54,
+      "text": "xây, tụ đủ, dạy nè đỏ.",
+      "words": [
+        {
+          "word": "xây,",
+          "start": 26.6,
+          "end": 27.08,
+          "probability": 0.52
+        },
+        {
+          "word": "tụ",
+          "start": 27.48,
+          "end": 27.48,
+          "probability": 0.47
+        },
+        {
+          "word": "đủ,",
+          "start": 27.48,
+          "end": 27.76,
+          "probability": 0.73
+        },
+        {
+          "word": "dạy",
+          "start": 28.04,
+          "end": 28.12,
+          "probability": 0.87
+        },
+        {
+          "word": "nè",
+          "start": 28.12,
+          "end": 28.3,
+          "probability": 0.5
+        },
+        {
+          "word": "đỏ.",
+          "start": 28.3,
+          "end": 28.54,
+          "probability": 0.97
+        }
+      ]
+    }
+  ]
+}

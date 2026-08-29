@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7602930030057934101_02",
+  "duration_seconds": 19.4,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Nói, Nói, Nói, Nói, Nói.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Nói, Nói, Nói, Nói, Nói.",
+      "words": [
+        {
+          "word": "Nói,",
+          "start": 0.0,
+          "end": 0.88,
+          "probability": 0.1
+        },
+        {
+          "word": "Nói,",
+          "start": 0.88,
+          "end": 0.88,
+          "probability": 0.68
+        },
+        {
+          "word": "Nói,",
+          "start": 0.88,
+          "end": 0.88,
+          "probability": 0.94
+        },
+        {
+          "word": "Nói,",
+          "start": 0.88,
+          "end": 0.88,
+          "probability": 0.98
+        },
+        {
+          "word": "Nói.",
+          "start": 0.88,
+          "end": 0.88,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "item_id": "tt_7674242790141758738",
+  "duration_seconds": 17.33,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 13,
+  "text": "Nó, tỉm nhìn nói Tỉm nhìn nói Tỉm nhìn không tỉm khổ chá",
+  "segments": [
+    {
+      "id": 1,
+      "start": 4.55,
+      "end": 5.75,
+      "text": "Nó, tỉm nhìn nói",
+      "words": [
+        {
+          "word": "Nó,",
+          "start": 4.55,
+          "end": 4.89,
+          "probability": 0.26
+        },
+        {
+          "word": "tỉm",
+          "start": 5.01,
+          "end": 5.11,
+          "probability": 0.29
+        },
+        {
+          "word": "nhìn",
+          "start": 5.11,
+          "end": 5.29,
+          "probability": 0.32
+        },
+        {
+          "word": "nói",
+          "start": 5.29,
+          "end": 5.75,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.58,
+      "end": 8.14,
+      "text": "Tỉm nhìn nói",
+      "words": [
+        {
+          "word": "Tỉm",
+          "start": 7.58,
+          "end": 7.92,
+          "probability": 0.67
+        },
+        {
+          "word": "nhìn",
+          "start": 7.92,
+          "end": 8.08,
+          "probability": 0.43
+        },
+        {
+          "word": "nói",
+          "start": 8.08,
+          "end": 8.14,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.14,
+      "end": 8.86,
+      "text": "Tỉm nhìn không tỉm khổ chá",
+      "words": [
+        {
+          "word": "Tỉm",
+          "start": 8.14,
+          "end": 8.14,
+          "probability": 0.87
+        },
+        {
+          "word": "nhìn",
+          "start": 8.14,
+          "end": 8.14,
+          "probability": 0.77
+        },
+        {
+          "word": "không",
+          "start": 8.14,
+          "end": 8.28,
+          "probability": 0.17
+        },
+        {
+          "word": "tỉm",
+          "start": 8.28,
+          "end": 8.44,
+          "probability": 0.57
+        },
+        {
+          "word": "khổ",
+          "start": 8.44,
+          "end": 8.64,
+          "probability": 0.15
+        },
+        {
+          "word": "chá",
+          "start": 8.64,
+          "end": 8.86,
+          "probability": 0.74
+        }
+      ]
+    }
+  ]
+}

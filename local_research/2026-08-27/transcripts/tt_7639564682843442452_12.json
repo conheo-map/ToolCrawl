@@ -1,0 +1,634 @@
+{
+  "item_id": "tt_7639564682843442452_12",
+  "duration_seconds": 28.56,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 88,
+  "text": "trên tối phí sụ như là trên tối xong tà thịt tối đi mà là three trước các cái gốc 2 xuống cá mình cuộc a phụ mà các anh anh yông anh yông gốc a sĩ trừng tà em thêm trên tối đi dứt là có 2 gốc có 3 in tà là 3 gốc bà có cái chức chức được đi, là bao gồm là chức thật thật thật gốc e lo phải quay mấy mặc là chức kia gốc, e lo xíu hô chứng tà",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 2.97,
+      "text": "trên tối phí sụ như là trên tối xong tà thịt tối đi",
+      "words": [
+        {
+          "word": "trên",
+          "start": 0.05,
+          "end": 0.61,
+          "probability": 0.02
+        },
+        {
+          "word": "tối",
+          "start": 0.61,
+          "end": 0.79,
+          "probability": 0.34
+        },
+        {
+          "word": "phí",
+          "start": 0.79,
+          "end": 0.95,
+          "probability": 0.3
+        },
+        {
+          "word": "sụ",
+          "start": 0.95,
+          "end": 1.03,
+          "probability": 0.25
+        },
+        {
+          "word": "như",
+          "start": 1.03,
+          "end": 1.39,
+          "probability": 0.93
+        },
+        {
+          "word": "là",
+          "start": 1.39,
+          "end": 1.55,
+          "probability": 0.43
+        },
+        {
+          "word": "trên",
+          "start": 1.55,
+          "end": 1.71,
+          "probability": 0.66
+        },
+        {
+          "word": "tối",
+          "start": 1.71,
+          "end": 1.85,
+          "probability": 0.99
+        },
+        {
+          "word": "xong",
+          "start": 1.85,
+          "end": 2.01,
+          "probability": 0.41
+        },
+        {
+          "word": "tà",
+          "start": 2.01,
+          "end": 2.15,
+          "probability": 0.27
+        },
+        {
+          "word": "thịt",
+          "start": 2.15,
+          "end": 2.37,
+          "probability": 0.46
+        },
+        {
+          "word": "tối",
+          "start": 2.37,
+          "end": 2.51,
+          "probability": 0.47
+        },
+        {
+          "word": "đi",
+          "start": 2.51,
+          "end": 2.97,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.97,
+      "end": 4.57,
+      "text": "mà là three",
+      "words": [
+        {
+          "word": "mà",
+          "start": 2.97,
+          "end": 3.33,
+          "probability": 0.29
+        },
+        {
+          "word": "là",
+          "start": 3.33,
+          "end": 3.81,
+          "probability": 0.18
+        },
+        {
+          "word": "three",
+          "start": 3.81,
+          "end": 4.57,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.57,
+      "end": 6.37,
+      "text": "trước các cái gốc",
+      "words": [
+        {
+          "word": "trước",
+          "start": 4.57,
+          "end": 4.99,
+          "probability": 0.39
+        },
+        {
+          "word": "các",
+          "start": 4.99,
+          "end": 5.21,
+          "probability": 0.39
+        },
+        {
+          "word": "cái",
+          "start": 5.21,
+          "end": 5.47,
+          "probability": 0.16
+        },
+        {
+          "word": "gốc",
+          "start": 5.47,
+          "end": 6.37,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.37,
+      "end": 10.15,
+      "text": "2 xuống cá mình cuộc a phụ mà các anh anh yông",
+      "words": [
+        {
+          "word": "2",
+          "start": 6.37,
+          "end": 7.03,
+          "probability": 0.28
+        },
+        {
+          "word": "xuống",
+          "start": 7.03,
+          "end": 7.21,
+          "probability": 0.15
+        },
+        {
+          "word": "cá",
+          "start": 7.21,
+          "end": 7.39,
+          "probability": 0.1
+        },
+        {
+          "word": "mình",
+          "start": 7.39,
+          "end": 7.49,
+          "probability": 0.14
+        },
+        {
+          "word": "cuộc",
+          "start": 7.49,
+          "end": 7.77,
+          "probability": 0.01
+        },
+        {
+          "word": "a",
+          "start": 7.77,
+          "end": 7.93,
+          "probability": 0.06
+        },
+        {
+          "word": "phụ",
+          "start": 7.93,
+          "end": 8.15,
+          "probability": 0.31
+        },
+        {
+          "word": "mà",
+          "start": 8.15,
+          "end": 8.49,
+          "probability": 0.41
+        },
+        {
+          "word": "các",
+          "start": 8.49,
+          "end": 8.71,
+          "probability": 0.11
+        },
+        {
+          "word": "anh",
+          "start": 8.71,
+          "end": 9.19,
+          "probability": 0.3
+        },
+        {
+          "word": "anh",
+          "start": 9.19,
+          "end": 9.47,
+          "probability": 0.36
+        },
+        {
+          "word": "yông",
+          "start": 9.47,
+          "end": 10.15,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 10.15,
+      "end": 11.79,
+      "text": "anh yông gốc a sĩ trừng tà",
+      "words": [
+        {
+          "word": "anh",
+          "start": 10.15,
+          "end": 10.47,
+          "probability": 0.0
+        },
+        {
+          "word": "yông",
+          "start": 10.47,
+          "end": 10.75,
+          "probability": 0.92
+        },
+        {
+          "word": "gốc",
+          "start": 10.75,
+          "end": 10.97,
+          "probability": 0.74
+        },
+        {
+          "word": "a",
+          "start": 10.97,
+          "end": 11.19,
+          "probability": 0.19
+        },
+        {
+          "word": "sĩ",
+          "start": 11.19,
+          "end": 11.29,
+          "probability": 0.19
+        },
+        {
+          "word": "trừng",
+          "start": 11.29,
+          "end": 11.49,
+          "probability": 0.18
+        },
+        {
+          "word": "tà",
+          "start": 11.49,
+          "end": 11.79,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.79,
+      "end": 13.05,
+      "text": "em thêm trên tối",
+      "words": [
+        {
+          "word": "em",
+          "start": 11.79,
+          "end": 12.19,
+          "probability": 0.09
+        },
+        {
+          "word": "thêm",
+          "start": 12.19,
+          "end": 12.39,
+          "probability": 0.49
+        },
+        {
+          "word": "trên",
+          "start": 12.39,
+          "end": 12.71,
+          "probability": 0.94
+        },
+        {
+          "word": "tối",
+          "start": 12.71,
+          "end": 13.05,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 13.05,
+      "end": 15.51,
+      "text": "đi dứt là có 2 gốc",
+      "words": [
+        {
+          "word": "đi",
+          "start": 13.05,
+          "end": 13.93,
+          "probability": 0.86
+        },
+        {
+          "word": "dứt",
+          "start": 13.93,
+          "end": 14.69,
+          "probability": 0.42
+        },
+        {
+          "word": "là",
+          "start": 14.69,
+          "end": 14.97,
+          "probability": 0.27
+        },
+        {
+          "word": "có",
+          "start": 14.97,
+          "end": 15.09,
+          "probability": 0.5
+        },
+        {
+          "word": "2",
+          "start": 15.09,
+          "end": 15.25,
+          "probability": 0.68
+        },
+        {
+          "word": "gốc",
+          "start": 15.25,
+          "end": 15.51,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.09,
+      "end": 18.47,
+      "text": "có 3 in tà là 3 gốc",
+      "words": [
+        {
+          "word": "có",
+          "start": 16.09,
+          "end": 16.39,
+          "probability": 0.14
+        },
+        {
+          "word": "3",
+          "start": 16.39,
+          "end": 17.21,
+          "probability": 0.13
+        },
+        {
+          "word": "in",
+          "start": 17.21,
+          "end": 17.45,
+          "probability": 0.07
+        },
+        {
+          "word": "tà",
+          "start": 17.45,
+          "end": 17.65,
+          "probability": 0.69
+        },
+        {
+          "word": "là",
+          "start": 17.65,
+          "end": 17.99,
+          "probability": 0.35
+        },
+        {
+          "word": "3",
+          "start": 17.99,
+          "end": 18.23,
+          "probability": 0.56
+        },
+        {
+          "word": "gốc",
+          "start": 18.23,
+          "end": 18.47,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 18.47,
+      "end": 20.13,
+      "text": "bà có cái chức",
+      "words": [
+        {
+          "word": "bà",
+          "start": 18.47,
+          "end": 18.47,
+          "probability": 0.07
+        },
+        {
+          "word": "có",
+          "start": 18.47,
+          "end": 18.95,
+          "probability": 0.15
+        },
+        {
+          "word": "cái",
+          "start": 18.95,
+          "end": 18.99,
+          "probability": 0.01
+        },
+        {
+          "word": "chức",
+          "start": 18.99,
+          "end": 20.13,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 20.13,
+      "end": 22.81,
+      "text": "chức được đi, là bao gồm là chức thật thật thật gốc",
+      "words": [
+        {
+          "word": "chức",
+          "start": 20.13,
+          "end": 20.57,
+          "probability": 0.68
+        },
+        {
+          "word": "được",
+          "start": 20.57,
+          "end": 20.73,
+          "probability": 0.02
+        },
+        {
+          "word": "đi,",
+          "start": 20.73,
+          "end": 20.81,
+          "probability": 0.08
+        },
+        {
+          "word": "là",
+          "start": 20.95,
+          "end": 20.97,
+          "probability": 0.21
+        },
+        {
+          "word": "bao",
+          "start": 20.97,
+          "end": 21.17,
+          "probability": 0.65
+        },
+        {
+          "word": "gồm",
+          "start": 21.17,
+          "end": 21.25,
+          "probability": 0.84
+        },
+        {
+          "word": "là",
+          "start": 21.25,
+          "end": 21.53,
+          "probability": 0.62
+        },
+        {
+          "word": "chức",
+          "start": 21.53,
+          "end": 21.59,
+          "probability": 0.84
+        },
+        {
+          "word": "thật",
+          "start": 21.59,
+          "end": 21.85,
+          "probability": 0.29
+        },
+        {
+          "word": "thật",
+          "start": 21.85,
+          "end": 21.93,
+          "probability": 0.52
+        },
+        {
+          "word": "thật",
+          "start": 21.93,
+          "end": 22.01,
+          "probability": 0.51
+        },
+        {
+          "word": "gốc",
+          "start": 22.01,
+          "end": 22.81,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 22.81,
+      "end": 24.27,
+      "text": "e lo phải quay mấy",
+      "words": [
+        {
+          "word": "e",
+          "start": 22.81,
+          "end": 23.31,
+          "probability": 0.05
+        },
+        {
+          "word": "lo",
+          "start": 23.31,
+          "end": 23.45,
+          "probability": 0.03
+        },
+        {
+          "word": "phải",
+          "start": 23.45,
+          "end": 23.57,
+          "probability": 0.78
+        },
+        {
+          "word": "quay",
+          "start": 23.57,
+          "end": 23.87,
+          "probability": 0.4
+        },
+        {
+          "word": "mấy",
+          "start": 23.87,
+          "end": 24.27,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 24.27,
+      "end": 28.39,
+      "text": "mặc là chức kia gốc, e lo xíu hô chứng tà",
+      "words": [
+        {
+          "word": "mặc",
+          "start": 24.27,
+          "end": 24.81,
+          "probability": 0.04
+        },
+        {
+          "word": "là",
+          "start": 24.81,
+          "end": 25.27,
+          "probability": 0.22
+        },
+        {
+          "word": "chức",
+          "start": 25.27,
+          "end": 25.47,
+          "probability": 0.86
+        },
+        {
+          "word": "kia",
+          "start": 25.47,
+          "end": 25.85,
+          "probability": 0.37
+        },
+        {
+          "word": "gốc,",
+          "start": 25.85,
+          "end": 26.31,
+          "probability": 0.82
+        },
+        {
+          "word": "e",
+          "start": 26.65,
+          "end": 26.89,
+          "probability": 0.75
+        },
+        {
+          "word": "lo",
+          "start": 26.89,
+          "end": 27.13,
+          "probability": 0.39
+        },
+        {
+          "word": "xíu",
+          "start": 27.13,
+          "end": 27.65,
+          "probability": 0.49
+        },
+        {
+          "word": "hô",
+          "start": 27.65,
+          "end": 27.91,
+          "probability": 0.16
+        },
+        {
+          "word": "chứng",
+          "start": 27.91,
+          "end": 28.21,
+          "probability": 0.22
+        },
+        {
+          "word": "tà",
+          "start": 28.21,
+          "end": 28.39,
+          "probability": 0.92
+        }
+      ]
+    }
+  ]
+}

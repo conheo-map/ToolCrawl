@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7575363627708927253_02",
+  "duration_seconds": 19.4,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Tìm, tìm, tìm, tìm.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Tìm, tìm, tìm, tìm.",
+      "words": [
+        {
+          "word": "Tìm,",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.31
+        },
+        {
+          "word": "tìm,",
+          "start": 0.38,
+          "end": 0.74,
+          "probability": 0.64
+        },
+        {
+          "word": "tìm,",
+          "start": 0.88,
+          "end": 0.88,
+          "probability": 0.98
+        },
+        {
+          "word": "tìm.",
+          "start": 0.88,
+          "end": 0.88,
+          "probability": 0.99
+        }
+      ]
+    }
+  ]
+}

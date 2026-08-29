@@ -1,0 +1,878 @@
+{
+  "item_id": "tt_7642991689589607687_12",
+  "duration_seconds": 28.88,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 130,
+  "text": "Để phải bỏ hát 1 yên có chứ mới để trong 2 ngày vì hợp trước là 1 yên có chứ đó là nó phòng bị đất nhận kết chúa ở trong chứa chả cũng nó hỗ trợ từ mình hất bất là khiến kết bà và hỏ chứa cũng như sánh sáng như chứa tụi mình cái lúc mà mình lấy cái bà vào chứa tụi chứa chảy và trong những cái hỏ chứa nó phòng con cóng đó chống mà 1 mấy con gà nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé chỉ có tụi sof như thế này khi mà khi người trứng mà tụi mình lấy tụi trên trả về",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.82,
+      "text": "Để phải bỏ hát 1 yên có chứ mới để trong 2 ngày",
+      "words": [
+        {
+          "word": "Để",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.31
+        },
+        {
+          "word": "phải",
+          "start": 0.46,
+          "end": 0.64,
+          "probability": 0.43
+        },
+        {
+          "word": "bỏ",
+          "start": 0.64,
+          "end": 0.82,
+          "probability": 0.89
+        },
+        {
+          "word": "hát",
+          "start": 0.82,
+          "end": 1.04,
+          "probability": 0.5
+        },
+        {
+          "word": "1",
+          "start": 1.04,
+          "end": 1.2,
+          "probability": 0.64
+        },
+        {
+          "word": "yên",
+          "start": 1.2,
+          "end": 1.32,
+          "probability": 0.49
+        },
+        {
+          "word": "có",
+          "start": 1.32,
+          "end": 1.48,
+          "probability": 0.35
+        },
+        {
+          "word": "chứ",
+          "start": 1.48,
+          "end": 1.6,
+          "probability": 0.33
+        },
+        {
+          "word": "mới",
+          "start": 1.6,
+          "end": 1.72,
+          "probability": 0.15
+        },
+        {
+          "word": "để",
+          "start": 1.72,
+          "end": 1.9,
+          "probability": 0.27
+        },
+        {
+          "word": "trong",
+          "start": 1.9,
+          "end": 2.14,
+          "probability": 0.44
+        },
+        {
+          "word": "2",
+          "start": 2.14,
+          "end": 2.52,
+          "probability": 0.67
+        },
+        {
+          "word": "ngày",
+          "start": 2.52,
+          "end": 2.82,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.82,
+      "end": 5.9,
+      "text": "vì hợp trước là 1 yên có chứ đó là nó phòng bị đất nhận",
+      "words": [
+        {
+          "word": "vì",
+          "start": 2.82,
+          "end": 3.0,
+          "probability": 0.08
+        },
+        {
+          "word": "hợp",
+          "start": 3.0,
+          "end": 3.2,
+          "probability": 0.56
+        },
+        {
+          "word": "trước",
+          "start": 3.2,
+          "end": 3.4,
+          "probability": 0.64
+        },
+        {
+          "word": "là",
+          "start": 3.4,
+          "end": 3.66,
+          "probability": 0.72
+        },
+        {
+          "word": "1",
+          "start": 3.66,
+          "end": 3.86,
+          "probability": 0.95
+        },
+        {
+          "word": "yên",
+          "start": 3.86,
+          "end": 3.92,
+          "probability": 0.85
+        },
+        {
+          "word": "có",
+          "start": 3.92,
+          "end": 4.08,
+          "probability": 0.42
+        },
+        {
+          "word": "chứ",
+          "start": 4.08,
+          "end": 4.24,
+          "probability": 0.83
+        },
+        {
+          "word": "đó",
+          "start": 4.24,
+          "end": 4.5,
+          "probability": 0.23
+        },
+        {
+          "word": "là",
+          "start": 4.5,
+          "end": 4.92,
+          "probability": 0.86
+        },
+        {
+          "word": "nó",
+          "start": 4.92,
+          "end": 5.2,
+          "probability": 0.58
+        },
+        {
+          "word": "phòng",
+          "start": 5.2,
+          "end": 5.3,
+          "probability": 0.46
+        },
+        {
+          "word": "bị",
+          "start": 5.3,
+          "end": 5.44,
+          "probability": 0.1
+        },
+        {
+          "word": "đất",
+          "start": 5.44,
+          "end": 5.58,
+          "probability": 0.4
+        },
+        {
+          "word": "nhận",
+          "start": 5.58,
+          "end": 5.9,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.9,
+      "end": 7.92,
+      "text": "kết chúa ở trong chứa chả cũng nó hỗ trợ",
+      "words": [
+        {
+          "word": "kết",
+          "start": 5.9,
+          "end": 6.22,
+          "probability": 0.26
+        },
+        {
+          "word": "chúa",
+          "start": 6.22,
+          "end": 6.46,
+          "probability": 0.43
+        },
+        {
+          "word": "ở",
+          "start": 6.46,
+          "end": 6.72,
+          "probability": 0.91
+        },
+        {
+          "word": "trong",
+          "start": 6.72,
+          "end": 6.82,
+          "probability": 0.91
+        },
+        {
+          "word": "chứa",
+          "start": 6.82,
+          "end": 7.08,
+          "probability": 0.19
+        },
+        {
+          "word": "chả",
+          "start": 7.08,
+          "end": 7.22,
+          "probability": 0.31
+        },
+        {
+          "word": "cũng",
+          "start": 7.22,
+          "end": 7.34,
+          "probability": 0.33
+        },
+        {
+          "word": "nó",
+          "start": 7.34,
+          "end": 7.56,
+          "probability": 0.31
+        },
+        {
+          "word": "hỗ",
+          "start": 7.56,
+          "end": 7.74,
+          "probability": 0.68
+        },
+        {
+          "word": "trợ",
+          "start": 7.74,
+          "end": 7.92,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.92,
+      "end": 9.52,
+      "text": "từ mình hất bất là khiến kết bà",
+      "words": [
+        {
+          "word": "từ",
+          "start": 7.92,
+          "end": 8.1,
+          "probability": 0.24
+        },
+        {
+          "word": "mình",
+          "start": 8.1,
+          "end": 8.2,
+          "probability": 0.48
+        },
+        {
+          "word": "hất",
+          "start": 8.2,
+          "end": 8.36,
+          "probability": 0.52
+        },
+        {
+          "word": "bất",
+          "start": 8.36,
+          "end": 8.6,
+          "probability": 0.69
+        },
+        {
+          "word": "là",
+          "start": 8.6,
+          "end": 8.8,
+          "probability": 0.89
+        },
+        {
+          "word": "khiến",
+          "start": 8.8,
+          "end": 9.04,
+          "probability": 0.35
+        },
+        {
+          "word": "kết",
+          "start": 9.04,
+          "end": 9.28,
+          "probability": 0.99
+        },
+        {
+          "word": "bà",
+          "start": 9.28,
+          "end": 9.52,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.52,
+      "end": 11.48,
+      "text": "và hỏ chứa cũng như sánh sáng như chứa tụi mình",
+      "words": [
+        {
+          "word": "và",
+          "start": 9.52,
+          "end": 9.82,
+          "probability": 0.03
+        },
+        {
+          "word": "hỏ",
+          "start": 9.82,
+          "end": 10.12,
+          "probability": 0.15
+        },
+        {
+          "word": "chứa",
+          "start": 10.12,
+          "end": 10.16,
+          "probability": 0.45
+        },
+        {
+          "word": "cũng",
+          "start": 10.16,
+          "end": 10.28,
+          "probability": 0.05
+        },
+        {
+          "word": "như",
+          "start": 10.28,
+          "end": 10.46,
+          "probability": 0.73
+        },
+        {
+          "word": "sánh",
+          "start": 10.46,
+          "end": 10.68,
+          "probability": 0.5
+        },
+        {
+          "word": "sáng",
+          "start": 10.68,
+          "end": 10.92,
+          "probability": 0.53
+        },
+        {
+          "word": "như",
+          "start": 10.92,
+          "end": 11.04,
+          "probability": 0.1
+        },
+        {
+          "word": "chứa",
+          "start": 11.04,
+          "end": 11.18,
+          "probability": 0.38
+        },
+        {
+          "word": "tụi",
+          "start": 11.18,
+          "end": 11.32,
+          "probability": 0.47
+        },
+        {
+          "word": "mình",
+          "start": 11.32,
+          "end": 11.48,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.48,
+      "end": 14.42,
+      "text": "cái lúc mà mình lấy cái bà vào chứa tụi chứa chảy",
+      "words": [
+        {
+          "word": "cái",
+          "start": 11.48,
+          "end": 11.7,
+          "probability": 0.16
+        },
+        {
+          "word": "lúc",
+          "start": 11.7,
+          "end": 11.88,
+          "probability": 0.83
+        },
+        {
+          "word": "mà",
+          "start": 11.88,
+          "end": 12.1,
+          "probability": 0.85
+        },
+        {
+          "word": "mình",
+          "start": 12.1,
+          "end": 12.32,
+          "probability": 0.93
+        },
+        {
+          "word": "lấy",
+          "start": 12.32,
+          "end": 12.5,
+          "probability": 0.61
+        },
+        {
+          "word": "cái",
+          "start": 12.5,
+          "end": 12.9,
+          "probability": 0.62
+        },
+        {
+          "word": "bà",
+          "start": 12.9,
+          "end": 13.12,
+          "probability": 0.87
+        },
+        {
+          "word": "vào",
+          "start": 13.12,
+          "end": 13.32,
+          "probability": 0.06
+        },
+        {
+          "word": "chứa",
+          "start": 13.32,
+          "end": 13.54,
+          "probability": 0.79
+        },
+        {
+          "word": "tụi",
+          "start": 13.54,
+          "end": 13.8,
+          "probability": 0.41
+        },
+        {
+          "word": "chứa",
+          "start": 13.8,
+          "end": 14.0,
+          "probability": 0.6
+        },
+        {
+          "word": "chảy",
+          "start": 14.0,
+          "end": 14.42,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 14.42,
+      "end": 16.44,
+      "text": "và trong những cái hỏ chứa nó phòng con cóng đó chống",
+      "words": [
+        {
+          "word": "và",
+          "start": 14.42,
+          "end": 14.56,
+          "probability": 0.69
+        },
+        {
+          "word": "trong",
+          "start": 14.56,
+          "end": 14.8,
+          "probability": 0.85
+        },
+        {
+          "word": "những",
+          "start": 14.8,
+          "end": 14.94,
+          "probability": 0.78
+        },
+        {
+          "word": "cái",
+          "start": 14.94,
+          "end": 15.08,
+          "probability": 0.86
+        },
+        {
+          "word": "hỏ",
+          "start": 15.08,
+          "end": 15.3,
+          "probability": 0.8
+        },
+        {
+          "word": "chứa",
+          "start": 15.3,
+          "end": 15.32,
+          "probability": 0.8
+        },
+        {
+          "word": "nó",
+          "start": 15.32,
+          "end": 15.5,
+          "probability": 0.86
+        },
+        {
+          "word": "phòng",
+          "start": 15.5,
+          "end": 15.74,
+          "probability": 0.7
+        },
+        {
+          "word": "con",
+          "start": 15.74,
+          "end": 15.9,
+          "probability": 0.75
+        },
+        {
+          "word": "cóng",
+          "start": 15.9,
+          "end": 16.04,
+          "probability": 0.23
+        },
+        {
+          "word": "đó",
+          "start": 16.04,
+          "end": 16.06,
+          "probability": 0.1
+        },
+        {
+          "word": "chống",
+          "start": 16.06,
+          "end": 16.44,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.44,
+      "end": 17.86,
+      "text": "mà 1 mấy con gà",
+      "words": [
+        {
+          "word": "mà",
+          "start": 16.44,
+          "end": 16.48,
+          "probability": 0.1
+        },
+        {
+          "word": "1",
+          "start": 16.48,
+          "end": 16.78,
+          "probability": 0.17
+        },
+        {
+          "word": "mấy",
+          "start": 16.78,
+          "end": 16.98,
+          "probability": 0.62
+        },
+        {
+          "word": "con",
+          "start": 16.98,
+          "end": 17.2,
+          "probability": 0.73
+        },
+        {
+          "word": "gà",
+          "start": 17.2,
+          "end": 17.86,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 17.86,
+      "end": 19.72,
+      "text": "nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé nhé",
+      "words": [
+        {
+          "word": "nhé",
+          "start": 17.86,
+          "end": 18.1,
+          "probability": 0.3
+        },
+        {
+          "word": "nhé",
+          "start": 18.1,
+          "end": 18.34,
+          "probability": 0.63
+        },
+        {
+          "word": "nhé",
+          "start": 18.34,
+          "end": 18.6,
+          "probability": 0.81
+        },
+        {
+          "word": "nhé",
+          "start": 18.6,
+          "end": 18.64,
+          "probability": 0.81
+        },
+        {
+          "word": "nhé",
+          "start": 18.64,
+          "end": 18.66,
+          "probability": 0.81
+        },
+        {
+          "word": "nhé",
+          "start": 18.66,
+          "end": 18.68,
+          "probability": 0.76
+        },
+        {
+          "word": "nhé",
+          "start": 18.68,
+          "end": 18.7,
+          "probability": 0.81
+        },
+        {
+          "word": "nhé",
+          "start": 18.7,
+          "end": 18.7,
+          "probability": 0.82
+        },
+        {
+          "word": "nhé",
+          "start": 18.7,
+          "end": 18.82,
+          "probability": 0.84
+        },
+        {
+          "word": "nhé",
+          "start": 18.82,
+          "end": 18.84,
+          "probability": 0.86
+        },
+        {
+          "word": "nhé",
+          "start": 18.84,
+          "end": 18.84,
+          "probability": 0.87
+        },
+        {
+          "word": "nhé",
+          "start": 18.84,
+          "end": 18.84,
+          "probability": 0.89
+        },
+        {
+          "word": "nhé",
+          "start": 18.84,
+          "end": 18.84,
+          "probability": 0.9
+        },
+        {
+          "word": "nhé",
+          "start": 18.84,
+          "end": 18.84,
+          "probability": 0.9
+        },
+        {
+          "word": "nhé",
+          "start": 18.84,
+          "end": 19.72,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 19.72,
+      "end": 24.52,
+      "text": "nhé nhé nhé nhé nhé nhé nhé nhé nhé chỉ có tụi sof như thế này",
+      "words": [
+        {
+          "word": "nhé",
+          "start": 19.72,
+          "end": 20.02,
+          "probability": 0.39
+        },
+        {
+          "word": "nhé",
+          "start": 20.02,
+          "end": 20.2,
+          "probability": 0.49
+        },
+        {
+          "word": "nhé",
+          "start": 20.2,
+          "end": 20.46,
+          "probability": 0.51
+        },
+        {
+          "word": "nhé",
+          "start": 20.46,
+          "end": 20.56,
+          "probability": 0.59
+        },
+        {
+          "word": "nhé",
+          "start": 20.56,
+          "end": 20.66,
+          "probability": 0.75
+        },
+        {
+          "word": "nhé",
+          "start": 20.66,
+          "end": 21.02,
+          "probability": 0.82
+        },
+        {
+          "word": "nhé",
+          "start": 21.02,
+          "end": 21.02,
+          "probability": 0.85
+        },
+        {
+          "word": "nhé",
+          "start": 21.02,
+          "end": 21.28,
+          "probability": 0.87
+        },
+        {
+          "word": "nhé",
+          "start": 21.28,
+          "end": 21.28,
+          "probability": 0.87
+        },
+        {
+          "word": "chỉ",
+          "start": 21.28,
+          "end": 22.46,
+          "probability": 0.0
+        },
+        {
+          "word": "có",
+          "start": 22.46,
+          "end": 23.68,
+          "probability": 0.74
+        },
+        {
+          "word": "tụi",
+          "start": 23.68,
+          "end": 23.84,
+          "probability": 0.34
+        },
+        {
+          "word": "sof",
+          "start": 23.84,
+          "end": 24.12,
+          "probability": 0.12
+        },
+        {
+          "word": "như",
+          "start": 24.12,
+          "end": 24.28,
+          "probability": 0.08
+        },
+        {
+          "word": "thế",
+          "start": 24.28,
+          "end": 24.34,
+          "probability": 0.52
+        },
+        {
+          "word": "này",
+          "start": 24.34,
+          "end": 24.52,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 24.52,
+      "end": 27.8,
+      "text": "khi mà khi người trứng mà tụi mình lấy tụi trên trả về",
+      "words": [
+        {
+          "word": "khi",
+          "start": 24.52,
+          "end": 24.7,
+          "probability": 0.34
+        },
+        {
+          "word": "mà",
+          "start": 24.7,
+          "end": 24.8,
+          "probability": 0.52
+        },
+        {
+          "word": "khi",
+          "start": 24.8,
+          "end": 25.08,
+          "probability": 0.0
+        },
+        {
+          "word": "người",
+          "start": 25.08,
+          "end": 25.4,
+          "probability": 0.0
+        },
+        {
+          "word": "trứng",
+          "start": 25.4,
+          "end": 26.16,
+          "probability": 0.25
+        },
+        {
+          "word": "mà",
+          "start": 26.16,
+          "end": 26.34,
+          "probability": 0.39
+        },
+        {
+          "word": "tụi",
+          "start": 26.34,
+          "end": 26.5,
+          "probability": 0.63
+        },
+        {
+          "word": "mình",
+          "start": 26.5,
+          "end": 26.54,
+          "probability": 0.07
+        },
+        {
+          "word": "lấy",
+          "start": 26.54,
+          "end": 26.7,
+          "probability": 0.56
+        },
+        {
+          "word": "tụi",
+          "start": 26.7,
+          "end": 26.92,
+          "probability": 0.45
+        },
+        {
+          "word": "trên",
+          "start": 26.92,
+          "end": 27.12,
+          "probability": 0.56
+        },
+        {
+          "word": "trả",
+          "start": 27.12,
+          "end": 27.4,
+          "probability": 0.5
+        },
+        {
+          "word": "về",
+          "start": 27.4,
+          "end": 27.8,
+          "probability": 0.54
+        }
+      ]
+    }
+  ]
+}

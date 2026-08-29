@@ -1,0 +1,584 @@
+{
+  "item_id": "tt_7665013125535567124_03",
+  "duration_seconds": 28.45,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 73,
+  "text": "2 doa tròn thách Bây giờ tôi có một cái chương học Già đình học Điều một người bỏ Phán chờ máy người tối Đến với một sự kết quát Để là ông thời tiến tình liệt Ở dây đoạn Lần sau, mấy dây kênh, ông thóc Bình dân lập người Ôi hiểu biết Con Thành có Nhưng mà Bình dân lại không có đi Tính ra sự phía đình kì Tành ra",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 1.89,
+      "text": "2 doa tròn thách",
+      "words": [
+        {
+          "word": "2",
+          "start": 0.05,
+          "end": 0.57,
+          "probability": 0.13
+        },
+        {
+          "word": "doa",
+          "start": 0.57,
+          "end": 0.75,
+          "probability": 0.17
+        },
+        {
+          "word": "tròn",
+          "start": 0.75,
+          "end": 0.95,
+          "probability": 0.42
+        },
+        {
+          "word": "thách",
+          "start": 0.95,
+          "end": 1.89,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.89,
+      "end": 5.29,
+      "text": "Bây giờ tôi có một cái chương học",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 1.89,
+          "end": 2.79,
+          "probability": 0.15
+        },
+        {
+          "word": "giờ",
+          "start": 2.79,
+          "end": 2.79,
+          "probability": 0.3
+        },
+        {
+          "word": "tôi",
+          "start": 2.79,
+          "end": 3.13,
+          "probability": 0.21
+        },
+        {
+          "word": "có",
+          "start": 3.13,
+          "end": 3.87,
+          "probability": 0.11
+        },
+        {
+          "word": "một",
+          "start": 3.87,
+          "end": 4.23,
+          "probability": 0.14
+        },
+        {
+          "word": "cái",
+          "start": 4.23,
+          "end": 4.53,
+          "probability": 0.61
+        },
+        {
+          "word": "chương",
+          "start": 4.53,
+          "end": 4.71,
+          "probability": 0.38
+        },
+        {
+          "word": "học",
+          "start": 4.71,
+          "end": 5.29,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.29,
+      "end": 6.73,
+      "text": "Già đình học",
+      "words": [
+        {
+          "word": "Già",
+          "start": 5.29,
+          "end": 5.85,
+          "probability": 0.16
+        },
+        {
+          "word": "đình",
+          "start": 5.85,
+          "end": 6.05,
+          "probability": 0.36
+        },
+        {
+          "word": "học",
+          "start": 6.05,
+          "end": 6.73,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.73,
+      "end": 8.21,
+      "text": "Điều một người bỏ",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 6.73,
+          "end": 7.19,
+          "probability": 0.48
+        },
+        {
+          "word": "một",
+          "start": 7.19,
+          "end": 7.41,
+          "probability": 0.84
+        },
+        {
+          "word": "người",
+          "start": 7.41,
+          "end": 7.59,
+          "probability": 0.38
+        },
+        {
+          "word": "bỏ",
+          "start": 7.59,
+          "end": 8.21,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.21,
+      "end": 9.85,
+      "text": "Phán chờ máy người tối",
+      "words": [
+        {
+          "word": "Phán",
+          "start": 8.21,
+          "end": 8.89,
+          "probability": 0.16
+        },
+        {
+          "word": "chờ",
+          "start": 8.89,
+          "end": 9.01,
+          "probability": 0.42
+        },
+        {
+          "word": "máy",
+          "start": 9.01,
+          "end": 9.25,
+          "probability": 0.52
+        },
+        {
+          "word": "người",
+          "start": 9.25,
+          "end": 9.43,
+          "probability": 0.33
+        },
+        {
+          "word": "tối",
+          "start": 9.43,
+          "end": 9.85,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 9.85,
+      "end": 11.63,
+      "text": "Đến với một sự kết quát",
+      "words": [
+        {
+          "word": "Đến",
+          "start": 9.85,
+          "end": 10.47,
+          "probability": 0.22
+        },
+        {
+          "word": "với",
+          "start": 10.47,
+          "end": 10.79,
+          "probability": 0.65
+        },
+        {
+          "word": "một",
+          "start": 10.79,
+          "end": 10.99,
+          "probability": 0.7
+        },
+        {
+          "word": "sự",
+          "start": 10.99,
+          "end": 11.13,
+          "probability": 0.68
+        },
+        {
+          "word": "kết",
+          "start": 11.13,
+          "end": 11.29,
+          "probability": 0.34
+        },
+        {
+          "word": "quát",
+          "start": 11.29,
+          "end": 11.63,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 11.63,
+      "end": 13.51,
+      "text": "Để là ông thời tiến tình liệt",
+      "words": [
+        {
+          "word": "Để",
+          "start": 11.63,
+          "end": 11.89,
+          "probability": 0.03
+        },
+        {
+          "word": "là",
+          "start": 11.89,
+          "end": 12.01,
+          "probability": 0.17
+        },
+        {
+          "word": "ông",
+          "start": 12.01,
+          "end": 12.15,
+          "probability": 0.7
+        },
+        {
+          "word": "thời",
+          "start": 12.15,
+          "end": 12.35,
+          "probability": 0.63
+        },
+        {
+          "word": "tiến",
+          "start": 12.35,
+          "end": 12.57,
+          "probability": 0.33
+        },
+        {
+          "word": "tình",
+          "start": 12.57,
+          "end": 12.75,
+          "probability": 0.62
+        },
+        {
+          "word": "liệt",
+          "start": 12.75,
+          "end": 13.51,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.51,
+      "end": 14.55,
+      "text": "Ở dây đoạn",
+      "words": [
+        {
+          "word": "Ở",
+          "start": 13.51,
+          "end": 13.85,
+          "probability": 0.57
+        },
+        {
+          "word": "dây",
+          "start": 13.85,
+          "end": 13.95,
+          "probability": 0.42
+        },
+        {
+          "word": "đoạn",
+          "start": 13.95,
+          "end": 14.55,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 14.55,
+      "end": 17.37,
+      "text": "Lần sau, mấy dây kênh, ông thóc",
+      "words": [
+        {
+          "word": "Lần",
+          "start": 14.55,
+          "end": 15.35,
+          "probability": 0.24
+        },
+        {
+          "word": "sau,",
+          "start": 15.35,
+          "end": 15.67,
+          "probability": 0.12
+        },
+        {
+          "word": "mấy",
+          "start": 15.83,
+          "end": 15.91,
+          "probability": 0.43
+        },
+        {
+          "word": "dây",
+          "start": 15.91,
+          "end": 16.09,
+          "probability": 0.15
+        },
+        {
+          "word": "kênh,",
+          "start": 16.09,
+          "end": 16.43,
+          "probability": 0.48
+        },
+        {
+          "word": "ông",
+          "start": 16.77,
+          "end": 16.77,
+          "probability": 0.4
+        },
+        {
+          "word": "thóc",
+          "start": 16.77,
+          "end": 17.37,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 17.37,
+      "end": 18.97,
+      "text": "Bình dân lập người",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 17.37,
+          "end": 17.91,
+          "probability": 0.63
+        },
+        {
+          "word": "dân",
+          "start": 17.91,
+          "end": 18.01,
+          "probability": 0.3
+        },
+        {
+          "word": "lập",
+          "start": 18.01,
+          "end": 18.25,
+          "probability": 0.38
+        },
+        {
+          "word": "người",
+          "start": 18.25,
+          "end": 18.97,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 18.97,
+      "end": 20.43,
+      "text": "Ôi hiểu biết",
+      "words": [
+        {
+          "word": "Ôi",
+          "start": 18.97,
+          "end": 19.63,
+          "probability": 0.3
+        },
+        {
+          "word": "hiểu",
+          "start": 19.63,
+          "end": 19.81,
+          "probability": 0.39
+        },
+        {
+          "word": "biết",
+          "start": 19.81,
+          "end": 20.43,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 20.43,
+      "end": 21.41,
+      "text": "Con",
+      "words": [
+        {
+          "word": "Con",
+          "start": 20.43,
+          "end": 21.41,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 21.41,
+      "end": 22.33,
+      "text": "Thành có",
+      "words": [
+        {
+          "word": "Thành",
+          "start": 21.41,
+          "end": 22.05,
+          "probability": 0.23
+        },
+        {
+          "word": "có",
+          "start": 22.05,
+          "end": 22.33,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 22.33,
+      "end": 23.89,
+      "text": "Nhưng mà",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 22.33,
+          "end": 23.15,
+          "probability": 0.53
+        },
+        {
+          "word": "mà",
+          "start": 23.15,
+          "end": 23.89,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 23.89,
+      "end": 25.85,
+      "text": "Bình dân lại không có đi",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 23.89,
+          "end": 24.23,
+          "probability": 0.88
+        },
+        {
+          "word": "dân",
+          "start": 24.23,
+          "end": 24.39,
+          "probability": 0.92
+        },
+        {
+          "word": "lại",
+          "start": 24.39,
+          "end": 24.73,
+          "probability": 0.59
+        },
+        {
+          "word": "không",
+          "start": 24.73,
+          "end": 25.11,
+          "probability": 0.97
+        },
+        {
+          "word": "có",
+          "start": 25.11,
+          "end": 25.45,
+          "probability": 0.99
+        },
+        {
+          "word": "đi",
+          "start": 25.45,
+          "end": 25.85,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 25.85,
+      "end": 27.43,
+      "text": "Tính ra sự phía đình kì",
+      "words": [
+        {
+          "word": "Tính",
+          "start": 25.85,
+          "end": 26.21,
+          "probability": 0.09
+        },
+        {
+          "word": "ra",
+          "start": 26.21,
+          "end": 26.39,
+          "probability": 0.54
+        },
+        {
+          "word": "sự",
+          "start": 26.39,
+          "end": 26.57,
+          "probability": 0.32
+        },
+        {
+          "word": "phía",
+          "start": 26.57,
+          "end": 26.73,
+          "probability": 0.33
+        },
+        {
+          "word": "đình",
+          "start": 26.73,
+          "end": 26.93,
+          "probability": 0.46
+        },
+        {
+          "word": "kì",
+          "start": 26.93,
+          "end": 27.43,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 27.43,
+      "end": 28.33,
+      "text": "Tành ra",
+      "words": [
+        {
+          "word": "Tành",
+          "start": 27.43,
+          "end": 28.07,
+          "probability": 0.56
+        },
+        {
+          "word": "ra",
+          "start": 28.07,
+          "end": 28.33,
+          "probability": 0.72
+        }
+      ]
+    }
+  ]
+}

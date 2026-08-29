@@ -1,0 +1,716 @@
+{
+  "item_id": "tt_7677806600366607623_48",
+  "duration_seconds": 29.78,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 107,
+  "text": "Tất cả hôm nay, nó nằm môi nó mì không thấy bản thân khác trên đình bị rất nhiều là mình nghĩ là ở lâu thì mình không khóc cơm khác chiến tuy nhiên. Thì thầy mình là người Việt Nam, người gặp những việc mình sống và người Việt Nam là đối với kè nhân mình thì mình cần thấy là khi ở về thì mình được cảm thấy như là nhà hơn. Và mình... Hãy tựa sống của mình là chúng là... Sống... mình không thấy những cái là mình không phải sống, phải là nhiều khói lần của mình phải sống phải nhiều... Vìa...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.82,
+      "text": "Tất cả hôm nay, nó nằm môi nó mì không thấy bản thân khác trên đình bị rất nhiều là mình nghĩ là ở lâu thì mình không khóc cơm khác chiến tuy nhiên.",
+      "words": [
+        {
+          "word": "Tất",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.28
+        },
+        {
+          "word": "cả",
+          "start": 0.46,
+          "end": 0.48,
+          "probability": 0.21
+        },
+        {
+          "word": "hôm",
+          "start": 0.48,
+          "end": 0.64,
+          "probability": 0.33
+        },
+        {
+          "word": "nay,",
+          "start": 0.64,
+          "end": 0.72,
+          "probability": 0.13
+        },
+        {
+          "word": "nó",
+          "start": 1.04,
+          "end": 1.04,
+          "probability": 0.12
+        },
+        {
+          "word": "nằm",
+          "start": 1.04,
+          "end": 1.08,
+          "probability": 0.43
+        },
+        {
+          "word": "môi",
+          "start": 1.08,
+          "end": 1.26,
+          "probability": 0.26
+        },
+        {
+          "word": "nó",
+          "start": 1.26,
+          "end": 1.46,
+          "probability": 0.27
+        },
+        {
+          "word": "mì",
+          "start": 1.46,
+          "end": 1.7,
+          "probability": 0.16
+        },
+        {
+          "word": "không",
+          "start": 1.7,
+          "end": 1.88,
+          "probability": 0.96
+        },
+        {
+          "word": "thấy",
+          "start": 1.88,
+          "end": 2.02,
+          "probability": 0.79
+        },
+        {
+          "word": "bản",
+          "start": 2.02,
+          "end": 2.28,
+          "probability": 0.38
+        },
+        {
+          "word": "thân",
+          "start": 2.28,
+          "end": 2.3,
+          "probability": 0.82
+        },
+        {
+          "word": "khác",
+          "start": 2.3,
+          "end": 2.48,
+          "probability": 0.1
+        },
+        {
+          "word": "trên",
+          "start": 2.48,
+          "end": 2.62,
+          "probability": 0.24
+        },
+        {
+          "word": "đình",
+          "start": 2.62,
+          "end": 2.78,
+          "probability": 0.16
+        },
+        {
+          "word": "bị",
+          "start": 2.78,
+          "end": 2.94,
+          "probability": 0.39
+        },
+        {
+          "word": "rất",
+          "start": 2.94,
+          "end": 3.1,
+          "probability": 0.29
+        },
+        {
+          "word": "nhiều",
+          "start": 3.1,
+          "end": 3.3,
+          "probability": 0.53
+        },
+        {
+          "word": "là",
+          "start": 3.3,
+          "end": 3.72,
+          "probability": 0.7
+        },
+        {
+          "word": "mình",
+          "start": 3.72,
+          "end": 3.88,
+          "probability": 0.74
+        },
+        {
+          "word": "nghĩ",
+          "start": 3.88,
+          "end": 4.02,
+          "probability": 0.23
+        },
+        {
+          "word": "là",
+          "start": 4.02,
+          "end": 4.16,
+          "probability": 0.76
+        },
+        {
+          "word": "ở",
+          "start": 4.16,
+          "end": 4.34,
+          "probability": 0.27
+        },
+        {
+          "word": "lâu",
+          "start": 4.34,
+          "end": 4.52,
+          "probability": 0.69
+        },
+        {
+          "word": "thì",
+          "start": 4.52,
+          "end": 4.68,
+          "probability": 0.87
+        },
+        {
+          "word": "mình",
+          "start": 4.68,
+          "end": 4.78,
+          "probability": 0.96
+        },
+        {
+          "word": "không",
+          "start": 4.78,
+          "end": 4.92,
+          "probability": 0.58
+        },
+        {
+          "word": "khóc",
+          "start": 4.92,
+          "end": 5.1,
+          "probability": 0.36
+        },
+        {
+          "word": "cơm",
+          "start": 5.1,
+          "end": 5.36,
+          "probability": 0.24
+        },
+        {
+          "word": "khác",
+          "start": 5.36,
+          "end": 5.6,
+          "probability": 0.9
+        },
+        {
+          "word": "chiến",
+          "start": 5.6,
+          "end": 5.92,
+          "probability": 0.6
+        },
+        {
+          "word": "tuy",
+          "start": 5.92,
+          "end": 6.16,
+          "probability": 0.65
+        },
+        {
+          "word": "nhiên.",
+          "start": 6.16,
+          "end": 6.82,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.52,
+      "end": 13.14,
+      "text": "Thì thầy mình là người Việt Nam, người gặp những việc mình sống và người Việt Nam là đối với kè nhân mình thì mình cần thấy là",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 7.52,
+          "end": 7.52,
+          "probability": 0.68
+        },
+        {
+          "word": "thầy",
+          "start": 7.52,
+          "end": 7.74,
+          "probability": 0.58
+        },
+        {
+          "word": "mình",
+          "start": 7.74,
+          "end": 7.86,
+          "probability": 0.9
+        },
+        {
+          "word": "là",
+          "start": 7.86,
+          "end": 8.0,
+          "probability": 0.44
+        },
+        {
+          "word": "người",
+          "start": 8.0,
+          "end": 8.14,
+          "probability": 0.54
+        },
+        {
+          "word": "Việt",
+          "start": 8.14,
+          "end": 8.32,
+          "probability": 0.13
+        },
+        {
+          "word": "Nam,",
+          "start": 8.32,
+          "end": 8.46,
+          "probability": 0.93
+        },
+        {
+          "word": "người",
+          "start": 8.7,
+          "end": 8.7,
+          "probability": 0.45
+        },
+        {
+          "word": "gặp",
+          "start": 8.7,
+          "end": 8.76,
+          "probability": 0.54
+        },
+        {
+          "word": "những",
+          "start": 8.76,
+          "end": 8.92,
+          "probability": 0.15
+        },
+        {
+          "word": "việc",
+          "start": 8.92,
+          "end": 9.14,
+          "probability": 0.29
+        },
+        {
+          "word": "mình",
+          "start": 9.14,
+          "end": 9.38,
+          "probability": 0.23
+        },
+        {
+          "word": "sống",
+          "start": 9.38,
+          "end": 9.6,
+          "probability": 0.6
+        },
+        {
+          "word": "và",
+          "start": 9.6,
+          "end": 9.92,
+          "probability": 0.44
+        },
+        {
+          "word": "người",
+          "start": 9.92,
+          "end": 10.12,
+          "probability": 0.47
+        },
+        {
+          "word": "Việt",
+          "start": 10.12,
+          "end": 10.28,
+          "probability": 0.93
+        },
+        {
+          "word": "Nam",
+          "start": 10.28,
+          "end": 10.46,
+          "probability": 1.0
+        },
+        {
+          "word": "là",
+          "start": 10.46,
+          "end": 11.22,
+          "probability": 0.14
+        },
+        {
+          "word": "đối",
+          "start": 11.22,
+          "end": 11.52,
+          "probability": 0.15
+        },
+        {
+          "word": "với",
+          "start": 11.52,
+          "end": 11.52,
+          "probability": 0.19
+        },
+        {
+          "word": "kè",
+          "start": 11.52,
+          "end": 11.74,
+          "probability": 0.16
+        },
+        {
+          "word": "nhân",
+          "start": 11.74,
+          "end": 11.8,
+          "probability": 0.29
+        },
+        {
+          "word": "mình",
+          "start": 11.8,
+          "end": 11.98,
+          "probability": 0.79
+        },
+        {
+          "word": "thì",
+          "start": 11.98,
+          "end": 12.08,
+          "probability": 0.38
+        },
+        {
+          "word": "mình",
+          "start": 12.08,
+          "end": 12.24,
+          "probability": 0.84
+        },
+        {
+          "word": "cần",
+          "start": 12.24,
+          "end": 12.38,
+          "probability": 0.11
+        },
+        {
+          "word": "thấy",
+          "start": 12.38,
+          "end": 12.58,
+          "probability": 0.8
+        },
+        {
+          "word": "là",
+          "start": 12.58,
+          "end": 13.14,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.14,
+      "end": 15.82,
+      "text": "khi ở về thì mình được cảm thấy như là nhà hơn.",
+      "words": [
+        {
+          "word": "khi",
+          "start": 13.14,
+          "end": 13.6,
+          "probability": 0.33
+        },
+        {
+          "word": "ở",
+          "start": 13.6,
+          "end": 13.62,
+          "probability": 0.68
+        },
+        {
+          "word": "về",
+          "start": 13.62,
+          "end": 13.76,
+          "probability": 0.41
+        },
+        {
+          "word": "thì",
+          "start": 13.76,
+          "end": 14.0,
+          "probability": 0.3
+        },
+        {
+          "word": "mình",
+          "start": 14.0,
+          "end": 14.12,
+          "probability": 0.99
+        },
+        {
+          "word": "được",
+          "start": 14.12,
+          "end": 14.3,
+          "probability": 0.29
+        },
+        {
+          "word": "cảm",
+          "start": 14.3,
+          "end": 14.52,
+          "probability": 0.92
+        },
+        {
+          "word": "thấy",
+          "start": 14.52,
+          "end": 14.64,
+          "probability": 1.0
+        },
+        {
+          "word": "như",
+          "start": 14.64,
+          "end": 14.76,
+          "probability": 0.71
+        },
+        {
+          "word": "là",
+          "start": 14.76,
+          "end": 14.96,
+          "probability": 0.82
+        },
+        {
+          "word": "nhà",
+          "start": 14.96,
+          "end": 15.28,
+          "probability": 0.36
+        },
+        {
+          "word": "hơn.",
+          "start": 15.28,
+          "end": 15.82,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 19.08,
+      "end": 19.8,
+      "text": "Và mình...",
+      "words": [
+        {
+          "word": "Và",
+          "start": 19.08,
+          "end": 19.44,
+          "probability": 0.62
+        },
+        {
+          "word": "mình...",
+          "start": 19.44,
+          "end": 19.8,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 19.8,
+      "end": 21.44,
+      "text": "Hãy tựa sống của mình là chúng là...",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 19.8,
+          "end": 19.94,
+          "probability": 0.21
+        },
+        {
+          "word": "tựa",
+          "start": 19.94,
+          "end": 20.1,
+          "probability": 0.42
+        },
+        {
+          "word": "sống",
+          "start": 20.1,
+          "end": 20.22,
+          "probability": 0.93
+        },
+        {
+          "word": "của",
+          "start": 20.22,
+          "end": 20.4,
+          "probability": 0.57
+        },
+        {
+          "word": "mình",
+          "start": 20.4,
+          "end": 20.52,
+          "probability": 0.98
+        },
+        {
+          "word": "là",
+          "start": 20.52,
+          "end": 20.66,
+          "probability": 0.55
+        },
+        {
+          "word": "chúng",
+          "start": 20.66,
+          "end": 20.74,
+          "probability": 0.6
+        },
+        {
+          "word": "là...",
+          "start": 20.74,
+          "end": 21.44,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.14,
+      "end": 23.5,
+      "text": "Sống...",
+      "words": [
+        {
+          "word": "Sống...",
+          "start": 23.14,
+          "end": 23.5,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 23.5,
+      "end": 28.28,
+      "text": "mình không thấy những cái là mình không phải sống, phải là nhiều khói lần của mình phải sống phải nhiều...",
+      "words": [
+        {
+          "word": "mình",
+          "start": 23.5,
+          "end": 23.72,
+          "probability": 0.46
+        },
+        {
+          "word": "không",
+          "start": 23.72,
+          "end": 24.14,
+          "probability": 0.98
+        },
+        {
+          "word": "thấy",
+          "start": 24.14,
+          "end": 24.4,
+          "probability": 0.32
+        },
+        {
+          "word": "những",
+          "start": 24.4,
+          "end": 24.54,
+          "probability": 0.28
+        },
+        {
+          "word": "cái",
+          "start": 24.54,
+          "end": 24.54,
+          "probability": 0.15
+        },
+        {
+          "word": "là",
+          "start": 24.54,
+          "end": 24.6,
+          "probability": 0.6
+        },
+        {
+          "word": "mình",
+          "start": 24.6,
+          "end": 24.82,
+          "probability": 0.98
+        },
+        {
+          "word": "không",
+          "start": 24.82,
+          "end": 25.08,
+          "probability": 0.99
+        },
+        {
+          "word": "phải",
+          "start": 25.08,
+          "end": 25.44,
+          "probability": 0.61
+        },
+        {
+          "word": "sống,",
+          "start": 25.44,
+          "end": 25.78,
+          "probability": 0.92
+        },
+        {
+          "word": "phải",
+          "start": 26.18,
+          "end": 26.18,
+          "probability": 0.58
+        },
+        {
+          "word": "là",
+          "start": 26.18,
+          "end": 26.26,
+          "probability": 0.13
+        },
+        {
+          "word": "nhiều",
+          "start": 26.26,
+          "end": 26.56,
+          "probability": 0.97
+        },
+        {
+          "word": "khói",
+          "start": 26.56,
+          "end": 27.02,
+          "probability": 0.42
+        },
+        {
+          "word": "lần",
+          "start": 27.02,
+          "end": 27.12,
+          "probability": 0.17
+        },
+        {
+          "word": "của",
+          "start": 27.12,
+          "end": 27.24,
+          "probability": 0.12
+        },
+        {
+          "word": "mình",
+          "start": 27.24,
+          "end": 27.38,
+          "probability": 0.54
+        },
+        {
+          "word": "phải",
+          "start": 27.38,
+          "end": 27.38,
+          "probability": 0.09
+        },
+        {
+          "word": "sống",
+          "start": 27.38,
+          "end": 27.52,
+          "probability": 0.98
+        },
+        {
+          "word": "phải",
+          "start": 27.52,
+          "end": 27.7,
+          "probability": 0.3
+        },
+        {
+          "word": "nhiều...",
+          "start": 27.7,
+          "end": 28.28,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 28.28,
+      "end": 29.74,
+      "text": "Vìa...",
+      "words": [
+        {
+          "word": "Vìa...",
+          "start": 28.28,
+          "end": 29.74,
+          "probability": 0.34
+        }
+      ]
+    }
+  ]
+}

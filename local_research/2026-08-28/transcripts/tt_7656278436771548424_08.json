@@ -1,0 +1,128 @@
+{
+  "item_id": "tt_7656278436771548424_08",
+  "duration_seconds": 22.42,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 17,
+  "text": "Tao x tava y bác xin Em bác gác gác gác gác gác gác gác gác gác",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 1.21,
+      "text": "Tao x tava y bác xin",
+      "words": [
+        {
+          "word": "Tao",
+          "start": 0.11,
+          "end": 0.49,
+          "probability": 0.02
+        },
+        {
+          "word": "x",
+          "start": 0.49,
+          "end": 0.75,
+          "probability": 0.0
+        },
+        {
+          "word": "tava",
+          "start": 0.75,
+          "end": 0.75,
+          "probability": 0.0
+        },
+        {
+          "word": "y",
+          "start": 0.75,
+          "end": 0.99,
+          "probability": 0.03
+        },
+        {
+          "word": "bác",
+          "start": 0.99,
+          "end": 0.99,
+          "probability": 0.01
+        },
+        {
+          "word": "xin",
+          "start": 0.99,
+          "end": 1.21,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.21,
+      "end": 3.09,
+      "text": "Em bác gác gác gác gác gác gác gác gác gác",
+      "words": [
+        {
+          "word": "Em",
+          "start": 1.21,
+          "end": 1.65,
+          "probability": 0.0
+        },
+        {
+          "word": "bác",
+          "start": 1.65,
+          "end": 2.15,
+          "probability": 0.29
+        },
+        {
+          "word": "gác",
+          "start": 2.15,
+          "end": 2.27,
+          "probability": 0.05
+        },
+        {
+          "word": "gác",
+          "start": 2.27,
+          "end": 2.29,
+          "probability": 0.51
+        },
+        {
+          "word": "gác",
+          "start": 2.29,
+          "end": 2.45,
+          "probability": 0.66
+        },
+        {
+          "word": "gác",
+          "start": 2.45,
+          "end": 2.55,
+          "probability": 0.72
+        },
+        {
+          "word": "gác",
+          "start": 2.55,
+          "end": 2.69,
+          "probability": 0.81
+        },
+        {
+          "word": "gác",
+          "start": 2.69,
+          "end": 2.71,
+          "probability": 0.83
+        },
+        {
+          "word": "gác",
+          "start": 2.71,
+          "end": 2.93,
+          "probability": 0.84
+        },
+        {
+          "word": "gác",
+          "start": 2.93,
+          "end": 3.07,
+          "probability": 0.84
+        },
+        {
+          "word": "gác",
+          "start": 3.07,
+          "end": 3.09,
+          "probability": 0.85
+        }
+      ]
+    }
+  ]
+}

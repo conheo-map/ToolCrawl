@@ -1,0 +1,510 @@
+{
+  "item_id": "tt_7658556688059976968_08",
+  "duration_seconds": 29.37,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 62,
+  "text": "Anh đi lên đi Để là Tấm Mấy chết Bánh giật Mấy chết Mấy chết Bánh giật Mấy lạm Mấy lạm Mấy lạm Mấy lạm Điều là nơi nơi Tấm tình từ đoạn cứ hồ của đảng Việt Nam tại Vinacela Tình như ngày hai tháng bãi thật cho đi phương Đoạn đã đưa ra ngoài thêm bãi tý thận đàn dân",
+  "segments": [
+    {
+      "id": 1,
+      "start": 6.38,
+      "end": 7.66,
+      "text": "Anh đi lên đi",
+      "words": [
+        {
+          "word": "Anh",
+          "start": 6.38,
+          "end": 6.82,
+          "probability": 0.02
+        },
+        {
+          "word": "đi",
+          "start": 6.82,
+          "end": 6.9,
+          "probability": 0.63
+        },
+        {
+          "word": "lên",
+          "start": 6.9,
+          "end": 7.04,
+          "probability": 0.34
+        },
+        {
+          "word": "đi",
+          "start": 7.04,
+          "end": 7.66,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 10.16,
+      "end": 10.92,
+      "text": "Để là",
+      "words": [
+        {
+          "word": "Để",
+          "start": 10.16,
+          "end": 10.52,
+          "probability": 0.07
+        },
+        {
+          "word": "là",
+          "start": 10.52,
+          "end": 10.92,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.81,
+      "end": 13.09,
+      "text": "Tấm",
+      "words": [
+        {
+          "word": "Tấm",
+          "start": 12.81,
+          "end": 13.09,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.09,
+      "end": 13.93,
+      "text": "Mấy chết",
+      "words": [
+        {
+          "word": "Mấy",
+          "start": 13.09,
+          "end": 13.37,
+          "probability": 0.05
+        },
+        {
+          "word": "chết",
+          "start": 13.37,
+          "end": 13.93,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.93,
+      "end": 14.77,
+      "text": "Bánh giật",
+      "words": [
+        {
+          "word": "Bánh",
+          "start": 13.93,
+          "end": 14.37,
+          "probability": 0.12
+        },
+        {
+          "word": "giật",
+          "start": 14.37,
+          "end": 14.77,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.77,
+      "end": 15.55,
+      "text": "Mấy chết",
+      "words": [
+        {
+          "word": "Mấy",
+          "start": 14.77,
+          "end": 15.37,
+          "probability": 0.3
+        },
+        {
+          "word": "chết",
+          "start": 15.37,
+          "end": 15.55,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.55,
+      "end": 15.67,
+      "text": "Mấy chết",
+      "words": [
+        {
+          "word": "Mấy",
+          "start": 15.55,
+          "end": 15.67,
+          "probability": 0.49
+        },
+        {
+          "word": "chết",
+          "start": 15.67,
+          "end": 15.67,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.91,
+      "end": 17.27,
+      "text": "Bánh giật",
+      "words": [
+        {
+          "word": "Bánh",
+          "start": 16.91,
+          "end": 17.27,
+          "probability": 0.47
+        },
+        {
+          "word": "giật",
+          "start": 17.27,
+          "end": 17.27,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 17.27,
+      "end": 17.55,
+      "text": "Mấy lạm",
+      "words": [
+        {
+          "word": "Mấy",
+          "start": 17.27,
+          "end": 17.29,
+          "probability": 0.6
+        },
+        {
+          "word": "lạm",
+          "start": 17.29,
+          "end": 17.55,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 17.55,
+      "end": 17.81,
+      "text": "Mấy lạm",
+      "words": [
+        {
+          "word": "Mấy",
+          "start": 17.55,
+          "end": 17.65,
+          "probability": 0.28
+        },
+        {
+          "word": "lạm",
+          "start": 17.65,
+          "end": 17.81,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 17.81,
+      "end": 17.93,
+      "text": "Mấy lạm",
+      "words": [
+        {
+          "word": "Mấy",
+          "start": 17.81,
+          "end": 17.93,
+          "probability": 0.52
+        },
+        {
+          "word": "lạm",
+          "start": 17.93,
+          "end": 17.93,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 17.93,
+      "end": 18.43,
+      "text": "Mấy lạm",
+      "words": [
+        {
+          "word": "Mấy",
+          "start": 17.93,
+          "end": 18.01,
+          "probability": 0.71
+        },
+        {
+          "word": "lạm",
+          "start": 18.01,
+          "end": 18.43,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 20.17,
+      "end": 21.35,
+      "text": "Điều là nơi nơi",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 20.17,
+          "end": 20.53,
+          "probability": 0.05
+        },
+        {
+          "word": "là",
+          "start": 20.53,
+          "end": 20.63,
+          "probability": 0.09
+        },
+        {
+          "word": "nơi",
+          "start": 20.63,
+          "end": 21.17,
+          "probability": 0.42
+        },
+        {
+          "word": "nơi",
+          "start": 21.17,
+          "end": 21.35,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 22.09,
+      "end": 24.99,
+      "text": "Tấm tình từ đoạn cứ hồ của đảng Việt Nam tại Vinacela",
+      "words": [
+        {
+          "word": "Tấm",
+          "start": 22.09,
+          "end": 22.45,
+          "probability": 0.65
+        },
+        {
+          "word": "tình",
+          "start": 22.45,
+          "end": 22.63,
+          "probability": 0.5
+        },
+        {
+          "word": "từ",
+          "start": 22.63,
+          "end": 22.79,
+          "probability": 0.68
+        },
+        {
+          "word": "đoạn",
+          "start": 22.79,
+          "end": 22.97,
+          "probability": 0.46
+        },
+        {
+          "word": "cứ",
+          "start": 22.97,
+          "end": 23.15,
+          "probability": 0.13
+        },
+        {
+          "word": "hồ",
+          "start": 23.15,
+          "end": 23.33,
+          "probability": 0.62
+        },
+        {
+          "word": "của",
+          "start": 23.33,
+          "end": 23.49,
+          "probability": 0.52
+        },
+        {
+          "word": "đảng",
+          "start": 23.49,
+          "end": 23.65,
+          "probability": 0.25
+        },
+        {
+          "word": "Việt",
+          "start": 23.65,
+          "end": 23.83,
+          "probability": 0.52
+        },
+        {
+          "word": "Nam",
+          "start": 23.83,
+          "end": 24.05,
+          "probability": 0.98
+        },
+        {
+          "word": "tại",
+          "start": 24.05,
+          "end": 24.27,
+          "probability": 0.66
+        },
+        {
+          "word": "Vinacela",
+          "start": 24.27,
+          "end": 24.99,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 24.99,
+      "end": 27.11,
+      "text": "Tình như ngày hai tháng bãi thật cho đi phương",
+      "words": [
+        {
+          "word": "Tình",
+          "start": 24.99,
+          "end": 25.33,
+          "probability": 0.37
+        },
+        {
+          "word": "như",
+          "start": 25.33,
+          "end": 25.43,
+          "probability": 0.14
+        },
+        {
+          "word": "ngày",
+          "start": 25.43,
+          "end": 25.63,
+          "probability": 0.64
+        },
+        {
+          "word": "hai",
+          "start": 25.63,
+          "end": 25.81,
+          "probability": 0.46
+        },
+        {
+          "word": "tháng",
+          "start": 25.81,
+          "end": 25.93,
+          "probability": 0.77
+        },
+        {
+          "word": "bãi",
+          "start": 25.93,
+          "end": 26.31,
+          "probability": 0.65
+        },
+        {
+          "word": "thật",
+          "start": 26.31,
+          "end": 26.45,
+          "probability": 0.28
+        },
+        {
+          "word": "cho",
+          "start": 26.45,
+          "end": 26.57,
+          "probability": 0.43
+        },
+        {
+          "word": "đi",
+          "start": 26.57,
+          "end": 26.71,
+          "probability": 0.38
+        },
+        {
+          "word": "phương",
+          "start": 26.71,
+          "end": 27.11,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 27.11,
+      "end": 29.13,
+      "text": "Đoạn đã đưa ra ngoài thêm bãi tý thận đàn dân",
+      "words": [
+        {
+          "word": "Đoạn",
+          "start": 27.11,
+          "end": 27.57,
+          "probability": 0.77
+        },
+        {
+          "word": "đã",
+          "start": 27.57,
+          "end": 27.77,
+          "probability": 0.71
+        },
+        {
+          "word": "đưa",
+          "start": 27.77,
+          "end": 27.87,
+          "probability": 0.86
+        },
+        {
+          "word": "ra",
+          "start": 27.87,
+          "end": 28.01,
+          "probability": 0.7
+        },
+        {
+          "word": "ngoài",
+          "start": 28.01,
+          "end": 28.23,
+          "probability": 0.89
+        },
+        {
+          "word": "thêm",
+          "start": 28.23,
+          "end": 28.43,
+          "probability": 0.68
+        },
+        {
+          "word": "bãi",
+          "start": 28.43,
+          "end": 28.63,
+          "probability": 0.95
+        },
+        {
+          "word": "tý",
+          "start": 28.63,
+          "end": 28.71,
+          "probability": 0.25
+        },
+        {
+          "word": "thận",
+          "start": 28.71,
+          "end": 28.87,
+          "probability": 0.38
+        },
+        {
+          "word": "đàn",
+          "start": 28.87,
+          "end": 29.01,
+          "probability": 0.19
+        },
+        {
+          "word": "dân",
+          "start": 29.01,
+          "end": 29.13,
+          "probability": 0.25
+        }
+      ]
+    }
+  ]
+}

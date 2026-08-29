@@ -1,0 +1,736 @@
+{
+  "item_id": "tt_7326130700384570626_03",
+  "duration_seconds": 29.35,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 104,
+  "text": "Ok, thì tích văn đem một thứ 2 với bí điệm tính được. Nhà, thì gần này nó chính là nèm của ở đây nó là ăn tộn với cạnh bình trên 2 cạnh 2. Đời ơi, ra xong cọng em một. Ờ... Cọng một đại m-2. Sìa kênh hệ 1. Nó măng mùi em một đồ mấy. Mình một tộn với tích văn đem một đình 2 của ở bíc điệp. Vậy chứ tìa tiêu một đi. Tà sẽ có được cái tích văn đem một đình 2 của ở bíc điệp. Nó chính là lán của ở cạnh bíc. Tìa hài gần.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.9,
+      "text": "Ok, thì tích văn đem một thứ 2 với bí điệm tính được.",
+      "words": [
+        {
+          "word": "Ok,",
+          "start": 0.0,
+          "end": 0.68,
+          "probability": 0.12
+        },
+        {
+          "word": "thì",
+          "start": 1.04,
+          "end": 1.1,
+          "probability": 0.46
+        },
+        {
+          "word": "tích",
+          "start": 1.1,
+          "end": 1.22,
+          "probability": 0.47
+        },
+        {
+          "word": "văn",
+          "start": 1.22,
+          "end": 1.34,
+          "probability": 0.28
+        },
+        {
+          "word": "đem",
+          "start": 1.34,
+          "end": 1.5,
+          "probability": 0.27
+        },
+        {
+          "word": "một",
+          "start": 1.5,
+          "end": 1.52,
+          "probability": 0.36
+        },
+        {
+          "word": "thứ",
+          "start": 1.52,
+          "end": 1.62,
+          "probability": 0.09
+        },
+        {
+          "word": "2",
+          "start": 1.62,
+          "end": 1.76,
+          "probability": 0.59
+        },
+        {
+          "word": "với",
+          "start": 1.76,
+          "end": 1.92,
+          "probability": 0.07
+        },
+        {
+          "word": "bí",
+          "start": 1.92,
+          "end": 2.16,
+          "probability": 0.26
+        },
+        {
+          "word": "điệm",
+          "start": 2.16,
+          "end": 2.18,
+          "probability": 0.25
+        },
+        {
+          "word": "tính",
+          "start": 2.18,
+          "end": 2.46,
+          "probability": 0.59
+        },
+        {
+          "word": "được.",
+          "start": 2.46,
+          "end": 2.9,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.12,
+      "end": 8.68,
+      "text": "Nhà, thì gần này nó chính là nèm của ở đây nó là ăn tộn với cạnh bình trên 2 cạnh 2.",
+      "words": [
+        {
+          "word": "Nhà,",
+          "start": 3.12,
+          "end": 3.28,
+          "probability": 0.34
+        },
+        {
+          "word": "thì",
+          "start": 3.48,
+          "end": 3.5,
+          "probability": 0.57
+        },
+        {
+          "word": "gần",
+          "start": 3.5,
+          "end": 3.66,
+          "probability": 0.23
+        },
+        {
+          "word": "này",
+          "start": 3.66,
+          "end": 3.74,
+          "probability": 0.48
+        },
+        {
+          "word": "nó",
+          "start": 3.74,
+          "end": 3.98,
+          "probability": 0.65
+        },
+        {
+          "word": "chính",
+          "start": 3.98,
+          "end": 4.06,
+          "probability": 0.34
+        },
+        {
+          "word": "là",
+          "start": 4.06,
+          "end": 4.18,
+          "probability": 0.84
+        },
+        {
+          "word": "nèm",
+          "start": 4.18,
+          "end": 4.56,
+          "probability": 0.29
+        },
+        {
+          "word": "của",
+          "start": 4.56,
+          "end": 4.78,
+          "probability": 0.88
+        },
+        {
+          "word": "ở",
+          "start": 4.78,
+          "end": 5.38,
+          "probability": 0.27
+        },
+        {
+          "word": "đây",
+          "start": 5.38,
+          "end": 5.54,
+          "probability": 0.72
+        },
+        {
+          "word": "nó",
+          "start": 5.54,
+          "end": 5.66,
+          "probability": 0.67
+        },
+        {
+          "word": "là",
+          "start": 5.66,
+          "end": 5.88,
+          "probability": 0.47
+        },
+        {
+          "word": "ăn",
+          "start": 5.88,
+          "end": 6.3,
+          "probability": 0.14
+        },
+        {
+          "word": "tộn",
+          "start": 6.3,
+          "end": 6.62,
+          "probability": 0.33
+        },
+        {
+          "word": "với",
+          "start": 6.62,
+          "end": 6.62,
+          "probability": 0.44
+        },
+        {
+          "word": "cạnh",
+          "start": 6.62,
+          "end": 6.86,
+          "probability": 0.25
+        },
+        {
+          "word": "bình",
+          "start": 6.86,
+          "end": 7.54,
+          "probability": 0.37
+        },
+        {
+          "word": "trên",
+          "start": 7.54,
+          "end": 7.92,
+          "probability": 0.55
+        },
+        {
+          "word": "2",
+          "start": 7.92,
+          "end": 8.16,
+          "probability": 0.86
+        },
+        {
+          "word": "cạnh",
+          "start": 8.16,
+          "end": 8.36,
+          "probability": 0.72
+        },
+        {
+          "word": "2.",
+          "start": 8.36,
+          "end": 8.68,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.22,
+      "end": 10.9,
+      "text": "Đời ơi, ra xong cọng em một.",
+      "words": [
+        {
+          "word": "Đời",
+          "start": 9.22,
+          "end": 9.48,
+          "probability": 0.24
+        },
+        {
+          "word": "ơi,",
+          "start": 9.48,
+          "end": 9.48,
+          "probability": 0.45
+        },
+        {
+          "word": "ra",
+          "start": 9.48,
+          "end": 10.02,
+          "probability": 0.16
+        },
+        {
+          "word": "xong",
+          "start": 10.02,
+          "end": 10.18,
+          "probability": 0.74
+        },
+        {
+          "word": "cọng",
+          "start": 10.18,
+          "end": 10.3,
+          "probability": 0.55
+        },
+        {
+          "word": "em",
+          "start": 10.3,
+          "end": 10.5,
+          "probability": 0.17
+        },
+        {
+          "word": "một.",
+          "start": 10.5,
+          "end": 10.9,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.42,
+      "end": 12.82,
+      "text": "Ờ...",
+      "words": [
+        {
+          "word": "Ờ...",
+          "start": 12.42,
+          "end": 12.82,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.82,
+      "end": 14.22,
+      "text": "Cọng một đại m-2.",
+      "words": [
+        {
+          "word": "Cọng",
+          "start": 12.82,
+          "end": 13.0,
+          "probability": 0.61
+        },
+        {
+          "word": "một",
+          "start": 13.0,
+          "end": 13.2,
+          "probability": 0.88
+        },
+        {
+          "word": "đại",
+          "start": 13.2,
+          "end": 13.28,
+          "probability": 0.45
+        },
+        {
+          "word": "m",
+          "start": 13.28,
+          "end": 13.84,
+          "probability": 0.19
+        },
+        {
+          "word": "-2.",
+          "start": 13.84,
+          "end": 14.22,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.62,
+      "end": 15.58,
+      "text": "Sìa kênh hệ 1.",
+      "words": [
+        {
+          "word": "Sìa",
+          "start": 14.62,
+          "end": 14.78,
+          "probability": 0.32
+        },
+        {
+          "word": "kênh",
+          "start": 14.78,
+          "end": 14.92,
+          "probability": 0.48
+        },
+        {
+          "word": "hệ",
+          "start": 14.92,
+          "end": 15.12,
+          "probability": 0.52
+        },
+        {
+          "word": "1.",
+          "start": 15.12,
+          "end": 15.58,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.84,
+      "end": 17.06,
+      "text": "Nó măng mùi em một đồ mấy.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 15.84,
+          "end": 16.04,
+          "probability": 0.4
+        },
+        {
+          "word": "măng",
+          "start": 16.04,
+          "end": 16.18,
+          "probability": 0.4
+        },
+        {
+          "word": "mùi",
+          "start": 16.18,
+          "end": 16.48,
+          "probability": 0.39
+        },
+        {
+          "word": "em",
+          "start": 16.48,
+          "end": 16.64,
+          "probability": 0.54
+        },
+        {
+          "word": "một",
+          "start": 16.64,
+          "end": 16.72,
+          "probability": 0.42
+        },
+        {
+          "word": "đồ",
+          "start": 16.72,
+          "end": 16.86,
+          "probability": 0.26
+        },
+        {
+          "word": "mấy.",
+          "start": 16.86,
+          "end": 17.06,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 17.14,
+      "end": 20.14,
+      "text": "Mình một tộn với tích văn đem một đình 2 của ở bíc điệp.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 17.14,
+          "end": 17.38,
+          "probability": 0.53
+        },
+        {
+          "word": "một",
+          "start": 17.38,
+          "end": 17.6,
+          "probability": 0.81
+        },
+        {
+          "word": "tộn",
+          "start": 17.6,
+          "end": 17.78,
+          "probability": 0.78
+        },
+        {
+          "word": "với",
+          "start": 17.78,
+          "end": 17.88,
+          "probability": 0.69
+        },
+        {
+          "word": "tích",
+          "start": 17.88,
+          "end": 18.0,
+          "probability": 0.69
+        },
+        {
+          "word": "văn",
+          "start": 18.0,
+          "end": 18.2,
+          "probability": 0.98
+        },
+        {
+          "word": "đem",
+          "start": 18.2,
+          "end": 18.24,
+          "probability": 0.71
+        },
+        {
+          "word": "một",
+          "start": 18.24,
+          "end": 18.38,
+          "probability": 0.97
+        },
+        {
+          "word": "đình",
+          "start": 18.38,
+          "end": 18.48,
+          "probability": 0.25
+        },
+        {
+          "word": "2",
+          "start": 18.48,
+          "end": 18.72,
+          "probability": 0.97
+        },
+        {
+          "word": "của",
+          "start": 18.72,
+          "end": 19.16,
+          "probability": 0.98
+        },
+        {
+          "word": "ở",
+          "start": 19.16,
+          "end": 19.46,
+          "probability": 0.91
+        },
+        {
+          "word": "bíc",
+          "start": 19.46,
+          "end": 19.66,
+          "probability": 0.82
+        },
+        {
+          "word": "điệp.",
+          "start": 19.66,
+          "end": 20.14,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 20.82,
+      "end": 21.64,
+      "text": "Vậy chứ tìa tiêu một đi.",
+      "words": [
+        {
+          "word": "Vậy",
+          "start": 20.82,
+          "end": 20.96,
+          "probability": 0.71
+        },
+        {
+          "word": "chứ",
+          "start": 20.96,
+          "end": 21.14,
+          "probability": 0.3
+        },
+        {
+          "word": "tìa",
+          "start": 21.14,
+          "end": 21.28,
+          "probability": 0.32
+        },
+        {
+          "word": "tiêu",
+          "start": 21.28,
+          "end": 21.3,
+          "probability": 0.46
+        },
+        {
+          "word": "một",
+          "start": 21.3,
+          "end": 21.44,
+          "probability": 0.22
+        },
+        {
+          "word": "đi.",
+          "start": 21.44,
+          "end": 21.64,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 22.04,
+      "end": 24.4,
+      "text": "Tà sẽ có được cái tích văn đem một đình 2 của ở bíc điệp.",
+      "words": [
+        {
+          "word": "Tà",
+          "start": 22.04,
+          "end": 22.1,
+          "probability": 0.23
+        },
+        {
+          "word": "sẽ",
+          "start": 22.1,
+          "end": 22.28,
+          "probability": 0.9
+        },
+        {
+          "word": "có",
+          "start": 22.28,
+          "end": 22.44,
+          "probability": 0.84
+        },
+        {
+          "word": "được",
+          "start": 22.44,
+          "end": 22.62,
+          "probability": 0.63
+        },
+        {
+          "word": "cái",
+          "start": 22.62,
+          "end": 22.86,
+          "probability": 0.16
+        },
+        {
+          "word": "tích",
+          "start": 22.86,
+          "end": 22.92,
+          "probability": 0.84
+        },
+        {
+          "word": "văn",
+          "start": 22.92,
+          "end": 23.08,
+          "probability": 0.98
+        },
+        {
+          "word": "đem",
+          "start": 23.08,
+          "end": 23.16,
+          "probability": 0.74
+        },
+        {
+          "word": "một",
+          "start": 23.16,
+          "end": 23.32,
+          "probability": 0.97
+        },
+        {
+          "word": "đình",
+          "start": 23.32,
+          "end": 23.38,
+          "probability": 0.87
+        },
+        {
+          "word": "2",
+          "start": 23.38,
+          "end": 23.62,
+          "probability": 0.98
+        },
+        {
+          "word": "của",
+          "start": 23.62,
+          "end": 23.74,
+          "probability": 1.0
+        },
+        {
+          "word": "ở",
+          "start": 23.74,
+          "end": 24.0,
+          "probability": 0.97
+        },
+        {
+          "word": "bíc",
+          "start": 24.0,
+          "end": 24.0,
+          "probability": 1.0
+        },
+        {
+          "word": "điệp.",
+          "start": 24.0,
+          "end": 24.4,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 25.68,
+      "end": 28.64,
+      "text": "Nó chính là lán của ở cạnh bíc.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 25.68,
+          "end": 25.68,
+          "probability": 0.68
+        },
+        {
+          "word": "chính",
+          "start": 25.68,
+          "end": 25.76,
+          "probability": 0.94
+        },
+        {
+          "word": "là",
+          "start": 25.76,
+          "end": 25.88,
+          "probability": 0.91
+        },
+        {
+          "word": "lán",
+          "start": 25.88,
+          "end": 26.22,
+          "probability": 0.26
+        },
+        {
+          "word": "của",
+          "start": 26.22,
+          "end": 26.78,
+          "probability": 0.99
+        },
+        {
+          "word": "ở",
+          "start": 26.78,
+          "end": 27.54,
+          "probability": 0.88
+        },
+        {
+          "word": "cạnh",
+          "start": 27.54,
+          "end": 27.72,
+          "probability": 0.48
+        },
+        {
+          "word": "bíc.",
+          "start": 27.72,
+          "end": 28.64,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 28.64,
+      "end": 29.32,
+      "text": "Tìa hài gần.",
+      "words": [
+        {
+          "word": "Tìa",
+          "start": 28.64,
+          "end": 28.78,
+          "probability": 0.06
+        },
+        {
+          "word": "hài",
+          "start": 28.78,
+          "end": 28.94,
+          "probability": 0.16
+        },
+        {
+          "word": "gần.",
+          "start": 28.94,
+          "end": 29.32,
+          "probability": 0.28
+        }
+      ]
+    }
+  ]
+}

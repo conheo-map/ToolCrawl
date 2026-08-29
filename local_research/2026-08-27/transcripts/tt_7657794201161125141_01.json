@@ -1,0 +1,866 @@
+{
+  "item_id": "tt_7657794201161125141_01",
+  "duration_seconds": 29.09,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 132,
+  "text": "Nếu như ở kỳ trước, vì trường thân ra kỳ sẽ nổi lò về bồi thường, thái đình cử, và hí vọng giãn lần này sẽ thực sự thành hiện thường. Thì ở kỳ tiếp theo, có hỏi được đặt ra là, sau hương bà mi năm ngủ quân, bình quới thành ra, có thể mạnh đến điều gì cho từng lại phát triển của thành phố Hồ Chí Minh. Sau hương bà mi năm nhiều lần lửa hình, bán bảo thành ra đằng bước vào gia đoạn chuyển động và mẹ nhất, kể thực khi dự án được phần thành. Từ việc thành phố Hồ Chí Minh chắc thổng chú trường đầu thư, lửa trong nhà đầu thư chính lược tính lộ trên đẹp phố mật bằng gà được sắc lập.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.28,
+      "text": "Nếu như ở kỳ trước, vì trường thân ra kỳ sẽ nổi lò về bồi thường,",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.62
+        },
+        {
+          "word": "như",
+          "start": 0.14,
+          "end": 0.38,
+          "probability": 0.94
+        },
+        {
+          "word": "ở",
+          "start": 0.38,
+          "end": 0.6,
+          "probability": 0.89
+        },
+        {
+          "word": "kỳ",
+          "start": 0.6,
+          "end": 0.72,
+          "probability": 0.64
+        },
+        {
+          "word": "trước,",
+          "start": 0.72,
+          "end": 1.06,
+          "probability": 0.7
+        },
+        {
+          "word": "vì",
+          "start": 1.2,
+          "end": 1.26,
+          "probability": 0.74
+        },
+        {
+          "word": "trường",
+          "start": 1.26,
+          "end": 1.42,
+          "probability": 0.11
+        },
+        {
+          "word": "thân",
+          "start": 1.42,
+          "end": 1.58,
+          "probability": 0.52
+        },
+        {
+          "word": "ra",
+          "start": 1.58,
+          "end": 1.8,
+          "probability": 0.7
+        },
+        {
+          "word": "kỳ",
+          "start": 1.8,
+          "end": 1.94,
+          "probability": 0.65
+        },
+        {
+          "word": "sẽ",
+          "start": 1.94,
+          "end": 2.18,
+          "probability": 0.85
+        },
+        {
+          "word": "nổi",
+          "start": 2.18,
+          "end": 2.34,
+          "probability": 0.41
+        },
+        {
+          "word": "lò",
+          "start": 2.34,
+          "end": 2.6,
+          "probability": 0.6
+        },
+        {
+          "word": "về",
+          "start": 2.6,
+          "end": 2.8,
+          "probability": 0.94
+        },
+        {
+          "word": "bồi",
+          "start": 2.8,
+          "end": 3.02,
+          "probability": 0.35
+        },
+        {
+          "word": "thường,",
+          "start": 3.02,
+          "end": 3.28,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.38,
+      "end": 6.56,
+      "text": "thái đình cử, và hí vọng giãn lần này sẽ thực sự thành hiện thường.",
+      "words": [
+        {
+          "word": "thái",
+          "start": 3.38,
+          "end": 3.52,
+          "probability": 0.56
+        },
+        {
+          "word": "đình",
+          "start": 3.52,
+          "end": 3.72,
+          "probability": 0.48
+        },
+        {
+          "word": "cử,",
+          "start": 3.72,
+          "end": 3.98,
+          "probability": 0.35
+        },
+        {
+          "word": "và",
+          "start": 4.16,
+          "end": 4.34,
+          "probability": 0.84
+        },
+        {
+          "word": "hí",
+          "start": 4.34,
+          "end": 4.48,
+          "probability": 0.41
+        },
+        {
+          "word": "vọng",
+          "start": 4.48,
+          "end": 4.7,
+          "probability": 0.8
+        },
+        {
+          "word": "giãn",
+          "start": 4.7,
+          "end": 5.02,
+          "probability": 0.34
+        },
+        {
+          "word": "lần",
+          "start": 5.02,
+          "end": 5.22,
+          "probability": 0.67
+        },
+        {
+          "word": "này",
+          "start": 5.22,
+          "end": 5.44,
+          "probability": 0.94
+        },
+        {
+          "word": "sẽ",
+          "start": 5.44,
+          "end": 5.6,
+          "probability": 0.99
+        },
+        {
+          "word": "thực",
+          "start": 5.6,
+          "end": 5.76,
+          "probability": 0.9
+        },
+        {
+          "word": "sự",
+          "start": 5.76,
+          "end": 5.94,
+          "probability": 0.99
+        },
+        {
+          "word": "thành",
+          "start": 5.94,
+          "end": 6.18,
+          "probability": 0.68
+        },
+        {
+          "word": "hiện",
+          "start": 6.18,
+          "end": 6.36,
+          "probability": 0.45
+        },
+        {
+          "word": "thường.",
+          "start": 6.36,
+          "end": 6.56,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.94,
+      "end": 9.46,
+      "text": "Thì ở kỳ tiếp theo, có hỏi được đặt ra là,",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 6.94,
+          "end": 7.08,
+          "probability": 0.86
+        },
+        {
+          "word": "ở",
+          "start": 7.08,
+          "end": 7.28,
+          "probability": 0.98
+        },
+        {
+          "word": "kỳ",
+          "start": 7.28,
+          "end": 7.42,
+          "probability": 0.99
+        },
+        {
+          "word": "tiếp",
+          "start": 7.42,
+          "end": 7.66,
+          "probability": 0.78
+        },
+        {
+          "word": "theo,",
+          "start": 7.66,
+          "end": 7.86,
+          "probability": 0.99
+        },
+        {
+          "word": "có",
+          "start": 8.26,
+          "end": 8.26,
+          "probability": 0.75
+        },
+        {
+          "word": "hỏi",
+          "start": 8.26,
+          "end": 8.4,
+          "probability": 0.54
+        },
+        {
+          "word": "được",
+          "start": 8.4,
+          "end": 8.58,
+          "probability": 0.95
+        },
+        {
+          "word": "đặt",
+          "start": 8.58,
+          "end": 8.8,
+          "probability": 0.8
+        },
+        {
+          "word": "ra",
+          "start": 8.8,
+          "end": 9.0,
+          "probability": 0.98
+        },
+        {
+          "word": "là,",
+          "start": 9.0,
+          "end": 9.46,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.8,
+      "end": 15.66,
+      "text": "sau hương bà mi năm ngủ quân, bình quới thành ra, có thể mạnh đến điều gì cho từng lại phát triển của thành phố Hồ Chí Minh.",
+      "words": [
+        {
+          "word": "sau",
+          "start": 9.8,
+          "end": 9.82,
+          "probability": 0.76
+        },
+        {
+          "word": "hương",
+          "start": 9.82,
+          "end": 10.02,
+          "probability": 0.34
+        },
+        {
+          "word": "bà",
+          "start": 10.02,
+          "end": 10.2,
+          "probability": 0.45
+        },
+        {
+          "word": "mi",
+          "start": 10.2,
+          "end": 10.34,
+          "probability": 0.57
+        },
+        {
+          "word": "năm",
+          "start": 10.34,
+          "end": 10.56,
+          "probability": 0.34
+        },
+        {
+          "word": "ngủ",
+          "start": 10.56,
+          "end": 10.8,
+          "probability": 0.59
+        },
+        {
+          "word": "quân,",
+          "start": 10.8,
+          "end": 11.14,
+          "probability": 0.47
+        },
+        {
+          "word": "bình",
+          "start": 11.34,
+          "end": 11.54,
+          "probability": 0.73
+        },
+        {
+          "word": "quới",
+          "start": 11.54,
+          "end": 11.84,
+          "probability": 0.23
+        },
+        {
+          "word": "thành",
+          "start": 11.84,
+          "end": 12.06,
+          "probability": 0.83
+        },
+        {
+          "word": "ra,",
+          "start": 12.06,
+          "end": 12.32,
+          "probability": 0.96
+        },
+        {
+          "word": "có",
+          "start": 12.58,
+          "end": 12.6,
+          "probability": 0.99
+        },
+        {
+          "word": "thể",
+          "start": 12.6,
+          "end": 12.76,
+          "probability": 0.95
+        },
+        {
+          "word": "mạnh",
+          "start": 12.76,
+          "end": 12.94,
+          "probability": 0.57
+        },
+        {
+          "word": "đến",
+          "start": 12.94,
+          "end": 13.08,
+          "probability": 0.81
+        },
+        {
+          "word": "điều",
+          "start": 13.08,
+          "end": 13.36,
+          "probability": 0.91
+        },
+        {
+          "word": "gì",
+          "start": 13.36,
+          "end": 13.56,
+          "probability": 0.68
+        },
+        {
+          "word": "cho",
+          "start": 13.56,
+          "end": 13.7,
+          "probability": 0.87
+        },
+        {
+          "word": "từng",
+          "start": 13.7,
+          "end": 13.92,
+          "probability": 0.51
+        },
+        {
+          "word": "lại",
+          "start": 13.92,
+          "end": 14.04,
+          "probability": 0.35
+        },
+        {
+          "word": "phát",
+          "start": 14.04,
+          "end": 14.28,
+          "probability": 0.76
+        },
+        {
+          "word": "triển",
+          "start": 14.28,
+          "end": 14.5,
+          "probability": 0.9
+        },
+        {
+          "word": "của",
+          "start": 14.5,
+          "end": 14.68,
+          "probability": 0.99
+        },
+        {
+          "word": "thành",
+          "start": 14.68,
+          "end": 14.86,
+          "probability": 0.97
+        },
+        {
+          "word": "phố",
+          "start": 14.86,
+          "end": 15.02,
+          "probability": 0.82
+        },
+        {
+          "word": "Hồ",
+          "start": 15.02,
+          "end": 15.32,
+          "probability": 0.47
+        },
+        {
+          "word": "Chí",
+          "start": 15.32,
+          "end": 15.44,
+          "probability": 0.36
+        },
+        {
+          "word": "Minh.",
+          "start": 15.44,
+          "end": 15.66,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.28,
+      "end": 20.86,
+      "text": "Sau hương bà mi năm nhiều lần lửa hình, bán bảo thành ra đằng bước vào gia đoạn chuyển động và mẹ nhất,",
+      "words": [
+        {
+          "word": "Sau",
+          "start": 16.28,
+          "end": 16.38,
+          "probability": 0.72
+        },
+        {
+          "word": "hương",
+          "start": 16.38,
+          "end": 16.54,
+          "probability": 0.86
+        },
+        {
+          "word": "bà",
+          "start": 16.54,
+          "end": 16.7,
+          "probability": 0.99
+        },
+        {
+          "word": "mi",
+          "start": 16.7,
+          "end": 16.82,
+          "probability": 0.97
+        },
+        {
+          "word": "năm",
+          "start": 16.82,
+          "end": 16.96,
+          "probability": 0.99
+        },
+        {
+          "word": "nhiều",
+          "start": 16.96,
+          "end": 17.2,
+          "probability": 0.72
+        },
+        {
+          "word": "lần",
+          "start": 17.2,
+          "end": 17.38,
+          "probability": 0.9
+        },
+        {
+          "word": "lửa",
+          "start": 17.38,
+          "end": 17.6,
+          "probability": 0.59
+        },
+        {
+          "word": "hình,",
+          "start": 17.6,
+          "end": 17.96,
+          "probability": 0.63
+        },
+        {
+          "word": "bán",
+          "start": 18.12,
+          "end": 18.26,
+          "probability": 0.69
+        },
+        {
+          "word": "bảo",
+          "start": 18.26,
+          "end": 18.46,
+          "probability": 0.72
+        },
+        {
+          "word": "thành",
+          "start": 18.46,
+          "end": 18.7,
+          "probability": 0.94
+        },
+        {
+          "word": "ra",
+          "start": 18.7,
+          "end": 18.88,
+          "probability": 0.99
+        },
+        {
+          "word": "đằng",
+          "start": 18.88,
+          "end": 19.08,
+          "probability": 0.42
+        },
+        {
+          "word": "bước",
+          "start": 19.08,
+          "end": 19.2,
+          "probability": 0.48
+        },
+        {
+          "word": "vào",
+          "start": 19.2,
+          "end": 19.4,
+          "probability": 0.97
+        },
+        {
+          "word": "gia",
+          "start": 19.4,
+          "end": 19.56,
+          "probability": 0.72
+        },
+        {
+          "word": "đoạn",
+          "start": 19.56,
+          "end": 19.74,
+          "probability": 0.74
+        },
+        {
+          "word": "chuyển",
+          "start": 19.74,
+          "end": 19.94,
+          "probability": 0.89
+        },
+        {
+          "word": "động",
+          "start": 19.94,
+          "end": 20.2,
+          "probability": 0.45
+        },
+        {
+          "word": "và",
+          "start": 20.2,
+          "end": 20.38,
+          "probability": 0.32
+        },
+        {
+          "word": "mẹ",
+          "start": 20.38,
+          "end": 20.6,
+          "probability": 0.62
+        },
+        {
+          "word": "nhất,",
+          "start": 20.6,
+          "end": 20.86,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 21.08,
+      "end": 22.5,
+      "text": "kể thực khi dự án được phần thành.",
+      "words": [
+        {
+          "word": "kể",
+          "start": 21.08,
+          "end": 21.08,
+          "probability": 0.81
+        },
+        {
+          "word": "thực",
+          "start": 21.08,
+          "end": 21.28,
+          "probability": 0.41
+        },
+        {
+          "word": "khi",
+          "start": 21.28,
+          "end": 21.42,
+          "probability": 0.24
+        },
+        {
+          "word": "dự",
+          "start": 21.42,
+          "end": 21.62,
+          "probability": 0.36
+        },
+        {
+          "word": "án",
+          "start": 21.62,
+          "end": 21.8,
+          "probability": 0.74
+        },
+        {
+          "word": "được",
+          "start": 21.8,
+          "end": 21.94,
+          "probability": 0.94
+        },
+        {
+          "word": "phần",
+          "start": 21.94,
+          "end": 22.14,
+          "probability": 0.74
+        },
+        {
+          "word": "thành.",
+          "start": 22.14,
+          "end": 22.5,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 22.98,
+      "end": 25.28,
+      "text": "Từ việc thành phố Hồ Chí Minh chắc thổng chú trường đầu thư,",
+      "words": [
+        {
+          "word": "Từ",
+          "start": 22.98,
+          "end": 23.08,
+          "probability": 0.55
+        },
+        {
+          "word": "việc",
+          "start": 23.08,
+          "end": 23.24,
+          "probability": 0.73
+        },
+        {
+          "word": "thành",
+          "start": 23.24,
+          "end": 23.42,
+          "probability": 0.99
+        },
+        {
+          "word": "phố",
+          "start": 23.42,
+          "end": 23.54,
+          "probability": 0.98
+        },
+        {
+          "word": "Hồ",
+          "start": 23.54,
+          "end": 23.72,
+          "probability": 0.94
+        },
+        {
+          "word": "Chí",
+          "start": 23.72,
+          "end": 23.8,
+          "probability": 0.98
+        },
+        {
+          "word": "Minh",
+          "start": 23.8,
+          "end": 23.96,
+          "probability": 1.0
+        },
+        {
+          "word": "chắc",
+          "start": 23.96,
+          "end": 24.16,
+          "probability": 0.7
+        },
+        {
+          "word": "thổng",
+          "start": 24.16,
+          "end": 24.4,
+          "probability": 0.54
+        },
+        {
+          "word": "chú",
+          "start": 24.4,
+          "end": 24.58,
+          "probability": 0.4
+        },
+        {
+          "word": "trường",
+          "start": 24.58,
+          "end": 24.8,
+          "probability": 0.48
+        },
+        {
+          "word": "đầu",
+          "start": 24.8,
+          "end": 25.02,
+          "probability": 0.49
+        },
+        {
+          "word": "thư,",
+          "start": 25.02,
+          "end": 25.28,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 25.28,
+      "end": 29.0,
+      "text": "lửa trong nhà đầu thư chính lược tính lộ trên đẹp phố mật bằng gà được sắc lập.",
+      "words": [
+        {
+          "word": "lửa",
+          "start": 25.28,
+          "end": 25.82,
+          "probability": 0.38
+        },
+        {
+          "word": "trong",
+          "start": 25.82,
+          "end": 25.96,
+          "probability": 0.26
+        },
+        {
+          "word": "nhà",
+          "start": 25.96,
+          "end": 26.1,
+          "probability": 0.67
+        },
+        {
+          "word": "đầu",
+          "start": 26.1,
+          "end": 26.28,
+          "probability": 0.79
+        },
+        {
+          "word": "thư",
+          "start": 26.28,
+          "end": 26.44,
+          "probability": 0.33
+        },
+        {
+          "word": "chính",
+          "start": 26.44,
+          "end": 26.62,
+          "probability": 0.3
+        },
+        {
+          "word": "lược",
+          "start": 26.62,
+          "end": 26.88,
+          "probability": 0.45
+        },
+        {
+          "word": "tính",
+          "start": 26.88,
+          "end": 27.08,
+          "probability": 0.44
+        },
+        {
+          "word": "lộ",
+          "start": 27.08,
+          "end": 27.3,
+          "probability": 0.58
+        },
+        {
+          "word": "trên",
+          "start": 27.3,
+          "end": 27.48,
+          "probability": 0.41
+        },
+        {
+          "word": "đẹp",
+          "start": 27.48,
+          "end": 27.7,
+          "probability": 0.52
+        },
+        {
+          "word": "phố",
+          "start": 27.7,
+          "end": 27.82,
+          "probability": 0.09
+        },
+        {
+          "word": "mật",
+          "start": 27.82,
+          "end": 28.0,
+          "probability": 0.39
+        },
+        {
+          "word": "bằng",
+          "start": 28.0,
+          "end": 28.2,
+          "probability": 0.55
+        },
+        {
+          "word": "gà",
+          "start": 28.2,
+          "end": 28.38,
+          "probability": 0.62
+        },
+        {
+          "word": "được",
+          "start": 28.38,
+          "end": 28.58,
+          "probability": 0.81
+        },
+        {
+          "word": "sắc",
+          "start": 28.58,
+          "end": 28.76,
+          "probability": 0.53
+        },
+        {
+          "word": "lập.",
+          "start": 28.76,
+          "end": 29.0,
+          "probability": 0.78
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "item_id": "tt_7643366332645313793_01",
+  "duration_seconds": 26.8,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 14,
+  "text": "Bí hơi, bí hơi! Bí hơi, bí hơi, bí hơi, bí hơi, bí hơi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.43,
+      "end": 1.85,
+      "text": "Bí hơi, bí hơi!",
+      "words": [
+        {
+          "word": "Bí",
+          "start": 0.43,
+          "end": 0.87,
+          "probability": 0.03
+        },
+        {
+          "word": "hơi,",
+          "start": 0.87,
+          "end": 1.05,
+          "probability": 0.09
+        },
+        {
+          "word": "bí",
+          "start": 1.45,
+          "end": 1.57,
+          "probability": 0.73
+        },
+        {
+          "word": "hơi!",
+          "start": 1.57,
+          "end": 1.85,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.53,
+      "end": 8.1,
+      "text": "Bí hơi, bí hơi, bí hơi, bí hơi, bí hơi.",
+      "words": [
+        {
+          "word": "Bí",
+          "start": 2.53,
+          "end": 2.91,
+          "probability": 0.72
+        },
+        {
+          "word": "hơi,",
+          "start": 2.91,
+          "end": 2.91,
+          "probability": 0.9
+        },
+        {
+          "word": "bí",
+          "start": 3.17,
+          "end": 3.17,
+          "probability": 0.94
+        },
+        {
+          "word": "hơi,",
+          "start": 3.17,
+          "end": 3.17,
+          "probability": 0.93
+        },
+        {
+          "word": "bí",
+          "start": 3.33,
+          "end": 3.33,
+          "probability": 0.95
+        },
+        {
+          "word": "hơi,",
+          "start": 3.33,
+          "end": 3.33,
+          "probability": 0.94
+        },
+        {
+          "word": "bí",
+          "start": 3.45,
+          "end": 3.75,
+          "probability": 0.94
+        },
+        {
+          "word": "hơi,",
+          "start": 3.75,
+          "end": 4.11,
+          "probability": 0.95
+        },
+        {
+          "word": "bí",
+          "start": 6.24,
+          "end": 6.52,
+          "probability": 0.93
+        },
+        {
+          "word": "hơi.",
+          "start": 6.52,
+          "end": 8.1,
+          "probability": 0.96
+        }
+      ]
+    }
+  ]
+}

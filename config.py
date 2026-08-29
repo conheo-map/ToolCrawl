@@ -15,7 +15,7 @@ PROJECT_ROOT = Path(__file__).parent.resolve()
 # ─────────────────────────────────────────────
 # Tuần & Ngày crawl (Theo chuẩn Giờ Việt Nam GMT+7)
 # ─────────────────────────────────────────────
-WEEK_NUMBER: int = 2
+WEEK_NUMBER: int = 3
 VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
 CRAWL_DATE: str = datetime.datetime.now(VN_TZ).date().isoformat()
 

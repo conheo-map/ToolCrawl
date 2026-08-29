@@ -1,0 +1,812 @@
+{
+  "item_id": "tt_7256756162954120454_01",
+  "duration_seconds": 29.27,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 116,
+  "text": "Tôi biết sẽ đi số 7 sướng cùng 2 ca sấu, phương och có vầy toàn xô bốn, cho ăn số Eric lâu thì của ham số i bằng F-8. Em ham số gờ íc thì bằng Eric chưa đi hải, chưa đi bình phương có bao nhiêu đường tều. Một mắt lắm xảm, cho là có bao nhiêu đường tều. Bước đầu tiên cho là đi tính đạo hàng. A set cho thẻ gờ phải. Set gờ phải ek mằng gì gờ lấp. Nó chính là F-8, chưa đi hải, chưa đi hải. Tà xuyá gờ phải bằng không khi nào. Gờ phải ek, nó chỉ bằng không, sẽ ra khi và chỉ khi F-8.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.48,
+      "text": "Tôi biết sẽ đi số 7 sướng cùng 2 ca sấu, phương och có vầy toàn xô bốn,",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 0.0,
+          "end": 0.1,
+          "probability": 0.03
+        },
+        {
+          "word": "biết",
+          "start": 0.1,
+          "end": 0.28,
+          "probability": 0.04
+        },
+        {
+          "word": "sẽ",
+          "start": 0.28,
+          "end": 0.42,
+          "probability": 0.09
+        },
+        {
+          "word": "đi",
+          "start": 0.42,
+          "end": 0.6,
+          "probability": 0.38
+        },
+        {
+          "word": "số",
+          "start": 0.6,
+          "end": 0.74,
+          "probability": 0.31
+        },
+        {
+          "word": "7",
+          "start": 0.74,
+          "end": 0.88,
+          "probability": 0.27
+        },
+        {
+          "word": "sướng",
+          "start": 0.88,
+          "end": 1.22,
+          "probability": 0.61
+        },
+        {
+          "word": "cùng",
+          "start": 1.22,
+          "end": 1.48,
+          "probability": 0.36
+        },
+        {
+          "word": "2",
+          "start": 1.48,
+          "end": 1.66,
+          "probability": 0.65
+        },
+        {
+          "word": "ca",
+          "start": 1.66,
+          "end": 1.78,
+          "probability": 0.27
+        },
+        {
+          "word": "sấu,",
+          "start": 1.78,
+          "end": 2.14,
+          "probability": 0.26
+        },
+        {
+          "word": "phương",
+          "start": 2.26,
+          "end": 2.28,
+          "probability": 0.21
+        },
+        {
+          "word": "och",
+          "start": 2.28,
+          "end": 2.38,
+          "probability": 0.15
+        },
+        {
+          "word": "có",
+          "start": 2.38,
+          "end": 2.5,
+          "probability": 0.39
+        },
+        {
+          "word": "vầy",
+          "start": 2.5,
+          "end": 2.62,
+          "probability": 0.48
+        },
+        {
+          "word": "toàn",
+          "start": 2.62,
+          "end": 3.0,
+          "probability": 0.71
+        },
+        {
+          "word": "xô",
+          "start": 3.0,
+          "end": 3.16,
+          "probability": 0.36
+        },
+        {
+          "word": "bốn,",
+          "start": 3.16,
+          "end": 3.48,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.8,
+      "end": 7.38,
+      "text": "cho ăn số Eric lâu thì của ham số i bằng F-8.",
+      "words": [
+        {
+          "word": "cho",
+          "start": 3.8,
+          "end": 3.9,
+          "probability": 0.5
+        },
+        {
+          "word": "ăn",
+          "start": 3.9,
+          "end": 4.04,
+          "probability": 0.11
+        },
+        {
+          "word": "số",
+          "start": 4.04,
+          "end": 4.18,
+          "probability": 0.42
+        },
+        {
+          "word": "Eric",
+          "start": 4.18,
+          "end": 4.44,
+          "probability": 0.38
+        },
+        {
+          "word": "lâu",
+          "start": 4.44,
+          "end": 4.7,
+          "probability": 0.21
+        },
+        {
+          "word": "thì",
+          "start": 4.7,
+          "end": 4.94,
+          "probability": 0.51
+        },
+        {
+          "word": "của",
+          "start": 4.94,
+          "end": 5.14,
+          "probability": 0.51
+        },
+        {
+          "word": "ham",
+          "start": 5.14,
+          "end": 5.34,
+          "probability": 0.2
+        },
+        {
+          "word": "số",
+          "start": 5.34,
+          "end": 5.72,
+          "probability": 0.95
+        },
+        {
+          "word": "i",
+          "start": 5.72,
+          "end": 6.2,
+          "probability": 0.21
+        },
+        {
+          "word": "bằng",
+          "start": 6.2,
+          "end": 6.44,
+          "probability": 0.59
+        },
+        {
+          "word": "F",
+          "start": 6.44,
+          "end": 6.78,
+          "probability": 0.47
+        },
+        {
+          "word": "-8.",
+          "start": 6.78,
+          "end": 7.38,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.2,
+      "end": 10.74,
+      "text": "Em ham số gờ íc thì bằng Eric chưa đi hải,",
+      "words": [
+        {
+          "word": "Em",
+          "start": 8.2,
+          "end": 8.56,
+          "probability": 0.08
+        },
+        {
+          "word": "ham",
+          "start": 8.56,
+          "end": 8.72,
+          "probability": 0.47
+        },
+        {
+          "word": "số",
+          "start": 8.72,
+          "end": 8.94,
+          "probability": 0.98
+        },
+        {
+          "word": "gờ",
+          "start": 8.94,
+          "end": 9.26,
+          "probability": 0.19
+        },
+        {
+          "word": "íc",
+          "start": 9.26,
+          "end": 9.44,
+          "probability": 0.4
+        },
+        {
+          "word": "thì",
+          "start": 9.44,
+          "end": 9.64,
+          "probability": 0.82
+        },
+        {
+          "word": "bằng",
+          "start": 9.64,
+          "end": 9.76,
+          "probability": 0.85
+        },
+        {
+          "word": "Eric",
+          "start": 9.76,
+          "end": 10.1,
+          "probability": 1.0
+        },
+        {
+          "word": "chưa",
+          "start": 10.1,
+          "end": 10.3,
+          "probability": 0.24
+        },
+        {
+          "word": "đi",
+          "start": 10.3,
+          "end": 10.5,
+          "probability": 0.7
+        },
+        {
+          "word": "hải,",
+          "start": 10.5,
+          "end": 10.74,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.92,
+      "end": 12.48,
+      "text": "chưa đi bình phương có bao nhiêu đường tều.",
+      "words": [
+        {
+          "word": "chưa",
+          "start": 10.92,
+          "end": 11.0,
+          "probability": 0.62
+        },
+        {
+          "word": "đi",
+          "start": 11.0,
+          "end": 11.14,
+          "probability": 0.9
+        },
+        {
+          "word": "bình",
+          "start": 11.14,
+          "end": 11.38,
+          "probability": 0.36
+        },
+        {
+          "word": "phương",
+          "start": 11.38,
+          "end": 11.62,
+          "probability": 0.73
+        },
+        {
+          "word": "có",
+          "start": 11.62,
+          "end": 11.8,
+          "probability": 0.33
+        },
+        {
+          "word": "bao",
+          "start": 11.8,
+          "end": 12.0,
+          "probability": 0.75
+        },
+        {
+          "word": "nhiêu",
+          "start": 12.0,
+          "end": 12.04,
+          "probability": 0.83
+        },
+        {
+          "word": "đường",
+          "start": 12.04,
+          "end": 12.18,
+          "probability": 0.23
+        },
+        {
+          "word": "tều.",
+          "start": 12.18,
+          "end": 12.48,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.84,
+      "end": 14.22,
+      "text": "Một mắt lắm xảm, cho là có bao nhiêu đường tều.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 12.84,
+          "end": 12.9,
+          "probability": 0.59
+        },
+        {
+          "word": "mắt",
+          "start": 12.9,
+          "end": 13.08,
+          "probability": 0.23
+        },
+        {
+          "word": "lắm",
+          "start": 13.08,
+          "end": 13.16,
+          "probability": 0.52
+        },
+        {
+          "word": "xảm,",
+          "start": 13.16,
+          "end": 13.42,
+          "probability": 0.22
+        },
+        {
+          "word": "cho",
+          "start": 13.44,
+          "end": 13.52,
+          "probability": 0.13
+        },
+        {
+          "word": "là",
+          "start": 13.52,
+          "end": 13.58,
+          "probability": 0.1
+        },
+        {
+          "word": "có",
+          "start": 13.58,
+          "end": 13.7,
+          "probability": 0.3
+        },
+        {
+          "word": "bao",
+          "start": 13.7,
+          "end": 13.78,
+          "probability": 1.0
+        },
+        {
+          "word": "nhiêu",
+          "start": 13.78,
+          "end": 13.86,
+          "probability": 0.99
+        },
+        {
+          "word": "đường",
+          "start": 13.86,
+          "end": 13.98,
+          "probability": 0.98
+        },
+        {
+          "word": "tều.",
+          "start": 13.98,
+          "end": 14.22,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.68,
+      "end": 16.36,
+      "text": "Bước đầu tiên cho là đi tính đạo hàng.",
+      "words": [
+        {
+          "word": "Bước",
+          "start": 14.68,
+          "end": 14.8,
+          "probability": 0.56
+        },
+        {
+          "word": "đầu",
+          "start": 14.8,
+          "end": 15.0,
+          "probability": 0.86
+        },
+        {
+          "word": "tiên",
+          "start": 15.0,
+          "end": 15.16,
+          "probability": 0.84
+        },
+        {
+          "word": "cho",
+          "start": 15.16,
+          "end": 15.38,
+          "probability": 0.59
+        },
+        {
+          "word": "là",
+          "start": 15.38,
+          "end": 15.48,
+          "probability": 0.33
+        },
+        {
+          "word": "đi",
+          "start": 15.48,
+          "end": 15.6,
+          "probability": 0.45
+        },
+        {
+          "word": "tính",
+          "start": 15.6,
+          "end": 15.74,
+          "probability": 0.78
+        },
+        {
+          "word": "đạo",
+          "start": 15.74,
+          "end": 15.92,
+          "probability": 0.5
+        },
+        {
+          "word": "hàng.",
+          "start": 15.92,
+          "end": 16.36,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 16.62,
+      "end": 17.66,
+      "text": "A set cho thẻ gờ phải.",
+      "words": [
+        {
+          "word": "A",
+          "start": 16.62,
+          "end": 16.76,
+          "probability": 0.14
+        },
+        {
+          "word": "set",
+          "start": 16.76,
+          "end": 16.88,
+          "probability": 0.72
+        },
+        {
+          "word": "cho",
+          "start": 16.88,
+          "end": 17.06,
+          "probability": 0.26
+        },
+        {
+          "word": "thẻ",
+          "start": 17.06,
+          "end": 17.12,
+          "probability": 0.16
+        },
+        {
+          "word": "gờ",
+          "start": 17.12,
+          "end": 17.3,
+          "probability": 0.24
+        },
+        {
+          "word": "phải.",
+          "start": 17.3,
+          "end": 17.66,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 18.36,
+      "end": 19.9,
+      "text": "Set gờ phải ek mằng gì gờ lấp.",
+      "words": [
+        {
+          "word": "Set",
+          "start": 18.36,
+          "end": 18.36,
+          "probability": 0.54
+        },
+        {
+          "word": "gờ",
+          "start": 18.36,
+          "end": 18.74,
+          "probability": 0.65
+        },
+        {
+          "word": "phải",
+          "start": 18.74,
+          "end": 18.94,
+          "probability": 0.82
+        },
+        {
+          "word": "ek",
+          "start": 18.94,
+          "end": 19.12,
+          "probability": 0.16
+        },
+        {
+          "word": "mằng",
+          "start": 19.12,
+          "end": 19.28,
+          "probability": 0.51
+        },
+        {
+          "word": "gì",
+          "start": 19.28,
+          "end": 19.44,
+          "probability": 0.77
+        },
+        {
+          "word": "gờ",
+          "start": 19.44,
+          "end": 19.6,
+          "probability": 0.51
+        },
+        {
+          "word": "lấp.",
+          "start": 19.6,
+          "end": 19.9,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 20.3,
+      "end": 23.04,
+      "text": "Nó chính là F-8, chưa đi hải, chưa đi hải.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 20.3,
+          "end": 20.34,
+          "probability": 0.74
+        },
+        {
+          "word": "chính",
+          "start": 20.34,
+          "end": 20.48,
+          "probability": 0.23
+        },
+        {
+          "word": "là",
+          "start": 20.48,
+          "end": 20.62,
+          "probability": 0.77
+        },
+        {
+          "word": "F",
+          "start": 20.62,
+          "end": 20.94,
+          "probability": 0.84
+        },
+        {
+          "word": "-8,",
+          "start": 20.94,
+          "end": 21.24,
+          "probability": 0.96
+        },
+        {
+          "word": "chưa",
+          "start": 21.74,
+          "end": 21.82,
+          "probability": 0.96
+        },
+        {
+          "word": "đi",
+          "start": 21.82,
+          "end": 22.08,
+          "probability": 1.0
+        },
+        {
+          "word": "hải,",
+          "start": 22.08,
+          "end": 22.36,
+          "probability": 0.86
+        },
+        {
+          "word": "chưa",
+          "start": 22.48,
+          "end": 22.56,
+          "probability": 0.94
+        },
+        {
+          "word": "đi",
+          "start": 22.56,
+          "end": 22.74,
+          "probability": 1.0
+        },
+        {
+          "word": "hải.",
+          "start": 22.74,
+          "end": 23.04,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 23.56,
+      "end": 25.4,
+      "text": "Tà xuyá gờ phải bằng không khi nào.",
+      "words": [
+        {
+          "word": "Tà",
+          "start": 23.56,
+          "end": 23.72,
+          "probability": 0.21
+        },
+        {
+          "word": "xuyá",
+          "start": 23.72,
+          "end": 23.98,
+          "probability": 0.43
+        },
+        {
+          "word": "gờ",
+          "start": 23.98,
+          "end": 24.18,
+          "probability": 0.97
+        },
+        {
+          "word": "phải",
+          "start": 24.18,
+          "end": 24.36,
+          "probability": 0.61
+        },
+        {
+          "word": "bằng",
+          "start": 24.36,
+          "end": 24.54,
+          "probability": 0.65
+        },
+        {
+          "word": "không",
+          "start": 24.54,
+          "end": 24.76,
+          "probability": 0.78
+        },
+        {
+          "word": "khi",
+          "start": 24.76,
+          "end": 24.96,
+          "probability": 0.74
+        },
+        {
+          "word": "nào.",
+          "start": 24.96,
+          "end": 25.4,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 25.54,
+      "end": 28.98,
+      "text": "Gờ phải ek, nó chỉ bằng không, sẽ ra khi và chỉ khi F-8.",
+      "words": [
+        {
+          "word": "Gờ",
+          "start": 25.54,
+          "end": 25.76,
+          "probability": 0.82
+        },
+        {
+          "word": "phải",
+          "start": 25.76,
+          "end": 25.92,
+          "probability": 0.78
+        },
+        {
+          "word": "ek,",
+          "start": 25.92,
+          "end": 26.3,
+          "probability": 0.88
+        },
+        {
+          "word": "nó",
+          "start": 26.46,
+          "end": 26.46,
+          "probability": 0.67
+        },
+        {
+          "word": "chỉ",
+          "start": 26.46,
+          "end": 26.6,
+          "probability": 0.99
+        },
+        {
+          "word": "bằng",
+          "start": 26.6,
+          "end": 26.78,
+          "probability": 0.93
+        },
+        {
+          "word": "không,",
+          "start": 26.78,
+          "end": 27.12,
+          "probability": 0.99
+        },
+        {
+          "word": "sẽ",
+          "start": 27.24,
+          "end": 27.38,
+          "probability": 0.75
+        },
+        {
+          "word": "ra",
+          "start": 27.38,
+          "end": 27.7,
+          "probability": 0.66
+        },
+        {
+          "word": "khi",
+          "start": 27.7,
+          "end": 27.9,
+          "probability": 0.51
+        },
+        {
+          "word": "và",
+          "start": 27.9,
+          "end": 28.06,
+          "probability": 0.52
+        },
+        {
+          "word": "chỉ",
+          "start": 28.06,
+          "end": 28.24,
+          "probability": 0.74
+        },
+        {
+          "word": "khi",
+          "start": 28.24,
+          "end": 28.52,
+          "probability": 0.43
+        },
+        {
+          "word": "F",
+          "start": 28.52,
+          "end": 28.76,
+          "probability": 0.97
+        },
+        {
+          "word": "-8.",
+          "start": 28.76,
+          "end": 28.98,
+          "probability": 0.99
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "item_id": "tt_7616757487236156693_02",
+  "duration_seconds": 14.71,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "Gửa hóa gố gắng mà nè Đó Hãy gửi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.02,
+      "text": "Gửa hóa gố gắng mà nè",
+      "words": [
+        {
+          "word": "Gửa",
+          "start": 0.0,
+          "end": 0.7,
+          "probability": 0.14
+        },
+        {
+          "word": "hóa",
+          "start": 0.7,
+          "end": 1.0,
+          "probability": 0.42
+        },
+        {
+          "word": "gố",
+          "start": 1.0,
+          "end": 1.0,
+          "probability": 0.32
+        },
+        {
+          "word": "gắng",
+          "start": 1.0,
+          "end": 1.22,
+          "probability": 0.43
+        },
+        {
+          "word": "mà",
+          "start": 1.22,
+          "end": 1.52,
+          "probability": 0.26
+        },
+        {
+          "word": "nè",
+          "start": 1.52,
+          "end": 2.02,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.02,
+      "end": 2.24,
+      "text": "Đó",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 2.02,
+          "end": 2.24,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.24,
+      "end": 3.02,
+      "text": "Hãy gửi",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 2.24,
+          "end": 2.74,
+          "probability": 0.04
+        },
+        {
+          "word": "gửi",
+          "start": 2.74,
+          "end": 3.02,
+          "probability": 0.3
+        }
+      ]
+    }
+  ]
+}

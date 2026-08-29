@@ -1,0 +1,718 @@
+{
+  "item_id": "tt_7653762997281688852_02",
+  "duration_seconds": 28.07,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 110,
+  "text": "Bọn mèo đã thánh nhìn năm số 1 cạnh đầu Romeo và mắt nâu cảm tóc của Anh. Gay ra tiếng hử trong hành giả và viên bị kịch của Shakespeare thân hành gịch trong chúc lát. Mặc dù bị yến bạn, các phụ công hình dưới quyết vầy yến vào hành thành lưu dính. Nếu vô công, narissa, có sắp của gà, dưới đống vài dù liết, nói, mọi yên đi tuyên nghiệp bích at kính xác cảm xúc của mình. Tôi không thể chờ bán như vật dù liết. Tôi phải sấm trọng về cuộc vấn vật này và được khó chuyện của nhân vật đến hồi kết.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 4.64,
+      "text": "Bọn mèo đã thánh nhìn năm số 1 cạnh đầu Romeo và mắt nâu cảm tóc của Anh.",
+      "words": [
+        {
+          "word": "Bọn",
+          "start": 0.02,
+          "end": 0.62,
+          "probability": 0.37
+        },
+        {
+          "word": "mèo",
+          "start": 0.62,
+          "end": 0.86,
+          "probability": 0.69
+        },
+        {
+          "word": "đã",
+          "start": 0.86,
+          "end": 1.06,
+          "probability": 0.83
+        },
+        {
+          "word": "thánh",
+          "start": 1.06,
+          "end": 1.22,
+          "probability": 0.51
+        },
+        {
+          "word": "nhìn",
+          "start": 1.22,
+          "end": 1.44,
+          "probability": 0.55
+        },
+        {
+          "word": "năm",
+          "start": 1.44,
+          "end": 1.74,
+          "probability": 0.42
+        },
+        {
+          "word": "số",
+          "start": 1.74,
+          "end": 1.9,
+          "probability": 0.45
+        },
+        {
+          "word": "1",
+          "start": 1.9,
+          "end": 2.16,
+          "probability": 0.12
+        },
+        {
+          "word": "cạnh",
+          "start": 2.16,
+          "end": 2.4,
+          "probability": 0.43
+        },
+        {
+          "word": "đầu",
+          "start": 2.4,
+          "end": 2.6,
+          "probability": 0.52
+        },
+        {
+          "word": "Romeo",
+          "start": 2.6,
+          "end": 3.08,
+          "probability": 0.18
+        },
+        {
+          "word": "và",
+          "start": 3.08,
+          "end": 3.34,
+          "probability": 0.56
+        },
+        {
+          "word": "mắt",
+          "start": 3.34,
+          "end": 3.54,
+          "probability": 0.61
+        },
+        {
+          "word": "nâu",
+          "start": 3.54,
+          "end": 3.74,
+          "probability": 0.37
+        },
+        {
+          "word": "cảm",
+          "start": 3.74,
+          "end": 3.96,
+          "probability": 0.55
+        },
+        {
+          "word": "tóc",
+          "start": 3.96,
+          "end": 4.16,
+          "probability": 0.35
+        },
+        {
+          "word": "của",
+          "start": 4.16,
+          "end": 4.32,
+          "probability": 0.95
+        },
+        {
+          "word": "Anh.",
+          "start": 4.32,
+          "end": 4.64,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.86,
+      "end": 9.26,
+      "text": "Gay ra tiếng hử trong hành giả và viên bị kịch của Shakespeare thân hành gịch trong chúc lát.",
+      "words": [
+        {
+          "word": "Gay",
+          "start": 4.86,
+          "end": 4.98,
+          "probability": 0.4
+        },
+        {
+          "word": "ra",
+          "start": 4.98,
+          "end": 5.18,
+          "probability": 0.55
+        },
+        {
+          "word": "tiếng",
+          "start": 5.18,
+          "end": 5.36,
+          "probability": 0.67
+        },
+        {
+          "word": "hử",
+          "start": 5.36,
+          "end": 5.54,
+          "probability": 0.27
+        },
+        {
+          "word": "trong",
+          "start": 5.54,
+          "end": 5.68,
+          "probability": 0.57
+        },
+        {
+          "word": "hành",
+          "start": 5.68,
+          "end": 5.96,
+          "probability": 0.37
+        },
+        {
+          "word": "giả",
+          "start": 5.96,
+          "end": 6.18,
+          "probability": 0.57
+        },
+        {
+          "word": "và",
+          "start": 6.18,
+          "end": 6.42,
+          "probability": 0.93
+        },
+        {
+          "word": "viên",
+          "start": 6.42,
+          "end": 6.62,
+          "probability": 0.52
+        },
+        {
+          "word": "bị",
+          "start": 6.62,
+          "end": 6.88,
+          "probability": 0.32
+        },
+        {
+          "word": "kịch",
+          "start": 6.88,
+          "end": 6.96,
+          "probability": 0.53
+        },
+        {
+          "word": "của",
+          "start": 6.96,
+          "end": 7.14,
+          "probability": 0.27
+        },
+        {
+          "word": "Shakespeare",
+          "start": 7.14,
+          "end": 7.56,
+          "probability": 0.84
+        },
+        {
+          "word": "thân",
+          "start": 7.56,
+          "end": 8.1,
+          "probability": 0.35
+        },
+        {
+          "word": "hành",
+          "start": 8.1,
+          "end": 8.3,
+          "probability": 0.26
+        },
+        {
+          "word": "gịch",
+          "start": 8.3,
+          "end": 8.52,
+          "probability": 0.26
+        },
+        {
+          "word": "trong",
+          "start": 8.52,
+          "end": 8.74,
+          "probability": 0.78
+        },
+        {
+          "word": "chúc",
+          "start": 8.74,
+          "end": 8.94,
+          "probability": 0.33
+        },
+        {
+          "word": "lát.",
+          "start": 8.94,
+          "end": 9.26,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.98,
+      "end": 13.76,
+      "text": "Mặc dù bị yến bạn, các phụ công hình dưới quyết vầy yến vào hành thành lưu dính.",
+      "words": [
+        {
+          "word": "Mặc",
+          "start": 9.98,
+          "end": 9.98,
+          "probability": 0.84
+        },
+        {
+          "word": "dù",
+          "start": 9.98,
+          "end": 10.16,
+          "probability": 0.51
+        },
+        {
+          "word": "bị",
+          "start": 10.16,
+          "end": 10.32,
+          "probability": 0.27
+        },
+        {
+          "word": "yến",
+          "start": 10.32,
+          "end": 10.5,
+          "probability": 0.57
+        },
+        {
+          "word": "bạn,",
+          "start": 10.5,
+          "end": 10.76,
+          "probability": 0.44
+        },
+        {
+          "word": "các",
+          "start": 10.94,
+          "end": 10.98,
+          "probability": 0.56
+        },
+        {
+          "word": "phụ",
+          "start": 10.98,
+          "end": 11.18,
+          "probability": 0.56
+        },
+        {
+          "word": "công",
+          "start": 11.18,
+          "end": 11.38,
+          "probability": 0.68
+        },
+        {
+          "word": "hình",
+          "start": 11.38,
+          "end": 11.68,
+          "probability": 0.2
+        },
+        {
+          "word": "dưới",
+          "start": 11.68,
+          "end": 11.82,
+          "probability": 0.51
+        },
+        {
+          "word": "quyết",
+          "start": 11.82,
+          "end": 12.1,
+          "probability": 0.26
+        },
+        {
+          "word": "vầy",
+          "start": 12.1,
+          "end": 12.28,
+          "probability": 0.48
+        },
+        {
+          "word": "yến",
+          "start": 12.28,
+          "end": 12.52,
+          "probability": 0.71
+        },
+        {
+          "word": "vào",
+          "start": 12.52,
+          "end": 12.68,
+          "probability": 0.14
+        },
+        {
+          "word": "hành",
+          "start": 12.68,
+          "end": 12.92,
+          "probability": 0.8
+        },
+        {
+          "word": "thành",
+          "start": 12.92,
+          "end": 13.02,
+          "probability": 0.34
+        },
+        {
+          "word": "lưu",
+          "start": 13.02,
+          "end": 13.3,
+          "probability": 0.47
+        },
+        {
+          "word": "dính.",
+          "start": 13.3,
+          "end": 13.76,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.34,
+      "end": 21.7,
+      "text": "Nếu vô công, narissa, có sắp của gà, dưới đống vài dù liết, nói, mọi yên đi tuyên nghiệp bích at kính xác cảm xúc của mình.",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 14.34,
+          "end": 14.42,
+          "probability": 0.6
+        },
+        {
+          "word": "vô",
+          "start": 14.42,
+          "end": 14.66,
+          "probability": 0.54
+        },
+        {
+          "word": "công,",
+          "start": 14.66,
+          "end": 14.96,
+          "probability": 0.98
+        },
+        {
+          "word": "narissa,",
+          "start": 15.08,
+          "end": 15.64,
+          "probability": 0.27
+        },
+        {
+          "word": "có",
+          "start": 15.96,
+          "end": 16.04,
+          "probability": 0.13
+        },
+        {
+          "word": "sắp",
+          "start": 16.04,
+          "end": 16.24,
+          "probability": 0.59
+        },
+        {
+          "word": "của",
+          "start": 16.24,
+          "end": 16.46,
+          "probability": 0.25
+        },
+        {
+          "word": "gà,",
+          "start": 16.46,
+          "end": 16.74,
+          "probability": 0.47
+        },
+        {
+          "word": "dưới",
+          "start": 16.9,
+          "end": 17.02,
+          "probability": 0.57
+        },
+        {
+          "word": "đống",
+          "start": 17.02,
+          "end": 17.2,
+          "probability": 0.45
+        },
+        {
+          "word": "vài",
+          "start": 17.2,
+          "end": 17.5,
+          "probability": 0.35
+        },
+        {
+          "word": "dù",
+          "start": 17.5,
+          "end": 17.6,
+          "probability": 0.23
+        },
+        {
+          "word": "liết,",
+          "start": 17.6,
+          "end": 17.96,
+          "probability": 0.29
+        },
+        {
+          "word": "nói,",
+          "start": 18.24,
+          "end": 18.66,
+          "probability": 0.63
+        },
+        {
+          "word": "mọi",
+          "start": 19.0,
+          "end": 19.18,
+          "probability": 0.5
+        },
+        {
+          "word": "yên",
+          "start": 19.18,
+          "end": 19.36,
+          "probability": 0.48
+        },
+        {
+          "word": "đi",
+          "start": 19.36,
+          "end": 19.58,
+          "probability": 0.12
+        },
+        {
+          "word": "tuyên",
+          "start": 19.58,
+          "end": 19.76,
+          "probability": 0.42
+        },
+        {
+          "word": "nghiệp",
+          "start": 19.76,
+          "end": 20.02,
+          "probability": 0.63
+        },
+        {
+          "word": "bích",
+          "start": 20.02,
+          "end": 20.24,
+          "probability": 0.28
+        },
+        {
+          "word": "at",
+          "start": 20.24,
+          "end": 20.4,
+          "probability": 0.06
+        },
+        {
+          "word": "kính",
+          "start": 20.4,
+          "end": 20.64,
+          "probability": 0.41
+        },
+        {
+          "word": "xác",
+          "start": 20.64,
+          "end": 20.88,
+          "probability": 0.41
+        },
+        {
+          "word": "cảm",
+          "start": 20.88,
+          "end": 21.14,
+          "probability": 0.81
+        },
+        {
+          "word": "xúc",
+          "start": 21.14,
+          "end": 21.28,
+          "probability": 0.69
+        },
+        {
+          "word": "của",
+          "start": 21.28,
+          "end": 21.44,
+          "probability": 0.97
+        },
+        {
+          "word": "mình.",
+          "start": 21.44,
+          "end": 21.7,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 22.04,
+      "end": 23.58,
+      "text": "Tôi không thể chờ bán như vật dù liết.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 22.04,
+          "end": 22.04,
+          "probability": 0.58
+        },
+        {
+          "word": "không",
+          "start": 22.04,
+          "end": 22.26,
+          "probability": 0.99
+        },
+        {
+          "word": "thể",
+          "start": 22.26,
+          "end": 22.48,
+          "probability": 0.35
+        },
+        {
+          "word": "chờ",
+          "start": 22.48,
+          "end": 22.62,
+          "probability": 0.2
+        },
+        {
+          "word": "bán",
+          "start": 22.62,
+          "end": 22.8,
+          "probability": 0.42
+        },
+        {
+          "word": "như",
+          "start": 22.8,
+          "end": 22.92,
+          "probability": 0.11
+        },
+        {
+          "word": "vật",
+          "start": 22.92,
+          "end": 23.1,
+          "probability": 0.71
+        },
+        {
+          "word": "dù",
+          "start": 23.1,
+          "end": 23.26,
+          "probability": 0.85
+        },
+        {
+          "word": "liết.",
+          "start": 23.26,
+          "end": 23.58,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.96,
+      "end": 27.78,
+      "text": "Tôi phải sấm trọng về cuộc vấn vật này và được khó chuyện của nhân vật đến hồi kết.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 23.96,
+          "end": 24.1,
+          "probability": 0.72
+        },
+        {
+          "word": "phải",
+          "start": 24.1,
+          "end": 24.32,
+          "probability": 0.79
+        },
+        {
+          "word": "sấm",
+          "start": 24.32,
+          "end": 24.56,
+          "probability": 0.67
+        },
+        {
+          "word": "trọng",
+          "start": 24.56,
+          "end": 24.8,
+          "probability": 0.71
+        },
+        {
+          "word": "về",
+          "start": 24.8,
+          "end": 24.98,
+          "probability": 0.38
+        },
+        {
+          "word": "cuộc",
+          "start": 24.98,
+          "end": 25.2,
+          "probability": 0.53
+        },
+        {
+          "word": "vấn",
+          "start": 25.2,
+          "end": 25.36,
+          "probability": 0.34
+        },
+        {
+          "word": "vật",
+          "start": 25.36,
+          "end": 25.62,
+          "probability": 0.46
+        },
+        {
+          "word": "này",
+          "start": 25.62,
+          "end": 25.88,
+          "probability": 0.86
+        },
+        {
+          "word": "và",
+          "start": 25.88,
+          "end": 26.08,
+          "probability": 0.52
+        },
+        {
+          "word": "được",
+          "start": 26.08,
+          "end": 26.24,
+          "probability": 0.38
+        },
+        {
+          "word": "khó",
+          "start": 26.24,
+          "end": 26.46,
+          "probability": 0.4
+        },
+        {
+          "word": "chuyện",
+          "start": 26.46,
+          "end": 26.62,
+          "probability": 0.75
+        },
+        {
+          "word": "của",
+          "start": 26.62,
+          "end": 26.8,
+          "probability": 0.89
+        },
+        {
+          "word": "nhân",
+          "start": 26.8,
+          "end": 26.98,
+          "probability": 0.09
+        },
+        {
+          "word": "vật",
+          "start": 26.98,
+          "end": 27.16,
+          "probability": 0.92
+        },
+        {
+          "word": "đến",
+          "start": 27.16,
+          "end": 27.36,
+          "probability": 0.28
+        },
+        {
+          "word": "hồi",
+          "start": 27.36,
+          "end": 27.58,
+          "probability": 0.41
+        },
+        {
+          "word": "kết.",
+          "start": 27.58,
+          "end": 27.78,
+          "probability": 0.55
+        }
+      ]
+    }
+  ]
+}

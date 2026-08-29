@@ -1,0 +1,334 @@
+{
+  "item_id": "tt_7670775794574036245_06",
+  "duration_seconds": 10.15,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 42,
+  "text": "Chứ vẫn mối với người nơi nhau Mà câu người nơi câu gọi chứ về chính thức Chứ về người nơi câu gọi đúng không? Hả, đúng không? Hả, đúng không? Hả, đúng không? Đi chào Đi chào Đi chào, đúng không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.62,
+      "end": 2.02,
+      "text": "Chứ vẫn mối với người nơi nhau",
+      "words": [
+        {
+          "word": "Chứ",
+          "start": 0.62,
+          "end": 0.9,
+          "probability": 0.19
+        },
+        {
+          "word": "vẫn",
+          "start": 0.9,
+          "end": 1.04,
+          "probability": 0.15
+        },
+        {
+          "word": "mối",
+          "start": 1.04,
+          "end": 1.24,
+          "probability": 0.14
+        },
+        {
+          "word": "với",
+          "start": 1.24,
+          "end": 1.32,
+          "probability": 0.08
+        },
+        {
+          "word": "người",
+          "start": 1.32,
+          "end": 1.46,
+          "probability": 0.31
+        },
+        {
+          "word": "nơi",
+          "start": 1.46,
+          "end": 1.56,
+          "probability": 0.47
+        },
+        {
+          "word": "nhau",
+          "start": 1.56,
+          "end": 2.02,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.02,
+      "end": 3.64,
+      "text": "Mà câu người nơi câu gọi chứ về chính thức",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 2.02,
+          "end": 2.3,
+          "probability": 0.22
+        },
+        {
+          "word": "câu",
+          "start": 2.3,
+          "end": 2.44,
+          "probability": 0.74
+        },
+        {
+          "word": "người",
+          "start": 2.44,
+          "end": 2.52,
+          "probability": 0.25
+        },
+        {
+          "word": "nơi",
+          "start": 2.52,
+          "end": 2.6,
+          "probability": 0.27
+        },
+        {
+          "word": "câu",
+          "start": 2.6,
+          "end": 2.76,
+          "probability": 0.58
+        },
+        {
+          "word": "gọi",
+          "start": 2.76,
+          "end": 2.9,
+          "probability": 0.19
+        },
+        {
+          "word": "chứ",
+          "start": 2.9,
+          "end": 3.02,
+          "probability": 0.17
+        },
+        {
+          "word": "về",
+          "start": 3.02,
+          "end": 3.18,
+          "probability": 0.22
+        },
+        {
+          "word": "chính",
+          "start": 3.18,
+          "end": 3.32,
+          "probability": 0.56
+        },
+        {
+          "word": "thức",
+          "start": 3.32,
+          "end": 3.64,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.64,
+      "end": 4.66,
+      "text": "Chứ về người nơi câu gọi đúng không?",
+      "words": [
+        {
+          "word": "Chứ",
+          "start": 3.64,
+          "end": 3.92,
+          "probability": 0.82
+        },
+        {
+          "word": "về",
+          "start": 3.92,
+          "end": 4.04,
+          "probability": 0.52
+        },
+        {
+          "word": "người",
+          "start": 4.04,
+          "end": 4.36,
+          "probability": 0.14
+        },
+        {
+          "word": "nơi",
+          "start": 4.36,
+          "end": 4.44,
+          "probability": 0.75
+        },
+        {
+          "word": "câu",
+          "start": 4.44,
+          "end": 4.46,
+          "probability": 0.65
+        },
+        {
+          "word": "gọi",
+          "start": 4.46,
+          "end": 4.54,
+          "probability": 0.52
+        },
+        {
+          "word": "đúng",
+          "start": 4.54,
+          "end": 4.54,
+          "probability": 0.14
+        },
+        {
+          "word": "không?",
+          "start": 4.54,
+          "end": 4.66,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.86,
+      "end": 5.96,
+      "text": "Hả, đúng không?",
+      "words": [
+        {
+          "word": "Hả,",
+          "start": 4.86,
+          "end": 4.86,
+          "probability": 0.08
+        },
+        {
+          "word": "đúng",
+          "start": 5.94,
+          "end": 5.94,
+          "probability": 0.41
+        },
+        {
+          "word": "không?",
+          "start": 5.94,
+          "end": 5.96,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 5.96,
+      "end": 6.26,
+      "text": "Hả, đúng không?",
+      "words": [
+        {
+          "word": "Hả,",
+          "start": 5.96,
+          "end": 6.14,
+          "probability": 0.32
+        },
+        {
+          "word": "đúng",
+          "start": 6.14,
+          "end": 6.2,
+          "probability": 0.61
+        },
+        {
+          "word": "không?",
+          "start": 6.2,
+          "end": 6.26,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 6.26,
+      "end": 7.58,
+      "text": "Hả, đúng không?",
+      "words": [
+        {
+          "word": "Hả,",
+          "start": 6.26,
+          "end": 6.26,
+          "probability": 0.42
+        },
+        {
+          "word": "đúng",
+          "start": 6.38,
+          "end": 6.44,
+          "probability": 0.88
+        },
+        {
+          "word": "không?",
+          "start": 6.44,
+          "end": 7.58,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 7.8,
+      "end": 8.26,
+      "text": "Đi chào",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 7.8,
+          "end": 8.08,
+          "probability": 0.08
+        },
+        {
+          "word": "chào",
+          "start": 8.08,
+          "end": 8.26,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 8.26,
+      "end": 8.8,
+      "text": "Đi chào",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 8.26,
+          "end": 8.8,
+          "probability": 0.42
+        },
+        {
+          "word": "chào",
+          "start": 8.8,
+          "end": 8.8,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 8.8,
+      "end": 9.4,
+      "text": "Đi chào, đúng không?",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 8.8,
+          "end": 8.8,
+          "probability": 0.54
+        },
+        {
+          "word": "chào,",
+          "start": 8.8,
+          "end": 8.8,
+          "probability": 0.95
+        },
+        {
+          "word": "đúng",
+          "start": 8.8,
+          "end": 9.24,
+          "probability": 0.35
+        },
+        {
+          "word": "không?",
+          "start": 9.24,
+          "end": 9.4,
+          "probability": 0.94
+        }
+      ]
+    }
+  ]
+}

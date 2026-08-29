@@ -1,0 +1,612 @@
+{
+  "item_id": "tt_7665014102510685460_08",
+  "duration_seconds": 29.09,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 87,
+  "text": "mình không có tình dụng được khi mà sẽ ngồi lật. Tại sao để là... Làm cái tình đi hoặc cái bước chương lý câu lạc phó kích không chào đến kể cũng có chổ chờ chỉ cần người đưa lắm một kể tình hoạch ra không. Phong được, mình có nước như vậy và trong bước chương lý trở và giả lực sổ lống giả lực của thông bị thả đống cũng có giả lực thả đống với người phần người xử cô xuyết rất đỏ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.12,
+      "text": "mình không có tình dụng được khi mà sẽ ngồi lật.",
+      "words": [
+        {
+          "word": "mình",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.05
+        },
+        {
+          "word": "không",
+          "start": 0.4,
+          "end": 0.68,
+          "probability": 0.97
+        },
+        {
+          "word": "có",
+          "start": 0.68,
+          "end": 0.94,
+          "probability": 0.14
+        },
+        {
+          "word": "tình",
+          "start": 0.94,
+          "end": 1.06,
+          "probability": 0.51
+        },
+        {
+          "word": "dụng",
+          "start": 1.06,
+          "end": 1.28,
+          "probability": 0.61
+        },
+        {
+          "word": "được",
+          "start": 1.28,
+          "end": 1.82,
+          "probability": 0.74
+        },
+        {
+          "word": "khi",
+          "start": 1.82,
+          "end": 2.04,
+          "probability": 0.31
+        },
+        {
+          "word": "mà",
+          "start": 2.04,
+          "end": 2.18,
+          "probability": 0.2
+        },
+        {
+          "word": "sẽ",
+          "start": 2.18,
+          "end": 2.36,
+          "probability": 0.41
+        },
+        {
+          "word": "ngồi",
+          "start": 2.36,
+          "end": 2.54,
+          "probability": 0.36
+        },
+        {
+          "word": "lật.",
+          "start": 2.54,
+          "end": 3.12,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.68,
+      "end": 4.52,
+      "text": "Tại sao để là...",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 3.68,
+          "end": 3.74,
+          "probability": 0.11
+        },
+        {
+          "word": "sao",
+          "start": 3.74,
+          "end": 3.82,
+          "probability": 0.62
+        },
+        {
+          "word": "để",
+          "start": 3.82,
+          "end": 4.06,
+          "probability": 0.08
+        },
+        {
+          "word": "là...",
+          "start": 4.06,
+          "end": 4.52,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.96,
+      "end": 8.8,
+      "text": "Làm cái tình đi hoặc cái bước chương lý câu lạc phó kích",
+      "words": [
+        {
+          "word": "Làm",
+          "start": 5.96,
+          "end": 6.3,
+          "probability": 0.33
+        },
+        {
+          "word": "cái",
+          "start": 6.3,
+          "end": 6.3,
+          "probability": 0.06
+        },
+        {
+          "word": "tình",
+          "start": 6.3,
+          "end": 6.46,
+          "probability": 0.25
+        },
+        {
+          "word": "đi",
+          "start": 6.46,
+          "end": 6.62,
+          "probability": 0.11
+        },
+        {
+          "word": "hoặc",
+          "start": 6.62,
+          "end": 6.76,
+          "probability": 0.57
+        },
+        {
+          "word": "cái",
+          "start": 6.76,
+          "end": 6.94,
+          "probability": 0.29
+        },
+        {
+          "word": "bước",
+          "start": 6.94,
+          "end": 7.08,
+          "probability": 0.24
+        },
+        {
+          "word": "chương",
+          "start": 7.08,
+          "end": 7.24,
+          "probability": 0.15
+        },
+        {
+          "word": "lý",
+          "start": 7.24,
+          "end": 7.46,
+          "probability": 0.35
+        },
+        {
+          "word": "câu",
+          "start": 7.46,
+          "end": 7.62,
+          "probability": 0.6
+        },
+        {
+          "word": "lạc",
+          "start": 7.62,
+          "end": 8.22,
+          "probability": 0.56
+        },
+        {
+          "word": "phó",
+          "start": 8.22,
+          "end": 8.5,
+          "probability": 0.27
+        },
+        {
+          "word": "kích",
+          "start": 8.5,
+          "end": 8.8,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.24,
+      "end": 11.64,
+      "text": "không chào đến kể cũng có chổ chờ",
+      "words": [
+        {
+          "word": "không",
+          "start": 9.24,
+          "end": 9.68,
+          "probability": 0.65
+        },
+        {
+          "word": "chào",
+          "start": 9.68,
+          "end": 9.88,
+          "probability": 0.41
+        },
+        {
+          "word": "đến",
+          "start": 9.88,
+          "end": 10.06,
+          "probability": 0.59
+        },
+        {
+          "word": "kể",
+          "start": 10.06,
+          "end": 10.32,
+          "probability": 0.49
+        },
+        {
+          "word": "cũng",
+          "start": 10.32,
+          "end": 10.54,
+          "probability": 0.05
+        },
+        {
+          "word": "có",
+          "start": 10.54,
+          "end": 10.7,
+          "probability": 0.23
+        },
+        {
+          "word": "chổ",
+          "start": 10.7,
+          "end": 10.9,
+          "probability": 0.4
+        },
+        {
+          "word": "chờ",
+          "start": 10.9,
+          "end": 11.64,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.64,
+      "end": 14.22,
+      "text": "chỉ cần người đưa lắm một kể tình hoạch ra không.",
+      "words": [
+        {
+          "word": "chỉ",
+          "start": 11.64,
+          "end": 12.28,
+          "probability": 0.35
+        },
+        {
+          "word": "cần",
+          "start": 12.28,
+          "end": 12.44,
+          "probability": 0.44
+        },
+        {
+          "word": "người",
+          "start": 12.44,
+          "end": 12.62,
+          "probability": 0.07
+        },
+        {
+          "word": "đưa",
+          "start": 12.62,
+          "end": 12.76,
+          "probability": 0.19
+        },
+        {
+          "word": "lắm",
+          "start": 12.76,
+          "end": 12.84,
+          "probability": 0.37
+        },
+        {
+          "word": "một",
+          "start": 12.84,
+          "end": 13.02,
+          "probability": 0.44
+        },
+        {
+          "word": "kể",
+          "start": 13.02,
+          "end": 13.18,
+          "probability": 0.45
+        },
+        {
+          "word": "tình",
+          "start": 13.18,
+          "end": 13.44,
+          "probability": 0.51
+        },
+        {
+          "word": "hoạch",
+          "start": 13.44,
+          "end": 13.64,
+          "probability": 0.56
+        },
+        {
+          "word": "ra",
+          "start": 13.64,
+          "end": 13.8,
+          "probability": 0.25
+        },
+        {
+          "word": "không.",
+          "start": 13.8,
+          "end": 14.22,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 16.32,
+      "end": 20.3,
+      "text": "Phong được, mình có nước như vậy",
+      "words": [
+        {
+          "word": "Phong",
+          "start": 16.32,
+          "end": 16.76,
+          "probability": 0.5
+        },
+        {
+          "word": "được,",
+          "start": 16.76,
+          "end": 17.04,
+          "probability": 0.55
+        },
+        {
+          "word": "mình",
+          "start": 19.22,
+          "end": 19.4,
+          "probability": 0.12
+        },
+        {
+          "word": "có",
+          "start": 19.4,
+          "end": 19.56,
+          "probability": 0.84
+        },
+        {
+          "word": "nước",
+          "start": 19.56,
+          "end": 19.76,
+          "probability": 0.11
+        },
+        {
+          "word": "như",
+          "start": 19.76,
+          "end": 19.96,
+          "probability": 0.12
+        },
+        {
+          "word": "vậy",
+          "start": 19.96,
+          "end": 20.3,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 20.3,
+      "end": 22.54,
+      "text": "và trong bước chương lý trở",
+      "words": [
+        {
+          "word": "và",
+          "start": 20.3,
+          "end": 20.62,
+          "probability": 0.07
+        },
+        {
+          "word": "trong",
+          "start": 20.62,
+          "end": 20.78,
+          "probability": 0.57
+        },
+        {
+          "word": "bước",
+          "start": 20.78,
+          "end": 21.04,
+          "probability": 0.82
+        },
+        {
+          "word": "chương",
+          "start": 21.04,
+          "end": 21.28,
+          "probability": 0.71
+        },
+        {
+          "word": "lý",
+          "start": 21.28,
+          "end": 22.08,
+          "probability": 0.17
+        },
+        {
+          "word": "trở",
+          "start": 22.08,
+          "end": 22.54,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 22.54,
+      "end": 23.9,
+      "text": "và giả lực sổ lống",
+      "words": [
+        {
+          "word": "và",
+          "start": 22.54,
+          "end": 22.54,
+          "probability": 0.0
+        },
+        {
+          "word": "giả",
+          "start": 22.54,
+          "end": 22.64,
+          "probability": 0.07
+        },
+        {
+          "word": "lực",
+          "start": 22.64,
+          "end": 22.96,
+          "probability": 0.47
+        },
+        {
+          "word": "sổ",
+          "start": 22.96,
+          "end": 23.38,
+          "probability": 0.2
+        },
+        {
+          "word": "lống",
+          "start": 23.38,
+          "end": 23.9,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 23.9,
+      "end": 25.88,
+      "text": "giả lực của thông bị thả đống",
+      "words": [
+        {
+          "word": "giả",
+          "start": 23.9,
+          "end": 24.3,
+          "probability": 0.47
+        },
+        {
+          "word": "lực",
+          "start": 24.3,
+          "end": 24.58,
+          "probability": 0.82
+        },
+        {
+          "word": "của",
+          "start": 24.58,
+          "end": 24.82,
+          "probability": 0.61
+        },
+        {
+          "word": "thông",
+          "start": 24.82,
+          "end": 25.14,
+          "probability": 0.26
+        },
+        {
+          "word": "bị",
+          "start": 25.14,
+          "end": 25.3,
+          "probability": 0.11
+        },
+        {
+          "word": "thả",
+          "start": 25.3,
+          "end": 25.46,
+          "probability": 0.39
+        },
+        {
+          "word": "đống",
+          "start": 25.46,
+          "end": 25.88,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 25.88,
+      "end": 28.78,
+      "text": "cũng có giả lực thả đống với người phần người xử cô xuyết rất đỏ.",
+      "words": [
+        {
+          "word": "cũng",
+          "start": 25.88,
+          "end": 26.36,
+          "probability": 0.02
+        },
+        {
+          "word": "có",
+          "start": 26.36,
+          "end": 26.4,
+          "probability": 0.71
+        },
+        {
+          "word": "giả",
+          "start": 26.4,
+          "end": 26.54,
+          "probability": 0.57
+        },
+        {
+          "word": "lực",
+          "start": 26.54,
+          "end": 26.76,
+          "probability": 0.39
+        },
+        {
+          "word": "thả",
+          "start": 26.76,
+          "end": 26.76,
+          "probability": 0.15
+        },
+        {
+          "word": "đống",
+          "start": 26.76,
+          "end": 27.02,
+          "probability": 0.76
+        },
+        {
+          "word": "với",
+          "start": 27.02,
+          "end": 27.22,
+          "probability": 0.03
+        },
+        {
+          "word": "người",
+          "start": 27.22,
+          "end": 27.22,
+          "probability": 0.04
+        },
+        {
+          "word": "phần",
+          "start": 27.22,
+          "end": 27.46,
+          "probability": 0.36
+        },
+        {
+          "word": "người",
+          "start": 27.46,
+          "end": 27.66,
+          "probability": 0.04
+        },
+        {
+          "word": "xử",
+          "start": 27.66,
+          "end": 27.88,
+          "probability": 0.4
+        },
+        {
+          "word": "cô",
+          "start": 27.88,
+          "end": 28.1,
+          "probability": 0.19
+        },
+        {
+          "word": "xuyết",
+          "start": 28.1,
+          "end": 28.3,
+          "probability": 0.22
+        },
+        {
+          "word": "rất",
+          "start": 28.3,
+          "end": 28.48,
+          "probability": 0.19
+        },
+        {
+          "word": "đỏ.",
+          "start": 28.48,
+          "end": 28.78,
+          "probability": 0.16
+        }
+      ]
+    }
+  ]
+}

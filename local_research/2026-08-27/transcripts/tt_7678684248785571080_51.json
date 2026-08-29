@@ -1,0 +1,598 @@
+{
+  "item_id": "tt_7678684248785571080_51",
+  "duration_seconds": 27.13,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 90,
+  "text": "báo gửi không kỹ dài quá lòng, không xấu khán trên đứng mục mạng và như vậy thì tới cái mù sao thì mình không còn kỹ cạnh hình báo gửi tắc nhận nó nữa rồi là bầu, và đặc biệt là cướng là hay tổ thì chỉ ngoài thành một cái dọng mới nữa chân dân nó lý dọ tại sao mà chúng ta thấy là ở trên kỹ dưới người ta có một kỹ hệ thống và là kỹ hệ thống mà để phát hiện các trưởng cướng",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.2,
+      "text": "báo gửi không kỹ dài quá lòng, không xấu khán trên đứng mục mạng",
+      "words": [
+        {
+          "word": "báo",
+          "start": 0.0,
+          "end": 0.64,
+          "probability": 0.21
+        },
+        {
+          "word": "gửi",
+          "start": 0.64,
+          "end": 0.84,
+          "probability": 0.38
+        },
+        {
+          "word": "không",
+          "start": 0.84,
+          "end": 1.08,
+          "probability": 0.68
+        },
+        {
+          "word": "kỹ",
+          "start": 1.08,
+          "end": 1.2,
+          "probability": 0.5
+        },
+        {
+          "word": "dài",
+          "start": 1.2,
+          "end": 1.4,
+          "probability": 0.38
+        },
+        {
+          "word": "quá",
+          "start": 1.4,
+          "end": 1.62,
+          "probability": 0.53
+        },
+        {
+          "word": "lòng,",
+          "start": 1.62,
+          "end": 2.1,
+          "probability": 0.4
+        },
+        {
+          "word": "không",
+          "start": 2.26,
+          "end": 2.54,
+          "probability": 0.58
+        },
+        {
+          "word": "xấu",
+          "start": 2.54,
+          "end": 2.74,
+          "probability": 0.53
+        },
+        {
+          "word": "khán",
+          "start": 2.74,
+          "end": 2.98,
+          "probability": 0.52
+        },
+        {
+          "word": "trên",
+          "start": 2.98,
+          "end": 3.2,
+          "probability": 0.26
+        },
+        {
+          "word": "đứng",
+          "start": 3.2,
+          "end": 3.38,
+          "probability": 0.49
+        },
+        {
+          "word": "mục",
+          "start": 3.38,
+          "end": 3.5,
+          "probability": 0.7
+        },
+        {
+          "word": "mạng",
+          "start": 3.5,
+          "end": 4.2,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.2,
+      "end": 10.18,
+      "text": "và như vậy thì tới cái mù sao thì mình không còn kỹ cạnh hình báo gửi tắc nhận nó nữa rồi",
+      "words": [
+        {
+          "word": "và",
+          "start": 4.2,
+          "end": 4.54,
+          "probability": 0.28
+        },
+        {
+          "word": "như",
+          "start": 4.54,
+          "end": 4.66,
+          "probability": 0.76
+        },
+        {
+          "word": "vậy",
+          "start": 4.66,
+          "end": 4.94,
+          "probability": 0.85
+        },
+        {
+          "word": "thì",
+          "start": 4.94,
+          "end": 5.54,
+          "probability": 0.7
+        },
+        {
+          "word": "tới",
+          "start": 5.54,
+          "end": 5.74,
+          "probability": 0.75
+        },
+        {
+          "word": "cái",
+          "start": 5.74,
+          "end": 5.94,
+          "probability": 0.61
+        },
+        {
+          "word": "mù",
+          "start": 5.94,
+          "end": 6.06,
+          "probability": 0.54
+        },
+        {
+          "word": "sao",
+          "start": 6.06,
+          "end": 6.28,
+          "probability": 0.61
+        },
+        {
+          "word": "thì",
+          "start": 6.28,
+          "end": 6.46,
+          "probability": 0.09
+        },
+        {
+          "word": "mình",
+          "start": 6.46,
+          "end": 6.58,
+          "probability": 0.9
+        },
+        {
+          "word": "không",
+          "start": 6.58,
+          "end": 6.82,
+          "probability": 0.74
+        },
+        {
+          "word": "còn",
+          "start": 6.82,
+          "end": 7.24,
+          "probability": 0.78
+        },
+        {
+          "word": "kỹ",
+          "start": 7.24,
+          "end": 7.78,
+          "probability": 0.59
+        },
+        {
+          "word": "cạnh",
+          "start": 7.78,
+          "end": 7.94,
+          "probability": 0.36
+        },
+        {
+          "word": "hình",
+          "start": 7.94,
+          "end": 8.1,
+          "probability": 0.37
+        },
+        {
+          "word": "báo",
+          "start": 8.1,
+          "end": 8.26,
+          "probability": 0.96
+        },
+        {
+          "word": "gửi",
+          "start": 8.26,
+          "end": 8.64,
+          "probability": 0.96
+        },
+        {
+          "word": "tắc",
+          "start": 8.64,
+          "end": 8.96,
+          "probability": 0.44
+        },
+        {
+          "word": "nhận",
+          "start": 8.96,
+          "end": 9.14,
+          "probability": 0.39
+        },
+        {
+          "word": "nó",
+          "start": 9.14,
+          "end": 9.36,
+          "probability": 0.68
+        },
+        {
+          "word": "nữa",
+          "start": 9.36,
+          "end": 9.46,
+          "probability": 0.72
+        },
+        {
+          "word": "rồi",
+          "start": 9.46,
+          "end": 10.18,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.18,
+      "end": 15.4,
+      "text": "là bầu, và đặc biệt là cướng là hay tổ thì chỉ ngoài thành một cái dọng mới nữa",
+      "words": [
+        {
+          "word": "là",
+          "start": 10.18,
+          "end": 10.74,
+          "probability": 0.15
+        },
+        {
+          "word": "bầu,",
+          "start": 10.74,
+          "end": 11.2,
+          "probability": 0.49
+        },
+        {
+          "word": "và",
+          "start": 11.48,
+          "end": 11.56,
+          "probability": 0.46
+        },
+        {
+          "word": "đặc",
+          "start": 11.56,
+          "end": 11.76,
+          "probability": 0.77
+        },
+        {
+          "word": "biệt",
+          "start": 11.76,
+          "end": 11.92,
+          "probability": 0.94
+        },
+        {
+          "word": "là",
+          "start": 11.92,
+          "end": 12.12,
+          "probability": 0.54
+        },
+        {
+          "word": "cướng",
+          "start": 12.12,
+          "end": 12.24,
+          "probability": 0.45
+        },
+        {
+          "word": "là",
+          "start": 12.24,
+          "end": 12.44,
+          "probability": 0.17
+        },
+        {
+          "word": "hay",
+          "start": 12.44,
+          "end": 12.62,
+          "probability": 0.3
+        },
+        {
+          "word": "tổ",
+          "start": 12.62,
+          "end": 12.84,
+          "probability": 0.22
+        },
+        {
+          "word": "thì",
+          "start": 12.84,
+          "end": 13.14,
+          "probability": 0.12
+        },
+        {
+          "word": "chỉ",
+          "start": 13.14,
+          "end": 13.28,
+          "probability": 0.07
+        },
+        {
+          "word": "ngoài",
+          "start": 13.28,
+          "end": 13.62,
+          "probability": 0.41
+        },
+        {
+          "word": "thành",
+          "start": 13.62,
+          "end": 13.88,
+          "probability": 0.63
+        },
+        {
+          "word": "một",
+          "start": 13.88,
+          "end": 14.0,
+          "probability": 0.72
+        },
+        {
+          "word": "cái",
+          "start": 14.0,
+          "end": 14.18,
+          "probability": 0.87
+        },
+        {
+          "word": "dọng",
+          "start": 14.18,
+          "end": 14.36,
+          "probability": 0.68
+        },
+        {
+          "word": "mới",
+          "start": 14.36,
+          "end": 14.62,
+          "probability": 0.76
+        },
+        {
+          "word": "nữa",
+          "start": 14.62,
+          "end": 15.4,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.4,
+      "end": 19.02,
+      "text": "chân dân nó lý dọ tại sao mà chúng ta thấy là",
+      "words": [
+        {
+          "word": "chân",
+          "start": 15.4,
+          "end": 15.72,
+          "probability": 0.1
+        },
+        {
+          "word": "dân",
+          "start": 15.72,
+          "end": 15.72,
+          "probability": 0.06
+        },
+        {
+          "word": "nó",
+          "start": 15.72,
+          "end": 16.28,
+          "probability": 0.12
+        },
+        {
+          "word": "lý",
+          "start": 16.28,
+          "end": 16.46,
+          "probability": 0.62
+        },
+        {
+          "word": "dọ",
+          "start": 16.46,
+          "end": 16.58,
+          "probability": 0.37
+        },
+        {
+          "word": "tại",
+          "start": 16.58,
+          "end": 16.74,
+          "probability": 0.29
+        },
+        {
+          "word": "sao",
+          "start": 16.74,
+          "end": 16.94,
+          "probability": 0.91
+        },
+        {
+          "word": "mà",
+          "start": 16.94,
+          "end": 17.12,
+          "probability": 0.5
+        },
+        {
+          "word": "chúng",
+          "start": 17.12,
+          "end": 17.26,
+          "probability": 0.37
+        },
+        {
+          "word": "ta",
+          "start": 17.26,
+          "end": 17.36,
+          "probability": 0.74
+        },
+        {
+          "word": "thấy",
+          "start": 17.36,
+          "end": 18.14,
+          "probability": 0.92
+        },
+        {
+          "word": "là",
+          "start": 18.14,
+          "end": 19.02,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 19.02,
+      "end": 23.2,
+      "text": "ở trên kỹ dưới người ta có một kỹ hệ thống",
+      "words": [
+        {
+          "word": "ở",
+          "start": 19.02,
+          "end": 19.38,
+          "probability": 0.58
+        },
+        {
+          "word": "trên",
+          "start": 19.38,
+          "end": 19.44,
+          "probability": 0.81
+        },
+        {
+          "word": "kỹ",
+          "start": 19.44,
+          "end": 19.86,
+          "probability": 0.53
+        },
+        {
+          "word": "dưới",
+          "start": 19.86,
+          "end": 20.82,
+          "probability": 0.48
+        },
+        {
+          "word": "người",
+          "start": 20.82,
+          "end": 21.34,
+          "probability": 0.78
+        },
+        {
+          "word": "ta",
+          "start": 21.34,
+          "end": 21.48,
+          "probability": 0.91
+        },
+        {
+          "word": "có",
+          "start": 21.48,
+          "end": 21.7,
+          "probability": 0.97
+        },
+        {
+          "word": "một",
+          "start": 21.7,
+          "end": 21.96,
+          "probability": 0.56
+        },
+        {
+          "word": "kỹ",
+          "start": 21.96,
+          "end": 22.26,
+          "probability": 0.88
+        },
+        {
+          "word": "hệ",
+          "start": 22.26,
+          "end": 22.5,
+          "probability": 0.53
+        },
+        {
+          "word": "thống",
+          "start": 22.5,
+          "end": 23.2,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.2,
+      "end": 27.08,
+      "text": "và là kỹ hệ thống mà để phát hiện các trưởng cướng",
+      "words": [
+        {
+          "word": "và",
+          "start": 23.2,
+          "end": 23.6,
+          "probability": 0.25
+        },
+        {
+          "word": "là",
+          "start": 23.6,
+          "end": 23.74,
+          "probability": 0.14
+        },
+        {
+          "word": "kỹ",
+          "start": 23.74,
+          "end": 23.82,
+          "probability": 0.84
+        },
+        {
+          "word": "hệ",
+          "start": 23.82,
+          "end": 23.98,
+          "probability": 0.99
+        },
+        {
+          "word": "thống",
+          "start": 23.98,
+          "end": 24.46,
+          "probability": 1.0
+        },
+        {
+          "word": "mà",
+          "start": 24.46,
+          "end": 24.8,
+          "probability": 0.82
+        },
+        {
+          "word": "để",
+          "start": 24.8,
+          "end": 25.24,
+          "probability": 0.72
+        },
+        {
+          "word": "phát",
+          "start": 25.24,
+          "end": 25.76,
+          "probability": 0.54
+        },
+        {
+          "word": "hiện",
+          "start": 25.76,
+          "end": 26.08,
+          "probability": 0.92
+        },
+        {
+          "word": "các",
+          "start": 26.08,
+          "end": 26.46,
+          "probability": 0.46
+        },
+        {
+          "word": "trưởng",
+          "start": 26.46,
+          "end": 26.7,
+          "probability": 0.46
+        },
+        {
+          "word": "cướng",
+          "start": 26.7,
+          "end": 27.08,
+          "probability": 0.7
+        }
+      ]
+    }
+  ]
+}

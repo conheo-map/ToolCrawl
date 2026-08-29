@@ -1,0 +1,66 @@
+{
+  "item_id": "tt_7652542039246146817_02",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 8,
+  "text": "Sống tụi biến đoạn, đoạn, đoạn, đoạn, đoạn.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.52,
+      "text": "Sống tụi biến đoạn, đoạn, đoạn, đoạn, đoạn.",
+      "words": [
+        {
+          "word": "Sống",
+          "start": 0.0,
+          "end": 0.52,
+          "probability": 0.15
+        },
+        {
+          "word": "tụi",
+          "start": 0.52,
+          "end": 0.78,
+          "probability": 0.55
+        },
+        {
+          "word": "biến",
+          "start": 0.78,
+          "end": 1.18,
+          "probability": 0.28
+        },
+        {
+          "word": "đoạn,",
+          "start": 1.18,
+          "end": 1.6,
+          "probability": 0.18
+        },
+        {
+          "word": "đoạn,",
+          "start": 2.4,
+          "end": 2.4,
+          "probability": 0.39
+        },
+        {
+          "word": "đoạn,",
+          "start": 2.4,
+          "end": 3.02,
+          "probability": 0.8
+        },
+        {
+          "word": "đoạn,",
+          "start": 4.68,
+          "end": 4.68,
+          "probability": 0.94
+        },
+        {
+          "word": "đoạn.",
+          "start": 5.52,
+          "end": 5.52,
+          "probability": 0.93
+        }
+      ]
+    }
+  ]
+}

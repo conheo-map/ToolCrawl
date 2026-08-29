@@ -1,0 +1,620 @@
+{
+  "item_id": "tt_7670083227976994068_03",
+  "duration_seconds": 27.14,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 93,
+  "text": "Mưa ra tăng cường độ với lượng ngửa phụ biến mấy mười đến một chăm bún mười mì lì mẹ, cục bộ có nơi mưa rất to trên hai chăm mì lì mẹ, trước khi giảm dần vào ngày và đêm ngày 1 sau tháng tắm. Zinh khu vực hành lỗi trong ngày 1 1 tháng tắm có mưa rao và giống dạy giác, cục bộ mưa to, nhìn độ từ 2.5 lĩnh 3.5 đủ xe. Người dân toàn vùng cần đặc biệt đi phòng lúc, sát, mưa đã và sổ dật mạy.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Mưa ra tăng cường độ với lượng ngửa phụ biến mấy mười đến một chăm bún mười mì lì mẹ,",
+      "words": [
+        {
+          "word": "Mưa",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.57
+        },
+        {
+          "word": "ra",
+          "start": 0.46,
+          "end": 0.66,
+          "probability": 0.79
+        },
+        {
+          "word": "tăng",
+          "start": 0.66,
+          "end": 0.88,
+          "probability": 0.79
+        },
+        {
+          "word": "cường",
+          "start": 0.88,
+          "end": 1.08,
+          "probability": 0.41
+        },
+        {
+          "word": "độ",
+          "start": 1.08,
+          "end": 1.3,
+          "probability": 0.41
+        },
+        {
+          "word": "với",
+          "start": 1.3,
+          "end": 1.64,
+          "probability": 0.98
+        },
+        {
+          "word": "lượng",
+          "start": 1.64,
+          "end": 1.82,
+          "probability": 0.79
+        },
+        {
+          "word": "ngửa",
+          "start": 1.82,
+          "end": 2.08,
+          "probability": 0.49
+        },
+        {
+          "word": "phụ",
+          "start": 2.08,
+          "end": 2.28,
+          "probability": 0.6
+        },
+        {
+          "word": "biến",
+          "start": 2.28,
+          "end": 2.6,
+          "probability": 0.9
+        },
+        {
+          "word": "mấy",
+          "start": 2.6,
+          "end": 2.96,
+          "probability": 0.48
+        },
+        {
+          "word": "mười",
+          "start": 2.96,
+          "end": 3.34,
+          "probability": 0.49
+        },
+        {
+          "word": "đến",
+          "start": 3.34,
+          "end": 3.58,
+          "probability": 0.7
+        },
+        {
+          "word": "một",
+          "start": 3.58,
+          "end": 3.82,
+          "probability": 0.47
+        },
+        {
+          "word": "chăm",
+          "start": 3.82,
+          "end": 4.04,
+          "probability": 0.41
+        },
+        {
+          "word": "bún",
+          "start": 4.04,
+          "end": 4.26,
+          "probability": 0.38
+        },
+        {
+          "word": "mười",
+          "start": 4.26,
+          "end": 4.52,
+          "probability": 0.64
+        },
+        {
+          "word": "mì",
+          "start": 4.52,
+          "end": 4.66,
+          "probability": 0.19
+        },
+        {
+          "word": "lì",
+          "start": 4.66,
+          "end": 4.8,
+          "probability": 0.27
+        },
+        {
+          "word": "mẹ,",
+          "start": 4.8,
+          "end": 5.2,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.58,
+      "end": 12.46,
+      "text": "cục bộ có nơi mưa rất to trên hai chăm mì lì mẹ, trước khi giảm dần vào ngày và đêm ngày 1 sau tháng tắm.",
+      "words": [
+        {
+          "word": "cục",
+          "start": 5.58,
+          "end": 5.64,
+          "probability": 0.55
+        },
+        {
+          "word": "bộ",
+          "start": 5.64,
+          "end": 5.88,
+          "probability": 0.88
+        },
+        {
+          "word": "có",
+          "start": 5.88,
+          "end": 6.14,
+          "probability": 0.85
+        },
+        {
+          "word": "nơi",
+          "start": 6.14,
+          "end": 6.34,
+          "probability": 0.96
+        },
+        {
+          "word": "mưa",
+          "start": 6.34,
+          "end": 6.68,
+          "probability": 0.93
+        },
+        {
+          "word": "rất",
+          "start": 6.68,
+          "end": 6.88,
+          "probability": 0.77
+        },
+        {
+          "word": "to",
+          "start": 6.88,
+          "end": 7.22,
+          "probability": 0.65
+        },
+        {
+          "word": "trên",
+          "start": 7.22,
+          "end": 7.54,
+          "probability": 0.71
+        },
+        {
+          "word": "hai",
+          "start": 7.54,
+          "end": 7.84,
+          "probability": 0.36
+        },
+        {
+          "word": "chăm",
+          "start": 7.84,
+          "end": 8.06,
+          "probability": 0.55
+        },
+        {
+          "word": "mì",
+          "start": 8.06,
+          "end": 8.2,
+          "probability": 0.78
+        },
+        {
+          "word": "lì",
+          "start": 8.2,
+          "end": 8.34,
+          "probability": 0.96
+        },
+        {
+          "word": "mẹ,",
+          "start": 8.34,
+          "end": 8.7,
+          "probability": 0.89
+        },
+        {
+          "word": "trước",
+          "start": 9.16,
+          "end": 9.2,
+          "probability": 0.63
+        },
+        {
+          "word": "khi",
+          "start": 9.2,
+          "end": 9.42,
+          "probability": 0.97
+        },
+        {
+          "word": "giảm",
+          "start": 9.42,
+          "end": 9.66,
+          "probability": 0.76
+        },
+        {
+          "word": "dần",
+          "start": 9.66,
+          "end": 9.9,
+          "probability": 0.68
+        },
+        {
+          "word": "vào",
+          "start": 9.9,
+          "end": 10.2,
+          "probability": 0.89
+        },
+        {
+          "word": "ngày",
+          "start": 10.2,
+          "end": 10.58,
+          "probability": 0.92
+        },
+        {
+          "word": "và",
+          "start": 10.58,
+          "end": 10.88,
+          "probability": 0.9
+        },
+        {
+          "word": "đêm",
+          "start": 10.88,
+          "end": 11.1,
+          "probability": 0.87
+        },
+        {
+          "word": "ngày",
+          "start": 11.1,
+          "end": 11.34,
+          "probability": 0.93
+        },
+        {
+          "word": "1",
+          "start": 11.34,
+          "end": 11.52,
+          "probability": 0.16
+        },
+        {
+          "word": "sau",
+          "start": 11.52,
+          "end": 11.72,
+          "probability": 0.59
+        },
+        {
+          "word": "tháng",
+          "start": 11.72,
+          "end": 11.86,
+          "probability": 0.34
+        },
+        {
+          "word": "tắm.",
+          "start": 11.86,
+          "end": 12.46,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.06,
+      "end": 18.36,
+      "text": "Zinh khu vực hành lỗi trong ngày 1 1 tháng tắm có mưa rao và giống dạy giác, cục bộ mưa to,",
+      "words": [
+        {
+          "word": "Zinh",
+          "start": 13.06,
+          "end": 13.22,
+          "probability": 0.25
+        },
+        {
+          "word": "khu",
+          "start": 13.22,
+          "end": 13.42,
+          "probability": 0.84
+        },
+        {
+          "word": "vực",
+          "start": 13.42,
+          "end": 13.54,
+          "probability": 0.65
+        },
+        {
+          "word": "hành",
+          "start": 13.54,
+          "end": 13.78,
+          "probability": 0.36
+        },
+        {
+          "word": "lỗi",
+          "start": 13.78,
+          "end": 13.96,
+          "probability": 0.31
+        },
+        {
+          "word": "trong",
+          "start": 13.96,
+          "end": 14.24,
+          "probability": 0.96
+        },
+        {
+          "word": "ngày",
+          "start": 14.24,
+          "end": 14.4,
+          "probability": 1.0
+        },
+        {
+          "word": "1",
+          "start": 14.4,
+          "end": 14.58,
+          "probability": 0.94
+        },
+        {
+          "word": "1",
+          "start": 14.58,
+          "end": 14.86,
+          "probability": 0.13
+        },
+        {
+          "word": "tháng",
+          "start": 14.86,
+          "end": 15.04,
+          "probability": 0.81
+        },
+        {
+          "word": "tắm",
+          "start": 15.04,
+          "end": 15.3,
+          "probability": 0.96
+        },
+        {
+          "word": "có",
+          "start": 15.3,
+          "end": 15.5,
+          "probability": 0.96
+        },
+        {
+          "word": "mưa",
+          "start": 15.5,
+          "end": 15.7,
+          "probability": 0.9
+        },
+        {
+          "word": "rao",
+          "start": 15.7,
+          "end": 16.04,
+          "probability": 0.27
+        },
+        {
+          "word": "và",
+          "start": 16.04,
+          "end": 16.3,
+          "probability": 0.85
+        },
+        {
+          "word": "giống",
+          "start": 16.3,
+          "end": 16.5,
+          "probability": 0.45
+        },
+        {
+          "word": "dạy",
+          "start": 16.5,
+          "end": 16.78,
+          "probability": 0.43
+        },
+        {
+          "word": "giác,",
+          "start": 16.78,
+          "end": 17.18,
+          "probability": 0.55
+        },
+        {
+          "word": "cục",
+          "start": 17.48,
+          "end": 17.48,
+          "probability": 0.94
+        },
+        {
+          "word": "bộ",
+          "start": 17.48,
+          "end": 17.72,
+          "probability": 0.99
+        },
+        {
+          "word": "mưa",
+          "start": 17.72,
+          "end": 17.92,
+          "probability": 0.91
+        },
+        {
+          "word": "to,",
+          "start": 17.92,
+          "end": 18.36,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 18.54,
+      "end": 21.4,
+      "text": "nhìn độ từ 2.5 lĩnh 3.5 đủ xe.",
+      "words": [
+        {
+          "word": "nhìn",
+          "start": 18.54,
+          "end": 18.76,
+          "probability": 0.27
+        },
+        {
+          "word": "độ",
+          "start": 18.76,
+          "end": 19.0,
+          "probability": 0.61
+        },
+        {
+          "word": "từ",
+          "start": 19.0,
+          "end": 19.26,
+          "probability": 0.59
+        },
+        {
+          "word": "2",
+          "start": 19.26,
+          "end": 19.44,
+          "probability": 0.21
+        },
+        {
+          "word": ".5",
+          "start": 19.44,
+          "end": 19.94,
+          "probability": 0.43
+        },
+        {
+          "word": "lĩnh",
+          "start": 19.94,
+          "end": 20.2,
+          "probability": 0.5
+        },
+        {
+          "word": "3",
+          "start": 20.2,
+          "end": 20.38,
+          "probability": 0.19
+        },
+        {
+          "word": ".5",
+          "start": 20.38,
+          "end": 20.72,
+          "probability": 0.32
+        },
+        {
+          "word": "đủ",
+          "start": 20.72,
+          "end": 20.92,
+          "probability": 0.28
+        },
+        {
+          "word": "xe.",
+          "start": 20.92,
+          "end": 21.4,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 21.68,
+      "end": 26.82,
+      "text": "Người dân toàn vùng cần đặc biệt đi phòng lúc, sát, mưa đã và sổ dật mạy.",
+      "words": [
+        {
+          "word": "Người",
+          "start": 21.68,
+          "end": 21.86,
+          "probability": 0.71
+        },
+        {
+          "word": "dân",
+          "start": 21.86,
+          "end": 22.08,
+          "probability": 0.73
+        },
+        {
+          "word": "toàn",
+          "start": 22.08,
+          "end": 22.36,
+          "probability": 0.84
+        },
+        {
+          "word": "vùng",
+          "start": 22.36,
+          "end": 22.66,
+          "probability": 0.83
+        },
+        {
+          "word": "cần",
+          "start": 22.66,
+          "end": 22.98,
+          "probability": 0.4
+        },
+        {
+          "word": "đặc",
+          "start": 22.98,
+          "end": 23.24,
+          "probability": 0.86
+        },
+        {
+          "word": "biệt",
+          "start": 23.24,
+          "end": 23.46,
+          "probability": 0.69
+        },
+        {
+          "word": "đi",
+          "start": 23.46,
+          "end": 23.68,
+          "probability": 0.31
+        },
+        {
+          "word": "phòng",
+          "start": 23.68,
+          "end": 23.94,
+          "probability": 0.82
+        },
+        {
+          "word": "lúc,",
+          "start": 23.94,
+          "end": 24.46,
+          "probability": 0.41
+        },
+        {
+          "word": "sát,",
+          "start": 24.76,
+          "end": 24.98,
+          "probability": 0.41
+        },
+        {
+          "word": "mưa",
+          "start": 25.28,
+          "end": 25.4,
+          "probability": 0.89
+        },
+        {
+          "word": "đã",
+          "start": 25.4,
+          "end": 25.82,
+          "probability": 0.34
+        },
+        {
+          "word": "và",
+          "start": 25.82,
+          "end": 26.22,
+          "probability": 0.79
+        },
+        {
+          "word": "sổ",
+          "start": 26.22,
+          "end": 26.42,
+          "probability": 0.45
+        },
+        {
+          "word": "dật",
+          "start": 26.42,
+          "end": 26.62,
+          "probability": 0.29
+        },
+        {
+          "word": "mạy.",
+          "start": 26.62,
+          "end": 26.82,
+          "probability": 0.45
+        }
+      ]
+    }
+  ]
+}

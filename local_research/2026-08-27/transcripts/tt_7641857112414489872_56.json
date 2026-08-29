@@ -1,0 +1,620 @@
+{
+  "item_id": "tt_7641857112414489872_56",
+  "duration_seconds": 28.09,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 91,
+  "text": "Nói 2 có thể xong mi 3, cho người phần chăm mẹm chia thành 5 xong. Bình mấy đa xong món. Nếu xong 3, cho người phần chăm mẹm chia thành 5 xong, đặc biệt. Nói 3 có thể xong mi 3, cho người phần chăm mẹm chia thành 5 xong. Nói 3 có thể xong mi 3, cho người phần chăm mẹm chia thành 5 xong. Công phẩy 1, 2, 1, 2, 1. Đi nào bà, có chức trình này ở đây. Hãy gọi em để gọi là 1 xong.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.22,
+      "text": "Nói 2 có thể xong mi 3, cho người phần chăm mẹm chia thành 5 xong.",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.32
+        },
+        {
+          "word": "2",
+          "start": 0.4,
+          "end": 0.62,
+          "probability": 0.11
+        },
+        {
+          "word": "có",
+          "start": 0.62,
+          "end": 0.92,
+          "probability": 0.12
+        },
+        {
+          "word": "thể",
+          "start": 0.92,
+          "end": 1.1,
+          "probability": 0.2
+        },
+        {
+          "word": "xong",
+          "start": 1.1,
+          "end": 1.54,
+          "probability": 0.18
+        },
+        {
+          "word": "mi",
+          "start": 1.54,
+          "end": 1.74,
+          "probability": 0.11
+        },
+        {
+          "word": "3,",
+          "start": 1.74,
+          "end": 1.9,
+          "probability": 0.22
+        },
+        {
+          "word": "cho",
+          "start": 2.1,
+          "end": 2.18,
+          "probability": 0.07
+        },
+        {
+          "word": "người",
+          "start": 2.18,
+          "end": 2.64,
+          "probability": 0.06
+        },
+        {
+          "word": "phần",
+          "start": 2.64,
+          "end": 3.06,
+          "probability": 0.49
+        },
+        {
+          "word": "chăm",
+          "start": 3.06,
+          "end": 3.36,
+          "probability": 0.39
+        },
+        {
+          "word": "mẹm",
+          "start": 3.36,
+          "end": 3.44,
+          "probability": 0.25
+        },
+        {
+          "word": "chia",
+          "start": 3.44,
+          "end": 3.64,
+          "probability": 0.55
+        },
+        {
+          "word": "thành",
+          "start": 3.64,
+          "end": 3.86,
+          "probability": 0.2
+        },
+        {
+          "word": "5",
+          "start": 3.86,
+          "end": 4.02,
+          "probability": 0.28
+        },
+        {
+          "word": "xong.",
+          "start": 4.02,
+          "end": 4.22,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.5,
+      "end": 5.46,
+      "text": "Bình mấy đa xong món.",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 4.5,
+          "end": 4.66,
+          "probability": 0.31
+        },
+        {
+          "word": "mấy",
+          "start": 4.66,
+          "end": 4.82,
+          "probability": 0.35
+        },
+        {
+          "word": "đa",
+          "start": 4.82,
+          "end": 4.98,
+          "probability": 0.45
+        },
+        {
+          "word": "xong",
+          "start": 4.98,
+          "end": 5.08,
+          "probability": 0.8
+        },
+        {
+          "word": "món.",
+          "start": 5.08,
+          "end": 5.46,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.66,
+      "end": 9.16,
+      "text": "Nếu xong 3, cho người phần chăm mẹm chia thành 5 xong, đặc biệt.",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 5.66,
+          "end": 5.88,
+          "probability": 0.21
+        },
+        {
+          "word": "xong",
+          "start": 5.88,
+          "end": 6.12,
+          "probability": 0.53
+        },
+        {
+          "word": "3,",
+          "start": 6.12,
+          "end": 6.34,
+          "probability": 0.48
+        },
+        {
+          "word": "cho",
+          "start": 6.5,
+          "end": 6.6,
+          "probability": 0.5
+        },
+        {
+          "word": "người",
+          "start": 6.6,
+          "end": 6.82,
+          "probability": 0.94
+        },
+        {
+          "word": "phần",
+          "start": 6.82,
+          "end": 7.0,
+          "probability": 0.99
+        },
+        {
+          "word": "chăm",
+          "start": 7.0,
+          "end": 7.22,
+          "probability": 0.96
+        },
+        {
+          "word": "mẹm",
+          "start": 7.22,
+          "end": 7.3,
+          "probability": 0.87
+        },
+        {
+          "word": "chia",
+          "start": 7.3,
+          "end": 7.48,
+          "probability": 1.0
+        },
+        {
+          "word": "thành",
+          "start": 7.48,
+          "end": 7.74,
+          "probability": 0.48
+        },
+        {
+          "word": "5",
+          "start": 7.74,
+          "end": 8.3,
+          "probability": 0.31
+        },
+        {
+          "word": "xong,",
+          "start": 8.3,
+          "end": 8.56,
+          "probability": 0.71
+        },
+        {
+          "word": "đặc",
+          "start": 8.98,
+          "end": 9.0,
+          "probability": 0.09
+        },
+        {
+          "word": "biệt.",
+          "start": 9.0,
+          "end": 9.16,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.06,
+      "end": 14.78,
+      "text": "Nói 3 có thể xong mi 3, cho người phần chăm mẹm chia thành 5 xong.",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 10.06,
+          "end": 10.46,
+          "probability": 0.54
+        },
+        {
+          "word": "3",
+          "start": 10.46,
+          "end": 10.52,
+          "probability": 0.36
+        },
+        {
+          "word": "có",
+          "start": 10.52,
+          "end": 10.8,
+          "probability": 0.62
+        },
+        {
+          "word": "thể",
+          "start": 10.8,
+          "end": 12.3,
+          "probability": 0.85
+        },
+        {
+          "word": "xong",
+          "start": 12.3,
+          "end": 12.46,
+          "probability": 0.88
+        },
+        {
+          "word": "mi",
+          "start": 12.46,
+          "end": 12.66,
+          "probability": 0.6
+        },
+        {
+          "word": "3,",
+          "start": 12.66,
+          "end": 12.98,
+          "probability": 0.72
+        },
+        {
+          "word": "cho",
+          "start": 14.18,
+          "end": 14.2,
+          "probability": 0.89
+        },
+        {
+          "word": "người",
+          "start": 14.2,
+          "end": 14.5,
+          "probability": 0.63
+        },
+        {
+          "word": "phần",
+          "start": 14.5,
+          "end": 14.64,
+          "probability": 0.97
+        },
+        {
+          "word": "chăm",
+          "start": 14.64,
+          "end": 14.76,
+          "probability": 0.85
+        },
+        {
+          "word": "mẹm",
+          "start": 14.76,
+          "end": 14.76,
+          "probability": 0.96
+        },
+        {
+          "word": "chia",
+          "start": 14.76,
+          "end": 14.78,
+          "probability": 0.88
+        },
+        {
+          "word": "thành",
+          "start": 14.78,
+          "end": 14.78,
+          "probability": 0.41
+        },
+        {
+          "word": "5",
+          "start": 14.78,
+          "end": 14.78,
+          "probability": 0.76
+        },
+        {
+          "word": "xong.",
+          "start": 14.78,
+          "end": 14.78,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.78,
+      "end": 20.94,
+      "text": "Nói 3 có thể xong mi 3, cho người phần chăm mẹm chia thành 5 xong.",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 14.78,
+          "end": 14.78,
+          "probability": 0.63
+        },
+        {
+          "word": "3",
+          "start": 14.78,
+          "end": 14.78,
+          "probability": 0.55
+        },
+        {
+          "word": "có",
+          "start": 14.78,
+          "end": 14.78,
+          "probability": 0.66
+        },
+        {
+          "word": "thể",
+          "start": 14.78,
+          "end": 14.78,
+          "probability": 0.94
+        },
+        {
+          "word": "xong",
+          "start": 14.78,
+          "end": 14.78,
+          "probability": 0.88
+        },
+        {
+          "word": "mi",
+          "start": 14.78,
+          "end": 16.32,
+          "probability": 0.58
+        },
+        {
+          "word": "3,",
+          "start": 16.32,
+          "end": 16.88,
+          "probability": 0.68
+        },
+        {
+          "word": "cho",
+          "start": 17.82,
+          "end": 18.26,
+          "probability": 0.94
+        },
+        {
+          "word": "người",
+          "start": 18.26,
+          "end": 19.04,
+          "probability": 0.86
+        },
+        {
+          "word": "phần",
+          "start": 19.04,
+          "end": 19.2,
+          "probability": 0.99
+        },
+        {
+          "word": "chăm",
+          "start": 19.2,
+          "end": 19.42,
+          "probability": 0.93
+        },
+        {
+          "word": "mẹm",
+          "start": 19.42,
+          "end": 19.42,
+          "probability": 0.98
+        },
+        {
+          "word": "chia",
+          "start": 19.42,
+          "end": 19.42,
+          "probability": 0.99
+        },
+        {
+          "word": "thành",
+          "start": 19.42,
+          "end": 19.42,
+          "probability": 0.82
+        },
+        {
+          "word": "5",
+          "start": 19.42,
+          "end": 19.46,
+          "probability": 0.8
+        },
+        {
+          "word": "xong.",
+          "start": 19.46,
+          "end": 20.94,
+          "probability": 0.79
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 21.12,
+      "end": 22.72,
+      "text": "Công phẩy 1, 2, 1, 2, 1.",
+      "words": [
+        {
+          "word": "Công",
+          "start": 21.12,
+          "end": 21.24,
+          "probability": 0.04
+        },
+        {
+          "word": "phẩy",
+          "start": 21.24,
+          "end": 21.56,
+          "probability": 0.25
+        },
+        {
+          "word": "1,",
+          "start": 21.56,
+          "end": 21.86,
+          "probability": 0.3
+        },
+        {
+          "word": "2,",
+          "start": 22.2,
+          "end": 22.2,
+          "probability": 0.07
+        },
+        {
+          "word": "1,",
+          "start": 22.2,
+          "end": 22.2,
+          "probability": 0.31
+        },
+        {
+          "word": "2,",
+          "start": 22.3,
+          "end": 22.36,
+          "probability": 0.39
+        },
+        {
+          "word": "1.",
+          "start": 22.48,
+          "end": 22.72,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 23.04,
+      "end": 24.28,
+      "text": "Đi nào bà, có chức trình này ở đây.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 23.04,
+          "end": 23.44,
+          "probability": 0.05
+        },
+        {
+          "word": "nào",
+          "start": 23.44,
+          "end": 23.44,
+          "probability": 0.01
+        },
+        {
+          "word": "bà,",
+          "start": 23.44,
+          "end": 23.64,
+          "probability": 0.26
+        },
+        {
+          "word": "có",
+          "start": 23.82,
+          "end": 23.86,
+          "probability": 0.07
+        },
+        {
+          "word": "chức",
+          "start": 23.86,
+          "end": 23.92,
+          "probability": 0.15
+        },
+        {
+          "word": "trình",
+          "start": 23.92,
+          "end": 24.06,
+          "probability": 0.32
+        },
+        {
+          "word": "này",
+          "start": 24.06,
+          "end": 24.14,
+          "probability": 0.28
+        },
+        {
+          "word": "ở",
+          "start": 24.14,
+          "end": 24.2,
+          "probability": 0.13
+        },
+        {
+          "word": "đây.",
+          "start": 24.2,
+          "end": 24.28,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 25.1,
+      "end": 27.84,
+      "text": "Hãy gọi em để gọi là 1 xong.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 25.1,
+          "end": 25.38,
+          "probability": 0.22
+        },
+        {
+          "word": "gọi",
+          "start": 25.38,
+          "end": 25.62,
+          "probability": 0.17
+        },
+        {
+          "word": "em",
+          "start": 25.62,
+          "end": 25.74,
+          "probability": 0.25
+        },
+        {
+          "word": "để",
+          "start": 25.74,
+          "end": 25.94,
+          "probability": 0.2
+        },
+        {
+          "word": "gọi",
+          "start": 25.94,
+          "end": 26.44,
+          "probability": 0.55
+        },
+        {
+          "word": "là",
+          "start": 26.44,
+          "end": 26.64,
+          "probability": 0.12
+        },
+        {
+          "word": "1",
+          "start": 26.64,
+          "end": 27.1,
+          "probability": 0.37
+        },
+        {
+          "word": "xong.",
+          "start": 27.1,
+          "end": 27.84,
+          "probability": 0.72
+        }
+      ]
+    }
+  ]
+}

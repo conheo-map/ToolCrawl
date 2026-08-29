@@ -1,0 +1,614 @@
+{
+  "item_id": "tt_7662652737955417362_03",
+  "duration_seconds": 29.69,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 90,
+  "text": "Cái nào nó tình ơn? Mùa sẽ á lộp lý xin giám tà ngờ về dây. Bỏa. Bà mất từ khi hướng mấy học lớp một mục miệng mẹ đánh thác đôi 2 chiến. Nguồn chỉ gái mắt chúng mức chợp phát triển, lúc dưới lúc quên. Mùa mẹ thì lại mang cho mình cắt bệnh suy thật, sức quả hiệp quệ. Bồn sống vi nhất của gia đình ở thành phố đất đò này, tương phút thuộc vào mùa tảm hàn độc tình công soại lúc gà mỗi ngày.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.44,
+      "text": "Cái nào nó tình ơn?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.0,
+          "end": 0.58,
+          "probability": 0.33
+        },
+        {
+          "word": "nào",
+          "start": 0.58,
+          "end": 0.8,
+          "probability": 0.85
+        },
+        {
+          "word": "nó",
+          "start": 0.8,
+          "end": 1.04,
+          "probability": 0.15
+        },
+        {
+          "word": "tình",
+          "start": 1.04,
+          "end": 1.22,
+          "probability": 0.38
+        },
+        {
+          "word": "ơn?",
+          "start": 1.22,
+          "end": 1.44,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.04,
+      "end": 4.94,
+      "text": "Mùa sẽ á lộp lý xin giám tà ngờ về dây.",
+      "words": [
+        {
+          "word": "Mùa",
+          "start": 2.04,
+          "end": 2.52,
+          "probability": 0.22
+        },
+        {
+          "word": "sẽ",
+          "start": 2.52,
+          "end": 2.64,
+          "probability": 0.31
+        },
+        {
+          "word": "á",
+          "start": 2.64,
+          "end": 2.88,
+          "probability": 0.39
+        },
+        {
+          "word": "lộp",
+          "start": 2.88,
+          "end": 3.04,
+          "probability": 0.28
+        },
+        {
+          "word": "lý",
+          "start": 3.04,
+          "end": 3.2,
+          "probability": 0.1
+        },
+        {
+          "word": "xin",
+          "start": 3.2,
+          "end": 3.3,
+          "probability": 0.18
+        },
+        {
+          "word": "giám",
+          "start": 3.3,
+          "end": 3.74,
+          "probability": 0.21
+        },
+        {
+          "word": "tà",
+          "start": 3.74,
+          "end": 3.98,
+          "probability": 0.29
+        },
+        {
+          "word": "ngờ",
+          "start": 3.98,
+          "end": 4.32,
+          "probability": 0.14
+        },
+        {
+          "word": "về",
+          "start": 4.32,
+          "end": 4.54,
+          "probability": 0.19
+        },
+        {
+          "word": "dây.",
+          "start": 4.54,
+          "end": 4.94,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.28,
+      "end": 6.76,
+      "text": "Bỏa.",
+      "words": [
+        {
+          "word": "Bỏa.",
+          "start": 6.28,
+          "end": 6.76,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.76,
+      "end": 11.9,
+      "text": "Bà mất từ khi hướng mấy học lớp một mục miệng mẹ đánh thác đôi 2 chiến.",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 6.76,
+          "end": 7.24,
+          "probability": 0.62
+        },
+        {
+          "word": "mất",
+          "start": 7.24,
+          "end": 7.56,
+          "probability": 0.87
+        },
+        {
+          "word": "từ",
+          "start": 7.56,
+          "end": 7.98,
+          "probability": 0.79
+        },
+        {
+          "word": "khi",
+          "start": 7.98,
+          "end": 8.2,
+          "probability": 0.89
+        },
+        {
+          "word": "hướng",
+          "start": 8.2,
+          "end": 8.48,
+          "probability": 0.65
+        },
+        {
+          "word": "mấy",
+          "start": 8.48,
+          "end": 8.68,
+          "probability": 0.35
+        },
+        {
+          "word": "học",
+          "start": 8.68,
+          "end": 8.84,
+          "probability": 0.85
+        },
+        {
+          "word": "lớp",
+          "start": 8.84,
+          "end": 9.04,
+          "probability": 0.86
+        },
+        {
+          "word": "một",
+          "start": 9.04,
+          "end": 9.46,
+          "probability": 0.47
+        },
+        {
+          "word": "mục",
+          "start": 9.46,
+          "end": 10.2,
+          "probability": 0.13
+        },
+        {
+          "word": "miệng",
+          "start": 10.2,
+          "end": 10.2,
+          "probability": 0.61
+        },
+        {
+          "word": "mẹ",
+          "start": 10.2,
+          "end": 10.4,
+          "probability": 0.7
+        },
+        {
+          "word": "đánh",
+          "start": 10.4,
+          "end": 10.64,
+          "probability": 0.37
+        },
+        {
+          "word": "thác",
+          "start": 10.64,
+          "end": 10.86,
+          "probability": 0.43
+        },
+        {
+          "word": "đôi",
+          "start": 10.86,
+          "end": 11.16,
+          "probability": 0.26
+        },
+        {
+          "word": "2",
+          "start": 11.16,
+          "end": 11.42,
+          "probability": 0.34
+        },
+        {
+          "word": "chiến.",
+          "start": 11.42,
+          "end": 11.9,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.52,
+      "end": 16.64,
+      "text": "Nguồn chỉ gái mắt chúng mức chợp phát triển, lúc dưới lúc quên.",
+      "words": [
+        {
+          "word": "Nguồn",
+          "start": 12.52,
+          "end": 12.64,
+          "probability": 0.32
+        },
+        {
+          "word": "chỉ",
+          "start": 12.64,
+          "end": 13.04,
+          "probability": 0.27
+        },
+        {
+          "word": "gái",
+          "start": 13.04,
+          "end": 13.38,
+          "probability": 0.82
+        },
+        {
+          "word": "mắt",
+          "start": 13.38,
+          "end": 13.74,
+          "probability": 0.47
+        },
+        {
+          "word": "chúng",
+          "start": 13.74,
+          "end": 13.92,
+          "probability": 0.4
+        },
+        {
+          "word": "mức",
+          "start": 13.92,
+          "end": 14.08,
+          "probability": 0.23
+        },
+        {
+          "word": "chợp",
+          "start": 14.08,
+          "end": 14.26,
+          "probability": 0.39
+        },
+        {
+          "word": "phát",
+          "start": 14.26,
+          "end": 14.56,
+          "probability": 0.71
+        },
+        {
+          "word": "triển,",
+          "start": 14.56,
+          "end": 14.94,
+          "probability": 0.77
+        },
+        {
+          "word": "lúc",
+          "start": 15.32,
+          "end": 15.42,
+          "probability": 0.83
+        },
+        {
+          "word": "dưới",
+          "start": 15.42,
+          "end": 15.8,
+          "probability": 0.46
+        },
+        {
+          "word": "lúc",
+          "start": 15.8,
+          "end": 16.3,
+          "probability": 0.59
+        },
+        {
+          "word": "quên.",
+          "start": 16.3,
+          "end": 16.64,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 17.48,
+      "end": 21.44,
+      "text": "Mùa mẹ thì lại mang cho mình cắt bệnh suy thật, sức quả hiệp quệ.",
+      "words": [
+        {
+          "word": "Mùa",
+          "start": 17.48,
+          "end": 17.56,
+          "probability": 0.23
+        },
+        {
+          "word": "mẹ",
+          "start": 17.56,
+          "end": 18.0,
+          "probability": 0.86
+        },
+        {
+          "word": "thì",
+          "start": 18.0,
+          "end": 18.24,
+          "probability": 0.42
+        },
+        {
+          "word": "lại",
+          "start": 18.24,
+          "end": 18.44,
+          "probability": 0.71
+        },
+        {
+          "word": "mang",
+          "start": 18.44,
+          "end": 18.68,
+          "probability": 0.72
+        },
+        {
+          "word": "cho",
+          "start": 18.68,
+          "end": 18.84,
+          "probability": 0.82
+        },
+        {
+          "word": "mình",
+          "start": 18.84,
+          "end": 19.06,
+          "probability": 0.84
+        },
+        {
+          "word": "cắt",
+          "start": 19.06,
+          "end": 19.24,
+          "probability": 0.33
+        },
+        {
+          "word": "bệnh",
+          "start": 19.24,
+          "end": 19.46,
+          "probability": 0.75
+        },
+        {
+          "word": "suy",
+          "start": 19.46,
+          "end": 19.68,
+          "probability": 0.65
+        },
+        {
+          "word": "thật,",
+          "start": 19.68,
+          "end": 20.14,
+          "probability": 0.65
+        },
+        {
+          "word": "sức",
+          "start": 20.42,
+          "end": 20.54,
+          "probability": 0.7
+        },
+        {
+          "word": "quả",
+          "start": 20.54,
+          "end": 20.78,
+          "probability": 0.34
+        },
+        {
+          "word": "hiệp",
+          "start": 20.78,
+          "end": 21.1,
+          "probability": 0.45
+        },
+        {
+          "word": "quệ.",
+          "start": 21.1,
+          "end": 21.44,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 22.24,
+      "end": 25.1,
+      "text": "Bồn sống vi nhất của gia đình ở thành phố đất đò này,",
+      "words": [
+        {
+          "word": "Bồn",
+          "start": 22.24,
+          "end": 22.54,
+          "probability": 0.44
+        },
+        {
+          "word": "sống",
+          "start": 22.54,
+          "end": 22.74,
+          "probability": 0.72
+        },
+        {
+          "word": "vi",
+          "start": 22.74,
+          "end": 22.98,
+          "probability": 0.36
+        },
+        {
+          "word": "nhất",
+          "start": 22.98,
+          "end": 23.2,
+          "probability": 0.73
+        },
+        {
+          "word": "của",
+          "start": 23.2,
+          "end": 23.38,
+          "probability": 0.96
+        },
+        {
+          "word": "gia",
+          "start": 23.38,
+          "end": 23.56,
+          "probability": 0.45
+        },
+        {
+          "word": "đình",
+          "start": 23.56,
+          "end": 23.7,
+          "probability": 0.9
+        },
+        {
+          "word": "ở",
+          "start": 23.7,
+          "end": 23.9,
+          "probability": 0.28
+        },
+        {
+          "word": "thành",
+          "start": 23.9,
+          "end": 24.08,
+          "probability": 0.86
+        },
+        {
+          "word": "phố",
+          "start": 24.08,
+          "end": 24.24,
+          "probability": 0.92
+        },
+        {
+          "word": "đất",
+          "start": 24.24,
+          "end": 24.5,
+          "probability": 0.43
+        },
+        {
+          "word": "đò",
+          "start": 24.5,
+          "end": 24.7,
+          "probability": 0.54
+        },
+        {
+          "word": "này,",
+          "start": 24.7,
+          "end": 25.1,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 25.3,
+      "end": 29.16,
+      "text": "tương phút thuộc vào mùa tảm hàn độc tình công soại lúc gà mỗi ngày.",
+      "words": [
+        {
+          "word": "tương",
+          "start": 25.3,
+          "end": 25.46,
+          "probability": 0.54
+        },
+        {
+          "word": "phút",
+          "start": 25.46,
+          "end": 25.66,
+          "probability": 0.61
+        },
+        {
+          "word": "thuộc",
+          "start": 25.66,
+          "end": 25.9,
+          "probability": 0.81
+        },
+        {
+          "word": "vào",
+          "start": 25.9,
+          "end": 26.24,
+          "probability": 0.54
+        },
+        {
+          "word": "mùa",
+          "start": 26.24,
+          "end": 26.54,
+          "probability": 0.34
+        },
+        {
+          "word": "tảm",
+          "start": 26.54,
+          "end": 26.88,
+          "probability": 0.55
+        },
+        {
+          "word": "hàn",
+          "start": 26.88,
+          "end": 27.02,
+          "probability": 0.51
+        },
+        {
+          "word": "độc",
+          "start": 27.02,
+          "end": 27.34,
+          "probability": 0.6
+        },
+        {
+          "word": "tình",
+          "start": 27.34,
+          "end": 27.48,
+          "probability": 0.32
+        },
+        {
+          "word": "công",
+          "start": 27.48,
+          "end": 27.8,
+          "probability": 0.85
+        },
+        {
+          "word": "soại",
+          "start": 27.8,
+          "end": 28.16,
+          "probability": 0.18
+        },
+        {
+          "word": "lúc",
+          "start": 28.16,
+          "end": 28.38,
+          "probability": 0.5
+        },
+        {
+          "word": "gà",
+          "start": 28.38,
+          "end": 28.66,
+          "probability": 0.4
+        },
+        {
+          "word": "mỗi",
+          "start": 28.66,
+          "end": 28.86,
+          "probability": 0.46
+        },
+        {
+          "word": "ngày.",
+          "start": 28.86,
+          "end": 29.16,
+          "probability": 0.71
+        }
+      ]
+    }
+  ]
+}

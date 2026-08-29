@@ -1,0 +1,138 @@
+{
+  "item_id": "tt_7637711224699948305_06",
+  "duration_seconds": 8.26,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 16,
+  "text": "Đó là một cái cái này ở quán ghi kênh Chúc nhớ xem đất bịt gì",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.65,
+      "end": 3.69,
+      "text": "Đó là một cái cái này",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 1.65,
+          "end": 2.33,
+          "probability": 0.15
+        },
+        {
+          "word": "là",
+          "start": 2.33,
+          "end": 2.55,
+          "probability": 0.11
+        },
+        {
+          "word": "một",
+          "start": 2.55,
+          "end": 2.89,
+          "probability": 0.08
+        },
+        {
+          "word": "cái",
+          "start": 2.89,
+          "end": 2.89,
+          "probability": 0.16
+        },
+        {
+          "word": "cái",
+          "start": 2.89,
+          "end": 3.07,
+          "probability": 0.15
+        },
+        {
+          "word": "này",
+          "start": 3.07,
+          "end": 3.69,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.69,
+      "end": 5.93,
+      "text": "ở quán ghi kênh",
+      "words": [
+        {
+          "word": "ở",
+          "start": 3.69,
+          "end": 4.11,
+          "probability": 0.04
+        },
+        {
+          "word": "quán",
+          "start": 4.11,
+          "end": 5.35,
+          "probability": 0.23
+        },
+        {
+          "word": "ghi",
+          "start": 5.35,
+          "end": 5.69,
+          "probability": 0.09
+        },
+        {
+          "word": "kênh",
+          "start": 5.69,
+          "end": 5.93,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.93,
+      "end": 6.97,
+      "text": "Chúc",
+      "words": [
+        {
+          "word": "Chúc",
+          "start": 5.93,
+          "end": 6.97,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.97,
+      "end": 8.23,
+      "text": "nhớ xem đất bịt gì",
+      "words": [
+        {
+          "word": "nhớ",
+          "start": 6.97,
+          "end": 7.35,
+          "probability": 0.07
+        },
+        {
+          "word": "xem",
+          "start": 7.35,
+          "end": 7.53,
+          "probability": 0.07
+        },
+        {
+          "word": "đất",
+          "start": 7.53,
+          "end": 7.77,
+          "probability": 0.07
+        },
+        {
+          "word": "bịt",
+          "start": 7.77,
+          "end": 7.87,
+          "probability": 0.17
+        },
+        {
+          "word": "gì",
+          "start": 7.87,
+          "end": 8.23,
+          "probability": 0.18
+        }
+      ]
+    }
+  ]
+}

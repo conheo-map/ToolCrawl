@@ -1,0 +1,570 @@
+{
+  "item_id": "tt_7667430991333723413_02",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 84,
+  "text": "Bún lành đồng giới thì nè, giả tất ngốc dầu thầm của empun, chàng tỏa lòng như thế này. Nó không nhiều tinh đồng đi, nó chết khật kẻ xen như. Mó lành đồng già empun, chờ, chả quả trời quả trời, chờ lòng như thế này. Chết khỏe sẽ có em tinh, sẽ có em xen nhỏ. Nhiều sẽ đám nền, cũng cầu mắm trời. Lần 3 bức khảo cho đi thỏi mãi chút. Đi loại xe, mà gặp đứng nhạc khó bột.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 9.53,
+      "text": "Bún lành đồng giới thì nè, giả tất ngốc dầu thầm của empun, chàng tỏa lòng như thế này.",
+      "words": [
+        {
+          "word": "Bún",
+          "start": 0.11,
+          "end": 0.67,
+          "probability": 0.19
+        },
+        {
+          "word": "lành",
+          "start": 0.67,
+          "end": 0.99,
+          "probability": 0.29
+        },
+        {
+          "word": "đồng",
+          "start": 0.99,
+          "end": 2.39,
+          "probability": 0.13
+        },
+        {
+          "word": "giới",
+          "start": 2.39,
+          "end": 2.81,
+          "probability": 0.38
+        },
+        {
+          "word": "thì",
+          "start": 2.81,
+          "end": 4.07,
+          "probability": 0.2
+        },
+        {
+          "word": "nè,",
+          "start": 4.07,
+          "end": 4.83,
+          "probability": 0.25
+        },
+        {
+          "word": "giả",
+          "start": 4.83,
+          "end": 4.83,
+          "probability": 0.29
+        },
+        {
+          "word": "tất",
+          "start": 4.83,
+          "end": 5.03,
+          "probability": 0.53
+        },
+        {
+          "word": "ngốc",
+          "start": 5.03,
+          "end": 5.89,
+          "probability": 0.15
+        },
+        {
+          "word": "dầu",
+          "start": 5.89,
+          "end": 6.17,
+          "probability": 0.22
+        },
+        {
+          "word": "thầm",
+          "start": 6.17,
+          "end": 6.43,
+          "probability": 0.83
+        },
+        {
+          "word": "của",
+          "start": 6.43,
+          "end": 6.77,
+          "probability": 0.43
+        },
+        {
+          "word": "empun,",
+          "start": 6.77,
+          "end": 7.47,
+          "probability": 0.17
+        },
+        {
+          "word": "chàng",
+          "start": 7.61,
+          "end": 7.87,
+          "probability": 0.18
+        },
+        {
+          "word": "tỏa",
+          "start": 7.87,
+          "end": 8.03,
+          "probability": 0.15
+        },
+        {
+          "word": "lòng",
+          "start": 8.03,
+          "end": 8.47,
+          "probability": 0.09
+        },
+        {
+          "word": "như",
+          "start": 8.47,
+          "end": 8.81,
+          "probability": 0.15
+        },
+        {
+          "word": "thế",
+          "start": 8.81,
+          "end": 9.53,
+          "probability": 0.54
+        },
+        {
+          "word": "này.",
+          "start": 9.53,
+          "end": 9.53,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 10.11,
+      "end": 12.39,
+      "text": "Nó không nhiều tinh đồng đi, nó chết khật kẻ xen như.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 10.11,
+          "end": 10.11,
+          "probability": 0.53
+        },
+        {
+          "word": "không",
+          "start": 10.11,
+          "end": 10.29,
+          "probability": 0.42
+        },
+        {
+          "word": "nhiều",
+          "start": 10.29,
+          "end": 10.45,
+          "probability": 0.67
+        },
+        {
+          "word": "tinh",
+          "start": 10.45,
+          "end": 10.67,
+          "probability": 0.25
+        },
+        {
+          "word": "đồng",
+          "start": 10.67,
+          "end": 10.89,
+          "probability": 0.28
+        },
+        {
+          "word": "đi,",
+          "start": 10.89,
+          "end": 11.05,
+          "probability": 0.23
+        },
+        {
+          "word": "nó",
+          "start": 11.07,
+          "end": 11.29,
+          "probability": 0.41
+        },
+        {
+          "word": "chết",
+          "start": 11.29,
+          "end": 11.41,
+          "probability": 0.36
+        },
+        {
+          "word": "khật",
+          "start": 11.41,
+          "end": 11.57,
+          "probability": 0.22
+        },
+        {
+          "word": "kẻ",
+          "start": 11.57,
+          "end": 11.77,
+          "probability": 0.68
+        },
+        {
+          "word": "xen",
+          "start": 11.77,
+          "end": 11.99,
+          "probability": 0.36
+        },
+        {
+          "word": "như.",
+          "start": 11.99,
+          "end": 12.39,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.69,
+      "end": 18.23,
+      "text": "Mó lành đồng già empun, chờ, chả quả trời quả trời, chờ lòng như thế này.",
+      "words": [
+        {
+          "word": "Mó",
+          "start": 12.69,
+          "end": 12.91,
+          "probability": 0.43
+        },
+        {
+          "word": "lành",
+          "start": 12.91,
+          "end": 13.69,
+          "probability": 0.5
+        },
+        {
+          "word": "đồng",
+          "start": 13.69,
+          "end": 13.89,
+          "probability": 0.47
+        },
+        {
+          "word": "già",
+          "start": 13.89,
+          "end": 14.37,
+          "probability": 0.24
+        },
+        {
+          "word": "empun,",
+          "start": 14.37,
+          "end": 14.75,
+          "probability": 0.94
+        },
+        {
+          "word": "chờ,",
+          "start": 15.03,
+          "end": 15.11,
+          "probability": 0.24
+        },
+        {
+          "word": "chả",
+          "start": 15.13,
+          "end": 16.75,
+          "probability": 0.16
+        },
+        {
+          "word": "quả",
+          "start": 16.75,
+          "end": 16.87,
+          "probability": 0.29
+        },
+        {
+          "word": "trời",
+          "start": 16.87,
+          "end": 16.87,
+          "probability": 0.26
+        },
+        {
+          "word": "quả",
+          "start": 16.87,
+          "end": 16.99,
+          "probability": 0.52
+        },
+        {
+          "word": "trời,",
+          "start": 16.99,
+          "end": 17.21,
+          "probability": 0.98
+        },
+        {
+          "word": "chờ",
+          "start": 17.27,
+          "end": 17.53,
+          "probability": 0.47
+        },
+        {
+          "word": "lòng",
+          "start": 17.53,
+          "end": 17.61,
+          "probability": 0.57
+        },
+        {
+          "word": "như",
+          "start": 17.61,
+          "end": 17.61,
+          "probability": 0.44
+        },
+        {
+          "word": "thế",
+          "start": 17.61,
+          "end": 17.93,
+          "probability": 0.87
+        },
+        {
+          "word": "này.",
+          "start": 17.93,
+          "end": 18.23,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 18.53,
+      "end": 21.59,
+      "text": "Chết khỏe sẽ có em tinh, sẽ có em xen nhỏ.",
+      "words": [
+        {
+          "word": "Chết",
+          "start": 18.53,
+          "end": 18.97,
+          "probability": 0.17
+        },
+        {
+          "word": "khỏe",
+          "start": 18.97,
+          "end": 19.23,
+          "probability": 0.49
+        },
+        {
+          "word": "sẽ",
+          "start": 19.23,
+          "end": 19.41,
+          "probability": 0.12
+        },
+        {
+          "word": "có",
+          "start": 19.41,
+          "end": 19.83,
+          "probability": 0.27
+        },
+        {
+          "word": "em",
+          "start": 19.83,
+          "end": 19.83,
+          "probability": 0.18
+        },
+        {
+          "word": "tinh,",
+          "start": 19.83,
+          "end": 19.85,
+          "probability": 0.17
+        },
+        {
+          "word": "sẽ",
+          "start": 20.17,
+          "end": 20.35,
+          "probability": 0.35
+        },
+        {
+          "word": "có",
+          "start": 20.35,
+          "end": 20.53,
+          "probability": 0.69
+        },
+        {
+          "word": "em",
+          "start": 20.53,
+          "end": 20.87,
+          "probability": 0.98
+        },
+        {
+          "word": "xen",
+          "start": 20.87,
+          "end": 20.87,
+          "probability": 0.54
+        },
+        {
+          "word": "nhỏ.",
+          "start": 20.87,
+          "end": 21.59,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 21.91,
+      "end": 25.63,
+      "text": "Nhiều sẽ đám nền, cũng cầu mắm trời.",
+      "words": [
+        {
+          "word": "Nhiều",
+          "start": 21.91,
+          "end": 22.27,
+          "probability": 0.49
+        },
+        {
+          "word": "sẽ",
+          "start": 22.27,
+          "end": 22.41,
+          "probability": 0.12
+        },
+        {
+          "word": "đám",
+          "start": 22.41,
+          "end": 22.63,
+          "probability": 0.24
+        },
+        {
+          "word": "nền,",
+          "start": 22.63,
+          "end": 23.05,
+          "probability": 0.09
+        },
+        {
+          "word": "cũng",
+          "start": 23.73,
+          "end": 23.87,
+          "probability": 0.34
+        },
+        {
+          "word": "cầu",
+          "start": 23.87,
+          "end": 24.05,
+          "probability": 0.28
+        },
+        {
+          "word": "mắm",
+          "start": 24.05,
+          "end": 24.27,
+          "probability": 0.34
+        },
+        {
+          "word": "trời.",
+          "start": 24.27,
+          "end": 25.63,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 25.63,
+      "end": 27.63,
+      "text": "Lần 3 bức khảo cho đi thỏi mãi chút.",
+      "words": [
+        {
+          "word": "Lần",
+          "start": 25.63,
+          "end": 25.95,
+          "probability": 0.2
+        },
+        {
+          "word": "3",
+          "start": 25.95,
+          "end": 26.13,
+          "probability": 0.1
+        },
+        {
+          "word": "bức",
+          "start": 26.13,
+          "end": 26.35,
+          "probability": 0.26
+        },
+        {
+          "word": "khảo",
+          "start": 26.35,
+          "end": 26.45,
+          "probability": 0.31
+        },
+        {
+          "word": "cho",
+          "start": 26.45,
+          "end": 26.67,
+          "probability": 0.23
+        },
+        {
+          "word": "đi",
+          "start": 26.67,
+          "end": 26.79,
+          "probability": 0.65
+        },
+        {
+          "word": "thỏi",
+          "start": 26.79,
+          "end": 27.01,
+          "probability": 0.13
+        },
+        {
+          "word": "mãi",
+          "start": 27.01,
+          "end": 27.23,
+          "probability": 0.59
+        },
+        {
+          "word": "chút.",
+          "start": 27.23,
+          "end": 27.63,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 27.63,
+      "end": 29.97,
+      "text": "Đi loại xe, mà gặp đứng nhạc khó bột.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 27.63,
+          "end": 28.01,
+          "probability": 0.18
+        },
+        {
+          "word": "loại",
+          "start": 28.01,
+          "end": 28.35,
+          "probability": 0.12
+        },
+        {
+          "word": "xe,",
+          "start": 28.35,
+          "end": 28.61,
+          "probability": 0.22
+        },
+        {
+          "word": "mà",
+          "start": 28.83,
+          "end": 28.95,
+          "probability": 0.11
+        },
+        {
+          "word": "gặp",
+          "start": 28.95,
+          "end": 29.21,
+          "probability": 0.46
+        },
+        {
+          "word": "đứng",
+          "start": 29.21,
+          "end": 29.43,
+          "probability": 0.27
+        },
+        {
+          "word": "nhạc",
+          "start": 29.43,
+          "end": 29.75,
+          "probability": 0.67
+        },
+        {
+          "word": "khó",
+          "start": 29.75,
+          "end": 29.85,
+          "probability": 0.12
+        },
+        {
+          "word": "bột.",
+          "start": 29.85,
+          "end": 29.97,
+          "probability": 0.27
+        }
+      ]
+    }
+  ]
+}

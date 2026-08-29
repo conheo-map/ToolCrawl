@@ -1,0 +1,130 @@
+{
+  "item_id": "tt_7618903173251468561",
+  "duration_seconds": 19.77,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 16,
+  "text": "Vào tình chào tình chào và phía rời Chào tình chào và phía rời Cái gì?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Vào tình chào tình chào và phía rời",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 0.0,
+          "end": 0.6,
+          "probability": 0.27
+        },
+        {
+          "word": "tình",
+          "start": 0.6,
+          "end": 0.96,
+          "probability": 0.14
+        },
+        {
+          "word": "chào",
+          "start": 0.96,
+          "end": 1.36,
+          "probability": 0.49
+        },
+        {
+          "word": "tình",
+          "start": 1.36,
+          "end": 1.74,
+          "probability": 0.49
+        },
+        {
+          "word": "chào",
+          "start": 1.74,
+          "end": 2.2,
+          "probability": 0.52
+        },
+        {
+          "word": "và",
+          "start": 2.2,
+          "end": 2.2,
+          "probability": 0.03
+        },
+        {
+          "word": "phía",
+          "start": 2.2,
+          "end": 2.2,
+          "probability": 0.11
+        },
+        {
+          "word": "rời",
+          "start": 2.2,
+          "end": 2.6,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.4,
+      "end": 7.48,
+      "text": "Chào tình chào và phía rời",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 6.4,
+          "end": 6.8,
+          "probability": 0.27
+        },
+        {
+          "word": "tình",
+          "start": 6.8,
+          "end": 6.92,
+          "probability": 0.52
+        },
+        {
+          "word": "chào",
+          "start": 6.92,
+          "end": 6.94,
+          "probability": 0.83
+        },
+        {
+          "word": "và",
+          "start": 6.94,
+          "end": 6.94,
+          "probability": 0.39
+        },
+        {
+          "word": "phía",
+          "start": 6.94,
+          "end": 6.94,
+          "probability": 1.0
+        },
+        {
+          "word": "rời",
+          "start": 6.94,
+          "end": 7.48,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.48,
+      "end": 8.6,
+      "text": "Cái gì?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 7.48,
+          "end": 8.24,
+          "probability": 0.08
+        },
+        {
+          "word": "gì?",
+          "start": 8.24,
+          "end": 8.6,
+          "probability": 0.57
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7654958829310086421_05",
+  "duration_seconds": 29.98,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Bạn xây không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.95,
+      "end": 4.67,
+      "text": "Bạn xây không?",
+      "words": [
+        {
+          "word": "Bạn",
+          "start": 3.95,
+          "end": 4.23,
+          "probability": 0.2
+        },
+        {
+          "word": "xây",
+          "start": 4.23,
+          "end": 4.37,
+          "probability": 0.47
+        },
+        {
+          "word": "không?",
+          "start": 4.37,
+          "end": 4.67,
+          "probability": 0.14
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+{
+  "item_id": "tt_7641421204712131858_01",
+  "duration_seconds": 29.19,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 112,
+  "text": "có trái đi hết còn mình đưa gái ràng ta mình ngoài Chỉ có trảm bác khổ sân gần bú như mấy ông Chỉ không biết bác tò đồ nào Chỉ thấy bác khổ đầy rất mì Lát qua bán Nãy có mấy ông của đổi Một tóc của lòng cửa lúc mấy con phim đàn quái Bác hồ sân mình, trởi bác đàn làm việc xa chói thế này Các cổ trù đồ xói thế này Mì sao quá? Chứ hồ sân thì bác hồ sân Cậu đi thế Ở tôi tảm mươi Thiu tương ứng hồ xí hậu Nguyện cuộc chiều không có tính tế Bác tò đồ xói hậu",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.16,
+      "text": "có trái đi hết còn mình đưa gái ràng ta mình ngoài",
+      "words": [
+        {
+          "word": "có",
+          "start": 0.0,
+          "end": 0.04,
+          "probability": 0.01
+        },
+        {
+          "word": "trái",
+          "start": 0.04,
+          "end": 2.02,
+          "probability": 0.33
+        },
+        {
+          "word": "đi",
+          "start": 2.02,
+          "end": 2.16,
+          "probability": 0.26
+        },
+        {
+          "word": "hết",
+          "start": 2.16,
+          "end": 2.38,
+          "probability": 0.1
+        },
+        {
+          "word": "còn",
+          "start": 2.38,
+          "end": 2.52,
+          "probability": 0.61
+        },
+        {
+          "word": "mình",
+          "start": 2.52,
+          "end": 2.68,
+          "probability": 0.65
+        },
+        {
+          "word": "đưa",
+          "start": 2.68,
+          "end": 2.82,
+          "probability": 0.16
+        },
+        {
+          "word": "gái",
+          "start": 2.82,
+          "end": 3.06,
+          "probability": 0.21
+        },
+        {
+          "word": "ràng",
+          "start": 3.06,
+          "end": 3.16,
+          "probability": 0.13
+        },
+        {
+          "word": "ta",
+          "start": 3.16,
+          "end": 3.26,
+          "probability": 0.19
+        },
+        {
+          "word": "mình",
+          "start": 3.26,
+          "end": 3.44,
+          "probability": 0.57
+        },
+        {
+          "word": "ngoài",
+          "start": 3.44,
+          "end": 4.16,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.16,
+      "end": 6.42,
+      "text": "Chỉ có trảm bác khổ sân gần bú như mấy ông",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 4.16,
+          "end": 4.6,
+          "probability": 0.29
+        },
+        {
+          "word": "có",
+          "start": 4.6,
+          "end": 4.72,
+          "probability": 0.35
+        },
+        {
+          "word": "trảm",
+          "start": 4.72,
+          "end": 4.88,
+          "probability": 0.32
+        },
+        {
+          "word": "bác",
+          "start": 4.88,
+          "end": 5.04,
+          "probability": 0.54
+        },
+        {
+          "word": "khổ",
+          "start": 5.04,
+          "end": 5.24,
+          "probability": 0.4
+        },
+        {
+          "word": "sân",
+          "start": 5.24,
+          "end": 5.44,
+          "probability": 0.23
+        },
+        {
+          "word": "gần",
+          "start": 5.44,
+          "end": 5.66,
+          "probability": 0.21
+        },
+        {
+          "word": "bú",
+          "start": 5.66,
+          "end": 5.82,
+          "probability": 0.37
+        },
+        {
+          "word": "như",
+          "start": 5.82,
+          "end": 6.0,
+          "probability": 0.12
+        },
+        {
+          "word": "mấy",
+          "start": 6.0,
+          "end": 6.22,
+          "probability": 0.32
+        },
+        {
+          "word": "ông",
+          "start": 6.22,
+          "end": 6.42,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.42,
+      "end": 8.68,
+      "text": "Chỉ không biết bác tò đồ nào",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 6.42,
+          "end": 6.64,
+          "probability": 0.5
+        },
+        {
+          "word": "không",
+          "start": 6.64,
+          "end": 6.88,
+          "probability": 0.72
+        },
+        {
+          "word": "biết",
+          "start": 6.88,
+          "end": 7.36,
+          "probability": 0.6
+        },
+        {
+          "word": "bác",
+          "start": 7.36,
+          "end": 7.74,
+          "probability": 0.46
+        },
+        {
+          "word": "tò",
+          "start": 7.74,
+          "end": 7.88,
+          "probability": 0.5
+        },
+        {
+          "word": "đồ",
+          "start": 7.88,
+          "end": 8.18,
+          "probability": 0.18
+        },
+        {
+          "word": "nào",
+          "start": 8.18,
+          "end": 8.68,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.68,
+      "end": 10.0,
+      "text": "Chỉ thấy bác khổ đầy rất mì",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 8.68,
+          "end": 8.88,
+          "probability": 0.51
+        },
+        {
+          "word": "thấy",
+          "start": 8.88,
+          "end": 9.02,
+          "probability": 0.5
+        },
+        {
+          "word": "bác",
+          "start": 9.02,
+          "end": 9.18,
+          "probability": 0.97
+        },
+        {
+          "word": "khổ",
+          "start": 9.18,
+          "end": 9.28,
+          "probability": 0.86
+        },
+        {
+          "word": "đầy",
+          "start": 9.28,
+          "end": 9.44,
+          "probability": 0.43
+        },
+        {
+          "word": "rất",
+          "start": 9.44,
+          "end": 9.6,
+          "probability": 0.19
+        },
+        {
+          "word": "mì",
+          "start": 9.6,
+          "end": 10.0,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 10.0,
+      "end": 11.24,
+      "text": "Lát qua bán",
+      "words": [
+        {
+          "word": "Lát",
+          "start": 10.0,
+          "end": 10.38,
+          "probability": 0.26
+        },
+        {
+          "word": "qua",
+          "start": 10.38,
+          "end": 10.54,
+          "probability": 0.12
+        },
+        {
+          "word": "bán",
+          "start": 10.54,
+          "end": 11.24,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.24,
+      "end": 12.66,
+      "text": "Nãy có mấy ông của đổi",
+      "words": [
+        {
+          "word": "Nãy",
+          "start": 11.24,
+          "end": 11.6,
+          "probability": 0.24
+        },
+        {
+          "word": "có",
+          "start": 11.6,
+          "end": 11.74,
+          "probability": 0.58
+        },
+        {
+          "word": "mấy",
+          "start": 11.74,
+          "end": 11.9,
+          "probability": 0.89
+        },
+        {
+          "word": "ông",
+          "start": 11.9,
+          "end": 12.08,
+          "probability": 0.96
+        },
+        {
+          "word": "của",
+          "start": 12.08,
+          "end": 12.24,
+          "probability": 0.24
+        },
+        {
+          "word": "đổi",
+          "start": 12.24,
+          "end": 12.66,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.66,
+      "end": 15.26,
+      "text": "Một tóc của lòng cửa lúc mấy con phim đàn quái",
+      "words": [
+        {
+          "word": "Một",
+          "start": 12.66,
+          "end": 13.1,
+          "probability": 0.28
+        },
+        {
+          "word": "tóc",
+          "start": 13.1,
+          "end": 13.3,
+          "probability": 0.33
+        },
+        {
+          "word": "của",
+          "start": 13.3,
+          "end": 13.4,
+          "probability": 0.16
+        },
+        {
+          "word": "lòng",
+          "start": 13.4,
+          "end": 13.62,
+          "probability": 0.61
+        },
+        {
+          "word": "cửa",
+          "start": 13.62,
+          "end": 13.92,
+          "probability": 0.35
+        },
+        {
+          "word": "lúc",
+          "start": 13.92,
+          "end": 14.06,
+          "probability": 0.56
+        },
+        {
+          "word": "mấy",
+          "start": 14.06,
+          "end": 14.22,
+          "probability": 0.81
+        },
+        {
+          "word": "con",
+          "start": 14.22,
+          "end": 14.36,
+          "probability": 0.25
+        },
+        {
+          "word": "phim",
+          "start": 14.36,
+          "end": 14.56,
+          "probability": 0.26
+        },
+        {
+          "word": "đàn",
+          "start": 14.56,
+          "end": 14.74,
+          "probability": 0.4
+        },
+        {
+          "word": "quái",
+          "start": 14.74,
+          "end": 15.26,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.26,
+      "end": 18.38,
+      "text": "Bác hồ sân mình, trởi bác đàn làm việc xa chói thế này",
+      "words": [
+        {
+          "word": "Bác",
+          "start": 15.26,
+          "end": 15.64,
+          "probability": 0.53
+        },
+        {
+          "word": "hồ",
+          "start": 15.64,
+          "end": 15.74,
+          "probability": 0.43
+        },
+        {
+          "word": "sân",
+          "start": 15.74,
+          "end": 15.92,
+          "probability": 0.62
+        },
+        {
+          "word": "mình,",
+          "start": 15.92,
+          "end": 16.34,
+          "probability": 0.91
+        },
+        {
+          "word": "trởi",
+          "start": 16.34,
+          "end": 16.72,
+          "probability": 0.34
+        },
+        {
+          "word": "bác",
+          "start": 16.72,
+          "end": 16.96,
+          "probability": 0.79
+        },
+        {
+          "word": "đàn",
+          "start": 16.96,
+          "end": 17.1,
+          "probability": 0.69
+        },
+        {
+          "word": "làm",
+          "start": 17.1,
+          "end": 17.3,
+          "probability": 0.71
+        },
+        {
+          "word": "việc",
+          "start": 17.3,
+          "end": 17.44,
+          "probability": 0.45
+        },
+        {
+          "word": "xa",
+          "start": 17.44,
+          "end": 17.62,
+          "probability": 0.46
+        },
+        {
+          "word": "chói",
+          "start": 17.62,
+          "end": 17.84,
+          "probability": 0.47
+        },
+        {
+          "word": "thế",
+          "start": 17.84,
+          "end": 18.06,
+          "probability": 0.23
+        },
+        {
+          "word": "này",
+          "start": 18.06,
+          "end": 18.38,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 18.38,
+      "end": 20.22,
+      "text": "Các cổ trù đồ xói thế này",
+      "words": [
+        {
+          "word": "Các",
+          "start": 18.38,
+          "end": 18.68,
+          "probability": 0.48
+        },
+        {
+          "word": "cổ",
+          "start": 18.68,
+          "end": 18.86,
+          "probability": 0.19
+        },
+        {
+          "word": "trù",
+          "start": 18.86,
+          "end": 19.06,
+          "probability": 0.3
+        },
+        {
+          "word": "đồ",
+          "start": 19.06,
+          "end": 19.18,
+          "probability": 0.35
+        },
+        {
+          "word": "xói",
+          "start": 19.18,
+          "end": 19.48,
+          "probability": 0.74
+        },
+        {
+          "word": "thế",
+          "start": 19.48,
+          "end": 19.62,
+          "probability": 0.94
+        },
+        {
+          "word": "này",
+          "start": 19.62,
+          "end": 20.22,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 20.22,
+      "end": 22.78,
+      "text": "Mì sao quá? Chứ hồ sân thì bác hồ sân",
+      "words": [
+        {
+          "word": "Mì",
+          "start": 20.22,
+          "end": 20.54,
+          "probability": 0.14
+        },
+        {
+          "word": "sao",
+          "start": 20.54,
+          "end": 20.72,
+          "probability": 0.5
+        },
+        {
+          "word": "quá?",
+          "start": 20.72,
+          "end": 21.18,
+          "probability": 0.17
+        },
+        {
+          "word": "Chứ",
+          "start": 21.4,
+          "end": 21.42,
+          "probability": 0.47
+        },
+        {
+          "word": "hồ",
+          "start": 21.42,
+          "end": 21.64,
+          "probability": 0.2
+        },
+        {
+          "word": "sân",
+          "start": 21.64,
+          "end": 21.64,
+          "probability": 0.86
+        },
+        {
+          "word": "thì",
+          "start": 21.64,
+          "end": 21.78,
+          "probability": 0.17
+        },
+        {
+          "word": "bác",
+          "start": 21.78,
+          "end": 21.96,
+          "probability": 0.97
+        },
+        {
+          "word": "hồ",
+          "start": 21.96,
+          "end": 22.36,
+          "probability": 0.76
+        },
+        {
+          "word": "sân",
+          "start": 22.36,
+          "end": 22.78,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 22.78,
+      "end": 23.62,
+      "text": "Cậu đi thế",
+      "words": [
+        {
+          "word": "Cậu",
+          "start": 22.78,
+          "end": 22.96,
+          "probability": 0.57
+        },
+        {
+          "word": "đi",
+          "start": 22.96,
+          "end": 23.16,
+          "probability": 0.07
+        },
+        {
+          "word": "thế",
+          "start": 23.16,
+          "end": 23.62,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 23.62,
+      "end": 25.06,
+      "text": "Ở tôi tảm mươi",
+      "words": [
+        {
+          "word": "Ở",
+          "start": 23.62,
+          "end": 23.98,
+          "probability": 0.59
+        },
+        {
+          "word": "tôi",
+          "start": 23.98,
+          "end": 24.24,
+          "probability": 0.41
+        },
+        {
+          "word": "tảm",
+          "start": 24.24,
+          "end": 24.64,
+          "probability": 0.58
+        },
+        {
+          "word": "mươi",
+          "start": 24.64,
+          "end": 25.06,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 25.06,
+      "end": 26.64,
+      "text": "Thiu tương ứng hồ xí hậu",
+      "words": [
+        {
+          "word": "Thiu",
+          "start": 25.06,
+          "end": 25.38,
+          "probability": 0.14
+        },
+        {
+          "word": "tương",
+          "start": 25.38,
+          "end": 25.58,
+          "probability": 0.36
+        },
+        {
+          "word": "ứng",
+          "start": 25.58,
+          "end": 25.74,
+          "probability": 0.3
+        },
+        {
+          "word": "hồ",
+          "start": 25.74,
+          "end": 25.94,
+          "probability": 0.32
+        },
+        {
+          "word": "xí",
+          "start": 25.94,
+          "end": 26.14,
+          "probability": 0.55
+        },
+        {
+          "word": "hậu",
+          "start": 26.14,
+          "end": 26.64,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 26.64,
+      "end": 28.28,
+      "text": "Nguyện cuộc chiều không có tính tế",
+      "words": [
+        {
+          "word": "Nguyện",
+          "start": 26.64,
+          "end": 26.96,
+          "probability": 0.27
+        },
+        {
+          "word": "cuộc",
+          "start": 26.96,
+          "end": 27.24,
+          "probability": 0.19
+        },
+        {
+          "word": "chiều",
+          "start": 27.24,
+          "end": 27.52,
+          "probability": 0.32
+        },
+        {
+          "word": "không",
+          "start": 27.52,
+          "end": 27.64,
+          "probability": 0.19
+        },
+        {
+          "word": "có",
+          "start": 27.64,
+          "end": 27.78,
+          "probability": 0.36
+        },
+        {
+          "word": "tính",
+          "start": 27.78,
+          "end": 28.0,
+          "probability": 0.38
+        },
+        {
+          "word": "tế",
+          "start": 28.0,
+          "end": 28.28,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 28.28,
+      "end": 29.16,
+      "text": "Bác tò đồ xói hậu",
+      "words": [
+        {
+          "word": "Bác",
+          "start": 28.28,
+          "end": 28.42,
+          "probability": 0.06
+        },
+        {
+          "word": "tò",
+          "start": 28.42,
+          "end": 28.54,
+          "probability": 0.01
+        },
+        {
+          "word": "đồ",
+          "start": 28.54,
+          "end": 28.54,
+          "probability": 0.03
+        },
+        {
+          "word": "xói",
+          "start": 28.54,
+          "end": 28.76,
+          "probability": 0.26
+        },
+        {
+          "word": "hậu",
+          "start": 28.76,
+          "end": 29.16,
+          "probability": 0.26
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "item_id": "tt_7656668179015404820_01",
+  "duration_seconds": 29.83,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 95,
+  "text": "Tổng thống SEPIA, a列 sản đạo vùa sĩnh Tuyên Bố sẽ từ trước trọng và thùng tới, mở đường cho các cuộc bầu cử tổng thống vào của khỏi trước thời hàng. Tất biểu trước tổng đạo vử ủng hộ tại thủ đồ Bèo Rát, tổng thống vô sĩnh sách dần sẽ về ghế lạ tạo sớm hần sau đó thật đêm tất thúc dìm kìa vào giữa năm 2020. Tối sẽ giữ cụ bề tổng thống trong và thùng tới, sau đó sẽ từ trước, ông nói mà không được thêm gì tích nào.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 5.75,
+      "end": 10.31,
+      "text": "Tổng thống SEPIA, a列 sản đạo vùa sĩnh Tuyên Bố sẽ từ trước trọng và thùng tới,",
+      "words": [
+        {
+          "word": "Tổng",
+          "start": 5.75,
+          "end": 6.15,
+          "probability": 0.74
+        },
+        {
+          "word": "thống",
+          "start": 6.15,
+          "end": 6.33,
+          "probability": 0.93
+        },
+        {
+          "word": "SEPIA,",
+          "start": 6.33,
+          "end": 6.95,
+          "probability": 0.41
+        },
+        {
+          "word": "a列",
+          "start": 7.19,
+          "end": 7.29,
+          "probability": 0.24
+        },
+        {
+          "word": "sản",
+          "start": 7.29,
+          "end": 7.49,
+          "probability": 0.41
+        },
+        {
+          "word": "đạo",
+          "start": 7.49,
+          "end": 7.69,
+          "probability": 0.36
+        },
+        {
+          "word": "vùa",
+          "start": 7.69,
+          "end": 7.89,
+          "probability": 0.54
+        },
+        {
+          "word": "sĩnh",
+          "start": 7.89,
+          "end": 8.19,
+          "probability": 0.42
+        },
+        {
+          "word": "Tuyên",
+          "start": 8.19,
+          "end": 8.31,
+          "probability": 0.51
+        },
+        {
+          "word": "Bố",
+          "start": 8.31,
+          "end": 8.59,
+          "probability": 0.37
+        },
+        {
+          "word": "sẽ",
+          "start": 8.59,
+          "end": 8.93,
+          "probability": 0.59
+        },
+        {
+          "word": "từ",
+          "start": 8.93,
+          "end": 9.13,
+          "probability": 0.35
+        },
+        {
+          "word": "trước",
+          "start": 9.13,
+          "end": 9.39,
+          "probability": 0.67
+        },
+        {
+          "word": "trọng",
+          "start": 9.39,
+          "end": 9.63,
+          "probability": 0.58
+        },
+        {
+          "word": "và",
+          "start": 9.63,
+          "end": 9.79,
+          "probability": 0.89
+        },
+        {
+          "word": "thùng",
+          "start": 9.79,
+          "end": 9.95,
+          "probability": 0.35
+        },
+        {
+          "word": "tới,",
+          "start": 9.95,
+          "end": 10.31,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 10.59,
+      "end": 13.51,
+      "text": "mở đường cho các cuộc bầu cử tổng thống vào của khỏi trước thời hàng.",
+      "words": [
+        {
+          "word": "mở",
+          "start": 10.59,
+          "end": 10.69,
+          "probability": 0.43
+        },
+        {
+          "word": "đường",
+          "start": 10.69,
+          "end": 10.83,
+          "probability": 0.8
+        },
+        {
+          "word": "cho",
+          "start": 10.83,
+          "end": 11.01,
+          "probability": 0.83
+        },
+        {
+          "word": "các",
+          "start": 11.01,
+          "end": 11.13,
+          "probability": 0.96
+        },
+        {
+          "word": "cuộc",
+          "start": 11.13,
+          "end": 11.35,
+          "probability": 0.89
+        },
+        {
+          "word": "bầu",
+          "start": 11.35,
+          "end": 11.51,
+          "probability": 0.75
+        },
+        {
+          "word": "cử",
+          "start": 11.51,
+          "end": 11.69,
+          "probability": 0.89
+        },
+        {
+          "word": "tổng",
+          "start": 11.69,
+          "end": 11.91,
+          "probability": 0.84
+        },
+        {
+          "word": "thống",
+          "start": 11.91,
+          "end": 12.19,
+          "probability": 0.95
+        },
+        {
+          "word": "vào",
+          "start": 12.19,
+          "end": 12.33,
+          "probability": 0.86
+        },
+        {
+          "word": "của",
+          "start": 12.33,
+          "end": 12.47,
+          "probability": 0.23
+        },
+        {
+          "word": "khỏi",
+          "start": 12.47,
+          "end": 12.77,
+          "probability": 0.31
+        },
+        {
+          "word": "trước",
+          "start": 12.77,
+          "end": 12.99,
+          "probability": 0.78
+        },
+        {
+          "word": "thời",
+          "start": 12.99,
+          "end": 13.23,
+          "probability": 0.9
+        },
+        {
+          "word": "hàng.",
+          "start": 13.23,
+          "end": 13.51,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 14.15,
+      "end": 16.67,
+      "text": "Tất biểu trước tổng đạo vử ủng hộ tại thủ đồ Bèo Rát,",
+      "words": [
+        {
+          "word": "Tất",
+          "start": 14.15,
+          "end": 14.31,
+          "probability": 0.47
+        },
+        {
+          "word": "biểu",
+          "start": 14.31,
+          "end": 14.47,
+          "probability": 0.72
+        },
+        {
+          "word": "trước",
+          "start": 14.47,
+          "end": 14.67,
+          "probability": 0.69
+        },
+        {
+          "word": "tổng",
+          "start": 14.67,
+          "end": 14.85,
+          "probability": 0.8
+        },
+        {
+          "word": "đạo",
+          "start": 14.85,
+          "end": 14.97,
+          "probability": 0.78
+        },
+        {
+          "word": "vử",
+          "start": 14.97,
+          "end": 15.25,
+          "probability": 0.25
+        },
+        {
+          "word": "ủng",
+          "start": 15.25,
+          "end": 15.29,
+          "probability": 0.67
+        },
+        {
+          "word": "hộ",
+          "start": 15.29,
+          "end": 15.55,
+          "probability": 0.59
+        },
+        {
+          "word": "tại",
+          "start": 15.55,
+          "end": 15.71,
+          "probability": 0.7
+        },
+        {
+          "word": "thủ",
+          "start": 15.71,
+          "end": 15.89,
+          "probability": 0.65
+        },
+        {
+          "word": "đồ",
+          "start": 15.89,
+          "end": 16.17,
+          "probability": 0.42
+        },
+        {
+          "word": "Bèo",
+          "start": 16.17,
+          "end": 16.41,
+          "probability": 0.34
+        },
+        {
+          "word": "Rát,",
+          "start": 16.41,
+          "end": 16.67,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 17.11,
+      "end": 22.23,
+      "text": "tổng thống vô sĩnh sách dần sẽ về ghế lạ tạo sớm hần sau đó thật đêm tất thúc dìm kìa vào giữa năm 2020.",
+      "words": [
+        {
+          "word": "tổng",
+          "start": 17.11,
+          "end": 17.13,
+          "probability": 0.93
+        },
+        {
+          "word": "thống",
+          "start": 17.13,
+          "end": 17.35,
+          "probability": 0.98
+        },
+        {
+          "word": "vô",
+          "start": 17.35,
+          "end": 17.59,
+          "probability": 0.45
+        },
+        {
+          "word": "sĩnh",
+          "start": 17.59,
+          "end": 17.77,
+          "probability": 0.84
+        },
+        {
+          "word": "sách",
+          "start": 17.77,
+          "end": 17.95,
+          "probability": 0.51
+        },
+        {
+          "word": "dần",
+          "start": 17.95,
+          "end": 18.27,
+          "probability": 0.55
+        },
+        {
+          "word": "sẽ",
+          "start": 18.27,
+          "end": 18.65,
+          "probability": 0.64
+        },
+        {
+          "word": "về",
+          "start": 18.65,
+          "end": 18.87,
+          "probability": 0.41
+        },
+        {
+          "word": "ghế",
+          "start": 18.87,
+          "end": 19.03,
+          "probability": 0.47
+        },
+        {
+          "word": "lạ",
+          "start": 19.03,
+          "end": 19.23,
+          "probability": 0.39
+        },
+        {
+          "word": "tạo",
+          "start": 19.23,
+          "end": 19.37,
+          "probability": 0.58
+        },
+        {
+          "word": "sớm",
+          "start": 19.37,
+          "end": 19.63,
+          "probability": 0.78
+        },
+        {
+          "word": "hần",
+          "start": 19.63,
+          "end": 19.89,
+          "probability": 0.22
+        },
+        {
+          "word": "sau",
+          "start": 19.89,
+          "end": 20.07,
+          "probability": 0.33
+        },
+        {
+          "word": "đó",
+          "start": 20.07,
+          "end": 20.23,
+          "probability": 0.15
+        },
+        {
+          "word": "thật",
+          "start": 20.23,
+          "end": 20.27,
+          "probability": 0.25
+        },
+        {
+          "word": "đêm",
+          "start": 20.27,
+          "end": 20.47,
+          "probability": 0.14
+        },
+        {
+          "word": "tất",
+          "start": 20.47,
+          "end": 20.69,
+          "probability": 0.57
+        },
+        {
+          "word": "thúc",
+          "start": 20.69,
+          "end": 20.83,
+          "probability": 0.54
+        },
+        {
+          "word": "dìm",
+          "start": 20.83,
+          "end": 21.07,
+          "probability": 0.4
+        },
+        {
+          "word": "kìa",
+          "start": 21.07,
+          "end": 21.29,
+          "probability": 0.24
+        },
+        {
+          "word": "vào",
+          "start": 21.29,
+          "end": 21.49,
+          "probability": 0.8
+        },
+        {
+          "word": "giữa",
+          "start": 21.49,
+          "end": 21.63,
+          "probability": 0.38
+        },
+        {
+          "word": "năm",
+          "start": 21.63,
+          "end": 21.81,
+          "probability": 0.26
+        },
+        {
+          "word": "2020.",
+          "start": 21.81,
+          "end": 22.23,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 23.69,
+      "end": 27.41,
+      "text": "Tối sẽ giữ cụ bề tổng thống trong và thùng tới, sau đó sẽ từ trước,",
+      "words": [
+        {
+          "word": "Tối",
+          "start": 23.69,
+          "end": 23.93,
+          "probability": 0.37
+        },
+        {
+          "word": "sẽ",
+          "start": 23.93,
+          "end": 24.13,
+          "probability": 0.97
+        },
+        {
+          "word": "giữ",
+          "start": 24.13,
+          "end": 24.29,
+          "probability": 0.43
+        },
+        {
+          "word": "cụ",
+          "start": 24.29,
+          "end": 24.49,
+          "probability": 0.31
+        },
+        {
+          "word": "bề",
+          "start": 24.49,
+          "end": 24.57,
+          "probability": 0.24
+        },
+        {
+          "word": "tổng",
+          "start": 24.57,
+          "end": 24.81,
+          "probability": 0.94
+        },
+        {
+          "word": "thống",
+          "start": 24.81,
+          "end": 24.99,
+          "probability": 0.98
+        },
+        {
+          "word": "trong",
+          "start": 24.99,
+          "end": 25.27,
+          "probability": 0.52
+        },
+        {
+          "word": "và",
+          "start": 25.27,
+          "end": 25.47,
+          "probability": 0.98
+        },
+        {
+          "word": "thùng",
+          "start": 25.47,
+          "end": 25.61,
+          "probability": 0.73
+        },
+        {
+          "word": "tới,",
+          "start": 25.61,
+          "end": 26.01,
+          "probability": 0.99
+        },
+        {
+          "word": "sau",
+          "start": 26.21,
+          "end": 26.33,
+          "probability": 0.71
+        },
+        {
+          "word": "đó",
+          "start": 26.33,
+          "end": 26.57,
+          "probability": 0.97
+        },
+        {
+          "word": "sẽ",
+          "start": 26.57,
+          "end": 26.85,
+          "probability": 0.99
+        },
+        {
+          "word": "từ",
+          "start": 26.85,
+          "end": 27.07,
+          "probability": 0.98
+        },
+        {
+          "word": "trước,",
+          "start": 27.07,
+          "end": 27.41,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 27.67,
+      "end": 29.35,
+      "text": "ông nói mà không được thêm gì tích nào.",
+      "words": [
+        {
+          "word": "ông",
+          "start": 27.67,
+          "end": 27.85,
+          "probability": 0.54
+        },
+        {
+          "word": "nói",
+          "start": 27.85,
+          "end": 28.05,
+          "probability": 0.88
+        },
+        {
+          "word": "mà",
+          "start": 28.05,
+          "end": 28.27,
+          "probability": 0.58
+        },
+        {
+          "word": "không",
+          "start": 28.27,
+          "end": 28.45,
+          "probability": 0.93
+        },
+        {
+          "word": "được",
+          "start": 28.45,
+          "end": 28.59,
+          "probability": 0.56
+        },
+        {
+          "word": "thêm",
+          "start": 28.59,
+          "end": 28.81,
+          "probability": 0.7
+        },
+        {
+          "word": "gì",
+          "start": 28.81,
+          "end": 28.99,
+          "probability": 0.27
+        },
+        {
+          "word": "tích",
+          "start": 28.99,
+          "end": 29.15,
+          "probability": 0.5
+        },
+        {
+          "word": "nào.",
+          "start": 29.15,
+          "end": 29.35,
+          "probability": 0.82
+        }
+      ]
+    }
+  ]
+}

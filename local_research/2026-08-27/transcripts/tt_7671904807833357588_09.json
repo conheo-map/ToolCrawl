@@ -1,0 +1,240 @@
+{
+  "item_id": "tt_7671904807833357588_09",
+  "duration_seconds": 29.97,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 33,
+  "text": "Cái mà thường gặp Nhật, có lẽ là 5 đen varêng, gây ra yếu nể truyết chi Rồi mình có bệnh nghiệp kêu nát, cũng là bệnh gặp nhất Viết nát được miếng",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.66,
+      "end": 2.42,
+      "text": "Cái mà thường gặp",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.66,
+          "end": 1.06,
+          "probability": 0.47
+        },
+        {
+          "word": "mà",
+          "start": 1.06,
+          "end": 1.26,
+          "probability": 0.28
+        },
+        {
+          "word": "thường",
+          "start": 1.26,
+          "end": 1.46,
+          "probability": 0.66
+        },
+        {
+          "word": "gặp",
+          "start": 1.46,
+          "end": 2.42,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.42,
+      "end": 5.68,
+      "text": "Nhật, có lẽ là 5 đen varêng, gây ra yếu nể truyết chi",
+      "words": [
+        {
+          "word": "Nhật,",
+          "start": 2.42,
+          "end": 2.64,
+          "probability": 0.18
+        },
+        {
+          "word": "có",
+          "start": 2.82,
+          "end": 2.82,
+          "probability": 0.37
+        },
+        {
+          "word": "lẽ",
+          "start": 2.82,
+          "end": 3.0,
+          "probability": 0.62
+        },
+        {
+          "word": "là",
+          "start": 3.0,
+          "end": 3.22,
+          "probability": 0.5
+        },
+        {
+          "word": "5",
+          "start": 3.22,
+          "end": 3.44,
+          "probability": 0.05
+        },
+        {
+          "word": "đen",
+          "start": 3.44,
+          "end": 3.64,
+          "probability": 0.13
+        },
+        {
+          "word": "varêng,",
+          "start": 3.64,
+          "end": 4.2,
+          "probability": 0.17
+        },
+        {
+          "word": "gây",
+          "start": 4.2,
+          "end": 4.38,
+          "probability": 0.62
+        },
+        {
+          "word": "ra",
+          "start": 4.38,
+          "end": 4.6,
+          "probability": 0.47
+        },
+        {
+          "word": "yếu",
+          "start": 4.6,
+          "end": 4.74,
+          "probability": 0.27
+        },
+        {
+          "word": "nể",
+          "start": 4.74,
+          "end": 4.9,
+          "probability": 0.22
+        },
+        {
+          "word": "truyết",
+          "start": 4.9,
+          "end": 5.12,
+          "probability": 0.17
+        },
+        {
+          "word": "chi",
+          "start": 5.12,
+          "end": 5.68,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.68,
+      "end": 14.41,
+      "text": "Rồi mình có bệnh nghiệp kêu nát, cũng là bệnh gặp nhất",
+      "words": [
+        {
+          "word": "Rồi",
+          "start": 5.68,
+          "end": 6.1,
+          "probability": 0.52
+        },
+        {
+          "word": "mình",
+          "start": 6.1,
+          "end": 6.26,
+          "probability": 0.9
+        },
+        {
+          "word": "có",
+          "start": 6.26,
+          "end": 6.38,
+          "probability": 0.81
+        },
+        {
+          "word": "bệnh",
+          "start": 6.38,
+          "end": 6.54,
+          "probability": 0.51
+        },
+        {
+          "word": "nghiệp",
+          "start": 6.54,
+          "end": 6.74,
+          "probability": 0.54
+        },
+        {
+          "word": "kêu",
+          "start": 6.74,
+          "end": 6.94,
+          "probability": 0.32
+        },
+        {
+          "word": "nát,",
+          "start": 6.94,
+          "end": 7.24,
+          "probability": 0.22
+        },
+        {
+          "word": "cũng",
+          "start": 7.24,
+          "end": 7.4,
+          "probability": 0.75
+        },
+        {
+          "word": "là",
+          "start": 7.4,
+          "end": 7.56,
+          "probability": 0.77
+        },
+        {
+          "word": "bệnh",
+          "start": 13.29,
+          "end": 13.47,
+          "probability": 0.53
+        },
+        {
+          "word": "gặp",
+          "start": 13.47,
+          "end": 13.67,
+          "probability": 0.97
+        },
+        {
+          "word": "nhất",
+          "start": 13.67,
+          "end": 14.41,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 25.8,
+      "end": 26.42,
+      "text": "Viết nát được miếng",
+      "words": [
+        {
+          "word": "Viết",
+          "start": 25.8,
+          "end": 25.98,
+          "probability": 0.11
+        },
+        {
+          "word": "nát",
+          "start": 25.98,
+          "end": 26.12,
+          "probability": 0.64
+        },
+        {
+          "word": "được",
+          "start": 26.12,
+          "end": 26.3,
+          "probability": 0.14
+        },
+        {
+          "word": "miếng",
+          "start": 26.3,
+          "end": 26.42,
+          "probability": 0.52
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7638935261740649729",
+  "duration_seconds": 26.51,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Bây giờ, nó không như thế!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.18,
+      "text": "Bây giờ, nó không như thế!",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 0.0,
+          "end": 0.78,
+          "probability": 0.06
+        },
+        {
+          "word": "giờ,",
+          "start": 0.78,
+          "end": 1.02,
+          "probability": 0.9
+        },
+        {
+          "word": "nó",
+          "start": 1.24,
+          "end": 1.68,
+          "probability": 0.02
+        },
+        {
+          "word": "không",
+          "start": 1.68,
+          "end": 1.76,
+          "probability": 0.08
+        },
+        {
+          "word": "như",
+          "start": 1.76,
+          "end": 1.78,
+          "probability": 0.0
+        },
+        {
+          "word": "thế!",
+          "start": 1.78,
+          "end": 2.18,
+          "probability": 0.43
+        }
+      ]
+    }
+  ]
+}

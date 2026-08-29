@@ -1,0 +1,106 @@
+{
+  "item_id": "tt_7661626558704241940_06",
+  "duration_seconds": 20.32,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "Tĩnh mà ảnh ... 在 cái h Ăn Nothing Nhấp nhấn chào",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.56,
+      "text": "Tĩnh mà ảnh ...",
+      "words": [
+        {
+          "word": "Tĩnh",
+          "start": 0.02,
+          "end": 1.12,
+          "probability": 0.16
+        },
+        {
+          "word": "mà",
+          "start": 1.12,
+          "end": 1.12,
+          "probability": 0.0
+        },
+        {
+          "word": "ảnh",
+          "start": 1.12,
+          "end": 1.52,
+          "probability": 0.24
+        },
+        {
+          "word": "...",
+          "start": 1.52,
+          "end": 1.56,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.74,
+      "end": 7.78,
+      "text": "在 cái h Ăn Nothing",
+      "words": [
+        {
+          "word": "在",
+          "start": 2.74,
+          "end": 3.44,
+          "probability": 0.0
+        },
+        {
+          "word": "cái",
+          "start": 3.44,
+          "end": 7.18,
+          "probability": 0.02
+        },
+        {
+          "word": "h",
+          "start": 7.18,
+          "end": 7.78,
+          "probability": 0.03
+        },
+        {
+          "word": "Ăn",
+          "start": 7.78,
+          "end": 7.78,
+          "probability": 0.4
+        },
+        {
+          "word": "Nothing",
+          "start": 7.78,
+          "end": 7.78,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 16.54,
+      "end": 17.94,
+      "text": "Nhấp nhấn chào",
+      "words": [
+        {
+          "word": "Nhấp",
+          "start": 16.54,
+          "end": 17.94,
+          "probability": 0.0
+        },
+        {
+          "word": "nhấn",
+          "start": 17.94,
+          "end": 17.94,
+          "probability": 0.06
+        },
+        {
+          "word": "chào",
+          "start": 17.94,
+          "end": 17.94,
+          "probability": 0.02
+        }
+      ]
+    }
+  ]
+}

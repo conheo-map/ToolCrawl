@@ -1,0 +1,718 @@
+{
+  "item_id": "tt_7678602587985218834_02",
+  "duration_seconds": 28.94,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 102,
+  "text": "Theo người dân, tên trạng của ữ trên truyến không sẽ đã thử suyên. Một số điểm dòng nhau mới là nơi thử suyên tập trục phương tiến, nhất là vào những thời điểm tập xe. Cù kháy là nhiều là không có thể. Mà hơi đông xíu đó, không có thể. Bộ mại không có thể, đừng có cảnh nha ngó bảo lâu rồi. Đói vào mọi người. Bên cảnh đó, chức lượng hạt tận tập thể dàng thiệt con, cũng là điều gì hành hoặc tập, bộ số vị trí có xuất hiện tên trạng lúng, sợp hoặc đồng nước.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 3.99,
+      "text": "Theo người dân, tên trạng của ữ trên truyến không sẽ đã thử suyên.",
+      "words": [
+        {
+          "word": "Theo",
+          "start": 0.11,
+          "end": 0.69,
+          "probability": 0.26
+        },
+        {
+          "word": "người",
+          "start": 0.69,
+          "end": 0.89,
+          "probability": 0.21
+        },
+        {
+          "word": "dân,",
+          "start": 0.89,
+          "end": 1.13,
+          "probability": 0.89
+        },
+        {
+          "word": "tên",
+          "start": 1.49,
+          "end": 1.49,
+          "probability": 0.54
+        },
+        {
+          "word": "trạng",
+          "start": 1.49,
+          "end": 1.65,
+          "probability": 0.64
+        },
+        {
+          "word": "của",
+          "start": 1.65,
+          "end": 1.81,
+          "probability": 0.32
+        },
+        {
+          "word": "ữ",
+          "start": 1.81,
+          "end": 2.07,
+          "probability": 0.24
+        },
+        {
+          "word": "trên",
+          "start": 2.07,
+          "end": 2.27,
+          "probability": 0.45
+        },
+        {
+          "word": "truyến",
+          "start": 2.27,
+          "end": 2.53,
+          "probability": 0.67
+        },
+        {
+          "word": "không",
+          "start": 2.53,
+          "end": 2.77,
+          "probability": 0.44
+        },
+        {
+          "word": "sẽ",
+          "start": 2.77,
+          "end": 2.91,
+          "probability": 0.55
+        },
+        {
+          "word": "đã",
+          "start": 2.91,
+          "end": 3.13,
+          "probability": 0.28
+        },
+        {
+          "word": "thử",
+          "start": 3.13,
+          "end": 3.27,
+          "probability": 0.75
+        },
+        {
+          "word": "suyên.",
+          "start": 3.27,
+          "end": 3.99,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.11,
+      "end": 7.27,
+      "text": "Một số điểm dòng nhau mới là nơi thử suyên tập trục phương tiến,",
+      "words": [
+        {
+          "word": "Một",
+          "start": 4.11,
+          "end": 4.19,
+          "probability": 0.82
+        },
+        {
+          "word": "số",
+          "start": 4.19,
+          "end": 4.39,
+          "probability": 0.99
+        },
+        {
+          "word": "điểm",
+          "start": 4.39,
+          "end": 4.65,
+          "probability": 0.75
+        },
+        {
+          "word": "dòng",
+          "start": 4.65,
+          "end": 4.85,
+          "probability": 0.19
+        },
+        {
+          "word": "nhau",
+          "start": 4.85,
+          "end": 5.19,
+          "probability": 0.68
+        },
+        {
+          "word": "mới",
+          "start": 5.19,
+          "end": 5.49,
+          "probability": 0.56
+        },
+        {
+          "word": "là",
+          "start": 5.49,
+          "end": 5.65,
+          "probability": 0.89
+        },
+        {
+          "word": "nơi",
+          "start": 5.65,
+          "end": 5.81,
+          "probability": 0.49
+        },
+        {
+          "word": "thử",
+          "start": 5.81,
+          "end": 5.97,
+          "probability": 0.96
+        },
+        {
+          "word": "suyên",
+          "start": 5.97,
+          "end": 6.25,
+          "probability": 0.93
+        },
+        {
+          "word": "tập",
+          "start": 6.25,
+          "end": 6.43,
+          "probability": 0.97
+        },
+        {
+          "word": "trục",
+          "start": 6.43,
+          "end": 6.63,
+          "probability": 0.51
+        },
+        {
+          "word": "phương",
+          "start": 6.63,
+          "end": 6.85,
+          "probability": 0.59
+        },
+        {
+          "word": "tiến,",
+          "start": 6.85,
+          "end": 7.27,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.47,
+      "end": 9.37,
+      "text": "nhất là vào những thời điểm tập xe.",
+      "words": [
+        {
+          "word": "nhất",
+          "start": 7.47,
+          "end": 7.67,
+          "probability": 0.63
+        },
+        {
+          "word": "là",
+          "start": 7.67,
+          "end": 8.01,
+          "probability": 0.94
+        },
+        {
+          "word": "vào",
+          "start": 8.01,
+          "end": 8.29,
+          "probability": 0.92
+        },
+        {
+          "word": "những",
+          "start": 8.29,
+          "end": 8.47,
+          "probability": 0.91
+        },
+        {
+          "word": "thời",
+          "start": 8.47,
+          "end": 8.75,
+          "probability": 0.52
+        },
+        {
+          "word": "điểm",
+          "start": 8.75,
+          "end": 8.83,
+          "probability": 0.92
+        },
+        {
+          "word": "tập",
+          "start": 8.83,
+          "end": 9.05,
+          "probability": 0.29
+        },
+        {
+          "word": "xe.",
+          "start": 9.05,
+          "end": 9.37,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.55,
+      "end": 11.53,
+      "text": "Cù kháy là nhiều là không có thể.",
+      "words": [
+        {
+          "word": "Cù",
+          "start": 9.55,
+          "end": 9.65,
+          "probability": 0.27
+        },
+        {
+          "word": "kháy",
+          "start": 9.65,
+          "end": 9.95,
+          "probability": 0.49
+        },
+        {
+          "word": "là",
+          "start": 9.95,
+          "end": 10.01,
+          "probability": 0.32
+        },
+        {
+          "word": "nhiều",
+          "start": 10.01,
+          "end": 10.31,
+          "probability": 0.53
+        },
+        {
+          "word": "là",
+          "start": 10.31,
+          "end": 10.77,
+          "probability": 0.29
+        },
+        {
+          "word": "không",
+          "start": 10.77,
+          "end": 10.95,
+          "probability": 0.19
+        },
+        {
+          "word": "có",
+          "start": 10.95,
+          "end": 11.13,
+          "probability": 0.59
+        },
+        {
+          "word": "thể.",
+          "start": 11.13,
+          "end": 11.53,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.01,
+      "end": 13.33,
+      "text": "Mà hơi đông xíu đó,",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 12.01,
+          "end": 12.21,
+          "probability": 0.19
+        },
+        {
+          "word": "hơi",
+          "start": 12.21,
+          "end": 12.43,
+          "probability": 0.73
+        },
+        {
+          "word": "đông",
+          "start": 12.43,
+          "end": 12.67,
+          "probability": 0.31
+        },
+        {
+          "word": "xíu",
+          "start": 12.67,
+          "end": 13.03,
+          "probability": 0.65
+        },
+        {
+          "word": "đó,",
+          "start": 13.03,
+          "end": 13.33,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.09,
+      "end": 14.89,
+      "text": "không có thể.",
+      "words": [
+        {
+          "word": "không",
+          "start": 14.09,
+          "end": 14.29,
+          "probability": 0.07
+        },
+        {
+          "word": "có",
+          "start": 14.29,
+          "end": 14.53,
+          "probability": 0.98
+        },
+        {
+          "word": "thể.",
+          "start": 14.53,
+          "end": 14.89,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.11,
+      "end": 15.79,
+      "text": "Bộ mại không có thể,",
+      "words": [
+        {
+          "word": "Bộ",
+          "start": 15.11,
+          "end": 15.23,
+          "probability": 0.23
+        },
+        {
+          "word": "mại",
+          "start": 15.23,
+          "end": 15.39,
+          "probability": 0.32
+        },
+        {
+          "word": "không",
+          "start": 15.39,
+          "end": 15.59,
+          "probability": 0.42
+        },
+        {
+          "word": "có",
+          "start": 15.59,
+          "end": 15.77,
+          "probability": 0.32
+        },
+        {
+          "word": "thể,",
+          "start": 15.77,
+          "end": 15.79,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.13,
+      "end": 17.47,
+      "text": "đừng có cảnh nha ngó bảo lâu rồi.",
+      "words": [
+        {
+          "word": "đừng",
+          "start": 16.13,
+          "end": 16.13,
+          "probability": 0.09
+        },
+        {
+          "word": "có",
+          "start": 16.13,
+          "end": 16.29,
+          "probability": 0.93
+        },
+        {
+          "word": "cảnh",
+          "start": 16.29,
+          "end": 16.59,
+          "probability": 0.34
+        },
+        {
+          "word": "nha",
+          "start": 16.59,
+          "end": 16.65,
+          "probability": 0.17
+        },
+        {
+          "word": "ngó",
+          "start": 16.65,
+          "end": 16.85,
+          "probability": 0.25
+        },
+        {
+          "word": "bảo",
+          "start": 16.85,
+          "end": 17.01,
+          "probability": 0.35
+        },
+        {
+          "word": "lâu",
+          "start": 17.01,
+          "end": 17.17,
+          "probability": 0.43
+        },
+        {
+          "word": "rồi.",
+          "start": 17.17,
+          "end": 17.47,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 19.34,
+      "end": 20.16,
+      "text": "Đói vào mọi người.",
+      "words": [
+        {
+          "word": "Đói",
+          "start": 19.34,
+          "end": 19.68,
+          "probability": 0.27
+        },
+        {
+          "word": "vào",
+          "start": 19.68,
+          "end": 19.84,
+          "probability": 0.17
+        },
+        {
+          "word": "mọi",
+          "start": 19.84,
+          "end": 20.14,
+          "probability": 0.15
+        },
+        {
+          "word": "người.",
+          "start": 20.14,
+          "end": 20.16,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 22.06,
+      "end": 24.32,
+      "text": "Bên cảnh đó, chức lượng hạt tận tập thể dàng thiệt con,",
+      "words": [
+        {
+          "word": "Bên",
+          "start": 22.06,
+          "end": 22.38,
+          "probability": 0.63
+        },
+        {
+          "word": "cảnh",
+          "start": 22.38,
+          "end": 22.58,
+          "probability": 0.53
+        },
+        {
+          "word": "đó,",
+          "start": 22.58,
+          "end": 22.72,
+          "probability": 0.68
+        },
+        {
+          "word": "chức",
+          "start": 22.8,
+          "end": 22.96,
+          "probability": 0.51
+        },
+        {
+          "word": "lượng",
+          "start": 22.96,
+          "end": 23.12,
+          "probability": 0.78
+        },
+        {
+          "word": "hạt",
+          "start": 23.12,
+          "end": 23.3,
+          "probability": 0.52
+        },
+        {
+          "word": "tận",
+          "start": 23.3,
+          "end": 23.44,
+          "probability": 0.37
+        },
+        {
+          "word": "tập",
+          "start": 23.44,
+          "end": 23.6,
+          "probability": 0.48
+        },
+        {
+          "word": "thể",
+          "start": 23.6,
+          "end": 23.74,
+          "probability": 0.42
+        },
+        {
+          "word": "dàng",
+          "start": 23.74,
+          "end": 23.9,
+          "probability": 0.3
+        },
+        {
+          "word": "thiệt",
+          "start": 23.9,
+          "end": 24.12,
+          "probability": 0.68
+        },
+        {
+          "word": "con,",
+          "start": 24.12,
+          "end": 24.32,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 24.4,
+      "end": 25.48,
+      "text": "cũng là điều gì hành hoặc tập,",
+      "words": [
+        {
+          "word": "cũng",
+          "start": 24.4,
+          "end": 24.48,
+          "probability": 0.86
+        },
+        {
+          "word": "là",
+          "start": 24.48,
+          "end": 24.62,
+          "probability": 0.93
+        },
+        {
+          "word": "điều",
+          "start": 24.62,
+          "end": 24.78,
+          "probability": 0.86
+        },
+        {
+          "word": "gì",
+          "start": 24.78,
+          "end": 24.92,
+          "probability": 0.24
+        },
+        {
+          "word": "hành",
+          "start": 24.92,
+          "end": 25.18,
+          "probability": 0.07
+        },
+        {
+          "word": "hoặc",
+          "start": 25.18,
+          "end": 25.2,
+          "probability": 0.46
+        },
+        {
+          "word": "tập,",
+          "start": 25.2,
+          "end": 25.48,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 25.5,
+      "end": 28.8,
+      "text": "bộ số vị trí có xuất hiện tên trạng lúng, sợp hoặc đồng nước.",
+      "words": [
+        {
+          "word": "bộ",
+          "start": 25.5,
+          "end": 25.66,
+          "probability": 0.41
+        },
+        {
+          "word": "số",
+          "start": 25.66,
+          "end": 25.82,
+          "probability": 0.41
+        },
+        {
+          "word": "vị",
+          "start": 25.82,
+          "end": 26.02,
+          "probability": 0.36
+        },
+        {
+          "word": "trí",
+          "start": 26.02,
+          "end": 26.22,
+          "probability": 0.94
+        },
+        {
+          "word": "có",
+          "start": 26.22,
+          "end": 26.46,
+          "probability": 0.56
+        },
+        {
+          "word": "xuất",
+          "start": 26.46,
+          "end": 26.68,
+          "probability": 0.74
+        },
+        {
+          "word": "hiện",
+          "start": 26.68,
+          "end": 26.9,
+          "probability": 0.5
+        },
+        {
+          "word": "tên",
+          "start": 26.9,
+          "end": 27.1,
+          "probability": 0.89
+        },
+        {
+          "word": "trạng",
+          "start": 27.1,
+          "end": 27.34,
+          "probability": 0.97
+        },
+        {
+          "word": "lúng,",
+          "start": 27.34,
+          "end": 27.72,
+          "probability": 0.51
+        },
+        {
+          "word": "sợp",
+          "start": 27.86,
+          "end": 28.12,
+          "probability": 0.61
+        },
+        {
+          "word": "hoặc",
+          "start": 28.12,
+          "end": 28.4,
+          "probability": 0.67
+        },
+        {
+          "word": "đồng",
+          "start": 28.4,
+          "end": 28.6,
+          "probability": 0.37
+        },
+        {
+          "word": "nước.",
+          "start": 28.6,
+          "end": 28.8,
+          "probability": 0.25
+        }
+      ]
+    }
+  ]
+}

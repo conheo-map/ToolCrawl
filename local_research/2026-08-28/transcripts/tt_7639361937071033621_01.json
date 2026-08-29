@@ -1,0 +1,588 @@
+{
+  "item_id": "tt_7639361937071033621_01",
+  "duration_seconds": 22.33,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 79,
+  "text": "sẽ xong tính tụi. Đâm két đam tâm xúc tâm đi. Tất cả sĩ tất cả xử tụi xe ruy. Tụi qua để sĩ gên ruy. Giống chơi nhớ nè. Đi cụm là hình chì xe ruy. Đi cụm qua. Đi cụm là hình chơi đam tất cả. Đi cụm là hình chơi. Đi cụm của thứ ba. Thì hãy hãy ở bên. Dạ bản hiểu về xácник. Thì bản của bạn thân, và cái chọn ngành của họ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 1.56,
+      "text": "sẽ xong tính tụi.",
+      "words": [
+        {
+          "word": "sẽ",
+          "start": 0.08,
+          "end": 0.7,
+          "probability": 0.0
+        },
+        {
+          "word": "xong",
+          "start": 0.7,
+          "end": 0.74,
+          "probability": 0.02
+        },
+        {
+          "word": "tính",
+          "start": 0.74,
+          "end": 0.8,
+          "probability": 0.17
+        },
+        {
+          "word": "tụi.",
+          "start": 0.8,
+          "end": 1.56,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.04,
+      "end": 3.56,
+      "text": "Đâm két đam tâm xúc tâm đi.",
+      "words": [
+        {
+          "word": "Đâm",
+          "start": 2.04,
+          "end": 2.4,
+          "probability": 0.47
+        },
+        {
+          "word": "két",
+          "start": 2.4,
+          "end": 2.62,
+          "probability": 0.14
+        },
+        {
+          "word": "đam",
+          "start": 2.62,
+          "end": 2.78,
+          "probability": 0.09
+        },
+        {
+          "word": "tâm",
+          "start": 2.78,
+          "end": 2.9,
+          "probability": 0.07
+        },
+        {
+          "word": "xúc",
+          "start": 2.9,
+          "end": 2.98,
+          "probability": 0.07
+        },
+        {
+          "word": "tâm",
+          "start": 2.98,
+          "end": 3.26,
+          "probability": 0.62
+        },
+        {
+          "word": "đi.",
+          "start": 3.26,
+          "end": 3.56,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.02,
+      "end": 5.5,
+      "text": "Tất cả sĩ tất cả xử tụi xe ruy.",
+      "words": [
+        {
+          "word": "Tất",
+          "start": 4.02,
+          "end": 4.02,
+          "probability": 0.5
+        },
+        {
+          "word": "cả",
+          "start": 4.02,
+          "end": 4.32,
+          "probability": 0.94
+        },
+        {
+          "word": "sĩ",
+          "start": 4.32,
+          "end": 4.54,
+          "probability": 0.09
+        },
+        {
+          "word": "tất",
+          "start": 4.54,
+          "end": 4.7,
+          "probability": 0.54
+        },
+        {
+          "word": "cả",
+          "start": 4.7,
+          "end": 4.72,
+          "probability": 0.82
+        },
+        {
+          "word": "xử",
+          "start": 4.72,
+          "end": 4.84,
+          "probability": 0.28
+        },
+        {
+          "word": "tụi",
+          "start": 4.84,
+          "end": 4.84,
+          "probability": 0.46
+        },
+        {
+          "word": "xe",
+          "start": 4.84,
+          "end": 4.94,
+          "probability": 0.41
+        },
+        {
+          "word": "ruy.",
+          "start": 4.94,
+          "end": 5.5,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.66,
+      "end": 6.88,
+      "text": "Tụi qua để sĩ gên ruy.",
+      "words": [
+        {
+          "word": "Tụi",
+          "start": 5.66,
+          "end": 5.78,
+          "probability": 0.62
+        },
+        {
+          "word": "qua",
+          "start": 5.78,
+          "end": 6.1,
+          "probability": 0.63
+        },
+        {
+          "word": "để",
+          "start": 6.1,
+          "end": 6.3,
+          "probability": 0.06
+        },
+        {
+          "word": "sĩ",
+          "start": 6.3,
+          "end": 6.38,
+          "probability": 0.25
+        },
+        {
+          "word": "gên",
+          "start": 6.38,
+          "end": 6.6,
+          "probability": 0.16
+        },
+        {
+          "word": "ruy.",
+          "start": 6.6,
+          "end": 6.88,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.4,
+      "end": 8.22,
+      "text": "Giống chơi nhớ nè.",
+      "words": [
+        {
+          "word": "Giống",
+          "start": 7.4,
+          "end": 7.6,
+          "probability": 0.1
+        },
+        {
+          "word": "chơi",
+          "start": 7.6,
+          "end": 7.76,
+          "probability": 0.43
+        },
+        {
+          "word": "nhớ",
+          "start": 7.76,
+          "end": 8.0,
+          "probability": 0.17
+        },
+        {
+          "word": "nè.",
+          "start": 8.0,
+          "end": 8.22,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.4,
+      "end": 9.56,
+      "text": "Đi cụm là hình chì xe ruy.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 8.4,
+          "end": 8.4,
+          "probability": 0.31
+        },
+        {
+          "word": "cụm",
+          "start": 8.4,
+          "end": 8.54,
+          "probability": 0.29
+        },
+        {
+          "word": "là",
+          "start": 8.54,
+          "end": 8.66,
+          "probability": 0.46
+        },
+        {
+          "word": "hình",
+          "start": 8.66,
+          "end": 8.88,
+          "probability": 0.32
+        },
+        {
+          "word": "chì",
+          "start": 8.88,
+          "end": 9.12,
+          "probability": 0.07
+        },
+        {
+          "word": "xe",
+          "start": 9.12,
+          "end": 9.16,
+          "probability": 0.15
+        },
+        {
+          "word": "ruy.",
+          "start": 9.16,
+          "end": 9.56,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 9.56,
+      "end": 9.9,
+      "text": "Đi cụm qua.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 9.56,
+          "end": 9.56,
+          "probability": 0.54
+        },
+        {
+          "word": "cụm",
+          "start": 9.56,
+          "end": 9.56,
+          "probability": 0.86
+        },
+        {
+          "word": "qua.",
+          "start": 9.56,
+          "end": 9.9,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 10.3,
+      "end": 11.2,
+      "text": "Đi cụm là hình chơi đam tất cả.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 10.3,
+          "end": 10.34,
+          "probability": 0.71
+        },
+        {
+          "word": "cụm",
+          "start": 10.34,
+          "end": 10.54,
+          "probability": 0.84
+        },
+        {
+          "word": "là",
+          "start": 10.54,
+          "end": 10.64,
+          "probability": 0.8
+        },
+        {
+          "word": "hình",
+          "start": 10.64,
+          "end": 10.98,
+          "probability": 0.62
+        },
+        {
+          "word": "chơi",
+          "start": 10.98,
+          "end": 10.98,
+          "probability": 0.55
+        },
+        {
+          "word": "đam",
+          "start": 10.98,
+          "end": 10.98,
+          "probability": 0.31
+        },
+        {
+          "word": "tất",
+          "start": 10.98,
+          "end": 10.98,
+          "probability": 0.18
+        },
+        {
+          "word": "cả.",
+          "start": 10.98,
+          "end": 11.2,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 11.68,
+      "end": 13.04,
+      "text": "Đi cụm là hình chơi.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 11.68,
+          "end": 11.68,
+          "probability": 0.27
+        },
+        {
+          "word": "cụm",
+          "start": 11.68,
+          "end": 11.8,
+          "probability": 0.75
+        },
+        {
+          "word": "là",
+          "start": 11.8,
+          "end": 11.86,
+          "probability": 0.61
+        },
+        {
+          "word": "hình",
+          "start": 11.86,
+          "end": 12.72,
+          "probability": 0.84
+        },
+        {
+          "word": "chơi.",
+          "start": 12.72,
+          "end": 13.04,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 15.45,
+      "end": 16.99,
+      "text": "Đi cụm của thứ ba.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 15.45,
+          "end": 15.89,
+          "probability": 0.6
+        },
+        {
+          "word": "cụm",
+          "start": 15.89,
+          "end": 16.33,
+          "probability": 0.87
+        },
+        {
+          "word": "của",
+          "start": 16.33,
+          "end": 16.47,
+          "probability": 0.03
+        },
+        {
+          "word": "thứ",
+          "start": 16.47,
+          "end": 16.63,
+          "probability": 0.03
+        },
+        {
+          "word": "ba.",
+          "start": 16.63,
+          "end": 16.99,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 17.57,
+      "end": 18.29,
+      "text": "Thì hãy hãy ở bên.",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 17.57,
+          "end": 17.65,
+          "probability": 0.51
+        },
+        {
+          "word": "hãy",
+          "start": 17.65,
+          "end": 17.79,
+          "probability": 0.17
+        },
+        {
+          "word": "hãy",
+          "start": 17.79,
+          "end": 17.83,
+          "probability": 0.21
+        },
+        {
+          "word": "ở",
+          "start": 17.83,
+          "end": 17.95,
+          "probability": 0.38
+        },
+        {
+          "word": "bên.",
+          "start": 17.95,
+          "end": 18.29,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 18.83,
+      "end": 20.07,
+      "text": "Dạ bản hiểu về xácник.",
+      "words": [
+        {
+          "word": "Dạ",
+          "start": 18.83,
+          "end": 18.99,
+          "probability": 0.03
+        },
+        {
+          "word": "bản",
+          "start": 18.99,
+          "end": 19.21,
+          "probability": 0.59
+        },
+        {
+          "word": "hiểu",
+          "start": 19.21,
+          "end": 19.43,
+          "probability": 0.36
+        },
+        {
+          "word": "về",
+          "start": 19.43,
+          "end": 19.67,
+          "probability": 0.6
+        },
+        {
+          "word": "xácник.",
+          "start": 19.67,
+          "end": 20.07,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 20.35,
+      "end": 22.23,
+      "text": "Thì bản của bạn thân, và cái chọn ngành của họ.",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 20.35,
+          "end": 20.35,
+          "probability": 0.33
+        },
+        {
+          "word": "bản",
+          "start": 20.35,
+          "end": 20.51,
+          "probability": 0.66
+        },
+        {
+          "word": "của",
+          "start": 20.51,
+          "end": 20.61,
+          "probability": 0.58
+        },
+        {
+          "word": "bạn",
+          "start": 20.61,
+          "end": 20.83,
+          "probability": 0.23
+        },
+        {
+          "word": "thân,",
+          "start": 20.83,
+          "end": 21.05,
+          "probability": 0.54
+        },
+        {
+          "word": "và",
+          "start": 21.31,
+          "end": 21.31,
+          "probability": 0.11
+        },
+        {
+          "word": "cái",
+          "start": 21.31,
+          "end": 21.45,
+          "probability": 0.18
+        },
+        {
+          "word": "chọn",
+          "start": 21.45,
+          "end": 21.63,
+          "probability": 0.58
+        },
+        {
+          "word": "ngành",
+          "start": 21.63,
+          "end": 21.87,
+          "probability": 0.51
+        },
+        {
+          "word": "của",
+          "start": 21.87,
+          "end": 22.03,
+          "probability": 0.59
+        },
+        {
+          "word": "họ.",
+          "start": 22.03,
+          "end": 22.23,
+          "probability": 0.03
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "item_id": "tt_7263815731496668434",
+  "duration_seconds": 29.64,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "Chào hôm số 20s của 8.8.8.8.8.8. Hỏi hôm số 20s thì 8.8.8.8.8.8.8.8.8.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 5.09,
+      "end": 9.17,
+      "text": "Chào hôm số 20s của 8.8.8.8.8.8.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 5.09,
+          "end": 5.57,
+          "probability": 0.67
+        },
+        {
+          "word": "hôm",
+          "start": 5.57,
+          "end": 5.85,
+          "probability": 0.13
+        },
+        {
+          "word": "số",
+          "start": 5.85,
+          "end": 6.13,
+          "probability": 0.35
+        },
+        {
+          "word": "20s",
+          "start": 6.13,
+          "end": 6.85,
+          "probability": 0.19
+        },
+        {
+          "word": "của",
+          "start": 6.85,
+          "end": 7.01,
+          "probability": 0.94
+        },
+        {
+          "word": "8",
+          "start": 7.01,
+          "end": 7.31,
+          "probability": 0.86
+        },
+        {
+          "word": ".8",
+          "start": 7.31,
+          "end": 7.73,
+          "probability": 0.25
+        },
+        {
+          "word": ".8",
+          "start": 7.73,
+          "end": 7.79,
+          "probability": 0.22
+        },
+        {
+          "word": ".8",
+          "start": 7.79,
+          "end": 8.73,
+          "probability": 0.22
+        },
+        {
+          "word": ".8",
+          "start": 8.73,
+          "end": 8.75,
+          "probability": 0.26
+        },
+        {
+          "word": ".8.",
+          "start": 8.75,
+          "end": 9.17,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 9.17,
+      "end": 12.81,
+      "text": "Hỏi hôm số 20s thì 8.8.8.8.8.8.8.8.8.",
+      "words": [
+        {
+          "word": "Hỏi",
+          "start": 9.17,
+          "end": 9.41,
+          "probability": 0.15
+        },
+        {
+          "word": "hôm",
+          "start": 9.41,
+          "end": 9.77,
+          "probability": 0.6
+        },
+        {
+          "word": "số",
+          "start": 9.77,
+          "end": 10.01,
+          "probability": 0.98
+        },
+        {
+          "word": "20s",
+          "start": 10.01,
+          "end": 10.99,
+          "probability": 0.89
+        },
+        {
+          "word": "thì",
+          "start": 10.99,
+          "end": 11.21,
+          "probability": 0.07
+        },
+        {
+          "word": "8",
+          "start": 11.21,
+          "end": 11.53,
+          "probability": 0.84
+        },
+        {
+          "word": ".8",
+          "start": 11.53,
+          "end": 11.57,
+          "probability": 0.91
+        },
+        {
+          "word": ".8",
+          "start": 11.57,
+          "end": 11.71,
+          "probability": 0.85
+        },
+        {
+          "word": ".8",
+          "start": 11.71,
+          "end": 11.79,
+          "probability": 0.78
+        },
+        {
+          "word": ".8",
+          "start": 11.79,
+          "end": 11.81,
+          "probability": 0.67
+        },
+        {
+          "word": ".8",
+          "start": 11.81,
+          "end": 11.91,
+          "probability": 0.59
+        },
+        {
+          "word": ".8",
+          "start": 11.91,
+          "end": 11.97,
+          "probability": 0.53
+        },
+        {
+          "word": ".8",
+          "start": 11.97,
+          "end": 12.15,
+          "probability": 0.56
+        },
+        {
+          "word": ".8.",
+          "start": 12.15,
+          "end": 12.81,
+          "probability": 0.64
+        }
+      ]
+    }
+  ]
+}

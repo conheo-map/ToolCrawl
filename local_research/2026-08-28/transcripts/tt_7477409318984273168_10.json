@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7477409318984273168_10",
+  "duration_seconds": 19.56,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Hẹn gà cậu ngõ gà",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.18,
+      "text": "Hẹn gà cậu ngõ gà",
+      "words": [
+        {
+          "word": "Hẹn",
+          "start": 0.02,
+          "end": 1.18,
+          "probability": 0.19
+        },
+        {
+          "word": "gà",
+          "start": 1.18,
+          "end": 1.18,
+          "probability": 0.26
+        },
+        {
+          "word": "cậu",
+          "start": 1.18,
+          "end": 1.18,
+          "probability": 0.32
+        },
+        {
+          "word": "ngõ",
+          "start": 1.18,
+          "end": 1.18,
+          "probability": 0.01
+        },
+        {
+          "word": "gà",
+          "start": 1.18,
+          "end": 1.18,
+          "probability": 0.3
+        }
+      ]
+    }
+  ]
+}

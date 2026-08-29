@@ -1,0 +1,700 @@
+{
+  "item_id": "tt_7268576046633471234_01",
+  "duration_seconds": 28.09,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 99,
+  "text": "Nhà em là chờ cất dòng con của thay. Vợi thì không tích nghe thì hát đồng ý, cái nghe mấy tây 2 người vợi thay cho vi. Như vụ lần thay hát, là vợi thay xuống cho thay hát. Hãy là con người hình tụi bịt môn nghe thay đã truyền ra. Hãy nói là nạn ngon ngồi, hôm nay là mình chủ đi từ anh ngon. Hãy thay sẽ hát của các khúc bằng từ anh. Chào tăng nghe vào để kém một thịt, hãy hấp chán giữ si, bởi vì, theo, mì nó, gửi theo, chứ?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.88,
+      "text": "Nhà em là chờ cất dòng con của thay.",
+      "words": [
+        {
+          "word": "Nhà",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.34
+        },
+        {
+          "word": "em",
+          "start": 0.3,
+          "end": 0.52,
+          "probability": 0.95
+        },
+        {
+          "word": "là",
+          "start": 0.52,
+          "end": 0.74,
+          "probability": 0.31
+        },
+        {
+          "word": "chờ",
+          "start": 0.74,
+          "end": 0.94,
+          "probability": 0.43
+        },
+        {
+          "word": "cất",
+          "start": 0.94,
+          "end": 1.14,
+          "probability": 0.16
+        },
+        {
+          "word": "dòng",
+          "start": 1.14,
+          "end": 1.32,
+          "probability": 0.28
+        },
+        {
+          "word": "con",
+          "start": 1.32,
+          "end": 1.52,
+          "probability": 0.17
+        },
+        {
+          "word": "của",
+          "start": 1.52,
+          "end": 1.66,
+          "probability": 0.11
+        },
+        {
+          "word": "thay.",
+          "start": 1.66,
+          "end": 1.88,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.78,
+      "end": 4.88,
+      "text": "Vợi thì không tích nghe thì hát đồng ý,",
+      "words": [
+        {
+          "word": "Vợi",
+          "start": 2.78,
+          "end": 3.18,
+          "probability": 0.36
+        },
+        {
+          "word": "thì",
+          "start": 3.18,
+          "end": 3.3,
+          "probability": 0.16
+        },
+        {
+          "word": "không",
+          "start": 3.3,
+          "end": 3.48,
+          "probability": 0.91
+        },
+        {
+          "word": "tích",
+          "start": 3.48,
+          "end": 3.62,
+          "probability": 0.39
+        },
+        {
+          "word": "nghe",
+          "start": 3.62,
+          "end": 3.94,
+          "probability": 0.41
+        },
+        {
+          "word": "thì",
+          "start": 3.94,
+          "end": 4.12,
+          "probability": 0.21
+        },
+        {
+          "word": "hát",
+          "start": 4.12,
+          "end": 4.24,
+          "probability": 0.56
+        },
+        {
+          "word": "đồng",
+          "start": 4.24,
+          "end": 4.48,
+          "probability": 0.4
+        },
+        {
+          "word": "ý,",
+          "start": 4.48,
+          "end": 4.88,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.88,
+      "end": 6.9,
+      "text": "cái nghe mấy tây 2 người vợi thay cho vi.",
+      "words": [
+        {
+          "word": "cái",
+          "start": 4.88,
+          "end": 5.04,
+          "probability": 0.11
+        },
+        {
+          "word": "nghe",
+          "start": 5.04,
+          "end": 5.14,
+          "probability": 0.55
+        },
+        {
+          "word": "mấy",
+          "start": 5.14,
+          "end": 5.26,
+          "probability": 0.3
+        },
+        {
+          "word": "tây",
+          "start": 5.26,
+          "end": 5.42,
+          "probability": 0.18
+        },
+        {
+          "word": "2",
+          "start": 5.42,
+          "end": 5.62,
+          "probability": 0.37
+        },
+        {
+          "word": "người",
+          "start": 5.62,
+          "end": 5.84,
+          "probability": 0.16
+        },
+        {
+          "word": "vợi",
+          "start": 5.84,
+          "end": 6.16,
+          "probability": 0.53
+        },
+        {
+          "word": "thay",
+          "start": 6.16,
+          "end": 6.24,
+          "probability": 0.56
+        },
+        {
+          "word": "cho",
+          "start": 6.24,
+          "end": 6.56,
+          "probability": 0.07
+        },
+        {
+          "word": "vi.",
+          "start": 6.56,
+          "end": 6.9,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.08,
+      "end": 9.1,
+      "text": "Như vụ lần thay hát, là vợi thay xuống cho thay hát.",
+      "words": [
+        {
+          "word": "Như",
+          "start": 7.08,
+          "end": 7.16,
+          "probability": 0.18
+        },
+        {
+          "word": "vụ",
+          "start": 7.16,
+          "end": 7.24,
+          "probability": 0.38
+        },
+        {
+          "word": "lần",
+          "start": 7.24,
+          "end": 7.44,
+          "probability": 0.6
+        },
+        {
+          "word": "thay",
+          "start": 7.44,
+          "end": 7.6,
+          "probability": 0.23
+        },
+        {
+          "word": "hát,",
+          "start": 7.6,
+          "end": 7.74,
+          "probability": 0.59
+        },
+        {
+          "word": "là",
+          "start": 7.84,
+          "end": 7.88,
+          "probability": 0.1
+        },
+        {
+          "word": "vợi",
+          "start": 7.88,
+          "end": 8.08,
+          "probability": 0.9
+        },
+        {
+          "word": "thay",
+          "start": 8.08,
+          "end": 8.16,
+          "probability": 0.96
+        },
+        {
+          "word": "xuống",
+          "start": 8.16,
+          "end": 8.44,
+          "probability": 0.61
+        },
+        {
+          "word": "cho",
+          "start": 8.44,
+          "end": 8.62,
+          "probability": 0.72
+        },
+        {
+          "word": "thay",
+          "start": 8.62,
+          "end": 8.7,
+          "probability": 0.89
+        },
+        {
+          "word": "hát.",
+          "start": 8.7,
+          "end": 9.1,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.92,
+      "end": 12.14,
+      "text": "Hãy là con người hình tụi bịt môn nghe thay đã truyền ra.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 9.92,
+          "end": 10.06,
+          "probability": 0.39
+        },
+        {
+          "word": "là",
+          "start": 10.06,
+          "end": 10.22,
+          "probability": 0.11
+        },
+        {
+          "word": "con",
+          "start": 10.22,
+          "end": 10.36,
+          "probability": 0.5
+        },
+        {
+          "word": "người",
+          "start": 10.36,
+          "end": 10.56,
+          "probability": 0.08
+        },
+        {
+          "word": "hình",
+          "start": 10.56,
+          "end": 10.64,
+          "probability": 0.46
+        },
+        {
+          "word": "tụi",
+          "start": 10.64,
+          "end": 10.78,
+          "probability": 0.39
+        },
+        {
+          "word": "bịt",
+          "start": 10.78,
+          "end": 10.92,
+          "probability": 0.61
+        },
+        {
+          "word": "môn",
+          "start": 10.92,
+          "end": 11.1,
+          "probability": 0.25
+        },
+        {
+          "word": "nghe",
+          "start": 11.1,
+          "end": 11.34,
+          "probability": 0.35
+        },
+        {
+          "word": "thay",
+          "start": 11.34,
+          "end": 11.42,
+          "probability": 0.66
+        },
+        {
+          "word": "đã",
+          "start": 11.42,
+          "end": 11.64,
+          "probability": 0.32
+        },
+        {
+          "word": "truyền",
+          "start": 11.64,
+          "end": 11.9,
+          "probability": 0.62
+        },
+        {
+          "word": "ra.",
+          "start": 11.9,
+          "end": 12.14,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.58,
+      "end": 14.62,
+      "text": "Hãy nói là nạn ngon ngồi,",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 13.58,
+          "end": 13.76,
+          "probability": 0.47
+        },
+        {
+          "word": "nói",
+          "start": 13.76,
+          "end": 13.76,
+          "probability": 0.31
+        },
+        {
+          "word": "là",
+          "start": 13.76,
+          "end": 13.9,
+          "probability": 0.69
+        },
+        {
+          "word": "nạn",
+          "start": 13.9,
+          "end": 14.1,
+          "probability": 0.29
+        },
+        {
+          "word": "ngon",
+          "start": 14.1,
+          "end": 14.34,
+          "probability": 0.33
+        },
+        {
+          "word": "ngồi,",
+          "start": 14.34,
+          "end": 14.62,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 14.62,
+      "end": 16.02,
+      "text": "hôm nay là mình chủ đi từ anh ngon.",
+      "words": [
+        {
+          "word": "hôm",
+          "start": 14.62,
+          "end": 14.82,
+          "probability": 0.41
+        },
+        {
+          "word": "nay",
+          "start": 14.82,
+          "end": 14.9,
+          "probability": 0.99
+        },
+        {
+          "word": "là",
+          "start": 14.9,
+          "end": 15.04,
+          "probability": 0.21
+        },
+        {
+          "word": "mình",
+          "start": 15.04,
+          "end": 15.2,
+          "probability": 0.21
+        },
+        {
+          "word": "chủ",
+          "start": 15.2,
+          "end": 15.32,
+          "probability": 0.5
+        },
+        {
+          "word": "đi",
+          "start": 15.32,
+          "end": 15.42,
+          "probability": 0.24
+        },
+        {
+          "word": "từ",
+          "start": 15.42,
+          "end": 15.56,
+          "probability": 0.23
+        },
+        {
+          "word": "anh",
+          "start": 15.56,
+          "end": 15.7,
+          "probability": 0.09
+        },
+        {
+          "word": "ngon.",
+          "start": 15.7,
+          "end": 16.02,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.34,
+      "end": 18.22,
+      "text": "Hãy thay sẽ hát của các khúc bằng từ anh.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 16.34,
+          "end": 16.42,
+          "probability": 0.53
+        },
+        {
+          "word": "thay",
+          "start": 16.42,
+          "end": 16.62,
+          "probability": 0.62
+        },
+        {
+          "word": "sẽ",
+          "start": 16.62,
+          "end": 16.86,
+          "probability": 0.19
+        },
+        {
+          "word": "hát",
+          "start": 16.86,
+          "end": 16.94,
+          "probability": 0.35
+        },
+        {
+          "word": "của",
+          "start": 16.94,
+          "end": 17.06,
+          "probability": 0.3
+        },
+        {
+          "word": "các",
+          "start": 17.06,
+          "end": 17.24,
+          "probability": 0.34
+        },
+        {
+          "word": "khúc",
+          "start": 17.24,
+          "end": 17.44,
+          "probability": 0.5
+        },
+        {
+          "word": "bằng",
+          "start": 17.44,
+          "end": 17.62,
+          "probability": 0.76
+        },
+        {
+          "word": "từ",
+          "start": 17.62,
+          "end": 17.76,
+          "probability": 0.87
+        },
+        {
+          "word": "anh.",
+          "start": 17.76,
+          "end": 18.22,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 18.64,
+      "end": 19.86,
+      "text": "Chào tăng nghe vào để kém một thịt,",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 18.64,
+          "end": 18.64,
+          "probability": 0.37
+        },
+        {
+          "word": "tăng",
+          "start": 18.64,
+          "end": 18.72,
+          "probability": 0.72
+        },
+        {
+          "word": "nghe",
+          "start": 18.72,
+          "end": 18.88,
+          "probability": 0.62
+        },
+        {
+          "word": "vào",
+          "start": 18.88,
+          "end": 19.08,
+          "probability": 0.94
+        },
+        {
+          "word": "để",
+          "start": 19.08,
+          "end": 19.32,
+          "probability": 0.64
+        },
+        {
+          "word": "kém",
+          "start": 19.32,
+          "end": 19.56,
+          "probability": 0.16
+        },
+        {
+          "word": "một",
+          "start": 19.56,
+          "end": 19.7,
+          "probability": 0.14
+        },
+        {
+          "word": "thịt,",
+          "start": 19.7,
+          "end": 19.86,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 19.96,
+      "end": 22.3,
+      "text": "hãy hấp chán giữ si,",
+      "words": [
+        {
+          "word": "hãy",
+          "start": 19.96,
+          "end": 20.12,
+          "probability": 0.24
+        },
+        {
+          "word": "hấp",
+          "start": 20.12,
+          "end": 20.82,
+          "probability": 0.23
+        },
+        {
+          "word": "chán",
+          "start": 20.82,
+          "end": 21.16,
+          "probability": 0.16
+        },
+        {
+          "word": "giữ",
+          "start": 21.16,
+          "end": 21.56,
+          "probability": 0.1
+        },
+        {
+          "word": "si,",
+          "start": 21.56,
+          "end": 22.3,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 24.0,
+      "end": 24.8,
+      "text": "bởi vì,",
+      "words": [
+        {
+          "word": "bởi",
+          "start": 24.0,
+          "end": 24.4,
+          "probability": 0.43
+        },
+        {
+          "word": "vì,",
+          "start": 24.4,
+          "end": 24.8,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 25.1,
+      "end": 27.78,
+      "text": "theo, mì nó, gửi theo, chứ?",
+      "words": [
+        {
+          "word": "theo,",
+          "start": 25.1,
+          "end": 25.5,
+          "probability": 0.06
+        },
+        {
+          "word": "mì",
+          "start": 25.5,
+          "end": 26.06,
+          "probability": 0.24
+        },
+        {
+          "word": "nó,",
+          "start": 26.06,
+          "end": 26.5,
+          "probability": 0.28
+        },
+        {
+          "word": "gửi",
+          "start": 26.52,
+          "end": 26.74,
+          "probability": 0.39
+        },
+        {
+          "word": "theo,",
+          "start": 26.74,
+          "end": 27.3,
+          "probability": 0.04
+        },
+        {
+          "word": "chứ?",
+          "start": 27.52,
+          "end": 27.78,
+          "probability": 0.36
+        }
+      ]
+    }
+  ]
+}

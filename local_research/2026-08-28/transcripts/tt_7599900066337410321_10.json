@@ -1,0 +1,740 @@
+{
+  "item_id": "tt_7599900066337410321_10",
+  "duration_seconds": 28.89,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 91,
+  "text": "Nó sẽ ở bên dưới hôm ở đây, đây 1 bằng hôm, từ loại gian tìm là bên hài, mong 1 phần bà, nhưng 1 chú hôm, 1 phần bà. P bà, 1 phần bà, nhưng 1 chú, 1 phần bà. Bà mong nhiều đấy, bằng 2 phần chiến, và P, 1, và sau nó nhẹn thịt 1, 1 phần bà, nhưng 1 chú đi 2 phần chiến. Đi chào. Ok, cái này ông bẩy phần, hai bẩy. Gian tính là P năm P, sau P bẩy P, P mua đi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 2.24,
+      "text": "Nó sẽ ở bên dưới hôm ở đây,",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 0.02,
+          "end": 0.56,
+          "probability": 0.61
+        },
+        {
+          "word": "sẽ",
+          "start": 0.56,
+          "end": 0.68,
+          "probability": 0.9
+        },
+        {
+          "word": "ở",
+          "start": 0.68,
+          "end": 0.88,
+          "probability": 0.64
+        },
+        {
+          "word": "bên",
+          "start": 0.88,
+          "end": 0.92,
+          "probability": 0.31
+        },
+        {
+          "word": "dưới",
+          "start": 0.92,
+          "end": 1.16,
+          "probability": 0.56
+        },
+        {
+          "word": "hôm",
+          "start": 1.16,
+          "end": 1.64,
+          "probability": 0.47
+        },
+        {
+          "word": "ở",
+          "start": 1.64,
+          "end": 1.98,
+          "probability": 0.14
+        },
+        {
+          "word": "đây,",
+          "start": 1.98,
+          "end": 2.24,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.76,
+      "end": 3.78,
+      "text": "đây 1 bằng hôm,",
+      "words": [
+        {
+          "word": "đây",
+          "start": 2.76,
+          "end": 2.94,
+          "probability": 0.1
+        },
+        {
+          "word": "1",
+          "start": 2.94,
+          "end": 3.08,
+          "probability": 0.82
+        },
+        {
+          "word": "bằng",
+          "start": 3.08,
+          "end": 3.24,
+          "probability": 0.48
+        },
+        {
+          "word": "hôm,",
+          "start": 3.24,
+          "end": 3.78,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.98,
+      "end": 5.3,
+      "text": "từ loại gian tìm là bên hài,",
+      "words": [
+        {
+          "word": "từ",
+          "start": 3.98,
+          "end": 4.06,
+          "probability": 0.26
+        },
+        {
+          "word": "loại",
+          "start": 4.06,
+          "end": 4.14,
+          "probability": 0.4
+        },
+        {
+          "word": "gian",
+          "start": 4.14,
+          "end": 4.3,
+          "probability": 0.11
+        },
+        {
+          "word": "tìm",
+          "start": 4.3,
+          "end": 4.4,
+          "probability": 0.54
+        },
+        {
+          "word": "là",
+          "start": 4.4,
+          "end": 4.52,
+          "probability": 0.18
+        },
+        {
+          "word": "bên",
+          "start": 4.52,
+          "end": 4.8,
+          "probability": 0.11
+        },
+        {
+          "word": "hài,",
+          "start": 4.8,
+          "end": 5.3,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.92,
+      "end": 6.68,
+      "text": "mong 1 phần bà,",
+      "words": [
+        {
+          "word": "mong",
+          "start": 5.92,
+          "end": 5.94,
+          "probability": 0.26
+        },
+        {
+          "word": "1",
+          "start": 5.94,
+          "end": 6.16,
+          "probability": 0.28
+        },
+        {
+          "word": "phần",
+          "start": 6.16,
+          "end": 6.36,
+          "probability": 0.56
+        },
+        {
+          "word": "bà,",
+          "start": 6.36,
+          "end": 6.68,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.72,
+      "end": 7.86,
+      "text": "nhưng 1 chú hôm,",
+      "words": [
+        {
+          "word": "nhưng",
+          "start": 6.72,
+          "end": 6.84,
+          "probability": 0.11
+        },
+        {
+          "word": "1",
+          "start": 6.84,
+          "end": 7.04,
+          "probability": 0.24
+        },
+        {
+          "word": "chú",
+          "start": 7.04,
+          "end": 7.38,
+          "probability": 0.18
+        },
+        {
+          "word": "hôm,",
+          "start": 7.38,
+          "end": 7.86,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.1,
+      "end": 9.28,
+      "text": "1 phần bà.",
+      "words": [
+        {
+          "word": "1",
+          "start": 8.1,
+          "end": 8.14,
+          "probability": 0.42
+        },
+        {
+          "word": "phần",
+          "start": 8.14,
+          "end": 8.4,
+          "probability": 0.72
+        },
+        {
+          "word": "bà.",
+          "start": 8.4,
+          "end": 9.28,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 10.4,
+      "end": 11.38,
+      "text": "P bà,",
+      "words": [
+        {
+          "word": "P",
+          "start": 10.4,
+          "end": 10.6,
+          "probability": 0.2
+        },
+        {
+          "word": "bà,",
+          "start": 10.6,
+          "end": 11.38,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 11.76,
+      "end": 12.44,
+      "text": "1 phần bà,",
+      "words": [
+        {
+          "word": "1",
+          "start": 11.76,
+          "end": 11.78,
+          "probability": 0.68
+        },
+        {
+          "word": "phần",
+          "start": 11.78,
+          "end": 12.08,
+          "probability": 0.97
+        },
+        {
+          "word": "bà,",
+          "start": 12.08,
+          "end": 12.44,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 12.58,
+      "end": 13.22,
+      "text": "nhưng 1 chú,",
+      "words": [
+        {
+          "word": "nhưng",
+          "start": 12.58,
+          "end": 12.62,
+          "probability": 0.93
+        },
+        {
+          "word": "1",
+          "start": 12.62,
+          "end": 12.92,
+          "probability": 0.96
+        },
+        {
+          "word": "chú,",
+          "start": 12.92,
+          "end": 13.22,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 13.4,
+      "end": 14.04,
+      "text": "1 phần bà.",
+      "words": [
+        {
+          "word": "1",
+          "start": 13.4,
+          "end": 13.42,
+          "probability": 0.41
+        },
+        {
+          "word": "phần",
+          "start": 13.42,
+          "end": 13.62,
+          "probability": 0.98
+        },
+        {
+          "word": "bà.",
+          "start": 13.62,
+          "end": 14.04,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 14.66,
+      "end": 15.4,
+      "text": "Bà mong nhiều đấy,",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 14.66,
+          "end": 14.74,
+          "probability": 0.44
+        },
+        {
+          "word": "mong",
+          "start": 14.74,
+          "end": 14.86,
+          "probability": 0.29
+        },
+        {
+          "word": "nhiều",
+          "start": 14.86,
+          "end": 14.96,
+          "probability": 0.09
+        },
+        {
+          "word": "đấy,",
+          "start": 14.96,
+          "end": 15.4,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 15.72,
+      "end": 16.6,
+      "text": "bằng 2 phần chiến,",
+      "words": [
+        {
+          "word": "bằng",
+          "start": 15.72,
+          "end": 15.8,
+          "probability": 0.71
+        },
+        {
+          "word": "2",
+          "start": 15.8,
+          "end": 16.06,
+          "probability": 0.76
+        },
+        {
+          "word": "phần",
+          "start": 16.06,
+          "end": 16.32,
+          "probability": 0.99
+        },
+        {
+          "word": "chiến,",
+          "start": 16.32,
+          "end": 16.6,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 16.82,
+      "end": 17.28,
+      "text": "và P,",
+      "words": [
+        {
+          "word": "và",
+          "start": 16.82,
+          "end": 16.84,
+          "probability": 0.38
+        },
+        {
+          "word": "P,",
+          "start": 16.84,
+          "end": 17.28,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 17.64,
+      "end": 17.78,
+      "text": "1,",
+      "words": [
+        {
+          "word": "1,",
+          "start": 17.64,
+          "end": 17.78,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 17.96,
+      "end": 18.8,
+      "text": "và sau nó nhẹn thịt 1,",
+      "words": [
+        {
+          "word": "và",
+          "start": 17.96,
+          "end": 18.08,
+          "probability": 0.17
+        },
+        {
+          "word": "sau",
+          "start": 18.08,
+          "end": 18.24,
+          "probability": 0.46
+        },
+        {
+          "word": "nó",
+          "start": 18.24,
+          "end": 18.4,
+          "probability": 0.07
+        },
+        {
+          "word": "nhẹn",
+          "start": 18.4,
+          "end": 18.66,
+          "probability": 0.19
+        },
+        {
+          "word": "thịt",
+          "start": 18.66,
+          "end": 18.66,
+          "probability": 0.4
+        },
+        {
+          "word": "1,",
+          "start": 18.66,
+          "end": 18.8,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 19.28,
+      "end": 20.12,
+      "text": "1 phần bà,",
+      "words": [
+        {
+          "word": "1",
+          "start": 19.28,
+          "end": 19.68,
+          "probability": 0.0
+        },
+        {
+          "word": "phần",
+          "start": 19.68,
+          "end": 19.92,
+          "probability": 0.94
+        },
+        {
+          "word": "bà,",
+          "start": 19.92,
+          "end": 20.12,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 20.28,
+      "end": 21.68,
+      "text": "nhưng 1 chú đi 2 phần chiến.",
+      "words": [
+        {
+          "word": "nhưng",
+          "start": 20.28,
+          "end": 20.3,
+          "probability": 0.95
+        },
+        {
+          "word": "1",
+          "start": 20.3,
+          "end": 20.62,
+          "probability": 0.94
+        },
+        {
+          "word": "chú",
+          "start": 20.62,
+          "end": 20.74,
+          "probability": 0.95
+        },
+        {
+          "word": "đi",
+          "start": 20.74,
+          "end": 20.9,
+          "probability": 0.48
+        },
+        {
+          "word": "2",
+          "start": 20.9,
+          "end": 21.08,
+          "probability": 0.95
+        },
+        {
+          "word": "phần",
+          "start": 21.08,
+          "end": 21.28,
+          "probability": 0.99
+        },
+        {
+          "word": "chiến.",
+          "start": 21.28,
+          "end": 21.68,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 22.12,
+      "end": 22.34,
+      "text": "Đi chào.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 22.12,
+          "end": 22.22,
+          "probability": 0.36
+        },
+        {
+          "word": "chào.",
+          "start": 22.22,
+          "end": 22.34,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 22.92,
+      "end": 24.1,
+      "text": "Ok, cái này ông bẩy phần,",
+      "words": [
+        {
+          "word": "Ok,",
+          "start": 22.92,
+          "end": 23.12,
+          "probability": 0.32
+        },
+        {
+          "word": "cái",
+          "start": 23.22,
+          "end": 23.24,
+          "probability": 0.75
+        },
+        {
+          "word": "này",
+          "start": 23.24,
+          "end": 23.34,
+          "probability": 0.91
+        },
+        {
+          "word": "ông",
+          "start": 23.34,
+          "end": 23.48,
+          "probability": 0.18
+        },
+        {
+          "word": "bẩy",
+          "start": 23.48,
+          "end": 23.64,
+          "probability": 0.54
+        },
+        {
+          "word": "phần,",
+          "start": 23.64,
+          "end": 24.1,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 24.38,
+      "end": 24.56,
+      "text": "hai bẩy.",
+      "words": [
+        {
+          "word": "hai",
+          "start": 24.38,
+          "end": 24.4,
+          "probability": 0.17
+        },
+        {
+          "word": "bẩy.",
+          "start": 24.4,
+          "end": 24.56,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 26.14,
+      "end": 27.26,
+      "text": "Gian tính là P năm P,",
+      "words": [
+        {
+          "word": "Gian",
+          "start": 26.14,
+          "end": 26.32,
+          "probability": 0.27
+        },
+        {
+          "word": "tính",
+          "start": 26.32,
+          "end": 26.54,
+          "probability": 0.63
+        },
+        {
+          "word": "là",
+          "start": 26.54,
+          "end": 26.66,
+          "probability": 0.07
+        },
+        {
+          "word": "P",
+          "start": 26.66,
+          "end": 26.84,
+          "probability": 0.86
+        },
+        {
+          "word": "năm",
+          "start": 26.84,
+          "end": 27.04,
+          "probability": 0.37
+        },
+        {
+          "word": "P,",
+          "start": 27.04,
+          "end": 27.26,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 27.42,
+      "end": 28.02,
+      "text": "sau P bẩy P,",
+      "words": [
+        {
+          "word": "sau",
+          "start": 27.42,
+          "end": 27.42,
+          "probability": 0.44
+        },
+        {
+          "word": "P",
+          "start": 27.42,
+          "end": 27.62,
+          "probability": 0.92
+        },
+        {
+          "word": "bẩy",
+          "start": 27.62,
+          "end": 27.82,
+          "probability": 0.77
+        },
+        {
+          "word": "P,",
+          "start": 27.82,
+          "end": 28.02,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 28.06,
+      "end": 28.36,
+      "text": "P mua đi.",
+      "words": [
+        {
+          "word": "P",
+          "start": 28.06,
+          "end": 28.06,
+          "probability": 0.03
+        },
+        {
+          "word": "mua",
+          "start": 28.06,
+          "end": 28.16,
+          "probability": 0.18
+        },
+        {
+          "word": "đi.",
+          "start": 28.16,
+          "end": 28.36,
+          "probability": 0.2
+        }
+      ]
+    }
+  ]
+}

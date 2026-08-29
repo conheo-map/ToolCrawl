@@ -1,0 +1,892 @@
+{
+  "item_id": "tt_7617814511021559041_01",
+  "duration_seconds": 29.02,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 131,
+  "text": "Cái nước mờ đầu buổi dạy sẽ xuất bằng ví dụ rất tủ vi. Nói chó là dạy dạy dạy dạy dạy dạy dạy dạy. Trong thực tế, tán luôn có mong nềm tín bàn đầu về một sự viê. Khi xuất hiện một thống tín mới, nềm tín nó cần được điều gì. Ở thực tế cho nó có đi tưởng tượng như nó người thứ ba. Hoa, trong tình yêu, trong tình yêu. Em và bản gái. Hay đưa đang yêu nhau rất là đồng tham. Tìa hay đưa đều có mong nềm tín nó chúng ta sẽ sửa nơi đầu bà phrang ngon. Nó cai yêu nhau, chúng ta đã nghĩ nó chúng ta sẽ có vinh nhau bà nhiều đôi con rồi sẽ đặt tên con rồi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.22,
+      "text": "Cái nước mờ đầu buổi dạy sẽ xuất bằng ví dụ rất tủ vi.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.0,
+          "end": 0.1,
+          "probability": 0.46
+        },
+        {
+          "word": "nước",
+          "start": 0.1,
+          "end": 0.26,
+          "probability": 0.34
+        },
+        {
+          "word": "mờ",
+          "start": 0.26,
+          "end": 0.4,
+          "probability": 0.54
+        },
+        {
+          "word": "đầu",
+          "start": 0.4,
+          "end": 0.62,
+          "probability": 0.76
+        },
+        {
+          "word": "buổi",
+          "start": 0.62,
+          "end": 0.72,
+          "probability": 0.66
+        },
+        {
+          "word": "dạy",
+          "start": 0.72,
+          "end": 0.88,
+          "probability": 0.55
+        },
+        {
+          "word": "sẽ",
+          "start": 0.88,
+          "end": 1.08,
+          "probability": 0.55
+        },
+        {
+          "word": "xuất",
+          "start": 1.08,
+          "end": 1.2,
+          "probability": 0.85
+        },
+        {
+          "word": "bằng",
+          "start": 1.2,
+          "end": 1.38,
+          "probability": 0.92
+        },
+        {
+          "word": "ví",
+          "start": 1.38,
+          "end": 1.54,
+          "probability": 0.41
+        },
+        {
+          "word": "dụ",
+          "start": 1.54,
+          "end": 1.68,
+          "probability": 0.82
+        },
+        {
+          "word": "rất",
+          "start": 1.68,
+          "end": 1.88,
+          "probability": 0.45
+        },
+        {
+          "word": "tủ",
+          "start": 1.88,
+          "end": 2.04,
+          "probability": 0.38
+        },
+        {
+          "word": "vi.",
+          "start": 2.04,
+          "end": 2.22,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.3,
+      "end": 4.98,
+      "text": "Nói chó là dạy dạy dạy dạy dạy dạy dạy dạy.",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 2.3,
+          "end": 2.56,
+          "probability": 0.47
+        },
+        {
+          "word": "chó",
+          "start": 2.56,
+          "end": 2.58,
+          "probability": 0.28
+        },
+        {
+          "word": "là",
+          "start": 2.58,
+          "end": 2.66,
+          "probability": 0.31
+        },
+        {
+          "word": "dạy",
+          "start": 2.66,
+          "end": 2.8,
+          "probability": 0.23
+        },
+        {
+          "word": "dạy",
+          "start": 2.8,
+          "end": 2.84,
+          "probability": 0.47
+        },
+        {
+          "word": "dạy",
+          "start": 2.84,
+          "end": 3.04,
+          "probability": 0.7
+        },
+        {
+          "word": "dạy",
+          "start": 3.04,
+          "end": 3.4,
+          "probability": 0.75
+        },
+        {
+          "word": "dạy",
+          "start": 3.4,
+          "end": 4.22,
+          "probability": 0.81
+        },
+        {
+          "word": "dạy",
+          "start": 4.22,
+          "end": 4.4,
+          "probability": 0.84
+        },
+        {
+          "word": "dạy",
+          "start": 4.4,
+          "end": 4.68,
+          "probability": 0.82
+        },
+        {
+          "word": "dạy.",
+          "start": 4.68,
+          "end": 4.98,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.42,
+      "end": 6.16,
+      "text": "Trong thực tế,",
+      "words": [
+        {
+          "word": "Trong",
+          "start": 5.42,
+          "end": 5.56,
+          "probability": 0.59
+        },
+        {
+          "word": "thực",
+          "start": 5.56,
+          "end": 5.84,
+          "probability": 0.23
+        },
+        {
+          "word": "tế,",
+          "start": 5.84,
+          "end": 6.16,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.54,
+      "end": 8.94,
+      "text": "tán luôn có mong nềm tín bàn đầu về một sự viê.",
+      "words": [
+        {
+          "word": "tán",
+          "start": 6.54,
+          "end": 6.68,
+          "probability": 0.12
+        },
+        {
+          "word": "luôn",
+          "start": 6.68,
+          "end": 6.86,
+          "probability": 0.75
+        },
+        {
+          "word": "có",
+          "start": 6.86,
+          "end": 7.04,
+          "probability": 0.83
+        },
+        {
+          "word": "mong",
+          "start": 7.04,
+          "end": 7.18,
+          "probability": 0.22
+        },
+        {
+          "word": "nềm",
+          "start": 7.18,
+          "end": 7.36,
+          "probability": 0.48
+        },
+        {
+          "word": "tín",
+          "start": 7.36,
+          "end": 7.56,
+          "probability": 0.43
+        },
+        {
+          "word": "bàn",
+          "start": 7.56,
+          "end": 7.76,
+          "probability": 0.4
+        },
+        {
+          "word": "đầu",
+          "start": 7.76,
+          "end": 7.98,
+          "probability": 0.95
+        },
+        {
+          "word": "về",
+          "start": 7.98,
+          "end": 8.16,
+          "probability": 0.71
+        },
+        {
+          "word": "một",
+          "start": 8.16,
+          "end": 8.3,
+          "probability": 0.75
+        },
+        {
+          "word": "sự",
+          "start": 8.3,
+          "end": 8.44,
+          "probability": 0.59
+        },
+        {
+          "word": "viê.",
+          "start": 8.44,
+          "end": 8.94,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.32,
+      "end": 10.6,
+      "text": "Khi xuất hiện một thống tín mới,",
+      "words": [
+        {
+          "word": "Khi",
+          "start": 9.32,
+          "end": 9.48,
+          "probability": 0.6
+        },
+        {
+          "word": "xuất",
+          "start": 9.48,
+          "end": 9.64,
+          "probability": 0.72
+        },
+        {
+          "word": "hiện",
+          "start": 9.64,
+          "end": 9.74,
+          "probability": 0.61
+        },
+        {
+          "word": "một",
+          "start": 9.74,
+          "end": 9.9,
+          "probability": 0.75
+        },
+        {
+          "word": "thống",
+          "start": 9.9,
+          "end": 10.08,
+          "probability": 0.47
+        },
+        {
+          "word": "tín",
+          "start": 10.08,
+          "end": 10.22,
+          "probability": 0.71
+        },
+        {
+          "word": "mới,",
+          "start": 10.22,
+          "end": 10.6,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.9,
+      "end": 12.22,
+      "text": "nềm tín nó cần được điều gì.",
+      "words": [
+        {
+          "word": "nềm",
+          "start": 10.9,
+          "end": 10.96,
+          "probability": 0.77
+        },
+        {
+          "word": "tín",
+          "start": 10.96,
+          "end": 11.14,
+          "probability": 0.94
+        },
+        {
+          "word": "nó",
+          "start": 11.14,
+          "end": 11.46,
+          "probability": 0.54
+        },
+        {
+          "word": "cần",
+          "start": 11.46,
+          "end": 11.68,
+          "probability": 0.81
+        },
+        {
+          "word": "được",
+          "start": 11.68,
+          "end": 11.86,
+          "probability": 0.95
+        },
+        {
+          "word": "điều",
+          "start": 11.86,
+          "end": 12.02,
+          "probability": 0.82
+        },
+        {
+          "word": "gì.",
+          "start": 12.02,
+          "end": 12.22,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.42,
+      "end": 14.76,
+      "text": "Ở thực tế cho nó có đi tưởng tượng như nó người thứ ba.",
+      "words": [
+        {
+          "word": "Ở",
+          "start": 12.42,
+          "end": 12.42,
+          "probability": 0.35
+        },
+        {
+          "word": "thực",
+          "start": 12.42,
+          "end": 12.54,
+          "probability": 0.96
+        },
+        {
+          "word": "tế",
+          "start": 12.54,
+          "end": 12.64,
+          "probability": 1.0
+        },
+        {
+          "word": "cho",
+          "start": 12.64,
+          "end": 12.82,
+          "probability": 0.31
+        },
+        {
+          "word": "nó",
+          "start": 12.82,
+          "end": 12.9,
+          "probability": 0.9
+        },
+        {
+          "word": "có",
+          "start": 12.9,
+          "end": 13.06,
+          "probability": 0.62
+        },
+        {
+          "word": "đi",
+          "start": 13.06,
+          "end": 13.08,
+          "probability": 0.42
+        },
+        {
+          "word": "tưởng",
+          "start": 13.08,
+          "end": 13.26,
+          "probability": 0.48
+        },
+        {
+          "word": "tượng",
+          "start": 13.26,
+          "end": 13.4,
+          "probability": 0.64
+        },
+        {
+          "word": "như",
+          "start": 13.4,
+          "end": 13.68,
+          "probability": 0.75
+        },
+        {
+          "word": "nó",
+          "start": 13.68,
+          "end": 14.14,
+          "probability": 0.16
+        },
+        {
+          "word": "người",
+          "start": 14.14,
+          "end": 14.22,
+          "probability": 0.62
+        },
+        {
+          "word": "thứ",
+          "start": 14.22,
+          "end": 14.4,
+          "probability": 0.55
+        },
+        {
+          "word": "ba.",
+          "start": 14.4,
+          "end": 14.76,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.16,
+      "end": 16.96,
+      "text": "Hoa, trong tình yêu, trong tình yêu.",
+      "words": [
+        {
+          "word": "Hoa,",
+          "start": 15.16,
+          "end": 15.16,
+          "probability": 0.21
+        },
+        {
+          "word": "trong",
+          "start": 15.16,
+          "end": 15.34,
+          "probability": 0.44
+        },
+        {
+          "word": "tình",
+          "start": 15.34,
+          "end": 15.5,
+          "probability": 0.71
+        },
+        {
+          "word": "yêu,",
+          "start": 15.5,
+          "end": 15.66,
+          "probability": 0.74
+        },
+        {
+          "word": "trong",
+          "start": 16.02,
+          "end": 16.2,
+          "probability": 0.99
+        },
+        {
+          "word": "tình",
+          "start": 16.2,
+          "end": 16.36,
+          "probability": 0.99
+        },
+        {
+          "word": "yêu.",
+          "start": 16.36,
+          "end": 16.96,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 18.22,
+      "end": 19.42,
+      "text": "Em và bản gái.",
+      "words": [
+        {
+          "word": "Em",
+          "start": 18.22,
+          "end": 18.58,
+          "probability": 0.62
+        },
+        {
+          "word": "và",
+          "start": 18.58,
+          "end": 18.94,
+          "probability": 0.66
+        },
+        {
+          "word": "bản",
+          "start": 18.94,
+          "end": 19.06,
+          "probability": 0.44
+        },
+        {
+          "word": "gái.",
+          "start": 19.06,
+          "end": 19.42,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 19.7,
+      "end": 21.24,
+      "text": "Hay đưa đang yêu nhau rất là đồng tham.",
+      "words": [
+        {
+          "word": "Hay",
+          "start": 19.7,
+          "end": 19.86,
+          "probability": 0.22
+        },
+        {
+          "word": "đưa",
+          "start": 19.86,
+          "end": 19.96,
+          "probability": 0.6
+        },
+        {
+          "word": "đang",
+          "start": 19.96,
+          "end": 20.12,
+          "probability": 0.24
+        },
+        {
+          "word": "yêu",
+          "start": 20.12,
+          "end": 20.24,
+          "probability": 0.77
+        },
+        {
+          "word": "nhau",
+          "start": 20.24,
+          "end": 20.46,
+          "probability": 0.76
+        },
+        {
+          "word": "rất",
+          "start": 20.46,
+          "end": 20.64,
+          "probability": 0.86
+        },
+        {
+          "word": "là",
+          "start": 20.64,
+          "end": 20.68,
+          "probability": 0.72
+        },
+        {
+          "word": "đồng",
+          "start": 20.68,
+          "end": 20.86,
+          "probability": 0.52
+        },
+        {
+          "word": "tham.",
+          "start": 20.86,
+          "end": 21.24,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 21.24,
+      "end": 24.58,
+      "text": "Tìa hay đưa đều có mong nềm tín nó chúng ta sẽ sửa nơi đầu bà phrang ngon.",
+      "words": [
+        {
+          "word": "Tìa",
+          "start": 21.24,
+          "end": 21.66,
+          "probability": 0.24
+        },
+        {
+          "word": "hay",
+          "start": 21.66,
+          "end": 21.76,
+          "probability": 0.14
+        },
+        {
+          "word": "đưa",
+          "start": 21.76,
+          "end": 21.86,
+          "probability": 0.24
+        },
+        {
+          "word": "đều",
+          "start": 21.86,
+          "end": 22.02,
+          "probability": 0.6
+        },
+        {
+          "word": "có",
+          "start": 22.02,
+          "end": 22.14,
+          "probability": 0.78
+        },
+        {
+          "word": "mong",
+          "start": 22.14,
+          "end": 22.24,
+          "probability": 0.5
+        },
+        {
+          "word": "nềm",
+          "start": 22.24,
+          "end": 22.44,
+          "probability": 0.35
+        },
+        {
+          "word": "tín",
+          "start": 22.44,
+          "end": 22.56,
+          "probability": 0.29
+        },
+        {
+          "word": "nó",
+          "start": 22.56,
+          "end": 22.74,
+          "probability": 0.01
+        },
+        {
+          "word": "chúng",
+          "start": 22.74,
+          "end": 22.82,
+          "probability": 0.78
+        },
+        {
+          "word": "ta",
+          "start": 22.82,
+          "end": 22.94,
+          "probability": 0.96
+        },
+        {
+          "word": "sẽ",
+          "start": 22.94,
+          "end": 23.1,
+          "probability": 0.96
+        },
+        {
+          "word": "sửa",
+          "start": 23.1,
+          "end": 23.22,
+          "probability": 0.33
+        },
+        {
+          "word": "nơi",
+          "start": 23.22,
+          "end": 23.36,
+          "probability": 0.13
+        },
+        {
+          "word": "đầu",
+          "start": 23.36,
+          "end": 23.58,
+          "probability": 0.11
+        },
+        {
+          "word": "bà",
+          "start": 23.58,
+          "end": 23.76,
+          "probability": 0.29
+        },
+        {
+          "word": "phrang",
+          "start": 23.76,
+          "end": 24.02,
+          "probability": 0.33
+        },
+        {
+          "word": "ngon.",
+          "start": 24.02,
+          "end": 24.58,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 24.94,
+      "end": 28.58,
+      "text": "Nó cai yêu nhau, chúng ta đã nghĩ nó chúng ta sẽ có vinh nhau bà nhiều đôi con rồi sẽ đặt tên con rồi.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 24.94,
+          "end": 25.08,
+          "probability": 0.41
+        },
+        {
+          "word": "cai",
+          "start": 25.08,
+          "end": 25.24,
+          "probability": 0.53
+        },
+        {
+          "word": "yêu",
+          "start": 25.24,
+          "end": 25.38,
+          "probability": 0.2
+        },
+        {
+          "word": "nhau,",
+          "start": 25.38,
+          "end": 25.58,
+          "probability": 0.81
+        },
+        {
+          "word": "chúng",
+          "start": 25.62,
+          "end": 25.72,
+          "probability": 0.68
+        },
+        {
+          "word": "ta",
+          "start": 25.72,
+          "end": 25.8,
+          "probability": 0.99
+        },
+        {
+          "word": "đã",
+          "start": 25.8,
+          "end": 25.92,
+          "probability": 0.33
+        },
+        {
+          "word": "nghĩ",
+          "start": 25.92,
+          "end": 26.06,
+          "probability": 0.89
+        },
+        {
+          "word": "nó",
+          "start": 26.06,
+          "end": 26.22,
+          "probability": 0.15
+        },
+        {
+          "word": "chúng",
+          "start": 26.22,
+          "end": 26.34,
+          "probability": 0.97
+        },
+        {
+          "word": "ta",
+          "start": 26.34,
+          "end": 26.42,
+          "probability": 0.92
+        },
+        {
+          "word": "sẽ",
+          "start": 26.42,
+          "end": 26.54,
+          "probability": 0.99
+        },
+        {
+          "word": "có",
+          "start": 26.54,
+          "end": 26.66,
+          "probability": 0.61
+        },
+        {
+          "word": "vinh",
+          "start": 26.66,
+          "end": 26.76,
+          "probability": 0.35
+        },
+        {
+          "word": "nhau",
+          "start": 26.76,
+          "end": 26.88,
+          "probability": 0.96
+        },
+        {
+          "word": "bà",
+          "start": 26.88,
+          "end": 27.02,
+          "probability": 0.61
+        },
+        {
+          "word": "nhiều",
+          "start": 27.02,
+          "end": 27.14,
+          "probability": 0.26
+        },
+        {
+          "word": "đôi",
+          "start": 27.14,
+          "end": 27.32,
+          "probability": 0.2
+        },
+        {
+          "word": "con",
+          "start": 27.32,
+          "end": 27.52,
+          "probability": 0.92
+        },
+        {
+          "word": "rồi",
+          "start": 27.52,
+          "end": 27.74,
+          "probability": 0.71
+        },
+        {
+          "word": "sẽ",
+          "start": 27.74,
+          "end": 27.9,
+          "probability": 0.48
+        },
+        {
+          "word": "đặt",
+          "start": 27.9,
+          "end": 28.04,
+          "probability": 0.42
+        },
+        {
+          "word": "tên",
+          "start": 28.04,
+          "end": 28.22,
+          "probability": 0.74
+        },
+        {
+          "word": "con",
+          "start": 28.22,
+          "end": 28.4,
+          "probability": 0.99
+        },
+        {
+          "word": "rồi.",
+          "start": 28.4,
+          "end": 28.58,
+          "probability": 0.11
+        }
+      ]
+    }
+  ]
+}

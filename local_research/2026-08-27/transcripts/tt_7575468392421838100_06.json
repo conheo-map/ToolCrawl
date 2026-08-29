@@ -1,0 +1,90 @@
+{
+  "item_id": "tt_7575468392421838100_06",
+  "duration_seconds": 9.01,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "không chị ở Việt Nam mà có gạo quý mua tần cậu.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.32,
+      "text": "không chị ở Việt Nam mà có gạo quý mua tần cậu.",
+      "words": [
+        {
+          "word": "không",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.29
+        },
+        {
+          "word": "chị",
+          "start": 0.44,
+          "end": 0.56,
+          "probability": 0.21
+        },
+        {
+          "word": "ở",
+          "start": 0.56,
+          "end": 0.66,
+          "probability": 0.66
+        },
+        {
+          "word": "Việt",
+          "start": 0.66,
+          "end": 0.78,
+          "probability": 0.35
+        },
+        {
+          "word": "Nam",
+          "start": 0.78,
+          "end": 1.14,
+          "probability": 0.49
+        },
+        {
+          "word": "mà",
+          "start": 1.14,
+          "end": 1.32,
+          "probability": 0.71
+        },
+        {
+          "word": "có",
+          "start": 1.32,
+          "end": 1.46,
+          "probability": 0.68
+        },
+        {
+          "word": "gạo",
+          "start": 1.46,
+          "end": 1.62,
+          "probability": 0.26
+        },
+        {
+          "word": "quý",
+          "start": 1.62,
+          "end": 1.76,
+          "probability": 0.3
+        },
+        {
+          "word": "mua",
+          "start": 1.76,
+          "end": 1.9,
+          "probability": 0.48
+        },
+        {
+          "word": "tần",
+          "start": 1.9,
+          "end": 2.06,
+          "probability": 0.36
+        },
+        {
+          "word": "cậu.",
+          "start": 2.06,
+          "end": 2.32,
+          "probability": 0.47
+        }
+      ]
+    }
+  ]
+}

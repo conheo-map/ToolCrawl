@@ -1,0 +1,806 @@
+{
+  "item_id": "tt_7646827268903308551_03",
+  "duration_seconds": 28.21,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 120,
+  "text": "Hị Phồi các nhà sang xuất sẽ máy định năng, vậy ai em em. Đo biết phần lớn sẽ của Honda, Giang Maha, Bisa Go, S.Y.M và Suyukhi, đều có thể sử dụng sang em ơi, mắc không cần điều phín ký thuộc. Honda Việt Nam cũng sẽ nhận các mong sê chính thải nghiệm này, được thích kế để dùng những liệu có hàng lần này thành nổ tốt đá mời phần trọng. Với những không phải mạo phương tiền đều được khuyến này sử dụng em ơi. Một số mong sê đời cộng với hệ thống những liệu và đổ cơ được phát triển từ nhiều năm trước, có thể chưa được xác nhận từ thích phát triển.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.12,
+      "text": "Hị Phồi các nhà sang xuất sẽ máy định năng, vậy ai em em.",
+      "words": [
+        {
+          "word": "Hị",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.18
+        },
+        {
+          "word": "Phồi",
+          "start": 0.4,
+          "end": 0.6,
+          "probability": 0.22
+        },
+        {
+          "word": "các",
+          "start": 0.6,
+          "end": 0.8,
+          "probability": 0.65
+        },
+        {
+          "word": "nhà",
+          "start": 0.8,
+          "end": 1.02,
+          "probability": 0.94
+        },
+        {
+          "word": "sang",
+          "start": 1.02,
+          "end": 1.22,
+          "probability": 0.38
+        },
+        {
+          "word": "xuất",
+          "start": 1.22,
+          "end": 1.36,
+          "probability": 0.53
+        },
+        {
+          "word": "sẽ",
+          "start": 1.36,
+          "end": 1.52,
+          "probability": 0.27
+        },
+        {
+          "word": "máy",
+          "start": 1.52,
+          "end": 1.62,
+          "probability": 0.73
+        },
+        {
+          "word": "định",
+          "start": 1.62,
+          "end": 1.82,
+          "probability": 0.64
+        },
+        {
+          "word": "năng,",
+          "start": 1.82,
+          "end": 2.14,
+          "probability": 0.44
+        },
+        {
+          "word": "vậy",
+          "start": 2.28,
+          "end": 2.42,
+          "probability": 0.09
+        },
+        {
+          "word": "ai",
+          "start": 2.42,
+          "end": 2.68,
+          "probability": 0.14
+        },
+        {
+          "word": "em",
+          "start": 2.68,
+          "end": 2.84,
+          "probability": 0.66
+        },
+        {
+          "word": "em.",
+          "start": 2.84,
+          "end": 3.12,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.36,
+      "end": 8.32,
+      "text": "Đo biết phần lớn sẽ của Honda, Giang Maha, Bisa Go, S.Y.M và Suyukhi,",
+      "words": [
+        {
+          "word": "Đo",
+          "start": 3.36,
+          "end": 3.4,
+          "probability": 0.16
+        },
+        {
+          "word": "biết",
+          "start": 3.4,
+          "end": 3.54,
+          "probability": 0.82
+        },
+        {
+          "word": "phần",
+          "start": 3.54,
+          "end": 3.78,
+          "probability": 0.7
+        },
+        {
+          "word": "lớn",
+          "start": 3.78,
+          "end": 4.02,
+          "probability": 0.92
+        },
+        {
+          "word": "sẽ",
+          "start": 4.02,
+          "end": 4.22,
+          "probability": 0.47
+        },
+        {
+          "word": "của",
+          "start": 4.22,
+          "end": 4.4,
+          "probability": 0.71
+        },
+        {
+          "word": "Honda,",
+          "start": 4.4,
+          "end": 4.7,
+          "probability": 0.52
+        },
+        {
+          "word": "Giang",
+          "start": 5.14,
+          "end": 5.2,
+          "probability": 0.23
+        },
+        {
+          "word": "Maha,",
+          "start": 5.2,
+          "end": 5.58,
+          "probability": 0.31
+        },
+        {
+          "word": "Bisa",
+          "start": 6.0,
+          "end": 6.18,
+          "probability": 0.34
+        },
+        {
+          "word": "Go,",
+          "start": 6.18,
+          "end": 6.5,
+          "probability": 0.53
+        },
+        {
+          "word": "S",
+          "start": 6.8,
+          "end": 6.94,
+          "probability": 0.74
+        },
+        {
+          "word": ".Y",
+          "start": 6.94,
+          "end": 7.12,
+          "probability": 0.38
+        },
+        {
+          "word": ".M",
+          "start": 7.12,
+          "end": 7.5,
+          "probability": 0.53
+        },
+        {
+          "word": "và",
+          "start": 7.5,
+          "end": 7.62,
+          "probability": 0.7
+        },
+        {
+          "word": "Suyukhi,",
+          "start": 7.62,
+          "end": 8.32,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.62,
+      "end": 11.34,
+      "text": "đều có thể sử dụng sang em ơi, mắc không cần điều phín ký thuộc.",
+      "words": [
+        {
+          "word": "đều",
+          "start": 8.62,
+          "end": 8.7,
+          "probability": 0.78
+        },
+        {
+          "word": "có",
+          "start": 8.7,
+          "end": 8.82,
+          "probability": 0.84
+        },
+        {
+          "word": "thể",
+          "start": 8.82,
+          "end": 8.96,
+          "probability": 0.93
+        },
+        {
+          "word": "sử",
+          "start": 8.96,
+          "end": 9.14,
+          "probability": 0.37
+        },
+        {
+          "word": "dụng",
+          "start": 9.14,
+          "end": 9.24,
+          "probability": 0.89
+        },
+        {
+          "word": "sang",
+          "start": 9.24,
+          "end": 9.46,
+          "probability": 0.58
+        },
+        {
+          "word": "em",
+          "start": 9.46,
+          "end": 9.66,
+          "probability": 0.85
+        },
+        {
+          "word": "ơi,",
+          "start": 9.66,
+          "end": 9.84,
+          "probability": 0.37
+        },
+        {
+          "word": "mắc",
+          "start": 10.04,
+          "end": 10.22,
+          "probability": 0.39
+        },
+        {
+          "word": "không",
+          "start": 10.22,
+          "end": 10.36,
+          "probability": 0.94
+        },
+        {
+          "word": "cần",
+          "start": 10.36,
+          "end": 10.58,
+          "probability": 0.67
+        },
+        {
+          "word": "điều",
+          "start": 10.58,
+          "end": 10.76,
+          "probability": 0.66
+        },
+        {
+          "word": "phín",
+          "start": 10.76,
+          "end": 10.9,
+          "probability": 0.18
+        },
+        {
+          "word": "ký",
+          "start": 10.9,
+          "end": 11.06,
+          "probability": 0.38
+        },
+        {
+          "word": "thuộc.",
+          "start": 11.06,
+          "end": 11.34,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.84,
+      "end": 14.6,
+      "text": "Honda Việt Nam cũng sẽ nhận các mong sê chính thải nghiệm này,",
+      "words": [
+        {
+          "word": "Honda",
+          "start": 11.84,
+          "end": 12.08,
+          "probability": 0.77
+        },
+        {
+          "word": "Việt",
+          "start": 12.08,
+          "end": 12.28,
+          "probability": 0.73
+        },
+        {
+          "word": "Nam",
+          "start": 12.28,
+          "end": 12.5,
+          "probability": 0.94
+        },
+        {
+          "word": "cũng",
+          "start": 12.5,
+          "end": 12.74,
+          "probability": 0.66
+        },
+        {
+          "word": "sẽ",
+          "start": 12.74,
+          "end": 12.9,
+          "probability": 0.42
+        },
+        {
+          "word": "nhận",
+          "start": 12.9,
+          "end": 13.16,
+          "probability": 0.73
+        },
+        {
+          "word": "các",
+          "start": 13.16,
+          "end": 13.38,
+          "probability": 0.82
+        },
+        {
+          "word": "mong",
+          "start": 13.38,
+          "end": 13.56,
+          "probability": 0.45
+        },
+        {
+          "word": "sê",
+          "start": 13.56,
+          "end": 13.7,
+          "probability": 0.26
+        },
+        {
+          "word": "chính",
+          "start": 13.7,
+          "end": 13.86,
+          "probability": 0.45
+        },
+        {
+          "word": "thải",
+          "start": 13.86,
+          "end": 14.04,
+          "probability": 0.59
+        },
+        {
+          "word": "nghiệm",
+          "start": 14.04,
+          "end": 14.22,
+          "probability": 0.52
+        },
+        {
+          "word": "này,",
+          "start": 14.22,
+          "end": 14.6,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.76,
+      "end": 17.84,
+      "text": "được thích kế để dùng những liệu có hàng lần này thành nổ tốt đá mời phần trọng.",
+      "words": [
+        {
+          "word": "được",
+          "start": 14.76,
+          "end": 14.84,
+          "probability": 0.64
+        },
+        {
+          "word": "thích",
+          "start": 14.84,
+          "end": 15.02,
+          "probability": 0.53
+        },
+        {
+          "word": "kế",
+          "start": 15.02,
+          "end": 15.18,
+          "probability": 0.63
+        },
+        {
+          "word": "để",
+          "start": 15.18,
+          "end": 15.4,
+          "probability": 0.87
+        },
+        {
+          "word": "dùng",
+          "start": 15.4,
+          "end": 15.56,
+          "probability": 0.57
+        },
+        {
+          "word": "những",
+          "start": 15.56,
+          "end": 15.76,
+          "probability": 0.29
+        },
+        {
+          "word": "liệu",
+          "start": 15.76,
+          "end": 15.98,
+          "probability": 0.64
+        },
+        {
+          "word": "có",
+          "start": 15.98,
+          "end": 16.22,
+          "probability": 0.95
+        },
+        {
+          "word": "hàng",
+          "start": 16.22,
+          "end": 16.32,
+          "probability": 0.29
+        },
+        {
+          "word": "lần",
+          "start": 16.32,
+          "end": 16.46,
+          "probability": 0.54
+        },
+        {
+          "word": "này",
+          "start": 16.46,
+          "end": 16.64,
+          "probability": 0.25
+        },
+        {
+          "word": "thành",
+          "start": 16.64,
+          "end": 16.8,
+          "probability": 0.48
+        },
+        {
+          "word": "nổ",
+          "start": 16.8,
+          "end": 16.92,
+          "probability": 0.25
+        },
+        {
+          "word": "tốt",
+          "start": 16.92,
+          "end": 17.12,
+          "probability": 0.42
+        },
+        {
+          "word": "đá",
+          "start": 17.12,
+          "end": 17.26,
+          "probability": 0.46
+        },
+        {
+          "word": "mời",
+          "start": 17.26,
+          "end": 17.44,
+          "probability": 0.31
+        },
+        {
+          "word": "phần",
+          "start": 17.44,
+          "end": 17.6,
+          "probability": 0.8
+        },
+        {
+          "word": "trọng.",
+          "start": 17.6,
+          "end": 17.84,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 18.52,
+      "end": 21.46,
+      "text": "Với những không phải mạo phương tiền đều được khuyến này sử dụng em ơi.",
+      "words": [
+        {
+          "word": "Với",
+          "start": 18.52,
+          "end": 18.64,
+          "probability": 0.32
+        },
+        {
+          "word": "những",
+          "start": 18.64,
+          "end": 18.76,
+          "probability": 0.32
+        },
+        {
+          "word": "không",
+          "start": 18.76,
+          "end": 18.9,
+          "probability": 0.51
+        },
+        {
+          "word": "phải",
+          "start": 18.9,
+          "end": 19.08,
+          "probability": 0.97
+        },
+        {
+          "word": "mạo",
+          "start": 19.08,
+          "end": 19.3,
+          "probability": 0.41
+        },
+        {
+          "word": "phương",
+          "start": 19.3,
+          "end": 19.44,
+          "probability": 0.42
+        },
+        {
+          "word": "tiền",
+          "start": 19.44,
+          "end": 19.76,
+          "probability": 0.71
+        },
+        {
+          "word": "đều",
+          "start": 19.76,
+          "end": 20.08,
+          "probability": 0.72
+        },
+        {
+          "word": "được",
+          "start": 20.08,
+          "end": 20.3,
+          "probability": 0.98
+        },
+        {
+          "word": "khuyến",
+          "start": 20.3,
+          "end": 20.46,
+          "probability": 0.68
+        },
+        {
+          "word": "này",
+          "start": 20.46,
+          "end": 20.68,
+          "probability": 0.11
+        },
+        {
+          "word": "sử",
+          "start": 20.68,
+          "end": 20.86,
+          "probability": 0.77
+        },
+        {
+          "word": "dụng",
+          "start": 20.86,
+          "end": 20.92,
+          "probability": 1.0
+        },
+        {
+          "word": "em",
+          "start": 20.92,
+          "end": 21.1,
+          "probability": 1.0
+        },
+        {
+          "word": "ơi.",
+          "start": 21.1,
+          "end": 21.46,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 21.76,
+      "end": 25.7,
+      "text": "Một số mong sê đời cộng với hệ thống những liệu và đổ cơ được phát triển từ nhiều năm trước,",
+      "words": [
+        {
+          "word": "Một",
+          "start": 21.76,
+          "end": 21.92,
+          "probability": 0.73
+        },
+        {
+          "word": "số",
+          "start": 21.92,
+          "end": 22.04,
+          "probability": 0.96
+        },
+        {
+          "word": "mong",
+          "start": 22.04,
+          "end": 22.28,
+          "probability": 0.79
+        },
+        {
+          "word": "sê",
+          "start": 22.28,
+          "end": 22.36,
+          "probability": 0.9
+        },
+        {
+          "word": "đời",
+          "start": 22.36,
+          "end": 22.6,
+          "probability": 0.71
+        },
+        {
+          "word": "cộng",
+          "start": 22.6,
+          "end": 22.76,
+          "probability": 0.48
+        },
+        {
+          "word": "với",
+          "start": 22.76,
+          "end": 22.88,
+          "probability": 0.44
+        },
+        {
+          "word": "hệ",
+          "start": 22.88,
+          "end": 23.1,
+          "probability": 0.65
+        },
+        {
+          "word": "thống",
+          "start": 23.1,
+          "end": 23.2,
+          "probability": 0.94
+        },
+        {
+          "word": "những",
+          "start": 23.2,
+          "end": 23.42,
+          "probability": 0.56
+        },
+        {
+          "word": "liệu",
+          "start": 23.42,
+          "end": 23.66,
+          "probability": 0.98
+        },
+        {
+          "word": "và",
+          "start": 23.66,
+          "end": 23.84,
+          "probability": 0.85
+        },
+        {
+          "word": "đổ",
+          "start": 23.84,
+          "end": 23.98,
+          "probability": 0.41
+        },
+        {
+          "word": "cơ",
+          "start": 23.98,
+          "end": 24.18,
+          "probability": 0.53
+        },
+        {
+          "word": "được",
+          "start": 24.18,
+          "end": 24.38,
+          "probability": 0.98
+        },
+        {
+          "word": "phát",
+          "start": 24.38,
+          "end": 24.56,
+          "probability": 0.78
+        },
+        {
+          "word": "triển",
+          "start": 24.56,
+          "end": 24.8,
+          "probability": 0.78
+        },
+        {
+          "word": "từ",
+          "start": 24.8,
+          "end": 24.98,
+          "probability": 0.47
+        },
+        {
+          "word": "nhiều",
+          "start": 24.98,
+          "end": 25.14,
+          "probability": 0.3
+        },
+        {
+          "word": "năm",
+          "start": 25.14,
+          "end": 25.3,
+          "probability": 0.97
+        },
+        {
+          "word": "trước,",
+          "start": 25.3,
+          "end": 25.7,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 25.7,
+      "end": 27.96,
+      "text": "có thể chưa được xác nhận từ thích phát triển.",
+      "words": [
+        {
+          "word": "có",
+          "start": 25.7,
+          "end": 25.94,
+          "probability": 0.32
+        },
+        {
+          "word": "thể",
+          "start": 25.94,
+          "end": 26.18,
+          "probability": 0.88
+        },
+        {
+          "word": "chưa",
+          "start": 26.18,
+          "end": 26.38,
+          "probability": 0.61
+        },
+        {
+          "word": "được",
+          "start": 26.38,
+          "end": 26.66,
+          "probability": 0.96
+        },
+        {
+          "word": "xác",
+          "start": 26.66,
+          "end": 26.88,
+          "probability": 0.55
+        },
+        {
+          "word": "nhận",
+          "start": 26.88,
+          "end": 27.14,
+          "probability": 0.86
+        },
+        {
+          "word": "từ",
+          "start": 27.14,
+          "end": 27.32,
+          "probability": 0.16
+        },
+        {
+          "word": "thích",
+          "start": 27.32,
+          "end": 27.48,
+          "probability": 0.29
+        },
+        {
+          "word": "phát",
+          "start": 27.48,
+          "end": 27.66,
+          "probability": 0.14
+        },
+        {
+          "word": "triển.",
+          "start": 27.66,
+          "end": 27.96,
+          "probability": 0.07
+        }
+      ]
+    }
+  ]
+}

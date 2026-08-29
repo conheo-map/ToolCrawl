@@ -1,0 +1,570 @@
+{
+  "item_id": "tt_7662351033112268039_34",
+  "duration_seconds": 29.47,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 60,
+  "text": "cho dà dà. Tìm rồi, cho dà dà. Chào tấm. Tấm rồi. Tấm đà. Tấm rời. Chào tấm dà. Tấm. Tấm đà. Tấm dà. Cái tiết. Tấm đà. Cái mình sẵn. Tấm đà. Cái ho này rất là quan tấm. Tấm rồi. Tấm rồi. Chào tấm. Tấm. Tấm cách cái. Gần gái sả. Dà. Chào tấm. Chào tấm. Chào dà.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.72,
+      "text": "cho dà dà.",
+      "words": [
+        {
+          "word": "cho",
+          "start": 0.0,
+          "end": 0.72,
+          "probability": 0.01
+        },
+        {
+          "word": "dà",
+          "start": 0.72,
+          "end": 0.72,
+          "probability": 0.08
+        },
+        {
+          "word": "dà.",
+          "start": 0.72,
+          "end": 0.72,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 0.72,
+      "end": 2.58,
+      "text": "Tìm rồi, cho dà dà.",
+      "words": [
+        {
+          "word": "Tìm",
+          "start": 0.72,
+          "end": 0.72,
+          "probability": 0.36
+        },
+        {
+          "word": "rồi,",
+          "start": 0.72,
+          "end": 0.76,
+          "probability": 0.03
+        },
+        {
+          "word": "cho",
+          "start": 1.12,
+          "end": 1.62,
+          "probability": 0.01
+        },
+        {
+          "word": "dà",
+          "start": 1.62,
+          "end": 2.32,
+          "probability": 0.86
+        },
+        {
+          "word": "dà.",
+          "start": 2.32,
+          "end": 2.58,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.52,
+      "end": 3.82,
+      "text": "Chào tấm.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 3.52,
+          "end": 3.82,
+          "probability": 0.07
+        },
+        {
+          "word": "tấm.",
+          "start": 3.82,
+          "end": 3.82,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 3.82,
+      "end": 5.46,
+      "text": "Tấm rồi.",
+      "words": [
+        {
+          "word": "Tấm",
+          "start": 3.82,
+          "end": 3.82,
+          "probability": 0.47
+        },
+        {
+          "word": "rồi.",
+          "start": 3.82,
+          "end": 5.46,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.02,
+      "end": 6.5,
+      "text": "Tấm đà.",
+      "words": [
+        {
+          "word": "Tấm",
+          "start": 6.02,
+          "end": 6.36,
+          "probability": 0.71
+        },
+        {
+          "word": "đà.",
+          "start": 6.36,
+          "end": 6.5,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 6.54,
+      "end": 6.66,
+      "text": "Tấm rời.",
+      "words": [
+        {
+          "word": "Tấm",
+          "start": 6.54,
+          "end": 6.54,
+          "probability": 0.72
+        },
+        {
+          "word": "rời.",
+          "start": 6.54,
+          "end": 6.66,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 7.74,
+      "end": 8.6,
+      "text": "Chào tấm dà.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 7.74,
+          "end": 8.08,
+          "probability": 0.54
+        },
+        {
+          "word": "tấm",
+          "start": 8.08,
+          "end": 8.18,
+          "probability": 0.9
+        },
+        {
+          "word": "dà.",
+          "start": 8.18,
+          "end": 8.6,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 10.88,
+      "end": 11.56,
+      "text": "Tấm.",
+      "words": [
+        {
+          "word": "Tấm.",
+          "start": 10.88,
+          "end": 11.56,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 12.32,
+      "end": 12.66,
+      "text": "Tấm đà.",
+      "words": [
+        {
+          "word": "Tấm",
+          "start": 12.32,
+          "end": 12.46,
+          "probability": 0.76
+        },
+        {
+          "word": "đà.",
+          "start": 12.46,
+          "end": 12.66,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 12.88,
+      "end": 13.36,
+      "text": "Tấm dà.",
+      "words": [
+        {
+          "word": "Tấm",
+          "start": 12.88,
+          "end": 13.36,
+          "probability": 0.8
+        },
+        {
+          "word": "dà.",
+          "start": 13.36,
+          "end": 13.36,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 13.36,
+      "end": 13.64,
+      "text": "Cái tiết.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 13.36,
+          "end": 13.38,
+          "probability": 0.38
+        },
+        {
+          "word": "tiết.",
+          "start": 13.38,
+          "end": 13.64,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 13.96,
+      "end": 14.16,
+      "text": "Tấm đà.",
+      "words": [
+        {
+          "word": "Tấm",
+          "start": 13.96,
+          "end": 14.02,
+          "probability": 0.65
+        },
+        {
+          "word": "đà.",
+          "start": 14.02,
+          "end": 14.16,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 14.36,
+      "end": 15.34,
+      "text": "Cái mình sẵn.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 14.36,
+          "end": 14.36,
+          "probability": 0.81
+        },
+        {
+          "word": "mình",
+          "start": 14.36,
+          "end": 15.06,
+          "probability": 0.29
+        },
+        {
+          "word": "sẵn.",
+          "start": 15.06,
+          "end": 15.34,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 15.64,
+      "end": 15.68,
+      "text": "Tấm đà.",
+      "words": [
+        {
+          "word": "Tấm",
+          "start": 15.64,
+          "end": 15.64,
+          "probability": 0.75
+        },
+        {
+          "word": "đà.",
+          "start": 15.64,
+          "end": 15.68,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 16.28,
+      "end": 17.54,
+      "text": "Cái ho này rất là quan tấm.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 16.28,
+          "end": 16.7,
+          "probability": 0.57
+        },
+        {
+          "word": "ho",
+          "start": 16.7,
+          "end": 16.94,
+          "probability": 0.06
+        },
+        {
+          "word": "này",
+          "start": 16.94,
+          "end": 16.98,
+          "probability": 0.44
+        },
+        {
+          "word": "rất",
+          "start": 16.98,
+          "end": 17.22,
+          "probability": 0.97
+        },
+        {
+          "word": "là",
+          "start": 17.22,
+          "end": 17.32,
+          "probability": 0.55
+        },
+        {
+          "word": "quan",
+          "start": 17.32,
+          "end": 17.44,
+          "probability": 0.33
+        },
+        {
+          "word": "tấm.",
+          "start": 17.44,
+          "end": 17.54,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 18.32,
+      "end": 19.16,
+      "text": "Tấm rồi.",
+      "words": [
+        {
+          "word": "Tấm",
+          "start": 18.32,
+          "end": 18.68,
+          "probability": 0.62
+        },
+        {
+          "word": "rồi.",
+          "start": 18.68,
+          "end": 19.16,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 19.16,
+      "end": 19.26,
+      "text": "Tấm rồi.",
+      "words": [
+        {
+          "word": "Tấm",
+          "start": 19.16,
+          "end": 19.16,
+          "probability": 0.65
+        },
+        {
+          "word": "rồi.",
+          "start": 19.16,
+          "end": 19.26,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 19.46,
+      "end": 19.68,
+      "text": "Chào tấm.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 19.46,
+          "end": 19.46,
+          "probability": 0.79
+        },
+        {
+          "word": "tấm.",
+          "start": 19.46,
+          "end": 19.68,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 20.08,
+      "end": 20.1,
+      "text": "Tấm.",
+      "words": [
+        {
+          "word": "Tấm.",
+          "start": 20.08,
+          "end": 20.1,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 21.14,
+      "end": 22.06,
+      "text": "Tấm cách cái.",
+      "words": [
+        {
+          "word": "Tấm",
+          "start": 21.14,
+          "end": 21.44,
+          "probability": 0.72
+        },
+        {
+          "word": "cách",
+          "start": 21.44,
+          "end": 21.7,
+          "probability": 0.05
+        },
+        {
+          "word": "cái.",
+          "start": 21.7,
+          "end": 22.06,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 22.76,
+      "end": 24.02,
+      "text": "Gần gái sả.",
+      "words": [
+        {
+          "word": "Gần",
+          "start": 22.76,
+          "end": 23.22,
+          "probability": 0.3
+        },
+        {
+          "word": "gái",
+          "start": 23.22,
+          "end": 23.64,
+          "probability": 0.22
+        },
+        {
+          "word": "sả.",
+          "start": 23.64,
+          "end": 24.02,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 24.44,
+      "end": 24.74,
+      "text": "Dà.",
+      "words": [
+        {
+          "word": "Dà.",
+          "start": 24.44,
+          "end": 24.74,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 25.14,
+      "end": 25.98,
+      "text": "Chào tấm.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 25.14,
+          "end": 25.82,
+          "probability": 0.58
+        },
+        {
+          "word": "tấm.",
+          "start": 25.82,
+          "end": 25.98,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 26.38,
+      "end": 26.54,
+      "text": "Chào tấm.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 26.38,
+          "end": 26.54,
+          "probability": 0.58
+        },
+        {
+          "word": "tấm.",
+          "start": 26.54,
+          "end": 26.54,
+          "probability": 0.79
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 26.96,
+      "end": 27.4,
+      "text": "Chào dà.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 26.96,
+          "end": 27.4,
+          "probability": 0.53
+        },
+        {
+          "word": "dà.",
+          "start": 27.4,
+          "end": 27.4,
+          "probability": 0.5
+        }
+      ]
+    }
+  ]
+}

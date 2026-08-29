@@ -1,0 +1,544 @@
+{
+  "item_id": "tt_7606540708597533972_01",
+  "duration_seconds": 24.24,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 81,
+  "text": "một lụ cưới nguồn nơi chiến môi tháng gơm thất bại chỉ là chuyện nắm của thôi. Đón chào lắm mơ. Tháng gơm thất bại chỉ là chuyện nắm của thôi. Lón chào nắm mới. Đó chính là cầu quay cùng của bài hát rất nảy, nắm quà đã làm gì và tệ của mong nữa các bạn. Những điều gì về lỗi buồn những bây giờ thì đi gì mà chúng ta chưa được thành công của nắm vừa qua.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.98,
+      "text": "một lụ cưới nguồn nơi chiến môi tháng gơm thất bại chỉ là chuyện nắm của thôi.",
+      "words": [
+        {
+          "word": "một",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.43
+        },
+        {
+          "word": "lụ",
+          "start": 0.34,
+          "end": 0.6,
+          "probability": 0.52
+        },
+        {
+          "word": "cưới",
+          "start": 0.6,
+          "end": 0.8,
+          "probability": 0.44
+        },
+        {
+          "word": "nguồn",
+          "start": 0.8,
+          "end": 1.04,
+          "probability": 0.44
+        },
+        {
+          "word": "nơi",
+          "start": 1.04,
+          "end": 1.34,
+          "probability": 0.18
+        },
+        {
+          "word": "chiến",
+          "start": 1.34,
+          "end": 1.68,
+          "probability": 0.62
+        },
+        {
+          "word": "môi",
+          "start": 1.68,
+          "end": 2.22,
+          "probability": 0.43
+        },
+        {
+          "word": "tháng",
+          "start": 2.22,
+          "end": 2.88,
+          "probability": 0.37
+        },
+        {
+          "word": "gơm",
+          "start": 2.88,
+          "end": 3.28,
+          "probability": 0.49
+        },
+        {
+          "word": "thất",
+          "start": 3.28,
+          "end": 3.58,
+          "probability": 0.61
+        },
+        {
+          "word": "bại",
+          "start": 3.58,
+          "end": 4.1,
+          "probability": 0.51
+        },
+        {
+          "word": "chỉ",
+          "start": 4.1,
+          "end": 4.44,
+          "probability": 0.52
+        },
+        {
+          "word": "là",
+          "start": 4.44,
+          "end": 4.68,
+          "probability": 0.27
+        },
+        {
+          "word": "chuyện",
+          "start": 4.68,
+          "end": 4.9,
+          "probability": 0.69
+        },
+        {
+          "word": "nắm",
+          "start": 4.9,
+          "end": 5.14,
+          "probability": 0.42
+        },
+        {
+          "word": "của",
+          "start": 5.14,
+          "end": 5.36,
+          "probability": 0.36
+        },
+        {
+          "word": "thôi.",
+          "start": 5.36,
+          "end": 5.98,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.54,
+      "end": 8.02,
+      "text": "Đón chào lắm mơ.",
+      "words": [
+        {
+          "word": "Đón",
+          "start": 6.54,
+          "end": 6.68,
+          "probability": 0.26
+        },
+        {
+          "word": "chào",
+          "start": 6.68,
+          "end": 7.08,
+          "probability": 0.63
+        },
+        {
+          "word": "lắm",
+          "start": 7.08,
+          "end": 7.48,
+          "probability": 0.77
+        },
+        {
+          "word": "mơ.",
+          "start": 7.48,
+          "end": 8.02,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.94,
+      "end": 13.38,
+      "text": "Tháng gơm thất bại chỉ là chuyện nắm của thôi.",
+      "words": [
+        {
+          "word": "Tháng",
+          "start": 9.94,
+          "end": 10.38,
+          "probability": 0.79
+        },
+        {
+          "word": "gơm",
+          "start": 10.38,
+          "end": 10.82,
+          "probability": 0.9
+        },
+        {
+          "word": "thất",
+          "start": 10.82,
+          "end": 11.08,
+          "probability": 0.99
+        },
+        {
+          "word": "bại",
+          "start": 11.08,
+          "end": 11.52,
+          "probability": 0.98
+        },
+        {
+          "word": "chỉ",
+          "start": 11.52,
+          "end": 11.98,
+          "probability": 0.97
+        },
+        {
+          "word": "là",
+          "start": 11.98,
+          "end": 12.22,
+          "probability": 0.89
+        },
+        {
+          "word": "chuyện",
+          "start": 12.22,
+          "end": 12.48,
+          "probability": 0.98
+        },
+        {
+          "word": "nắm",
+          "start": 12.48,
+          "end": 12.72,
+          "probability": 0.98
+        },
+        {
+          "word": "của",
+          "start": 12.72,
+          "end": 12.92,
+          "probability": 0.77
+        },
+        {
+          "word": "thôi.",
+          "start": 12.92,
+          "end": 13.38,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.92,
+      "end": 14.86,
+      "text": "Lón chào nắm mới.",
+      "words": [
+        {
+          "word": "Lón",
+          "start": 13.92,
+          "end": 13.94,
+          "probability": 0.43
+        },
+        {
+          "word": "chào",
+          "start": 13.94,
+          "end": 14.16,
+          "probability": 0.99
+        },
+        {
+          "word": "nắm",
+          "start": 14.16,
+          "end": 14.4,
+          "probability": 0.76
+        },
+        {
+          "word": "mới.",
+          "start": 14.4,
+          "end": 14.86,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.46,
+      "end": 20.14,
+      "text": "Đó chính là cầu quay cùng của bài hát rất nảy, nắm quà đã làm gì và tệ của mong nữa các bạn.",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 15.46,
+          "end": 15.66,
+          "probability": 0.69
+        },
+        {
+          "word": "chính",
+          "start": 15.66,
+          "end": 15.84,
+          "probability": 0.45
+        },
+        {
+          "word": "là",
+          "start": 15.84,
+          "end": 15.96,
+          "probability": 0.94
+        },
+        {
+          "word": "cầu",
+          "start": 15.96,
+          "end": 16.12,
+          "probability": 0.45
+        },
+        {
+          "word": "quay",
+          "start": 16.12,
+          "end": 16.3,
+          "probability": 0.4
+        },
+        {
+          "word": "cùng",
+          "start": 16.3,
+          "end": 16.54,
+          "probability": 0.83
+        },
+        {
+          "word": "của",
+          "start": 16.54,
+          "end": 16.72,
+          "probability": 0.93
+        },
+        {
+          "word": "bài",
+          "start": 16.72,
+          "end": 16.92,
+          "probability": 0.39
+        },
+        {
+          "word": "hát",
+          "start": 16.92,
+          "end": 17.1,
+          "probability": 0.8
+        },
+        {
+          "word": "rất",
+          "start": 17.1,
+          "end": 17.32,
+          "probability": 0.66
+        },
+        {
+          "word": "nảy,",
+          "start": 17.32,
+          "end": 17.78,
+          "probability": 0.46
+        },
+        {
+          "word": "nắm",
+          "start": 18.06,
+          "end": 18.1,
+          "probability": 0.94
+        },
+        {
+          "word": "quà",
+          "start": 18.1,
+          "end": 18.32,
+          "probability": 0.37
+        },
+        {
+          "word": "đã",
+          "start": 18.32,
+          "end": 18.52,
+          "probability": 0.9
+        },
+        {
+          "word": "làm",
+          "start": 18.52,
+          "end": 18.72,
+          "probability": 0.69
+        },
+        {
+          "word": "gì",
+          "start": 18.72,
+          "end": 18.96,
+          "probability": 0.94
+        },
+        {
+          "word": "và",
+          "start": 18.96,
+          "end": 19.16,
+          "probability": 0.36
+        },
+        {
+          "word": "tệ",
+          "start": 19.16,
+          "end": 19.28,
+          "probability": 0.21
+        },
+        {
+          "word": "của",
+          "start": 19.28,
+          "end": 19.38,
+          "probability": 0.37
+        },
+        {
+          "word": "mong",
+          "start": 19.38,
+          "end": 19.52,
+          "probability": 0.87
+        },
+        {
+          "word": "nữa",
+          "start": 19.52,
+          "end": 19.72,
+          "probability": 0.26
+        },
+        {
+          "word": "các",
+          "start": 19.72,
+          "end": 19.8,
+          "probability": 0.96
+        },
+        {
+          "word": "bạn.",
+          "start": 19.8,
+          "end": 20.14,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 20.34,
+      "end": 24.14,
+      "text": "Những điều gì về lỗi buồn những bây giờ thì đi gì mà chúng ta chưa được thành công của nắm vừa qua.",
+      "words": [
+        {
+          "word": "Những",
+          "start": 20.34,
+          "end": 20.48,
+          "probability": 0.32
+        },
+        {
+          "word": "điều",
+          "start": 20.48,
+          "end": 20.72,
+          "probability": 0.64
+        },
+        {
+          "word": "gì",
+          "start": 20.72,
+          "end": 21.06,
+          "probability": 0.32
+        },
+        {
+          "word": "về",
+          "start": 21.06,
+          "end": 21.2,
+          "probability": 0.67
+        },
+        {
+          "word": "lỗi",
+          "start": 21.2,
+          "end": 21.38,
+          "probability": 0.68
+        },
+        {
+          "word": "buồn",
+          "start": 21.38,
+          "end": 21.64,
+          "probability": 0.93
+        },
+        {
+          "word": "những",
+          "start": 21.64,
+          "end": 21.86,
+          "probability": 0.3
+        },
+        {
+          "word": "bây",
+          "start": 21.86,
+          "end": 22.06,
+          "probability": 0.51
+        },
+        {
+          "word": "giờ",
+          "start": 22.06,
+          "end": 22.06,
+          "probability": 0.57
+        },
+        {
+          "word": "thì",
+          "start": 22.06,
+          "end": 22.06,
+          "probability": 0.1
+        },
+        {
+          "word": "đi",
+          "start": 22.06,
+          "end": 22.06,
+          "probability": 0.07
+        },
+        {
+          "word": "gì",
+          "start": 22.06,
+          "end": 22.18,
+          "probability": 0.45
+        },
+        {
+          "word": "mà",
+          "start": 22.18,
+          "end": 22.32,
+          "probability": 0.93
+        },
+        {
+          "word": "chúng",
+          "start": 22.32,
+          "end": 22.52,
+          "probability": 0.89
+        },
+        {
+          "word": "ta",
+          "start": 22.52,
+          "end": 22.6,
+          "probability": 0.97
+        },
+        {
+          "word": "chưa",
+          "start": 22.6,
+          "end": 22.78,
+          "probability": 0.82
+        },
+        {
+          "word": "được",
+          "start": 22.78,
+          "end": 22.98,
+          "probability": 0.46
+        },
+        {
+          "word": "thành",
+          "start": 22.98,
+          "end": 23.1,
+          "probability": 0.21
+        },
+        {
+          "word": "công",
+          "start": 23.1,
+          "end": 23.34,
+          "probability": 0.97
+        },
+        {
+          "word": "của",
+          "start": 23.34,
+          "end": 23.58,
+          "probability": 0.99
+        },
+        {
+          "word": "nắm",
+          "start": 23.58,
+          "end": 23.74,
+          "probability": 0.81
+        },
+        {
+          "word": "vừa",
+          "start": 23.74,
+          "end": 23.88,
+          "probability": 0.46
+        },
+        {
+          "word": "qua.",
+          "start": 23.88,
+          "end": 24.14,
+          "probability": 0.94
+        }
+      ]
+    }
+  ]
+}

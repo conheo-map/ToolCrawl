@@ -1,0 +1,148 @@
+{
+  "item_id": "tt_7645207180320197904_01",
+  "duration_seconds": 27.12,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 19,
+  "text": "Cái cái ít tạc quá à phiratulations. Cái ít tạc quá trưởng. Hồi anh vào từ thằng nấu triển.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 4.84,
+      "end": 5.56,
+      "text": "Cái cái ít tạc quá à phiratulations.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 4.84,
+          "end": 5.36,
+          "probability": 0.28
+        },
+        {
+          "word": "cái",
+          "start": 5.36,
+          "end": 5.56,
+          "probability": 0.07
+        },
+        {
+          "word": "ít",
+          "start": 5.56,
+          "end": 5.56,
+          "probability": 0.39
+        },
+        {
+          "word": "tạc",
+          "start": 5.56,
+          "end": 5.56,
+          "probability": 0.17
+        },
+        {
+          "word": "quá",
+          "start": 5.56,
+          "end": 5.56,
+          "probability": 0.05
+        },
+        {
+          "word": "à",
+          "start": 5.56,
+          "end": 5.56,
+          "probability": 0.0
+        },
+        {
+          "word": "phiratulations.",
+          "start": 5.56,
+          "end": 5.56,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.16,
+      "end": 23.6,
+      "text": "Cái ít tạc quá trưởng.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 6.16,
+          "end": 6.16,
+          "probability": 0.56
+        },
+        {
+          "word": "ít",
+          "start": 8.34,
+          "end": 9.52,
+          "probability": 0.56
+        },
+        {
+          "word": "tạc",
+          "start": 22.58,
+          "end": 22.96,
+          "probability": 0.97
+        },
+        {
+          "word": "quá",
+          "start": 22.96,
+          "end": 23.14,
+          "probability": 0.91
+        },
+        {
+          "word": "trưởng.",
+          "start": 23.14,
+          "end": 23.6,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 25.22,
+      "end": 26.72,
+      "text": "Hồi anh vào từ thằng nấu triển.",
+      "words": [
+        {
+          "word": "Hồi",
+          "start": 25.22,
+          "end": 25.36,
+          "probability": 0.19
+        },
+        {
+          "word": "anh",
+          "start": 25.36,
+          "end": 25.5,
+          "probability": 0.09
+        },
+        {
+          "word": "vào",
+          "start": 25.5,
+          "end": 25.7,
+          "probability": 0.2
+        },
+        {
+          "word": "từ",
+          "start": 25.7,
+          "end": 25.86,
+          "probability": 0.08
+        },
+        {
+          "word": "thằng",
+          "start": 25.86,
+          "end": 26.1,
+          "probability": 0.09
+        },
+        {
+          "word": "nấu",
+          "start": 26.1,
+          "end": 26.38,
+          "probability": 0.1
+        },
+        {
+          "word": "triển.",
+          "start": 26.38,
+          "end": 26.72,
+          "probability": 0.04
+        }
+      ]
+    }
+  ]
+}

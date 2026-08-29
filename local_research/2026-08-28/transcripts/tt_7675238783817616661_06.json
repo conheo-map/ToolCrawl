@@ -1,0 +1,620 @@
+{
+  "item_id": "tt_7675238783817616661_06",
+  "duration_seconds": 29.34,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 91,
+  "text": "Nữ gần và nhanh để đau hải bệnh nhàng nào cũng cũng rất sình được được. Đúng với một bệnh nhấn bị suy thật mạnh, cho đàn cuối, trân phải trầng lọc mấu, đều đằng bà tuần một lần. Cính bệnh vầy chỉ phải ý đế trầng xin hoa, lắm một gánh đàn đúng với nhiều người bệnh. Nữ bệnh nhàng mà chứ được bà trẻ đàn cuối, một tiêu, là chúng ta, lấy những chất, cho chất lọc mà cơ thể, đi qua mà thấy nơi hư không phải đau.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.62,
+      "text": "Nữ gần và nhanh để đau hải bệnh nhàng nào cũng cũng rất sình được được.",
+      "words": [
+        {
+          "word": "Nữ",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.23
+        },
+        {
+          "word": "gần",
+          "start": 0.54,
+          "end": 0.92,
+          "probability": 0.21
+        },
+        {
+          "word": "và",
+          "start": 0.92,
+          "end": 1.06,
+          "probability": 0.17
+        },
+        {
+          "word": "nhanh",
+          "start": 1.06,
+          "end": 1.42,
+          "probability": 0.58
+        },
+        {
+          "word": "để",
+          "start": 1.42,
+          "end": 1.64,
+          "probability": 0.13
+        },
+        {
+          "word": "đau",
+          "start": 1.64,
+          "end": 1.84,
+          "probability": 0.53
+        },
+        {
+          "word": "hải",
+          "start": 1.84,
+          "end": 2.0,
+          "probability": 0.22
+        },
+        {
+          "word": "bệnh",
+          "start": 2.0,
+          "end": 2.16,
+          "probability": 0.55
+        },
+        {
+          "word": "nhàng",
+          "start": 2.16,
+          "end": 2.3,
+          "probability": 0.26
+        },
+        {
+          "word": "nào",
+          "start": 2.3,
+          "end": 2.54,
+          "probability": 0.28
+        },
+        {
+          "word": "cũng",
+          "start": 2.54,
+          "end": 3.12,
+          "probability": 0.74
+        },
+        {
+          "word": "cũng",
+          "start": 3.12,
+          "end": 3.46,
+          "probability": 0.15
+        },
+        {
+          "word": "rất",
+          "start": 3.46,
+          "end": 3.72,
+          "probability": 0.3
+        },
+        {
+          "word": "sình",
+          "start": 3.72,
+          "end": 3.86,
+          "probability": 0.29
+        },
+        {
+          "word": "được",
+          "start": 3.86,
+          "end": 4.08,
+          "probability": 0.23
+        },
+        {
+          "word": "được.",
+          "start": 4.08,
+          "end": 4.62,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.02,
+      "end": 7.82,
+      "text": "Đúng với một bệnh nhấn bị suy thật mạnh, cho đàn cuối,",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 5.02,
+          "end": 5.18,
+          "probability": 0.46
+        },
+        {
+          "word": "với",
+          "start": 5.18,
+          "end": 5.38,
+          "probability": 0.37
+        },
+        {
+          "word": "một",
+          "start": 5.38,
+          "end": 5.64,
+          "probability": 0.86
+        },
+        {
+          "word": "bệnh",
+          "start": 5.64,
+          "end": 5.84,
+          "probability": 0.63
+        },
+        {
+          "word": "nhấn",
+          "start": 5.84,
+          "end": 6.06,
+          "probability": 0.27
+        },
+        {
+          "word": "bị",
+          "start": 6.06,
+          "end": 6.32,
+          "probability": 0.11
+        },
+        {
+          "word": "suy",
+          "start": 6.32,
+          "end": 6.52,
+          "probability": 0.63
+        },
+        {
+          "word": "thật",
+          "start": 6.52,
+          "end": 6.66,
+          "probability": 0.58
+        },
+        {
+          "word": "mạnh,",
+          "start": 6.66,
+          "end": 6.96,
+          "probability": 0.69
+        },
+        {
+          "word": "cho",
+          "start": 7.12,
+          "end": 7.16,
+          "probability": 0.15
+        },
+        {
+          "word": "đàn",
+          "start": 7.16,
+          "end": 7.36,
+          "probability": 0.23
+        },
+        {
+          "word": "cuối,",
+          "start": 7.36,
+          "end": 7.82,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.0,
+      "end": 10.86,
+      "text": "trân phải trầng lọc mấu, đều đằng bà tuần một lần.",
+      "words": [
+        {
+          "word": "trân",
+          "start": 8.0,
+          "end": 8.14,
+          "probability": 0.17
+        },
+        {
+          "word": "phải",
+          "start": 8.14,
+          "end": 8.36,
+          "probability": 0.49
+        },
+        {
+          "word": "trầng",
+          "start": 8.36,
+          "end": 8.72,
+          "probability": 0.35
+        },
+        {
+          "word": "lọc",
+          "start": 8.72,
+          "end": 9.0,
+          "probability": 0.78
+        },
+        {
+          "word": "mấu,",
+          "start": 9.0,
+          "end": 9.38,
+          "probability": 0.44
+        },
+        {
+          "word": "đều",
+          "start": 9.68,
+          "end": 9.68,
+          "probability": 0.61
+        },
+        {
+          "word": "đằng",
+          "start": 9.68,
+          "end": 9.96,
+          "probability": 0.44
+        },
+        {
+          "word": "bà",
+          "start": 9.96,
+          "end": 10.26,
+          "probability": 0.25
+        },
+        {
+          "word": "tuần",
+          "start": 10.26,
+          "end": 10.34,
+          "probability": 0.23
+        },
+        {
+          "word": "một",
+          "start": 10.34,
+          "end": 10.5,
+          "probability": 0.51
+        },
+        {
+          "word": "lần.",
+          "start": 10.5,
+          "end": 10.86,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.46,
+      "end": 14.42,
+      "text": "Cính bệnh vầy chỉ phải ý đế trầng xin hoa,",
+      "words": [
+        {
+          "word": "Cính",
+          "start": 11.46,
+          "end": 11.58,
+          "probability": 0.17
+        },
+        {
+          "word": "bệnh",
+          "start": 11.58,
+          "end": 11.76,
+          "probability": 0.47
+        },
+        {
+          "word": "vầy",
+          "start": 11.76,
+          "end": 12.16,
+          "probability": 0.48
+        },
+        {
+          "word": "chỉ",
+          "start": 12.16,
+          "end": 12.44,
+          "probability": 0.34
+        },
+        {
+          "word": "phải",
+          "start": 12.44,
+          "end": 12.56,
+          "probability": 0.5
+        },
+        {
+          "word": "ý",
+          "start": 12.56,
+          "end": 12.82,
+          "probability": 0.17
+        },
+        {
+          "word": "đế",
+          "start": 12.82,
+          "end": 12.9,
+          "probability": 0.2
+        },
+        {
+          "word": "trầng",
+          "start": 12.9,
+          "end": 13.26,
+          "probability": 0.69
+        },
+        {
+          "word": "xin",
+          "start": 13.26,
+          "end": 14.02,
+          "probability": 0.5
+        },
+        {
+          "word": "hoa,",
+          "start": 14.02,
+          "end": 14.42,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.7,
+      "end": 16.62,
+      "text": "lắm một gánh đàn đúng với nhiều người bệnh.",
+      "words": [
+        {
+          "word": "lắm",
+          "start": 14.7,
+          "end": 14.78,
+          "probability": 0.43
+        },
+        {
+          "word": "một",
+          "start": 14.78,
+          "end": 14.92,
+          "probability": 0.87
+        },
+        {
+          "word": "gánh",
+          "start": 14.92,
+          "end": 15.08,
+          "probability": 0.35
+        },
+        {
+          "word": "đàn",
+          "start": 15.08,
+          "end": 15.34,
+          "probability": 0.43
+        },
+        {
+          "word": "đúng",
+          "start": 15.34,
+          "end": 15.66,
+          "probability": 0.51
+        },
+        {
+          "word": "với",
+          "start": 15.66,
+          "end": 15.92,
+          "probability": 0.28
+        },
+        {
+          "word": "nhiều",
+          "start": 15.92,
+          "end": 16.18,
+          "probability": 0.38
+        },
+        {
+          "word": "người",
+          "start": 16.18,
+          "end": 16.36,
+          "probability": 0.48
+        },
+        {
+          "word": "bệnh.",
+          "start": 16.36,
+          "end": 16.62,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 17.32,
+      "end": 20.56,
+      "text": "Nữ bệnh nhàng mà chứ được bà trẻ đàn cuối, một tiêu,",
+      "words": [
+        {
+          "word": "Nữ",
+          "start": 17.32,
+          "end": 17.44,
+          "probability": 0.3
+        },
+        {
+          "word": "bệnh",
+          "start": 17.44,
+          "end": 17.72,
+          "probability": 0.72
+        },
+        {
+          "word": "nhàng",
+          "start": 17.72,
+          "end": 17.98,
+          "probability": 0.7
+        },
+        {
+          "word": "mà",
+          "start": 17.98,
+          "end": 18.22,
+          "probability": 0.82
+        },
+        {
+          "word": "chứ",
+          "start": 18.22,
+          "end": 18.36,
+          "probability": 0.19
+        },
+        {
+          "word": "được",
+          "start": 18.36,
+          "end": 18.56,
+          "probability": 0.1
+        },
+        {
+          "word": "bà",
+          "start": 18.56,
+          "end": 18.64,
+          "probability": 0.23
+        },
+        {
+          "word": "trẻ",
+          "start": 18.64,
+          "end": 18.78,
+          "probability": 0.34
+        },
+        {
+          "word": "đàn",
+          "start": 18.78,
+          "end": 18.96,
+          "probability": 0.6
+        },
+        {
+          "word": "cuối,",
+          "start": 18.96,
+          "end": 19.34,
+          "probability": 0.98
+        },
+        {
+          "word": "một",
+          "start": 19.64,
+          "end": 19.84,
+          "probability": 0.78
+        },
+        {
+          "word": "tiêu,",
+          "start": 19.84,
+          "end": 20.56,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 20.96,
+      "end": 26.08,
+      "text": "là chúng ta, lấy những chất, cho chất lọc mà cơ thể,",
+      "words": [
+        {
+          "word": "là",
+          "start": 20.96,
+          "end": 21.04,
+          "probability": 0.24
+        },
+        {
+          "word": "chúng",
+          "start": 21.04,
+          "end": 21.22,
+          "probability": 0.82
+        },
+        {
+          "word": "ta,",
+          "start": 21.22,
+          "end": 21.56,
+          "probability": 0.99
+        },
+        {
+          "word": "lấy",
+          "start": 21.62,
+          "end": 21.98,
+          "probability": 0.56
+        },
+        {
+          "word": "những",
+          "start": 21.98,
+          "end": 22.5,
+          "probability": 0.14
+        },
+        {
+          "word": "chất,",
+          "start": 22.5,
+          "end": 23.42,
+          "probability": 0.41
+        },
+        {
+          "word": "cho",
+          "start": 23.5,
+          "end": 24.54,
+          "probability": 0.21
+        },
+        {
+          "word": "chất",
+          "start": 24.54,
+          "end": 24.66,
+          "probability": 0.57
+        },
+        {
+          "word": "lọc",
+          "start": 24.66,
+          "end": 24.94,
+          "probability": 0.62
+        },
+        {
+          "word": "mà",
+          "start": 24.94,
+          "end": 25.22,
+          "probability": 0.47
+        },
+        {
+          "word": "cơ",
+          "start": 25.22,
+          "end": 25.44,
+          "probability": 0.49
+        },
+        {
+          "word": "thể,",
+          "start": 25.44,
+          "end": 26.08,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 26.08,
+      "end": 29.26,
+      "text": "đi qua mà thấy nơi hư không phải đau.",
+      "words": [
+        {
+          "word": "đi",
+          "start": 26.08,
+          "end": 26.78,
+          "probability": 0.07
+        },
+        {
+          "word": "qua",
+          "start": 26.78,
+          "end": 27.2,
+          "probability": 0.28
+        },
+        {
+          "word": "mà",
+          "start": 27.2,
+          "end": 27.54,
+          "probability": 0.39
+        },
+        {
+          "word": "thấy",
+          "start": 27.54,
+          "end": 27.74,
+          "probability": 0.17
+        },
+        {
+          "word": "nơi",
+          "start": 27.74,
+          "end": 27.98,
+          "probability": 0.19
+        },
+        {
+          "word": "hư",
+          "start": 27.98,
+          "end": 28.36,
+          "probability": 0.59
+        },
+        {
+          "word": "không",
+          "start": 28.36,
+          "end": 28.72,
+          "probability": 0.7
+        },
+        {
+          "word": "phải",
+          "start": 28.72,
+          "end": 28.88,
+          "probability": 0.41
+        },
+        {
+          "word": "đau.",
+          "start": 28.88,
+          "end": 29.26,
+          "probability": 0.29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "item_id": "tt_7230094499840609541_03",
+  "duration_seconds": 28.15,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 117,
+  "text": "Nó kém phải cần thật, biam đổi một tí thôi, đổi đổi đổi kém hòn ở đây. Điều thứ 3 đã dì đối khi cái pho anh đây. Nó kém nằm, nó kém tính ra được pho anh đây, nhưng mà kém khoanh đêm, cái tất tự tin, tại vì trong bún ngờ nửa trọn có pho anh đây của kém ấy. Tính chắc đi ra đúng nó. Tại vì đong năng người ra để họ gái mấy các bạn này. Tất cả các bạn này. Cái người ra để người dưới đừng đừng đừng đừng đừng à. Cả lắng ngọt sinh của đi, nhập được ra này. Nó tất cố tình gái mà pho anh đây.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.12,
+      "text": "Nó kém phải cần thật, biam đổi một tí thôi, đổi đổi đổi kém hòn ở đây.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.24
+        },
+        {
+          "word": "kém",
+          "start": 0.36,
+          "end": 0.54,
+          "probability": 0.24
+        },
+        {
+          "word": "phải",
+          "start": 0.54,
+          "end": 0.7,
+          "probability": 0.71
+        },
+        {
+          "word": "cần",
+          "start": 0.7,
+          "end": 0.92,
+          "probability": 0.79
+        },
+        {
+          "word": "thật,",
+          "start": 0.92,
+          "end": 1.28,
+          "probability": 0.8
+        },
+        {
+          "word": "biam",
+          "start": 1.58,
+          "end": 1.74,
+          "probability": 0.11
+        },
+        {
+          "word": "đổi",
+          "start": 1.74,
+          "end": 1.92,
+          "probability": 0.52
+        },
+        {
+          "word": "một",
+          "start": 1.92,
+          "end": 2.14,
+          "probability": 0.71
+        },
+        {
+          "word": "tí",
+          "start": 2.14,
+          "end": 2.28,
+          "probability": 0.54
+        },
+        {
+          "word": "thôi,",
+          "start": 2.28,
+          "end": 2.5,
+          "probability": 0.86
+        },
+        {
+          "word": "đổi",
+          "start": 2.5,
+          "end": 2.64,
+          "probability": 0.14
+        },
+        {
+          "word": "đổi",
+          "start": 2.64,
+          "end": 2.64,
+          "probability": 0.32
+        },
+        {
+          "word": "đổi",
+          "start": 2.64,
+          "end": 2.64,
+          "probability": 0.46
+        },
+        {
+          "word": "kém",
+          "start": 2.64,
+          "end": 2.7,
+          "probability": 0.56
+        },
+        {
+          "word": "hòn",
+          "start": 2.7,
+          "end": 2.86,
+          "probability": 0.26
+        },
+        {
+          "word": "ở",
+          "start": 2.86,
+          "end": 3.0,
+          "probability": 0.17
+        },
+        {
+          "word": "đây.",
+          "start": 3.0,
+          "end": 3.12,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.46,
+      "end": 5.42,
+      "text": "Điều thứ 3 đã dì đối khi cái pho anh đây.",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 3.46,
+          "end": 3.64,
+          "probability": 0.58
+        },
+        {
+          "word": "thứ",
+          "start": 3.64,
+          "end": 3.74,
+          "probability": 0.52
+        },
+        {
+          "word": "3",
+          "start": 3.74,
+          "end": 3.96,
+          "probability": 0.41
+        },
+        {
+          "word": "đã",
+          "start": 3.96,
+          "end": 4.18,
+          "probability": 0.27
+        },
+        {
+          "word": "dì",
+          "start": 4.18,
+          "end": 4.38,
+          "probability": 0.4
+        },
+        {
+          "word": "đối",
+          "start": 4.38,
+          "end": 4.64,
+          "probability": 0.34
+        },
+        {
+          "word": "khi",
+          "start": 4.64,
+          "end": 4.84,
+          "probability": 0.65
+        },
+        {
+          "word": "cái",
+          "start": 4.84,
+          "end": 5.02,
+          "probability": 0.2
+        },
+        {
+          "word": "pho",
+          "start": 5.02,
+          "end": 5.14,
+          "probability": 0.48
+        },
+        {
+          "word": "anh",
+          "start": 5.14,
+          "end": 5.22,
+          "probability": 0.11
+        },
+        {
+          "word": "đây.",
+          "start": 5.22,
+          "end": 5.42,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.14,
+      "end": 9.16,
+      "text": "Nó kém nằm, nó kém tính ra được pho anh đây, nhưng mà kém khoanh đêm,",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 6.14,
+          "end": 6.24,
+          "probability": 0.83
+        },
+        {
+          "word": "kém",
+          "start": 6.24,
+          "end": 6.42,
+          "probability": 0.91
+        },
+        {
+          "word": "nằm,",
+          "start": 6.42,
+          "end": 6.84,
+          "probability": 0.65
+        },
+        {
+          "word": "nó",
+          "start": 7.08,
+          "end": 7.08,
+          "probability": 0.06
+        },
+        {
+          "word": "kém",
+          "start": 7.08,
+          "end": 7.22,
+          "probability": 0.76
+        },
+        {
+          "word": "tính",
+          "start": 7.22,
+          "end": 7.36,
+          "probability": 0.44
+        },
+        {
+          "word": "ra",
+          "start": 7.36,
+          "end": 7.56,
+          "probability": 0.16
+        },
+        {
+          "word": "được",
+          "start": 7.56,
+          "end": 7.72,
+          "probability": 0.56
+        },
+        {
+          "word": "pho",
+          "start": 7.72,
+          "end": 7.86,
+          "probability": 0.94
+        },
+        {
+          "word": "anh",
+          "start": 7.86,
+          "end": 7.94,
+          "probability": 0.96
+        },
+        {
+          "word": "đây,",
+          "start": 7.94,
+          "end": 8.16,
+          "probability": 0.84
+        },
+        {
+          "word": "nhưng",
+          "start": 8.3,
+          "end": 8.36,
+          "probability": 0.93
+        },
+        {
+          "word": "mà",
+          "start": 8.36,
+          "end": 8.48,
+          "probability": 0.69
+        },
+        {
+          "word": "kém",
+          "start": 8.48,
+          "end": 8.68,
+          "probability": 0.86
+        },
+        {
+          "word": "khoanh",
+          "start": 8.68,
+          "end": 8.94,
+          "probability": 0.43
+        },
+        {
+          "word": "đêm,",
+          "start": 8.94,
+          "end": 9.16,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.36,
+      "end": 12.46,
+      "text": "cái tất tự tin, tại vì trong bún ngờ nửa trọn có pho anh đây của kém ấy.",
+      "words": [
+        {
+          "word": "cái",
+          "start": 9.36,
+          "end": 9.36,
+          "probability": 0.33
+        },
+        {
+          "word": "tất",
+          "start": 9.36,
+          "end": 9.54,
+          "probability": 0.82
+        },
+        {
+          "word": "tự",
+          "start": 9.54,
+          "end": 9.74,
+          "probability": 0.63
+        },
+        {
+          "word": "tin,",
+          "start": 9.74,
+          "end": 9.9,
+          "probability": 0.56
+        },
+        {
+          "word": "tại",
+          "start": 10.14,
+          "end": 10.14,
+          "probability": 0.15
+        },
+        {
+          "word": "vì",
+          "start": 10.14,
+          "end": 10.32,
+          "probability": 0.96
+        },
+        {
+          "word": "trong",
+          "start": 10.32,
+          "end": 10.52,
+          "probability": 0.95
+        },
+        {
+          "word": "bún",
+          "start": 10.52,
+          "end": 10.68,
+          "probability": 0.5
+        },
+        {
+          "word": "ngờ",
+          "start": 10.68,
+          "end": 10.88,
+          "probability": 0.14
+        },
+        {
+          "word": "nửa",
+          "start": 10.88,
+          "end": 11.02,
+          "probability": 0.53
+        },
+        {
+          "word": "trọn",
+          "start": 11.02,
+          "end": 11.18,
+          "probability": 0.66
+        },
+        {
+          "word": "có",
+          "start": 11.18,
+          "end": 11.44,
+          "probability": 0.23
+        },
+        {
+          "word": "pho",
+          "start": 11.44,
+          "end": 11.48,
+          "probability": 0.65
+        },
+        {
+          "word": "anh",
+          "start": 11.48,
+          "end": 11.54,
+          "probability": 0.96
+        },
+        {
+          "word": "đây",
+          "start": 11.54,
+          "end": 11.68,
+          "probability": 0.91
+        },
+        {
+          "word": "của",
+          "start": 11.68,
+          "end": 11.84,
+          "probability": 0.66
+        },
+        {
+          "word": "kém",
+          "start": 11.84,
+          "end": 12.04,
+          "probability": 0.93
+        },
+        {
+          "word": "ấy.",
+          "start": 12.04,
+          "end": 12.46,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.84,
+      "end": 13.82,
+      "text": "Tính chắc đi ra đúng nó.",
+      "words": [
+        {
+          "word": "Tính",
+          "start": 12.84,
+          "end": 12.84,
+          "probability": 0.28
+        },
+        {
+          "word": "chắc",
+          "start": 12.84,
+          "end": 13.02,
+          "probability": 0.58
+        },
+        {
+          "word": "đi",
+          "start": 13.02,
+          "end": 13.16,
+          "probability": 0.34
+        },
+        {
+          "word": "ra",
+          "start": 13.16,
+          "end": 13.34,
+          "probability": 0.14
+        },
+        {
+          "word": "đúng",
+          "start": 13.34,
+          "end": 13.44,
+          "probability": 0.89
+        },
+        {
+          "word": "nó.",
+          "start": 13.44,
+          "end": 13.82,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 16.04,
+      "end": 18.16,
+      "text": "Tại vì đong năng người ra để họ gái mấy các bạn này.",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 16.04,
+          "end": 16.22,
+          "probability": 0.46
+        },
+        {
+          "word": "vì",
+          "start": 16.22,
+          "end": 16.28,
+          "probability": 0.84
+        },
+        {
+          "word": "đong",
+          "start": 16.28,
+          "end": 16.52,
+          "probability": 0.35
+        },
+        {
+          "word": "năng",
+          "start": 16.52,
+          "end": 16.76,
+          "probability": 0.29
+        },
+        {
+          "word": "người",
+          "start": 16.76,
+          "end": 16.86,
+          "probability": 0.11
+        },
+        {
+          "word": "ra",
+          "start": 16.86,
+          "end": 16.98,
+          "probability": 0.22
+        },
+        {
+          "word": "để",
+          "start": 16.98,
+          "end": 17.16,
+          "probability": 0.39
+        },
+        {
+          "word": "họ",
+          "start": 17.16,
+          "end": 17.32,
+          "probability": 0.59
+        },
+        {
+          "word": "gái",
+          "start": 17.32,
+          "end": 17.54,
+          "probability": 0.47
+        },
+        {
+          "word": "mấy",
+          "start": 17.54,
+          "end": 17.74,
+          "probability": 0.64
+        },
+        {
+          "word": "các",
+          "start": 17.74,
+          "end": 17.86,
+          "probability": 0.54
+        },
+        {
+          "word": "bạn",
+          "start": 17.86,
+          "end": 18.0,
+          "probability": 0.99
+        },
+        {
+          "word": "này.",
+          "start": 18.0,
+          "end": 18.16,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.34,
+      "end": 18.6,
+      "text": "Tất cả các bạn này.",
+      "words": [
+        {
+          "word": "Tất",
+          "start": 18.34,
+          "end": 18.34,
+          "probability": 0.33
+        },
+        {
+          "word": "cả",
+          "start": 18.34,
+          "end": 18.34,
+          "probability": 0.29
+        },
+        {
+          "word": "các",
+          "start": 18.34,
+          "end": 18.6,
+          "probability": 0.17
+        },
+        {
+          "word": "bạn",
+          "start": 18.6,
+          "end": 18.6,
+          "probability": 0.89
+        },
+        {
+          "word": "này.",
+          "start": 18.6,
+          "end": 18.6,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 18.6,
+      "end": 20.14,
+      "text": "Cái người ra để người dưới đừng đừng đừng đừng đừng à.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 18.6,
+          "end": 18.72,
+          "probability": 0.45
+        },
+        {
+          "word": "người",
+          "start": 18.72,
+          "end": 18.74,
+          "probability": 0.15
+        },
+        {
+          "word": "ra",
+          "start": 18.74,
+          "end": 18.86,
+          "probability": 0.99
+        },
+        {
+          "word": "để",
+          "start": 18.86,
+          "end": 19.02,
+          "probability": 0.54
+        },
+        {
+          "word": "người",
+          "start": 19.02,
+          "end": 19.34,
+          "probability": 0.28
+        },
+        {
+          "word": "dưới",
+          "start": 19.34,
+          "end": 19.34,
+          "probability": 0.4
+        },
+        {
+          "word": "đừng",
+          "start": 19.34,
+          "end": 19.58,
+          "probability": 0.18
+        },
+        {
+          "word": "đừng",
+          "start": 19.58,
+          "end": 19.58,
+          "probability": 0.24
+        },
+        {
+          "word": "đừng",
+          "start": 19.58,
+          "end": 19.6,
+          "probability": 0.39
+        },
+        {
+          "word": "đừng",
+          "start": 19.6,
+          "end": 19.62,
+          "probability": 0.45
+        },
+        {
+          "word": "đừng",
+          "start": 19.62,
+          "end": 19.76,
+          "probability": 0.47
+        },
+        {
+          "word": "à.",
+          "start": 19.76,
+          "end": 20.14,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 20.4,
+      "end": 21.76,
+      "text": "Cả lắng ngọt sinh của đi, nhập được ra này.",
+      "words": [
+        {
+          "word": "Cả",
+          "start": 20.4,
+          "end": 20.5,
+          "probability": 0.4
+        },
+        {
+          "word": "lắng",
+          "start": 20.5,
+          "end": 20.6,
+          "probability": 0.19
+        },
+        {
+          "word": "ngọt",
+          "start": 20.6,
+          "end": 20.78,
+          "probability": 0.61
+        },
+        {
+          "word": "sinh",
+          "start": 20.78,
+          "end": 20.94,
+          "probability": 0.32
+        },
+        {
+          "word": "của",
+          "start": 20.94,
+          "end": 21.08,
+          "probability": 0.87
+        },
+        {
+          "word": "đi,",
+          "start": 21.08,
+          "end": 21.16,
+          "probability": 0.22
+        },
+        {
+          "word": "nhập",
+          "start": 21.18,
+          "end": 21.3,
+          "probability": 0.19
+        },
+        {
+          "word": "được",
+          "start": 21.3,
+          "end": 21.4,
+          "probability": 0.41
+        },
+        {
+          "word": "ra",
+          "start": 21.4,
+          "end": 21.52,
+          "probability": 0.21
+        },
+        {
+          "word": "này.",
+          "start": 21.52,
+          "end": 21.76,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 21.92,
+      "end": 22.98,
+      "text": "Nó tất cố tình gái mà pho anh đây.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 21.92,
+          "end": 21.92,
+          "probability": 0.18
+        },
+        {
+          "word": "tất",
+          "start": 21.92,
+          "end": 22.0,
+          "probability": 0.14
+        },
+        {
+          "word": "cố",
+          "start": 22.0,
+          "end": 22.12,
+          "probability": 0.42
+        },
+        {
+          "word": "tình",
+          "start": 22.12,
+          "end": 22.3,
+          "probability": 0.71
+        },
+        {
+          "word": "gái",
+          "start": 22.3,
+          "end": 22.54,
+          "probability": 0.57
+        },
+        {
+          "word": "mà",
+          "start": 22.54,
+          "end": 22.68,
+          "probability": 0.34
+        },
+        {
+          "word": "pho",
+          "start": 22.68,
+          "end": 22.78,
+          "probability": 0.95
+        },
+        {
+          "word": "anh",
+          "start": 22.78,
+          "end": 22.86,
+          "probability": 0.73
+        },
+        {
+          "word": "đây.",
+          "start": 22.86,
+          "end": 22.98,
+          "probability": 0.94
+        }
+      ]
+    }
+  ]
+}

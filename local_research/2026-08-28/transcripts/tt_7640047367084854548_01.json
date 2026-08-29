@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7640047367084854548_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "1, 2, 1, 2, 1, 2!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.44,
+      "text": "1, 2, 1, 2, 1, 2!",
+      "words": [
+        {
+          "word": "1,",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.02
+        },
+        {
+          "word": "2,",
+          "start": 0.46,
+          "end": 0.84,
+          "probability": 0.46
+        },
+        {
+          "word": "1,",
+          "start": 0.86,
+          "end": 0.86,
+          "probability": 0.26
+        },
+        {
+          "word": "2,",
+          "start": 0.86,
+          "end": 1.28,
+          "probability": 0.64
+        },
+        {
+          "word": "1,",
+          "start": 1.28,
+          "end": 1.76,
+          "probability": 0.69
+        },
+        {
+          "word": "2!",
+          "start": 2.44,
+          "end": 2.44,
+          "probability": 0.53
+        }
+      ]
+    }
+  ]
+}

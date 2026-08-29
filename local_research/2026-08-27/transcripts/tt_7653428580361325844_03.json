@@ -1,0 +1,426 @@
+{
+  "item_id": "tt_7653428580361325844_03",
+  "duration_seconds": 23.66,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 64,
+  "text": "Còn bánh chè, xin đầy là gì thím có, để trải nghiệp tụi tích trước khi trình bị trân lạm học lưỡi. Còn bán những sự kiến của thế giới đồng mà có chân bán của những hình. Bây giờ có thể thảm khảo dụng, dụng dụng dụng dụng. Còn bán có thể thảm dụng, dụng dụng dụng dụng dụng dụng dụng dụng dụng.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Còn bánh chè, xin đầy là gì thím có, để trải nghiệp tụi tích trước khi trình bị trân lạm học lưỡi.",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.11
+        },
+        {
+          "word": "bánh",
+          "start": 0.54,
+          "end": 0.88,
+          "probability": 0.08
+        },
+        {
+          "word": "chè,",
+          "start": 0.88,
+          "end": 1.2,
+          "probability": 0.54
+        },
+        {
+          "word": "xin",
+          "start": 1.5,
+          "end": 1.52,
+          "probability": 0.22
+        },
+        {
+          "word": "đầy",
+          "start": 1.52,
+          "end": 1.72,
+          "probability": 0.53
+        },
+        {
+          "word": "là",
+          "start": 1.72,
+          "end": 1.92,
+          "probability": 0.85
+        },
+        {
+          "word": "gì",
+          "start": 1.92,
+          "end": 2.12,
+          "probability": 0.61
+        },
+        {
+          "word": "thím",
+          "start": 2.12,
+          "end": 2.36,
+          "probability": 0.17
+        },
+        {
+          "word": "có,",
+          "start": 2.36,
+          "end": 2.68,
+          "probability": 0.69
+        },
+        {
+          "word": "để",
+          "start": 2.9,
+          "end": 2.98,
+          "probability": 0.23
+        },
+        {
+          "word": "trải",
+          "start": 2.98,
+          "end": 3.18,
+          "probability": 0.46
+        },
+        {
+          "word": "nghiệp",
+          "start": 3.18,
+          "end": 3.38,
+          "probability": 0.77
+        },
+        {
+          "word": "tụi",
+          "start": 3.38,
+          "end": 3.7,
+          "probability": 0.45
+        },
+        {
+          "word": "tích",
+          "start": 3.7,
+          "end": 4.04,
+          "probability": 0.14
+        },
+        {
+          "word": "trước",
+          "start": 4.04,
+          "end": 4.2,
+          "probability": 0.48
+        },
+        {
+          "word": "khi",
+          "start": 4.2,
+          "end": 4.36,
+          "probability": 0.47
+        },
+        {
+          "word": "trình",
+          "start": 4.36,
+          "end": 4.58,
+          "probability": 0.37
+        },
+        {
+          "word": "bị",
+          "start": 4.58,
+          "end": 4.86,
+          "probability": 0.46
+        },
+        {
+          "word": "trân",
+          "start": 4.86,
+          "end": 5.08,
+          "probability": 0.27
+        },
+        {
+          "word": "lạm",
+          "start": 5.08,
+          "end": 5.26,
+          "probability": 0.36
+        },
+        {
+          "word": "học",
+          "start": 5.26,
+          "end": 5.46,
+          "probability": 0.45
+        },
+        {
+          "word": "lưỡi.",
+          "start": 5.46,
+          "end": 6.0,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.76,
+      "end": 11.64,
+      "text": "Còn bán những sự kiến của thế giới đồng mà có chân bán của những hình.",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 7.76,
+          "end": 7.88,
+          "probability": 0.38
+        },
+        {
+          "word": "bán",
+          "start": 7.88,
+          "end": 7.96,
+          "probability": 0.25
+        },
+        {
+          "word": "những",
+          "start": 7.96,
+          "end": 8.12,
+          "probability": 0.58
+        },
+        {
+          "word": "sự",
+          "start": 8.12,
+          "end": 8.26,
+          "probability": 0.73
+        },
+        {
+          "word": "kiến",
+          "start": 8.26,
+          "end": 8.46,
+          "probability": 0.46
+        },
+        {
+          "word": "của",
+          "start": 8.46,
+          "end": 8.86,
+          "probability": 0.76
+        },
+        {
+          "word": "thế",
+          "start": 8.86,
+          "end": 9.38,
+          "probability": 0.12
+        },
+        {
+          "word": "giới",
+          "start": 9.38,
+          "end": 9.44,
+          "probability": 0.32
+        },
+        {
+          "word": "đồng",
+          "start": 9.44,
+          "end": 9.66,
+          "probability": 0.36
+        },
+        {
+          "word": "mà",
+          "start": 9.66,
+          "end": 9.9,
+          "probability": 0.25
+        },
+        {
+          "word": "có",
+          "start": 9.9,
+          "end": 10.0,
+          "probability": 0.27
+        },
+        {
+          "word": "chân",
+          "start": 10.0,
+          "end": 10.16,
+          "probability": 0.37
+        },
+        {
+          "word": "bán",
+          "start": 10.16,
+          "end": 10.4,
+          "probability": 0.37
+        },
+        {
+          "word": "của",
+          "start": 10.4,
+          "end": 10.98,
+          "probability": 0.37
+        },
+        {
+          "word": "những",
+          "start": 10.98,
+          "end": 11.26,
+          "probability": 0.41
+        },
+        {
+          "word": "hình.",
+          "start": 11.26,
+          "end": 11.64,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.84,
+      "end": 16.42,
+      "text": "Bây giờ có thể thảm khảo dụng, dụng dụng dụng dụng.",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 11.84,
+          "end": 11.88,
+          "probability": 0.21
+        },
+        {
+          "word": "giờ",
+          "start": 11.88,
+          "end": 12.0,
+          "probability": 0.68
+        },
+        {
+          "word": "có",
+          "start": 12.0,
+          "end": 12.1,
+          "probability": 0.07
+        },
+        {
+          "word": "thể",
+          "start": 12.1,
+          "end": 12.36,
+          "probability": 0.82
+        },
+        {
+          "word": "thảm",
+          "start": 12.36,
+          "end": 13.94,
+          "probability": 0.21
+        },
+        {
+          "word": "khảo",
+          "start": 13.94,
+          "end": 14.24,
+          "probability": 0.32
+        },
+        {
+          "word": "dụng,",
+          "start": 14.24,
+          "end": 14.8,
+          "probability": 0.28
+        },
+        {
+          "word": "dụng",
+          "start": 15.4,
+          "end": 15.58,
+          "probability": 0.53
+        },
+        {
+          "word": "dụng",
+          "start": 15.58,
+          "end": 15.82,
+          "probability": 0.56
+        },
+        {
+          "word": "dụng",
+          "start": 15.82,
+          "end": 16.04,
+          "probability": 0.63
+        },
+        {
+          "word": "dụng.",
+          "start": 16.04,
+          "end": 16.42,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 17.48,
+      "end": 23.36,
+      "text": "Còn bán có thể thảm dụng, dụng dụng dụng dụng dụng dụng dụng dụng dụng.",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 17.48,
+          "end": 17.88,
+          "probability": 0.14
+        },
+        {
+          "word": "bán",
+          "start": 17.88,
+          "end": 18.06,
+          "probability": 0.52
+        },
+        {
+          "word": "có",
+          "start": 18.06,
+          "end": 19.38,
+          "probability": 0.19
+        },
+        {
+          "word": "thể",
+          "start": 19.38,
+          "end": 20.1,
+          "probability": 0.63
+        },
+        {
+          "word": "thảm",
+          "start": 20.1,
+          "end": 21.44,
+          "probability": 0.76
+        },
+        {
+          "word": "dụng,",
+          "start": 21.44,
+          "end": 21.6,
+          "probability": 0.55
+        },
+        {
+          "word": "dụng",
+          "start": 23.3,
+          "end": 23.3,
+          "probability": 0.81
+        },
+        {
+          "word": "dụng",
+          "start": 23.3,
+          "end": 23.3,
+          "probability": 0.81
+        },
+        {
+          "word": "dụng",
+          "start": 23.3,
+          "end": 23.3,
+          "probability": 0.8
+        },
+        {
+          "word": "dụng",
+          "start": 23.3,
+          "end": 23.36,
+          "probability": 0.76
+        },
+        {
+          "word": "dụng",
+          "start": 23.36,
+          "end": 23.36,
+          "probability": 0.74
+        },
+        {
+          "word": "dụng",
+          "start": 23.36,
+          "end": 23.36,
+          "probability": 0.75
+        },
+        {
+          "word": "dụng",
+          "start": 23.36,
+          "end": 23.36,
+          "probability": 0.73
+        },
+        {
+          "word": "dụng",
+          "start": 23.36,
+          "end": 23.36,
+          "probability": 0.73
+        },
+        {
+          "word": "dụng.",
+          "start": 23.36,
+          "end": 23.36,
+          "probability": 0.74
+        }
+      ]
+    }
+  ]
+}

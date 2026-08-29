@@ -1,0 +1,72 @@
+{
+  "item_id": "tt_7524188364849909009_01",
+  "duration_seconds": 9.84,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "Hãy tạm hẹn hẹn lại thì cần bây giờ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.62,
+      "text": "Hãy tạm hẹn hẹn lại thì cần bây giờ",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.21
+        },
+        {
+          "word": "tạm",
+          "start": 0.18,
+          "end": 0.48,
+          "probability": 0.42
+        },
+        {
+          "word": "hẹn",
+          "start": 0.48,
+          "end": 0.72,
+          "probability": 0.59
+        },
+        {
+          "word": "hẹn",
+          "start": 0.72,
+          "end": 0.78,
+          "probability": 0.64
+        },
+        {
+          "word": "lại",
+          "start": 0.78,
+          "end": 0.86,
+          "probability": 0.09
+        },
+        {
+          "word": "thì",
+          "start": 0.86,
+          "end": 0.96,
+          "probability": 0.4
+        },
+        {
+          "word": "cần",
+          "start": 0.96,
+          "end": 1.12,
+          "probability": 0.75
+        },
+        {
+          "word": "bây",
+          "start": 1.12,
+          "end": 1.24,
+          "probability": 0.29
+        },
+        {
+          "word": "giờ",
+          "start": 1.24,
+          "end": 1.62,
+          "probability": 0.87
+        }
+      ]
+    }
+  ]
+}

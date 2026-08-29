@@ -1,0 +1,768 @@
+{
+  "item_id": "tt_7646754100490685716_02",
+  "duration_seconds": 28.21,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 109,
+  "text": "Em thấy chúa em chỉ tại em này Nói nói giải hơn, sau với em ở đây Nói nói, cái này phù hợp với cái này ăn của thế xin Sau với em được ông ở chỗ Nói sau với em làm chỗ để nó đỏ dạ dạy hầm Em làm dạy dụng như thế xin Nói muốn tại em một máy làm được nhất trong máy mục Em thấy em làm sao em làm em được tần làm Một tần ôm trên chỗ thì đây Thì lần này Em thấy em giải ở sau với em Tên hợp dạy để hợp chung bình thương Hợp chung bình thương",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 3.1,
+      "text": "Em thấy chúa em chỉ tại em này",
+      "words": [
+        {
+          "word": "Em",
+          "start": 0.02,
+          "end": 0.64,
+          "probability": 0.3
+        },
+        {
+          "word": "thấy",
+          "start": 0.64,
+          "end": 1.18,
+          "probability": 0.85
+        },
+        {
+          "word": "chúa",
+          "start": 1.18,
+          "end": 1.8,
+          "probability": 0.16
+        },
+        {
+          "word": "em",
+          "start": 1.8,
+          "end": 1.96,
+          "probability": 0.18
+        },
+        {
+          "word": "chỉ",
+          "start": 1.96,
+          "end": 2.18,
+          "probability": 0.55
+        },
+        {
+          "word": "tại",
+          "start": 2.18,
+          "end": 2.42,
+          "probability": 0.45
+        },
+        {
+          "word": "em",
+          "start": 2.42,
+          "end": 2.84,
+          "probability": 0.08
+        },
+        {
+          "word": "này",
+          "start": 2.84,
+          "end": 3.1,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.1,
+      "end": 4.68,
+      "text": "Nói nói giải hơn, sau với em ở đây",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 3.1,
+          "end": 3.64,
+          "probability": 0.37
+        },
+        {
+          "word": "nói",
+          "start": 3.64,
+          "end": 3.64,
+          "probability": 0.04
+        },
+        {
+          "word": "giải",
+          "start": 3.64,
+          "end": 3.76,
+          "probability": 0.38
+        },
+        {
+          "word": "hơn,",
+          "start": 3.76,
+          "end": 3.98,
+          "probability": 0.28
+        },
+        {
+          "word": "sau",
+          "start": 4.1,
+          "end": 4.16,
+          "probability": 0.21
+        },
+        {
+          "word": "với",
+          "start": 4.16,
+          "end": 4.38,
+          "probability": 0.33
+        },
+        {
+          "word": "em",
+          "start": 4.38,
+          "end": 4.68,
+          "probability": 0.18
+        },
+        {
+          "word": "ở",
+          "start": 4.68,
+          "end": 4.68,
+          "probability": 0.07
+        },
+        {
+          "word": "đây",
+          "start": 4.68,
+          "end": 4.68,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.68,
+      "end": 7.16,
+      "text": "Nói nói, cái này phù hợp với cái này ăn của thế xin",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 4.68,
+          "end": 5.16,
+          "probability": 0.78
+        },
+        {
+          "word": "nói,",
+          "start": 5.16,
+          "end": 5.36,
+          "probability": 0.52
+        },
+        {
+          "word": "cái",
+          "start": 5.36,
+          "end": 5.5,
+          "probability": 0.11
+        },
+        {
+          "word": "này",
+          "start": 5.5,
+          "end": 5.66,
+          "probability": 0.19
+        },
+        {
+          "word": "phù",
+          "start": 5.66,
+          "end": 5.84,
+          "probability": 0.4
+        },
+        {
+          "word": "hợp",
+          "start": 5.84,
+          "end": 6.06,
+          "probability": 0.48
+        },
+        {
+          "word": "với",
+          "start": 6.06,
+          "end": 6.24,
+          "probability": 0.09
+        },
+        {
+          "word": "cái",
+          "start": 6.24,
+          "end": 6.38,
+          "probability": 0.28
+        },
+        {
+          "word": "này",
+          "start": 6.38,
+          "end": 6.5,
+          "probability": 0.26
+        },
+        {
+          "word": "ăn",
+          "start": 6.5,
+          "end": 6.6,
+          "probability": 0.18
+        },
+        {
+          "word": "của",
+          "start": 6.6,
+          "end": 6.7,
+          "probability": 0.59
+        },
+        {
+          "word": "thế",
+          "start": 6.7,
+          "end": 6.9,
+          "probability": 0.18
+        },
+        {
+          "word": "xin",
+          "start": 6.9,
+          "end": 7.16,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.16,
+      "end": 8.36,
+      "text": "Sau với em được ông ở chỗ",
+      "words": [
+        {
+          "word": "Sau",
+          "start": 7.16,
+          "end": 7.46,
+          "probability": 0.14
+        },
+        {
+          "word": "với",
+          "start": 7.46,
+          "end": 7.64,
+          "probability": 0.84
+        },
+        {
+          "word": "em",
+          "start": 7.64,
+          "end": 7.8,
+          "probability": 0.82
+        },
+        {
+          "word": "được",
+          "start": 7.8,
+          "end": 7.92,
+          "probability": 0.38
+        },
+        {
+          "word": "ông",
+          "start": 7.92,
+          "end": 8.04,
+          "probability": 0.21
+        },
+        {
+          "word": "ở",
+          "start": 8.04,
+          "end": 8.18,
+          "probability": 0.1
+        },
+        {
+          "word": "chỗ",
+          "start": 8.18,
+          "end": 8.36,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.36,
+      "end": 10.8,
+      "text": "Nói sau với em làm chỗ để nó đỏ dạ dạy hầm",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 8.36,
+          "end": 8.6,
+          "probability": 0.67
+        },
+        {
+          "word": "sau",
+          "start": 8.6,
+          "end": 8.84,
+          "probability": 0.57
+        },
+        {
+          "word": "với",
+          "start": 8.84,
+          "end": 9.06,
+          "probability": 0.85
+        },
+        {
+          "word": "em",
+          "start": 9.06,
+          "end": 9.12,
+          "probability": 0.68
+        },
+        {
+          "word": "làm",
+          "start": 9.12,
+          "end": 9.28,
+          "probability": 0.14
+        },
+        {
+          "word": "chỗ",
+          "start": 9.28,
+          "end": 9.38,
+          "probability": 0.78
+        },
+        {
+          "word": "để",
+          "start": 9.38,
+          "end": 9.6,
+          "probability": 0.62
+        },
+        {
+          "word": "nó",
+          "start": 9.6,
+          "end": 9.72,
+          "probability": 0.57
+        },
+        {
+          "word": "đỏ",
+          "start": 9.72,
+          "end": 10.0,
+          "probability": 0.32
+        },
+        {
+          "word": "dạ",
+          "start": 10.0,
+          "end": 10.12,
+          "probability": 0.32
+        },
+        {
+          "word": "dạy",
+          "start": 10.12,
+          "end": 10.24,
+          "probability": 0.37
+        },
+        {
+          "word": "hầm",
+          "start": 10.24,
+          "end": 10.8,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.8,
+      "end": 14.8,
+      "text": "Em làm dạy dụng như thế xin",
+      "words": [
+        {
+          "word": "Em",
+          "start": 10.8,
+          "end": 11.0,
+          "probability": 0.53
+        },
+        {
+          "word": "làm",
+          "start": 13.68,
+          "end": 13.86,
+          "probability": 0.17
+        },
+        {
+          "word": "dạy",
+          "start": 13.86,
+          "end": 14.0,
+          "probability": 0.45
+        },
+        {
+          "word": "dụng",
+          "start": 14.0,
+          "end": 14.66,
+          "probability": 0.22
+        },
+        {
+          "word": "như",
+          "start": 14.66,
+          "end": 14.8,
+          "probability": 0.07
+        },
+        {
+          "word": "thế",
+          "start": 14.8,
+          "end": 14.8,
+          "probability": 0.11
+        },
+        {
+          "word": "xin",
+          "start": 14.8,
+          "end": 14.8,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 14.8,
+      "end": 17.14,
+      "text": "Nói muốn tại em một máy làm được nhất trong máy mục",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 14.8,
+          "end": 14.8,
+          "probability": 0.66
+        },
+        {
+          "word": "muốn",
+          "start": 14.8,
+          "end": 15.12,
+          "probability": 0.03
+        },
+        {
+          "word": "tại",
+          "start": 15.12,
+          "end": 15.3,
+          "probability": 0.24
+        },
+        {
+          "word": "em",
+          "start": 15.3,
+          "end": 15.5,
+          "probability": 0.4
+        },
+        {
+          "word": "một",
+          "start": 15.5,
+          "end": 15.66,
+          "probability": 0.16
+        },
+        {
+          "word": "máy",
+          "start": 15.66,
+          "end": 15.84,
+          "probability": 0.76
+        },
+        {
+          "word": "làm",
+          "start": 15.84,
+          "end": 16.0,
+          "probability": 0.71
+        },
+        {
+          "word": "được",
+          "start": 16.0,
+          "end": 16.12,
+          "probability": 0.83
+        },
+        {
+          "word": "nhất",
+          "start": 16.12,
+          "end": 16.42,
+          "probability": 0.19
+        },
+        {
+          "word": "trong",
+          "start": 16.42,
+          "end": 16.54,
+          "probability": 0.17
+        },
+        {
+          "word": "máy",
+          "start": 16.54,
+          "end": 16.74,
+          "probability": 0.64
+        },
+        {
+          "word": "mục",
+          "start": 16.74,
+          "end": 17.14,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 17.14,
+      "end": 19.42,
+      "text": "Em thấy em làm sao em làm em được tần làm",
+      "words": [
+        {
+          "word": "Em",
+          "start": 17.14,
+          "end": 17.36,
+          "probability": 0.09
+        },
+        {
+          "word": "thấy",
+          "start": 17.36,
+          "end": 17.62,
+          "probability": 0.33
+        },
+        {
+          "word": "em",
+          "start": 17.62,
+          "end": 18.22,
+          "probability": 0.28
+        },
+        {
+          "word": "làm",
+          "start": 18.22,
+          "end": 18.24,
+          "probability": 0.17
+        },
+        {
+          "word": "sao",
+          "start": 18.24,
+          "end": 18.24,
+          "probability": 0.03
+        },
+        {
+          "word": "em",
+          "start": 18.24,
+          "end": 18.52,
+          "probability": 0.52
+        },
+        {
+          "word": "làm",
+          "start": 18.52,
+          "end": 18.8,
+          "probability": 0.45
+        },
+        {
+          "word": "em",
+          "start": 18.8,
+          "end": 18.98,
+          "probability": 0.69
+        },
+        {
+          "word": "được",
+          "start": 18.98,
+          "end": 19.18,
+          "probability": 0.14
+        },
+        {
+          "word": "tần",
+          "start": 19.18,
+          "end": 19.24,
+          "probability": 0.15
+        },
+        {
+          "word": "làm",
+          "start": 19.24,
+          "end": 19.42,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 19.42,
+      "end": 21.02,
+      "text": "Một tần ôm trên chỗ thì đây",
+      "words": [
+        {
+          "word": "Một",
+          "start": 19.42,
+          "end": 19.66,
+          "probability": 0.08
+        },
+        {
+          "word": "tần",
+          "start": 19.66,
+          "end": 19.66,
+          "probability": 0.46
+        },
+        {
+          "word": "ôm",
+          "start": 19.66,
+          "end": 19.9,
+          "probability": 0.47
+        },
+        {
+          "word": "trên",
+          "start": 19.9,
+          "end": 20.08,
+          "probability": 0.34
+        },
+        {
+          "word": "chỗ",
+          "start": 20.08,
+          "end": 20.32,
+          "probability": 0.96
+        },
+        {
+          "word": "thì",
+          "start": 20.32,
+          "end": 20.52,
+          "probability": 0.06
+        },
+        {
+          "word": "đây",
+          "start": 20.52,
+          "end": 21.02,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 21.02,
+      "end": 22.06,
+      "text": "Thì lần này",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 21.02,
+          "end": 21.34,
+          "probability": 0.2
+        },
+        {
+          "word": "lần",
+          "start": 21.34,
+          "end": 21.6,
+          "probability": 0.65
+        },
+        {
+          "word": "này",
+          "start": 21.6,
+          "end": 22.06,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 22.06,
+      "end": 23.64,
+      "text": "Em thấy em giải ở sau với em",
+      "words": [
+        {
+          "word": "Em",
+          "start": 22.06,
+          "end": 22.36,
+          "probability": 0.01
+        },
+        {
+          "word": "thấy",
+          "start": 22.36,
+          "end": 22.36,
+          "probability": 0.34
+        },
+        {
+          "word": "em",
+          "start": 22.36,
+          "end": 22.72,
+          "probability": 0.47
+        },
+        {
+          "word": "giải",
+          "start": 22.72,
+          "end": 22.72,
+          "probability": 0.21
+        },
+        {
+          "word": "ở",
+          "start": 22.72,
+          "end": 22.72,
+          "probability": 0.13
+        },
+        {
+          "word": "sau",
+          "start": 22.72,
+          "end": 23.08,
+          "probability": 0.03
+        },
+        {
+          "word": "với",
+          "start": 23.08,
+          "end": 23.26,
+          "probability": 0.97
+        },
+        {
+          "word": "em",
+          "start": 23.26,
+          "end": 23.64,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 23.64,
+      "end": 27.2,
+      "text": "Tên hợp dạy để hợp chung bình thương",
+      "words": [
+        {
+          "word": "Tên",
+          "start": 23.64,
+          "end": 23.96,
+          "probability": 0.01
+        },
+        {
+          "word": "hợp",
+          "start": 23.96,
+          "end": 25.52,
+          "probability": 0.46
+        },
+        {
+          "word": "dạy",
+          "start": 25.52,
+          "end": 26.32,
+          "probability": 0.5
+        },
+        {
+          "word": "để",
+          "start": 26.32,
+          "end": 26.34,
+          "probability": 0.01
+        },
+        {
+          "word": "hợp",
+          "start": 26.34,
+          "end": 26.52,
+          "probability": 0.64
+        },
+        {
+          "word": "chung",
+          "start": 26.52,
+          "end": 26.8,
+          "probability": 0.34
+        },
+        {
+          "word": "bình",
+          "start": 26.8,
+          "end": 27.0,
+          "probability": 0.63
+        },
+        {
+          "word": "thương",
+          "start": 27.0,
+          "end": 27.2,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 27.2,
+      "end": 27.3,
+      "text": "Hợp chung bình thương",
+      "words": [
+        {
+          "word": "Hợp",
+          "start": 27.2,
+          "end": 27.3,
+          "probability": 0.36
+        },
+        {
+          "word": "chung",
+          "start": 27.3,
+          "end": 27.3,
+          "probability": 0.51
+        },
+        {
+          "word": "bình",
+          "start": 27.3,
+          "end": 27.3,
+          "probability": 0.85
+        },
+        {
+          "word": "thương",
+          "start": 27.3,
+          "end": 27.3,
+          "probability": 0.86
+        }
+      ]
+    }
+  ]
+}

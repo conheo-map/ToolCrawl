@@ -1,0 +1,628 @@
+{
+  "item_id": "tt_7610055934253026581_16",
+  "duration_seconds": 29.86,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 91,
+  "text": "Nè, nhỏ mừng tạm. Đó đầu tiên mình mình bơi hết về các số tự nhiên, nhá. Bê một cộng với bê hay. Đó, thì bê một cộng với bê hay thì bê hay đó một đêm mẹ chịu một đông hấp. Cộng xem một đông hấp, cộng mở xe hay, xe hay đông hấp. Thì chứ đi, gặn nhỏ mừng tạm chứ hành mừng sảo. Rồi, rồi, bà toàn chí kéo thì đã dấu đảng thức, nên mình đặc cắt cục. Sảo chứ này. Mình đặc cắt cục này đi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.94,
+      "end": 2.92,
+      "text": "Nè, nhỏ mừng tạm.",
+      "words": [
+        {
+          "word": "Nè,",
+          "start": 1.94,
+          "end": 2.34,
+          "probability": 0.19
+        },
+        {
+          "word": "nhỏ",
+          "start": 2.4,
+          "end": 2.54,
+          "probability": 0.65
+        },
+        {
+          "word": "mừng",
+          "start": 2.54,
+          "end": 2.7,
+          "probability": 0.43
+        },
+        {
+          "word": "tạm.",
+          "start": 2.7,
+          "end": 2.92,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.9,
+      "end": 6.88,
+      "text": "Đó đầu tiên mình mình bơi hết về các số tự nhiên, nhá.",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 3.9,
+          "end": 4.12,
+          "probability": 0.2
+        },
+        {
+          "word": "đầu",
+          "start": 4.12,
+          "end": 4.3,
+          "probability": 0.37
+        },
+        {
+          "word": "tiên",
+          "start": 4.3,
+          "end": 4.34,
+          "probability": 0.96
+        },
+        {
+          "word": "mình",
+          "start": 4.34,
+          "end": 4.76,
+          "probability": 0.89
+        },
+        {
+          "word": "mình",
+          "start": 4.76,
+          "end": 5.04,
+          "probability": 0.67
+        },
+        {
+          "word": "bơi",
+          "start": 5.04,
+          "end": 5.16,
+          "probability": 0.14
+        },
+        {
+          "word": "hết",
+          "start": 5.16,
+          "end": 5.32,
+          "probability": 0.23
+        },
+        {
+          "word": "về",
+          "start": 5.32,
+          "end": 5.44,
+          "probability": 0.45
+        },
+        {
+          "word": "các",
+          "start": 5.44,
+          "end": 5.62,
+          "probability": 0.34
+        },
+        {
+          "word": "số",
+          "start": 5.62,
+          "end": 5.76,
+          "probability": 0.85
+        },
+        {
+          "word": "tự",
+          "start": 5.76,
+          "end": 5.92,
+          "probability": 0.5
+        },
+        {
+          "word": "nhiên,",
+          "start": 5.92,
+          "end": 6.08,
+          "probability": 0.78
+        },
+        {
+          "word": "nhá.",
+          "start": 6.38,
+          "end": 6.88,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.3,
+      "end": 9.28,
+      "text": "Bê một cộng với bê hay.",
+      "words": [
+        {
+          "word": "Bê",
+          "start": 7.3,
+          "end": 7.3,
+          "probability": 0.28
+        },
+        {
+          "word": "một",
+          "start": 7.3,
+          "end": 7.74,
+          "probability": 0.46
+        },
+        {
+          "word": "cộng",
+          "start": 7.74,
+          "end": 8.06,
+          "probability": 0.6
+        },
+        {
+          "word": "với",
+          "start": 8.06,
+          "end": 8.26,
+          "probability": 0.57
+        },
+        {
+          "word": "bê",
+          "start": 8.26,
+          "end": 8.6,
+          "probability": 0.7
+        },
+        {
+          "word": "hay.",
+          "start": 8.6,
+          "end": 9.28,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.6,
+      "end": 14.7,
+      "text": "Đó, thì bê một cộng với bê hay thì bê hay đó một đêm mẹ chịu một đông hấp.",
+      "words": [
+        {
+          "word": "Đó,",
+          "start": 9.6,
+          "end": 9.86,
+          "probability": 0.55
+        },
+        {
+          "word": "thì",
+          "start": 10.18,
+          "end": 10.46,
+          "probability": 0.66
+        },
+        {
+          "word": "bê",
+          "start": 10.46,
+          "end": 10.62,
+          "probability": 0.99
+        },
+        {
+          "word": "một",
+          "start": 10.62,
+          "end": 11.32,
+          "probability": 0.71
+        },
+        {
+          "word": "cộng",
+          "start": 11.32,
+          "end": 11.78,
+          "probability": 0.87
+        },
+        {
+          "word": "với",
+          "start": 11.78,
+          "end": 11.96,
+          "probability": 0.99
+        },
+        {
+          "word": "bê",
+          "start": 11.96,
+          "end": 12.2,
+          "probability": 1.0
+        },
+        {
+          "word": "hay",
+          "start": 12.2,
+          "end": 12.58,
+          "probability": 0.98
+        },
+        {
+          "word": "thì",
+          "start": 12.58,
+          "end": 12.78,
+          "probability": 0.65
+        },
+        {
+          "word": "bê",
+          "start": 12.78,
+          "end": 13.02,
+          "probability": 0.99
+        },
+        {
+          "word": "hay",
+          "start": 13.02,
+          "end": 13.16,
+          "probability": 0.32
+        },
+        {
+          "word": "đó",
+          "start": 13.16,
+          "end": 13.18,
+          "probability": 0.2
+        },
+        {
+          "word": "một",
+          "start": 13.18,
+          "end": 13.36,
+          "probability": 0.19
+        },
+        {
+          "word": "đêm",
+          "start": 13.36,
+          "end": 13.56,
+          "probability": 0.21
+        },
+        {
+          "word": "mẹ",
+          "start": 13.56,
+          "end": 13.66,
+          "probability": 0.21
+        },
+        {
+          "word": "chịu",
+          "start": 13.66,
+          "end": 13.86,
+          "probability": 0.48
+        },
+        {
+          "word": "một",
+          "start": 13.86,
+          "end": 14.0,
+          "probability": 0.85
+        },
+        {
+          "word": "đông",
+          "start": 14.0,
+          "end": 14.14,
+          "probability": 0.22
+        },
+        {
+          "word": "hấp.",
+          "start": 14.14,
+          "end": 14.7,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.38,
+      "end": 17.48,
+      "text": "Cộng xem một đông hấp, cộng mở xe hay, xe hay đông hấp.",
+      "words": [
+        {
+          "word": "Cộng",
+          "start": 15.38,
+          "end": 15.38,
+          "probability": 0.89
+        },
+        {
+          "word": "xem",
+          "start": 15.38,
+          "end": 15.56,
+          "probability": 0.29
+        },
+        {
+          "word": "một",
+          "start": 15.56,
+          "end": 15.74,
+          "probability": 0.87
+        },
+        {
+          "word": "đông",
+          "start": 15.74,
+          "end": 15.92,
+          "probability": 0.75
+        },
+        {
+          "word": "hấp,",
+          "start": 15.92,
+          "end": 16.06,
+          "probability": 0.97
+        },
+        {
+          "word": "cộng",
+          "start": 16.16,
+          "end": 16.38,
+          "probability": 0.87
+        },
+        {
+          "word": "mở",
+          "start": 16.38,
+          "end": 16.54,
+          "probability": 0.26
+        },
+        {
+          "word": "xe",
+          "start": 16.54,
+          "end": 16.74,
+          "probability": 0.6
+        },
+        {
+          "word": "hay,",
+          "start": 16.74,
+          "end": 17.02,
+          "probability": 0.7
+        },
+        {
+          "word": "xe",
+          "start": 17.02,
+          "end": 17.2,
+          "probability": 0.71
+        },
+        {
+          "word": "hay",
+          "start": 17.2,
+          "end": 17.34,
+          "probability": 0.84
+        },
+        {
+          "word": "đông",
+          "start": 17.34,
+          "end": 17.34,
+          "probability": 0.68
+        },
+        {
+          "word": "hấp.",
+          "start": 17.34,
+          "end": 17.48,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 18.96,
+      "end": 21.36,
+      "text": "Thì chứ đi, gặn nhỏ mừng tạm chứ hành mừng sảo.",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 18.96,
+          "end": 19.36,
+          "probability": 0.62
+        },
+        {
+          "word": "chứ",
+          "start": 19.36,
+          "end": 19.76,
+          "probability": 0.37
+        },
+        {
+          "word": "đi,",
+          "start": 19.76,
+          "end": 19.86,
+          "probability": 0.89
+        },
+        {
+          "word": "gặn",
+          "start": 19.9,
+          "end": 20.1,
+          "probability": 0.23
+        },
+        {
+          "word": "nhỏ",
+          "start": 20.1,
+          "end": 20.2,
+          "probability": 0.75
+        },
+        {
+          "word": "mừng",
+          "start": 20.2,
+          "end": 20.38,
+          "probability": 0.86
+        },
+        {
+          "word": "tạm",
+          "start": 20.38,
+          "end": 20.54,
+          "probability": 0.99
+        },
+        {
+          "word": "chứ",
+          "start": 20.54,
+          "end": 20.72,
+          "probability": 0.48
+        },
+        {
+          "word": "hành",
+          "start": 20.72,
+          "end": 20.92,
+          "probability": 0.28
+        },
+        {
+          "word": "mừng",
+          "start": 20.92,
+          "end": 21.1,
+          "probability": 0.73
+        },
+        {
+          "word": "sảo.",
+          "start": 21.1,
+          "end": 21.36,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 22.64,
+      "end": 27.02,
+      "text": "Rồi, rồi, bà toàn chí kéo thì đã dấu đảng thức, nên mình đặc cắt cục.",
+      "words": [
+        {
+          "word": "Rồi,",
+          "start": 22.64,
+          "end": 23.04,
+          "probability": 0.52
+        },
+        {
+          "word": "rồi,",
+          "start": 23.3,
+          "end": 23.62,
+          "probability": 0.13
+        },
+        {
+          "word": "bà",
+          "start": 23.88,
+          "end": 24.04,
+          "probability": 0.48
+        },
+        {
+          "word": "toàn",
+          "start": 24.04,
+          "end": 24.18,
+          "probability": 0.65
+        },
+        {
+          "word": "chí",
+          "start": 24.18,
+          "end": 24.34,
+          "probability": 0.34
+        },
+        {
+          "word": "kéo",
+          "start": 24.34,
+          "end": 24.52,
+          "probability": 0.71
+        },
+        {
+          "word": "thì",
+          "start": 24.52,
+          "end": 24.68,
+          "probability": 0.61
+        },
+        {
+          "word": "đã",
+          "start": 24.68,
+          "end": 24.82,
+          "probability": 0.32
+        },
+        {
+          "word": "dấu",
+          "start": 24.82,
+          "end": 24.88,
+          "probability": 0.58
+        },
+        {
+          "word": "đảng",
+          "start": 24.88,
+          "end": 25.04,
+          "probability": 0.29
+        },
+        {
+          "word": "thức,",
+          "start": 25.04,
+          "end": 25.28,
+          "probability": 0.6
+        },
+        {
+          "word": "nên",
+          "start": 25.42,
+          "end": 25.54,
+          "probability": 0.43
+        },
+        {
+          "word": "mình",
+          "start": 25.54,
+          "end": 25.72,
+          "probability": 0.9
+        },
+        {
+          "word": "đặc",
+          "start": 25.72,
+          "end": 26.2,
+          "probability": 0.54
+        },
+        {
+          "word": "cắt",
+          "start": 26.2,
+          "end": 26.36,
+          "probability": 0.16
+        },
+        {
+          "word": "cục.",
+          "start": 26.36,
+          "end": 27.02,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 27.32,
+      "end": 28.56,
+      "text": "Sảo chứ này.",
+      "words": [
+        {
+          "word": "Sảo",
+          "start": 27.32,
+          "end": 27.54,
+          "probability": 0.22
+        },
+        {
+          "word": "chứ",
+          "start": 27.54,
+          "end": 27.82,
+          "probability": 0.82
+        },
+        {
+          "word": "này.",
+          "start": 27.82,
+          "end": 28.56,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 28.56,
+      "end": 29.66,
+      "text": "Mình đặc cắt cục này đi.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 28.56,
+          "end": 28.94,
+          "probability": 0.51
+        },
+        {
+          "word": "đặc",
+          "start": 28.94,
+          "end": 29.08,
+          "probability": 0.18
+        },
+        {
+          "word": "cắt",
+          "start": 29.08,
+          "end": 29.22,
+          "probability": 0.1
+        },
+        {
+          "word": "cục",
+          "start": 29.22,
+          "end": 29.34,
+          "probability": 0.1
+        },
+        {
+          "word": "này",
+          "start": 29.34,
+          "end": 29.46,
+          "probability": 0.19
+        },
+        {
+          "word": "đi.",
+          "start": 29.46,
+          "end": 29.66,
+          "probability": 0.92
+        }
+      ]
+    }
+  ]
+}

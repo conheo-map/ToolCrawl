@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7668302799548992788",
+  "duration_seconds": 25.74,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Thank you.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 22.99,
+      "end": 23.65,
+      "text": "Thank you.",
+      "words": [
+        {
+          "word": "Thank",
+          "start": 22.99,
+          "end": 23.33,
+          "probability": 0.01
+        },
+        {
+          "word": "you.",
+          "start": 23.33,
+          "end": 23.65,
+          "probability": 0.97
+        }
+      ]
+    }
+  ]
+}

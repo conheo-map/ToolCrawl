@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7671683823742012688_01",
+  "duration_seconds": 27.52,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Mình sẽ đoạn tìm đoạn.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 4.13,
+      "end": 26.93,
+      "text": "Mình sẽ đoạn tìm đoạn.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 4.13,
+          "end": 5.53,
+          "probability": 0.1
+        },
+        {
+          "word": "sẽ",
+          "start": 5.53,
+          "end": 5.77,
+          "probability": 0.1
+        },
+        {
+          "word": "đoạn",
+          "start": 5.77,
+          "end": 7.19,
+          "probability": 0.1
+        },
+        {
+          "word": "tìm",
+          "start": 7.19,
+          "end": 26.93,
+          "probability": 0.37
+        },
+        {
+          "word": "đoạn.",
+          "start": 26.93,
+          "end": 26.93,
+          "probability": 0.35
+        }
+      ]
+    }
+  ]
+}

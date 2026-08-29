@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7579080669557509377_07",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Chúng không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.74,
+      "end": 3.64,
+      "text": "Chúng không?",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 2.74,
+          "end": 3.26,
+          "probability": 0.42
+        },
+        {
+          "word": "không?",
+          "start": 3.26,
+          "end": 3.64,
+          "probability": 0.26
+        }
+      ]
+    }
+  ]
+}

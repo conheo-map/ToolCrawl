@@ -1,0 +1,476 @@
+{
+  "item_id": "tt_7658233677461146901_04",
+  "duration_seconds": 20.9,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 63,
+  "text": "và đoán của tôi là ngoại nhà xưa đo ngoại kinhè gần như chiếm là năng môi phần trong cái phần nhận thủ bi ngoại tại vì cách đây đây hạt chữ là nhẹ nhẹ tìm lại ghi盈 xưa, chả nên tự nhiễm, một bi ngoại nhà phê không có nhà đoi ngoại tôi nhẹ thì nó thành đo ngoại không có hồ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.46,
+      "end": 2.7,
+      "text": "và đoán của tôi là ngoại nhà xưa",
+      "words": [
+        {
+          "word": "và",
+          "start": 0.46,
+          "end": 0.68,
+          "probability": 0.03
+        },
+        {
+          "word": "đoán",
+          "start": 0.68,
+          "end": 0.78,
+          "probability": 0.18
+        },
+        {
+          "word": "của",
+          "start": 0.78,
+          "end": 1.16,
+          "probability": 0.81
+        },
+        {
+          "word": "tôi",
+          "start": 1.16,
+          "end": 1.58,
+          "probability": 0.44
+        },
+        {
+          "word": "là",
+          "start": 1.58,
+          "end": 1.9,
+          "probability": 0.12
+        },
+        {
+          "word": "ngoại",
+          "start": 1.9,
+          "end": 2.12,
+          "probability": 0.17
+        },
+        {
+          "word": "nhà",
+          "start": 2.12,
+          "end": 2.22,
+          "probability": 0.33
+        },
+        {
+          "word": "xưa",
+          "start": 2.22,
+          "end": 2.7,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.36,
+      "end": 4.5,
+      "text": "đo ngoại kinhè",
+      "words": [
+        {
+          "word": "đo",
+          "start": 3.36,
+          "end": 3.7,
+          "probability": 0.23
+        },
+        {
+          "word": "ngoại",
+          "start": 3.7,
+          "end": 3.98,
+          "probability": 0.47
+        },
+        {
+          "word": "kinhè",
+          "start": 3.98,
+          "end": 4.5,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.12,
+      "end": 6.98,
+      "text": "gần như chiếm là",
+      "words": [
+        {
+          "word": "gần",
+          "start": 5.12,
+          "end": 5.56,
+          "probability": 0.32
+        },
+        {
+          "word": "như",
+          "start": 5.56,
+          "end": 5.78,
+          "probability": 0.88
+        },
+        {
+          "word": "chiếm",
+          "start": 5.78,
+          "end": 6.14,
+          "probability": 0.77
+        },
+        {
+          "word": "là",
+          "start": 6.14,
+          "end": 6.98,
+          "probability": 0.79
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.98,
+      "end": 8.06,
+      "text": "năng môi phần trong",
+      "words": [
+        {
+          "word": "năng",
+          "start": 6.98,
+          "end": 7.22,
+          "probability": 0.45
+        },
+        {
+          "word": "môi",
+          "start": 7.22,
+          "end": 7.34,
+          "probability": 0.58
+        },
+        {
+          "word": "phần",
+          "start": 7.34,
+          "end": 7.52,
+          "probability": 0.55
+        },
+        {
+          "word": "trong",
+          "start": 7.52,
+          "end": 8.06,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.06,
+      "end": 9.08,
+      "text": "cái phần",
+      "words": [
+        {
+          "word": "cái",
+          "start": 8.06,
+          "end": 8.36,
+          "probability": 0.18
+        },
+        {
+          "word": "phần",
+          "start": 8.36,
+          "end": 9.08,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 9.08,
+      "end": 11.36,
+      "text": "nhận thủ bi ngoại tại vì cách đây đây",
+      "words": [
+        {
+          "word": "nhận",
+          "start": 9.08,
+          "end": 9.84,
+          "probability": 0.48
+        },
+        {
+          "word": "thủ",
+          "start": 9.84,
+          "end": 10.04,
+          "probability": 0.55
+        },
+        {
+          "word": "bi",
+          "start": 10.04,
+          "end": 10.28,
+          "probability": 0.32
+        },
+        {
+          "word": "ngoại",
+          "start": 10.28,
+          "end": 10.4,
+          "probability": 0.6
+        },
+        {
+          "word": "tại",
+          "start": 10.4,
+          "end": 10.58,
+          "probability": 0.58
+        },
+        {
+          "word": "vì",
+          "start": 10.58,
+          "end": 10.72,
+          "probability": 0.9
+        },
+        {
+          "word": "cách",
+          "start": 10.72,
+          "end": 10.9,
+          "probability": 0.41
+        },
+        {
+          "word": "đây",
+          "start": 10.9,
+          "end": 11.14,
+          "probability": 0.53
+        },
+        {
+          "word": "đây",
+          "start": 11.14,
+          "end": 11.36,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 11.88,
+      "end": 13.24,
+      "text": "hạt chữ là nhẹ nhẹ",
+      "words": [
+        {
+          "word": "hạt",
+          "start": 11.88,
+          "end": 12.26,
+          "probability": 0.23
+        },
+        {
+          "word": "chữ",
+          "start": 12.26,
+          "end": 12.4,
+          "probability": 0.4
+        },
+        {
+          "word": "là",
+          "start": 12.4,
+          "end": 12.62,
+          "probability": 0.47
+        },
+        {
+          "word": "nhẹ",
+          "start": 12.62,
+          "end": 12.92,
+          "probability": 0.29
+        },
+        {
+          "word": "nhẹ",
+          "start": 12.92,
+          "end": 13.24,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.24,
+      "end": 15.58,
+      "text": "tìm lại ghi盈 xưa, chả nên tự nhiễm, một bi ngoại nhà phê",
+      "words": [
+        {
+          "word": "tìm",
+          "start": 13.24,
+          "end": 13.4,
+          "probability": 0.64
+        },
+        {
+          "word": "lại",
+          "start": 13.4,
+          "end": 13.54,
+          "probability": 0.65
+        },
+        {
+          "word": "ghi盈",
+          "start": 13.54,
+          "end": 13.86,
+          "probability": 0.21
+        },
+        {
+          "word": "xưa,",
+          "start": 13.86,
+          "end": 14.02,
+          "probability": 0.97
+        },
+        {
+          "word": "chả",
+          "start": 14.14,
+          "end": 14.2,
+          "probability": 0.17
+        },
+        {
+          "word": "nên",
+          "start": 14.2,
+          "end": 14.28,
+          "probability": 0.7
+        },
+        {
+          "word": "tự",
+          "start": 14.28,
+          "end": 14.5,
+          "probability": 0.26
+        },
+        {
+          "word": "nhiễm,",
+          "start": 14.5,
+          "end": 14.62,
+          "probability": 0.73
+        },
+        {
+          "word": "một",
+          "start": 14.76,
+          "end": 14.76,
+          "probability": 0.22
+        },
+        {
+          "word": "bi",
+          "start": 14.76,
+          "end": 14.98,
+          "probability": 0.88
+        },
+        {
+          "word": "ngoại",
+          "start": 14.98,
+          "end": 15.0,
+          "probability": 0.93
+        },
+        {
+          "word": "nhà",
+          "start": 15.0,
+          "end": 15.22,
+          "probability": 0.19
+        },
+        {
+          "word": "phê",
+          "start": 15.22,
+          "end": 15.58,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 16.24,
+      "end": 17.26,
+      "text": "không có nhà",
+      "words": [
+        {
+          "word": "không",
+          "start": 16.24,
+          "end": 16.68,
+          "probability": 0.68
+        },
+        {
+          "word": "có",
+          "start": 16.68,
+          "end": 16.86,
+          "probability": 0.89
+        },
+        {
+          "word": "nhà",
+          "start": 16.86,
+          "end": 17.26,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 17.26,
+      "end": 18.72,
+      "text": "đoi ngoại tôi nhẹ",
+      "words": [
+        {
+          "word": "đoi",
+          "start": 17.26,
+          "end": 17.66,
+          "probability": 0.31
+        },
+        {
+          "word": "ngoại",
+          "start": 17.66,
+          "end": 17.8,
+          "probability": 0.73
+        },
+        {
+          "word": "tôi",
+          "start": 17.8,
+          "end": 18.0,
+          "probability": 0.21
+        },
+        {
+          "word": "nhẹ",
+          "start": 18.0,
+          "end": 18.72,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 18.72,
+      "end": 20.62,
+      "text": "thì nó thành đo ngoại không có hồ",
+      "words": [
+        {
+          "word": "thì",
+          "start": 18.72,
+          "end": 19.06,
+          "probability": 0.53
+        },
+        {
+          "word": "nó",
+          "start": 19.06,
+          "end": 19.22,
+          "probability": 0.47
+        },
+        {
+          "word": "thành",
+          "start": 19.22,
+          "end": 19.64,
+          "probability": 0.52
+        },
+        {
+          "word": "đo",
+          "start": 19.64,
+          "end": 19.92,
+          "probability": 0.83
+        },
+        {
+          "word": "ngoại",
+          "start": 19.92,
+          "end": 20.02,
+          "probability": 0.69
+        },
+        {
+          "word": "không",
+          "start": 20.02,
+          "end": 20.22,
+          "probability": 0.66
+        },
+        {
+          "word": "có",
+          "start": 20.22,
+          "end": 20.38,
+          "probability": 0.96
+        },
+        {
+          "word": "hồ",
+          "start": 20.38,
+          "end": 20.62,
+          "probability": 0.57
+        }
+      ]
+    }
+  ]
+}

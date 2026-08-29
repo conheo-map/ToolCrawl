@@ -1,0 +1,818 @@
+{
+  "item_id": "tt_7673801637663690004_05",
+  "duration_seconds": 29.31,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 124,
+  "text": "Bối kiểu thì các em sẽ thi mong trái với thời gian làm bài là chính mối phúc. Đến ngày thứ 2, người ta tháng 3, buổi sáng thi xin sẽ làm 2 bay thi của 2 mong tự trọng với thời gian là năng mối phúc mối mô. Còn buổi kiểu sẽ được dùng làm buổi thi đều phòng. Đi phương sẽ phải không buốt cái gói thi ở điểm thi trên trường họ phố thông chuyên tuyên quan trong thời gian trọng nhất là đến táng nhờ ngày 11. Sau khi có thức gói thi lại, kết quói học lệ, sẽ được cập nhật có hệ thống và sự dụng để sách tuyên thật các mối phòng mà thi sự găng ký.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.76,
+      "text": "Bối kiểu thì các em sẽ thi mong trái với thời gian làm bài là chính mối phúc.",
+      "words": [
+        {
+          "word": "Bối",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.4
+        },
+        {
+          "word": "kiểu",
+          "start": 0.54,
+          "end": 0.74,
+          "probability": 0.47
+        },
+        {
+          "word": "thì",
+          "start": 0.74,
+          "end": 0.9,
+          "probability": 0.65
+        },
+        {
+          "word": "các",
+          "start": 0.9,
+          "end": 1.08,
+          "probability": 0.34
+        },
+        {
+          "word": "em",
+          "start": 1.08,
+          "end": 1.24,
+          "probability": 0.93
+        },
+        {
+          "word": "sẽ",
+          "start": 1.24,
+          "end": 1.38,
+          "probability": 0.65
+        },
+        {
+          "word": "thi",
+          "start": 1.38,
+          "end": 1.66,
+          "probability": 0.53
+        },
+        {
+          "word": "mong",
+          "start": 1.66,
+          "end": 1.74,
+          "probability": 0.18
+        },
+        {
+          "word": "trái",
+          "start": 1.74,
+          "end": 1.96,
+          "probability": 0.5
+        },
+        {
+          "word": "với",
+          "start": 1.96,
+          "end": 2.16,
+          "probability": 0.77
+        },
+        {
+          "word": "thời",
+          "start": 2.16,
+          "end": 2.42,
+          "probability": 0.71
+        },
+        {
+          "word": "gian",
+          "start": 2.42,
+          "end": 2.5,
+          "probability": 0.95
+        },
+        {
+          "word": "làm",
+          "start": 2.5,
+          "end": 2.74,
+          "probability": 0.49
+        },
+        {
+          "word": "bài",
+          "start": 2.74,
+          "end": 2.92,
+          "probability": 0.65
+        },
+        {
+          "word": "là",
+          "start": 2.92,
+          "end": 3.14,
+          "probability": 0.7
+        },
+        {
+          "word": "chính",
+          "start": 3.14,
+          "end": 3.3,
+          "probability": 0.75
+        },
+        {
+          "word": "mối",
+          "start": 3.3,
+          "end": 3.44,
+          "probability": 0.26
+        },
+        {
+          "word": "phúc.",
+          "start": 3.44,
+          "end": 3.76,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.38,
+      "end": 9.44,
+      "text": "Đến ngày thứ 2, người ta tháng 3, buổi sáng thi xin sẽ làm 2 bay thi của 2 mong tự trọng",
+      "words": [
+        {
+          "word": "Đến",
+          "start": 4.38,
+          "end": 4.48,
+          "probability": 0.72
+        },
+        {
+          "word": "ngày",
+          "start": 4.48,
+          "end": 4.64,
+          "probability": 0.93
+        },
+        {
+          "word": "thứ",
+          "start": 4.64,
+          "end": 4.82,
+          "probability": 0.44
+        },
+        {
+          "word": "2,",
+          "start": 4.82,
+          "end": 5.22,
+          "probability": 0.62
+        },
+        {
+          "word": "người",
+          "start": 5.48,
+          "end": 5.54,
+          "probability": 0.09
+        },
+        {
+          "word": "ta",
+          "start": 5.54,
+          "end": 5.7,
+          "probability": 0.16
+        },
+        {
+          "word": "tháng",
+          "start": 5.7,
+          "end": 5.9,
+          "probability": 0.47
+        },
+        {
+          "word": "3,",
+          "start": 5.9,
+          "end": 6.34,
+          "probability": 0.16
+        },
+        {
+          "word": "buổi",
+          "start": 6.56,
+          "end": 6.6,
+          "probability": 0.55
+        },
+        {
+          "word": "sáng",
+          "start": 6.6,
+          "end": 6.84,
+          "probability": 0.56
+        },
+        {
+          "word": "thi",
+          "start": 6.84,
+          "end": 7.12,
+          "probability": 0.21
+        },
+        {
+          "word": "xin",
+          "start": 7.12,
+          "end": 7.28,
+          "probability": 0.58
+        },
+        {
+          "word": "sẽ",
+          "start": 7.28,
+          "end": 7.5,
+          "probability": 0.96
+        },
+        {
+          "word": "làm",
+          "start": 7.5,
+          "end": 7.68,
+          "probability": 0.91
+        },
+        {
+          "word": "2",
+          "start": 7.68,
+          "end": 7.94,
+          "probability": 0.53
+        },
+        {
+          "word": "bay",
+          "start": 7.94,
+          "end": 8.16,
+          "probability": 0.14
+        },
+        {
+          "word": "thi",
+          "start": 8.16,
+          "end": 8.36,
+          "probability": 0.65
+        },
+        {
+          "word": "của",
+          "start": 8.36,
+          "end": 8.6,
+          "probability": 0.87
+        },
+        {
+          "word": "2",
+          "start": 8.6,
+          "end": 8.8,
+          "probability": 0.77
+        },
+        {
+          "word": "mong",
+          "start": 8.8,
+          "end": 9.0,
+          "probability": 0.57
+        },
+        {
+          "word": "tự",
+          "start": 9.0,
+          "end": 9.18,
+          "probability": 0.51
+        },
+        {
+          "word": "trọng",
+          "start": 9.18,
+          "end": 9.44,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.44,
+      "end": 11.5,
+      "text": "với thời gian là năng mối phúc mối mô.",
+      "words": [
+        {
+          "word": "với",
+          "start": 9.44,
+          "end": 9.62,
+          "probability": 0.63
+        },
+        {
+          "word": "thời",
+          "start": 9.62,
+          "end": 9.94,
+          "probability": 1.0
+        },
+        {
+          "word": "gian",
+          "start": 9.94,
+          "end": 10.02,
+          "probability": 0.99
+        },
+        {
+          "word": "là",
+          "start": 10.02,
+          "end": 10.22,
+          "probability": 0.74
+        },
+        {
+          "word": "năng",
+          "start": 10.22,
+          "end": 10.44,
+          "probability": 0.43
+        },
+        {
+          "word": "mối",
+          "start": 10.44,
+          "end": 10.6,
+          "probability": 0.94
+        },
+        {
+          "word": "phúc",
+          "start": 10.6,
+          "end": 10.8,
+          "probability": 0.95
+        },
+        {
+          "word": "mối",
+          "start": 10.8,
+          "end": 11.06,
+          "probability": 0.8
+        },
+        {
+          "word": "mô.",
+          "start": 11.06,
+          "end": 11.5,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.86,
+      "end": 14.12,
+      "text": "Còn buổi kiểu sẽ được dùng làm buổi thi đều phòng.",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 11.86,
+          "end": 11.86,
+          "probability": 0.53
+        },
+        {
+          "word": "buổi",
+          "start": 11.86,
+          "end": 12.08,
+          "probability": 0.72
+        },
+        {
+          "word": "kiểu",
+          "start": 12.08,
+          "end": 12.3,
+          "probability": 0.65
+        },
+        {
+          "word": "sẽ",
+          "start": 12.3,
+          "end": 12.5,
+          "probability": 0.97
+        },
+        {
+          "word": "được",
+          "start": 12.5,
+          "end": 12.7,
+          "probability": 0.98
+        },
+        {
+          "word": "dùng",
+          "start": 12.7,
+          "end": 12.92,
+          "probability": 0.44
+        },
+        {
+          "word": "làm",
+          "start": 12.92,
+          "end": 13.2,
+          "probability": 0.93
+        },
+        {
+          "word": "buổi",
+          "start": 13.2,
+          "end": 13.4,
+          "probability": 0.69
+        },
+        {
+          "word": "thi",
+          "start": 13.4,
+          "end": 13.6,
+          "probability": 0.98
+        },
+        {
+          "word": "đều",
+          "start": 13.6,
+          "end": 13.82,
+          "probability": 0.17
+        },
+        {
+          "word": "phòng.",
+          "start": 13.82,
+          "end": 14.12,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.84,
+      "end": 18.34,
+      "text": "Đi phương sẽ phải không buốt cái gói thi ở điểm thi trên trường họ phố thông chuyên",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 14.84,
+          "end": 14.9,
+          "probability": 0.72
+        },
+        {
+          "word": "phương",
+          "start": 14.9,
+          "end": 15.08,
+          "probability": 0.52
+        },
+        {
+          "word": "sẽ",
+          "start": 15.08,
+          "end": 15.4,
+          "probability": 0.92
+        },
+        {
+          "word": "phải",
+          "start": 15.4,
+          "end": 15.6,
+          "probability": 0.91
+        },
+        {
+          "word": "không",
+          "start": 15.6,
+          "end": 15.8,
+          "probability": 0.55
+        },
+        {
+          "word": "buốt",
+          "start": 15.8,
+          "end": 15.98,
+          "probability": 0.5
+        },
+        {
+          "word": "cái",
+          "start": 15.98,
+          "end": 16.1,
+          "probability": 0.16
+        },
+        {
+          "word": "gói",
+          "start": 16.1,
+          "end": 16.38,
+          "probability": 0.25
+        },
+        {
+          "word": "thi",
+          "start": 16.38,
+          "end": 16.64,
+          "probability": 0.83
+        },
+        {
+          "word": "ở",
+          "start": 16.64,
+          "end": 16.88,
+          "probability": 0.72
+        },
+        {
+          "word": "điểm",
+          "start": 16.88,
+          "end": 17.1,
+          "probability": 0.76
+        },
+        {
+          "word": "thi",
+          "start": 17.1,
+          "end": 17.28,
+          "probability": 0.69
+        },
+        {
+          "word": "trên",
+          "start": 17.28,
+          "end": 17.44,
+          "probability": 0.25
+        },
+        {
+          "word": "trường",
+          "start": 17.44,
+          "end": 17.58,
+          "probability": 0.12
+        },
+        {
+          "word": "họ",
+          "start": 17.58,
+          "end": 17.7,
+          "probability": 0.33
+        },
+        {
+          "word": "phố",
+          "start": 17.7,
+          "end": 17.88,
+          "probability": 0.47
+        },
+        {
+          "word": "thông",
+          "start": 17.88,
+          "end": 18.1,
+          "probability": 0.8
+        },
+        {
+          "word": "chuyên",
+          "start": 18.1,
+          "end": 18.34,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 18.34,
+      "end": 21.78,
+      "text": "tuyên quan trong thời gian trọng nhất là đến táng nhờ ngày 11.",
+      "words": [
+        {
+          "word": "tuyên",
+          "start": 18.34,
+          "end": 18.62,
+          "probability": 0.65
+        },
+        {
+          "word": "quan",
+          "start": 18.62,
+          "end": 18.88,
+          "probability": 0.56
+        },
+        {
+          "word": "trong",
+          "start": 18.88,
+          "end": 19.06,
+          "probability": 0.53
+        },
+        {
+          "word": "thời",
+          "start": 19.06,
+          "end": 19.32,
+          "probability": 0.96
+        },
+        {
+          "word": "gian",
+          "start": 19.32,
+          "end": 19.46,
+          "probability": 1.0
+        },
+        {
+          "word": "trọng",
+          "start": 19.46,
+          "end": 19.74,
+          "probability": 0.6
+        },
+        {
+          "word": "nhất",
+          "start": 19.74,
+          "end": 20.0,
+          "probability": 0.68
+        },
+        {
+          "word": "là",
+          "start": 20.0,
+          "end": 20.22,
+          "probability": 0.87
+        },
+        {
+          "word": "đến",
+          "start": 20.22,
+          "end": 20.5,
+          "probability": 0.73
+        },
+        {
+          "word": "táng",
+          "start": 20.5,
+          "end": 20.76,
+          "probability": 0.45
+        },
+        {
+          "word": "nhờ",
+          "start": 20.76,
+          "end": 21.08,
+          "probability": 0.37
+        },
+        {
+          "word": "ngày",
+          "start": 21.08,
+          "end": 21.54,
+          "probability": 0.37
+        },
+        {
+          "word": "11.",
+          "start": 21.54,
+          "end": 21.78,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 22.54,
+      "end": 25.9,
+      "text": "Sau khi có thức gói thi lại, kết quói học lệ, sẽ được cập nhật có hệ thống",
+      "words": [
+        {
+          "word": "Sau",
+          "start": 22.54,
+          "end": 22.94,
+          "probability": 0.01
+        },
+        {
+          "word": "khi",
+          "start": 22.94,
+          "end": 23.08,
+          "probability": 0.86
+        },
+        {
+          "word": "có",
+          "start": 23.08,
+          "end": 23.22,
+          "probability": 0.85
+        },
+        {
+          "word": "thức",
+          "start": 23.22,
+          "end": 23.38,
+          "probability": 0.54
+        },
+        {
+          "word": "gói",
+          "start": 23.38,
+          "end": 23.52,
+          "probability": 0.91
+        },
+        {
+          "word": "thi",
+          "start": 23.52,
+          "end": 23.7,
+          "probability": 0.96
+        },
+        {
+          "word": "lại,",
+          "start": 23.7,
+          "end": 23.92,
+          "probability": 0.36
+        },
+        {
+          "word": "kết",
+          "start": 23.98,
+          "end": 24.18,
+          "probability": 0.58
+        },
+        {
+          "word": "quói",
+          "start": 24.18,
+          "end": 24.28,
+          "probability": 0.3
+        },
+        {
+          "word": "học",
+          "start": 24.28,
+          "end": 24.46,
+          "probability": 0.34
+        },
+        {
+          "word": "lệ,",
+          "start": 24.46,
+          "end": 24.6,
+          "probability": 0.46
+        },
+        {
+          "word": "sẽ",
+          "start": 24.68,
+          "end": 24.76,
+          "probability": 0.29
+        },
+        {
+          "word": "được",
+          "start": 24.76,
+          "end": 24.94,
+          "probability": 0.97
+        },
+        {
+          "word": "cập",
+          "start": 24.94,
+          "end": 25.14,
+          "probability": 0.67
+        },
+        {
+          "word": "nhật",
+          "start": 25.14,
+          "end": 25.32,
+          "probability": 0.54
+        },
+        {
+          "word": "có",
+          "start": 25.32,
+          "end": 25.46,
+          "probability": 0.21
+        },
+        {
+          "word": "hệ",
+          "start": 25.46,
+          "end": 25.64,
+          "probability": 0.54
+        },
+        {
+          "word": "thống",
+          "start": 25.64,
+          "end": 25.9,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 25.9,
+      "end": 28.98,
+      "text": "và sự dụng để sách tuyên thật các mối phòng mà thi sự găng ký.",
+      "words": [
+        {
+          "word": "và",
+          "start": 25.9,
+          "end": 26.16,
+          "probability": 0.87
+        },
+        {
+          "word": "sự",
+          "start": 26.16,
+          "end": 26.34,
+          "probability": 0.44
+        },
+        {
+          "word": "dụng",
+          "start": 26.34,
+          "end": 26.58,
+          "probability": 0.76
+        },
+        {
+          "word": "để",
+          "start": 26.58,
+          "end": 26.74,
+          "probability": 0.58
+        },
+        {
+          "word": "sách",
+          "start": 26.74,
+          "end": 27.06,
+          "probability": 0.66
+        },
+        {
+          "word": "tuyên",
+          "start": 27.06,
+          "end": 27.32,
+          "probability": 0.63
+        },
+        {
+          "word": "thật",
+          "start": 27.32,
+          "end": 27.48,
+          "probability": 0.66
+        },
+        {
+          "word": "các",
+          "start": 27.48,
+          "end": 27.66,
+          "probability": 0.63
+        },
+        {
+          "word": "mối",
+          "start": 27.66,
+          "end": 27.88,
+          "probability": 0.52
+        },
+        {
+          "word": "phòng",
+          "start": 27.88,
+          "end": 28.06,
+          "probability": 0.94
+        },
+        {
+          "word": "mà",
+          "start": 28.06,
+          "end": 28.3,
+          "probability": 0.66
+        },
+        {
+          "word": "thi",
+          "start": 28.3,
+          "end": 28.36,
+          "probability": 0.73
+        },
+        {
+          "word": "sự",
+          "start": 28.36,
+          "end": 28.52,
+          "probability": 0.32
+        },
+        {
+          "word": "găng",
+          "start": 28.52,
+          "end": 28.76,
+          "probability": 0.33
+        },
+        {
+          "word": "ký.",
+          "start": 28.76,
+          "end": 28.98,
+          "probability": 0.48
+        }
+      ]
+    }
+  ]
+}

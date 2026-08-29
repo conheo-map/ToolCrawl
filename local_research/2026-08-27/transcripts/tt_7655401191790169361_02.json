@@ -1,0 +1,456 @@
+{
+  "item_id": "tt_7655401191790169361_02",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 69,
+  "text": "Tòi thì có mơ này, giống như là mơ cái cơ mơ như được giả dịch, mà thành bố chỉ mất những dân dân rất là mấy lúc nào cũng cảm thấy ai bất là tờ bác. Dạ, mọi người cũng muốn vui trìu là đi ra ngoài công dân để cho tạm dịch. Thật khi mình mặt hai bây giờ là nó có một dân mơ dẻ rồi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.43,
+      "end": 4.13,
+      "text": "Tòi thì có mơ này, giống như là mơ cái cơ mơ như được giả dịch,",
+      "words": [
+        {
+          "word": "Tòi",
+          "start": 0.43,
+          "end": 0.87,
+          "probability": 0.13
+        },
+        {
+          "word": "thì",
+          "start": 0.87,
+          "end": 1.11,
+          "probability": 0.15
+        },
+        {
+          "word": "có",
+          "start": 1.11,
+          "end": 1.39,
+          "probability": 0.48
+        },
+        {
+          "word": "mơ",
+          "start": 1.39,
+          "end": 1.63,
+          "probability": 0.4
+        },
+        {
+          "word": "này,",
+          "start": 1.63,
+          "end": 1.87,
+          "probability": 0.96
+        },
+        {
+          "word": "giống",
+          "start": 2.09,
+          "end": 2.23,
+          "probability": 0.62
+        },
+        {
+          "word": "như",
+          "start": 2.23,
+          "end": 2.57,
+          "probability": 0.99
+        },
+        {
+          "word": "là",
+          "start": 2.57,
+          "end": 2.69,
+          "probability": 0.81
+        },
+        {
+          "word": "mơ",
+          "start": 2.69,
+          "end": 2.93,
+          "probability": 0.49
+        },
+        {
+          "word": "cái",
+          "start": 2.93,
+          "end": 2.93,
+          "probability": 0.09
+        },
+        {
+          "word": "cơ",
+          "start": 2.93,
+          "end": 3.13,
+          "probability": 0.71
+        },
+        {
+          "word": "mơ",
+          "start": 3.13,
+          "end": 3.33,
+          "probability": 0.89
+        },
+        {
+          "word": "như",
+          "start": 3.33,
+          "end": 3.49,
+          "probability": 0.18
+        },
+        {
+          "word": "được",
+          "start": 3.49,
+          "end": 3.69,
+          "probability": 0.45
+        },
+        {
+          "word": "giả",
+          "start": 3.69,
+          "end": 3.87,
+          "probability": 0.33
+        },
+        {
+          "word": "dịch,",
+          "start": 3.87,
+          "end": 4.13,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.39,
+      "end": 15.0,
+      "text": "mà thành bố chỉ mất những dân dân rất là mấy lúc nào cũng cảm thấy ai bất là tờ bác.",
+      "words": [
+        {
+          "word": "mà",
+          "start": 4.39,
+          "end": 4.49,
+          "probability": 0.31
+        },
+        {
+          "word": "thành",
+          "start": 4.49,
+          "end": 4.69,
+          "probability": 0.73
+        },
+        {
+          "word": "bố",
+          "start": 4.69,
+          "end": 4.93,
+          "probability": 0.61
+        },
+        {
+          "word": "chỉ",
+          "start": 4.93,
+          "end": 5.15,
+          "probability": 0.21
+        },
+        {
+          "word": "mất",
+          "start": 5.15,
+          "end": 5.41,
+          "probability": 0.5
+        },
+        {
+          "word": "những",
+          "start": 5.41,
+          "end": 5.83,
+          "probability": 0.09
+        },
+        {
+          "word": "dân",
+          "start": 5.83,
+          "end": 6.97,
+          "probability": 0.53
+        },
+        {
+          "word": "dân",
+          "start": 6.97,
+          "end": 7.09,
+          "probability": 0.59
+        },
+        {
+          "word": "rất",
+          "start": 7.09,
+          "end": 7.33,
+          "probability": 0.17
+        },
+        {
+          "word": "là",
+          "start": 7.33,
+          "end": 7.47,
+          "probability": 0.87
+        },
+        {
+          "word": "mấy",
+          "start": 10.86,
+          "end": 11.02,
+          "probability": 0.24
+        },
+        {
+          "word": "lúc",
+          "start": 11.02,
+          "end": 11.22,
+          "probability": 0.67
+        },
+        {
+          "word": "nào",
+          "start": 11.22,
+          "end": 11.5,
+          "probability": 0.89
+        },
+        {
+          "word": "cũng",
+          "start": 11.5,
+          "end": 11.72,
+          "probability": 0.89
+        },
+        {
+          "word": "cảm",
+          "start": 11.72,
+          "end": 11.96,
+          "probability": 0.77
+        },
+        {
+          "word": "thấy",
+          "start": 11.96,
+          "end": 12.14,
+          "probability": 0.67
+        },
+        {
+          "word": "ai",
+          "start": 12.14,
+          "end": 12.4,
+          "probability": 0.32
+        },
+        {
+          "word": "bất",
+          "start": 12.4,
+          "end": 12.62,
+          "probability": 0.29
+        },
+        {
+          "word": "là",
+          "start": 12.62,
+          "end": 12.8,
+          "probability": 0.52
+        },
+        {
+          "word": "tờ",
+          "start": 12.8,
+          "end": 12.96,
+          "probability": 0.36
+        },
+        {
+          "word": "bác.",
+          "start": 14.5,
+          "end": 15.0,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 15.2,
+      "end": 22.33,
+      "text": "Dạ, mọi người cũng muốn vui trìu là đi ra ngoài công dân để cho tạm dịch.",
+      "words": [
+        {
+          "word": "Dạ,",
+          "start": 15.2,
+          "end": 15.58,
+          "probability": 0.12
+        },
+        {
+          "word": "mọi",
+          "start": 15.66,
+          "end": 15.82,
+          "probability": 0.64
+        },
+        {
+          "word": "người",
+          "start": 15.82,
+          "end": 16.04,
+          "probability": 0.91
+        },
+        {
+          "word": "cũng",
+          "start": 16.04,
+          "end": 16.26,
+          "probability": 0.96
+        },
+        {
+          "word": "muốn",
+          "start": 16.26,
+          "end": 16.54,
+          "probability": 0.83
+        },
+        {
+          "word": "vui",
+          "start": 16.54,
+          "end": 16.6,
+          "probability": 0.28
+        },
+        {
+          "word": "trìu",
+          "start": 16.6,
+          "end": 16.9,
+          "probability": 0.31
+        },
+        {
+          "word": "là",
+          "start": 16.9,
+          "end": 17.04,
+          "probability": 0.39
+        },
+        {
+          "word": "đi",
+          "start": 17.04,
+          "end": 17.2,
+          "probability": 0.56
+        },
+        {
+          "word": "ra",
+          "start": 17.2,
+          "end": 17.36,
+          "probability": 0.87
+        },
+        {
+          "word": "ngoài",
+          "start": 17.36,
+          "end": 17.56,
+          "probability": 0.79
+        },
+        {
+          "word": "công",
+          "start": 17.56,
+          "end": 17.76,
+          "probability": 0.41
+        },
+        {
+          "word": "dân",
+          "start": 17.76,
+          "end": 18.02,
+          "probability": 0.68
+        },
+        {
+          "word": "để",
+          "start": 18.02,
+          "end": 18.26,
+          "probability": 0.64
+        },
+        {
+          "word": "cho",
+          "start": 18.26,
+          "end": 18.54,
+          "probability": 0.71
+        },
+        {
+          "word": "tạm",
+          "start": 21.61,
+          "end": 21.91,
+          "probability": 0.39
+        },
+        {
+          "word": "dịch.",
+          "start": 21.91,
+          "end": 22.33,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 25.04,
+      "end": 27.56,
+      "text": "Thật khi mình mặt hai bây giờ là nó có một dân mơ dẻ rồi.",
+      "words": [
+        {
+          "word": "Thật",
+          "start": 25.04,
+          "end": 25.04,
+          "probability": 0.18
+        },
+        {
+          "word": "khi",
+          "start": 25.04,
+          "end": 25.22,
+          "probability": 0.12
+        },
+        {
+          "word": "mình",
+          "start": 25.22,
+          "end": 25.52,
+          "probability": 0.19
+        },
+        {
+          "word": "mặt",
+          "start": 25.52,
+          "end": 25.62,
+          "probability": 0.44
+        },
+        {
+          "word": "hai",
+          "start": 25.62,
+          "end": 25.8,
+          "probability": 0.41
+        },
+        {
+          "word": "bây",
+          "start": 25.8,
+          "end": 25.98,
+          "probability": 0.59
+        },
+        {
+          "word": "giờ",
+          "start": 25.98,
+          "end": 26.16,
+          "probability": 1.0
+        },
+        {
+          "word": "là",
+          "start": 26.16,
+          "end": 26.34,
+          "probability": 0.33
+        },
+        {
+          "word": "nó",
+          "start": 26.34,
+          "end": 26.44,
+          "probability": 0.51
+        },
+        {
+          "word": "có",
+          "start": 26.44,
+          "end": 26.5,
+          "probability": 0.97
+        },
+        {
+          "word": "một",
+          "start": 26.5,
+          "end": 26.7,
+          "probability": 0.47
+        },
+        {
+          "word": "dân",
+          "start": 26.7,
+          "end": 26.88,
+          "probability": 0.55
+        },
+        {
+          "word": "mơ",
+          "start": 26.88,
+          "end": 27.08,
+          "probability": 0.89
+        },
+        {
+          "word": "dẻ",
+          "start": 27.08,
+          "end": 27.32,
+          "probability": 0.28
+        },
+        {
+          "word": "rồi.",
+          "start": 27.32,
+          "end": 27.56,
+          "probability": 0.93
+        }
+      ]
+    }
+  ]
+}

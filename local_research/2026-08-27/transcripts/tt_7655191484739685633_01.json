@@ -1,0 +1,676 @@
+{
+  "item_id": "tt_7655191484739685633_01",
+  "duration_seconds": 26.53,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 99,
+  "text": "Cô phải một chơi thắng tư của một khu mà để là được phố thành phố chiming và nghe hát miếng tư tình sâu nát mẹ gàn khu trực thì sao? Làm buồn bơ, dừng đánh bệnh gây khách bảo ở nhà. Nóng quá nắm, mày này nóng về rồi. Cô dừng vừa đi đầu, mày sẽ đánh đánh được, mày sẽ đánh bệnh bảo để tận nghĩ. Không biết là bảo vụ chưa phạm tập. Bơ dơ sẽ ăn để phạm tập, thả dịch chưa? Cái đất hoa nhạc. Dù đánh dẫn của bơ, giữ nghề cình đây.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.78,
+      "text": "Cô phải một chơi thắng tư của một khu mà để là được phố thành phố chiming",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.2
+        },
+        {
+          "word": "phải",
+          "start": 0.14,
+          "end": 0.38,
+          "probability": 0.32
+        },
+        {
+          "word": "một",
+          "start": 0.38,
+          "end": 0.64,
+          "probability": 0.48
+        },
+        {
+          "word": "chơi",
+          "start": 0.64,
+          "end": 0.8,
+          "probability": 0.51
+        },
+        {
+          "word": "thắng",
+          "start": 0.8,
+          "end": 1.02,
+          "probability": 0.65
+        },
+        {
+          "word": "tư",
+          "start": 1.02,
+          "end": 1.22,
+          "probability": 0.41
+        },
+        {
+          "word": "của",
+          "start": 1.22,
+          "end": 1.4,
+          "probability": 0.83
+        },
+        {
+          "word": "một",
+          "start": 1.4,
+          "end": 1.62,
+          "probability": 0.83
+        },
+        {
+          "word": "khu",
+          "start": 1.62,
+          "end": 1.94,
+          "probability": 0.72
+        },
+        {
+          "word": "mà",
+          "start": 1.94,
+          "end": 2.3,
+          "probability": 0.57
+        },
+        {
+          "word": "để",
+          "start": 2.3,
+          "end": 2.46,
+          "probability": 0.4
+        },
+        {
+          "word": "là",
+          "start": 2.46,
+          "end": 2.62,
+          "probability": 0.41
+        },
+        {
+          "word": "được",
+          "start": 2.62,
+          "end": 2.76,
+          "probability": 0.93
+        },
+        {
+          "word": "phố",
+          "start": 2.76,
+          "end": 2.96,
+          "probability": 0.36
+        },
+        {
+          "word": "thành",
+          "start": 2.96,
+          "end": 3.14,
+          "probability": 0.47
+        },
+        {
+          "word": "phố",
+          "start": 3.14,
+          "end": 3.34,
+          "probability": 0.99
+        },
+        {
+          "word": "chiming",
+          "start": 3.34,
+          "end": 3.78,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.78,
+      "end": 6.24,
+      "text": "và nghe hát miếng tư tình sâu nát mẹ gàn khu trực thì sao?",
+      "words": [
+        {
+          "word": "và",
+          "start": 3.78,
+          "end": 4.04,
+          "probability": 0.1
+        },
+        {
+          "word": "nghe",
+          "start": 4.04,
+          "end": 4.22,
+          "probability": 0.31
+        },
+        {
+          "word": "hát",
+          "start": 4.22,
+          "end": 4.46,
+          "probability": 0.09
+        },
+        {
+          "word": "miếng",
+          "start": 4.46,
+          "end": 4.48,
+          "probability": 0.45
+        },
+        {
+          "word": "tư",
+          "start": 4.48,
+          "end": 4.64,
+          "probability": 0.64
+        },
+        {
+          "word": "tình",
+          "start": 4.64,
+          "end": 4.8,
+          "probability": 0.31
+        },
+        {
+          "word": "sâu",
+          "start": 4.8,
+          "end": 5.0,
+          "probability": 0.42
+        },
+        {
+          "word": "nát",
+          "start": 5.0,
+          "end": 5.32,
+          "probability": 0.22
+        },
+        {
+          "word": "mẹ",
+          "start": 5.32,
+          "end": 5.32,
+          "probability": 0.09
+        },
+        {
+          "word": "gàn",
+          "start": 5.32,
+          "end": 5.5,
+          "probability": 0.24
+        },
+        {
+          "word": "khu",
+          "start": 5.5,
+          "end": 5.66,
+          "probability": 0.42
+        },
+        {
+          "word": "trực",
+          "start": 5.66,
+          "end": 5.8,
+          "probability": 0.3
+        },
+        {
+          "word": "thì",
+          "start": 5.8,
+          "end": 6.02,
+          "probability": 0.12
+        },
+        {
+          "word": "sao?",
+          "start": 6.02,
+          "end": 6.24,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.72,
+      "end": 9.5,
+      "text": "Làm buồn bơ, dừng đánh bệnh gây khách bảo ở nhà.",
+      "words": [
+        {
+          "word": "Làm",
+          "start": 6.72,
+          "end": 6.96,
+          "probability": 0.43
+        },
+        {
+          "word": "buồn",
+          "start": 6.96,
+          "end": 7.04,
+          "probability": 0.65
+        },
+        {
+          "word": "bơ,",
+          "start": 7.04,
+          "end": 7.38,
+          "probability": 0.41
+        },
+        {
+          "word": "dừng",
+          "start": 7.54,
+          "end": 7.7,
+          "probability": 0.07
+        },
+        {
+          "word": "đánh",
+          "start": 7.7,
+          "end": 7.98,
+          "probability": 0.4
+        },
+        {
+          "word": "bệnh",
+          "start": 7.98,
+          "end": 8.16,
+          "probability": 0.5
+        },
+        {
+          "word": "gây",
+          "start": 8.16,
+          "end": 8.32,
+          "probability": 0.43
+        },
+        {
+          "word": "khách",
+          "start": 8.32,
+          "end": 8.58,
+          "probability": 0.5
+        },
+        {
+          "word": "bảo",
+          "start": 8.58,
+          "end": 8.74,
+          "probability": 0.36
+        },
+        {
+          "word": "ở",
+          "start": 8.74,
+          "end": 8.88,
+          "probability": 0.3
+        },
+        {
+          "word": "nhà.",
+          "start": 8.88,
+          "end": 9.5,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.84,
+      "end": 12.9,
+      "text": "Nóng quá nắm, mày này nóng về rồi.",
+      "words": [
+        {
+          "word": "Nóng",
+          "start": 10.84,
+          "end": 11.1,
+          "probability": 0.54
+        },
+        {
+          "word": "quá",
+          "start": 11.1,
+          "end": 11.26,
+          "probability": 0.78
+        },
+        {
+          "word": "nắm,",
+          "start": 11.26,
+          "end": 11.48,
+          "probability": 0.2
+        },
+        {
+          "word": "mày",
+          "start": 11.48,
+          "end": 11.64,
+          "probability": 0.04
+        },
+        {
+          "word": "này",
+          "start": 11.64,
+          "end": 11.8,
+          "probability": 0.65
+        },
+        {
+          "word": "nóng",
+          "start": 11.8,
+          "end": 12.04,
+          "probability": 0.7
+        },
+        {
+          "word": "về",
+          "start": 12.04,
+          "end": 12.2,
+          "probability": 0.56
+        },
+        {
+          "word": "rồi.",
+          "start": 12.2,
+          "end": 12.9,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.22,
+      "end": 16.78,
+      "text": "Cô dừng vừa đi đầu, mày sẽ đánh đánh được, mày sẽ đánh bệnh bảo để tận nghĩ.",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 13.22,
+          "end": 13.22,
+          "probability": 0.38
+        },
+        {
+          "word": "dừng",
+          "start": 13.22,
+          "end": 13.36,
+          "probability": 0.63
+        },
+        {
+          "word": "vừa",
+          "start": 13.36,
+          "end": 13.52,
+          "probability": 0.43
+        },
+        {
+          "word": "đi",
+          "start": 13.52,
+          "end": 13.68,
+          "probability": 0.83
+        },
+        {
+          "word": "đầu,",
+          "start": 13.68,
+          "end": 13.82,
+          "probability": 0.15
+        },
+        {
+          "word": "mày",
+          "start": 13.88,
+          "end": 14.12,
+          "probability": 0.15
+        },
+        {
+          "word": "sẽ",
+          "start": 14.12,
+          "end": 14.28,
+          "probability": 0.4
+        },
+        {
+          "word": "đánh",
+          "start": 14.28,
+          "end": 14.52,
+          "probability": 0.71
+        },
+        {
+          "word": "đánh",
+          "start": 14.52,
+          "end": 14.66,
+          "probability": 0.29
+        },
+        {
+          "word": "được,",
+          "start": 14.66,
+          "end": 14.88,
+          "probability": 0.09
+        },
+        {
+          "word": "mày",
+          "start": 15.06,
+          "end": 15.06,
+          "probability": 0.38
+        },
+        {
+          "word": "sẽ",
+          "start": 15.06,
+          "end": 15.4,
+          "probability": 0.43
+        },
+        {
+          "word": "đánh",
+          "start": 15.4,
+          "end": 16.12,
+          "probability": 0.57
+        },
+        {
+          "word": "bệnh",
+          "start": 16.12,
+          "end": 16.12,
+          "probability": 0.45
+        },
+        {
+          "word": "bảo",
+          "start": 16.12,
+          "end": 16.24,
+          "probability": 0.53
+        },
+        {
+          "word": "để",
+          "start": 16.24,
+          "end": 16.4,
+          "probability": 0.4
+        },
+        {
+          "word": "tận",
+          "start": 16.4,
+          "end": 16.54,
+          "probability": 0.29
+        },
+        {
+          "word": "nghĩ.",
+          "start": 16.54,
+          "end": 16.78,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 17.14,
+      "end": 19.76,
+      "text": "Không biết là bảo vụ chưa phạm tập.",
+      "words": [
+        {
+          "word": "Không",
+          "start": 17.14,
+          "end": 17.14,
+          "probability": 0.22
+        },
+        {
+          "word": "biết",
+          "start": 17.14,
+          "end": 17.34,
+          "probability": 0.53
+        },
+        {
+          "word": "là",
+          "start": 17.34,
+          "end": 17.58,
+          "probability": 0.96
+        },
+        {
+          "word": "bảo",
+          "start": 17.58,
+          "end": 17.8,
+          "probability": 0.41
+        },
+        {
+          "word": "vụ",
+          "start": 17.8,
+          "end": 17.9,
+          "probability": 0.52
+        },
+        {
+          "word": "chưa",
+          "start": 17.9,
+          "end": 18.42,
+          "probability": 0.65
+        },
+        {
+          "word": "phạm",
+          "start": 18.42,
+          "end": 19.06,
+          "probability": 0.48
+        },
+        {
+          "word": "tập.",
+          "start": 19.06,
+          "end": 19.76,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 19.94,
+      "end": 22.6,
+      "text": "Bơ dơ sẽ ăn để phạm tập, thả dịch chưa?",
+      "words": [
+        {
+          "word": "Bơ",
+          "start": 19.94,
+          "end": 20.16,
+          "probability": 0.22
+        },
+        {
+          "word": "dơ",
+          "start": 20.16,
+          "end": 20.58,
+          "probability": 0.18
+        },
+        {
+          "word": "sẽ",
+          "start": 20.58,
+          "end": 21.08,
+          "probability": 0.38
+        },
+        {
+          "word": "ăn",
+          "start": 21.08,
+          "end": 21.26,
+          "probability": 0.67
+        },
+        {
+          "word": "để",
+          "start": 21.26,
+          "end": 21.46,
+          "probability": 0.65
+        },
+        {
+          "word": "phạm",
+          "start": 21.46,
+          "end": 21.7,
+          "probability": 0.98
+        },
+        {
+          "word": "tập,",
+          "start": 21.7,
+          "end": 22.0,
+          "probability": 0.9
+        },
+        {
+          "word": "thả",
+          "start": 22.04,
+          "end": 22.14,
+          "probability": 0.23
+        },
+        {
+          "word": "dịch",
+          "start": 22.14,
+          "end": 22.26,
+          "probability": 0.16
+        },
+        {
+          "word": "chưa?",
+          "start": 22.26,
+          "end": 22.6,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 23.06,
+      "end": 24.06,
+      "text": "Cái đất hoa nhạc.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 23.06,
+          "end": 23.08,
+          "probability": 0.29
+        },
+        {
+          "word": "đất",
+          "start": 23.08,
+          "end": 23.26,
+          "probability": 0.51
+        },
+        {
+          "word": "hoa",
+          "start": 23.26,
+          "end": 23.48,
+          "probability": 0.35
+        },
+        {
+          "word": "nhạc.",
+          "start": 23.48,
+          "end": 24.06,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 24.52,
+      "end": 26.36,
+      "text": "Dù đánh dẫn của bơ, giữ nghề cình đây.",
+      "words": [
+        {
+          "word": "Dù",
+          "start": 24.52,
+          "end": 24.68,
+          "probability": 0.65
+        },
+        {
+          "word": "đánh",
+          "start": 24.68,
+          "end": 24.82,
+          "probability": 0.82
+        },
+        {
+          "word": "dẫn",
+          "start": 24.82,
+          "end": 25.04,
+          "probability": 0.66
+        },
+        {
+          "word": "của",
+          "start": 25.04,
+          "end": 25.22,
+          "probability": 0.26
+        },
+        {
+          "word": "bơ,",
+          "start": 25.22,
+          "end": 25.48,
+          "probability": 0.54
+        },
+        {
+          "word": "giữ",
+          "start": 25.78,
+          "end": 25.92,
+          "probability": 0.29
+        },
+        {
+          "word": "nghề",
+          "start": 25.92,
+          "end": 26.04,
+          "probability": 0.34
+        },
+        {
+          "word": "cình",
+          "start": 26.04,
+          "end": 26.2,
+          "probability": 0.24
+        },
+        {
+          "word": "đây.",
+          "start": 26.2,
+          "end": 26.36,
+          "probability": 0.58
+        }
+      ]
+    }
+  ]
+}

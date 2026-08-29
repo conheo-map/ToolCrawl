@@ -1,0 +1,710 @@
+{
+  "item_id": "tt_7665209132621876501_04",
+  "duration_seconds": 29.18,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 102,
+  "text": "Cái gì cần tập trung mà các điểm khác, tập đi siêu. Cái em sẽ cách điểm cách, tập đi siêu. Thì nó sẽ có lũa trọt sẽ ra. Nó có ba điểm cách, có bốn nhầm cách. Được rồi, nó bốn ba trọt sẽ ra. Đấy, tại sao nó có bốn điểm cách, mà sẽ lý trường tổng tý đại thì sẽ trọt hoàn xam luôn. Có đốn ba điểm cách, có đốn bốn nhầm cách. Ví dụp, ví dụp, trong trực này. Có ba điểm cách. Ờ, ví dụp, ví dụp. Nó, tìa, trong trực này, có ba điểm cách.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 2.61,
+      "text": "Cái gì cần tập trung mà các điểm khác, tập đi siêu.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.05,
+          "end": 0.57,
+          "probability": 0.23
+        },
+        {
+          "word": "gì",
+          "start": 0.57,
+          "end": 0.73,
+          "probability": 0.25
+        },
+        {
+          "word": "cần",
+          "start": 0.73,
+          "end": 0.93,
+          "probability": 0.43
+        },
+        {
+          "word": "tập",
+          "start": 0.93,
+          "end": 1.07,
+          "probability": 0.8
+        },
+        {
+          "word": "trung",
+          "start": 1.07,
+          "end": 1.19,
+          "probability": 0.69
+        },
+        {
+          "word": "mà",
+          "start": 1.19,
+          "end": 1.31,
+          "probability": 0.19
+        },
+        {
+          "word": "các",
+          "start": 1.31,
+          "end": 1.47,
+          "probability": 0.43
+        },
+        {
+          "word": "điểm",
+          "start": 1.47,
+          "end": 1.63,
+          "probability": 0.6
+        },
+        {
+          "word": "khác,",
+          "start": 1.63,
+          "end": 1.81,
+          "probability": 0.37
+        },
+        {
+          "word": "tập",
+          "start": 1.99,
+          "end": 1.99,
+          "probability": 0.56
+        },
+        {
+          "word": "đi",
+          "start": 1.99,
+          "end": 2.07,
+          "probability": 0.12
+        },
+        {
+          "word": "siêu.",
+          "start": 2.07,
+          "end": 2.61,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.97,
+      "end": 4.81,
+      "text": "Cái em sẽ cách điểm cách, tập đi siêu.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 2.97,
+          "end": 3.03,
+          "probability": 0.6
+        },
+        {
+          "word": "em",
+          "start": 3.03,
+          "end": 3.17,
+          "probability": 0.4
+        },
+        {
+          "word": "sẽ",
+          "start": 3.17,
+          "end": 3.35,
+          "probability": 0.63
+        },
+        {
+          "word": "cách",
+          "start": 3.35,
+          "end": 3.59,
+          "probability": 0.38
+        },
+        {
+          "word": "điểm",
+          "start": 3.59,
+          "end": 3.75,
+          "probability": 0.98
+        },
+        {
+          "word": "cách,",
+          "start": 3.75,
+          "end": 3.93,
+          "probability": 0.56
+        },
+        {
+          "word": "tập",
+          "start": 4.03,
+          "end": 4.03,
+          "probability": 0.88
+        },
+        {
+          "word": "đi",
+          "start": 4.03,
+          "end": 4.13,
+          "probability": 0.83
+        },
+        {
+          "word": "siêu.",
+          "start": 4.13,
+          "end": 4.81,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.53,
+      "end": 7.95,
+      "text": "Thì nó sẽ có lũa trọt sẽ ra.",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 6.53,
+          "end": 6.67,
+          "probability": 0.79
+        },
+        {
+          "word": "nó",
+          "start": 6.67,
+          "end": 6.81,
+          "probability": 0.78
+        },
+        {
+          "word": "sẽ",
+          "start": 6.81,
+          "end": 6.95,
+          "probability": 0.95
+        },
+        {
+          "word": "có",
+          "start": 6.95,
+          "end": 7.05,
+          "probability": 0.76
+        },
+        {
+          "word": "lũa",
+          "start": 7.05,
+          "end": 7.25,
+          "probability": 0.52
+        },
+        {
+          "word": "trọt",
+          "start": 7.25,
+          "end": 7.41,
+          "probability": 0.33
+        },
+        {
+          "word": "sẽ",
+          "start": 7.41,
+          "end": 7.57,
+          "probability": 0.46
+        },
+        {
+          "word": "ra.",
+          "start": 7.57,
+          "end": 7.95,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.17,
+      "end": 10.81,
+      "text": "Nó có ba điểm cách, có bốn nhầm cách.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 8.17,
+          "end": 8.29,
+          "probability": 0.46
+        },
+        {
+          "word": "có",
+          "start": 8.29,
+          "end": 8.35,
+          "probability": 0.79
+        },
+        {
+          "word": "ba",
+          "start": 8.35,
+          "end": 8.49,
+          "probability": 0.21
+        },
+        {
+          "word": "điểm",
+          "start": 8.49,
+          "end": 8.67,
+          "probability": 0.95
+        },
+        {
+          "word": "cách,",
+          "start": 8.67,
+          "end": 9.37,
+          "probability": 0.54
+        },
+        {
+          "word": "có",
+          "start": 9.69,
+          "end": 9.81,
+          "probability": 0.31
+        },
+        {
+          "word": "bốn",
+          "start": 9.81,
+          "end": 9.99,
+          "probability": 0.53
+        },
+        {
+          "word": "nhầm",
+          "start": 9.99,
+          "end": 10.15,
+          "probability": 0.57
+        },
+        {
+          "word": "cách.",
+          "start": 10.15,
+          "end": 10.81,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.11,
+      "end": 12.29,
+      "text": "Được rồi, nó bốn ba trọt sẽ ra.",
+      "words": [
+        {
+          "word": "Được",
+          "start": 11.11,
+          "end": 11.19,
+          "probability": 0.21
+        },
+        {
+          "word": "rồi,",
+          "start": 11.19,
+          "end": 11.43,
+          "probability": 0.35
+        },
+        {
+          "word": "nó",
+          "start": 11.51,
+          "end": 11.69,
+          "probability": 0.38
+        },
+        {
+          "word": "bốn",
+          "start": 11.69,
+          "end": 11.73,
+          "probability": 0.72
+        },
+        {
+          "word": "ba",
+          "start": 11.73,
+          "end": 11.91,
+          "probability": 0.09
+        },
+        {
+          "word": "trọt",
+          "start": 11.91,
+          "end": 12.03,
+          "probability": 0.79
+        },
+        {
+          "word": "sẽ",
+          "start": 12.03,
+          "end": 12.15,
+          "probability": 0.95
+        },
+        {
+          "word": "ra.",
+          "start": 12.15,
+          "end": 12.29,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 12.75,
+      "end": 16.03,
+      "text": "Đấy, tại sao nó có bốn điểm cách, mà sẽ lý trường tổng tý đại thì sẽ trọt hoàn xam luôn.",
+      "words": [
+        {
+          "word": "Đấy,",
+          "start": 12.75,
+          "end": 12.97,
+          "probability": 0.34
+        },
+        {
+          "word": "tại",
+          "start": 13.15,
+          "end": 13.33,
+          "probability": 0.42
+        },
+        {
+          "word": "sao",
+          "start": 13.33,
+          "end": 13.43,
+          "probability": 0.98
+        },
+        {
+          "word": "nó",
+          "start": 13.43,
+          "end": 13.57,
+          "probability": 0.51
+        },
+        {
+          "word": "có",
+          "start": 13.57,
+          "end": 13.65,
+          "probability": 0.98
+        },
+        {
+          "word": "bốn",
+          "start": 13.65,
+          "end": 13.71,
+          "probability": 0.97
+        },
+        {
+          "word": "điểm",
+          "start": 13.71,
+          "end": 13.87,
+          "probability": 0.99
+        },
+        {
+          "word": "cách,",
+          "start": 13.87,
+          "end": 14.09,
+          "probability": 0.58
+        },
+        {
+          "word": "mà",
+          "start": 14.21,
+          "end": 14.23,
+          "probability": 0.5
+        },
+        {
+          "word": "sẽ",
+          "start": 14.23,
+          "end": 14.35,
+          "probability": 0.66
+        },
+        {
+          "word": "lý",
+          "start": 14.35,
+          "end": 14.55,
+          "probability": 0.2
+        },
+        {
+          "word": "trường",
+          "start": 14.55,
+          "end": 14.55,
+          "probability": 0.46
+        },
+        {
+          "word": "tổng",
+          "start": 14.55,
+          "end": 14.77,
+          "probability": 0.58
+        },
+        {
+          "word": "tý",
+          "start": 14.77,
+          "end": 14.87,
+          "probability": 0.28
+        },
+        {
+          "word": "đại",
+          "start": 14.87,
+          "end": 15.01,
+          "probability": 0.18
+        },
+        {
+          "word": "thì",
+          "start": 15.01,
+          "end": 15.15,
+          "probability": 0.27
+        },
+        {
+          "word": "sẽ",
+          "start": 15.15,
+          "end": 15.33,
+          "probability": 0.97
+        },
+        {
+          "word": "trọt",
+          "start": 15.33,
+          "end": 15.39,
+          "probability": 0.43
+        },
+        {
+          "word": "hoàn",
+          "start": 15.39,
+          "end": 15.49,
+          "probability": 0.3
+        },
+        {
+          "word": "xam",
+          "start": 15.49,
+          "end": 15.65,
+          "probability": 0.43
+        },
+        {
+          "word": "luôn.",
+          "start": 15.65,
+          "end": 16.03,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 16.67,
+      "end": 18.37,
+      "text": "Có đốn ba điểm cách, có đốn bốn nhầm cách.",
+      "words": [
+        {
+          "word": "Có",
+          "start": 16.67,
+          "end": 16.75,
+          "probability": 0.25
+        },
+        {
+          "word": "đốn",
+          "start": 16.75,
+          "end": 16.91,
+          "probability": 0.65
+        },
+        {
+          "word": "ba",
+          "start": 16.91,
+          "end": 17.05,
+          "probability": 0.99
+        },
+        {
+          "word": "điểm",
+          "start": 17.05,
+          "end": 17.19,
+          "probability": 0.98
+        },
+        {
+          "word": "cách,",
+          "start": 17.19,
+          "end": 17.39,
+          "probability": 0.98
+        },
+        {
+          "word": "có",
+          "start": 17.47,
+          "end": 17.61,
+          "probability": 0.91
+        },
+        {
+          "word": "đốn",
+          "start": 17.61,
+          "end": 17.71,
+          "probability": 0.74
+        },
+        {
+          "word": "bốn",
+          "start": 17.71,
+          "end": 17.85,
+          "probability": 0.96
+        },
+        {
+          "word": "nhầm",
+          "start": 17.85,
+          "end": 17.91,
+          "probability": 0.86
+        },
+        {
+          "word": "cách.",
+          "start": 17.91,
+          "end": 18.37,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 18.47,
+      "end": 20.77,
+      "text": "Ví dụp, ví dụp, trong trực này.",
+      "words": [
+        {
+          "word": "Ví",
+          "start": 18.47,
+          "end": 18.55,
+          "probability": 0.56
+        },
+        {
+          "word": "dụp,",
+          "start": 18.55,
+          "end": 19.07,
+          "probability": 0.29
+        },
+        {
+          "word": "ví",
+          "start": 19.61,
+          "end": 19.73,
+          "probability": 0.26
+        },
+        {
+          "word": "dụp,",
+          "start": 19.73,
+          "end": 19.95,
+          "probability": 0.99
+        },
+        {
+          "word": "trong",
+          "start": 20.11,
+          "end": 20.17,
+          "probability": 0.51
+        },
+        {
+          "word": "trực",
+          "start": 20.17,
+          "end": 20.33,
+          "probability": 0.39
+        },
+        {
+          "word": "này.",
+          "start": 20.33,
+          "end": 20.77,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 21.27,
+      "end": 22.09,
+      "text": "Có ba điểm cách.",
+      "words": [
+        {
+          "word": "Có",
+          "start": 21.27,
+          "end": 21.49,
+          "probability": 0.62
+        },
+        {
+          "word": "ba",
+          "start": 21.49,
+          "end": 21.59,
+          "probability": 0.98
+        },
+        {
+          "word": "điểm",
+          "start": 21.59,
+          "end": 21.73,
+          "probability": 0.99
+        },
+        {
+          "word": "cách.",
+          "start": 21.73,
+          "end": 22.09,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 25.07,
+      "end": 26.35,
+      "text": "Ờ, ví dụp, ví dụp.",
+      "words": [
+        {
+          "word": "Ờ,",
+          "start": 25.07,
+          "end": 25.39,
+          "probability": 0.3
+        },
+        {
+          "word": "ví",
+          "start": 25.39,
+          "end": 25.71,
+          "probability": 0.5
+        },
+        {
+          "word": "dụp,",
+          "start": 25.71,
+          "end": 25.75,
+          "probability": 0.99
+        },
+        {
+          "word": "ví",
+          "start": 26.23,
+          "end": 26.29,
+          "probability": 0.51
+        },
+        {
+          "word": "dụp.",
+          "start": 26.29,
+          "end": 26.35,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 27.13,
+      "end": 29.03,
+      "text": "Nó, tìa, trong trực này, có ba điểm cách.",
+      "words": [
+        {
+          "word": "Nó,",
+          "start": 27.13,
+          "end": 27.45,
+          "probability": 0.21
+        },
+        {
+          "word": "tìa,",
+          "start": 27.77,
+          "end": 27.95,
+          "probability": 0.2
+        },
+        {
+          "word": "trong",
+          "start": 28.09,
+          "end": 28.23,
+          "probability": 0.99
+        },
+        {
+          "word": "trực",
+          "start": 28.23,
+          "end": 28.39,
+          "probability": 0.92
+        },
+        {
+          "word": "này,",
+          "start": 28.39,
+          "end": 28.47,
+          "probability": 0.99
+        },
+        {
+          "word": "có",
+          "start": 28.49,
+          "end": 28.59,
+          "probability": 0.82
+        },
+        {
+          "word": "ba",
+          "start": 28.59,
+          "end": 28.63,
+          "probability": 0.98
+        },
+        {
+          "word": "điểm",
+          "start": 28.63,
+          "end": 28.75,
+          "probability": 0.99
+        },
+        {
+          "word": "cách.",
+          "start": 28.75,
+          "end": 29.03,
+          "probability": 0.99
+        }
+      ]
+    }
+  ]
+}

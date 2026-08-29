@@ -1,0 +1,480 @@
+{
+  "item_id": "tt_7637505577001733392_02",
+  "duration_seconds": 28.85,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 69,
+  "text": "Mày mở là mọi người lỗi xa nhiều tầy dẫn đến các vụ khẩu. Là nó mì theo các mạnh mì, nhưng chúng ta vào bay bán ngần. Mọi người dễ, vừa dễ làm, vừa dễ nhiều. Mày không có diễn. Là kìm tủ đất, đại học sinh kể rồi đồng. Con chói sàng, tài xin kể, phải tài miếng bản dựa vọc mẫu về môi trường. Lọc li.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.7,
+      "text": "Mày mở là mọi người lỗi xa nhiều tầy dẫn đến các vụ khẩu.",
+      "words": [
+        {
+          "word": "Mày",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.37
+        },
+        {
+          "word": "mở",
+          "start": 0.44,
+          "end": 0.76,
+          "probability": 0.41
+        },
+        {
+          "word": "là",
+          "start": 0.76,
+          "end": 1.04,
+          "probability": 0.15
+        },
+        {
+          "word": "mọi",
+          "start": 1.04,
+          "end": 1.32,
+          "probability": 0.33
+        },
+        {
+          "word": "người",
+          "start": 1.32,
+          "end": 1.52,
+          "probability": 0.4
+        },
+        {
+          "word": "lỗi",
+          "start": 1.52,
+          "end": 1.92,
+          "probability": 0.26
+        },
+        {
+          "word": "xa",
+          "start": 1.92,
+          "end": 2.16,
+          "probability": 0.35
+        },
+        {
+          "word": "nhiều",
+          "start": 2.16,
+          "end": 2.36,
+          "probability": 0.2
+        },
+        {
+          "word": "tầy",
+          "start": 2.36,
+          "end": 2.74,
+          "probability": 0.56
+        },
+        {
+          "word": "dẫn",
+          "start": 2.74,
+          "end": 2.88,
+          "probability": 0.27
+        },
+        {
+          "word": "đến",
+          "start": 2.88,
+          "end": 3.08,
+          "probability": 0.34
+        },
+        {
+          "word": "các",
+          "start": 3.08,
+          "end": 3.24,
+          "probability": 0.11
+        },
+        {
+          "word": "vụ",
+          "start": 3.24,
+          "end": 3.44,
+          "probability": 0.48
+        },
+        {
+          "word": "khẩu.",
+          "start": 3.44,
+          "end": 3.7,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.86,
+      "end": 6.84,
+      "text": "Là nó mì theo các mạnh mì, nhưng chúng ta vào bay bán ngần.",
+      "words": [
+        {
+          "word": "Là",
+          "start": 3.86,
+          "end": 4.0,
+          "probability": 0.4
+        },
+        {
+          "word": "nó",
+          "start": 4.0,
+          "end": 4.16,
+          "probability": 0.57
+        },
+        {
+          "word": "mì",
+          "start": 4.16,
+          "end": 4.38,
+          "probability": 0.46
+        },
+        {
+          "word": "theo",
+          "start": 4.38,
+          "end": 4.62,
+          "probability": 0.19
+        },
+        {
+          "word": "các",
+          "start": 4.62,
+          "end": 4.8,
+          "probability": 0.23
+        },
+        {
+          "word": "mạnh",
+          "start": 4.8,
+          "end": 5.02,
+          "probability": 0.28
+        },
+        {
+          "word": "mì,",
+          "start": 5.02,
+          "end": 5.28,
+          "probability": 0.1
+        },
+        {
+          "word": "nhưng",
+          "start": 5.4,
+          "end": 5.52,
+          "probability": 0.5
+        },
+        {
+          "word": "chúng",
+          "start": 5.52,
+          "end": 5.76,
+          "probability": 0.25
+        },
+        {
+          "word": "ta",
+          "start": 5.76,
+          "end": 5.9,
+          "probability": 0.49
+        },
+        {
+          "word": "vào",
+          "start": 5.9,
+          "end": 6.1,
+          "probability": 0.21
+        },
+        {
+          "word": "bay",
+          "start": 6.1,
+          "end": 6.26,
+          "probability": 0.34
+        },
+        {
+          "word": "bán",
+          "start": 6.26,
+          "end": 6.44,
+          "probability": 0.43
+        },
+        {
+          "word": "ngần.",
+          "start": 6.44,
+          "end": 6.84,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.98,
+      "end": 10.06,
+      "text": "Mọi người dễ, vừa dễ làm, vừa dễ nhiều.",
+      "words": [
+        {
+          "word": "Mọi",
+          "start": 6.98,
+          "end": 7.1,
+          "probability": 0.23
+        },
+        {
+          "word": "người",
+          "start": 7.1,
+          "end": 7.14,
+          "probability": 0.83
+        },
+        {
+          "word": "dễ,",
+          "start": 7.14,
+          "end": 8.34,
+          "probability": 0.26
+        },
+        {
+          "word": "vừa",
+          "start": 8.92,
+          "end": 9.04,
+          "probability": 0.64
+        },
+        {
+          "word": "dễ",
+          "start": 9.04,
+          "end": 9.18,
+          "probability": 0.65
+        },
+        {
+          "word": "làm,",
+          "start": 9.18,
+          "end": 9.44,
+          "probability": 0.52
+        },
+        {
+          "word": "vừa",
+          "start": 9.66,
+          "end": 9.66,
+          "probability": 0.83
+        },
+        {
+          "word": "dễ",
+          "start": 9.66,
+          "end": 9.74,
+          "probability": 0.97
+        },
+        {
+          "word": "nhiều.",
+          "start": 9.74,
+          "end": 10.06,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.3,
+      "end": 11.02,
+      "text": "Mày không có diễn.",
+      "words": [
+        {
+          "word": "Mày",
+          "start": 10.3,
+          "end": 10.44,
+          "probability": 0.3
+        },
+        {
+          "word": "không",
+          "start": 10.44,
+          "end": 10.64,
+          "probability": 0.95
+        },
+        {
+          "word": "có",
+          "start": 10.64,
+          "end": 10.8,
+          "probability": 0.43
+        },
+        {
+          "word": "diễn.",
+          "start": 10.8,
+          "end": 11.02,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.26,
+      "end": 13.18,
+      "text": "Là kìm tủ đất, đại học sinh kể rồi đồng.",
+      "words": [
+        {
+          "word": "Là",
+          "start": 11.26,
+          "end": 11.44,
+          "probability": 0.57
+        },
+        {
+          "word": "kìm",
+          "start": 11.44,
+          "end": 11.72,
+          "probability": 0.39
+        },
+        {
+          "word": "tủ",
+          "start": 11.72,
+          "end": 11.86,
+          "probability": 0.14
+        },
+        {
+          "word": "đất,",
+          "start": 11.86,
+          "end": 11.96,
+          "probability": 0.29
+        },
+        {
+          "word": "đại",
+          "start": 12.14,
+          "end": 12.2,
+          "probability": 0.29
+        },
+        {
+          "word": "học",
+          "start": 12.2,
+          "end": 12.34,
+          "probability": 0.46
+        },
+        {
+          "word": "sinh",
+          "start": 12.34,
+          "end": 12.56,
+          "probability": 0.72
+        },
+        {
+          "word": "kể",
+          "start": 12.56,
+          "end": 12.64,
+          "probability": 0.56
+        },
+        {
+          "word": "rồi",
+          "start": 12.64,
+          "end": 12.86,
+          "probability": 0.47
+        },
+        {
+          "word": "đồng.",
+          "start": 12.86,
+          "end": 13.18,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.74,
+      "end": 17.4,
+      "text": "Con chói sàng, tài xin kể, phải tài miếng bản dựa vọc mẫu về môi trường.",
+      "words": [
+        {
+          "word": "Con",
+          "start": 13.74,
+          "end": 13.94,
+          "probability": 0.34
+        },
+        {
+          "word": "chói",
+          "start": 13.94,
+          "end": 14.18,
+          "probability": 0.21
+        },
+        {
+          "word": "sàng,",
+          "start": 14.18,
+          "end": 14.4,
+          "probability": 0.21
+        },
+        {
+          "word": "tài",
+          "start": 14.62,
+          "end": 14.7,
+          "probability": 0.29
+        },
+        {
+          "word": "xin",
+          "start": 14.7,
+          "end": 14.86,
+          "probability": 0.6
+        },
+        {
+          "word": "kể,",
+          "start": 14.86,
+          "end": 15.12,
+          "probability": 0.79
+        },
+        {
+          "word": "phải",
+          "start": 15.16,
+          "end": 15.3,
+          "probability": 0.18
+        },
+        {
+          "word": "tài",
+          "start": 15.3,
+          "end": 15.48,
+          "probability": 0.88
+        },
+        {
+          "word": "miếng",
+          "start": 15.48,
+          "end": 15.64,
+          "probability": 0.32
+        },
+        {
+          "word": "bản",
+          "start": 15.64,
+          "end": 15.86,
+          "probability": 0.51
+        },
+        {
+          "word": "dựa",
+          "start": 15.86,
+          "end": 16.1,
+          "probability": 0.16
+        },
+        {
+          "word": "vọc",
+          "start": 16.1,
+          "end": 16.36,
+          "probability": 0.43
+        },
+        {
+          "word": "mẫu",
+          "start": 16.36,
+          "end": 16.7,
+          "probability": 0.5
+        },
+        {
+          "word": "về",
+          "start": 16.7,
+          "end": 16.84,
+          "probability": 0.46
+        },
+        {
+          "word": "môi",
+          "start": 16.84,
+          "end": 17.08,
+          "probability": 0.43
+        },
+        {
+          "word": "trường.",
+          "start": 17.08,
+          "end": 17.4,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 27.86,
+      "end": 28.62,
+      "text": "Lọc li.",
+      "words": [
+        {
+          "word": "Lọc",
+          "start": 27.86,
+          "end": 28.2,
+          "probability": 0.52
+        },
+        {
+          "word": "li.",
+          "start": 28.2,
+          "end": 28.62,
+          "probability": 0.35
+        }
+      ]
+    }
+  ]
+}

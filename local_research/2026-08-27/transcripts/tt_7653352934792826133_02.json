@@ -1,0 +1,572 @@
+{
+  "item_id": "tt_7653352934792826133_02",
+  "duration_seconds": 28.29,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 87,
+  "text": "chỉ đã trở thành điểm tượng bứng trải cho hàng ngàn mẹ người khó khăn giữa lòng thành phố. Dưới nhịp sống hối 2 của thành phố Hồ Chí Minh có một góc biết nhỏ đã đò luyển dòng giá xuất chiến năng qua tại phủng trở lớn. Phu của hàng ngàn sất ăn mỗi ngày, thế nhường nơi đây lại không hề có một mức giá khô địch. Anh tuy bộ chả bị tâm. Đó là khuy tắc viên nhất tại hoàn năng đặc biệt này.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.84,
+      "text": "chỉ đã trở thành điểm tượng bứng trải cho hàng ngàn mẹ người khó khăn giữa lòng thành phố.",
+      "words": [
+        {
+          "word": "chỉ",
+          "start": 0.0,
+          "end": 0.38,
+          "probability": 0.35
+        },
+        {
+          "word": "đã",
+          "start": 0.38,
+          "end": 0.56,
+          "probability": 0.93
+        },
+        {
+          "word": "trở",
+          "start": 0.56,
+          "end": 0.7,
+          "probability": 0.75
+        },
+        {
+          "word": "thành",
+          "start": 0.7,
+          "end": 0.92,
+          "probability": 1.0
+        },
+        {
+          "word": "điểm",
+          "start": 0.92,
+          "end": 1.2,
+          "probability": 0.64
+        },
+        {
+          "word": "tượng",
+          "start": 1.2,
+          "end": 1.4,
+          "probability": 0.44
+        },
+        {
+          "word": "bứng",
+          "start": 1.4,
+          "end": 1.64,
+          "probability": 0.38
+        },
+        {
+          "word": "trải",
+          "start": 1.64,
+          "end": 1.94,
+          "probability": 0.53
+        },
+        {
+          "word": "cho",
+          "start": 1.94,
+          "end": 2.16,
+          "probability": 0.89
+        },
+        {
+          "word": "hàng",
+          "start": 2.16,
+          "end": 2.4,
+          "probability": 0.82
+        },
+        {
+          "word": "ngàn",
+          "start": 2.4,
+          "end": 2.64,
+          "probability": 0.72
+        },
+        {
+          "word": "mẹ",
+          "start": 2.64,
+          "end": 2.82,
+          "probability": 0.69
+        },
+        {
+          "word": "người",
+          "start": 2.82,
+          "end": 3.02,
+          "probability": 0.57
+        },
+        {
+          "word": "khó",
+          "start": 3.02,
+          "end": 3.26,
+          "probability": 0.79
+        },
+        {
+          "word": "khăn",
+          "start": 3.26,
+          "end": 3.7,
+          "probability": 0.88
+        },
+        {
+          "word": "giữa",
+          "start": 3.7,
+          "end": 3.96,
+          "probability": 0.65
+        },
+        {
+          "word": "lòng",
+          "start": 3.96,
+          "end": 4.18,
+          "probability": 0.63
+        },
+        {
+          "word": "thành",
+          "start": 4.18,
+          "end": 4.4,
+          "probability": 0.93
+        },
+        {
+          "word": "phố.",
+          "start": 4.4,
+          "end": 4.84,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 8.88,
+      "end": 15.97,
+      "text": "Dưới nhịp sống hối 2 của thành phố Hồ Chí Minh có một góc biết nhỏ đã đò luyển dòng giá xuất chiến năng qua tại phủng trở lớn.",
+      "words": [
+        {
+          "word": "Dưới",
+          "start": 8.88,
+          "end": 9.26,
+          "probability": 0.51
+        },
+        {
+          "word": "nhịp",
+          "start": 9.26,
+          "end": 9.48,
+          "probability": 0.5
+        },
+        {
+          "word": "sống",
+          "start": 9.48,
+          "end": 9.64,
+          "probability": 0.53
+        },
+        {
+          "word": "hối",
+          "start": 9.64,
+          "end": 9.84,
+          "probability": 0.34
+        },
+        {
+          "word": "2",
+          "start": 9.84,
+          "end": 10.04,
+          "probability": 0.5
+        },
+        {
+          "word": "của",
+          "start": 10.04,
+          "end": 10.14,
+          "probability": 0.63
+        },
+        {
+          "word": "thành",
+          "start": 10.14,
+          "end": 10.34,
+          "probability": 0.99
+        },
+        {
+          "word": "phố",
+          "start": 10.34,
+          "end": 10.48,
+          "probability": 1.0
+        },
+        {
+          "word": "Hồ",
+          "start": 10.48,
+          "end": 10.68,
+          "probability": 0.51
+        },
+        {
+          "word": "Chí",
+          "start": 10.68,
+          "end": 10.8,
+          "probability": 0.45
+        },
+        {
+          "word": "Minh",
+          "start": 10.8,
+          "end": 11.16,
+          "probability": 0.89
+        },
+        {
+          "word": "có",
+          "start": 11.16,
+          "end": 11.5,
+          "probability": 0.85
+        },
+        {
+          "word": "một",
+          "start": 11.5,
+          "end": 11.66,
+          "probability": 0.83
+        },
+        {
+          "word": "góc",
+          "start": 11.66,
+          "end": 11.86,
+          "probability": 0.59
+        },
+        {
+          "word": "biết",
+          "start": 11.86,
+          "end": 12.06,
+          "probability": 0.59
+        },
+        {
+          "word": "nhỏ",
+          "start": 12.06,
+          "end": 12.5,
+          "probability": 0.8
+        },
+        {
+          "word": "đã",
+          "start": 12.5,
+          "end": 12.8,
+          "probability": 0.53
+        },
+        {
+          "word": "đò",
+          "start": 12.8,
+          "end": 13.04,
+          "probability": 0.49
+        },
+        {
+          "word": "luyển",
+          "start": 13.04,
+          "end": 13.3,
+          "probability": 0.23
+        },
+        {
+          "word": "dòng",
+          "start": 13.3,
+          "end": 13.58,
+          "probability": 0.36
+        },
+        {
+          "word": "giá",
+          "start": 13.58,
+          "end": 13.86,
+          "probability": 0.77
+        },
+        {
+          "word": "xuất",
+          "start": 13.86,
+          "end": 14.14,
+          "probability": 0.71
+        },
+        {
+          "word": "chiến",
+          "start": 14.14,
+          "end": 14.34,
+          "probability": 0.36
+        },
+        {
+          "word": "năng",
+          "start": 14.34,
+          "end": 14.52,
+          "probability": 0.17
+        },
+        {
+          "word": "qua",
+          "start": 14.52,
+          "end": 14.92,
+          "probability": 0.98
+        },
+        {
+          "word": "tại",
+          "start": 14.92,
+          "end": 15.28,
+          "probability": 0.73
+        },
+        {
+          "word": "phủng",
+          "start": 15.28,
+          "end": 15.6,
+          "probability": 0.36
+        },
+        {
+          "word": "trở",
+          "start": 15.6,
+          "end": 15.74,
+          "probability": 0.8
+        },
+        {
+          "word": "lớn.",
+          "start": 15.74,
+          "end": 15.97,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 16.78,
+      "end": 22.76,
+      "text": "Phu của hàng ngàn sất ăn mỗi ngày, thế nhường nơi đây lại không hề có một mức giá khô địch.",
+      "words": [
+        {
+          "word": "Phu",
+          "start": 16.78,
+          "end": 16.78,
+          "probability": 0.55
+        },
+        {
+          "word": "của",
+          "start": 16.78,
+          "end": 16.92,
+          "probability": 0.11
+        },
+        {
+          "word": "hàng",
+          "start": 16.92,
+          "end": 17.2,
+          "probability": 0.96
+        },
+        {
+          "word": "ngàn",
+          "start": 17.2,
+          "end": 17.48,
+          "probability": 0.95
+        },
+        {
+          "word": "sất",
+          "start": 17.48,
+          "end": 17.64,
+          "probability": 0.41
+        },
+        {
+          "word": "ăn",
+          "start": 17.64,
+          "end": 17.86,
+          "probability": 0.83
+        },
+        {
+          "word": "mỗi",
+          "start": 17.86,
+          "end": 17.98,
+          "probability": 0.47
+        },
+        {
+          "word": "ngày,",
+          "start": 17.98,
+          "end": 18.54,
+          "probability": 0.92
+        },
+        {
+          "word": "thế",
+          "start": 19.1,
+          "end": 19.14,
+          "probability": 0.23
+        },
+        {
+          "word": "nhường",
+          "start": 19.14,
+          "end": 19.62,
+          "probability": 0.38
+        },
+        {
+          "word": "nơi",
+          "start": 19.62,
+          "end": 20.0,
+          "probability": 0.76
+        },
+        {
+          "word": "đây",
+          "start": 20.0,
+          "end": 20.26,
+          "probability": 0.83
+        },
+        {
+          "word": "lại",
+          "start": 20.26,
+          "end": 20.54,
+          "probability": 0.9
+        },
+        {
+          "word": "không",
+          "start": 20.54,
+          "end": 20.72,
+          "probability": 0.73
+        },
+        {
+          "word": "hề",
+          "start": 20.72,
+          "end": 20.92,
+          "probability": 0.73
+        },
+        {
+          "word": "có",
+          "start": 20.92,
+          "end": 21.08,
+          "probability": 0.62
+        },
+        {
+          "word": "một",
+          "start": 21.08,
+          "end": 21.28,
+          "probability": 0.71
+        },
+        {
+          "word": "mức",
+          "start": 21.28,
+          "end": 21.6,
+          "probability": 0.86
+        },
+        {
+          "word": "giá",
+          "start": 21.6,
+          "end": 21.9,
+          "probability": 0.95
+        },
+        {
+          "word": "khô",
+          "start": 21.9,
+          "end": 22.08,
+          "probability": 0.33
+        },
+        {
+          "word": "địch.",
+          "start": 22.08,
+          "end": 22.76,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 22.78,
+      "end": 24.64,
+      "text": "Anh tuy bộ chả bị tâm.",
+      "words": [
+        {
+          "word": "Anh",
+          "start": 22.78,
+          "end": 23.06,
+          "probability": 0.77
+        },
+        {
+          "word": "tuy",
+          "start": 23.06,
+          "end": 23.24,
+          "probability": 0.45
+        },
+        {
+          "word": "bộ",
+          "start": 23.24,
+          "end": 23.62,
+          "probability": 0.59
+        },
+        {
+          "word": "chả",
+          "start": 23.62,
+          "end": 24.1,
+          "probability": 0.53
+        },
+        {
+          "word": "bị",
+          "start": 24.1,
+          "end": 24.32,
+          "probability": 0.35
+        },
+        {
+          "word": "tâm.",
+          "start": 24.32,
+          "end": 24.64,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 25.44,
+      "end": 27.9,
+      "text": "Đó là khuy tắc viên nhất tại hoàn năng đặc biệt này.",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 25.44,
+          "end": 25.64,
+          "probability": 0.63
+        },
+        {
+          "word": "là",
+          "start": 25.64,
+          "end": 25.98,
+          "probability": 0.77
+        },
+        {
+          "word": "khuy",
+          "start": 25.98,
+          "end": 26.16,
+          "probability": 0.55
+        },
+        {
+          "word": "tắc",
+          "start": 26.16,
+          "end": 26.32,
+          "probability": 0.55
+        },
+        {
+          "word": "viên",
+          "start": 26.32,
+          "end": 26.58,
+          "probability": 0.57
+        },
+        {
+          "word": "nhất",
+          "start": 26.58,
+          "end": 26.78,
+          "probability": 0.78
+        },
+        {
+          "word": "tại",
+          "start": 26.78,
+          "end": 27.0,
+          "probability": 0.95
+        },
+        {
+          "word": "hoàn",
+          "start": 27.0,
+          "end": 27.18,
+          "probability": 0.16
+        },
+        {
+          "word": "năng",
+          "start": 27.18,
+          "end": 27.32,
+          "probability": 0.49
+        },
+        {
+          "word": "đặc",
+          "start": 27.32,
+          "end": 27.56,
+          "probability": 0.87
+        },
+        {
+          "word": "biệt",
+          "start": 27.56,
+          "end": 27.7,
+          "probability": 0.77
+        },
+        {
+          "word": "này.",
+          "start": 27.7,
+          "end": 27.9,
+          "probability": 0.82
+        }
+      ]
+    }
+  ]
+}

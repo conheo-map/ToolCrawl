@@ -1,0 +1,122 @@
+{
+  "item_id": "tt_7599624700926381330_03",
+  "duration_seconds": 19.16,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 16,
+  "text": "Con có mỏ lệ mà, tớ dưới lịch của nó như thế giới tổn tập nhau.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.72,
+      "end": 2.54,
+      "text": "Con có mỏ lệ mà,",
+      "words": [
+        {
+          "word": "Con",
+          "start": 0.72,
+          "end": 1.28,
+          "probability": 0.1
+        },
+        {
+          "word": "có",
+          "start": 1.28,
+          "end": 1.46,
+          "probability": 0.28
+        },
+        {
+          "word": "mỏ",
+          "start": 1.46,
+          "end": 1.66,
+          "probability": 0.2
+        },
+        {
+          "word": "lệ",
+          "start": 1.66,
+          "end": 1.86,
+          "probability": 0.27
+        },
+        {
+          "word": "mà,",
+          "start": 1.86,
+          "end": 2.54,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.58,
+      "end": 4.22,
+      "text": "tớ dưới lịch của nó như thế giới tổn tập nhau.",
+      "words": [
+        {
+          "word": "tớ",
+          "start": 2.58,
+          "end": 2.68,
+          "probability": 0.08
+        },
+        {
+          "word": "dưới",
+          "start": 2.68,
+          "end": 2.84,
+          "probability": 0.45
+        },
+        {
+          "word": "lịch",
+          "start": 2.84,
+          "end": 3.0,
+          "probability": 0.38
+        },
+        {
+          "word": "của",
+          "start": 3.0,
+          "end": 3.14,
+          "probability": 0.33
+        },
+        {
+          "word": "nó",
+          "start": 3.14,
+          "end": 3.36,
+          "probability": 0.14
+        },
+        {
+          "word": "như",
+          "start": 3.36,
+          "end": 3.6,
+          "probability": 0.13
+        },
+        {
+          "word": "thế",
+          "start": 3.6,
+          "end": 3.74,
+          "probability": 0.21
+        },
+        {
+          "word": "giới",
+          "start": 3.74,
+          "end": 3.88,
+          "probability": 0.27
+        },
+        {
+          "word": "tổn",
+          "start": 3.88,
+          "end": 4.0,
+          "probability": 0.19
+        },
+        {
+          "word": "tập",
+          "start": 4.0,
+          "end": 4.0,
+          "probability": 0.3
+        },
+        {
+          "word": "nhau.",
+          "start": 4.0,
+          "end": 4.22,
+          "probability": 0.29
+        }
+      ]
+    }
+  ]
+}

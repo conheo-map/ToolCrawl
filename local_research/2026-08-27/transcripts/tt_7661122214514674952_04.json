@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7661122214514674952_04",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Pháp này",
+  "segments": [
+    {
+      "id": 1,
+      "start": 28.56,
+      "end": 29.98,
+      "text": "Pháp này",
+      "words": [
+        {
+          "word": "Pháp",
+          "start": 28.56,
+          "end": 29.96,
+          "probability": 0.02
+        },
+        {
+          "word": "này",
+          "start": 29.96,
+          "end": 29.98,
+          "probability": 0.03
+        }
+      ]
+    }
+  ]
+}

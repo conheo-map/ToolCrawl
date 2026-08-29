@@ -1,0 +1,610 @@
+{
+  "item_id": "tt_7664255447347514645_03",
+  "duration_seconds": 29.91,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 92,
+  "text": "Thôi chân vừa, chứ đây, khảnh vừa, đà có ốc phủ, tính cánh đồng cá thịt thuộc hội mùa xúc giống. Truy nhiên, pho ai năm gần đây, xưa lượng con chảnh cánh đế để bị trứng hơi cho lại với một tổ lớn khi như vừa tính khởi. Nó là mình xả lối trong trân đát, đối bước chả trả là là nó dạ. Nó là hả nó dạy đường là mình tình chảy đường là mình cứ tụi nào pháp. Nó phà này chúng ta. Nó phà này chúng ta.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.1,
+      "text": "Thôi chân vừa, chứ đây, khảnh vừa, đà có ốc phủ, tính cánh đồng cá thịt thuộc hội mùa xúc giống.",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 0.0,
+          "end": 0.38,
+          "probability": 0.21
+        },
+        {
+          "word": "chân",
+          "start": 0.38,
+          "end": 0.54,
+          "probability": 0.13
+        },
+        {
+          "word": "vừa,",
+          "start": 0.54,
+          "end": 0.76,
+          "probability": 0.1
+        },
+        {
+          "word": "chứ",
+          "start": 1.06,
+          "end": 1.2,
+          "probability": 0.31
+        },
+        {
+          "word": "đây,",
+          "start": 1.2,
+          "end": 1.5,
+          "probability": 0.17
+        },
+        {
+          "word": "khảnh",
+          "start": 1.82,
+          "end": 1.84,
+          "probability": 0.31
+        },
+        {
+          "word": "vừa,",
+          "start": 1.84,
+          "end": 1.98,
+          "probability": 0.52
+        },
+        {
+          "word": "đà",
+          "start": 2.24,
+          "end": 2.3,
+          "probability": 0.18
+        },
+        {
+          "word": "có",
+          "start": 2.3,
+          "end": 2.54,
+          "probability": 0.16
+        },
+        {
+          "word": "ốc",
+          "start": 2.54,
+          "end": 2.84,
+          "probability": 0.61
+        },
+        {
+          "word": "phủ,",
+          "start": 2.84,
+          "end": 2.96,
+          "probability": 0.58
+        },
+        {
+          "word": "tính",
+          "start": 2.98,
+          "end": 3.16,
+          "probability": 0.57
+        },
+        {
+          "word": "cánh",
+          "start": 3.16,
+          "end": 3.32,
+          "probability": 0.42
+        },
+        {
+          "word": "đồng",
+          "start": 3.32,
+          "end": 3.52,
+          "probability": 0.7
+        },
+        {
+          "word": "cá",
+          "start": 3.52,
+          "end": 3.78,
+          "probability": 0.46
+        },
+        {
+          "word": "thịt",
+          "start": 3.78,
+          "end": 3.9,
+          "probability": 0.35
+        },
+        {
+          "word": "thuộc",
+          "start": 3.9,
+          "end": 4.16,
+          "probability": 0.58
+        },
+        {
+          "word": "hội",
+          "start": 4.16,
+          "end": 4.4,
+          "probability": 0.39
+        },
+        {
+          "word": "mùa",
+          "start": 4.4,
+          "end": 4.6,
+          "probability": 0.44
+        },
+        {
+          "word": "xúc",
+          "start": 4.6,
+          "end": 4.8,
+          "probability": 0.78
+        },
+        {
+          "word": "giống.",
+          "start": 4.8,
+          "end": 5.1,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.34,
+      "end": 11.4,
+      "text": "Truy nhiên, pho ai năm gần đây, xưa lượng con chảnh cánh đế để bị trứng hơi cho lại với một tổ lớn khi như vừa tính khởi.",
+      "words": [
+        {
+          "word": "Truy",
+          "start": 5.34,
+          "end": 5.56,
+          "probability": 0.53
+        },
+        {
+          "word": "nhiên,",
+          "start": 5.56,
+          "end": 5.8,
+          "probability": 0.89
+        },
+        {
+          "word": "pho",
+          "start": 5.92,
+          "end": 6.04,
+          "probability": 0.22
+        },
+        {
+          "word": "ai",
+          "start": 6.04,
+          "end": 6.04,
+          "probability": 0.29
+        },
+        {
+          "word": "năm",
+          "start": 6.04,
+          "end": 6.2,
+          "probability": 0.25
+        },
+        {
+          "word": "gần",
+          "start": 6.2,
+          "end": 6.38,
+          "probability": 0.48
+        },
+        {
+          "word": "đây,",
+          "start": 6.38,
+          "end": 6.64,
+          "probability": 0.85
+        },
+        {
+          "word": "xưa",
+          "start": 6.88,
+          "end": 6.9,
+          "probability": 0.58
+        },
+        {
+          "word": "lượng",
+          "start": 6.9,
+          "end": 7.1,
+          "probability": 0.71
+        },
+        {
+          "word": "con",
+          "start": 7.1,
+          "end": 7.3,
+          "probability": 0.62
+        },
+        {
+          "word": "chảnh",
+          "start": 7.3,
+          "end": 7.58,
+          "probability": 0.59
+        },
+        {
+          "word": "cánh",
+          "start": 7.58,
+          "end": 7.8,
+          "probability": 0.54
+        },
+        {
+          "word": "đế",
+          "start": 7.8,
+          "end": 8.16,
+          "probability": 0.26
+        },
+        {
+          "word": "để",
+          "start": 8.16,
+          "end": 8.22,
+          "probability": 0.29
+        },
+        {
+          "word": "bị",
+          "start": 8.22,
+          "end": 8.44,
+          "probability": 0.62
+        },
+        {
+          "word": "trứng",
+          "start": 8.44,
+          "end": 8.62,
+          "probability": 0.31
+        },
+        {
+          "word": "hơi",
+          "start": 8.62,
+          "end": 8.86,
+          "probability": 0.13
+        },
+        {
+          "word": "cho",
+          "start": 8.86,
+          "end": 9.06,
+          "probability": 0.18
+        },
+        {
+          "word": "lại",
+          "start": 9.06,
+          "end": 9.28,
+          "probability": 0.74
+        },
+        {
+          "word": "với",
+          "start": 9.28,
+          "end": 9.46,
+          "probability": 0.34
+        },
+        {
+          "word": "một",
+          "start": 9.46,
+          "end": 9.58,
+          "probability": 0.87
+        },
+        {
+          "word": "tổ",
+          "start": 9.58,
+          "end": 9.74,
+          "probability": 0.7
+        },
+        {
+          "word": "lớn",
+          "start": 9.74,
+          "end": 10.1,
+          "probability": 0.8
+        },
+        {
+          "word": "khi",
+          "start": 10.1,
+          "end": 10.36,
+          "probability": 0.39
+        },
+        {
+          "word": "như",
+          "start": 10.36,
+          "end": 10.52,
+          "probability": 0.23
+        },
+        {
+          "word": "vừa",
+          "start": 10.52,
+          "end": 10.72,
+          "probability": 0.64
+        },
+        {
+          "word": "tính",
+          "start": 10.72,
+          "end": 10.9,
+          "probability": 0.33
+        },
+        {
+          "word": "khởi.",
+          "start": 10.9,
+          "end": 11.4,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.0,
+      "end": 17.66,
+      "text": "Nó là mình xả lối trong trân đát, đối bước chả trả là là nó dạ.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 12.0,
+          "end": 12.2,
+          "probability": 0.48
+        },
+        {
+          "word": "là",
+          "start": 12.2,
+          "end": 12.86,
+          "probability": 0.32
+        },
+        {
+          "word": "mình",
+          "start": 12.86,
+          "end": 13.96,
+          "probability": 0.22
+        },
+        {
+          "word": "xả",
+          "start": 13.96,
+          "end": 14.18,
+          "probability": 0.29
+        },
+        {
+          "word": "lối",
+          "start": 14.18,
+          "end": 14.26,
+          "probability": 0.45
+        },
+        {
+          "word": "trong",
+          "start": 14.26,
+          "end": 14.48,
+          "probability": 0.28
+        },
+        {
+          "word": "trân",
+          "start": 14.48,
+          "end": 14.64,
+          "probability": 0.43
+        },
+        {
+          "word": "đát,",
+          "start": 14.64,
+          "end": 15.16,
+          "probability": 0.28
+        },
+        {
+          "word": "đối",
+          "start": 15.44,
+          "end": 15.56,
+          "probability": 0.27
+        },
+        {
+          "word": "bước",
+          "start": 15.56,
+          "end": 15.66,
+          "probability": 0.41
+        },
+        {
+          "word": "chả",
+          "start": 15.66,
+          "end": 15.96,
+          "probability": 0.15
+        },
+        {
+          "word": "trả",
+          "start": 15.96,
+          "end": 16.72,
+          "probability": 0.53
+        },
+        {
+          "word": "là",
+          "start": 16.72,
+          "end": 17.08,
+          "probability": 0.27
+        },
+        {
+          "word": "là",
+          "start": 17.08,
+          "end": 17.18,
+          "probability": 0.1
+        },
+        {
+          "word": "nó",
+          "start": 17.18,
+          "end": 17.32,
+          "probability": 0.74
+        },
+        {
+          "word": "dạ.",
+          "start": 17.32,
+          "end": 17.66,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 19.1,
+      "end": 24.12,
+      "text": "Nó là hả nó dạy đường là mình tình chảy đường là mình cứ tụi nào pháp.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 19.1,
+          "end": 19.68,
+          "probability": 0.64
+        },
+        {
+          "word": "là",
+          "start": 19.68,
+          "end": 20.26,
+          "probability": 0.09
+        },
+        {
+          "word": "hả",
+          "start": 20.26,
+          "end": 20.26,
+          "probability": 0.21
+        },
+        {
+          "word": "nó",
+          "start": 20.26,
+          "end": 20.42,
+          "probability": 0.19
+        },
+        {
+          "word": "dạy",
+          "start": 20.42,
+          "end": 21.28,
+          "probability": 0.31
+        },
+        {
+          "word": "đường",
+          "start": 21.28,
+          "end": 21.62,
+          "probability": 0.11
+        },
+        {
+          "word": "là",
+          "start": 21.62,
+          "end": 21.82,
+          "probability": 0.24
+        },
+        {
+          "word": "mình",
+          "start": 21.82,
+          "end": 21.98,
+          "probability": 0.02
+        },
+        {
+          "word": "tình",
+          "start": 21.98,
+          "end": 22.12,
+          "probability": 0.16
+        },
+        {
+          "word": "chảy",
+          "start": 22.12,
+          "end": 22.44,
+          "probability": 0.16
+        },
+        {
+          "word": "đường",
+          "start": 22.44,
+          "end": 22.7,
+          "probability": 0.51
+        },
+        {
+          "word": "là",
+          "start": 22.7,
+          "end": 22.8,
+          "probability": 0.13
+        },
+        {
+          "word": "mình",
+          "start": 22.8,
+          "end": 22.94,
+          "probability": 0.61
+        },
+        {
+          "word": "cứ",
+          "start": 22.94,
+          "end": 23.04,
+          "probability": 0.12
+        },
+        {
+          "word": "tụi",
+          "start": 23.04,
+          "end": 23.18,
+          "probability": 0.49
+        },
+        {
+          "word": "nào",
+          "start": 23.18,
+          "end": 23.36,
+          "probability": 0.38
+        },
+        {
+          "word": "pháp.",
+          "start": 23.36,
+          "end": 24.12,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 24.66,
+      "end": 26.12,
+      "text": "Nó phà này chúng ta.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 24.66,
+          "end": 24.86,
+          "probability": 0.52
+        },
+        {
+          "word": "phà",
+          "start": 24.86,
+          "end": 25.24,
+          "probability": 0.33
+        },
+        {
+          "word": "này",
+          "start": 25.24,
+          "end": 25.44,
+          "probability": 0.18
+        },
+        {
+          "word": "chúng",
+          "start": 25.44,
+          "end": 25.64,
+          "probability": 0.25
+        },
+        {
+          "word": "ta.",
+          "start": 25.64,
+          "end": 26.12,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 26.72,
+      "end": 29.88,
+      "text": "Nó phà này chúng ta.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 26.72,
+          "end": 26.88,
+          "probability": 0.48
+        },
+        {
+          "word": "phà",
+          "start": 26.88,
+          "end": 27.24,
+          "probability": 0.81
+        },
+        {
+          "word": "này",
+          "start": 27.24,
+          "end": 27.86,
+          "probability": 0.41
+        },
+        {
+          "word": "chúng",
+          "start": 27.86,
+          "end": 28.18,
+          "probability": 0.84
+        },
+        {
+          "word": "ta.",
+          "start": 28.18,
+          "end": 29.88,
+          "probability": 0.99
+        }
+      ]
+    }
+  ]
+}

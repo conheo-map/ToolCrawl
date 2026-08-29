@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7637083761854647560_02",
+  "duration_seconds": 28.9,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Bíng, bíng, bíng, bíng, bíng.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.03,
+      "end": 2.87,
+      "text": "Bíng, bíng, bíng, bíng, bíng.",
+      "words": [
+        {
+          "word": "Bíng,",
+          "start": 2.03,
+          "end": 2.15,
+          "probability": 0.02
+        },
+        {
+          "word": "bíng,",
+          "start": 2.37,
+          "end": 2.65,
+          "probability": 0.76
+        },
+        {
+          "word": "bíng,",
+          "start": 2.87,
+          "end": 2.87,
+          "probability": 0.98
+        },
+        {
+          "word": "bíng,",
+          "start": 2.87,
+          "end": 2.87,
+          "probability": 0.98
+        },
+        {
+          "word": "bíng.",
+          "start": 2.87,
+          "end": 2.87,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

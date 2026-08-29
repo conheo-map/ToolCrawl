@@ -1,0 +1,654 @@
+{
+  "item_id": "tt_7656772067949432065_01",
+  "duration_seconds": 27.16,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 90,
+  "text": "Thế kết tất cả. Thế kết. Đói vậy? Những cái bánh nhau. Điều chẳng, nhưng mà không có đến lợi an gà. Một lứa thì tâm nhận là nó cụm đất giản. 2 lứa thì cũng có thể đứng giản, nhưng mà 3 lứa thì bắt đầu là sẽ quốc tập lên. Hòa cụm? 3 lứa, 1 lứa, 1 lứa, 1 lứa, 1 lứa, 1 lứa, 1 lứa. 1 lọc phải đổi xe, 2 lứa, 2 lứa, 2 lứa. Đi đâu có đất đất giản. Trái điều chuyện như thế?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.56,
+      "text": "Thế kết tất cả.",
+      "words": [
+        {
+          "word": "Thế",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.25
+        },
+        {
+          "word": "kết",
+          "start": 0.26,
+          "end": 0.44,
+          "probability": 0.08
+        },
+        {
+          "word": "tất",
+          "start": 0.44,
+          "end": 0.56,
+          "probability": 0.09
+        },
+        {
+          "word": "cả.",
+          "start": 0.56,
+          "end": 0.56,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.24,
+      "end": 1.66,
+      "text": "Thế kết.",
+      "words": [
+        {
+          "word": "Thế",
+          "start": 1.24,
+          "end": 1.4,
+          "probability": 0.48
+        },
+        {
+          "word": "kết.",
+          "start": 1.4,
+          "end": 1.66,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 1.76,
+      "end": 2.66,
+      "text": "Đói vậy?",
+      "words": [
+        {
+          "word": "Đói",
+          "start": 1.76,
+          "end": 2.16,
+          "probability": 0.3
+        },
+        {
+          "word": "vậy?",
+          "start": 2.16,
+          "end": 2.66,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 2.76,
+      "end": 3.36,
+      "text": "Những cái bánh nhau.",
+      "words": [
+        {
+          "word": "Những",
+          "start": 2.76,
+          "end": 2.76,
+          "probability": 0.4
+        },
+        {
+          "word": "cái",
+          "start": 2.76,
+          "end": 2.86,
+          "probability": 0.72
+        },
+        {
+          "word": "bánh",
+          "start": 2.86,
+          "end": 3.0,
+          "probability": 0.24
+        },
+        {
+          "word": "nhau.",
+          "start": 3.0,
+          "end": 3.36,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 3.52,
+      "end": 6.58,
+      "text": "Điều chẳng, nhưng mà không có đến lợi an gà.",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 3.52,
+          "end": 3.78,
+          "probability": 0.19
+        },
+        {
+          "word": "chẳng,",
+          "start": 3.78,
+          "end": 3.78,
+          "probability": 0.52
+        },
+        {
+          "word": "nhưng",
+          "start": 4.12,
+          "end": 4.22,
+          "probability": 0.06
+        },
+        {
+          "word": "mà",
+          "start": 4.22,
+          "end": 4.46,
+          "probability": 0.29
+        },
+        {
+          "word": "không",
+          "start": 4.46,
+          "end": 5.1,
+          "probability": 0.01
+        },
+        {
+          "word": "có",
+          "start": 5.1,
+          "end": 5.1,
+          "probability": 0.4
+        },
+        {
+          "word": "đến",
+          "start": 5.1,
+          "end": 5.4,
+          "probability": 0.07
+        },
+        {
+          "word": "lợi",
+          "start": 5.4,
+          "end": 6.1,
+          "probability": 0.41
+        },
+        {
+          "word": "an",
+          "start": 6.1,
+          "end": 6.38,
+          "probability": 0.46
+        },
+        {
+          "word": "gà.",
+          "start": 6.38,
+          "end": 6.58,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 7.96,
+      "end": 10.54,
+      "text": "Một lứa thì tâm nhận là nó cụm đất giản.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 7.96,
+          "end": 8.36,
+          "probability": 0.69
+        },
+        {
+          "word": "lứa",
+          "start": 8.36,
+          "end": 8.62,
+          "probability": 0.58
+        },
+        {
+          "word": "thì",
+          "start": 8.62,
+          "end": 8.86,
+          "probability": 0.55
+        },
+        {
+          "word": "tâm",
+          "start": 8.86,
+          "end": 8.94,
+          "probability": 0.31
+        },
+        {
+          "word": "nhận",
+          "start": 8.94,
+          "end": 9.16,
+          "probability": 0.52
+        },
+        {
+          "word": "là",
+          "start": 9.16,
+          "end": 9.38,
+          "probability": 0.51
+        },
+        {
+          "word": "nó",
+          "start": 9.38,
+          "end": 9.5,
+          "probability": 0.71
+        },
+        {
+          "word": "cụm",
+          "start": 9.5,
+          "end": 9.76,
+          "probability": 0.22
+        },
+        {
+          "word": "đất",
+          "start": 9.76,
+          "end": 9.98,
+          "probability": 0.6
+        },
+        {
+          "word": "giản.",
+          "start": 9.98,
+          "end": 10.54,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 11.28,
+      "end": 12.4,
+      "text": "2 lứa thì cũng có thể đứng giản,",
+      "words": [
+        {
+          "word": "2",
+          "start": 11.28,
+          "end": 11.28,
+          "probability": 0.38
+        },
+        {
+          "word": "lứa",
+          "start": 11.28,
+          "end": 11.46,
+          "probability": 0.71
+        },
+        {
+          "word": "thì",
+          "start": 11.46,
+          "end": 11.62,
+          "probability": 0.95
+        },
+        {
+          "word": "cũng",
+          "start": 11.62,
+          "end": 11.72,
+          "probability": 0.59
+        },
+        {
+          "word": "có",
+          "start": 11.72,
+          "end": 11.84,
+          "probability": 0.83
+        },
+        {
+          "word": "thể",
+          "start": 11.84,
+          "end": 11.98,
+          "probability": 0.65
+        },
+        {
+          "word": "đứng",
+          "start": 11.98,
+          "end": 12.14,
+          "probability": 0.42
+        },
+        {
+          "word": "giản,",
+          "start": 12.14,
+          "end": 12.4,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 12.56,
+      "end": 15.46,
+      "text": "nhưng mà 3 lứa thì bắt đầu là sẽ quốc tập lên.",
+      "words": [
+        {
+          "word": "nhưng",
+          "start": 12.56,
+          "end": 12.62,
+          "probability": 0.72
+        },
+        {
+          "word": "mà",
+          "start": 12.62,
+          "end": 12.78,
+          "probability": 0.61
+        },
+        {
+          "word": "3",
+          "start": 12.78,
+          "end": 13.0,
+          "probability": 0.63
+        },
+        {
+          "word": "lứa",
+          "start": 13.0,
+          "end": 13.14,
+          "probability": 0.98
+        },
+        {
+          "word": "thì",
+          "start": 13.14,
+          "end": 13.28,
+          "probability": 0.89
+        },
+        {
+          "word": "bắt",
+          "start": 13.28,
+          "end": 13.42,
+          "probability": 0.26
+        },
+        {
+          "word": "đầu",
+          "start": 13.42,
+          "end": 13.64,
+          "probability": 0.78
+        },
+        {
+          "word": "là",
+          "start": 13.64,
+          "end": 14.76,
+          "probability": 0.56
+        },
+        {
+          "word": "sẽ",
+          "start": 14.76,
+          "end": 14.94,
+          "probability": 0.17
+        },
+        {
+          "word": "quốc",
+          "start": 14.94,
+          "end": 15.1,
+          "probability": 0.19
+        },
+        {
+          "word": "tập",
+          "start": 15.1,
+          "end": 15.3,
+          "probability": 0.33
+        },
+        {
+          "word": "lên.",
+          "start": 15.3,
+          "end": 15.46,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 16.48,
+      "end": 17.28,
+      "text": "Hòa cụm?",
+      "words": [
+        {
+          "word": "Hòa",
+          "start": 16.48,
+          "end": 16.88,
+          "probability": 0.27
+        },
+        {
+          "word": "cụm?",
+          "start": 16.88,
+          "end": 17.28,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 17.32,
+      "end": 20.64,
+      "text": "3 lứa, 1 lứa, 1 lứa, 1 lứa, 1 lứa, 1 lứa, 1 lứa.",
+      "words": [
+        {
+          "word": "3",
+          "start": 17.32,
+          "end": 17.62,
+          "probability": 0.47
+        },
+        {
+          "word": "lứa,",
+          "start": 17.62,
+          "end": 17.72,
+          "probability": 0.96
+        },
+        {
+          "word": "1",
+          "start": 17.72,
+          "end": 17.92,
+          "probability": 0.3
+        },
+        {
+          "word": "lứa,",
+          "start": 17.92,
+          "end": 18.04,
+          "probability": 0.84
+        },
+        {
+          "word": "1",
+          "start": 18.18,
+          "end": 18.92,
+          "probability": 0.32
+        },
+        {
+          "word": "lứa,",
+          "start": 18.92,
+          "end": 18.92,
+          "probability": 0.92
+        },
+        {
+          "word": "1",
+          "start": 18.92,
+          "end": 19.36,
+          "probability": 0.36
+        },
+        {
+          "word": "lứa,",
+          "start": 19.36,
+          "end": 19.36,
+          "probability": 0.97
+        },
+        {
+          "word": "1",
+          "start": 19.52,
+          "end": 19.7,
+          "probability": 0.53
+        },
+        {
+          "word": "lứa,",
+          "start": 19.7,
+          "end": 19.7,
+          "probability": 0.97
+        },
+        {
+          "word": "1",
+          "start": 19.7,
+          "end": 20.26,
+          "probability": 0.58
+        },
+        {
+          "word": "lứa,",
+          "start": 20.26,
+          "end": 20.26,
+          "probability": 0.98
+        },
+        {
+          "word": "1",
+          "start": 20.64,
+          "end": 20.64,
+          "probability": 0.56
+        },
+        {
+          "word": "lứa.",
+          "start": 20.64,
+          "end": 20.64,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 21.48,
+      "end": 24.32,
+      "text": "1 lọc phải đổi xe, 2 lứa, 2 lứa, 2 lứa.",
+      "words": [
+        {
+          "word": "1",
+          "start": 21.48,
+          "end": 21.56,
+          "probability": 0.03
+        },
+        {
+          "word": "lọc",
+          "start": 21.56,
+          "end": 21.78,
+          "probability": 0.53
+        },
+        {
+          "word": "phải",
+          "start": 21.78,
+          "end": 21.78,
+          "probability": 0.0
+        },
+        {
+          "word": "đổi",
+          "start": 21.78,
+          "end": 22.2,
+          "probability": 0.52
+        },
+        {
+          "word": "xe,",
+          "start": 22.2,
+          "end": 22.62,
+          "probability": 0.36
+        },
+        {
+          "word": "2",
+          "start": 22.7,
+          "end": 23.08,
+          "probability": 0.5
+        },
+        {
+          "word": "lứa,",
+          "start": 23.08,
+          "end": 23.42,
+          "probability": 0.88
+        },
+        {
+          "word": "2",
+          "start": 23.7,
+          "end": 23.74,
+          "probability": 0.18
+        },
+        {
+          "word": "lứa,",
+          "start": 23.74,
+          "end": 23.78,
+          "probability": 0.95
+        },
+        {
+          "word": "2",
+          "start": 23.78,
+          "end": 23.78,
+          "probability": 0.25
+        },
+        {
+          "word": "lứa.",
+          "start": 23.78,
+          "end": 24.32,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 24.32,
+      "end": 25.4,
+      "text": "Đi đâu có đất đất giản.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 24.32,
+          "end": 24.46,
+          "probability": 0.46
+        },
+        {
+          "word": "đâu",
+          "start": 24.46,
+          "end": 24.62,
+          "probability": 0.26
+        },
+        {
+          "word": "có",
+          "start": 24.62,
+          "end": 24.72,
+          "probability": 0.26
+        },
+        {
+          "word": "đất",
+          "start": 24.72,
+          "end": 24.98,
+          "probability": 0.5
+        },
+        {
+          "word": "đất",
+          "start": 24.98,
+          "end": 25.2,
+          "probability": 0.28
+        },
+        {
+          "word": "giản.",
+          "start": 25.2,
+          "end": 25.4,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 26.3,
+      "end": 26.94,
+      "text": "Trái điều chuyện như thế?",
+      "words": [
+        {
+          "word": "Trái",
+          "start": 26.3,
+          "end": 26.34,
+          "probability": 0.1
+        },
+        {
+          "word": "điều",
+          "start": 26.34,
+          "end": 26.5,
+          "probability": 0.7
+        },
+        {
+          "word": "chuyện",
+          "start": 26.5,
+          "end": 26.66,
+          "probability": 0.52
+        },
+        {
+          "word": "như",
+          "start": 26.66,
+          "end": 26.78,
+          "probability": 0.82
+        },
+        {
+          "word": "thế?",
+          "start": 26.78,
+          "end": 26.94,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

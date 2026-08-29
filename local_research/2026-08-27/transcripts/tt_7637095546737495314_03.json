@@ -1,0 +1,80 @@
+{
+  "item_id": "tt_7637095546737495314_03",
+  "duration_seconds": 20.76,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "và mình sẽ không tốt quanh. Thì lìm gì.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.18,
+      "text": "và mình sẽ không tốt quanh.",
+      "words": [
+        {
+          "word": "và",
+          "start": 0.0,
+          "end": 0.6,
+          "probability": 0.03
+        },
+        {
+          "word": "mình",
+          "start": 0.6,
+          "end": 1.1,
+          "probability": 0.35
+        },
+        {
+          "word": "sẽ",
+          "start": 1.1,
+          "end": 1.4,
+          "probability": 0.66
+        },
+        {
+          "word": "không",
+          "start": 1.4,
+          "end": 2.16,
+          "probability": 0.06
+        },
+        {
+          "word": "tốt",
+          "start": 2.16,
+          "end": 2.56,
+          "probability": 0.19
+        },
+        {
+          "word": "quanh.",
+          "start": 2.56,
+          "end": 3.18,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.3,
+      "end": 4.06,
+      "text": "Thì lìm gì.",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 3.3,
+          "end": 3.3,
+          "probability": 0.38
+        },
+        {
+          "word": "lìm",
+          "start": 3.3,
+          "end": 4.06,
+          "probability": 0.39
+        },
+        {
+          "word": "gì.",
+          "start": 4.06,
+          "end": 4.06,
+          "probability": 0.08
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "item_id": "tt_7639200660218629397",
+  "duration_seconds": 21.38,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "Tìm, tiền, tiền hương tặng tương. Điều được chưa?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.17,
+      "text": "Tìm, tiền, tiền hương tặng tương.",
+      "words": [
+        {
+          "word": "Tìm,",
+          "start": 0.0,
+          "end": 0.76,
+          "probability": 0.34
+        },
+        {
+          "word": "tiền,",
+          "start": 0.76,
+          "end": 0.88,
+          "probability": 0.16
+        },
+        {
+          "word": "tiền",
+          "start": 0.88,
+          "end": 1.14,
+          "probability": 0.94
+        },
+        {
+          "word": "hương",
+          "start": 4.31,
+          "end": 4.49,
+          "probability": 0.01
+        },
+        {
+          "word": "tặng",
+          "start": 4.49,
+          "end": 4.77,
+          "probability": 0.26
+        },
+        {
+          "word": "tương.",
+          "start": 4.77,
+          "end": 5.17,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.11,
+      "end": 6.87,
+      "text": "Điều được chưa?",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 6.11,
+          "end": 6.53,
+          "probability": 0.08
+        },
+        {
+          "word": "được",
+          "start": 6.53,
+          "end": 6.59,
+          "probability": 0.01
+        },
+        {
+          "word": "chưa?",
+          "start": 6.59,
+          "end": 6.87,
+          "probability": 0.0
+        }
+      ]
+    }
+  ]
+}

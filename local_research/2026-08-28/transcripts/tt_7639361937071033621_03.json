@@ -1,0 +1,66 @@
+{
+  "item_id": "tt_7639361937071033621_03",
+  "duration_seconds": 28.78,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 8,
+  "text": "Nếu là vinh lịch, mình không giói tìm.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 27.09,
+      "end": 28.75,
+      "text": "Nếu là vinh lịch, mình không giói tìm.",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 27.09,
+          "end": 27.25,
+          "probability": 0.19
+        },
+        {
+          "word": "là",
+          "start": 27.25,
+          "end": 27.43,
+          "probability": 0.18
+        },
+        {
+          "word": "vinh",
+          "start": 27.43,
+          "end": 27.61,
+          "probability": 0.33
+        },
+        {
+          "word": "lịch,",
+          "start": 27.61,
+          "end": 27.87,
+          "probability": 0.12
+        },
+        {
+          "word": "mình",
+          "start": 28.01,
+          "end": 28.05,
+          "probability": 0.6
+        },
+        {
+          "word": "không",
+          "start": 28.05,
+          "end": 28.19,
+          "probability": 0.2
+        },
+        {
+          "word": "giói",
+          "start": 28.19,
+          "end": 28.47,
+          "probability": 0.64
+        },
+        {
+          "word": "tìm.",
+          "start": 28.47,
+          "end": 28.75,
+          "probability": 0.42
+        }
+      ]
+    }
+  ]
+}

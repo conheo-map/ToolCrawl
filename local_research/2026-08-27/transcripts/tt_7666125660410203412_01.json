@@ -1,0 +1,402 @@
+{
+  "item_id": "tt_7666125660410203412_01",
+  "duration_seconds": 29.88,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 56,
+  "text": "và đây là hữu ra vọng bọng đừng bằng bối kia chụi về hữu về vời đừng bỏ chúng ta là nó để xương thay nổi trồng vọng hẳng chí chủyng về những khu đất hóa vạm rồi bài thoán dẫn nổ dạm cuy và hình trình thay nổ thóa trời khu vạng của người dân",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.98,
+      "end": 5.98,
+      "text": "và đây là hữu ra vọng bọng",
+      "words": [
+        {
+          "word": "và",
+          "start": 0.98,
+          "end": 1.42,
+          "probability": 0.06
+        },
+        {
+          "word": "đây",
+          "start": 1.42,
+          "end": 1.58,
+          "probability": 0.15
+        },
+        {
+          "word": "là",
+          "start": 1.58,
+          "end": 1.78,
+          "probability": 0.96
+        },
+        {
+          "word": "hữu",
+          "start": 1.78,
+          "end": 2.06,
+          "probability": 0.55
+        },
+        {
+          "word": "ra",
+          "start": 2.06,
+          "end": 2.34,
+          "probability": 0.0
+        },
+        {
+          "word": "vọng",
+          "start": 4.9,
+          "end": 5.44,
+          "probability": 0.42
+        },
+        {
+          "word": "bọng",
+          "start": 5.44,
+          "end": 5.98,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.35,
+      "end": 13.3,
+      "text": "đừng bằng bối kia chụi về hữu về vời",
+      "words": [
+        {
+          "word": "đừng",
+          "start": 7.35,
+          "end": 7.59,
+          "probability": 0.01
+        },
+        {
+          "word": "bằng",
+          "start": 7.59,
+          "end": 7.93,
+          "probability": 0.06
+        },
+        {
+          "word": "bối",
+          "start": 9.88,
+          "end": 11.1,
+          "probability": 0.16
+        },
+        {
+          "word": "kia",
+          "start": 11.1,
+          "end": 11.3,
+          "probability": 0.11
+        },
+        {
+          "word": "chụi",
+          "start": 11.3,
+          "end": 11.44,
+          "probability": 0.21
+        },
+        {
+          "word": "về",
+          "start": 11.44,
+          "end": 11.66,
+          "probability": 0.16
+        },
+        {
+          "word": "hữu",
+          "start": 11.66,
+          "end": 11.9,
+          "probability": 0.35
+        },
+        {
+          "word": "về",
+          "start": 11.9,
+          "end": 11.9,
+          "probability": 0.19
+        },
+        {
+          "word": "vời",
+          "start": 11.9,
+          "end": 13.3,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.3,
+      "end": 14.0,
+      "text": "đừng bỏ",
+      "words": [
+        {
+          "word": "đừng",
+          "start": 13.3,
+          "end": 14.0,
+          "probability": 0.03
+        },
+        {
+          "word": "bỏ",
+          "start": 14.0,
+          "end": 14.0,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.0,
+      "end": 24.28,
+      "text": "chúng ta là nó để xương thay nổi trồng vọng hẳng chí chủyng",
+      "words": [
+        {
+          "word": "chúng",
+          "start": 14.0,
+          "end": 14.54,
+          "probability": 0.01
+        },
+        {
+          "word": "ta",
+          "start": 21.14,
+          "end": 21.58,
+          "probability": 0.95
+        },
+        {
+          "word": "là",
+          "start": 21.58,
+          "end": 21.74,
+          "probability": 0.1
+        },
+        {
+          "word": "nó",
+          "start": 21.74,
+          "end": 21.92,
+          "probability": 0.59
+        },
+        {
+          "word": "để",
+          "start": 21.92,
+          "end": 22.1,
+          "probability": 0.23
+        },
+        {
+          "word": "xương",
+          "start": 22.1,
+          "end": 22.26,
+          "probability": 0.34
+        },
+        {
+          "word": "thay",
+          "start": 22.26,
+          "end": 22.48,
+          "probability": 0.48
+        },
+        {
+          "word": "nổi",
+          "start": 22.48,
+          "end": 22.68,
+          "probability": 0.49
+        },
+        {
+          "word": "trồng",
+          "start": 22.68,
+          "end": 22.94,
+          "probability": 0.46
+        },
+        {
+          "word": "vọng",
+          "start": 22.94,
+          "end": 23.2,
+          "probability": 0.74
+        },
+        {
+          "word": "hẳng",
+          "start": 23.2,
+          "end": 23.42,
+          "probability": 0.32
+        },
+        {
+          "word": "chí",
+          "start": 23.42,
+          "end": 23.56,
+          "probability": 0.13
+        },
+        {
+          "word": "chủyng",
+          "start": 23.56,
+          "end": 24.28,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 24.28,
+      "end": 25.82,
+      "text": "về những khu đất hóa vạm",
+      "words": [
+        {
+          "word": "về",
+          "start": 24.28,
+          "end": 24.42,
+          "probability": 0.23
+        },
+        {
+          "word": "những",
+          "start": 24.42,
+          "end": 24.58,
+          "probability": 0.51
+        },
+        {
+          "word": "khu",
+          "start": 24.58,
+          "end": 24.72,
+          "probability": 0.83
+        },
+        {
+          "word": "đất",
+          "start": 24.72,
+          "end": 24.88,
+          "probability": 0.88
+        },
+        {
+          "word": "hóa",
+          "start": 24.88,
+          "end": 25.18,
+          "probability": 0.61
+        },
+        {
+          "word": "vạm",
+          "start": 25.18,
+          "end": 25.82,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 25.82,
+      "end": 27.66,
+      "text": "rồi bài thoán dẫn nổ dạm cuy",
+      "words": [
+        {
+          "word": "rồi",
+          "start": 25.82,
+          "end": 25.98,
+          "probability": 0.02
+        },
+        {
+          "word": "bài",
+          "start": 25.98,
+          "end": 26.16,
+          "probability": 0.32
+        },
+        {
+          "word": "thoán",
+          "start": 26.16,
+          "end": 26.38,
+          "probability": 0.44
+        },
+        {
+          "word": "dẫn",
+          "start": 26.38,
+          "end": 26.66,
+          "probability": 0.35
+        },
+        {
+          "word": "nổ",
+          "start": 26.66,
+          "end": 26.98,
+          "probability": 0.28
+        },
+        {
+          "word": "dạm",
+          "start": 26.98,
+          "end": 27.26,
+          "probability": 0.46
+        },
+        {
+          "word": "cuy",
+          "start": 27.26,
+          "end": 27.66,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 27.66,
+      "end": 29.7,
+      "text": "và hình trình thay nổ thóa trời khu vạng của người dân",
+      "words": [
+        {
+          "word": "và",
+          "start": 27.66,
+          "end": 27.96,
+          "probability": 0.91
+        },
+        {
+          "word": "hình",
+          "start": 27.96,
+          "end": 28.14,
+          "probability": 0.6
+        },
+        {
+          "word": "trình",
+          "start": 28.14,
+          "end": 28.3,
+          "probability": 0.64
+        },
+        {
+          "word": "thay",
+          "start": 28.3,
+          "end": 28.46,
+          "probability": 0.94
+        },
+        {
+          "word": "nổ",
+          "start": 28.46,
+          "end": 28.58,
+          "probability": 0.67
+        },
+        {
+          "word": "thóa",
+          "start": 28.58,
+          "end": 28.84,
+          "probability": 0.64
+        },
+        {
+          "word": "trời",
+          "start": 28.84,
+          "end": 29.08,
+          "probability": 0.11
+        },
+        {
+          "word": "khu",
+          "start": 29.08,
+          "end": 29.24,
+          "probability": 0.36
+        },
+        {
+          "word": "vạng",
+          "start": 29.24,
+          "end": 29.24,
+          "probability": 0.28
+        },
+        {
+          "word": "của",
+          "start": 29.24,
+          "end": 29.26,
+          "probability": 0.38
+        },
+        {
+          "word": "người",
+          "start": 29.26,
+          "end": 29.44,
+          "probability": 0.7
+        },
+        {
+          "word": "dân",
+          "start": 29.44,
+          "end": 29.7,
+          "probability": 0.4
+        }
+      ]
+    }
+  ]
+}

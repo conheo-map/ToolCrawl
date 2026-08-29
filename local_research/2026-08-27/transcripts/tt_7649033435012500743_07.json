@@ -1,0 +1,622 @@
+{
+  "item_id": "tt_7649033435012500743_07",
+  "duration_seconds": 29.39,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 74,
+  "text": "Rát Rát Chá dị lối Các bạn nhìn bao rát Mình là một hóa bỏng vạc Chá dị lối là Em Mú Chá dị lối Chóc lấy mây giờ Nó gần hà Vì bật ra góc phòng Vào Cây dụng Chông mắt Các đe dựng tích tế Chúng không phòng là Cháu đi kỷ rất phó bệnh bố Sẽ sẽ dọng chí trong vì pham Cháu đi hả em lăng Thế cơ dựng hàu",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.58,
+      "text": "Rát",
+      "words": [
+        {
+          "word": "Rát",
+          "start": 0.0,
+          "end": 0.58,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.48,
+      "end": 2.04,
+      "text": "Rát",
+      "words": [
+        {
+          "word": "Rát",
+          "start": 1.48,
+          "end": 2.04,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.04,
+      "end": 2.78,
+      "text": "Chá dị lối",
+      "words": [
+        {
+          "word": "Chá",
+          "start": 2.04,
+          "end": 2.16,
+          "probability": 0.3
+        },
+        {
+          "word": "dị",
+          "start": 2.16,
+          "end": 2.4,
+          "probability": 0.21
+        },
+        {
+          "word": "lối",
+          "start": 2.4,
+          "end": 2.78,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 2.78,
+      "end": 4.04,
+      "text": "Các bạn nhìn bao rát",
+      "words": [
+        {
+          "word": "Các",
+          "start": 2.78,
+          "end": 3.28,
+          "probability": 0.25
+        },
+        {
+          "word": "bạn",
+          "start": 3.28,
+          "end": 3.6,
+          "probability": 0.05
+        },
+        {
+          "word": "nhìn",
+          "start": 3.6,
+          "end": 3.6,
+          "probability": 0.42
+        },
+        {
+          "word": "bao",
+          "start": 3.6,
+          "end": 3.8,
+          "probability": 0.13
+        },
+        {
+          "word": "rát",
+          "start": 3.8,
+          "end": 4.04,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 4.04,
+      "end": 5.36,
+      "text": "Mình là một hóa bỏng vạc",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 4.04,
+          "end": 4.36,
+          "probability": 0.04
+        },
+        {
+          "word": "là",
+          "start": 4.36,
+          "end": 4.36,
+          "probability": 0.02
+        },
+        {
+          "word": "một",
+          "start": 4.36,
+          "end": 4.5,
+          "probability": 0.07
+        },
+        {
+          "word": "hóa",
+          "start": 4.5,
+          "end": 4.64,
+          "probability": 0.3
+        },
+        {
+          "word": "bỏng",
+          "start": 4.64,
+          "end": 4.76,
+          "probability": 0.21
+        },
+        {
+          "word": "vạc",
+          "start": 4.76,
+          "end": 5.36,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 5.36,
+      "end": 7.16,
+      "text": "Chá dị lối là",
+      "words": [
+        {
+          "word": "Chá",
+          "start": 5.36,
+          "end": 5.94,
+          "probability": 0.41
+        },
+        {
+          "word": "dị",
+          "start": 5.94,
+          "end": 6.76,
+          "probability": 0.78
+        },
+        {
+          "word": "lối",
+          "start": 6.76,
+          "end": 6.88,
+          "probability": 0.91
+        },
+        {
+          "word": "là",
+          "start": 6.88,
+          "end": 7.16,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 7.16,
+      "end": 7.52,
+      "text": "Em",
+      "words": [
+        {
+          "word": "Em",
+          "start": 7.16,
+          "end": 7.52,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 7.52,
+      "end": 8.02,
+      "text": "Mú",
+      "words": [
+        {
+          "word": "Mú",
+          "start": 7.52,
+          "end": 8.02,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 9.46,
+      "end": 10.9,
+      "text": "Chá dị lối",
+      "words": [
+        {
+          "word": "Chá",
+          "start": 9.46,
+          "end": 10.38,
+          "probability": 0.49
+        },
+        {
+          "word": "dị",
+          "start": 10.38,
+          "end": 10.52,
+          "probability": 0.92
+        },
+        {
+          "word": "lối",
+          "start": 10.52,
+          "end": 10.9,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 10.9,
+      "end": 12.16,
+      "text": "Chóc lấy mây giờ",
+      "words": [
+        {
+          "word": "Chóc",
+          "start": 10.9,
+          "end": 11.5,
+          "probability": 0.1
+        },
+        {
+          "word": "lấy",
+          "start": 11.5,
+          "end": 11.6,
+          "probability": 0.18
+        },
+        {
+          "word": "mây",
+          "start": 11.6,
+          "end": 11.8,
+          "probability": 0.4
+        },
+        {
+          "word": "giờ",
+          "start": 11.8,
+          "end": 12.16,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 12.16,
+      "end": 13.14,
+      "text": "Nó gần hà",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 12.16,
+          "end": 12.52,
+          "probability": 0.09
+        },
+        {
+          "word": "gần",
+          "start": 12.52,
+          "end": 12.64,
+          "probability": 0.19
+        },
+        {
+          "word": "hà",
+          "start": 12.64,
+          "end": 13.14,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 13.14,
+      "end": 14.74,
+      "text": "Vì bật ra góc phòng",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 13.14,
+          "end": 13.76,
+          "probability": 0.33
+        },
+        {
+          "word": "bật",
+          "start": 13.76,
+          "end": 14.02,
+          "probability": 0.15
+        },
+        {
+          "word": "ra",
+          "start": 14.02,
+          "end": 14.16,
+          "probability": 0.28
+        },
+        {
+          "word": "góc",
+          "start": 14.16,
+          "end": 14.34,
+          "probability": 0.31
+        },
+        {
+          "word": "phòng",
+          "start": 14.34,
+          "end": 14.74,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 14.74,
+      "end": 15.18,
+      "text": "Vào",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 14.74,
+          "end": 15.18,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 15.18,
+      "end": 16.32,
+      "text": "Cây dụng",
+      "words": [
+        {
+          "word": "Cây",
+          "start": 15.18,
+          "end": 16.06,
+          "probability": 0.2
+        },
+        {
+          "word": "dụng",
+          "start": 16.06,
+          "end": 16.32,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 17.6,
+      "end": 19.34,
+      "text": "Chông mắt",
+      "words": [
+        {
+          "word": "Chông",
+          "start": 17.6,
+          "end": 18.48,
+          "probability": 0.19
+        },
+        {
+          "word": "mắt",
+          "start": 18.48,
+          "end": 19.34,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 19.34,
+      "end": 20.82,
+      "text": "Các đe dựng tích tế",
+      "words": [
+        {
+          "word": "Các",
+          "start": 19.34,
+          "end": 19.6,
+          "probability": 0.2
+        },
+        {
+          "word": "đe",
+          "start": 19.6,
+          "end": 19.82,
+          "probability": 0.13
+        },
+        {
+          "word": "dựng",
+          "start": 19.82,
+          "end": 20.14,
+          "probability": 0.29
+        },
+        {
+          "word": "tích",
+          "start": 20.14,
+          "end": 20.3,
+          "probability": 0.16
+        },
+        {
+          "word": "tế",
+          "start": 20.3,
+          "end": 20.82,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 20.82,
+      "end": 22.08,
+      "text": "Chúng không phòng là",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 20.82,
+          "end": 21.36,
+          "probability": 0.07
+        },
+        {
+          "word": "không",
+          "start": 21.36,
+          "end": 21.44,
+          "probability": 0.19
+        },
+        {
+          "word": "phòng",
+          "start": 21.44,
+          "end": 21.74,
+          "probability": 0.44
+        },
+        {
+          "word": "là",
+          "start": 21.74,
+          "end": 22.08,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 22.08,
+      "end": 23.96,
+      "text": "Cháu đi kỷ rất phó bệnh bố",
+      "words": [
+        {
+          "word": "Cháu",
+          "start": 22.08,
+          "end": 22.34,
+          "probability": 0.36
+        },
+        {
+          "word": "đi",
+          "start": 22.34,
+          "end": 22.4,
+          "probability": 0.07
+        },
+        {
+          "word": "kỷ",
+          "start": 22.4,
+          "end": 22.6,
+          "probability": 0.37
+        },
+        {
+          "word": "rất",
+          "start": 22.6,
+          "end": 22.86,
+          "probability": 0.08
+        },
+        {
+          "word": "phó",
+          "start": 22.86,
+          "end": 23.1,
+          "probability": 0.43
+        },
+        {
+          "word": "bệnh",
+          "start": 23.1,
+          "end": 23.68,
+          "probability": 0.36
+        },
+        {
+          "word": "bố",
+          "start": 23.68,
+          "end": 23.96,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 23.96,
+      "end": 25.9,
+      "text": "Sẽ sẽ dọng chí trong vì pham",
+      "words": [
+        {
+          "word": "Sẽ",
+          "start": 23.96,
+          "end": 24.16,
+          "probability": 0.04
+        },
+        {
+          "word": "sẽ",
+          "start": 24.16,
+          "end": 24.36,
+          "probability": 0.24
+        },
+        {
+          "word": "dọng",
+          "start": 24.36,
+          "end": 24.78,
+          "probability": 0.23
+        },
+        {
+          "word": "chí",
+          "start": 24.78,
+          "end": 24.98,
+          "probability": 0.12
+        },
+        {
+          "word": "trong",
+          "start": 24.98,
+          "end": 25.06,
+          "probability": 0.31
+        },
+        {
+          "word": "vì",
+          "start": 25.06,
+          "end": 25.26,
+          "probability": 0.1
+        },
+        {
+          "word": "pham",
+          "start": 25.26,
+          "end": 25.9,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 25.9,
+      "end": 27.54,
+      "text": "Cháu đi hả em lăng",
+      "words": [
+        {
+          "word": "Cháu",
+          "start": 25.9,
+          "end": 26.56,
+          "probability": 0.46
+        },
+        {
+          "word": "đi",
+          "start": 26.56,
+          "end": 26.56,
+          "probability": 0.23
+        },
+        {
+          "word": "hả",
+          "start": 26.56,
+          "end": 27.12,
+          "probability": 0.05
+        },
+        {
+          "word": "em",
+          "start": 27.12,
+          "end": 27.32,
+          "probability": 0.11
+        },
+        {
+          "word": "lăng",
+          "start": 27.32,
+          "end": 27.54,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 27.54,
+      "end": 28.98,
+      "text": "Thế cơ dựng hàu",
+      "words": [
+        {
+          "word": "Thế",
+          "start": 27.54,
+          "end": 28.24,
+          "probability": 0.29
+        },
+        {
+          "word": "cơ",
+          "start": 28.24,
+          "end": 28.38,
+          "probability": 0.14
+        },
+        {
+          "word": "dựng",
+          "start": 28.38,
+          "end": 28.56,
+          "probability": 0.5
+        },
+        {
+          "word": "hàu",
+          "start": 28.56,
+          "end": 28.98,
+          "probability": 0.71
+        }
+      ]
+    }
+  ]
+}

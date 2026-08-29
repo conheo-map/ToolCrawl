@@ -1,0 +1,614 @@
+{
+  "item_id": "tt_7661498192437038357_10",
+  "duration_seconds": 26.01,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 94,
+  "text": "chưa phải là mình xấu chốt cuối cùng để bạn có thể chúng tính vào nền A vào chường A mà các bạn thấy đợi xấu mùi bông mùi bảy giờ của hề mùi bông hát bảy ở tất cả các trường đã nhận này đủ xấu lần họ xấu khi xấu của chúng ta đang ký xếp bảy in các trường sẽ tính hình lọc áo và tính hình xếp bảy khi lúc này, các trường cầm bố đến chúng tính tệ mới thật xử lạc mùi con xấu để các bạn xem",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.9,
+      "text": "chưa phải là mình xấu chốt cuối cùng để bạn có thể chúng tính vào nền A vào chường A",
+      "words": [
+        {
+          "word": "chưa",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.21
+        },
+        {
+          "word": "phải",
+          "start": 0.44,
+          "end": 0.9,
+          "probability": 0.97
+        },
+        {
+          "word": "là",
+          "start": 0.9,
+          "end": 1.2,
+          "probability": 0.84
+        },
+        {
+          "word": "mình",
+          "start": 1.2,
+          "end": 1.46,
+          "probability": 0.1
+        },
+        {
+          "word": "xấu",
+          "start": 1.46,
+          "end": 1.72,
+          "probability": 0.37
+        },
+        {
+          "word": "chốt",
+          "start": 1.72,
+          "end": 2.06,
+          "probability": 0.47
+        },
+        {
+          "word": "cuối",
+          "start": 2.06,
+          "end": 2.34,
+          "probability": 0.67
+        },
+        {
+          "word": "cùng",
+          "start": 2.34,
+          "end": 2.52,
+          "probability": 0.98
+        },
+        {
+          "word": "để",
+          "start": 2.52,
+          "end": 2.74,
+          "probability": 0.91
+        },
+        {
+          "word": "bạn",
+          "start": 2.74,
+          "end": 3.0,
+          "probability": 0.51
+        },
+        {
+          "word": "có",
+          "start": 3.0,
+          "end": 3.24,
+          "probability": 0.97
+        },
+        {
+          "word": "thể",
+          "start": 3.24,
+          "end": 3.52,
+          "probability": 0.84
+        },
+        {
+          "word": "chúng",
+          "start": 3.52,
+          "end": 3.74,
+          "probability": 0.53
+        },
+        {
+          "word": "tính",
+          "start": 3.74,
+          "end": 3.94,
+          "probability": 0.34
+        },
+        {
+          "word": "vào",
+          "start": 3.94,
+          "end": 4.14,
+          "probability": 0.97
+        },
+        {
+          "word": "nền",
+          "start": 4.14,
+          "end": 4.44,
+          "probability": 0.32
+        },
+        {
+          "word": "A",
+          "start": 4.44,
+          "end": 4.82,
+          "probability": 0.4
+        },
+        {
+          "word": "vào",
+          "start": 4.82,
+          "end": 5.24,
+          "probability": 0.68
+        },
+        {
+          "word": "chường",
+          "start": 5.24,
+          "end": 5.5,
+          "probability": 0.39
+        },
+        {
+          "word": "A",
+          "start": 5.5,
+          "end": 5.9,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.9,
+      "end": 10.46,
+      "text": "mà các bạn thấy đợi xấu mùi bông mùi bảy giờ của hề mùi bông hát bảy",
+      "words": [
+        {
+          "word": "mà",
+          "start": 5.9,
+          "end": 6.3,
+          "probability": 0.78
+        },
+        {
+          "word": "các",
+          "start": 6.3,
+          "end": 6.46,
+          "probability": 0.92
+        },
+        {
+          "word": "bạn",
+          "start": 6.46,
+          "end": 6.66,
+          "probability": 1.0
+        },
+        {
+          "word": "thấy",
+          "start": 6.66,
+          "end": 6.9,
+          "probability": 0.37
+        },
+        {
+          "word": "đợi",
+          "start": 6.9,
+          "end": 7.2,
+          "probability": 0.63
+        },
+        {
+          "word": "xấu",
+          "start": 7.2,
+          "end": 7.56,
+          "probability": 0.77
+        },
+        {
+          "word": "mùi",
+          "start": 7.56,
+          "end": 7.96,
+          "probability": 0.47
+        },
+        {
+          "word": "bông",
+          "start": 7.96,
+          "end": 8.22,
+          "probability": 0.24
+        },
+        {
+          "word": "mùi",
+          "start": 8.22,
+          "end": 8.54,
+          "probability": 0.68
+        },
+        {
+          "word": "bảy",
+          "start": 8.54,
+          "end": 8.88,
+          "probability": 0.33
+        },
+        {
+          "word": "giờ",
+          "start": 8.88,
+          "end": 9.02,
+          "probability": 0.19
+        },
+        {
+          "word": "của",
+          "start": 9.02,
+          "end": 9.14,
+          "probability": 0.86
+        },
+        {
+          "word": "hề",
+          "start": 9.14,
+          "end": 9.36,
+          "probability": 0.3
+        },
+        {
+          "word": "mùi",
+          "start": 9.36,
+          "end": 9.46,
+          "probability": 0.94
+        },
+        {
+          "word": "bông",
+          "start": 9.46,
+          "end": 9.66,
+          "probability": 0.97
+        },
+        {
+          "word": "hát",
+          "start": 9.66,
+          "end": 9.84,
+          "probability": 0.32
+        },
+        {
+          "word": "bảy",
+          "start": 9.84,
+          "end": 10.46,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.46,
+      "end": 15.76,
+      "text": "ở tất cả các trường đã nhận này đủ xấu lần họ xấu khi xấu của chúng ta đang ký xếp bảy in các trường",
+      "words": [
+        {
+          "word": "ở",
+          "start": 10.46,
+          "end": 10.74,
+          "probability": 0.23
+        },
+        {
+          "word": "tất",
+          "start": 10.74,
+          "end": 10.9,
+          "probability": 0.8
+        },
+        {
+          "word": "cả",
+          "start": 10.9,
+          "end": 11.14,
+          "probability": 0.94
+        },
+        {
+          "word": "các",
+          "start": 11.14,
+          "end": 11.38,
+          "probability": 0.56
+        },
+        {
+          "word": "trường",
+          "start": 11.38,
+          "end": 11.66,
+          "probability": 0.6
+        },
+        {
+          "word": "đã",
+          "start": 11.66,
+          "end": 11.92,
+          "probability": 0.24
+        },
+        {
+          "word": "nhận",
+          "start": 11.92,
+          "end": 12.18,
+          "probability": 0.95
+        },
+        {
+          "word": "này",
+          "start": 12.18,
+          "end": 12.38,
+          "probability": 0.49
+        },
+        {
+          "word": "đủ",
+          "start": 12.38,
+          "end": 12.72,
+          "probability": 0.49
+        },
+        {
+          "word": "xấu",
+          "start": 12.72,
+          "end": 12.96,
+          "probability": 0.78
+        },
+        {
+          "word": "lần",
+          "start": 12.96,
+          "end": 13.14,
+          "probability": 0.54
+        },
+        {
+          "word": "họ",
+          "start": 13.14,
+          "end": 13.38,
+          "probability": 0.39
+        },
+        {
+          "word": "xấu",
+          "start": 13.38,
+          "end": 13.56,
+          "probability": 0.4
+        },
+        {
+          "word": "khi",
+          "start": 13.56,
+          "end": 13.72,
+          "probability": 0.22
+        },
+        {
+          "word": "xấu",
+          "start": 13.72,
+          "end": 13.86,
+          "probability": 0.32
+        },
+        {
+          "word": "của",
+          "start": 13.86,
+          "end": 14.04,
+          "probability": 0.16
+        },
+        {
+          "word": "chúng",
+          "start": 14.04,
+          "end": 14.26,
+          "probability": 0.97
+        },
+        {
+          "word": "ta",
+          "start": 14.26,
+          "end": 14.34,
+          "probability": 0.97
+        },
+        {
+          "word": "đang",
+          "start": 14.34,
+          "end": 14.52,
+          "probability": 0.66
+        },
+        {
+          "word": "ký",
+          "start": 14.52,
+          "end": 14.7,
+          "probability": 0.49
+        },
+        {
+          "word": "xếp",
+          "start": 14.7,
+          "end": 14.86,
+          "probability": 0.75
+        },
+        {
+          "word": "bảy",
+          "start": 14.86,
+          "end": 15.08,
+          "probability": 0.67
+        },
+        {
+          "word": "in",
+          "start": 15.08,
+          "end": 15.14,
+          "probability": 0.11
+        },
+        {
+          "word": "các",
+          "start": 15.14,
+          "end": 15.32,
+          "probability": 0.6
+        },
+        {
+          "word": "trường",
+          "start": 15.32,
+          "end": 15.76,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.76,
+      "end": 18.3,
+      "text": "sẽ tính hình lọc áo và tính hình xếp bảy",
+      "words": [
+        {
+          "word": "sẽ",
+          "start": 15.76,
+          "end": 16.06,
+          "probability": 0.51
+        },
+        {
+          "word": "tính",
+          "start": 16.06,
+          "end": 16.22,
+          "probability": 0.57
+        },
+        {
+          "word": "hình",
+          "start": 16.22,
+          "end": 16.42,
+          "probability": 0.59
+        },
+        {
+          "word": "lọc",
+          "start": 16.42,
+          "end": 16.68,
+          "probability": 0.48
+        },
+        {
+          "word": "áo",
+          "start": 16.68,
+          "end": 16.96,
+          "probability": 0.69
+        },
+        {
+          "word": "và",
+          "start": 16.96,
+          "end": 17.28,
+          "probability": 0.25
+        },
+        {
+          "word": "tính",
+          "start": 17.28,
+          "end": 17.6,
+          "probability": 0.87
+        },
+        {
+          "word": "hình",
+          "start": 17.6,
+          "end": 17.86,
+          "probability": 0.86
+        },
+        {
+          "word": "xếp",
+          "start": 17.86,
+          "end": 18.08,
+          "probability": 0.78
+        },
+        {
+          "word": "bảy",
+          "start": 18.08,
+          "end": 18.3,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 18.3,
+      "end": 25.86,
+      "text": "khi lúc này, các trường cầm bố đến chúng tính tệ mới thật xử lạc mùi con xấu để các bạn xem",
+      "words": [
+        {
+          "word": "khi",
+          "start": 18.3,
+          "end": 19.2,
+          "probability": 0.14
+        },
+        {
+          "word": "lúc",
+          "start": 19.2,
+          "end": 19.46,
+          "probability": 0.61
+        },
+        {
+          "word": "này,",
+          "start": 19.46,
+          "end": 19.82,
+          "probability": 0.83
+        },
+        {
+          "word": "các",
+          "start": 19.88,
+          "end": 20.36,
+          "probability": 0.91
+        },
+        {
+          "word": "trường",
+          "start": 20.36,
+          "end": 20.6,
+          "probability": 0.92
+        },
+        {
+          "word": "cầm",
+          "start": 20.6,
+          "end": 20.86,
+          "probability": 0.52
+        },
+        {
+          "word": "bố",
+          "start": 20.86,
+          "end": 21.06,
+          "probability": 0.69
+        },
+        {
+          "word": "đến",
+          "start": 21.06,
+          "end": 21.38,
+          "probability": 0.49
+        },
+        {
+          "word": "chúng",
+          "start": 21.38,
+          "end": 21.64,
+          "probability": 0.56
+        },
+        {
+          "word": "tính",
+          "start": 21.64,
+          "end": 21.94,
+          "probability": 0.56
+        },
+        {
+          "word": "tệ",
+          "start": 21.94,
+          "end": 22.06,
+          "probability": 0.58
+        },
+        {
+          "word": "mới",
+          "start": 22.06,
+          "end": 22.32,
+          "probability": 0.93
+        },
+        {
+          "word": "thật",
+          "start": 22.32,
+          "end": 22.58,
+          "probability": 0.62
+        },
+        {
+          "word": "xử",
+          "start": 22.58,
+          "end": 22.8,
+          "probability": 0.26
+        },
+        {
+          "word": "lạc",
+          "start": 22.8,
+          "end": 23.16,
+          "probability": 0.6
+        },
+        {
+          "word": "mùi",
+          "start": 23.16,
+          "end": 23.36,
+          "probability": 0.87
+        },
+        {
+          "word": "con",
+          "start": 23.36,
+          "end": 23.64,
+          "probability": 0.47
+        },
+        {
+          "word": "xấu",
+          "start": 23.64,
+          "end": 24.14,
+          "probability": 0.93
+        },
+        {
+          "word": "để",
+          "start": 24.14,
+          "end": 24.58,
+          "probability": 0.77
+        },
+        {
+          "word": "các",
+          "start": 24.58,
+          "end": 25.0,
+          "probability": 0.7
+        },
+        {
+          "word": "bạn",
+          "start": 25.0,
+          "end": 25.46,
+          "probability": 0.99
+        },
+        {
+          "word": "xem",
+          "start": 25.46,
+          "end": 25.86,
+          "probability": 0.76
+        }
+      ]
+    }
+  ]
+}

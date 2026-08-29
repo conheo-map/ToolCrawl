@@ -1,0 +1,456 @@
+{
+  "item_id": "tt_7661498221293800724_01",
+  "duration_seconds": 29.38,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 69,
+  "text": "Tôi chỉ phần lớn các bạn đã có cái mức định là chúng ta đặc tối ra người ta người bỏng của người bỏng ngọt của người con khai của bà. Tất cả những thế nào rồi. Tôi nghĩa người ta sẽ cân nhắc và chúng ta sẽ xem sẽ bị người ta có thể được kính. Và tôi cũng để để những người bỏng là đứa được kính.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 9.0,
+      "text": "Tôi chỉ phần lớn các bạn đã có cái mức định là chúng ta đặc tối ra người ta người bỏng của người bỏng ngọt của người con khai của bà.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.08
+        },
+        {
+          "word": "chỉ",
+          "start": 0.32,
+          "end": 0.66,
+          "probability": 0.21
+        },
+        {
+          "word": "phần",
+          "start": 0.66,
+          "end": 1.24,
+          "probability": 0.54
+        },
+        {
+          "word": "lớn",
+          "start": 1.24,
+          "end": 1.44,
+          "probability": 0.98
+        },
+        {
+          "word": "các",
+          "start": 1.44,
+          "end": 1.66,
+          "probability": 0.22
+        },
+        {
+          "word": "bạn",
+          "start": 1.66,
+          "end": 1.9,
+          "probability": 0.72
+        },
+        {
+          "word": "đã",
+          "start": 1.9,
+          "end": 2.98,
+          "probability": 0.46
+        },
+        {
+          "word": "có",
+          "start": 2.98,
+          "end": 3.38,
+          "probability": 0.94
+        },
+        {
+          "word": "cái",
+          "start": 3.38,
+          "end": 3.58,
+          "probability": 0.25
+        },
+        {
+          "word": "mức",
+          "start": 3.58,
+          "end": 3.76,
+          "probability": 0.2
+        },
+        {
+          "word": "định",
+          "start": 3.76,
+          "end": 4.18,
+          "probability": 0.86
+        },
+        {
+          "word": "là",
+          "start": 4.18,
+          "end": 4.34,
+          "probability": 0.22
+        },
+        {
+          "word": "chúng",
+          "start": 4.34,
+          "end": 4.46,
+          "probability": 0.67
+        },
+        {
+          "word": "ta",
+          "start": 4.46,
+          "end": 4.58,
+          "probability": 1.0
+        },
+        {
+          "word": "đặc",
+          "start": 4.58,
+          "end": 4.98,
+          "probability": 0.71
+        },
+        {
+          "word": "tối",
+          "start": 4.98,
+          "end": 5.56,
+          "probability": 0.37
+        },
+        {
+          "word": "ra",
+          "start": 5.56,
+          "end": 5.7,
+          "probability": 0.46
+        },
+        {
+          "word": "người",
+          "start": 5.7,
+          "end": 5.86,
+          "probability": 0.72
+        },
+        {
+          "word": "ta",
+          "start": 5.86,
+          "end": 5.96,
+          "probability": 0.25
+        },
+        {
+          "word": "người",
+          "start": 5.96,
+          "end": 6.12,
+          "probability": 0.66
+        },
+        {
+          "word": "bỏng",
+          "start": 6.12,
+          "end": 6.4,
+          "probability": 0.27
+        },
+        {
+          "word": "của",
+          "start": 6.4,
+          "end": 6.98,
+          "probability": 0.87
+        },
+        {
+          "word": "người",
+          "start": 6.98,
+          "end": 7.06,
+          "probability": 0.12
+        },
+        {
+          "word": "bỏng",
+          "start": 7.06,
+          "end": 7.22,
+          "probability": 0.76
+        },
+        {
+          "word": "ngọt",
+          "start": 7.22,
+          "end": 7.44,
+          "probability": 0.75
+        },
+        {
+          "word": "của",
+          "start": 7.44,
+          "end": 7.58,
+          "probability": 0.98
+        },
+        {
+          "word": "người",
+          "start": 7.58,
+          "end": 7.8,
+          "probability": 0.44
+        },
+        {
+          "word": "con",
+          "start": 7.8,
+          "end": 7.8,
+          "probability": 0.12
+        },
+        {
+          "word": "khai",
+          "start": 7.8,
+          "end": 7.96,
+          "probability": 0.72
+        },
+        {
+          "word": "của",
+          "start": 7.96,
+          "end": 8.1,
+          "probability": 0.6
+        },
+        {
+          "word": "bà.",
+          "start": 8.1,
+          "end": 9.0,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 9.16,
+      "end": 10.6,
+      "text": "Tất cả những thế nào rồi.",
+      "words": [
+        {
+          "word": "Tất",
+          "start": 9.16,
+          "end": 9.32,
+          "probability": 0.59
+        },
+        {
+          "word": "cả",
+          "start": 9.32,
+          "end": 9.4,
+          "probability": 0.93
+        },
+        {
+          "word": "những",
+          "start": 9.4,
+          "end": 9.54,
+          "probability": 0.1
+        },
+        {
+          "word": "thế",
+          "start": 9.54,
+          "end": 9.76,
+          "probability": 0.61
+        },
+        {
+          "word": "nào",
+          "start": 9.76,
+          "end": 9.88,
+          "probability": 0.85
+        },
+        {
+          "word": "rồi.",
+          "start": 9.88,
+          "end": 10.6,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.72,
+      "end": 17.0,
+      "text": "Tôi nghĩa người ta sẽ cân nhắc và chúng ta sẽ xem sẽ bị người ta có thể được kính.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 10.72,
+          "end": 10.84,
+          "probability": 0.19
+        },
+        {
+          "word": "nghĩa",
+          "start": 10.84,
+          "end": 11.14,
+          "probability": 0.38
+        },
+        {
+          "word": "người",
+          "start": 11.14,
+          "end": 11.16,
+          "probability": 0.28
+        },
+        {
+          "word": "ta",
+          "start": 11.16,
+          "end": 13.12,
+          "probability": 0.25
+        },
+        {
+          "word": "sẽ",
+          "start": 13.12,
+          "end": 13.48,
+          "probability": 0.38
+        },
+        {
+          "word": "cân",
+          "start": 13.48,
+          "end": 13.8,
+          "probability": 0.16
+        },
+        {
+          "word": "nhắc",
+          "start": 13.8,
+          "end": 14.1,
+          "probability": 0.68
+        },
+        {
+          "word": "và",
+          "start": 14.1,
+          "end": 14.62,
+          "probability": 0.57
+        },
+        {
+          "word": "chúng",
+          "start": 14.62,
+          "end": 14.8,
+          "probability": 0.95
+        },
+        {
+          "word": "ta",
+          "start": 14.8,
+          "end": 15.08,
+          "probability": 1.0
+        },
+        {
+          "word": "sẽ",
+          "start": 15.08,
+          "end": 15.38,
+          "probability": 1.0
+        },
+        {
+          "word": "xem",
+          "start": 15.38,
+          "end": 15.66,
+          "probability": 0.48
+        },
+        {
+          "word": "sẽ",
+          "start": 15.66,
+          "end": 15.84,
+          "probability": 0.18
+        },
+        {
+          "word": "bị",
+          "start": 15.84,
+          "end": 16.0,
+          "probability": 0.12
+        },
+        {
+          "word": "người",
+          "start": 16.0,
+          "end": 16.1,
+          "probability": 0.11
+        },
+        {
+          "word": "ta",
+          "start": 16.1,
+          "end": 16.1,
+          "probability": 1.0
+        },
+        {
+          "word": "có",
+          "start": 16.1,
+          "end": 16.24,
+          "probability": 0.92
+        },
+        {
+          "word": "thể",
+          "start": 16.24,
+          "end": 16.32,
+          "probability": 0.88
+        },
+        {
+          "word": "được",
+          "start": 16.32,
+          "end": 16.52,
+          "probability": 0.46
+        },
+        {
+          "word": "kính.",
+          "start": 16.52,
+          "end": 17.0,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 18.24,
+      "end": 21.22,
+      "text": "Và tôi cũng để để những người bỏng là đứa được kính.",
+      "words": [
+        {
+          "word": "Và",
+          "start": 18.24,
+          "end": 18.64,
+          "probability": 0.18
+        },
+        {
+          "word": "tôi",
+          "start": 18.64,
+          "end": 19.04,
+          "probability": 0.88
+        },
+        {
+          "word": "cũng",
+          "start": 19.04,
+          "end": 19.26,
+          "probability": 0.9
+        },
+        {
+          "word": "để",
+          "start": 19.26,
+          "end": 19.4,
+          "probability": 0.21
+        },
+        {
+          "word": "để",
+          "start": 19.4,
+          "end": 19.58,
+          "probability": 0.18
+        },
+        {
+          "word": "những",
+          "start": 19.58,
+          "end": 19.72,
+          "probability": 0.11
+        },
+        {
+          "word": "người",
+          "start": 19.72,
+          "end": 19.86,
+          "probability": 0.31
+        },
+        {
+          "word": "bỏng",
+          "start": 19.86,
+          "end": 20.56,
+          "probability": 0.53
+        },
+        {
+          "word": "là",
+          "start": 20.56,
+          "end": 20.68,
+          "probability": 0.6
+        },
+        {
+          "word": "đứa",
+          "start": 20.68,
+          "end": 20.78,
+          "probability": 0.46
+        },
+        {
+          "word": "được",
+          "start": 20.78,
+          "end": 21.04,
+          "probability": 0.27
+        },
+        {
+          "word": "kính.",
+          "start": 21.04,
+          "end": 21.22,
+          "probability": 0.95
+        }
+      ]
+    }
+  ]
+}

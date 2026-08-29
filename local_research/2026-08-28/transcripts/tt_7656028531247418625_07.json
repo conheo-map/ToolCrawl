@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7656028531247418625_07",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Bây giờ mình đi!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.34,
+      "end": 0.74,
+      "text": "Bây giờ mình đi!",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 0.34,
+          "end": 0.44,
+          "probability": 0.13
+        },
+        {
+          "word": "giờ",
+          "start": 0.44,
+          "end": 0.48,
+          "probability": 0.89
+        },
+        {
+          "word": "mình",
+          "start": 0.48,
+          "end": 0.74,
+          "probability": 0.17
+        },
+        {
+          "word": "đi!",
+          "start": 0.74,
+          "end": 0.74,
+          "probability": 0.05
+        }
+      ]
+    }
+  ]
+}

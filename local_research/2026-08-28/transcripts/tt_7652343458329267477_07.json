@@ -1,0 +1,440 @@
+{
+  "item_id": "tt_7652343458329267477_07",
+  "duration_seconds": 28.12,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 57,
+  "text": "Thái dưỡng đặt trình trái cái trình x dưỡng Thái dưỡng Thái cơm Được được được được được Vô cái trình trình x dưỡng Mà thật sợ lần mạc thái Thái nơi là cái trình lúc Nên lúc được trế mà Thật hình x dưỡng Thật hình x dưỡng đặt cái vô tài nắng nó Hủ thái",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Thái dưỡng đặt trình trái cái trình x dưỡng",
+      "words": [
+        {
+          "word": "Thái",
+          "start": 0.0,
+          "end": 0.48,
+          "probability": 0.26
+        },
+        {
+          "word": "dưỡng",
+          "start": 0.48,
+          "end": 0.8,
+          "probability": 0.46
+        },
+        {
+          "word": "đặt",
+          "start": 0.8,
+          "end": 0.88,
+          "probability": 0.37
+        },
+        {
+          "word": "trình",
+          "start": 0.88,
+          "end": 1.08,
+          "probability": 0.25
+        },
+        {
+          "word": "trái",
+          "start": 1.08,
+          "end": 1.32,
+          "probability": 0.25
+        },
+        {
+          "word": "cái",
+          "start": 1.32,
+          "end": 1.48,
+          "probability": 0.61
+        },
+        {
+          "word": "trình",
+          "start": 1.48,
+          "end": 1.78,
+          "probability": 0.61
+        },
+        {
+          "word": "x",
+          "start": 1.78,
+          "end": 2.42,
+          "probability": 0.24
+        },
+        {
+          "word": "dưỡng",
+          "start": 2.42,
+          "end": 3.04,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.04,
+      "end": 3.84,
+      "text": "Thái dưỡng",
+      "words": [
+        {
+          "word": "Thái",
+          "start": 3.04,
+          "end": 3.26,
+          "probability": 0.5
+        },
+        {
+          "word": "dưỡng",
+          "start": 3.26,
+          "end": 3.84,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.84,
+      "end": 5.02,
+      "text": "Thái cơm",
+      "words": [
+        {
+          "word": "Thái",
+          "start": 3.84,
+          "end": 4.04,
+          "probability": 0.5
+        },
+        {
+          "word": "cơm",
+          "start": 4.04,
+          "end": 5.02,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.02,
+      "end": 9.61,
+      "text": "Được được được được được",
+      "words": [
+        {
+          "word": "Được",
+          "start": 5.02,
+          "end": 5.26,
+          "probability": 0.33
+        },
+        {
+          "word": "được",
+          "start": 5.26,
+          "end": 5.4,
+          "probability": 0.11
+        },
+        {
+          "word": "được",
+          "start": 5.4,
+          "end": 5.6,
+          "probability": 0.11
+        },
+        {
+          "word": "được",
+          "start": 9.47,
+          "end": 9.53,
+          "probability": 0.16
+        },
+        {
+          "word": "được",
+          "start": 9.53,
+          "end": 9.61,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.61,
+      "end": 11.21,
+      "text": "Vô cái trình trình x dưỡng",
+      "words": [
+        {
+          "word": "Vô",
+          "start": 9.61,
+          "end": 9.77,
+          "probability": 0.18
+        },
+        {
+          "word": "cái",
+          "start": 9.77,
+          "end": 9.99,
+          "probability": 0.4
+        },
+        {
+          "word": "trình",
+          "start": 9.99,
+          "end": 10.19,
+          "probability": 0.98
+        },
+        {
+          "word": "trình",
+          "start": 10.19,
+          "end": 10.41,
+          "probability": 0.87
+        },
+        {
+          "word": "x",
+          "start": 10.41,
+          "end": 10.75,
+          "probability": 0.57
+        },
+        {
+          "word": "dưỡng",
+          "start": 10.75,
+          "end": 11.21,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.21,
+      "end": 17.06,
+      "text": "Mà thật sợ lần mạc thái",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 11.21,
+          "end": 11.37,
+          "probability": 0.28
+        },
+        {
+          "word": "thật",
+          "start": 11.37,
+          "end": 11.57,
+          "probability": 0.55
+        },
+        {
+          "word": "sợ",
+          "start": 11.57,
+          "end": 11.77,
+          "probability": 0.34
+        },
+        {
+          "word": "lần",
+          "start": 11.77,
+          "end": 11.99,
+          "probability": 0.19
+        },
+        {
+          "word": "mạc",
+          "start": 11.99,
+          "end": 12.87,
+          "probability": 0.1
+        },
+        {
+          "word": "thái",
+          "start": 16.94,
+          "end": 17.06,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 17.06,
+      "end": 18.24,
+      "text": "Thái nơi là cái trình lúc",
+      "words": [
+        {
+          "word": "Thái",
+          "start": 17.06,
+          "end": 17.16,
+          "probability": 0.5
+        },
+        {
+          "word": "nơi",
+          "start": 17.16,
+          "end": 17.36,
+          "probability": 0.28
+        },
+        {
+          "word": "là",
+          "start": 17.36,
+          "end": 17.48,
+          "probability": 0.85
+        },
+        {
+          "word": "cái",
+          "start": 17.48,
+          "end": 17.64,
+          "probability": 0.23
+        },
+        {
+          "word": "trình",
+          "start": 17.64,
+          "end": 17.78,
+          "probability": 0.32
+        },
+        {
+          "word": "lúc",
+          "start": 17.78,
+          "end": 18.24,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 18.24,
+      "end": 19.68,
+      "text": "Nên lúc được trế mà",
+      "words": [
+        {
+          "word": "Nên",
+          "start": 18.24,
+          "end": 18.54,
+          "probability": 0.17
+        },
+        {
+          "word": "lúc",
+          "start": 18.54,
+          "end": 18.76,
+          "probability": 0.42
+        },
+        {
+          "word": "được",
+          "start": 18.76,
+          "end": 18.96,
+          "probability": 0.32
+        },
+        {
+          "word": "trế",
+          "start": 18.96,
+          "end": 19.2,
+          "probability": 0.3
+        },
+        {
+          "word": "mà",
+          "start": 19.2,
+          "end": 19.68,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 22.36,
+      "end": 23.34,
+      "text": "Thật hình x dưỡng",
+      "words": [
+        {
+          "word": "Thật",
+          "start": 22.36,
+          "end": 22.66,
+          "probability": 0.11
+        },
+        {
+          "word": "hình",
+          "start": 22.66,
+          "end": 23.26,
+          "probability": 0.19
+        },
+        {
+          "word": "x",
+          "start": 23.26,
+          "end": 23.34,
+          "probability": 0.04
+        },
+        {
+          "word": "dưỡng",
+          "start": 23.34,
+          "end": 23.34,
+          "probability": 0.79
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 23.34,
+      "end": 27.17,
+      "text": "Thật hình x dưỡng đặt cái vô tài nắng nó",
+      "words": [
+        {
+          "word": "Thật",
+          "start": 23.34,
+          "end": 23.58,
+          "probability": 0.02
+        },
+        {
+          "word": "hình",
+          "start": 23.58,
+          "end": 23.58,
+          "probability": 0.88
+        },
+        {
+          "word": "x",
+          "start": 23.58,
+          "end": 23.74,
+          "probability": 0.38
+        },
+        {
+          "word": "dưỡng",
+          "start": 23.74,
+          "end": 23.74,
+          "probability": 0.93
+        },
+        {
+          "word": "đặt",
+          "start": 23.74,
+          "end": 23.96,
+          "probability": 0.1
+        },
+        {
+          "word": "cái",
+          "start": 25.95,
+          "end": 26.11,
+          "probability": 0.04
+        },
+        {
+          "word": "vô",
+          "start": 26.11,
+          "end": 26.29,
+          "probability": 0.28
+        },
+        {
+          "word": "tài",
+          "start": 26.29,
+          "end": 26.47,
+          "probability": 0.13
+        },
+        {
+          "word": "nắng",
+          "start": 26.47,
+          "end": 26.87,
+          "probability": 0.21
+        },
+        {
+          "word": "nó",
+          "start": 26.87,
+          "end": 27.17,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 27.17,
+      "end": 27.85,
+      "text": "Hủ thái",
+      "words": [
+        {
+          "word": "Hủ",
+          "start": 27.17,
+          "end": 27.43,
+          "probability": 0.17
+        },
+        {
+          "word": "thái",
+          "start": 27.43,
+          "end": 27.85,
+          "probability": 0.72
+        }
+      ]
+    }
+  ]
+}

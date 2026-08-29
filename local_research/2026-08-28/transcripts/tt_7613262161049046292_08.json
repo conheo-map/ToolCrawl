@@ -1,0 +1,710 @@
+{
+  "item_id": "tt_7613262161049046292_08",
+  "duration_seconds": 28.39,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 106,
+  "text": "Nình phương đe, đi, cho nó gửi nó cân mà hạt quay này. Êc mặt này mà, vậy thì kêu í mà, dở nó gọi người quay người tùng, vậy thì kêu í. Mình bí nhằm về tích phân từ í không đến bốn của gửi mình phương nó là tảm, phần năm. Nhanh bởi í, í, í, trả, bỏ truyền trận rất là tốt. Nhanh, mắm, tảm và năm, bởi í mình phương trên ai. Tật này í không đến bốn. Nhi vạc đa bằng gì? Bốn phần năm, bởi, nhanh bởi, bởi, bởi sáo chữ đi, í không đến phương. Đó miếm vào không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 3.35,
+      "text": "Nình phương đe, đi, cho nó gửi nó cân mà hạt quay này.",
+      "words": [
+        {
+          "word": "Nình",
+          "start": 0.05,
+          "end": 0.61,
+          "probability": 0.14
+        },
+        {
+          "word": "phương",
+          "start": 0.61,
+          "end": 0.85,
+          "probability": 0.87
+        },
+        {
+          "word": "đe,",
+          "start": 0.85,
+          "end": 1.11,
+          "probability": 0.42
+        },
+        {
+          "word": "đi,",
+          "start": 1.75,
+          "end": 1.75,
+          "probability": 0.14
+        },
+        {
+          "word": "cho",
+          "start": 2.01,
+          "end": 2.03,
+          "probability": 0.54
+        },
+        {
+          "word": "nó",
+          "start": 2.03,
+          "end": 2.15,
+          "probability": 0.89
+        },
+        {
+          "word": "gửi",
+          "start": 2.15,
+          "end": 2.37,
+          "probability": 0.57
+        },
+        {
+          "word": "nó",
+          "start": 2.37,
+          "end": 2.57,
+          "probability": 0.57
+        },
+        {
+          "word": "cân",
+          "start": 2.57,
+          "end": 2.63,
+          "probability": 0.2
+        },
+        {
+          "word": "mà",
+          "start": 2.63,
+          "end": 2.69,
+          "probability": 0.24
+        },
+        {
+          "word": "hạt",
+          "start": 2.69,
+          "end": 2.83,
+          "probability": 0.27
+        },
+        {
+          "word": "quay",
+          "start": 2.83,
+          "end": 2.97,
+          "probability": 0.25
+        },
+        {
+          "word": "này.",
+          "start": 2.97,
+          "end": 3.35,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.63,
+      "end": 6.13,
+      "text": "Êc mặt này mà, vậy thì kêu í mà, dở nó gọi người quay người tùng, vậy thì kêu í.",
+      "words": [
+        {
+          "word": "Êc",
+          "start": 3.63,
+          "end": 3.63,
+          "probability": 0.43
+        },
+        {
+          "word": "mặt",
+          "start": 3.63,
+          "end": 3.71,
+          "probability": 0.42
+        },
+        {
+          "word": "này",
+          "start": 3.71,
+          "end": 3.89,
+          "probability": 0.44
+        },
+        {
+          "word": "mà,",
+          "start": 3.89,
+          "end": 4.11,
+          "probability": 0.91
+        },
+        {
+          "word": "vậy",
+          "start": 4.17,
+          "end": 4.21,
+          "probability": 0.08
+        },
+        {
+          "word": "thì",
+          "start": 4.21,
+          "end": 4.29,
+          "probability": 0.22
+        },
+        {
+          "word": "kêu",
+          "start": 4.29,
+          "end": 4.45,
+          "probability": 0.21
+        },
+        {
+          "word": "í",
+          "start": 4.45,
+          "end": 4.65,
+          "probability": 0.29
+        },
+        {
+          "word": "mà,",
+          "start": 4.65,
+          "end": 4.71,
+          "probability": 0.48
+        },
+        {
+          "word": "dở",
+          "start": 4.79,
+          "end": 4.91,
+          "probability": 0.29
+        },
+        {
+          "word": "nó",
+          "start": 4.91,
+          "end": 4.97,
+          "probability": 0.41
+        },
+        {
+          "word": "gọi",
+          "start": 4.97,
+          "end": 5.05,
+          "probability": 0.26
+        },
+        {
+          "word": "người",
+          "start": 5.05,
+          "end": 5.09,
+          "probability": 0.07
+        },
+        {
+          "word": "quay",
+          "start": 5.09,
+          "end": 5.09,
+          "probability": 0.52
+        },
+        {
+          "word": "người",
+          "start": 5.09,
+          "end": 5.17,
+          "probability": 0.17
+        },
+        {
+          "word": "tùng,",
+          "start": 5.17,
+          "end": 5.29,
+          "probability": 0.4
+        },
+        {
+          "word": "vậy",
+          "start": 5.37,
+          "end": 5.43,
+          "probability": 0.36
+        },
+        {
+          "word": "thì",
+          "start": 5.43,
+          "end": 5.45,
+          "probability": 0.94
+        },
+        {
+          "word": "kêu",
+          "start": 5.45,
+          "end": 5.87,
+          "probability": 0.78
+        },
+        {
+          "word": "í.",
+          "start": 5.87,
+          "end": 6.13,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.13,
+      "end": 10.03,
+      "text": "Mình bí nhằm về tích phân từ í không đến bốn của gửi mình phương nó là tảm, phần năm.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 6.13,
+          "end": 6.37,
+          "probability": 0.37
+        },
+        {
+          "word": "bí",
+          "start": 6.37,
+          "end": 6.61,
+          "probability": 0.19
+        },
+        {
+          "word": "nhằm",
+          "start": 6.61,
+          "end": 6.75,
+          "probability": 0.44
+        },
+        {
+          "word": "về",
+          "start": 6.75,
+          "end": 6.87,
+          "probability": 0.13
+        },
+        {
+          "word": "tích",
+          "start": 6.87,
+          "end": 6.95,
+          "probability": 0.61
+        },
+        {
+          "word": "phân",
+          "start": 6.95,
+          "end": 7.13,
+          "probability": 0.59
+        },
+        {
+          "word": "từ",
+          "start": 7.13,
+          "end": 7.29,
+          "probability": 0.45
+        },
+        {
+          "word": "í",
+          "start": 7.29,
+          "end": 7.53,
+          "probability": 0.59
+        },
+        {
+          "word": "không",
+          "start": 7.53,
+          "end": 7.73,
+          "probability": 0.87
+        },
+        {
+          "word": "đến",
+          "start": 7.73,
+          "end": 7.93,
+          "probability": 0.54
+        },
+        {
+          "word": "bốn",
+          "start": 7.93,
+          "end": 8.17,
+          "probability": 0.49
+        },
+        {
+          "word": "của",
+          "start": 8.17,
+          "end": 8.35,
+          "probability": 0.33
+        },
+        {
+          "word": "gửi",
+          "start": 8.35,
+          "end": 8.53,
+          "probability": 0.6
+        },
+        {
+          "word": "mình",
+          "start": 8.53,
+          "end": 8.71,
+          "probability": 0.36
+        },
+        {
+          "word": "phương",
+          "start": 8.71,
+          "end": 8.79,
+          "probability": 0.89
+        },
+        {
+          "word": "nó",
+          "start": 8.79,
+          "end": 8.97,
+          "probability": 0.9
+        },
+        {
+          "word": "là",
+          "start": 8.97,
+          "end": 9.03,
+          "probability": 0.45
+        },
+        {
+          "word": "tảm,",
+          "start": 9.03,
+          "end": 9.27,
+          "probability": 0.57
+        },
+        {
+          "word": "phần",
+          "start": 9.39,
+          "end": 9.47,
+          "probability": 0.68
+        },
+        {
+          "word": "năm.",
+          "start": 9.47,
+          "end": 10.03,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.37,
+      "end": 14.15,
+      "text": "Nhanh bởi í, í, í, trả, bỏ truyền trận rất là tốt.",
+      "words": [
+        {
+          "word": "Nhanh",
+          "start": 10.37,
+          "end": 10.37,
+          "probability": 0.62
+        },
+        {
+          "word": "bởi",
+          "start": 10.37,
+          "end": 10.93,
+          "probability": 0.68
+        },
+        {
+          "word": "í,",
+          "start": 10.93,
+          "end": 11.51,
+          "probability": 0.56
+        },
+        {
+          "word": "í,",
+          "start": 11.83,
+          "end": 11.85,
+          "probability": 0.1
+        },
+        {
+          "word": "í,",
+          "start": 11.85,
+          "end": 12.33,
+          "probability": 0.5
+        },
+        {
+          "word": "trả,",
+          "start": 12.83,
+          "end": 12.85,
+          "probability": 0.34
+        },
+        {
+          "word": "bỏ",
+          "start": 13.21,
+          "end": 13.49,
+          "probability": 0.3
+        },
+        {
+          "word": "truyền",
+          "start": 13.49,
+          "end": 13.65,
+          "probability": 0.37
+        },
+        {
+          "word": "trận",
+          "start": 13.65,
+          "end": 13.71,
+          "probability": 0.54
+        },
+        {
+          "word": "rất",
+          "start": 13.71,
+          "end": 13.91,
+          "probability": 0.28
+        },
+        {
+          "word": "là",
+          "start": 13.91,
+          "end": 13.91,
+          "probability": 0.33
+        },
+        {
+          "word": "tốt.",
+          "start": 13.91,
+          "end": 14.15,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.51,
+      "end": 17.03,
+      "text": "Nhanh, mắm, tảm và năm, bởi í mình phương trên ai.",
+      "words": [
+        {
+          "word": "Nhanh,",
+          "start": 14.51,
+          "end": 14.51,
+          "probability": 0.82
+        },
+        {
+          "word": "mắm,",
+          "start": 14.79,
+          "end": 14.79,
+          "probability": 0.05
+        },
+        {
+          "word": "tảm",
+          "start": 14.79,
+          "end": 14.95,
+          "probability": 0.86
+        },
+        {
+          "word": "và",
+          "start": 14.95,
+          "end": 15.03,
+          "probability": 0.21
+        },
+        {
+          "word": "năm,",
+          "start": 15.03,
+          "end": 15.35,
+          "probability": 0.96
+        },
+        {
+          "word": "bởi",
+          "start": 15.35,
+          "end": 15.77,
+          "probability": 0.73
+        },
+        {
+          "word": "í",
+          "start": 15.77,
+          "end": 15.97,
+          "probability": 0.84
+        },
+        {
+          "word": "mình",
+          "start": 15.97,
+          "end": 16.07,
+          "probability": 0.36
+        },
+        {
+          "word": "phương",
+          "start": 16.07,
+          "end": 16.23,
+          "probability": 0.64
+        },
+        {
+          "word": "trên",
+          "start": 16.23,
+          "end": 16.39,
+          "probability": 0.86
+        },
+        {
+          "word": "ai.",
+          "start": 16.39,
+          "end": 17.03,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 17.31,
+      "end": 18.59,
+      "text": "Tật này í không đến bốn.",
+      "words": [
+        {
+          "word": "Tật",
+          "start": 17.31,
+          "end": 17.41,
+          "probability": 0.37
+        },
+        {
+          "word": "này",
+          "start": 17.41,
+          "end": 17.65,
+          "probability": 0.7
+        },
+        {
+          "word": "í",
+          "start": 17.65,
+          "end": 17.79,
+          "probability": 0.96
+        },
+        {
+          "word": "không",
+          "start": 17.79,
+          "end": 17.99,
+          "probability": 0.97
+        },
+        {
+          "word": "đến",
+          "start": 17.99,
+          "end": 18.15,
+          "probability": 0.99
+        },
+        {
+          "word": "bốn.",
+          "start": 18.15,
+          "end": 18.59,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.93,
+      "end": 23.61,
+      "text": "Nhi vạc đa bằng gì? Bốn phần năm, bởi, nhanh bởi, bởi, bởi sáo chữ đi, í không đến phương.",
+      "words": [
+        {
+          "word": "Nhi",
+          "start": 18.93,
+          "end": 18.99,
+          "probability": 0.64
+        },
+        {
+          "word": "vạc",
+          "start": 18.99,
+          "end": 19.09,
+          "probability": 0.34
+        },
+        {
+          "word": "đa",
+          "start": 19.09,
+          "end": 19.25,
+          "probability": 0.19
+        },
+        {
+          "word": "bằng",
+          "start": 19.25,
+          "end": 19.31,
+          "probability": 0.74
+        },
+        {
+          "word": "gì?",
+          "start": 19.31,
+          "end": 19.51,
+          "probability": 0.42
+        },
+        {
+          "word": "Bốn",
+          "start": 19.95,
+          "end": 19.99,
+          "probability": 0.97
+        },
+        {
+          "word": "phần",
+          "start": 19.99,
+          "end": 20.19,
+          "probability": 0.78
+        },
+        {
+          "word": "năm,",
+          "start": 20.19,
+          "end": 20.51,
+          "probability": 0.99
+        },
+        {
+          "word": "bởi,",
+          "start": 20.93,
+          "end": 21.29,
+          "probability": 0.59
+        },
+        {
+          "word": "nhanh",
+          "start": 21.29,
+          "end": 21.33,
+          "probability": 0.73
+        },
+        {
+          "word": "bởi,",
+          "start": 21.33,
+          "end": 21.89,
+          "probability": 0.95
+        },
+        {
+          "word": "bởi,",
+          "start": 21.97,
+          "end": 22.25,
+          "probability": 0.71
+        },
+        {
+          "word": "bởi",
+          "start": 22.25,
+          "end": 22.31,
+          "probability": 0.73
+        },
+        {
+          "word": "sáo",
+          "start": 22.31,
+          "end": 22.55,
+          "probability": 0.33
+        },
+        {
+          "word": "chữ",
+          "start": 22.55,
+          "end": 22.83,
+          "probability": 0.3
+        },
+        {
+          "word": "đi,",
+          "start": 22.83,
+          "end": 22.91,
+          "probability": 0.24
+        },
+        {
+          "word": "í",
+          "start": 23.23,
+          "end": 23.23,
+          "probability": 0.98
+        },
+        {
+          "word": "không",
+          "start": 23.23,
+          "end": 23.27,
+          "probability": 0.86
+        },
+        {
+          "word": "đến",
+          "start": 23.27,
+          "end": 23.45,
+          "probability": 0.15
+        },
+        {
+          "word": "phương.",
+          "start": 23.45,
+          "end": 23.61,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 24.71,
+      "end": 26.25,
+      "text": "Đó miếm vào không?",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 24.71,
+          "end": 25.07,
+          "probability": 0.16
+        },
+        {
+          "word": "miếm",
+          "start": 25.07,
+          "end": 25.19,
+          "probability": 0.37
+        },
+        {
+          "word": "vào",
+          "start": 25.19,
+          "end": 25.41,
+          "probability": 0.14
+        },
+        {
+          "word": "không?",
+          "start": 25.41,
+          "end": 26.25,
+          "probability": 0.3
+        }
+      ]
+    }
+  ]
+}

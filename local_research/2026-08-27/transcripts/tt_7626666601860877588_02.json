@@ -1,0 +1,60 @@
+{
+  "item_id": "tt_7626666601860877588_02",
+  "duration_seconds": 28.9,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 7,
+  "text": "Chào tất cả, hôm nay, tất cả.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.03,
+      "end": 2.87,
+      "text": "Chào tất cả, hôm nay, tất cả.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 2.03,
+          "end": 2.87,
+          "probability": 0.05
+        },
+        {
+          "word": "tất",
+          "start": 2.87,
+          "end": 2.87,
+          "probability": 0.23
+        },
+        {
+          "word": "cả,",
+          "start": 2.87,
+          "end": 2.87,
+          "probability": 0.89
+        },
+        {
+          "word": "hôm",
+          "start": 2.87,
+          "end": 2.87,
+          "probability": 0.08
+        },
+        {
+          "word": "nay,",
+          "start": 2.87,
+          "end": 2.87,
+          "probability": 0.89
+        },
+        {
+          "word": "tất",
+          "start": 2.87,
+          "end": 2.87,
+          "probability": 0.22
+        },
+        {
+          "word": "cả.",
+          "start": 2.87,
+          "end": 2.87,
+          "probability": 0.97
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "item_id": "tt_7647092179084659988_44",
+  "duration_seconds": 29.23,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 52,
+  "text": "Cái này là nó mấy mong... Uhhh... Tôi bắt lên cái l... ...mong bắt bây giờ nướng không? Sai nó là... Cái này nó nằm... ...cái này là nó mây để cái ext� cái bảo dân bây giờ nướng không? Không biết thì bảo dân chỉ trây trây bây giờ nướng không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.72,
+      "end": 5.18,
+      "text": "Cái này là nó mấy mong...",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 1.72,
+          "end": 2.08,
+          "probability": 0.18
+        },
+        {
+          "word": "này",
+          "start": 2.08,
+          "end": 2.34,
+          "probability": 0.32
+        },
+        {
+          "word": "là",
+          "start": 2.34,
+          "end": 3.84,
+          "probability": 0.73
+        },
+        {
+          "word": "nó",
+          "start": 3.84,
+          "end": 4.0,
+          "probability": 0.62
+        },
+        {
+          "word": "mấy",
+          "start": 4.0,
+          "end": 4.1,
+          "probability": 0.12
+        },
+        {
+          "word": "mong...",
+          "start": 4.1,
+          "end": 5.18,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 15.1,
+      "end": 15.46,
+      "text": "Uhhh...",
+      "words": [
+        {
+          "word": "Uhhh...",
+          "start": 15.1,
+          "end": 15.46,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 15.46,
+      "end": 17.2,
+      "text": "Tôi bắt lên cái l...",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 15.46,
+          "end": 15.8,
+          "probability": 0.02
+        },
+        {
+          "word": "bắt",
+          "start": 15.8,
+          "end": 15.92,
+          "probability": 0.59
+        },
+        {
+          "word": "lên",
+          "start": 15.92,
+          "end": 16.08,
+          "probability": 0.05
+        },
+        {
+          "word": "cái",
+          "start": 16.08,
+          "end": 16.28,
+          "probability": 0.08
+        },
+        {
+          "word": "l...",
+          "start": 16.28,
+          "end": 17.2,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 17.2,
+      "end": 19.04,
+      "text": "...mong bắt bây giờ nướng không?",
+      "words": [
+        {
+          "word": "...mong",
+          "start": 17.2,
+          "end": 17.6,
+          "probability": 0.07
+        },
+        {
+          "word": "bắt",
+          "start": 17.6,
+          "end": 17.72,
+          "probability": 0.47
+        },
+        {
+          "word": "bây",
+          "start": 17.72,
+          "end": 18.1,
+          "probability": 0.05
+        },
+        {
+          "word": "giờ",
+          "start": 18.1,
+          "end": 18.22,
+          "probability": 0.76
+        },
+        {
+          "word": "nướng",
+          "start": 18.22,
+          "end": 18.52,
+          "probability": 0.35
+        },
+        {
+          "word": "không?",
+          "start": 18.52,
+          "end": 19.04,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 19.96,
+      "end": 21.64,
+      "text": "Sai nó là...",
+      "words": [
+        {
+          "word": "Sai",
+          "start": 19.96,
+          "end": 20.12,
+          "probability": 0.19
+        },
+        {
+          "word": "nó",
+          "start": 20.12,
+          "end": 20.28,
+          "probability": 0.29
+        },
+        {
+          "word": "là...",
+          "start": 20.28,
+          "end": 21.64,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 21.64,
+      "end": 22.66,
+      "text": "Cái này nó nằm...",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 21.64,
+          "end": 21.66,
+          "probability": 0.25
+        },
+        {
+          "word": "này",
+          "start": 21.66,
+          "end": 21.76,
+          "probability": 0.66
+        },
+        {
+          "word": "nó",
+          "start": 21.76,
+          "end": 21.88,
+          "probability": 0.62
+        },
+        {
+          "word": "nằm...",
+          "start": 21.88,
+          "end": 22.66,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 22.66,
+      "end": 24.92,
+      "text": "...cái này là nó mây để cái ext� cái bảo dân bây giờ nướng không?",
+      "words": [
+        {
+          "word": "...cái",
+          "start": 22.66,
+          "end": 22.84,
+          "probability": 0.42
+        },
+        {
+          "word": "này",
+          "start": 22.84,
+          "end": 22.94,
+          "probability": 0.79
+        },
+        {
+          "word": "là",
+          "start": 22.94,
+          "end": 23.12,
+          "probability": 0.01
+        },
+        {
+          "word": "nó",
+          "start": 23.12,
+          "end": 23.26,
+          "probability": 0.86
+        },
+        {
+          "word": "mây",
+          "start": 23.26,
+          "end": 23.4,
+          "probability": 0.03
+        },
+        {
+          "word": "để",
+          "start": 23.4,
+          "end": 23.52,
+          "probability": 0.05
+        },
+        {
+          "word": "cái",
+          "start": 23.52,
+          "end": 23.7,
+          "probability": 0.13
+        },
+        {
+          "word": "ext�",
+          "start": 23.7,
+          "end": 23.9,
+          "probability": 0.0
+        },
+        {
+          "word": "cái",
+          "start": 23.9,
+          "end": 24.02,
+          "probability": 0.09
+        },
+        {
+          "word": "bảo",
+          "start": 24.02,
+          "end": 24.18,
+          "probability": 0.72
+        },
+        {
+          "word": "dân",
+          "start": 24.18,
+          "end": 24.4,
+          "probability": 0.13
+        },
+        {
+          "word": "bây",
+          "start": 24.4,
+          "end": 24.4,
+          "probability": 0.09
+        },
+        {
+          "word": "giờ",
+          "start": 24.4,
+          "end": 24.4,
+          "probability": 0.57
+        },
+        {
+          "word": "nướng",
+          "start": 24.4,
+          "end": 24.7,
+          "probability": 0.63
+        },
+        {
+          "word": "không?",
+          "start": 24.7,
+          "end": 24.92,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 25.94,
+      "end": 29.0,
+      "text": "Không biết thì bảo dân chỉ trây trây bây giờ nướng không?",
+      "words": [
+        {
+          "word": "Không",
+          "start": 25.94,
+          "end": 26.3,
+          "probability": 0.22
+        },
+        {
+          "word": "biết",
+          "start": 26.3,
+          "end": 26.46,
+          "probability": 0.36
+        },
+        {
+          "word": "thì",
+          "start": 26.46,
+          "end": 26.62,
+          "probability": 0.36
+        },
+        {
+          "word": "bảo",
+          "start": 26.62,
+          "end": 26.82,
+          "probability": 0.9
+        },
+        {
+          "word": "dân",
+          "start": 26.82,
+          "end": 27.0,
+          "probability": 0.92
+        },
+        {
+          "word": "chỉ",
+          "start": 27.0,
+          "end": 27.22,
+          "probability": 0.0
+        },
+        {
+          "word": "trây",
+          "start": 27.22,
+          "end": 27.4,
+          "probability": 0.02
+        },
+        {
+          "word": "trây",
+          "start": 27.4,
+          "end": 27.5,
+          "probability": 0.25
+        },
+        {
+          "word": "bây",
+          "start": 27.5,
+          "end": 27.62,
+          "probability": 0.47
+        },
+        {
+          "word": "giờ",
+          "start": 27.62,
+          "end": 27.88,
+          "probability": 0.88
+        },
+        {
+          "word": "nướng",
+          "start": 27.88,
+          "end": 28.04,
+          "probability": 0.82
+        },
+        {
+          "word": "không?",
+          "start": 28.04,
+          "end": 29.0,
+          "probability": 0.5
+        }
+      ]
+    }
+  ]
+}

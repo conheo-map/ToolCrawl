@@ -1,0 +1,96 @@
+{
+  "item_id": "tt_7641857112414489872_57",
+  "duration_seconds": 29.67,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 9,
+  "text": "M UFO Ah 6 Bài miếng tôi nhận vui",
+  "segments": [
+    {
+      "id": 1,
+      "start": 8.52,
+      "end": 11.32,
+      "text": "M UFO",
+      "words": [
+        {
+          "word": "M",
+          "start": 8.52,
+          "end": 9.92,
+          "probability": 0.01
+        },
+        {
+          "word": "UFO",
+          "start": 9.92,
+          "end": 11.32,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 21.26,
+      "end": 22.66,
+      "text": "Ah",
+      "words": [
+        {
+          "word": "Ah",
+          "start": 21.26,
+          "end": 22.66,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 27.22,
+      "end": 27.92,
+      "text": "6",
+      "words": [
+        {
+          "word": "6",
+          "start": 27.22,
+          "end": 27.92,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 27.92,
+      "end": 29.54,
+      "text": "Bài miếng tôi nhận vui",
+      "words": [
+        {
+          "word": "Bài",
+          "start": 27.92,
+          "end": 28.46,
+          "probability": 0.18
+        },
+        {
+          "word": "miếng",
+          "start": 28.46,
+          "end": 28.68,
+          "probability": 0.4
+        },
+        {
+          "word": "tôi",
+          "start": 28.68,
+          "end": 28.78,
+          "probability": 0.18
+        },
+        {
+          "word": "nhận",
+          "start": 28.78,
+          "end": 29.14,
+          "probability": 0.41
+        },
+        {
+          "word": "vui",
+          "start": 29.14,
+          "end": 29.54,
+          "probability": 0.25
+        }
+      ]
+    }
+  ]
+}

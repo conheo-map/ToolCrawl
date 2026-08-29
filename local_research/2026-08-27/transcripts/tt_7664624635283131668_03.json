@@ -1,0 +1,644 @@
+{
+  "item_id": "tt_7664624635283131668_03",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 79,
+  "text": "Để mong mong kia lúng mỗi tháng, nãy nhé, nó trong đây là cái khó khăn nhé là về xe xin dục để hình ở giữa từ xưa lạc là và đừng có thể chung ở giữa lụng này là xưa lạc này, giữa bởi vì mình sẽ chung và chung, và chung, chữ kia, và bởi vì nó chung, và chung, và chung, và chung, và chung, và chung, và chung, và tình đã từ một số sách.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.27,
+      "end": 3.83,
+      "text": "Để mong mong kia lúng mỗi tháng,",
+      "words": [
+        {
+          "word": "Để",
+          "start": 0.27,
+          "end": 0.85,
+          "probability": 0.24
+        },
+        {
+          "word": "mong",
+          "start": 0.85,
+          "end": 1.13,
+          "probability": 0.34
+        },
+        {
+          "word": "mong",
+          "start": 1.13,
+          "end": 1.53,
+          "probability": 0.2
+        },
+        {
+          "word": "kia",
+          "start": 1.53,
+          "end": 2.97,
+          "probability": 0.63
+        },
+        {
+          "word": "lúng",
+          "start": 2.97,
+          "end": 3.27,
+          "probability": 0.25
+        },
+        {
+          "word": "mỗi",
+          "start": 3.27,
+          "end": 3.47,
+          "probability": 0.24
+        },
+        {
+          "word": "tháng,",
+          "start": 3.47,
+          "end": 3.83,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.07,
+      "end": 4.19,
+      "text": "nãy nhé,",
+      "words": [
+        {
+          "word": "nãy",
+          "start": 4.07,
+          "end": 4.13,
+          "probability": 0.11
+        },
+        {
+          "word": "nhé,",
+          "start": 4.13,
+          "end": 4.19,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.39,
+      "end": 7.89,
+      "text": "nó trong đây là cái khó khăn nhé là",
+      "words": [
+        {
+          "word": "nó",
+          "start": 5.39,
+          "end": 5.95,
+          "probability": 0.02
+        },
+        {
+          "word": "trong",
+          "start": 5.95,
+          "end": 6.15,
+          "probability": 0.78
+        },
+        {
+          "word": "đây",
+          "start": 6.15,
+          "end": 6.31,
+          "probability": 0.54
+        },
+        {
+          "word": "là",
+          "start": 6.31,
+          "end": 6.61,
+          "probability": 0.14
+        },
+        {
+          "word": "cái",
+          "start": 6.61,
+          "end": 6.81,
+          "probability": 0.09
+        },
+        {
+          "word": "khó",
+          "start": 6.81,
+          "end": 6.97,
+          "probability": 0.46
+        },
+        {
+          "word": "khăn",
+          "start": 6.97,
+          "end": 7.15,
+          "probability": 0.83
+        },
+        {
+          "word": "nhé",
+          "start": 7.15,
+          "end": 7.29,
+          "probability": 0.44
+        },
+        {
+          "word": "là",
+          "start": 7.29,
+          "end": 7.89,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.89,
+      "end": 9.35,
+      "text": "về xe",
+      "words": [
+        {
+          "word": "về",
+          "start": 7.89,
+          "end": 8.41,
+          "probability": 0.02
+        },
+        {
+          "word": "xe",
+          "start": 8.41,
+          "end": 9.35,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.35,
+      "end": 10.77,
+      "text": "xin dục",
+      "words": [
+        {
+          "word": "xin",
+          "start": 9.35,
+          "end": 10.31,
+          "probability": 0.46
+        },
+        {
+          "word": "dục",
+          "start": 10.31,
+          "end": 10.77,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.77,
+      "end": 12.69,
+      "text": "để hình ở giữa từ xưa lạc là",
+      "words": [
+        {
+          "word": "để",
+          "start": 10.77,
+          "end": 11.15,
+          "probability": 0.06
+        },
+        {
+          "word": "hình",
+          "start": 11.15,
+          "end": 11.29,
+          "probability": 0.17
+        },
+        {
+          "word": "ở",
+          "start": 11.29,
+          "end": 11.41,
+          "probability": 0.07
+        },
+        {
+          "word": "giữa",
+          "start": 11.41,
+          "end": 11.51,
+          "probability": 0.19
+        },
+        {
+          "word": "từ",
+          "start": 11.51,
+          "end": 11.69,
+          "probability": 0.08
+        },
+        {
+          "word": "xưa",
+          "start": 11.69,
+          "end": 11.77,
+          "probability": 0.25
+        },
+        {
+          "word": "lạc",
+          "start": 11.77,
+          "end": 11.99,
+          "probability": 0.36
+        },
+        {
+          "word": "là",
+          "start": 11.99,
+          "end": 12.69,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.69,
+      "end": 14.87,
+      "text": "và đừng có thể chung ở giữa lụng này là",
+      "words": [
+        {
+          "word": "và",
+          "start": 12.69,
+          "end": 12.87,
+          "probability": 0.01
+        },
+        {
+          "word": "đừng",
+          "start": 12.87,
+          "end": 13.39,
+          "probability": 0.07
+        },
+        {
+          "word": "có",
+          "start": 13.39,
+          "end": 13.75,
+          "probability": 0.08
+        },
+        {
+          "word": "thể",
+          "start": 13.75,
+          "end": 13.81,
+          "probability": 0.07
+        },
+        {
+          "word": "chung",
+          "start": 13.81,
+          "end": 13.81,
+          "probability": 0.07
+        },
+        {
+          "word": "ở",
+          "start": 13.81,
+          "end": 13.81,
+          "probability": 0.07
+        },
+        {
+          "word": "giữa",
+          "start": 13.81,
+          "end": 14.29,
+          "probability": 0.63
+        },
+        {
+          "word": "lụng",
+          "start": 14.29,
+          "end": 14.29,
+          "probability": 0.21
+        },
+        {
+          "word": "này",
+          "start": 14.29,
+          "end": 14.55,
+          "probability": 0.22
+        },
+        {
+          "word": "là",
+          "start": 14.55,
+          "end": 14.87,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 14.87,
+      "end": 15.61,
+      "text": "xưa lạc này,",
+      "words": [
+        {
+          "word": "xưa",
+          "start": 14.87,
+          "end": 15.03,
+          "probability": 0.47
+        },
+        {
+          "word": "lạc",
+          "start": 15.03,
+          "end": 15.27,
+          "probability": 0.93
+        },
+        {
+          "word": "này,",
+          "start": 15.27,
+          "end": 15.61,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 15.61,
+      "end": 16.67,
+      "text": "giữa bởi vì mình sẽ chung",
+      "words": [
+        {
+          "word": "giữa",
+          "start": 15.61,
+          "end": 15.79,
+          "probability": 0.47
+        },
+        {
+          "word": "bởi",
+          "start": 15.79,
+          "end": 16.67,
+          "probability": 0.38
+        },
+        {
+          "word": "vì",
+          "start": 16.67,
+          "end": 16.67,
+          "probability": 0.17
+        },
+        {
+          "word": "mình",
+          "start": 16.67,
+          "end": 16.67,
+          "probability": 0.03
+        },
+        {
+          "word": "sẽ",
+          "start": 16.67,
+          "end": 16.67,
+          "probability": 0.12
+        },
+        {
+          "word": "chung",
+          "start": 16.67,
+          "end": 16.67,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 17.33,
+      "end": 17.89,
+      "text": "và chung,",
+      "words": [
+        {
+          "word": "và",
+          "start": 17.33,
+          "end": 17.89,
+          "probability": 0.01
+        },
+        {
+          "word": "chung,",
+          "start": 17.89,
+          "end": 17.89,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 17.89,
+      "end": 18.63,
+      "text": "và chung,",
+      "words": [
+        {
+          "word": "và",
+          "start": 17.89,
+          "end": 18.31,
+          "probability": 0.18
+        },
+        {
+          "word": "chung,",
+          "start": 18.31,
+          "end": 18.63,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 19.67,
+      "end": 20.13,
+      "text": "chữ kia,",
+      "words": [
+        {
+          "word": "chữ",
+          "start": 19.67,
+          "end": 19.87,
+          "probability": 0.11
+        },
+        {
+          "word": "kia,",
+          "start": 19.87,
+          "end": 20.13,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 20.67,
+      "end": 21.57,
+      "text": "và bởi vì nó chung,",
+      "words": [
+        {
+          "word": "và",
+          "start": 20.67,
+          "end": 20.89,
+          "probability": 0.33
+        },
+        {
+          "word": "bởi",
+          "start": 20.89,
+          "end": 21.09,
+          "probability": 0.68
+        },
+        {
+          "word": "vì",
+          "start": 21.09,
+          "end": 21.09,
+          "probability": 0.94
+        },
+        {
+          "word": "nó",
+          "start": 21.09,
+          "end": 21.29,
+          "probability": 0.08
+        },
+        {
+          "word": "chung,",
+          "start": 21.29,
+          "end": 21.57,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 21.57,
+      "end": 22.21,
+      "text": "và chung,",
+      "words": [
+        {
+          "word": "và",
+          "start": 21.57,
+          "end": 21.79,
+          "probability": 0.43
+        },
+        {
+          "word": "chung,",
+          "start": 21.79,
+          "end": 22.21,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 22.75,
+      "end": 23.19,
+      "text": "và chung,",
+      "words": [
+        {
+          "word": "và",
+          "start": 22.75,
+          "end": 23.19,
+          "probability": 0.54
+        },
+        {
+          "word": "chung,",
+          "start": 23.19,
+          "end": 23.19,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 23.65,
+      "end": 23.85,
+      "text": "và chung,",
+      "words": [
+        {
+          "word": "và",
+          "start": 23.65,
+          "end": 23.85,
+          "probability": 0.8
+        },
+        {
+          "word": "chung,",
+          "start": 23.85,
+          "end": 23.85,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 23.85,
+      "end": 24.55,
+      "text": "và chung,",
+      "words": [
+        {
+          "word": "và",
+          "start": 23.85,
+          "end": 24.13,
+          "probability": 0.95
+        },
+        {
+          "word": "chung,",
+          "start": 24.13,
+          "end": 24.55,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 27.39,
+      "end": 27.95,
+      "text": "và chung,",
+      "words": [
+        {
+          "word": "và",
+          "start": 27.39,
+          "end": 27.95,
+          "probability": 0.96
+        },
+        {
+          "word": "chung,",
+          "start": 27.95,
+          "end": 27.95,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 27.95,
+      "end": 28.07,
+      "text": "và chung,",
+      "words": [
+        {
+          "word": "và",
+          "start": 27.95,
+          "end": 27.97,
+          "probability": 0.95
+        },
+        {
+          "word": "chung,",
+          "start": 27.97,
+          "end": 28.07,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 28.07,
+      "end": 29.97,
+      "text": "và tình đã từ một số sách.",
+      "words": [
+        {
+          "word": "và",
+          "start": 28.07,
+          "end": 28.29,
+          "probability": 0.13
+        },
+        {
+          "word": "tình",
+          "start": 28.29,
+          "end": 28.43,
+          "probability": 0.24
+        },
+        {
+          "word": "đã",
+          "start": 28.43,
+          "end": 28.63,
+          "probability": 0.1
+        },
+        {
+          "word": "từ",
+          "start": 28.63,
+          "end": 28.95,
+          "probability": 0.12
+        },
+        {
+          "word": "một",
+          "start": 28.95,
+          "end": 29.67,
+          "probability": 0.57
+        },
+        {
+          "word": "số",
+          "start": 29.67,
+          "end": 29.85,
+          "probability": 0.08
+        },
+        {
+          "word": "sách.",
+          "start": 29.85,
+          "end": 29.97,
+          "probability": 0.28
+        }
+      ]
+    }
+  ]
+}

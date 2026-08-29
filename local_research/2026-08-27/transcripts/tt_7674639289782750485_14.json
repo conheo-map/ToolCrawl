@@ -1,0 +1,604 @@
+{
+  "item_id": "tt_7674639289782750485_14",
+  "duration_seconds": 27.28,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 79,
+  "text": "Chào là em là, phở nhớ Nhớ là có giúp đi đó là phở giúp đi đó là phở giúp hỏi tham Đúng của Vieter Ui Ui bà xả quá Vieter nó bị giáo vậy vậy? Ởa, như thế là em giáo rồi Anh có con chào em là vậy Với thay Anh có không gặp được bàn em Anh em là cũng không gặp được nhau Một con bất ngờ Được vậy, quý Hơi giả bà Mừng rắm",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 2.92,
+      "text": "Chào là em là, phở nhớ",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 0.08,
+          "end": 0.84,
+          "probability": 0.41
+        },
+        {
+          "word": "là",
+          "start": 0.84,
+          "end": 1.06,
+          "probability": 0.09
+        },
+        {
+          "word": "em",
+          "start": 1.06,
+          "end": 1.36,
+          "probability": 0.12
+        },
+        {
+          "word": "là,",
+          "start": 1.36,
+          "end": 1.78,
+          "probability": 0.06
+        },
+        {
+          "word": "phở",
+          "start": 2.02,
+          "end": 2.02,
+          "probability": 0.12
+        },
+        {
+          "word": "nhớ",
+          "start": 2.02,
+          "end": 2.92,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.92,
+      "end": 6.04,
+      "text": "Nhớ là có giúp đi đó là phở giúp đi đó là phở giúp hỏi tham",
+      "words": [
+        {
+          "word": "Nhớ",
+          "start": 2.92,
+          "end": 3.36,
+          "probability": 0.5
+        },
+        {
+          "word": "là",
+          "start": 3.36,
+          "end": 3.6,
+          "probability": 0.08
+        },
+        {
+          "word": "có",
+          "start": 3.6,
+          "end": 3.88,
+          "probability": 0.81
+        },
+        {
+          "word": "giúp",
+          "start": 3.88,
+          "end": 4.22,
+          "probability": 0.44
+        },
+        {
+          "word": "đi",
+          "start": 4.22,
+          "end": 4.46,
+          "probability": 0.39
+        },
+        {
+          "word": "đó",
+          "start": 4.46,
+          "end": 4.6,
+          "probability": 0.41
+        },
+        {
+          "word": "là",
+          "start": 4.6,
+          "end": 4.78,
+          "probability": 0.77
+        },
+        {
+          "word": "phở",
+          "start": 4.78,
+          "end": 4.96,
+          "probability": 0.43
+        },
+        {
+          "word": "giúp",
+          "start": 4.96,
+          "end": 5.06,
+          "probability": 0.44
+        },
+        {
+          "word": "đi",
+          "start": 5.06,
+          "end": 5.06,
+          "probability": 0.48
+        },
+        {
+          "word": "đó",
+          "start": 5.06,
+          "end": 5.06,
+          "probability": 0.54
+        },
+        {
+          "word": "là",
+          "start": 5.06,
+          "end": 5.06,
+          "probability": 0.84
+        },
+        {
+          "word": "phở",
+          "start": 5.06,
+          "end": 5.06,
+          "probability": 0.93
+        },
+        {
+          "word": "giúp",
+          "start": 5.06,
+          "end": 5.2,
+          "probability": 0.72
+        },
+        {
+          "word": "hỏi",
+          "start": 5.2,
+          "end": 5.5,
+          "probability": 0.45
+        },
+        {
+          "word": "tham",
+          "start": 5.5,
+          "end": 6.04,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.04,
+      "end": 7.56,
+      "text": "Đúng của Vieter",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 6.04,
+          "end": 6.74,
+          "probability": 0.28
+        },
+        {
+          "word": "của",
+          "start": 6.74,
+          "end": 6.88,
+          "probability": 0.22
+        },
+        {
+          "word": "Vieter",
+          "start": 6.88,
+          "end": 7.56,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.34,
+      "end": 8.84,
+      "text": "Ui",
+      "words": [
+        {
+          "word": "Ui",
+          "start": 8.34,
+          "end": 8.84,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.84,
+      "end": 10.6,
+      "text": "Ui bà xả quá",
+      "words": [
+        {
+          "word": "Ui",
+          "start": 8.84,
+          "end": 9.7,
+          "probability": 0.46
+        },
+        {
+          "word": "bà",
+          "start": 9.7,
+          "end": 9.88,
+          "probability": 0.41
+        },
+        {
+          "word": "xả",
+          "start": 9.88,
+          "end": 10.16,
+          "probability": 0.39
+        },
+        {
+          "word": "quá",
+          "start": 10.16,
+          "end": 10.6,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.6,
+      "end": 12.56,
+      "text": "Vieter nó bị giáo vậy vậy?",
+      "words": [
+        {
+          "word": "Vieter",
+          "start": 10.6,
+          "end": 11.5,
+          "probability": 0.69
+        },
+        {
+          "word": "nó",
+          "start": 11.5,
+          "end": 11.68,
+          "probability": 0.52
+        },
+        {
+          "word": "bị",
+          "start": 11.68,
+          "end": 11.82,
+          "probability": 0.2
+        },
+        {
+          "word": "giáo",
+          "start": 11.82,
+          "end": 12.08,
+          "probability": 0.73
+        },
+        {
+          "word": "vậy",
+          "start": 12.08,
+          "end": 12.32,
+          "probability": 0.13
+        },
+        {
+          "word": "vậy?",
+          "start": 12.32,
+          "end": 12.56,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.74,
+      "end": 14.06,
+      "text": "Ởa, như thế là em giáo rồi",
+      "words": [
+        {
+          "word": "Ởa,",
+          "start": 12.74,
+          "end": 12.74,
+          "probability": 0.31
+        },
+        {
+          "word": "như",
+          "start": 12.86,
+          "end": 12.86,
+          "probability": 0.05
+        },
+        {
+          "word": "thế",
+          "start": 12.86,
+          "end": 13.02,
+          "probability": 0.15
+        },
+        {
+          "word": "là",
+          "start": 13.02,
+          "end": 13.1,
+          "probability": 0.19
+        },
+        {
+          "word": "em",
+          "start": 13.1,
+          "end": 13.32,
+          "probability": 0.98
+        },
+        {
+          "word": "giáo",
+          "start": 13.32,
+          "end": 13.6,
+          "probability": 0.91
+        },
+        {
+          "word": "rồi",
+          "start": 13.6,
+          "end": 14.06,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 14.06,
+      "end": 16.12,
+      "text": "Anh có con chào em là vậy",
+      "words": [
+        {
+          "word": "Anh",
+          "start": 14.06,
+          "end": 14.68,
+          "probability": 0.0
+        },
+        {
+          "word": "có",
+          "start": 14.68,
+          "end": 14.82,
+          "probability": 0.11
+        },
+        {
+          "word": "con",
+          "start": 14.82,
+          "end": 15.04,
+          "probability": 0.19
+        },
+        {
+          "word": "chào",
+          "start": 15.04,
+          "end": 15.34,
+          "probability": 0.74
+        },
+        {
+          "word": "em",
+          "start": 15.34,
+          "end": 15.52,
+          "probability": 0.29
+        },
+        {
+          "word": "là",
+          "start": 15.52,
+          "end": 15.7,
+          "probability": 0.12
+        },
+        {
+          "word": "vậy",
+          "start": 15.7,
+          "end": 16.12,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 16.78,
+      "end": 17.3,
+      "text": "Với thay",
+      "words": [
+        {
+          "word": "Với",
+          "start": 16.78,
+          "end": 17.28,
+          "probability": 0.04
+        },
+        {
+          "word": "thay",
+          "start": 17.28,
+          "end": 17.3,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 17.3,
+      "end": 19.78,
+      "text": "Anh có không gặp được bàn em",
+      "words": [
+        {
+          "word": "Anh",
+          "start": 17.3,
+          "end": 17.6,
+          "probability": 0.01
+        },
+        {
+          "word": "có",
+          "start": 17.6,
+          "end": 17.72,
+          "probability": 0.45
+        },
+        {
+          "word": "không",
+          "start": 17.72,
+          "end": 18.96,
+          "probability": 0.02
+        },
+        {
+          "word": "gặp",
+          "start": 18.96,
+          "end": 19.12,
+          "probability": 0.74
+        },
+        {
+          "word": "được",
+          "start": 19.12,
+          "end": 19.36,
+          "probability": 0.72
+        },
+        {
+          "word": "bàn",
+          "start": 19.36,
+          "end": 19.52,
+          "probability": 0.34
+        },
+        {
+          "word": "em",
+          "start": 19.52,
+          "end": 19.78,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 19.78,
+      "end": 21.96,
+      "text": "Anh em là cũng không gặp được nhau",
+      "words": [
+        {
+          "word": "Anh",
+          "start": 19.78,
+          "end": 20.0,
+          "probability": 0.13
+        },
+        {
+          "word": "em",
+          "start": 20.0,
+          "end": 20.18,
+          "probability": 0.17
+        },
+        {
+          "word": "là",
+          "start": 20.18,
+          "end": 20.32,
+          "probability": 0.38
+        },
+        {
+          "word": "cũng",
+          "start": 20.32,
+          "end": 20.5,
+          "probability": 0.34
+        },
+        {
+          "word": "không",
+          "start": 20.5,
+          "end": 20.7,
+          "probability": 0.23
+        },
+        {
+          "word": "gặp",
+          "start": 20.7,
+          "end": 20.9,
+          "probability": 0.99
+        },
+        {
+          "word": "được",
+          "start": 20.9,
+          "end": 21.1,
+          "probability": 0.97
+        },
+        {
+          "word": "nhau",
+          "start": 21.1,
+          "end": 21.96,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 21.96,
+      "end": 23.32,
+      "text": "Một con bất ngờ",
+      "words": [
+        {
+          "word": "Một",
+          "start": 21.96,
+          "end": 22.56,
+          "probability": 0.19
+        },
+        {
+          "word": "con",
+          "start": 22.56,
+          "end": 22.56,
+          "probability": 0.46
+        },
+        {
+          "word": "bất",
+          "start": 22.56,
+          "end": 22.76,
+          "probability": 0.85
+        },
+        {
+          "word": "ngờ",
+          "start": 22.76,
+          "end": 23.32,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 23.32,
+      "end": 24.76,
+      "text": "Được vậy, quý",
+      "words": [
+        {
+          "word": "Được",
+          "start": 23.32,
+          "end": 24.14,
+          "probability": 0.44
+        },
+        {
+          "word": "vậy,",
+          "start": 24.14,
+          "end": 24.42,
+          "probability": 0.11
+        },
+        {
+          "word": "quý",
+          "start": 24.42,
+          "end": 24.76,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 24.76,
+      "end": 25.9,
+      "text": "Hơi giả bà",
+      "words": [
+        {
+          "word": "Hơi",
+          "start": 24.76,
+          "end": 25.14,
+          "probability": 0.16
+        },
+        {
+          "word": "giả",
+          "start": 25.14,
+          "end": 25.4,
+          "probability": 0.2
+        },
+        {
+          "word": "bà",
+          "start": 25.4,
+          "end": 25.9,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 25.9,
+      "end": 26.9,
+      "text": "Mừng rắm",
+      "words": [
+        {
+          "word": "Mừng",
+          "start": 25.9,
+          "end": 26.58,
+          "probability": 0.27
+        },
+        {
+          "word": "rắm",
+          "start": 26.58,
+          "end": 26.9,
+          "probability": 0.36
+        }
+      ]
+    }
+  ]
+}

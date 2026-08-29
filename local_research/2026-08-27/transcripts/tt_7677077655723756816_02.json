@@ -1,0 +1,92 @@
+{
+  "item_id": "tt_7677077655723756816_02",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 11,
+  "text": "Mình hậu đội đi xong ra ở đoay Nhiều bà hả?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.94,
+      "text": "Mình hậu đội đi xong ra ở đoay",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.33
+        },
+        {
+          "word": "hậu",
+          "start": 0.28,
+          "end": 0.86,
+          "probability": 0.45
+        },
+        {
+          "word": "đội",
+          "start": 0.86,
+          "end": 1.38,
+          "probability": 0.34
+        },
+        {
+          "word": "đi",
+          "start": 1.38,
+          "end": 1.6,
+          "probability": 0.08
+        },
+        {
+          "word": "xong",
+          "start": 1.6,
+          "end": 1.88,
+          "probability": 0.1
+        },
+        {
+          "word": "ra",
+          "start": 1.88,
+          "end": 2.14,
+          "probability": 0.02
+        },
+        {
+          "word": "ở",
+          "start": 2.14,
+          "end": 2.6,
+          "probability": 0.02
+        },
+        {
+          "word": "đoay",
+          "start": 4.46,
+          "end": 4.94,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.94,
+      "end": 8.48,
+      "text": "Nhiều bà hả?",
+      "words": [
+        {
+          "word": "Nhiều",
+          "start": 4.94,
+          "end": 6.08,
+          "probability": 0.08
+        },
+        {
+          "word": "bà",
+          "start": 6.08,
+          "end": 7.26,
+          "probability": 0.03
+        },
+        {
+          "word": "hả?",
+          "start": 7.26,
+          "end": 8.48,
+          "probability": 0.03
+        }
+      ]
+    }
+  ]
+}

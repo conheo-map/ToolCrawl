@@ -1,0 +1,400 @@
+{
+  "item_id": "tt_7290554267834846471_04",
+  "duration_seconds": 19.62,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 49,
+  "text": "nó không tôi tại yêu ở đây là cái này có ăn hồng trong tượng bà lại các bạn có ăn cho bà nó có ăn 1 thì bà 1 thì đường nhé bà quá nửa 3 ưng 3 ưng 3 ưng 3 ưng 3 ưng 3 ưng mẹ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.06,
+      "text": "nó không tôi tại yêu ở đây",
+      "words": [
+        {
+          "word": "nó",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.01
+        },
+        {
+          "word": "không",
+          "start": 0.44,
+          "end": 0.46,
+          "probability": 0.66
+        },
+        {
+          "word": "tôi",
+          "start": 0.46,
+          "end": 0.56,
+          "probability": 0.24
+        },
+        {
+          "word": "tại",
+          "start": 0.56,
+          "end": 0.66,
+          "probability": 0.04
+        },
+        {
+          "word": "yêu",
+          "start": 0.66,
+          "end": 0.84,
+          "probability": 0.0
+        },
+        {
+          "word": "ở",
+          "start": 0.84,
+          "end": 1.0,
+          "probability": 0.14
+        },
+        {
+          "word": "đây",
+          "start": 1.0,
+          "end": 1.06,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.7,
+      "end": 4.76,
+      "text": "là cái này có ăn hồng trong tượng",
+      "words": [
+        {
+          "word": "là",
+          "start": 1.7,
+          "end": 2.26,
+          "probability": 0.01
+        },
+        {
+          "word": "cái",
+          "start": 2.26,
+          "end": 2.26,
+          "probability": 0.02
+        },
+        {
+          "word": "này",
+          "start": 2.26,
+          "end": 2.46,
+          "probability": 0.03
+        },
+        {
+          "word": "có",
+          "start": 2.46,
+          "end": 2.46,
+          "probability": 0.06
+        },
+        {
+          "word": "ăn",
+          "start": 2.46,
+          "end": 2.52,
+          "probability": 0.01
+        },
+        {
+          "word": "hồng",
+          "start": 2.52,
+          "end": 2.78,
+          "probability": 0.01
+        },
+        {
+          "word": "trong",
+          "start": 2.78,
+          "end": 4.08,
+          "probability": 0.01
+        },
+        {
+          "word": "tượng",
+          "start": 4.08,
+          "end": 4.76,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.76,
+      "end": 5.3,
+      "text": "bà lại các bạn có ăn cho bà",
+      "words": [
+        {
+          "word": "bà",
+          "start": 4.76,
+          "end": 4.76,
+          "probability": 0.05
+        },
+        {
+          "word": "lại",
+          "start": 4.76,
+          "end": 4.76,
+          "probability": 0.01
+        },
+        {
+          "word": "các",
+          "start": 4.76,
+          "end": 4.76,
+          "probability": 0.01
+        },
+        {
+          "word": "bạn",
+          "start": 4.76,
+          "end": 4.76,
+          "probability": 0.76
+        },
+        {
+          "word": "có",
+          "start": 4.76,
+          "end": 5.3,
+          "probability": 0.01
+        },
+        {
+          "word": "ăn",
+          "start": 5.3,
+          "end": 5.3,
+          "probability": 0.03
+        },
+        {
+          "word": "cho",
+          "start": 5.3,
+          "end": 5.3,
+          "probability": 0.0
+        },
+        {
+          "word": "bà",
+          "start": 5.3,
+          "end": 5.3,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.3,
+      "end": 5.72,
+      "text": "nó có ăn 1 thì bà",
+      "words": [
+        {
+          "word": "nó",
+          "start": 5.3,
+          "end": 5.3,
+          "probability": 0.03
+        },
+        {
+          "word": "có",
+          "start": 5.3,
+          "end": 5.3,
+          "probability": 0.01
+        },
+        {
+          "word": "ăn",
+          "start": 5.3,
+          "end": 5.3,
+          "probability": 0.22
+        },
+        {
+          "word": "1",
+          "start": 5.3,
+          "end": 5.3,
+          "probability": 0.01
+        },
+        {
+          "word": "thì",
+          "start": 5.3,
+          "end": 5.3,
+          "probability": 0.01
+        },
+        {
+          "word": "bà",
+          "start": 5.3,
+          "end": 5.72,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 5.72,
+      "end": 11.34,
+      "text": "1 thì đường nhé",
+      "words": [
+        {
+          "word": "1",
+          "start": 5.72,
+          "end": 5.96,
+          "probability": 0.01
+        },
+        {
+          "word": "thì",
+          "start": 5.96,
+          "end": 9.5,
+          "probability": 0.12
+        },
+        {
+          "word": "đường",
+          "start": 9.5,
+          "end": 9.92,
+          "probability": 0.06
+        },
+        {
+          "word": "nhé",
+          "start": 9.92,
+          "end": 11.34,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.34,
+      "end": 18.12,
+      "text": "bà quá nửa 3 ưng",
+      "words": [
+        {
+          "word": "bà",
+          "start": 11.34,
+          "end": 11.76,
+          "probability": 0.26
+        },
+        {
+          "word": "quá",
+          "start": 11.76,
+          "end": 13.06,
+          "probability": 0.0
+        },
+        {
+          "word": "nửa",
+          "start": 13.06,
+          "end": 16.58,
+          "probability": 0.32
+        },
+        {
+          "word": "3",
+          "start": 16.58,
+          "end": 16.78,
+          "probability": 0.01
+        },
+        {
+          "word": "ưng",
+          "start": 16.78,
+          "end": 18.12,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.12,
+      "end": 18.24,
+      "text": "3 ưng",
+      "words": [
+        {
+          "word": "3",
+          "start": 18.12,
+          "end": 18.24,
+          "probability": 0.04
+        },
+        {
+          "word": "ưng",
+          "start": 18.24,
+          "end": 18.24,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 18.24,
+      "end": 18.88,
+      "text": "3 ưng",
+      "words": [
+        {
+          "word": "3",
+          "start": 18.24,
+          "end": 18.24,
+          "probability": 0.11
+        },
+        {
+          "word": "ưng",
+          "start": 18.24,
+          "end": 18.88,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 18.88,
+      "end": 19.1,
+      "text": "3 ưng",
+      "words": [
+        {
+          "word": "3",
+          "start": 18.88,
+          "end": 19.02,
+          "probability": 0.2
+        },
+        {
+          "word": "ưng",
+          "start": 19.02,
+          "end": 19.1,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 19.1,
+      "end": 19.4,
+      "text": "3 ưng",
+      "words": [
+        {
+          "word": "3",
+          "start": 19.1,
+          "end": 19.4,
+          "probability": 0.44
+        },
+        {
+          "word": "ưng",
+          "start": 19.4,
+          "end": 19.4,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 19.4,
+      "end": 19.44,
+      "text": "3 ưng",
+      "words": [
+        {
+          "word": "3",
+          "start": 19.4,
+          "end": 19.4,
+          "probability": 0.55
+        },
+        {
+          "word": "ưng",
+          "start": 19.4,
+          "end": 19.44,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 19.44,
+      "end": 19.6,
+      "text": "mẹ",
+      "words": [
+        {
+          "word": "mẹ",
+          "start": 19.44,
+          "end": 19.6,
+          "probability": 0.03
+        }
+      ]
+    }
+  ]
+}

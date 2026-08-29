@@ -1,0 +1,548 @@
+{
+  "item_id": "tt_7651660540288208136_04",
+  "duration_seconds": 17.95,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 83,
+  "text": "Thế bằng quán nghĩ kẻ hắn đường tươi xin của cuộc đại lạc, phong bộ phần công trình mở rộng, và kết thần buộc thi công vắc xin tại khu vận này, điều khong có hủ xe, thủ tục, đưa kết quán quán thức thẩm quình tập kết, thì tự với giữa các hạn bột trên không trẻ hử dưới tại sản nha nữa. Mà con gây, tất cả rầm số đến cộng các quán nghĩ trực từ xe dựng gài đều phương.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.84,
+      "text": "Thế bằng quán nghĩ kẻ hắn đường tươi xin của cuộc đại lạc, phong bộ phần công trình mở rộng,",
+      "words": [
+        {
+          "word": "Thế",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.37
+        },
+        {
+          "word": "bằng",
+          "start": 0.3,
+          "end": 0.44,
+          "probability": 0.63
+        },
+        {
+          "word": "quán",
+          "start": 0.44,
+          "end": 0.62,
+          "probability": 0.29
+        },
+        {
+          "word": "nghĩ",
+          "start": 0.62,
+          "end": 0.76,
+          "probability": 0.24
+        },
+        {
+          "word": "kẻ",
+          "start": 0.76,
+          "end": 0.94,
+          "probability": 0.27
+        },
+        {
+          "word": "hắn",
+          "start": 0.94,
+          "end": 1.06,
+          "probability": 0.19
+        },
+        {
+          "word": "đường",
+          "start": 1.06,
+          "end": 1.2,
+          "probability": 0.29
+        },
+        {
+          "word": "tươi",
+          "start": 1.2,
+          "end": 1.44,
+          "probability": 0.17
+        },
+        {
+          "word": "xin",
+          "start": 1.44,
+          "end": 1.58,
+          "probability": 0.37
+        },
+        {
+          "word": "của",
+          "start": 1.58,
+          "end": 1.8,
+          "probability": 0.26
+        },
+        {
+          "word": "cuộc",
+          "start": 1.8,
+          "end": 2.04,
+          "probability": 0.15
+        },
+        {
+          "word": "đại",
+          "start": 2.04,
+          "end": 2.08,
+          "probability": 0.38
+        },
+        {
+          "word": "lạc,",
+          "start": 2.08,
+          "end": 2.44,
+          "probability": 0.49
+        },
+        {
+          "word": "phong",
+          "start": 2.48,
+          "end": 2.6,
+          "probability": 0.22
+        },
+        {
+          "word": "bộ",
+          "start": 2.6,
+          "end": 2.74,
+          "probability": 0.55
+        },
+        {
+          "word": "phần",
+          "start": 2.74,
+          "end": 2.9,
+          "probability": 0.69
+        },
+        {
+          "word": "công",
+          "start": 2.9,
+          "end": 3.06,
+          "probability": 0.94
+        },
+        {
+          "word": "trình",
+          "start": 3.06,
+          "end": 3.24,
+          "probability": 0.79
+        },
+        {
+          "word": "mở",
+          "start": 3.24,
+          "end": 3.4,
+          "probability": 0.59
+        },
+        {
+          "word": "rộng,",
+          "start": 3.4,
+          "end": 3.84,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.86,
+      "end": 6.94,
+      "text": "và kết thần buộc thi công vắc xin tại khu vận này, điều khong có hủ xe,",
+      "words": [
+        {
+          "word": "và",
+          "start": 3.86,
+          "end": 4.04,
+          "probability": 0.26
+        },
+        {
+          "word": "kết",
+          "start": 4.04,
+          "end": 4.16,
+          "probability": 0.68
+        },
+        {
+          "word": "thần",
+          "start": 4.16,
+          "end": 4.28,
+          "probability": 0.27
+        },
+        {
+          "word": "buộc",
+          "start": 4.28,
+          "end": 4.48,
+          "probability": 0.23
+        },
+        {
+          "word": "thi",
+          "start": 4.48,
+          "end": 4.66,
+          "probability": 0.51
+        },
+        {
+          "word": "công",
+          "start": 4.66,
+          "end": 4.84,
+          "probability": 0.43
+        },
+        {
+          "word": "vắc",
+          "start": 4.84,
+          "end": 5.08,
+          "probability": 0.45
+        },
+        {
+          "word": "xin",
+          "start": 5.08,
+          "end": 5.28,
+          "probability": 0.67
+        },
+        {
+          "word": "tại",
+          "start": 5.28,
+          "end": 5.46,
+          "probability": 0.94
+        },
+        {
+          "word": "khu",
+          "start": 5.46,
+          "end": 5.58,
+          "probability": 0.47
+        },
+        {
+          "word": "vận",
+          "start": 5.58,
+          "end": 5.7,
+          "probability": 0.71
+        },
+        {
+          "word": "này,",
+          "start": 5.7,
+          "end": 5.98,
+          "probability": 0.58
+        },
+        {
+          "word": "điều",
+          "start": 6.04,
+          "end": 6.2,
+          "probability": 0.66
+        },
+        {
+          "word": "khong",
+          "start": 6.2,
+          "end": 6.36,
+          "probability": 0.36
+        },
+        {
+          "word": "có",
+          "start": 6.36,
+          "end": 6.52,
+          "probability": 0.93
+        },
+        {
+          "word": "hủ",
+          "start": 6.52,
+          "end": 6.74,
+          "probability": 0.76
+        },
+        {
+          "word": "xe,",
+          "start": 6.74,
+          "end": 6.94,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.18,
+      "end": 9.22,
+      "text": "thủ tục, đưa kết quán quán thức thẩm quình tập kết,",
+      "words": [
+        {
+          "word": "thủ",
+          "start": 7.18,
+          "end": 7.32,
+          "probability": 0.75
+        },
+        {
+          "word": "tục,",
+          "start": 7.32,
+          "end": 7.66,
+          "probability": 0.62
+        },
+        {
+          "word": "đưa",
+          "start": 7.78,
+          "end": 7.88,
+          "probability": 0.41
+        },
+        {
+          "word": "kết",
+          "start": 7.88,
+          "end": 8.04,
+          "probability": 0.39
+        },
+        {
+          "word": "quán",
+          "start": 8.04,
+          "end": 8.22,
+          "probability": 0.48
+        },
+        {
+          "word": "quán",
+          "start": 8.22,
+          "end": 8.36,
+          "probability": 0.28
+        },
+        {
+          "word": "thức",
+          "start": 8.36,
+          "end": 8.4,
+          "probability": 0.25
+        },
+        {
+          "word": "thẩm",
+          "start": 8.4,
+          "end": 8.58,
+          "probability": 0.54
+        },
+        {
+          "word": "quình",
+          "start": 8.58,
+          "end": 8.7,
+          "probability": 0.23
+        },
+        {
+          "word": "tập",
+          "start": 8.7,
+          "end": 8.9,
+          "probability": 0.52
+        },
+        {
+          "word": "kết,",
+          "start": 8.9,
+          "end": 9.22,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.4,
+      "end": 12.64,
+      "text": "thì tự với giữa các hạn bột trên không trẻ hử dưới tại sản nha nữa.",
+      "words": [
+        {
+          "word": "thì",
+          "start": 9.4,
+          "end": 9.56,
+          "probability": 0.21
+        },
+        {
+          "word": "tự",
+          "start": 9.56,
+          "end": 9.72,
+          "probability": 0.61
+        },
+        {
+          "word": "với",
+          "start": 9.72,
+          "end": 9.92,
+          "probability": 0.07
+        },
+        {
+          "word": "giữa",
+          "start": 9.92,
+          "end": 10.14,
+          "probability": 0.37
+        },
+        {
+          "word": "các",
+          "start": 10.14,
+          "end": 10.28,
+          "probability": 0.81
+        },
+        {
+          "word": "hạn",
+          "start": 10.28,
+          "end": 10.48,
+          "probability": 0.53
+        },
+        {
+          "word": "bột",
+          "start": 10.48,
+          "end": 10.64,
+          "probability": 0.46
+        },
+        {
+          "word": "trên",
+          "start": 10.64,
+          "end": 10.84,
+          "probability": 0.59
+        },
+        {
+          "word": "không",
+          "start": 10.84,
+          "end": 11.06,
+          "probability": 0.75
+        },
+        {
+          "word": "trẻ",
+          "start": 11.06,
+          "end": 11.24,
+          "probability": 0.37
+        },
+        {
+          "word": "hử",
+          "start": 11.24,
+          "end": 11.48,
+          "probability": 0.59
+        },
+        {
+          "word": "dưới",
+          "start": 11.48,
+          "end": 11.68,
+          "probability": 0.43
+        },
+        {
+          "word": "tại",
+          "start": 11.68,
+          "end": 11.88,
+          "probability": 0.23
+        },
+        {
+          "word": "sản",
+          "start": 11.88,
+          "end": 12.12,
+          "probability": 0.57
+        },
+        {
+          "word": "nha",
+          "start": 12.12,
+          "end": 12.32,
+          "probability": 0.13
+        },
+        {
+          "word": "nữa.",
+          "start": 12.32,
+          "end": 12.64,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.78,
+      "end": 16.1,
+      "text": "Mà con gây, tất cả rầm số đến cộng các quán nghĩ trực từ xe dựng gài đều phương.",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 12.78,
+          "end": 12.88,
+          "probability": 0.59
+        },
+        {
+          "word": "con",
+          "start": 12.88,
+          "end": 13.02,
+          "probability": 0.3
+        },
+        {
+          "word": "gây,",
+          "start": 13.02,
+          "end": 13.24,
+          "probability": 0.37
+        },
+        {
+          "word": "tất",
+          "start": 13.34,
+          "end": 13.46,
+          "probability": 0.65
+        },
+        {
+          "word": "cả",
+          "start": 13.46,
+          "end": 13.46,
+          "probability": 0.36
+        },
+        {
+          "word": "rầm",
+          "start": 13.46,
+          "end": 13.66,
+          "probability": 0.48
+        },
+        {
+          "word": "số",
+          "start": 13.66,
+          "end": 13.8,
+          "probability": 0.54
+        },
+        {
+          "word": "đến",
+          "start": 13.8,
+          "end": 14.02,
+          "probability": 0.54
+        },
+        {
+          "word": "cộng",
+          "start": 14.02,
+          "end": 14.2,
+          "probability": 0.46
+        },
+        {
+          "word": "các",
+          "start": 14.2,
+          "end": 14.34,
+          "probability": 0.26
+        },
+        {
+          "word": "quán",
+          "start": 14.34,
+          "end": 14.54,
+          "probability": 0.89
+        },
+        {
+          "word": "nghĩ",
+          "start": 14.54,
+          "end": 14.72,
+          "probability": 0.96
+        },
+        {
+          "word": "trực",
+          "start": 14.72,
+          "end": 14.9,
+          "probability": 0.46
+        },
+        {
+          "word": "từ",
+          "start": 14.9,
+          "end": 15.1,
+          "probability": 0.68
+        },
+        {
+          "word": "xe",
+          "start": 15.1,
+          "end": 15.26,
+          "probability": 0.6
+        },
+        {
+          "word": "dựng",
+          "start": 15.26,
+          "end": 15.46,
+          "probability": 0.54
+        },
+        {
+          "word": "gài",
+          "start": 15.46,
+          "end": 15.64,
+          "probability": 0.19
+        },
+        {
+          "word": "đều",
+          "start": 15.64,
+          "end": 15.84,
+          "probability": 0.26
+        },
+        {
+          "word": "phương.",
+          "start": 15.84,
+          "end": 16.1,
+          "probability": 0.74
+        }
+      ]
+    }
+  ]
+}

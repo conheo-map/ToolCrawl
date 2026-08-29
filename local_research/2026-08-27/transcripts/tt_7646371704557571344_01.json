@@ -1,0 +1,740 @@
+{
+  "item_id": "tt_7646371704557571344_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 111,
+  "text": "Bà con sử lọng phần khởi lần đầu được sư ông và tư bánh xức hoại. Sao ngày 3 tháng 6, báo dân chi vối hộp cùng vệnh vệnh thân nhanh và chính quyền xã thịt thuật vệnh lọng sân tổ chức chân chính tư bánh xức hoại nễn phi trong người dân. Tư săng sống, xanh trọng i tế xã thịt thuật đã chặt khiến người dân nhau của ông, cuộc bàn người sẽ phản chờ đến lực. Với nhường người, đây là dịp hiếm hoại được các bác sĩ từ hành lỗi trực tiếp tham khám tư bánh xức hoại và phát thuốc nễn phi. Bà thân chắc lại.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.18,
+      "end": 4.02,
+      "text": "Bà con sử lọng phần khởi lần đầu được sư ông và tư bánh xức hoại.",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 0.18,
+          "end": 0.8,
+          "probability": 0.5
+        },
+        {
+          "word": "con",
+          "start": 0.8,
+          "end": 1.0,
+          "probability": 0.52
+        },
+        {
+          "word": "sử",
+          "start": 1.0,
+          "end": 1.18,
+          "probability": 0.49
+        },
+        {
+          "word": "lọng",
+          "start": 1.18,
+          "end": 1.46,
+          "probability": 0.63
+        },
+        {
+          "word": "phần",
+          "start": 1.46,
+          "end": 1.64,
+          "probability": 0.52
+        },
+        {
+          "word": "khởi",
+          "start": 1.64,
+          "end": 1.78,
+          "probability": 0.65
+        },
+        {
+          "word": "lần",
+          "start": 1.78,
+          "end": 2.02,
+          "probability": 0.86
+        },
+        {
+          "word": "đầu",
+          "start": 2.02,
+          "end": 2.22,
+          "probability": 0.95
+        },
+        {
+          "word": "được",
+          "start": 2.22,
+          "end": 2.44,
+          "probability": 0.75
+        },
+        {
+          "word": "sư",
+          "start": 2.44,
+          "end": 2.62,
+          "probability": 0.25
+        },
+        {
+          "word": "ông",
+          "start": 2.62,
+          "end": 2.8,
+          "probability": 0.57
+        },
+        {
+          "word": "và",
+          "start": 2.8,
+          "end": 3.06,
+          "probability": 0.89
+        },
+        {
+          "word": "tư",
+          "start": 3.06,
+          "end": 3.2,
+          "probability": 0.6
+        },
+        {
+          "word": "bánh",
+          "start": 3.2,
+          "end": 3.44,
+          "probability": 0.45
+        },
+        {
+          "word": "xức",
+          "start": 3.44,
+          "end": 3.64,
+          "probability": 0.49
+        },
+        {
+          "word": "hoại.",
+          "start": 3.64,
+          "end": 4.02,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.26,
+      "end": 9.82,
+      "text": "Sao ngày 3 tháng 6, báo dân chi vối hộp cùng vệnh vệnh thân nhanh và chính quyền xã thịt thuật",
+      "words": [
+        {
+          "word": "Sao",
+          "start": 5.26,
+          "end": 5.44,
+          "probability": 0.33
+        },
+        {
+          "word": "ngày",
+          "start": 5.44,
+          "end": 5.6,
+          "probability": 0.75
+        },
+        {
+          "word": "3",
+          "start": 5.6,
+          "end": 5.78,
+          "probability": 0.39
+        },
+        {
+          "word": "tháng",
+          "start": 5.78,
+          "end": 6.04,
+          "probability": 0.32
+        },
+        {
+          "word": "6,",
+          "start": 6.04,
+          "end": 6.46,
+          "probability": 0.37
+        },
+        {
+          "word": "báo",
+          "start": 6.62,
+          "end": 6.76,
+          "probability": 0.66
+        },
+        {
+          "word": "dân",
+          "start": 6.76,
+          "end": 6.96,
+          "probability": 0.61
+        },
+        {
+          "word": "chi",
+          "start": 6.96,
+          "end": 7.2,
+          "probability": 0.32
+        },
+        {
+          "word": "vối",
+          "start": 7.2,
+          "end": 7.32,
+          "probability": 0.44
+        },
+        {
+          "word": "hộp",
+          "start": 7.32,
+          "end": 7.58,
+          "probability": 0.51
+        },
+        {
+          "word": "cùng",
+          "start": 7.58,
+          "end": 7.76,
+          "probability": 0.78
+        },
+        {
+          "word": "vệnh",
+          "start": 7.76,
+          "end": 7.98,
+          "probability": 0.43
+        },
+        {
+          "word": "vệnh",
+          "start": 7.98,
+          "end": 8.18,
+          "probability": 0.46
+        },
+        {
+          "word": "thân",
+          "start": 8.18,
+          "end": 8.3,
+          "probability": 0.54
+        },
+        {
+          "word": "nhanh",
+          "start": 8.3,
+          "end": 8.5,
+          "probability": 0.45
+        },
+        {
+          "word": "và",
+          "start": 8.5,
+          "end": 8.68,
+          "probability": 0.91
+        },
+        {
+          "word": "chính",
+          "start": 8.68,
+          "end": 8.88,
+          "probability": 0.96
+        },
+        {
+          "word": "quyền",
+          "start": 8.88,
+          "end": 9.14,
+          "probability": 0.94
+        },
+        {
+          "word": "xã",
+          "start": 9.14,
+          "end": 9.34,
+          "probability": 0.39
+        },
+        {
+          "word": "thịt",
+          "start": 9.34,
+          "end": 9.54,
+          "probability": 0.57
+        },
+        {
+          "word": "thuật",
+          "start": 9.54,
+          "end": 9.82,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.82,
+      "end": 13.18,
+      "text": "vệnh lọng sân tổ chức chân chính tư bánh xức hoại nễn phi trong người dân.",
+      "words": [
+        {
+          "word": "vệnh",
+          "start": 9.82,
+          "end": 10.16,
+          "probability": 0.53
+        },
+        {
+          "word": "lọng",
+          "start": 10.16,
+          "end": 10.36,
+          "probability": 0.83
+        },
+        {
+          "word": "sân",
+          "start": 10.36,
+          "end": 10.58,
+          "probability": 0.57
+        },
+        {
+          "word": "tổ",
+          "start": 10.58,
+          "end": 10.78,
+          "probability": 0.92
+        },
+        {
+          "word": "chức",
+          "start": 10.78,
+          "end": 10.96,
+          "probability": 0.87
+        },
+        {
+          "word": "chân",
+          "start": 10.96,
+          "end": 11.14,
+          "probability": 0.62
+        },
+        {
+          "word": "chính",
+          "start": 11.14,
+          "end": 11.4,
+          "probability": 0.33
+        },
+        {
+          "word": "tư",
+          "start": 11.4,
+          "end": 11.54,
+          "probability": 0.83
+        },
+        {
+          "word": "bánh",
+          "start": 11.54,
+          "end": 11.74,
+          "probability": 0.96
+        },
+        {
+          "word": "xức",
+          "start": 11.74,
+          "end": 11.94,
+          "probability": 0.98
+        },
+        {
+          "word": "hoại",
+          "start": 11.94,
+          "end": 12.12,
+          "probability": 0.95
+        },
+        {
+          "word": "nễn",
+          "start": 12.12,
+          "end": 12.4,
+          "probability": 0.39
+        },
+        {
+          "word": "phi",
+          "start": 12.4,
+          "end": 12.5,
+          "probability": 0.28
+        },
+        {
+          "word": "trong",
+          "start": 12.5,
+          "end": 12.74,
+          "probability": 0.74
+        },
+        {
+          "word": "người",
+          "start": 12.74,
+          "end": 12.92,
+          "probability": 0.74
+        },
+        {
+          "word": "dân.",
+          "start": 12.92,
+          "end": 13.18,
+          "probability": 0.79
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.18,
+      "end": 17.86,
+      "text": "Tư săng sống, xanh trọng i tế xã thịt thuật đã chặt khiến người dân",
+      "words": [
+        {
+          "word": "Tư",
+          "start": 14.18,
+          "end": 14.36,
+          "probability": 0.66
+        },
+        {
+          "word": "săng",
+          "start": 14.36,
+          "end": 14.58,
+          "probability": 0.43
+        },
+        {
+          "word": "sống,",
+          "start": 14.58,
+          "end": 14.98,
+          "probability": 0.64
+        },
+        {
+          "word": "xanh",
+          "start": 15.24,
+          "end": 15.44,
+          "probability": 0.4
+        },
+        {
+          "word": "trọng",
+          "start": 15.44,
+          "end": 15.64,
+          "probability": 0.74
+        },
+        {
+          "word": "i",
+          "start": 15.64,
+          "end": 15.82,
+          "probability": 0.22
+        },
+        {
+          "word": "tế",
+          "start": 15.82,
+          "end": 16.06,
+          "probability": 0.65
+        },
+        {
+          "word": "xã",
+          "start": 16.06,
+          "end": 16.34,
+          "probability": 0.98
+        },
+        {
+          "word": "thịt",
+          "start": 16.34,
+          "end": 16.48,
+          "probability": 0.96
+        },
+        {
+          "word": "thuật",
+          "start": 16.48,
+          "end": 16.74,
+          "probability": 0.99
+        },
+        {
+          "word": "đã",
+          "start": 16.74,
+          "end": 16.92,
+          "probability": 0.88
+        },
+        {
+          "word": "chặt",
+          "start": 16.92,
+          "end": 17.12,
+          "probability": 0.48
+        },
+        {
+          "word": "khiến",
+          "start": 17.12,
+          "end": 17.34,
+          "probability": 0.54
+        },
+        {
+          "word": "người",
+          "start": 17.34,
+          "end": 17.5,
+          "probability": 0.85
+        },
+        {
+          "word": "dân",
+          "start": 17.5,
+          "end": 17.86,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 17.86,
+      "end": 20.86,
+      "text": "nhau của ông, cuộc bàn người sẽ phản chờ đến lực.",
+      "words": [
+        {
+          "word": "nhau",
+          "start": 17.86,
+          "end": 18.4,
+          "probability": 0.42
+        },
+        {
+          "word": "của",
+          "start": 18.4,
+          "end": 18.58,
+          "probability": 0.29
+        },
+        {
+          "word": "ông,",
+          "start": 18.58,
+          "end": 18.88,
+          "probability": 0.99
+        },
+        {
+          "word": "cuộc",
+          "start": 19.26,
+          "end": 19.26,
+          "probability": 0.2
+        },
+        {
+          "word": "bàn",
+          "start": 19.26,
+          "end": 19.46,
+          "probability": 0.52
+        },
+        {
+          "word": "người",
+          "start": 19.46,
+          "end": 19.68,
+          "probability": 0.66
+        },
+        {
+          "word": "sẽ",
+          "start": 19.68,
+          "end": 19.88,
+          "probability": 0.84
+        },
+        {
+          "word": "phản",
+          "start": 19.88,
+          "end": 20.14,
+          "probability": 0.16
+        },
+        {
+          "word": "chờ",
+          "start": 20.14,
+          "end": 20.36,
+          "probability": 0.43
+        },
+        {
+          "word": "đến",
+          "start": 20.36,
+          "end": 20.54,
+          "probability": 0.85
+        },
+        {
+          "word": "lực.",
+          "start": 20.54,
+          "end": 20.86,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 21.38,
+      "end": 25.44,
+      "text": "Với nhường người, đây là dịp hiếm hoại được các bác sĩ từ hành lỗi trực tiếp tham khám",
+      "words": [
+        {
+          "word": "Với",
+          "start": 21.38,
+          "end": 21.52,
+          "probability": 0.58
+        },
+        {
+          "word": "nhường",
+          "start": 21.52,
+          "end": 21.72,
+          "probability": 0.47
+        },
+        {
+          "word": "người,",
+          "start": 21.72,
+          "end": 22.1,
+          "probability": 0.7
+        },
+        {
+          "word": "đây",
+          "start": 22.26,
+          "end": 22.4,
+          "probability": 0.74
+        },
+        {
+          "word": "là",
+          "start": 22.4,
+          "end": 22.56,
+          "probability": 1.0
+        },
+        {
+          "word": "dịp",
+          "start": 22.56,
+          "end": 22.78,
+          "probability": 0.58
+        },
+        {
+          "word": "hiếm",
+          "start": 22.78,
+          "end": 22.96,
+          "probability": 0.56
+        },
+        {
+          "word": "hoại",
+          "start": 22.96,
+          "end": 23.18,
+          "probability": 0.39
+        },
+        {
+          "word": "được",
+          "start": 23.18,
+          "end": 23.38,
+          "probability": 0.94
+        },
+        {
+          "word": "các",
+          "start": 23.38,
+          "end": 23.54,
+          "probability": 0.93
+        },
+        {
+          "word": "bác",
+          "start": 23.54,
+          "end": 23.7,
+          "probability": 0.75
+        },
+        {
+          "word": "sĩ",
+          "start": 23.7,
+          "end": 23.88,
+          "probability": 0.82
+        },
+        {
+          "word": "từ",
+          "start": 23.88,
+          "end": 24.08,
+          "probability": 0.55
+        },
+        {
+          "word": "hành",
+          "start": 24.08,
+          "end": 24.26,
+          "probability": 0.43
+        },
+        {
+          "word": "lỗi",
+          "start": 24.26,
+          "end": 24.44,
+          "probability": 0.29
+        },
+        {
+          "word": "trực",
+          "start": 24.44,
+          "end": 24.64,
+          "probability": 0.59
+        },
+        {
+          "word": "tiếp",
+          "start": 24.64,
+          "end": 24.78,
+          "probability": 0.61
+        },
+        {
+          "word": "tham",
+          "start": 24.78,
+          "end": 25.02,
+          "probability": 0.57
+        },
+        {
+          "word": "khám",
+          "start": 25.02,
+          "end": 25.44,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 25.44,
+      "end": 27.44,
+      "text": "tư bánh xức hoại và phát thuốc nễn phi.",
+      "words": [
+        {
+          "word": "tư",
+          "start": 25.44,
+          "end": 25.74,
+          "probability": 0.6
+        },
+        {
+          "word": "bánh",
+          "start": 25.74,
+          "end": 26.0,
+          "probability": 0.96
+        },
+        {
+          "word": "xức",
+          "start": 26.0,
+          "end": 26.18,
+          "probability": 0.98
+        },
+        {
+          "word": "hoại",
+          "start": 26.18,
+          "end": 26.4,
+          "probability": 0.99
+        },
+        {
+          "word": "và",
+          "start": 26.4,
+          "end": 26.62,
+          "probability": 0.92
+        },
+        {
+          "word": "phát",
+          "start": 26.62,
+          "end": 26.84,
+          "probability": 0.93
+        },
+        {
+          "word": "thuốc",
+          "start": 26.84,
+          "end": 27.0,
+          "probability": 0.58
+        },
+        {
+          "word": "nễn",
+          "start": 27.0,
+          "end": 27.22,
+          "probability": 0.68
+        },
+        {
+          "word": "phi.",
+          "start": 27.22,
+          "end": 27.44,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 27.44,
+      "end": 29.98,
+      "text": "Bà thân chắc lại.",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 27.44,
+          "end": 28.62,
+          "probability": 0.36
+        },
+        {
+          "word": "thân",
+          "start": 28.62,
+          "end": 28.88,
+          "probability": 0.53
+        },
+        {
+          "word": "chắc",
+          "start": 28.88,
+          "end": 29.14,
+          "probability": 0.33
+        },
+        {
+          "word": "lại.",
+          "start": 29.14,
+          "end": 29.98,
+          "probability": 0.18
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7572426110655352082_02",
+  "duration_seconds": 28.9,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Bây giờ...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.03,
+      "end": 2.65,
+      "text": "Bây giờ...",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 2.03,
+          "end": 2.65,
+          "probability": 0.09
+        },
+        {
+          "word": "giờ...",
+          "start": 2.65,
+          "end": 2.65,
+          "probability": 0.45
+        }
+      ]
+    }
+  ]
+}

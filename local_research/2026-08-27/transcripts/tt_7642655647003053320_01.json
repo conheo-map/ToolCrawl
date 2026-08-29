@@ -1,0 +1,806 @@
+{
+  "item_id": "tt_7642655647003053320_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 122,
+  "text": "Giải kêu cá thể voa con bị dơi xuống hô ở đồng này. Ngày hai hai tháng năm, đại dễ thịt khu bảo tổn thiên dên văn quá đồng này thông tin, đơn vị vừa phối hợp với cơ quan chức năng phần chi ăn. Cung người dân khu phố bà hào giải kêu thành công một cá thể voa con dơi xuống hô sâu bạm mát trong vình suài của người dân. Chức đó, mặc sau hợi lan chuyển đoạn liếp khi lại cạnh lực lượng chức năng nỗ lực giải kêu một voa con mắc kẻ dưới hô sâu tại khu vực giải suài ở phần chi ăn. Thành phố động đại khu hút sử quân tâm của nhiều người.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.2,
+      "end": 3.72,
+      "text": "Giải kêu cá thể voa con bị dơi xuống hô ở đồng này.",
+      "words": [
+        {
+          "word": "Giải",
+          "start": 1.2,
+          "end": 1.82,
+          "probability": 0.35
+        },
+        {
+          "word": "kêu",
+          "start": 1.82,
+          "end": 1.9,
+          "probability": 0.32
+        },
+        {
+          "word": "cá",
+          "start": 1.9,
+          "end": 2.06,
+          "probability": 0.52
+        },
+        {
+          "word": "thể",
+          "start": 2.06,
+          "end": 2.2,
+          "probability": 0.6
+        },
+        {
+          "word": "voa",
+          "start": 2.2,
+          "end": 2.38,
+          "probability": 0.42
+        },
+        {
+          "word": "con",
+          "start": 2.38,
+          "end": 2.54,
+          "probability": 0.73
+        },
+        {
+          "word": "bị",
+          "start": 2.54,
+          "end": 2.68,
+          "probability": 0.85
+        },
+        {
+          "word": "dơi",
+          "start": 2.68,
+          "end": 2.84,
+          "probability": 0.47
+        },
+        {
+          "word": "xuống",
+          "start": 2.84,
+          "end": 3.04,
+          "probability": 0.92
+        },
+        {
+          "word": "hô",
+          "start": 3.04,
+          "end": 3.2,
+          "probability": 0.57
+        },
+        {
+          "word": "ở",
+          "start": 3.2,
+          "end": 3.34,
+          "probability": 0.96
+        },
+        {
+          "word": "đồng",
+          "start": 3.34,
+          "end": 3.44,
+          "probability": 0.58
+        },
+        {
+          "word": "này.",
+          "start": 3.44,
+          "end": 3.72,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.57,
+      "end": 10.13,
+      "text": "Ngày hai hai tháng năm, đại dễ thịt khu bảo tổn thiên dên văn quá đồng này thông tin,",
+      "words": [
+        {
+          "word": "Ngày",
+          "start": 6.57,
+          "end": 6.69,
+          "probability": 0.58
+        },
+        {
+          "word": "hai",
+          "start": 6.69,
+          "end": 6.91,
+          "probability": 0.34
+        },
+        {
+          "word": "hai",
+          "start": 6.91,
+          "end": 7.03,
+          "probability": 0.72
+        },
+        {
+          "word": "tháng",
+          "start": 7.03,
+          "end": 7.17,
+          "probability": 0.72
+        },
+        {
+          "word": "năm,",
+          "start": 7.17,
+          "end": 7.55,
+          "probability": 0.65
+        },
+        {
+          "word": "đại",
+          "start": 7.63,
+          "end": 7.77,
+          "probability": 0.71
+        },
+        {
+          "word": "dễ",
+          "start": 7.77,
+          "end": 7.95,
+          "probability": 0.24
+        },
+        {
+          "word": "thịt",
+          "start": 7.95,
+          "end": 8.07,
+          "probability": 0.48
+        },
+        {
+          "word": "khu",
+          "start": 8.07,
+          "end": 8.15,
+          "probability": 0.54
+        },
+        {
+          "word": "bảo",
+          "start": 8.15,
+          "end": 8.35,
+          "probability": 0.87
+        },
+        {
+          "word": "tổn",
+          "start": 8.35,
+          "end": 8.59,
+          "probability": 0.83
+        },
+        {
+          "word": "thiên",
+          "start": 8.59,
+          "end": 8.75,
+          "probability": 0.75
+        },
+        {
+          "word": "dên",
+          "start": 8.75,
+          "end": 8.93,
+          "probability": 0.16
+        },
+        {
+          "word": "văn",
+          "start": 8.93,
+          "end": 9.11,
+          "probability": 0.44
+        },
+        {
+          "word": "quá",
+          "start": 9.11,
+          "end": 9.29,
+          "probability": 0.18
+        },
+        {
+          "word": "đồng",
+          "start": 9.29,
+          "end": 9.47,
+          "probability": 0.93
+        },
+        {
+          "word": "này",
+          "start": 9.47,
+          "end": 9.67,
+          "probability": 0.83
+        },
+        {
+          "word": "thông",
+          "start": 9.67,
+          "end": 9.83,
+          "probability": 0.82
+        },
+        {
+          "word": "tin,",
+          "start": 9.83,
+          "end": 10.13,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.33,
+      "end": 12.73,
+      "text": "đơn vị vừa phối hợp với cơ quan chức năng phần chi ăn.",
+      "words": [
+        {
+          "word": "đơn",
+          "start": 10.33,
+          "end": 10.47,
+          "probability": 0.69
+        },
+        {
+          "word": "vị",
+          "start": 10.47,
+          "end": 10.61,
+          "probability": 0.86
+        },
+        {
+          "word": "vừa",
+          "start": 10.61,
+          "end": 10.85,
+          "probability": 0.86
+        },
+        {
+          "word": "phối",
+          "start": 10.85,
+          "end": 11.05,
+          "probability": 0.77
+        },
+        {
+          "word": "hợp",
+          "start": 11.05,
+          "end": 11.23,
+          "probability": 0.92
+        },
+        {
+          "word": "với",
+          "start": 11.23,
+          "end": 11.39,
+          "probability": 0.81
+        },
+        {
+          "word": "cơ",
+          "start": 11.39,
+          "end": 11.57,
+          "probability": 0.78
+        },
+        {
+          "word": "quan",
+          "start": 11.57,
+          "end": 11.73,
+          "probability": 0.92
+        },
+        {
+          "word": "chức",
+          "start": 11.73,
+          "end": 11.87,
+          "probability": 0.53
+        },
+        {
+          "word": "năng",
+          "start": 11.87,
+          "end": 12.05,
+          "probability": 0.88
+        },
+        {
+          "word": "phần",
+          "start": 12.05,
+          "end": 12.27,
+          "probability": 0.72
+        },
+        {
+          "word": "chi",
+          "start": 12.27,
+          "end": 12.45,
+          "probability": 0.27
+        },
+        {
+          "word": "ăn.",
+          "start": 12.45,
+          "end": 12.73,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.21,
+      "end": 16.97,
+      "text": "Cung người dân khu phố bà hào giải kêu thành công một cá thể voa con dơi xuống hô sâu",
+      "words": [
+        {
+          "word": "Cung",
+          "start": 13.21,
+          "end": 13.27,
+          "probability": 0.41
+        },
+        {
+          "word": "người",
+          "start": 13.27,
+          "end": 13.39,
+          "probability": 0.26
+        },
+        {
+          "word": "dân",
+          "start": 13.39,
+          "end": 13.53,
+          "probability": 0.72
+        },
+        {
+          "word": "khu",
+          "start": 13.53,
+          "end": 13.75,
+          "probability": 0.76
+        },
+        {
+          "word": "phố",
+          "start": 13.75,
+          "end": 13.91,
+          "probability": 0.69
+        },
+        {
+          "word": "bà",
+          "start": 13.91,
+          "end": 14.17,
+          "probability": 0.74
+        },
+        {
+          "word": "hào",
+          "start": 14.17,
+          "end": 14.39,
+          "probability": 0.71
+        },
+        {
+          "word": "giải",
+          "start": 14.39,
+          "end": 14.61,
+          "probability": 0.68
+        },
+        {
+          "word": "kêu",
+          "start": 14.61,
+          "end": 14.85,
+          "probability": 0.34
+        },
+        {
+          "word": "thành",
+          "start": 14.85,
+          "end": 15.03,
+          "probability": 0.96
+        },
+        {
+          "word": "công",
+          "start": 15.03,
+          "end": 15.25,
+          "probability": 0.77
+        },
+        {
+          "word": "một",
+          "start": 15.25,
+          "end": 15.37,
+          "probability": 0.63
+        },
+        {
+          "word": "cá",
+          "start": 15.37,
+          "end": 15.53,
+          "probability": 0.99
+        },
+        {
+          "word": "thể",
+          "start": 15.53,
+          "end": 15.75,
+          "probability": 0.79
+        },
+        {
+          "word": "voa",
+          "start": 15.75,
+          "end": 15.95,
+          "probability": 0.93
+        },
+        {
+          "word": "con",
+          "start": 15.95,
+          "end": 16.21,
+          "probability": 0.97
+        },
+        {
+          "word": "dơi",
+          "start": 16.21,
+          "end": 16.35,
+          "probability": 0.87
+        },
+        {
+          "word": "xuống",
+          "start": 16.35,
+          "end": 16.57,
+          "probability": 1.0
+        },
+        {
+          "word": "hô",
+          "start": 16.57,
+          "end": 16.79,
+          "probability": 0.92
+        },
+        {
+          "word": "sâu",
+          "start": 16.79,
+          "end": 16.97,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.97,
+      "end": 18.59,
+      "text": "bạm mát trong vình suài của người dân.",
+      "words": [
+        {
+          "word": "bạm",
+          "start": 16.97,
+          "end": 17.27,
+          "probability": 0.3
+        },
+        {
+          "word": "mát",
+          "start": 17.27,
+          "end": 17.59,
+          "probability": 0.29
+        },
+        {
+          "word": "trong",
+          "start": 17.59,
+          "end": 17.77,
+          "probability": 0.83
+        },
+        {
+          "word": "vình",
+          "start": 17.77,
+          "end": 17.97,
+          "probability": 0.47
+        },
+        {
+          "word": "suài",
+          "start": 17.97,
+          "end": 18.17,
+          "probability": 0.42
+        },
+        {
+          "word": "của",
+          "start": 18.17,
+          "end": 18.31,
+          "probability": 0.72
+        },
+        {
+          "word": "người",
+          "start": 18.31,
+          "end": 18.45,
+          "probability": 1.0
+        },
+        {
+          "word": "dân.",
+          "start": 18.45,
+          "end": 18.59,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 19.31,
+      "end": 23.61,
+      "text": "Chức đó, mặc sau hợi lan chuyển đoạn liếp khi lại cạnh lực lượng chức năng nỗ lực giải kêu",
+      "words": [
+        {
+          "word": "Chức",
+          "start": 19.31,
+          "end": 19.49,
+          "probability": 0.52
+        },
+        {
+          "word": "đó,",
+          "start": 19.49,
+          "end": 19.87,
+          "probability": 0.91
+        },
+        {
+          "word": "mặc",
+          "start": 20.33,
+          "end": 20.49,
+          "probability": 0.48
+        },
+        {
+          "word": "sau",
+          "start": 20.49,
+          "end": 20.59,
+          "probability": 0.26
+        },
+        {
+          "word": "hợi",
+          "start": 20.59,
+          "end": 20.77,
+          "probability": 0.66
+        },
+        {
+          "word": "lan",
+          "start": 20.77,
+          "end": 21.01,
+          "probability": 0.44
+        },
+        {
+          "word": "chuyển",
+          "start": 21.01,
+          "end": 21.09,
+          "probability": 0.42
+        },
+        {
+          "word": "đoạn",
+          "start": 21.09,
+          "end": 21.29,
+          "probability": 0.56
+        },
+        {
+          "word": "liếp",
+          "start": 21.29,
+          "end": 21.51,
+          "probability": 0.51
+        },
+        {
+          "word": "khi",
+          "start": 21.51,
+          "end": 21.69,
+          "probability": 0.6
+        },
+        {
+          "word": "lại",
+          "start": 21.69,
+          "end": 21.83,
+          "probability": 0.79
+        },
+        {
+          "word": "cạnh",
+          "start": 21.83,
+          "end": 21.99,
+          "probability": 0.61
+        },
+        {
+          "word": "lực",
+          "start": 21.99,
+          "end": 22.13,
+          "probability": 0.69
+        },
+        {
+          "word": "lượng",
+          "start": 22.13,
+          "end": 22.33,
+          "probability": 0.77
+        },
+        {
+          "word": "chức",
+          "start": 22.33,
+          "end": 22.51,
+          "probability": 0.91
+        },
+        {
+          "word": "năng",
+          "start": 22.51,
+          "end": 22.77,
+          "probability": 0.99
+        },
+        {
+          "word": "nỗ",
+          "start": 22.77,
+          "end": 23.03,
+          "probability": 0.67
+        },
+        {
+          "word": "lực",
+          "start": 23.03,
+          "end": 23.15,
+          "probability": 0.92
+        },
+        {
+          "word": "giải",
+          "start": 23.15,
+          "end": 23.39,
+          "probability": 0.96
+        },
+        {
+          "word": "kêu",
+          "start": 23.39,
+          "end": 23.61,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 23.61,
+      "end": 26.95,
+      "text": "một voa con mắc kẻ dưới hô sâu tại khu vực giải suài ở phần chi ăn.",
+      "words": [
+        {
+          "word": "một",
+          "start": 23.61,
+          "end": 23.79,
+          "probability": 0.48
+        },
+        {
+          "word": "voa",
+          "start": 23.79,
+          "end": 24.01,
+          "probability": 0.76
+        },
+        {
+          "word": "con",
+          "start": 24.01,
+          "end": 24.17,
+          "probability": 0.66
+        },
+        {
+          "word": "mắc",
+          "start": 24.17,
+          "end": 24.35,
+          "probability": 0.71
+        },
+        {
+          "word": "kẻ",
+          "start": 24.35,
+          "end": 24.53,
+          "probability": 0.73
+        },
+        {
+          "word": "dưới",
+          "start": 24.53,
+          "end": 24.71,
+          "probability": 0.77
+        },
+        {
+          "word": "hô",
+          "start": 24.71,
+          "end": 24.93,
+          "probability": 0.97
+        },
+        {
+          "word": "sâu",
+          "start": 24.93,
+          "end": 25.17,
+          "probability": 0.95
+        },
+        {
+          "word": "tại",
+          "start": 25.17,
+          "end": 25.35,
+          "probability": 0.8
+        },
+        {
+          "word": "khu",
+          "start": 25.35,
+          "end": 25.53,
+          "probability": 0.95
+        },
+        {
+          "word": "vực",
+          "start": 25.53,
+          "end": 25.67,
+          "probability": 0.97
+        },
+        {
+          "word": "giải",
+          "start": 25.67,
+          "end": 25.85,
+          "probability": 0.85
+        },
+        {
+          "word": "suài",
+          "start": 25.85,
+          "end": 26.11,
+          "probability": 0.93
+        },
+        {
+          "word": "ở",
+          "start": 26.11,
+          "end": 26.33,
+          "probability": 1.0
+        },
+        {
+          "word": "phần",
+          "start": 26.33,
+          "end": 26.43,
+          "probability": 0.94
+        },
+        {
+          "word": "chi",
+          "start": 26.43,
+          "end": 26.67,
+          "probability": 0.99
+        },
+        {
+          "word": "ăn.",
+          "start": 26.67,
+          "end": 26.95,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 26.95,
+      "end": 29.53,
+      "text": "Thành phố động đại khu hút sử quân tâm của nhiều người.",
+      "words": [
+        {
+          "word": "Thành",
+          "start": 26.95,
+          "end": 27.29,
+          "probability": 0.35
+        },
+        {
+          "word": "phố",
+          "start": 27.29,
+          "end": 27.43,
+          "probability": 0.73
+        },
+        {
+          "word": "động",
+          "start": 27.43,
+          "end": 27.61,
+          "probability": 0.52
+        },
+        {
+          "word": "đại",
+          "start": 27.61,
+          "end": 27.99,
+          "probability": 0.56
+        },
+        {
+          "word": "khu",
+          "start": 27.99,
+          "end": 28.23,
+          "probability": 0.55
+        },
+        {
+          "word": "hút",
+          "start": 28.23,
+          "end": 28.45,
+          "probability": 0.61
+        },
+        {
+          "word": "sử",
+          "start": 28.45,
+          "end": 28.63,
+          "probability": 0.33
+        },
+        {
+          "word": "quân",
+          "start": 28.63,
+          "end": 28.83,
+          "probability": 0.32
+        },
+        {
+          "word": "tâm",
+          "start": 28.83,
+          "end": 29.01,
+          "probability": 0.91
+        },
+        {
+          "word": "của",
+          "start": 29.01,
+          "end": 29.15,
+          "probability": 0.1
+        },
+        {
+          "word": "nhiều",
+          "start": 29.15,
+          "end": 29.29,
+          "probability": 0.48
+        },
+        {
+          "word": "người.",
+          "start": 29.29,
+          "end": 29.53,
+          "probability": 0.92
+        }
+      ]
+    }
+  ]
+}

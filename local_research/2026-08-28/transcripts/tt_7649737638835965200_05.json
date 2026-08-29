@@ -1,0 +1,128 @@
+{
+  "item_id": "tt_7649737638835965200_05",
+  "duration_seconds": 6.26,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 17,
+  "text": "Bình thích, xúc viên, các bạn hôm nay, năm nay tốt, để phem đủ and bột phá.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Bình thích, xúc viên, các bạn hôm nay,",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.5
+        },
+        {
+          "word": "thích,",
+          "start": 0.54,
+          "end": 0.84,
+          "probability": 0.24
+        },
+        {
+          "word": "xúc",
+          "start": 1.16,
+          "end": 1.2,
+          "probability": 0.15
+        },
+        {
+          "word": "viên,",
+          "start": 1.2,
+          "end": 1.8,
+          "probability": 0.41
+        },
+        {
+          "word": "các",
+          "start": 1.96,
+          "end": 2.02,
+          "probability": 0.25
+        },
+        {
+          "word": "bạn",
+          "start": 2.02,
+          "end": 2.2,
+          "probability": 0.43
+        },
+        {
+          "word": "hôm",
+          "start": 2.2,
+          "end": 2.48,
+          "probability": 0.32
+        },
+        {
+          "word": "nay,",
+          "start": 2.48,
+          "end": 2.66,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.78,
+      "end": 5.5,
+      "text": "năm nay tốt, để phem đủ and bột phá.",
+      "words": [
+        {
+          "word": "năm",
+          "start": 2.78,
+          "end": 2.96,
+          "probability": 0.04
+        },
+        {
+          "word": "nay",
+          "start": 2.96,
+          "end": 3.14,
+          "probability": 0.09
+        },
+        {
+          "word": "tốt,",
+          "start": 3.14,
+          "end": 3.4,
+          "probability": 0.53
+        },
+        {
+          "word": "để",
+          "start": 3.7,
+          "end": 3.84,
+          "probability": 0.52
+        },
+        {
+          "word": "phem",
+          "start": 3.84,
+          "end": 4.12,
+          "probability": 0.1
+        },
+        {
+          "word": "đủ",
+          "start": 4.12,
+          "end": 4.3,
+          "probability": 0.25
+        },
+        {
+          "word": "and",
+          "start": 4.3,
+          "end": 4.54,
+          "probability": 0.2
+        },
+        {
+          "word": "bột",
+          "start": 4.54,
+          "end": 5.0,
+          "probability": 0.45
+        },
+        {
+          "word": "phá.",
+          "start": 5.0,
+          "end": 5.5,
+          "probability": 0.46
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "item_id": "tt_7674294759082675474_18",
+  "duration_seconds": 28.82,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 11,
+  "text": "Đà vắng đau rồi, xí xe mấy mình Nguyên không đau",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.93,
+      "text": "Đà vắng đau rồi, xí xe mấy mình",
+      "words": [
+        {
+          "word": "Đà",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.28
+        },
+        {
+          "word": "vắng",
+          "start": 0.34,
+          "end": 0.48,
+          "probability": 0.23
+        },
+        {
+          "word": "đau",
+          "start": 0.48,
+          "end": 0.68,
+          "probability": 0.23
+        },
+        {
+          "word": "rồi,",
+          "start": 2.95,
+          "end": 3.15,
+          "probability": 0.04
+        },
+        {
+          "word": "xí",
+          "start": 3.25,
+          "end": 3.37,
+          "probability": 0.44
+        },
+        {
+          "word": "xe",
+          "start": 3.37,
+          "end": 3.51,
+          "probability": 0.17
+        },
+        {
+          "word": "mấy",
+          "start": 3.51,
+          "end": 3.65,
+          "probability": 0.2
+        },
+        {
+          "word": "mình",
+          "start": 3.65,
+          "end": 3.93,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 25.86,
+      "end": 26.4,
+      "text": "Nguyên không đau",
+      "words": [
+        {
+          "word": "Nguyên",
+          "start": 25.86,
+          "end": 26.22,
+          "probability": 0.21
+        },
+        {
+          "word": "không",
+          "start": 26.22,
+          "end": 26.4,
+          "probability": 0.56
+        },
+        {
+          "word": "đau",
+          "start": 26.4,
+          "end": 26.4,
+          "probability": 0.49
+        }
+      ]
+    }
+  ]
+}

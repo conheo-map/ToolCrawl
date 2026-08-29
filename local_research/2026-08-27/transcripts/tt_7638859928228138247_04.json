@@ -1,0 +1,532 @@
+{
+  "item_id": "tt_7638859928228138247_04",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 79,
+  "text": "sẽ thông tin lại, tình tin lại, cho chắc, tình tin sẽ thông phát thân cũng đột lập lạch trên tuyến và chân các biến báo hiểu bằng điện tử cũng cũng lắp đặt trên tuyến để cảm báo, nhưng cũng tình cũng như là chè tham gia lưu thông, biết trước có cái cái cái đỉnh nướng để mà lưu thông cho nó phụ hợp nó nói ra cái, những cái thông tin lại nó cũng rất là",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.06,
+      "text": "sẽ thông tin lại, tình tin lại, cho chắc, tình tin sẽ thông phát thân",
+      "words": [
+        {
+          "word": "sẽ",
+          "start": 0.0,
+          "end": 0.78,
+          "probability": 0.08
+        },
+        {
+          "word": "thông",
+          "start": 0.78,
+          "end": 1.3,
+          "probability": 0.5
+        },
+        {
+          "word": "tin",
+          "start": 1.3,
+          "end": 1.48,
+          "probability": 0.8
+        },
+        {
+          "word": "lại,",
+          "start": 1.48,
+          "end": 1.92,
+          "probability": 0.94
+        },
+        {
+          "word": "tình",
+          "start": 2.12,
+          "end": 2.28,
+          "probability": 0.23
+        },
+        {
+          "word": "tin",
+          "start": 2.28,
+          "end": 2.56,
+          "probability": 0.17
+        },
+        {
+          "word": "lại,",
+          "start": 2.56,
+          "end": 2.9,
+          "probability": 0.99
+        },
+        {
+          "word": "cho",
+          "start": 4.2,
+          "end": 4.2,
+          "probability": 0.17
+        },
+        {
+          "word": "chắc,",
+          "start": 4.2,
+          "end": 4.6,
+          "probability": 0.39
+        },
+        {
+          "word": "tình",
+          "start": 5.14,
+          "end": 5.4,
+          "probability": 0.35
+        },
+        {
+          "word": "tin",
+          "start": 5.4,
+          "end": 5.6,
+          "probability": 0.51
+        },
+        {
+          "word": "sẽ",
+          "start": 5.6,
+          "end": 5.78,
+          "probability": 0.3
+        },
+        {
+          "word": "thông",
+          "start": 5.78,
+          "end": 6.12,
+          "probability": 0.8
+        },
+        {
+          "word": "phát",
+          "start": 6.12,
+          "end": 6.38,
+          "probability": 0.57
+        },
+        {
+          "word": "thân",
+          "start": 6.38,
+          "end": 7.06,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.06,
+      "end": 11.52,
+      "text": "cũng đột lập lạch trên tuyến và chân các biến báo hiểu bằng điện tử",
+      "words": [
+        {
+          "word": "cũng",
+          "start": 7.06,
+          "end": 7.76,
+          "probability": 0.15
+        },
+        {
+          "word": "đột",
+          "start": 7.76,
+          "end": 8.04,
+          "probability": 0.47
+        },
+        {
+          "word": "lập",
+          "start": 8.04,
+          "end": 8.22,
+          "probability": 0.64
+        },
+        {
+          "word": "lạch",
+          "start": 8.22,
+          "end": 8.42,
+          "probability": 0.49
+        },
+        {
+          "word": "trên",
+          "start": 8.42,
+          "end": 8.52,
+          "probability": 0.76
+        },
+        {
+          "word": "tuyến",
+          "start": 8.52,
+          "end": 8.96,
+          "probability": 0.67
+        },
+        {
+          "word": "và",
+          "start": 8.96,
+          "end": 9.22,
+          "probability": 0.81
+        },
+        {
+          "word": "chân",
+          "start": 9.22,
+          "end": 9.44,
+          "probability": 0.36
+        },
+        {
+          "word": "các",
+          "start": 9.44,
+          "end": 9.72,
+          "probability": 0.35
+        },
+        {
+          "word": "biến",
+          "start": 9.72,
+          "end": 9.98,
+          "probability": 0.64
+        },
+        {
+          "word": "báo",
+          "start": 9.98,
+          "end": 10.38,
+          "probability": 0.72
+        },
+        {
+          "word": "hiểu",
+          "start": 10.38,
+          "end": 10.78,
+          "probability": 0.64
+        },
+        {
+          "word": "bằng",
+          "start": 10.78,
+          "end": 10.96,
+          "probability": 0.57
+        },
+        {
+          "word": "điện",
+          "start": 10.96,
+          "end": 11.16,
+          "probability": 0.27
+        },
+        {
+          "word": "tử",
+          "start": 11.16,
+          "end": 11.52,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.52,
+      "end": 17.22,
+      "text": "cũng cũng lắp đặt trên tuyến để cảm báo, nhưng cũng tình cũng như là chè",
+      "words": [
+        {
+          "word": "cũng",
+          "start": 11.52,
+          "end": 12.1,
+          "probability": 0.41
+        },
+        {
+          "word": "cũng",
+          "start": 12.1,
+          "end": 12.24,
+          "probability": 0.18
+        },
+        {
+          "word": "lắp",
+          "start": 12.24,
+          "end": 12.42,
+          "probability": 0.52
+        },
+        {
+          "word": "đặt",
+          "start": 12.42,
+          "end": 12.74,
+          "probability": 0.38
+        },
+        {
+          "word": "trên",
+          "start": 12.74,
+          "end": 12.94,
+          "probability": 0.55
+        },
+        {
+          "word": "tuyến",
+          "start": 12.94,
+          "end": 13.34,
+          "probability": 0.98
+        },
+        {
+          "word": "để",
+          "start": 13.34,
+          "end": 13.6,
+          "probability": 0.38
+        },
+        {
+          "word": "cảm",
+          "start": 13.6,
+          "end": 13.78,
+          "probability": 0.43
+        },
+        {
+          "word": "báo,",
+          "start": 13.78,
+          "end": 14.04,
+          "probability": 0.83
+        },
+        {
+          "word": "nhưng",
+          "start": 14.36,
+          "end": 14.84,
+          "probability": 0.13
+        },
+        {
+          "word": "cũng",
+          "start": 14.84,
+          "end": 14.84,
+          "probability": 0.17
+        },
+        {
+          "word": "tình",
+          "start": 14.84,
+          "end": 15.08,
+          "probability": 0.29
+        },
+        {
+          "word": "cũng",
+          "start": 15.08,
+          "end": 15.52,
+          "probability": 0.5
+        },
+        {
+          "word": "như",
+          "start": 15.52,
+          "end": 15.62,
+          "probability": 0.27
+        },
+        {
+          "word": "là",
+          "start": 15.62,
+          "end": 16.6,
+          "probability": 0.1
+        },
+        {
+          "word": "chè",
+          "start": 16.6,
+          "end": 17.22,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 17.22,
+      "end": 20.04,
+      "text": "tham gia lưu thông, biết trước",
+      "words": [
+        {
+          "word": "tham",
+          "start": 17.22,
+          "end": 17.58,
+          "probability": 0.24
+        },
+        {
+          "word": "gia",
+          "start": 17.58,
+          "end": 17.76,
+          "probability": 0.68
+        },
+        {
+          "word": "lưu",
+          "start": 17.76,
+          "end": 17.94,
+          "probability": 0.5
+        },
+        {
+          "word": "thông,",
+          "start": 17.94,
+          "end": 18.48,
+          "probability": 0.77
+        },
+        {
+          "word": "biết",
+          "start": 19.08,
+          "end": 19.12,
+          "probability": 0.3
+        },
+        {
+          "word": "trước",
+          "start": 19.12,
+          "end": 20.04,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 21.58,
+      "end": 26.98,
+      "text": "có cái cái cái đỉnh nướng để mà lưu thông cho nó phụ hợp",
+      "words": [
+        {
+          "word": "có",
+          "start": 21.58,
+          "end": 22.14,
+          "probability": 0.07
+        },
+        {
+          "word": "cái",
+          "start": 22.14,
+          "end": 22.7,
+          "probability": 0.44
+        },
+        {
+          "word": "cái",
+          "start": 22.7,
+          "end": 22.94,
+          "probability": 0.37
+        },
+        {
+          "word": "cái",
+          "start": 22.94,
+          "end": 22.94,
+          "probability": 0.25
+        },
+        {
+          "word": "đỉnh",
+          "start": 22.94,
+          "end": 23.08,
+          "probability": 0.54
+        },
+        {
+          "word": "nướng",
+          "start": 23.08,
+          "end": 23.68,
+          "probability": 0.7
+        },
+        {
+          "word": "để",
+          "start": 23.68,
+          "end": 23.92,
+          "probability": 0.51
+        },
+        {
+          "word": "mà",
+          "start": 23.92,
+          "end": 24.24,
+          "probability": 0.43
+        },
+        {
+          "word": "lưu",
+          "start": 24.24,
+          "end": 25.52,
+          "probability": 0.94
+        },
+        {
+          "word": "thông",
+          "start": 25.52,
+          "end": 25.82,
+          "probability": 0.99
+        },
+        {
+          "word": "cho",
+          "start": 25.82,
+          "end": 26.0,
+          "probability": 0.89
+        },
+        {
+          "word": "nó",
+          "start": 26.0,
+          "end": 26.16,
+          "probability": 0.96
+        },
+        {
+          "word": "phụ",
+          "start": 26.16,
+          "end": 26.36,
+          "probability": 0.58
+        },
+        {
+          "word": "hợp",
+          "start": 26.36,
+          "end": 26.98,
+          "probability": 0.79
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 26.98,
+      "end": 29.58,
+      "text": "nó nói ra cái, những cái thông tin lại nó cũng rất là",
+      "words": [
+        {
+          "word": "nó",
+          "start": 26.98,
+          "end": 27.1,
+          "probability": 0.01
+        },
+        {
+          "word": "nói",
+          "start": 27.1,
+          "end": 27.18,
+          "probability": 0.06
+        },
+        {
+          "word": "ra",
+          "start": 27.18,
+          "end": 27.5,
+          "probability": 0.57
+        },
+        {
+          "word": "cái,",
+          "start": 27.5,
+          "end": 27.92,
+          "probability": 0.43
+        },
+        {
+          "word": "những",
+          "start": 27.92,
+          "end": 28.08,
+          "probability": 0.53
+        },
+        {
+          "word": "cái",
+          "start": 28.08,
+          "end": 28.2,
+          "probability": 0.71
+        },
+        {
+          "word": "thông",
+          "start": 28.2,
+          "end": 28.36,
+          "probability": 0.75
+        },
+        {
+          "word": "tin",
+          "start": 28.36,
+          "end": 28.54,
+          "probability": 0.15
+        },
+        {
+          "word": "lại",
+          "start": 28.54,
+          "end": 28.7,
+          "probability": 0.01
+        },
+        {
+          "word": "nó",
+          "start": 28.7,
+          "end": 28.88,
+          "probability": 0.81
+        },
+        {
+          "word": "cũng",
+          "start": 28.88,
+          "end": 29.02,
+          "probability": 0.79
+        },
+        {
+          "word": "rất",
+          "start": 29.02,
+          "end": 29.2,
+          "probability": 0.68
+        },
+        {
+          "word": "là",
+          "start": 29.2,
+          "end": 29.58,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

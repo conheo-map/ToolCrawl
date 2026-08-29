@@ -1,0 +1,62 @@
+{
+  "item_id": "tt_7615212034325597456_11",
+  "duration_seconds": 25.03,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "iem 7 h regen 4 thương",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.71,
+      "end": 9.43,
+      "text": "iem 7 h regen",
+      "words": [
+        {
+          "word": "iem",
+          "start": 1.71,
+          "end": 3.11,
+          "probability": 0.0
+        },
+        {
+          "word": "7",
+          "start": 3.11,
+          "end": 3.53,
+          "probability": 0.01
+        },
+        {
+          "word": "h",
+          "start": 3.53,
+          "end": 9.43,
+          "probability": 0.03
+        },
+        {
+          "word": "regen",
+          "start": 9.43,
+          "end": 9.43,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 9.43,
+      "end": 13.83,
+      "text": "4 thương",
+      "words": [
+        {
+          "word": "4",
+          "start": 9.43,
+          "end": 9.93,
+          "probability": 0.04
+        },
+        {
+          "word": "thương",
+          "start": 9.93,
+          "end": 13.83,
+          "probability": 0.01
+        }
+      ]
+    }
+  ]
+}

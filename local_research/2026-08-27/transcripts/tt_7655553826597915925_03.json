@@ -1,0 +1,668 @@
+{
+  "item_id": "tt_7655553826597915925_03",
+  "duration_seconds": 29.91,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 99,
+  "text": "bình gau nó ngọt vời ngọt, dụng được phúc tí cho bình hãy ấm Ấn. Chỉ chánh cố tình mà chui khết lại cũng là nó phần trên phép cếm dụng phếc mở để hạ. Không lào hệ Zhuck nhớ nhớ. Chúng thè này hả? Hãy xác nhỏ như Chỉ Chỉ? Chị? Chị chả hả? Yếu đụng vần dế ấm túv, vô yếu, phần dọc đã về thay ngộ thế này ngọt desta đường mля tụi nhớ, được mà trụ mây sự dưới ấm. Đó là nó phần cếc chế như quy, đỡ các trụ mây cuộc tập man,",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 3.56,
+      "text": "bình gau nó ngọt vời ngọt, dụng được phúc tí cho bình hãy ấm Ấn.",
+      "words": [
+        {
+          "word": "bình",
+          "start": 0.02,
+          "end": 0.64,
+          "probability": 0.07
+        },
+        {
+          "word": "gau",
+          "start": 0.64,
+          "end": 0.88,
+          "probability": 0.08
+        },
+        {
+          "word": "nó",
+          "start": 0.88,
+          "end": 1.22,
+          "probability": 0.01
+        },
+        {
+          "word": "ngọt",
+          "start": 1.22,
+          "end": 1.42,
+          "probability": 0.44
+        },
+        {
+          "word": "vời",
+          "start": 1.42,
+          "end": 1.6,
+          "probability": 0.01
+        },
+        {
+          "word": "ngọt,",
+          "start": 1.6,
+          "end": 1.88,
+          "probability": 0.58
+        },
+        {
+          "word": "dụng",
+          "start": 2.28,
+          "end": 2.62,
+          "probability": 0.26
+        },
+        {
+          "word": "được",
+          "start": 2.62,
+          "end": 2.88,
+          "probability": 0.01
+        },
+        {
+          "word": "phúc",
+          "start": 2.88,
+          "end": 3.44,
+          "probability": 0.02
+        },
+        {
+          "word": "tí",
+          "start": 3.44,
+          "end": 3.44,
+          "probability": 0.01
+        },
+        {
+          "word": "cho",
+          "start": 3.44,
+          "end": 3.44,
+          "probability": 0.0
+        },
+        {
+          "word": "bình",
+          "start": 3.44,
+          "end": 3.44,
+          "probability": 0.13
+        },
+        {
+          "word": "hãy",
+          "start": 3.44,
+          "end": 3.44,
+          "probability": 0.02
+        },
+        {
+          "word": "ấm",
+          "start": 3.44,
+          "end": 3.44,
+          "probability": 0.33
+        },
+        {
+          "word": "Ấn.",
+          "start": 3.44,
+          "end": 3.56,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.66,
+      "end": 11.44,
+      "text": "Chỉ chánh cố tình mà chui khết lại cũng là nó phần trên phép cếm dụng phếc mở để hạ.",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 5.66,
+          "end": 6.22,
+          "probability": 0.09
+        },
+        {
+          "word": "chánh",
+          "start": 6.22,
+          "end": 6.54,
+          "probability": 0.05
+        },
+        {
+          "word": "cố",
+          "start": 6.54,
+          "end": 6.82,
+          "probability": 0.33
+        },
+        {
+          "word": "tình",
+          "start": 6.82,
+          "end": 6.94,
+          "probability": 0.16
+        },
+        {
+          "word": "mà",
+          "start": 6.94,
+          "end": 7.22,
+          "probability": 0.0
+        },
+        {
+          "word": "chui",
+          "start": 7.22,
+          "end": 7.22,
+          "probability": 0.03
+        },
+        {
+          "word": "khết",
+          "start": 7.22,
+          "end": 7.52,
+          "probability": 0.15
+        },
+        {
+          "word": "lại",
+          "start": 7.52,
+          "end": 7.9,
+          "probability": 0.86
+        },
+        {
+          "word": "cũng",
+          "start": 7.9,
+          "end": 8.34,
+          "probability": 0.07
+        },
+        {
+          "word": "là",
+          "start": 8.34,
+          "end": 8.58,
+          "probability": 0.83
+        },
+        {
+          "word": "nó",
+          "start": 8.58,
+          "end": 8.8,
+          "probability": 0.07
+        },
+        {
+          "word": "phần",
+          "start": 8.8,
+          "end": 9.1,
+          "probability": 0.24
+        },
+        {
+          "word": "trên",
+          "start": 9.1,
+          "end": 9.2,
+          "probability": 0.2
+        },
+        {
+          "word": "phép",
+          "start": 9.2,
+          "end": 9.46,
+          "probability": 0.11
+        },
+        {
+          "word": "cếm",
+          "start": 9.46,
+          "end": 9.72,
+          "probability": 0.32
+        },
+        {
+          "word": "dụng",
+          "start": 9.72,
+          "end": 9.98,
+          "probability": 0.48
+        },
+        {
+          "word": "phếc",
+          "start": 9.98,
+          "end": 10.16,
+          "probability": 0.49
+        },
+        {
+          "word": "mở",
+          "start": 10.16,
+          "end": 10.58,
+          "probability": 0.07
+        },
+        {
+          "word": "để",
+          "start": 10.58,
+          "end": 11.0,
+          "probability": 0.02
+        },
+        {
+          "word": "hạ.",
+          "start": 11.0,
+          "end": 11.44,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.44,
+      "end": 13.82,
+      "text": "Không lào hệ Zhuck nhớ nhớ. Chúng thè này hả?",
+      "words": [
+        {
+          "word": "Không",
+          "start": 11.44,
+          "end": 11.68,
+          "probability": 0.35
+        },
+        {
+          "word": "lào",
+          "start": 11.68,
+          "end": 11.96,
+          "probability": 0.18
+        },
+        {
+          "word": "hệ",
+          "start": 11.96,
+          "end": 12.24,
+          "probability": 0.44
+        },
+        {
+          "word": "Zhuck",
+          "start": 12.24,
+          "end": 12.54,
+          "probability": 0.0
+        },
+        {
+          "word": "nhớ",
+          "start": 12.54,
+          "end": 12.86,
+          "probability": 0.27
+        },
+        {
+          "word": "nhớ.",
+          "start": 12.86,
+          "end": 13.18,
+          "probability": 0.25
+        },
+        {
+          "word": "Chúng",
+          "start": 13.18,
+          "end": 13.18,
+          "probability": 0.4
+        },
+        {
+          "word": "thè",
+          "start": 13.18,
+          "end": 13.38,
+          "probability": 0.02
+        },
+        {
+          "word": "này",
+          "start": 13.38,
+          "end": 13.42,
+          "probability": 0.03
+        },
+        {
+          "word": "hả?",
+          "start": 13.42,
+          "end": 13.82,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.38,
+      "end": 16.44,
+      "text": "Hãy xác nhỏ như Chỉ Chỉ? Chị? Chị chả hả?",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 14.38,
+          "end": 14.8,
+          "probability": 0.36
+        },
+        {
+          "word": "xác",
+          "start": 14.8,
+          "end": 15.0,
+          "probability": 0.2
+        },
+        {
+          "word": "nhỏ",
+          "start": 15.0,
+          "end": 15.28,
+          "probability": 0.55
+        },
+        {
+          "word": "như",
+          "start": 15.28,
+          "end": 15.56,
+          "probability": 0.2
+        },
+        {
+          "word": "Chỉ",
+          "start": 15.56,
+          "end": 15.76,
+          "probability": 0.29
+        },
+        {
+          "word": "Chỉ?",
+          "start": 15.76,
+          "end": 15.98,
+          "probability": 0.12
+        },
+        {
+          "word": "Chị?",
+          "start": 16.2,
+          "end": 16.2,
+          "probability": 0.17
+        },
+        {
+          "word": "Chị",
+          "start": 16.2,
+          "end": 16.2,
+          "probability": 0.36
+        },
+        {
+          "word": "chả",
+          "start": 16.2,
+          "end": 16.24,
+          "probability": 0.27
+        },
+        {
+          "word": "hả?",
+          "start": 16.24,
+          "end": 16.44,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.86,
+      "end": 23.24,
+      "text": "Yếu đụng vần dế ấm túv, vô yếu, phần dọc đã về thay ngộ thế này ngọt desta đường mля tụi nhớ,",
+      "words": [
+        {
+          "word": "Yếu",
+          "start": 16.86,
+          "end": 17.08,
+          "probability": 0.15
+        },
+        {
+          "word": "đụng",
+          "start": 17.08,
+          "end": 17.14,
+          "probability": 0.28
+        },
+        {
+          "word": "vần",
+          "start": 17.14,
+          "end": 17.38,
+          "probability": 0.08
+        },
+        {
+          "word": "dế",
+          "start": 17.38,
+          "end": 17.52,
+          "probability": 0.14
+        },
+        {
+          "word": "ấm",
+          "start": 17.52,
+          "end": 17.76,
+          "probability": 0.45
+        },
+        {
+          "word": "túv,",
+          "start": 17.76,
+          "end": 18.1,
+          "probability": 0.06
+        },
+        {
+          "word": "vô",
+          "start": 18.5,
+          "end": 18.52,
+          "probability": 0.06
+        },
+        {
+          "word": "yếu,",
+          "start": 18.52,
+          "end": 18.52,
+          "probability": 0.45
+        },
+        {
+          "word": "phần",
+          "start": 19.1,
+          "end": 19.46,
+          "probability": 0.81
+        },
+        {
+          "word": "dọc",
+          "start": 19.46,
+          "end": 19.98,
+          "probability": 0.27
+        },
+        {
+          "word": "đã",
+          "start": 19.98,
+          "end": 20.52,
+          "probability": 0.07
+        },
+        {
+          "word": "về",
+          "start": 20.52,
+          "end": 20.7,
+          "probability": 0.0
+        },
+        {
+          "word": "thay",
+          "start": 20.7,
+          "end": 21.1,
+          "probability": 0.34
+        },
+        {
+          "word": "ngộ",
+          "start": 21.1,
+          "end": 21.4,
+          "probability": 0.23
+        },
+        {
+          "word": "thế",
+          "start": 21.4,
+          "end": 21.54,
+          "probability": 0.0
+        },
+        {
+          "word": "này",
+          "start": 21.54,
+          "end": 21.54,
+          "probability": 0.09
+        },
+        {
+          "word": "ngọt",
+          "start": 21.54,
+          "end": 21.54,
+          "probability": 0.46
+        },
+        {
+          "word": "desta",
+          "start": 21.54,
+          "end": 21.82,
+          "probability": 0.0
+        },
+        {
+          "word": "đường",
+          "start": 21.82,
+          "end": 21.9,
+          "probability": 0.07
+        },
+        {
+          "word": "mля",
+          "start": 21.9,
+          "end": 22.1,
+          "probability": 0.05
+        },
+        {
+          "word": "tụi",
+          "start": 22.1,
+          "end": 22.64,
+          "probability": 0.3
+        },
+        {
+          "word": "nhớ,",
+          "start": 22.64,
+          "end": 23.24,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.6,
+      "end": 25.46,
+      "text": "được mà trụ mây sự dưới ấm.",
+      "words": [
+        {
+          "word": "được",
+          "start": 23.6,
+          "end": 23.78,
+          "probability": 0.04
+        },
+        {
+          "word": "mà",
+          "start": 23.78,
+          "end": 24.1,
+          "probability": 0.23
+        },
+        {
+          "word": "trụ",
+          "start": 24.1,
+          "end": 24.28,
+          "probability": 0.19
+        },
+        {
+          "word": "mây",
+          "start": 24.28,
+          "end": 24.5,
+          "probability": 0.14
+        },
+        {
+          "word": "sự",
+          "start": 24.5,
+          "end": 24.76,
+          "probability": 0.0
+        },
+        {
+          "word": "dưới",
+          "start": 24.76,
+          "end": 25.46,
+          "probability": 0.36
+        },
+        {
+          "word": "ấm.",
+          "start": 25.46,
+          "end": 25.46,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 25.46,
+      "end": 27.24,
+      "text": "Đó là nó phần cếc chế như quy,",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 25.46,
+          "end": 25.86,
+          "probability": 0.82
+        },
+        {
+          "word": "là",
+          "start": 25.86,
+          "end": 26.14,
+          "probability": 0.11
+        },
+        {
+          "word": "nó",
+          "start": 26.14,
+          "end": 26.34,
+          "probability": 0.05
+        },
+        {
+          "word": "phần",
+          "start": 26.34,
+          "end": 26.34,
+          "probability": 0.31
+        },
+        {
+          "word": "cếc",
+          "start": 26.34,
+          "end": 26.62,
+          "probability": 0.32
+        },
+        {
+          "word": "chế",
+          "start": 26.62,
+          "end": 26.72,
+          "probability": 0.15
+        },
+        {
+          "word": "như",
+          "start": 26.72,
+          "end": 26.8,
+          "probability": 0.04
+        },
+        {
+          "word": "quy,",
+          "start": 26.8,
+          "end": 27.24,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 27.86,
+      "end": 29.6,
+      "text": "đỡ các trụ mây cuộc tập man,",
+      "words": [
+        {
+          "word": "đỡ",
+          "start": 27.86,
+          "end": 28.24,
+          "probability": 0.46
+        },
+        {
+          "word": "các",
+          "start": 28.24,
+          "end": 28.36,
+          "probability": 0.04
+        },
+        {
+          "word": "trụ",
+          "start": 28.36,
+          "end": 28.58,
+          "probability": 0.66
+        },
+        {
+          "word": "mây",
+          "start": 28.58,
+          "end": 28.82,
+          "probability": 0.78
+        },
+        {
+          "word": "cuộc",
+          "start": 28.82,
+          "end": 29.08,
+          "probability": 0.0
+        },
+        {
+          "word": "tập",
+          "start": 29.08,
+          "end": 29.32,
+          "probability": 0.49
+        },
+        {
+          "word": "man,",
+          "start": 29.32,
+          "end": 29.6,
+          "probability": 0.12
+        }
+      ]
+    }
+  ]
+}

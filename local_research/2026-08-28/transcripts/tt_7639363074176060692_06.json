@@ -1,0 +1,84 @@
+{
+  "item_id": "tt_7639363074176060692_06",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 11,
+  "text": "mà mày sẽ bánh bánh bánh bánh bánh bánh bánh bánh.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.4,
+      "end": 0.68,
+      "text": "mà mày sẽ bánh bánh bánh bánh bánh bánh bánh bánh.",
+      "words": [
+        {
+          "word": "mà",
+          "start": 0.4,
+          "end": 0.56,
+          "probability": 0.0
+        },
+        {
+          "word": "mày",
+          "start": 0.56,
+          "end": 0.56,
+          "probability": 0.0
+        },
+        {
+          "word": "sẽ",
+          "start": 0.56,
+          "end": 0.56,
+          "probability": 0.03
+        },
+        {
+          "word": "bánh",
+          "start": 0.56,
+          "end": 0.56,
+          "probability": 0.04
+        },
+        {
+          "word": "bánh",
+          "start": 0.56,
+          "end": 0.64,
+          "probability": 0.2
+        },
+        {
+          "word": "bánh",
+          "start": 0.64,
+          "end": 0.64,
+          "probability": 0.71
+        },
+        {
+          "word": "bánh",
+          "start": 0.64,
+          "end": 0.68,
+          "probability": 0.83
+        },
+        {
+          "word": "bánh",
+          "start": 0.68,
+          "end": 0.68,
+          "probability": 0.87
+        },
+        {
+          "word": "bánh",
+          "start": 0.68,
+          "end": 0.68,
+          "probability": 0.88
+        },
+        {
+          "word": "bánh",
+          "start": 0.68,
+          "end": 0.68,
+          "probability": 0.9
+        },
+        {
+          "word": "bánh.",
+          "start": 0.68,
+          "end": 0.68,
+          "probability": 0.92
+        }
+      ]
+    }
+  ]
+}

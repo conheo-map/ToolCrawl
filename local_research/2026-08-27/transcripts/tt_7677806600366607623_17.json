@@ -1,0 +1,100 @@
+{
+  "item_id": "tt_7677806600366607623_17",
+  "duration_seconds": 26.23,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 11,
+  "text": "then mà mình cần không ngisini Cage lotsi này rồi also",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.11,
+      "text": "then mà mình cần không ngisini Cage",
+      "words": [
+        {
+          "word": "then",
+          "start": 0.0,
+          "end": 0.52,
+          "probability": 0.0
+        },
+        {
+          "word": "mà",
+          "start": 0.52,
+          "end": 1.62,
+          "probability": 0.01
+        },
+        {
+          "word": "mình",
+          "start": 1.62,
+          "end": 2.08,
+          "probability": 0.51
+        },
+        {
+          "word": "cần",
+          "start": 2.08,
+          "end": 2.36,
+          "probability": 0.0
+        },
+        {
+          "word": "không",
+          "start": 2.36,
+          "end": 3.1,
+          "probability": 0.04
+        },
+        {
+          "word": "ngisini",
+          "start": 3.1,
+          "end": 3.48,
+          "probability": 0.01
+        },
+        {
+          "word": "Cage",
+          "start": 3.48,
+          "end": 4.11,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 9.42,
+      "end": 11.94,
+      "text": "lotsi này rồi",
+      "words": [
+        {
+          "word": "lotsi",
+          "start": 9.42,
+          "end": 10.68,
+          "probability": 0.0
+        },
+        {
+          "word": "này",
+          "start": 10.68,
+          "end": 11.94,
+          "probability": 0.02
+        },
+        {
+          "word": "rồi",
+          "start": 11.94,
+          "end": 11.94,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.94,
+      "end": 11.98,
+      "text": "also",
+      "words": [
+        {
+          "word": "also",
+          "start": 11.94,
+          "end": 11.98,
+          "probability": 0.0
+        }
+      ]
+    }
+  ]
+}

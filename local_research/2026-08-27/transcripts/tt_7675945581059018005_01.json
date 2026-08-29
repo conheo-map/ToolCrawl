@@ -1,0 +1,108 @@
+{
+  "item_id": "tt_7675945581059018005_01",
+  "duration_seconds": 18.64,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 11,
+  "text": "Công bình phố là thôi tháng đi tựa nó phải là",
+  "segments": [
+    {
+      "id": 1,
+      "start": 9.9,
+      "end": 11.62,
+      "text": "Công bình phố là",
+      "words": [
+        {
+          "word": "Công",
+          "start": 9.9,
+          "end": 10.48,
+          "probability": 0.41
+        },
+        {
+          "word": "bình",
+          "start": 10.48,
+          "end": 10.66,
+          "probability": 0.45
+        },
+        {
+          "word": "phố",
+          "start": 10.66,
+          "end": 10.88,
+          "probability": 0.42
+        },
+        {
+          "word": "là",
+          "start": 10.88,
+          "end": 11.62,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 12.94,
+      "end": 13.82,
+      "text": "thôi",
+      "words": [
+        {
+          "word": "thôi",
+          "start": 12.94,
+          "end": 13.82,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.82,
+      "end": 15.58,
+      "text": "tháng đi",
+      "words": [
+        {
+          "word": "tháng",
+          "start": 13.82,
+          "end": 14.94,
+          "probability": 0.35
+        },
+        {
+          "word": "đi",
+          "start": 14.94,
+          "end": 15.58,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 16.12,
+      "end": 17.48,
+      "text": "tựa nó phải là",
+      "words": [
+        {
+          "word": "tựa",
+          "start": 16.12,
+          "end": 16.7,
+          "probability": 0.2
+        },
+        {
+          "word": "nó",
+          "start": 16.7,
+          "end": 16.88,
+          "probability": 0.38
+        },
+        {
+          "word": "phải",
+          "start": 16.88,
+          "end": 17.14,
+          "probability": 0.21
+        },
+        {
+          "word": "là",
+          "start": 17.14,
+          "end": 17.48,
+          "probability": 0.74
+        }
+      ]
+    }
+  ]
+}

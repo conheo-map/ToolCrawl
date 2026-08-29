@@ -1,0 +1,656 @@
+{
+  "item_id": "tt_7596190829010488592_11",
+  "duration_seconds": 26.54,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 89,
+  "text": "Cái gì? Cái gì? Cái gì? Công bè măng ý. Bè măng. Mì sẽ đi, này đi, của tôi nghĩ nhé. Mì sẽ đi, này đi. Công có dưới cũng mình trái của mình, dưới cũng không đặt tôi nghĩ. Tỳ ý, đồ bè măng ý, đồ bè măng ý, đồ bốt. Để lấy tục manh này. Bởi vì lấy cộng bôn. E bè măng ý, đồ bè măng ý, đồ bè măng ý. Còn bè măng ý, đồ bè măng ý. Bè măng ý, đồ bè măng ý.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.89,
+      "end": 1.57,
+      "text": "Cái gì?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.89,
+          "end": 1.23,
+          "probability": 0.12
+        },
+        {
+          "word": "gì?",
+          "start": 1.23,
+          "end": 1.57,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.99,
+      "end": 2.33,
+      "text": "Cái gì?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 1.99,
+          "end": 2.33,
+          "probability": 0.45
+        },
+        {
+          "word": "gì?",
+          "start": 2.33,
+          "end": 2.33,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.85,
+      "end": 5.53,
+      "text": "Cái gì?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 4.85,
+          "end": 5.19,
+          "probability": 0.6
+        },
+        {
+          "word": "gì?",
+          "start": 5.19,
+          "end": 5.53,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.81,
+      "end": 7.31,
+      "text": "Công bè măng ý.",
+      "words": [
+        {
+          "word": "Công",
+          "start": 5.81,
+          "end": 6.15,
+          "probability": 0.23
+        },
+        {
+          "word": "bè",
+          "start": 6.15,
+          "end": 6.43,
+          "probability": 0.32
+        },
+        {
+          "word": "măng",
+          "start": 6.43,
+          "end": 6.59,
+          "probability": 0.19
+        },
+        {
+          "word": "ý.",
+          "start": 6.59,
+          "end": 7.31,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.43,
+      "end": 8.69,
+      "text": "Bè măng.",
+      "words": [
+        {
+          "word": "Bè",
+          "start": 8.43,
+          "end": 8.43,
+          "probability": 0.88
+        },
+        {
+          "word": "măng.",
+          "start": 8.43,
+          "end": 8.69,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 9.61,
+      "end": 11.17,
+      "text": "Mì sẽ đi, này đi, của tôi nghĩ nhé.",
+      "words": [
+        {
+          "word": "Mì",
+          "start": 9.61,
+          "end": 9.65,
+          "probability": 0.37
+        },
+        {
+          "word": "sẽ",
+          "start": 9.65,
+          "end": 9.77,
+          "probability": 0.5
+        },
+        {
+          "word": "đi,",
+          "start": 9.77,
+          "end": 9.89,
+          "probability": 0.64
+        },
+        {
+          "word": "này",
+          "start": 9.97,
+          "end": 10.11,
+          "probability": 0.47
+        },
+        {
+          "word": "đi,",
+          "start": 10.11,
+          "end": 10.19,
+          "probability": 0.19
+        },
+        {
+          "word": "của",
+          "start": 10.19,
+          "end": 10.27,
+          "probability": 0.09
+        },
+        {
+          "word": "tôi",
+          "start": 10.27,
+          "end": 10.39,
+          "probability": 0.37
+        },
+        {
+          "word": "nghĩ",
+          "start": 10.39,
+          "end": 10.55,
+          "probability": 0.2
+        },
+        {
+          "word": "nhé.",
+          "start": 10.55,
+          "end": 11.17,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 11.45,
+      "end": 11.91,
+      "text": "Mì sẽ đi, này đi.",
+      "words": [
+        {
+          "word": "Mì",
+          "start": 11.45,
+          "end": 11.45,
+          "probability": 0.94
+        },
+        {
+          "word": "sẽ",
+          "start": 11.45,
+          "end": 11.53,
+          "probability": 0.97
+        },
+        {
+          "word": "đi,",
+          "start": 11.53,
+          "end": 11.63,
+          "probability": 0.99
+        },
+        {
+          "word": "này",
+          "start": 11.79,
+          "end": 11.79,
+          "probability": 0.96
+        },
+        {
+          "word": "đi.",
+          "start": 11.79,
+          "end": 11.91,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 12.05,
+      "end": 14.75,
+      "text": "Công có dưới cũng mình trái của mình, dưới cũng không đặt tôi nghĩ.",
+      "words": [
+        {
+          "word": "Công",
+          "start": 12.05,
+          "end": 12.25,
+          "probability": 0.7
+        },
+        {
+          "word": "có",
+          "start": 12.25,
+          "end": 13.07,
+          "probability": 0.43
+        },
+        {
+          "word": "dưới",
+          "start": 13.07,
+          "end": 13.17,
+          "probability": 0.56
+        },
+        {
+          "word": "cũng",
+          "start": 13.17,
+          "end": 13.25,
+          "probability": 0.17
+        },
+        {
+          "word": "mình",
+          "start": 13.25,
+          "end": 13.39,
+          "probability": 0.32
+        },
+        {
+          "word": "trái",
+          "start": 13.39,
+          "end": 13.59,
+          "probability": 0.56
+        },
+        {
+          "word": "của",
+          "start": 13.59,
+          "end": 13.79,
+          "probability": 0.44
+        },
+        {
+          "word": "mình,",
+          "start": 13.79,
+          "end": 13.93,
+          "probability": 0.43
+        },
+        {
+          "word": "dưới",
+          "start": 13.93,
+          "end": 14.07,
+          "probability": 0.65
+        },
+        {
+          "word": "cũng",
+          "start": 14.07,
+          "end": 14.17,
+          "probability": 0.88
+        },
+        {
+          "word": "không",
+          "start": 14.17,
+          "end": 14.33,
+          "probability": 0.46
+        },
+        {
+          "word": "đặt",
+          "start": 14.33,
+          "end": 14.41,
+          "probability": 0.14
+        },
+        {
+          "word": "tôi",
+          "start": 14.41,
+          "end": 14.53,
+          "probability": 0.11
+        },
+        {
+          "word": "nghĩ.",
+          "start": 14.53,
+          "end": 14.75,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 15.25,
+      "end": 16.69,
+      "text": "Tỳ ý, đồ bè măng ý, đồ bè măng ý, đồ bốt.",
+      "words": [
+        {
+          "word": "Tỳ",
+          "start": 15.25,
+          "end": 15.59,
+          "probability": 0.51
+        },
+        {
+          "word": "ý,",
+          "start": 15.59,
+          "end": 15.85,
+          "probability": 0.09
+        },
+        {
+          "word": "đồ",
+          "start": 15.85,
+          "end": 15.85,
+          "probability": 0.11
+        },
+        {
+          "word": "bè",
+          "start": 15.85,
+          "end": 15.89,
+          "probability": 0.79
+        },
+        {
+          "word": "măng",
+          "start": 15.89,
+          "end": 16.03,
+          "probability": 0.7
+        },
+        {
+          "word": "ý,",
+          "start": 16.03,
+          "end": 16.19,
+          "probability": 0.92
+        },
+        {
+          "word": "đồ",
+          "start": 16.19,
+          "end": 16.23,
+          "probability": 0.43
+        },
+        {
+          "word": "bè",
+          "start": 16.23,
+          "end": 16.69,
+          "probability": 0.39
+        },
+        {
+          "word": "măng",
+          "start": 16.69,
+          "end": 16.69,
+          "probability": 0.82
+        },
+        {
+          "word": "ý,",
+          "start": 16.69,
+          "end": 16.69,
+          "probability": 0.92
+        },
+        {
+          "word": "đồ",
+          "start": 16.69,
+          "end": 16.69,
+          "probability": 0.66
+        },
+        {
+          "word": "bốt.",
+          "start": 16.69,
+          "end": 16.69,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 17.01,
+      "end": 18.05,
+      "text": "Để lấy tục manh này.",
+      "words": [
+        {
+          "word": "Để",
+          "start": 17.01,
+          "end": 17.01,
+          "probability": 0.23
+        },
+        {
+          "word": "lấy",
+          "start": 17.01,
+          "end": 17.07,
+          "probability": 0.56
+        },
+        {
+          "word": "tục",
+          "start": 17.07,
+          "end": 17.17,
+          "probability": 0.51
+        },
+        {
+          "word": "manh",
+          "start": 17.17,
+          "end": 17.39,
+          "probability": 0.37
+        },
+        {
+          "word": "này.",
+          "start": 17.39,
+          "end": 18.05,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 18.29,
+      "end": 19.23,
+      "text": "Bởi vì lấy cộng bôn.",
+      "words": [
+        {
+          "word": "Bởi",
+          "start": 18.29,
+          "end": 18.33,
+          "probability": 0.4
+        },
+        {
+          "word": "vì",
+          "start": 18.33,
+          "end": 18.41,
+          "probability": 0.25
+        },
+        {
+          "word": "lấy",
+          "start": 18.41,
+          "end": 18.57,
+          "probability": 0.72
+        },
+        {
+          "word": "cộng",
+          "start": 18.57,
+          "end": 18.71,
+          "probability": 0.25
+        },
+        {
+          "word": "bôn.",
+          "start": 18.71,
+          "end": 19.23,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 20.19,
+      "end": 21.91,
+      "text": "E bè măng ý, đồ bè măng ý, đồ bè măng ý.",
+      "words": [
+        {
+          "word": "E",
+          "start": 20.19,
+          "end": 20.53,
+          "probability": 0.02
+        },
+        {
+          "word": "bè",
+          "start": 20.53,
+          "end": 20.65,
+          "probability": 0.53
+        },
+        {
+          "word": "măng",
+          "start": 20.65,
+          "end": 20.77,
+          "probability": 0.7
+        },
+        {
+          "word": "ý,",
+          "start": 20.77,
+          "end": 20.89,
+          "probability": 0.07
+        },
+        {
+          "word": "đồ",
+          "start": 20.99,
+          "end": 21.03,
+          "probability": 0.68
+        },
+        {
+          "word": "bè",
+          "start": 21.03,
+          "end": 21.25,
+          "probability": 0.57
+        },
+        {
+          "word": "măng",
+          "start": 21.25,
+          "end": 21.67,
+          "probability": 0.75
+        },
+        {
+          "word": "ý,",
+          "start": 21.67,
+          "end": 21.67,
+          "probability": 0.48
+        },
+        {
+          "word": "đồ",
+          "start": 21.67,
+          "end": 21.67,
+          "probability": 0.66
+        },
+        {
+          "word": "bè",
+          "start": 21.67,
+          "end": 21.67,
+          "probability": 0.82
+        },
+        {
+          "word": "măng",
+          "start": 21.67,
+          "end": 21.69,
+          "probability": 0.86
+        },
+        {
+          "word": "ý.",
+          "start": 21.69,
+          "end": 21.91,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 21.99,
+      "end": 25.21,
+      "text": "Còn bè măng ý, đồ bè măng ý.",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 21.99,
+          "end": 22.33,
+          "probability": 0.22
+        },
+        {
+          "word": "bè",
+          "start": 22.33,
+          "end": 22.65,
+          "probability": 0.41
+        },
+        {
+          "word": "măng",
+          "start": 22.65,
+          "end": 22.91,
+          "probability": 0.87
+        },
+        {
+          "word": "ý,",
+          "start": 22.91,
+          "end": 23.41,
+          "probability": 0.96
+        },
+        {
+          "word": "đồ",
+          "start": 23.41,
+          "end": 23.67,
+          "probability": 0.52
+        },
+        {
+          "word": "bè",
+          "start": 23.67,
+          "end": 24.51,
+          "probability": 0.91
+        },
+        {
+          "word": "măng",
+          "start": 24.51,
+          "end": 25.05,
+          "probability": 0.52
+        },
+        {
+          "word": "ý.",
+          "start": 25.05,
+          "end": 25.21,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 25.83,
+      "end": 26.51,
+      "text": "Bè măng ý, đồ bè măng ý.",
+      "words": [
+        {
+          "word": "Bè",
+          "start": 25.83,
+          "end": 26.19,
+          "probability": 0.03
+        },
+        {
+          "word": "măng",
+          "start": 26.19,
+          "end": 26.33,
+          "probability": 0.0
+        },
+        {
+          "word": "ý,",
+          "start": 26.33,
+          "end": 26.51,
+          "probability": 0.0
+        },
+        {
+          "word": "đồ",
+          "start": 26.51,
+          "end": 26.51,
+          "probability": 0.02
+        },
+        {
+          "word": "bè",
+          "start": 26.51,
+          "end": 26.51,
+          "probability": 0.02
+        },
+        {
+          "word": "măng",
+          "start": 26.51,
+          "end": 26.51,
+          "probability": 0.46
+        },
+        {
+          "word": "ý.",
+          "start": 26.51,
+          "end": 26.51,
+          "probability": 0.27
+        }
+      ]
+    }
+  ]
+}

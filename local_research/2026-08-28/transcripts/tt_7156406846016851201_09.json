@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7156406846016851201_09",
+  "duration_seconds": 9.13,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Chào tát.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.24,
+      "end": 1.52,
+      "text": "Chào tát.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 0.24,
+          "end": 0.9,
+          "probability": 0.29
+        },
+        {
+          "word": "tát.",
+          "start": 0.9,
+          "end": 1.52,
+          "probability": 0.42
+        }
+      ]
+    }
+  ]
+}

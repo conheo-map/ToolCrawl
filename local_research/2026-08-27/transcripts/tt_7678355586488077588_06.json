@@ -1,0 +1,422 @@
+{
+  "item_id": "tt_7678355586488077588_06",
+  "duration_seconds": 29.27,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 54,
+  "text": "Wine, chú lợi. Rý mòn. Đại ạ. Lúc mẹ bây cháu bùng xói. Lúc đó mẹ bây cháu hói ăn kết dự rời drời. Đây.. Cây nè, mẹ cháu mất rồi thì... Lúc cho chủ đã chờ. Nếu tật dự rời.. Dự rời, kết dự rời drời drời. Nói đến mình ché ở lại.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.27,
+      "end": 1.59,
+      "text": "Wine, chú lợi.",
+      "words": [
+        {
+          "word": "Wine,",
+          "start": 0.27,
+          "end": 1.09,
+          "probability": 0.01
+        },
+        {
+          "word": "chú",
+          "start": 1.19,
+          "end": 1.23,
+          "probability": 0.29
+        },
+        {
+          "word": "lợi.",
+          "start": 1.23,
+          "end": 1.59,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.29,
+      "end": 3.17,
+      "text": "Rý mòn.",
+      "words": [
+        {
+          "word": "Rý",
+          "start": 2.29,
+          "end": 2.73,
+          "probability": 0.11
+        },
+        {
+          "word": "mòn.",
+          "start": 2.73,
+          "end": 3.17,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.65,
+      "end": 3.97,
+      "text": "Đại ạ.",
+      "words": [
+        {
+          "word": "Đại",
+          "start": 3.65,
+          "end": 3.75,
+          "probability": 0.22
+        },
+        {
+          "word": "ạ.",
+          "start": 3.75,
+          "end": 3.97,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.27,
+      "end": 6.17,
+      "text": "Lúc mẹ bây cháu bùng xói.",
+      "words": [
+        {
+          "word": "Lúc",
+          "start": 4.27,
+          "end": 4.37,
+          "probability": 0.62
+        },
+        {
+          "word": "mẹ",
+          "start": 4.37,
+          "end": 5.19,
+          "probability": 0.7
+        },
+        {
+          "word": "bây",
+          "start": 5.19,
+          "end": 5.45,
+          "probability": 0.17
+        },
+        {
+          "word": "cháu",
+          "start": 5.45,
+          "end": 5.67,
+          "probability": 0.47
+        },
+        {
+          "word": "bùng",
+          "start": 5.67,
+          "end": 5.73,
+          "probability": 0.11
+        },
+        {
+          "word": "xói.",
+          "start": 5.73,
+          "end": 6.17,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.73,
+      "end": 9.61,
+      "text": "Lúc đó mẹ bây cháu hói ăn kết dự rời drời.",
+      "words": [
+        {
+          "word": "Lúc",
+          "start": 6.73,
+          "end": 6.95,
+          "probability": 0.92
+        },
+        {
+          "word": "đó",
+          "start": 6.95,
+          "end": 7.21,
+          "probability": 0.05
+        },
+        {
+          "word": "mẹ",
+          "start": 7.21,
+          "end": 7.45,
+          "probability": 0.73
+        },
+        {
+          "word": "bây",
+          "start": 7.45,
+          "end": 7.63,
+          "probability": 0.6
+        },
+        {
+          "word": "cháu",
+          "start": 7.63,
+          "end": 7.81,
+          "probability": 0.99
+        },
+        {
+          "word": "hói",
+          "start": 7.81,
+          "end": 8.09,
+          "probability": 0.71
+        },
+        {
+          "word": "ăn",
+          "start": 8.09,
+          "end": 8.23,
+          "probability": 0.36
+        },
+        {
+          "word": "kết",
+          "start": 8.23,
+          "end": 8.41,
+          "probability": 0.41
+        },
+        {
+          "word": "dự",
+          "start": 8.41,
+          "end": 8.57,
+          "probability": 0.13
+        },
+        {
+          "word": "rời",
+          "start": 8.57,
+          "end": 8.79,
+          "probability": 0.19
+        },
+        {
+          "word": "drời.",
+          "start": 8.79,
+          "end": 9.61,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.83,
+      "end": 10.89,
+      "text": "Đây..",
+      "words": [
+        {
+          "word": "Đây..",
+          "start": 10.83,
+          "end": 10.89,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 10.89,
+      "end": 13.13,
+      "text": "Cây nè, mẹ cháu mất rồi thì...",
+      "words": [
+        {
+          "word": "Cây",
+          "start": 10.89,
+          "end": 11.09,
+          "probability": 0.21
+        },
+        {
+          "word": "nè,",
+          "start": 11.09,
+          "end": 11.37,
+          "probability": 0.21
+        },
+        {
+          "word": "mẹ",
+          "start": 11.55,
+          "end": 11.55,
+          "probability": 0.64
+        },
+        {
+          "word": "cháu",
+          "start": 11.55,
+          "end": 11.71,
+          "probability": 0.94
+        },
+        {
+          "word": "mất",
+          "start": 11.71,
+          "end": 11.85,
+          "probability": 0.4
+        },
+        {
+          "word": "rồi",
+          "start": 11.85,
+          "end": 12.09,
+          "probability": 0.52
+        },
+        {
+          "word": "thì...",
+          "start": 12.09,
+          "end": 13.13,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.13,
+      "end": 14.85,
+      "text": "Lúc cho chủ đã chờ.",
+      "words": [
+        {
+          "word": "Lúc",
+          "start": 13.13,
+          "end": 13.13,
+          "probability": 0.88
+        },
+        {
+          "word": "cho",
+          "start": 13.13,
+          "end": 13.35,
+          "probability": 0.02
+        },
+        {
+          "word": "chủ",
+          "start": 13.35,
+          "end": 13.57,
+          "probability": 0.04
+        },
+        {
+          "word": "đã",
+          "start": 13.57,
+          "end": 13.79,
+          "probability": 0.16
+        },
+        {
+          "word": "chờ.",
+          "start": 13.79,
+          "end": 14.85,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 14.87,
+      "end": 16.51,
+      "text": "Nếu tật dự rời..",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 14.87,
+          "end": 15.05,
+          "probability": 0.14
+        },
+        {
+          "word": "tật",
+          "start": 15.05,
+          "end": 15.25,
+          "probability": 0.23
+        },
+        {
+          "word": "dự",
+          "start": 15.25,
+          "end": 15.61,
+          "probability": 0.21
+        },
+        {
+          "word": "rời..",
+          "start": 15.61,
+          "end": 16.51,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 16.51,
+      "end": 18.81,
+      "text": "Dự rời, kết dự rời drời drời.",
+      "words": [
+        {
+          "word": "Dự",
+          "start": 16.51,
+          "end": 16.67,
+          "probability": 0.21
+        },
+        {
+          "word": "rời,",
+          "start": 16.67,
+          "end": 16.95,
+          "probability": 0.87
+        },
+        {
+          "word": "kết",
+          "start": 17.11,
+          "end": 17.43,
+          "probability": 0.16
+        },
+        {
+          "word": "dự",
+          "start": 17.43,
+          "end": 17.69,
+          "probability": 0.94
+        },
+        {
+          "word": "rời",
+          "start": 17.69,
+          "end": 17.87,
+          "probability": 0.97
+        },
+        {
+          "word": "drời",
+          "start": 17.87,
+          "end": 18.81,
+          "probability": 0.69
+        },
+        {
+          "word": "drời.",
+          "start": 18.81,
+          "end": 18.81,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 18.81,
+      "end": 20.21,
+      "text": "Nói đến mình ché ở lại.",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 18.81,
+          "end": 19.19,
+          "probability": 0.28
+        },
+        {
+          "word": "đến",
+          "start": 19.19,
+          "end": 19.45,
+          "probability": 0.03
+        },
+        {
+          "word": "mình",
+          "start": 19.45,
+          "end": 19.71,
+          "probability": 0.26
+        },
+        {
+          "word": "ché",
+          "start": 19.71,
+          "end": 19.91,
+          "probability": 0.19
+        },
+        {
+          "word": "ở",
+          "start": 19.91,
+          "end": 20.05,
+          "probability": 0.11
+        },
+        {
+          "word": "lại.",
+          "start": 20.05,
+          "end": 20.21,
+          "probability": 0.39
+        }
+      ]
+    }
+  ]
+}

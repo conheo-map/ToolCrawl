@@ -1,0 +1,98 @@
+{
+  "item_id": "tt_7669668478449618197_16",
+  "duration_seconds": 29.94,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "Cái này là mạnh công mà Với không tìm bị lạc công",
+  "segments": [
+    {
+      "id": 1,
+      "start": 26.7,
+      "end": 28.4,
+      "text": "Cái này là mạnh công mà",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 26.7,
+          "end": 27.02,
+          "probability": 0.18
+        },
+        {
+          "word": "này",
+          "start": 27.02,
+          "end": 27.1,
+          "probability": 0.09
+        },
+        {
+          "word": "là",
+          "start": 27.1,
+          "end": 27.2,
+          "probability": 0.19
+        },
+        {
+          "word": "mạnh",
+          "start": 27.2,
+          "end": 27.5,
+          "probability": 0.15
+        },
+        {
+          "word": "công",
+          "start": 27.5,
+          "end": 27.92,
+          "probability": 0.15
+        },
+        {
+          "word": "mà",
+          "start": 27.92,
+          "end": 28.4,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 28.4,
+      "end": 29.52,
+      "text": "Với không tìm bị lạc công",
+      "words": [
+        {
+          "word": "Với",
+          "start": 28.4,
+          "end": 28.7,
+          "probability": 0.29
+        },
+        {
+          "word": "không",
+          "start": 28.7,
+          "end": 28.88,
+          "probability": 0.76
+        },
+        {
+          "word": "tìm",
+          "start": 28.88,
+          "end": 29.12,
+          "probability": 0.54
+        },
+        {
+          "word": "bị",
+          "start": 29.12,
+          "end": 29.18,
+          "probability": 0.35
+        },
+        {
+          "word": "lạc",
+          "start": 29.18,
+          "end": 29.38,
+          "probability": 0.59
+        },
+        {
+          "word": "công",
+          "start": 29.38,
+          "end": 29.52,
+          "probability": 0.62
+        }
+      ]
+    }
+  ]
+}

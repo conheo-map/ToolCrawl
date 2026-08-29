@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7531345218772208904_05",
+  "duration_seconds": 16.65,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Hãy subscribe to my channel.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.46,
+      "text": "Hãy subscribe to my channel.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.11
+        },
+        {
+          "word": "subscribe",
+          "start": 0.44,
+          "end": 0.44,
+          "probability": 0.08
+        },
+        {
+          "word": "to",
+          "start": 0.44,
+          "end": 0.46,
+          "probability": 0.07
+        },
+        {
+          "word": "my",
+          "start": 0.46,
+          "end": 0.46,
+          "probability": 0.12
+        },
+        {
+          "word": "channel.",
+          "start": 0.46,
+          "end": 0.46,
+          "probability": 0.85
+        }
+      ]
+    }
+  ]
+}

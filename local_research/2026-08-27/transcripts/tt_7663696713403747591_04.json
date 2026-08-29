@@ -1,0 +1,648 @@
+{
+  "item_id": "tt_7663696713403747591_04",
+  "duration_seconds": 25.58,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 89,
+  "text": "2 mì sảo hộ dân và 1 trong lệ 3 người ra hỏi buồn muý hềm. Zor dự bảo mưa lượng vẫn tiếp diễn trong hôm nay, chúng tâm dự bảo khi tượng thủy văn cuốc ra, đưa ra cảnh báo hình cấp, về muý cơ cao, sảy ra lúc quét và sạch lửa đất, tại bốn tình, lai châu, lao kai, sơn la, biện biên. Đông thời kiến nhỉ các lực lượng trước năng, lập thức ra soát các vị trí xung yếu để chú đọc em phó.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.34,
+      "text": "2 mì sảo hộ dân và 1 trong lệ 3 người ra hỏi buồn muý hềm.",
+      "words": [
+        {
+          "word": "2",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.26
+        },
+        {
+          "word": "mì",
+          "start": 0.4,
+          "end": 0.56,
+          "probability": 0.14
+        },
+        {
+          "word": "sảo",
+          "start": 0.56,
+          "end": 0.78,
+          "probability": 0.37
+        },
+        {
+          "word": "hộ",
+          "start": 0.78,
+          "end": 0.96,
+          "probability": 0.65
+        },
+        {
+          "word": "dân",
+          "start": 0.96,
+          "end": 1.22,
+          "probability": 0.69
+        },
+        {
+          "word": "và",
+          "start": 1.22,
+          "end": 1.58,
+          "probability": 0.9
+        },
+        {
+          "word": "1",
+          "start": 1.58,
+          "end": 1.78,
+          "probability": 0.77
+        },
+        {
+          "word": "trong",
+          "start": 1.78,
+          "end": 1.98,
+          "probability": 0.54
+        },
+        {
+          "word": "lệ",
+          "start": 1.98,
+          "end": 2.2,
+          "probability": 0.6
+        },
+        {
+          "word": "3",
+          "start": 2.2,
+          "end": 2.48,
+          "probability": 0.46
+        },
+        {
+          "word": "người",
+          "start": 2.48,
+          "end": 2.84,
+          "probability": 0.97
+        },
+        {
+          "word": "ra",
+          "start": 2.84,
+          "end": 3.08,
+          "probability": 0.53
+        },
+        {
+          "word": "hỏi",
+          "start": 3.08,
+          "end": 3.26,
+          "probability": 0.59
+        },
+        {
+          "word": "buồn",
+          "start": 3.26,
+          "end": 3.44,
+          "probability": 0.57
+        },
+        {
+          "word": "muý",
+          "start": 3.44,
+          "end": 3.62,
+          "probability": 0.29
+        },
+        {
+          "word": "hềm.",
+          "start": 3.62,
+          "end": 4.34,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.64,
+      "end": 6.92,
+      "text": "Zor dự bảo mưa lượng vẫn tiếp diễn trong hôm nay,",
+      "words": [
+        {
+          "word": "Zor",
+          "start": 4.64,
+          "end": 4.78,
+          "probability": 0.22
+        },
+        {
+          "word": "dự",
+          "start": 4.78,
+          "end": 4.96,
+          "probability": 0.66
+        },
+        {
+          "word": "bảo",
+          "start": 4.96,
+          "end": 5.18,
+          "probability": 0.83
+        },
+        {
+          "word": "mưa",
+          "start": 5.18,
+          "end": 5.38,
+          "probability": 0.36
+        },
+        {
+          "word": "lượng",
+          "start": 5.38,
+          "end": 5.58,
+          "probability": 0.43
+        },
+        {
+          "word": "vẫn",
+          "start": 5.58,
+          "end": 5.84,
+          "probability": 0.26
+        },
+        {
+          "word": "tiếp",
+          "start": 5.84,
+          "end": 6.0,
+          "probability": 0.94
+        },
+        {
+          "word": "diễn",
+          "start": 6.0,
+          "end": 6.24,
+          "probability": 0.77
+        },
+        {
+          "word": "trong",
+          "start": 6.24,
+          "end": 6.42,
+          "probability": 0.96
+        },
+        {
+          "word": "hôm",
+          "start": 6.42,
+          "end": 6.58,
+          "probability": 0.33
+        },
+        {
+          "word": "nay,",
+          "start": 6.58,
+          "end": 6.92,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.2,
+      "end": 9.16,
+      "text": "chúng tâm dự bảo khi tượng thủy văn cuốc ra,",
+      "words": [
+        {
+          "word": "chúng",
+          "start": 7.2,
+          "end": 7.32,
+          "probability": 0.44
+        },
+        {
+          "word": "tâm",
+          "start": 7.32,
+          "end": 7.48,
+          "probability": 0.8
+        },
+        {
+          "word": "dự",
+          "start": 7.48,
+          "end": 7.64,
+          "probability": 0.95
+        },
+        {
+          "word": "bảo",
+          "start": 7.64,
+          "end": 7.84,
+          "probability": 0.82
+        },
+        {
+          "word": "khi",
+          "start": 7.84,
+          "end": 8.04,
+          "probability": 0.64
+        },
+        {
+          "word": "tượng",
+          "start": 8.04,
+          "end": 8.22,
+          "probability": 0.63
+        },
+        {
+          "word": "thủy",
+          "start": 8.22,
+          "end": 8.44,
+          "probability": 0.76
+        },
+        {
+          "word": "văn",
+          "start": 8.44,
+          "end": 8.6,
+          "probability": 0.65
+        },
+        {
+          "word": "cuốc",
+          "start": 8.6,
+          "end": 8.78,
+          "probability": 0.48
+        },
+        {
+          "word": "ra,",
+          "start": 8.78,
+          "end": 9.16,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.32,
+      "end": 10.64,
+      "text": "đưa ra cảnh báo hình cấp,",
+      "words": [
+        {
+          "word": "đưa",
+          "start": 9.32,
+          "end": 9.46,
+          "probability": 0.9
+        },
+        {
+          "word": "ra",
+          "start": 9.46,
+          "end": 9.68,
+          "probability": 0.99
+        },
+        {
+          "word": "cảnh",
+          "start": 9.68,
+          "end": 9.88,
+          "probability": 0.73
+        },
+        {
+          "word": "báo",
+          "start": 9.88,
+          "end": 10.1,
+          "probability": 0.77
+        },
+        {
+          "word": "hình",
+          "start": 10.1,
+          "end": 10.32,
+          "probability": 0.54
+        },
+        {
+          "word": "cấp,",
+          "start": 10.32,
+          "end": 10.64,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 10.86,
+      "end": 11.96,
+      "text": "về muý cơ cao,",
+      "words": [
+        {
+          "word": "về",
+          "start": 10.86,
+          "end": 10.98,
+          "probability": 0.64
+        },
+        {
+          "word": "muý",
+          "start": 10.98,
+          "end": 11.22,
+          "probability": 0.46
+        },
+        {
+          "word": "cơ",
+          "start": 11.22,
+          "end": 11.46,
+          "probability": 0.76
+        },
+        {
+          "word": "cao,",
+          "start": 11.46,
+          "end": 11.96,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 12.1,
+      "end": 13.86,
+      "text": "sảy ra lúc quét và sạch lửa đất,",
+      "words": [
+        {
+          "word": "sảy",
+          "start": 12.1,
+          "end": 12.2,
+          "probability": 0.58
+        },
+        {
+          "word": "ra",
+          "start": 12.2,
+          "end": 12.4,
+          "probability": 0.99
+        },
+        {
+          "word": "lúc",
+          "start": 12.4,
+          "end": 12.64,
+          "probability": 0.65
+        },
+        {
+          "word": "quét",
+          "start": 12.64,
+          "end": 12.9,
+          "probability": 0.67
+        },
+        {
+          "word": "và",
+          "start": 12.9,
+          "end": 13.16,
+          "probability": 0.93
+        },
+        {
+          "word": "sạch",
+          "start": 13.16,
+          "end": 13.38,
+          "probability": 0.57
+        },
+        {
+          "word": "lửa",
+          "start": 13.38,
+          "end": 13.5,
+          "probability": 0.75
+        },
+        {
+          "word": "đất,",
+          "start": 13.5,
+          "end": 13.86,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 14.16,
+      "end": 14.68,
+      "text": "tại bốn tình,",
+      "words": [
+        {
+          "word": "tại",
+          "start": 14.16,
+          "end": 14.16,
+          "probability": 0.76
+        },
+        {
+          "word": "bốn",
+          "start": 14.16,
+          "end": 14.34,
+          "probability": 0.6
+        },
+        {
+          "word": "tình,",
+          "start": 14.34,
+          "end": 14.68,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.18,
+      "end": 15.56,
+      "text": "lai châu,",
+      "words": [
+        {
+          "word": "lai",
+          "start": 15.18,
+          "end": 15.28,
+          "probability": 0.57
+        },
+        {
+          "word": "châu,",
+          "start": 15.28,
+          "end": 15.56,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 15.88,
+      "end": 16.4,
+      "text": "lao kai,",
+      "words": [
+        {
+          "word": "lao",
+          "start": 15.88,
+          "end": 16.06,
+          "probability": 0.66
+        },
+        {
+          "word": "kai,",
+          "start": 16.06,
+          "end": 16.4,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 16.78,
+      "end": 17.1,
+      "text": "sơn la,",
+      "words": [
+        {
+          "word": "sơn",
+          "start": 16.78,
+          "end": 16.84,
+          "probability": 0.51
+        },
+        {
+          "word": "la,",
+          "start": 16.84,
+          "end": 17.1,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 17.38,
+      "end": 18.0,
+      "text": "biện biên.",
+      "words": [
+        {
+          "word": "biện",
+          "start": 17.38,
+          "end": 17.54,
+          "probability": 0.54
+        },
+        {
+          "word": "biên.",
+          "start": 17.54,
+          "end": 18.0,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 18.5,
+      "end": 20.36,
+      "text": "Đông thời kiến nhỉ các lực lượng trước năng,",
+      "words": [
+        {
+          "word": "Đông",
+          "start": 18.5,
+          "end": 18.62,
+          "probability": 0.55
+        },
+        {
+          "word": "thời",
+          "start": 18.62,
+          "end": 18.88,
+          "probability": 0.94
+        },
+        {
+          "word": "kiến",
+          "start": 18.88,
+          "end": 19.06,
+          "probability": 0.6
+        },
+        {
+          "word": "nhỉ",
+          "start": 19.06,
+          "end": 19.26,
+          "probability": 0.31
+        },
+        {
+          "word": "các",
+          "start": 19.26,
+          "end": 19.46,
+          "probability": 0.85
+        },
+        {
+          "word": "lực",
+          "start": 19.46,
+          "end": 19.62,
+          "probability": 0.82
+        },
+        {
+          "word": "lượng",
+          "start": 19.62,
+          "end": 19.82,
+          "probability": 0.97
+        },
+        {
+          "word": "trước",
+          "start": 19.82,
+          "end": 20.02,
+          "probability": 0.48
+        },
+        {
+          "word": "năng,",
+          "start": 20.02,
+          "end": 20.36,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 20.62,
+      "end": 23.66,
+      "text": "lập thức ra soát các vị trí xung yếu để chú đọc em phó.",
+      "words": [
+        {
+          "word": "lập",
+          "start": 20.62,
+          "end": 20.72,
+          "probability": 0.92
+        },
+        {
+          "word": "thức",
+          "start": 20.72,
+          "end": 20.92,
+          "probability": 0.67
+        },
+        {
+          "word": "ra",
+          "start": 20.92,
+          "end": 21.16,
+          "probability": 0.87
+        },
+        {
+          "word": "soát",
+          "start": 21.16,
+          "end": 21.4,
+          "probability": 0.46
+        },
+        {
+          "word": "các",
+          "start": 21.4,
+          "end": 21.58,
+          "probability": 0.79
+        },
+        {
+          "word": "vị",
+          "start": 21.58,
+          "end": 21.74,
+          "probability": 0.54
+        },
+        {
+          "word": "trí",
+          "start": 21.74,
+          "end": 21.9,
+          "probability": 0.72
+        },
+        {
+          "word": "xung",
+          "start": 21.9,
+          "end": 22.14,
+          "probability": 0.64
+        },
+        {
+          "word": "yếu",
+          "start": 22.14,
+          "end": 22.5,
+          "probability": 0.4
+        },
+        {
+          "word": "để",
+          "start": 22.5,
+          "end": 22.82,
+          "probability": 0.95
+        },
+        {
+          "word": "chú",
+          "start": 22.82,
+          "end": 23.0,
+          "probability": 0.31
+        },
+        {
+          "word": "đọc",
+          "start": 23.0,
+          "end": 23.2,
+          "probability": 0.54
+        },
+        {
+          "word": "em",
+          "start": 23.2,
+          "end": 23.48,
+          "probability": 0.1
+        },
+        {
+          "word": "phó.",
+          "start": 23.48,
+          "end": 23.66,
+          "probability": 0.63
+        }
+      ]
+    }
+  ]
+}

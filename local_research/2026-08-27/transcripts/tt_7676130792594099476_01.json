@@ -1,0 +1,670 @@
+{
+  "item_id": "tt_7676130792594099476_01",
+  "duration_seconds": 29.22,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 102,
+  "text": "Chào mọi người, thân tâm, nằm hệ không hảm yên sống. Hồi động sất sử tỏa những trường thành uôi chi mình tiếp tục phần cẩm vấn đối với các bị káo trong vua an cứu mùi tâm. Lên quan truyền án bỗng tiếp điên hảm không trên truyền bài với em mười, mì lấy dụng vợ chuyện trẻ phép chấp mật huyết. Trong vua này bị káo Andrea, A. Bò, Camona, bà mi lập tối phúc tịch nè bà nhạc. Bệ truy tố về tối, tối chức xây yếu mặt phép chấp mật huyết, tàn trữ trẻ phép chấp mật huyết.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.78,
+      "end": 6.14,
+      "text": "Chào mọi người, thân tâm, nằm hệ không hảm yên sống.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 3.78,
+          "end": 4.18,
+          "probability": 0.16
+        },
+        {
+          "word": "mọi",
+          "start": 4.18,
+          "end": 4.58,
+          "probability": 0.13
+        },
+        {
+          "word": "người,",
+          "start": 4.58,
+          "end": 4.6,
+          "probability": 0.55
+        },
+        {
+          "word": "thân",
+          "start": 4.74,
+          "end": 4.8,
+          "probability": 0.2
+        },
+        {
+          "word": "tâm,",
+          "start": 4.8,
+          "end": 5.02,
+          "probability": 0.24
+        },
+        {
+          "word": "nằm",
+          "start": 5.14,
+          "end": 5.3,
+          "probability": 0.58
+        },
+        {
+          "word": "hệ",
+          "start": 5.3,
+          "end": 5.4,
+          "probability": 0.21
+        },
+        {
+          "word": "không",
+          "start": 5.4,
+          "end": 5.54,
+          "probability": 0.25
+        },
+        {
+          "word": "hảm",
+          "start": 5.54,
+          "end": 5.74,
+          "probability": 0.31
+        },
+        {
+          "word": "yên",
+          "start": 5.74,
+          "end": 5.84,
+          "probability": 0.15
+        },
+        {
+          "word": "sống.",
+          "start": 5.84,
+          "end": 6.14,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.56,
+      "end": 11.34,
+      "text": "Hồi động sất sử tỏa những trường thành uôi chi mình tiếp tục phần cẩm vấn đối với các bị káo trong vua an cứu",
+      "words": [
+        {
+          "word": "Hồi",
+          "start": 6.56,
+          "end": 6.56,
+          "probability": 0.65
+        },
+        {
+          "word": "động",
+          "start": 6.56,
+          "end": 6.76,
+          "probability": 0.47
+        },
+        {
+          "word": "sất",
+          "start": 6.76,
+          "end": 6.94,
+          "probability": 0.43
+        },
+        {
+          "word": "sử",
+          "start": 6.94,
+          "end": 7.16,
+          "probability": 0.58
+        },
+        {
+          "word": "tỏa",
+          "start": 7.16,
+          "end": 7.44,
+          "probability": 0.29
+        },
+        {
+          "word": "những",
+          "start": 7.44,
+          "end": 7.54,
+          "probability": 0.2
+        },
+        {
+          "word": "trường",
+          "start": 7.54,
+          "end": 7.68,
+          "probability": 0.23
+        },
+        {
+          "word": "thành",
+          "start": 7.68,
+          "end": 7.84,
+          "probability": 0.88
+        },
+        {
+          "word": "uôi",
+          "start": 7.84,
+          "end": 8.06,
+          "probability": 0.13
+        },
+        {
+          "word": "chi",
+          "start": 8.06,
+          "end": 8.24,
+          "probability": 0.19
+        },
+        {
+          "word": "mình",
+          "start": 8.24,
+          "end": 8.4,
+          "probability": 0.48
+        },
+        {
+          "word": "tiếp",
+          "start": 8.4,
+          "end": 8.7,
+          "probability": 0.93
+        },
+        {
+          "word": "tục",
+          "start": 8.7,
+          "end": 8.88,
+          "probability": 0.88
+        },
+        {
+          "word": "phần",
+          "start": 8.88,
+          "end": 9.14,
+          "probability": 0.8
+        },
+        {
+          "word": "cẩm",
+          "start": 9.14,
+          "end": 9.4,
+          "probability": 0.5
+        },
+        {
+          "word": "vấn",
+          "start": 9.4,
+          "end": 9.7,
+          "probability": 0.72
+        },
+        {
+          "word": "đối",
+          "start": 9.7,
+          "end": 9.88,
+          "probability": 0.79
+        },
+        {
+          "word": "với",
+          "start": 9.88,
+          "end": 10.02,
+          "probability": 0.92
+        },
+        {
+          "word": "các",
+          "start": 10.02,
+          "end": 10.2,
+          "probability": 0.85
+        },
+        {
+          "word": "bị",
+          "start": 10.2,
+          "end": 10.4,
+          "probability": 0.26
+        },
+        {
+          "word": "káo",
+          "start": 10.4,
+          "end": 10.58,
+          "probability": 0.42
+        },
+        {
+          "word": "trong",
+          "start": 10.58,
+          "end": 10.8,
+          "probability": 0.92
+        },
+        {
+          "word": "vua",
+          "start": 10.8,
+          "end": 11.04,
+          "probability": 0.36
+        },
+        {
+          "word": "an",
+          "start": 11.04,
+          "end": 11.18,
+          "probability": 0.2
+        },
+        {
+          "word": "cứu",
+          "start": 11.18,
+          "end": 11.34,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.34,
+      "end": 15.7,
+      "text": "mùi tâm. Lên quan truyền án bỗng tiếp điên hảm không trên truyền bài với em mười,",
+      "words": [
+        {
+          "word": "mùi",
+          "start": 11.34,
+          "end": 11.52,
+          "probability": 0.39
+        },
+        {
+          "word": "tâm.",
+          "start": 11.52,
+          "end": 11.98,
+          "probability": 0.38
+        },
+        {
+          "word": "Lên",
+          "start": 12.26,
+          "end": 12.42,
+          "probability": 0.43
+        },
+        {
+          "word": "quan",
+          "start": 12.42,
+          "end": 12.68,
+          "probability": 0.8
+        },
+        {
+          "word": "truyền",
+          "start": 12.68,
+          "end": 12.9,
+          "probability": 0.73
+        },
+        {
+          "word": "án",
+          "start": 12.9,
+          "end": 13.24,
+          "probability": 0.68
+        },
+        {
+          "word": "bỗng",
+          "start": 13.24,
+          "end": 13.5,
+          "probability": 0.57
+        },
+        {
+          "word": "tiếp",
+          "start": 13.5,
+          "end": 13.76,
+          "probability": 0.26
+        },
+        {
+          "word": "điên",
+          "start": 13.76,
+          "end": 13.82,
+          "probability": 0.22
+        },
+        {
+          "word": "hảm",
+          "start": 13.82,
+          "end": 14.26,
+          "probability": 0.49
+        },
+        {
+          "word": "không",
+          "start": 14.26,
+          "end": 14.26,
+          "probability": 0.46
+        },
+        {
+          "word": "trên",
+          "start": 14.26,
+          "end": 14.44,
+          "probability": 0.87
+        },
+        {
+          "word": "truyền",
+          "start": 14.44,
+          "end": 14.7,
+          "probability": 0.62
+        },
+        {
+          "word": "bài",
+          "start": 14.7,
+          "end": 14.88,
+          "probability": 0.54
+        },
+        {
+          "word": "với",
+          "start": 14.88,
+          "end": 15.14,
+          "probability": 0.3
+        },
+        {
+          "word": "em",
+          "start": 15.14,
+          "end": 15.4,
+          "probability": 0.73
+        },
+        {
+          "word": "mười,",
+          "start": 15.4,
+          "end": 15.7,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.92,
+      "end": 18.36,
+      "text": "mì lấy dụng vợ chuyện trẻ phép chấp mật huyết.",
+      "words": [
+        {
+          "word": "mì",
+          "start": 15.92,
+          "end": 16.1,
+          "probability": 0.34
+        },
+        {
+          "word": "lấy",
+          "start": 16.1,
+          "end": 16.26,
+          "probability": 0.46
+        },
+        {
+          "word": "dụng",
+          "start": 16.26,
+          "end": 16.48,
+          "probability": 0.72
+        },
+        {
+          "word": "vợ",
+          "start": 16.48,
+          "end": 16.7,
+          "probability": 0.45
+        },
+        {
+          "word": "chuyện",
+          "start": 16.7,
+          "end": 16.94,
+          "probability": 0.66
+        },
+        {
+          "word": "trẻ",
+          "start": 16.94,
+          "end": 17.18,
+          "probability": 0.48
+        },
+        {
+          "word": "phép",
+          "start": 17.18,
+          "end": 17.4,
+          "probability": 0.7
+        },
+        {
+          "word": "chấp",
+          "start": 17.4,
+          "end": 17.58,
+          "probability": 0.49
+        },
+        {
+          "word": "mật",
+          "start": 17.58,
+          "end": 17.76,
+          "probability": 0.4
+        },
+        {
+          "word": "huyết.",
+          "start": 17.76,
+          "end": 18.36,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 18.58,
+      "end": 24.0,
+      "text": "Trong vua này bị káo Andrea, A. Bò, Camona, bà mi lập tối phúc tịch nè bà nhạc.",
+      "words": [
+        {
+          "word": "Trong",
+          "start": 18.58,
+          "end": 18.66,
+          "probability": 0.77
+        },
+        {
+          "word": "vua",
+          "start": 18.66,
+          "end": 18.88,
+          "probability": 0.56
+        },
+        {
+          "word": "này",
+          "start": 18.88,
+          "end": 19.22,
+          "probability": 0.33
+        },
+        {
+          "word": "bị",
+          "start": 19.22,
+          "end": 19.42,
+          "probability": 0.62
+        },
+        {
+          "word": "káo",
+          "start": 19.42,
+          "end": 19.68,
+          "probability": 0.97
+        },
+        {
+          "word": "Andrea,",
+          "start": 19.68,
+          "end": 20.3,
+          "probability": 0.42
+        },
+        {
+          "word": "A.",
+          "start": 20.6,
+          "end": 20.78,
+          "probability": 0.18
+        },
+        {
+          "word": "Bò,",
+          "start": 20.78,
+          "end": 20.94,
+          "probability": 0.36
+        },
+        {
+          "word": "Camona,",
+          "start": 21.04,
+          "end": 21.5,
+          "probability": 0.22
+        },
+        {
+          "word": "bà",
+          "start": 22.04,
+          "end": 22.04,
+          "probability": 0.46
+        },
+        {
+          "word": "mi",
+          "start": 22.04,
+          "end": 22.28,
+          "probability": 0.37
+        },
+        {
+          "word": "lập",
+          "start": 22.28,
+          "end": 22.3,
+          "probability": 0.59
+        },
+        {
+          "word": "tối",
+          "start": 22.3,
+          "end": 22.58,
+          "probability": 0.35
+        },
+        {
+          "word": "phúc",
+          "start": 22.58,
+          "end": 22.86,
+          "probability": 0.37
+        },
+        {
+          "word": "tịch",
+          "start": 22.86,
+          "end": 23.06,
+          "probability": 0.52
+        },
+        {
+          "word": "nè",
+          "start": 23.06,
+          "end": 23.24,
+          "probability": 0.2
+        },
+        {
+          "word": "bà",
+          "start": 23.24,
+          "end": 23.36,
+          "probability": 0.41
+        },
+        {
+          "word": "nhạc.",
+          "start": 23.36,
+          "end": 24.0,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 24.08,
+      "end": 28.9,
+      "text": "Bệ truy tố về tối, tối chức xây yếu mặt phép chấp mật huyết, tàn trữ trẻ phép chấp mật huyết.",
+      "words": [
+        {
+          "word": "Bệ",
+          "start": 24.08,
+          "end": 24.24,
+          "probability": 0.27
+        },
+        {
+          "word": "truy",
+          "start": 24.24,
+          "end": 24.46,
+          "probability": 0.48
+        },
+        {
+          "word": "tố",
+          "start": 24.46,
+          "end": 24.6,
+          "probability": 0.35
+        },
+        {
+          "word": "về",
+          "start": 24.6,
+          "end": 24.86,
+          "probability": 0.89
+        },
+        {
+          "word": "tối,",
+          "start": 24.86,
+          "end": 25.24,
+          "probability": 0.78
+        },
+        {
+          "word": "tối",
+          "start": 25.52,
+          "end": 25.66,
+          "probability": 0.83
+        },
+        {
+          "word": "chức",
+          "start": 25.66,
+          "end": 25.82,
+          "probability": 0.29
+        },
+        {
+          "word": "xây",
+          "start": 25.82,
+          "end": 26.0,
+          "probability": 0.56
+        },
+        {
+          "word": "yếu",
+          "start": 26.0,
+          "end": 26.14,
+          "probability": 0.21
+        },
+        {
+          "word": "mặt",
+          "start": 26.14,
+          "end": 26.34,
+          "probability": 0.09
+        },
+        {
+          "word": "phép",
+          "start": 26.34,
+          "end": 26.52,
+          "probability": 0.7
+        },
+        {
+          "word": "chấp",
+          "start": 26.52,
+          "end": 26.78,
+          "probability": 0.9
+        },
+        {
+          "word": "mật",
+          "start": 26.78,
+          "end": 26.96,
+          "probability": 0.85
+        },
+        {
+          "word": "huyết,",
+          "start": 26.96,
+          "end": 27.36,
+          "probability": 0.97
+        },
+        {
+          "word": "tàn",
+          "start": 27.52,
+          "end": 27.66,
+          "probability": 0.67
+        },
+        {
+          "word": "trữ",
+          "start": 27.66,
+          "end": 27.88,
+          "probability": 0.36
+        },
+        {
+          "word": "trẻ",
+          "start": 27.88,
+          "end": 28.12,
+          "probability": 0.91
+        },
+        {
+          "word": "phép",
+          "start": 28.12,
+          "end": 28.3,
+          "probability": 0.99
+        },
+        {
+          "word": "chấp",
+          "start": 28.3,
+          "end": 28.5,
+          "probability": 0.96
+        },
+        {
+          "word": "mật",
+          "start": 28.5,
+          "end": 28.66,
+          "probability": 0.81
+        },
+        {
+          "word": "huyết.",
+          "start": 28.66,
+          "end": 28.9,
+          "probability": 1.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "item_id": "tt_7156406846016851201_04",
+  "duration_seconds": 29.81,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 43,
+  "text": "Bong như chất tác gặp nhiều đặc nơi Cô nè, bầu như đấy thôn Chất tác như thời ra chương Đường còn ra, bắt còn như hơi chống cái Zối thì làm lẽ như thân ngày buồn lửa lại Ngày buổi xây lắng",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Bong như chất tác gặp nhiều đặc nơi",
+      "words": [
+        {
+          "word": "Bong",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.16
+        },
+        {
+          "word": "như",
+          "start": 0.3,
+          "end": 1.08,
+          "probability": 0.65
+        },
+        {
+          "word": "chất",
+          "start": 1.08,
+          "end": 2.12,
+          "probability": 0.59
+        },
+        {
+          "word": "tác",
+          "start": 2.12,
+          "end": 2.4,
+          "probability": 0.45
+        },
+        {
+          "word": "gặp",
+          "start": 2.4,
+          "end": 2.52,
+          "probability": 0.57
+        },
+        {
+          "word": "nhiều",
+          "start": 2.52,
+          "end": 2.74,
+          "probability": 0.51
+        },
+        {
+          "word": "đặc",
+          "start": 2.74,
+          "end": 3.06,
+          "probability": 0.4
+        },
+        {
+          "word": "nơi",
+          "start": 3.06,
+          "end": 3.6,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.4,
+      "end": 7.7,
+      "text": "Cô nè, bầu như đấy thôn",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 4.4,
+          "end": 4.96,
+          "probability": 0.14
+        },
+        {
+          "word": "nè,",
+          "start": 4.96,
+          "end": 5.52,
+          "probability": 0.59
+        },
+        {
+          "word": "bầu",
+          "start": 5.9,
+          "end": 6.12,
+          "probability": 0.16
+        },
+        {
+          "word": "như",
+          "start": 6.12,
+          "end": 6.52,
+          "probability": 0.5
+        },
+        {
+          "word": "đấy",
+          "start": 6.52,
+          "end": 7.0,
+          "probability": 0.18
+        },
+        {
+          "word": "thôn",
+          "start": 7.0,
+          "end": 7.7,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.78,
+      "end": 11.44,
+      "text": "Chất tác như thời ra chương",
+      "words": [
+        {
+          "word": "Chất",
+          "start": 8.78,
+          "end": 9.18,
+          "probability": 0.78
+        },
+        {
+          "word": "tác",
+          "start": 9.18,
+          "end": 9.84,
+          "probability": 0.63
+        },
+        {
+          "word": "như",
+          "start": 9.84,
+          "end": 10.12,
+          "probability": 0.6
+        },
+        {
+          "word": "thời",
+          "start": 10.12,
+          "end": 10.76,
+          "probability": 0.33
+        },
+        {
+          "word": "ra",
+          "start": 10.76,
+          "end": 11.1,
+          "probability": 0.24
+        },
+        {
+          "word": "chương",
+          "start": 11.1,
+          "end": 11.44,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.44,
+      "end": 21.88,
+      "text": "Đường còn ra, bắt còn như hơi chống cái",
+      "words": [
+        {
+          "word": "Đường",
+          "start": 15.44,
+          "end": 16.24,
+          "probability": 0.07
+        },
+        {
+          "word": "còn",
+          "start": 16.24,
+          "end": 16.52,
+          "probability": 0.31
+        },
+        {
+          "word": "ra,",
+          "start": 16.52,
+          "end": 16.92,
+          "probability": 0.5
+        },
+        {
+          "word": "bắt",
+          "start": 18.76,
+          "end": 19.24,
+          "probability": 0.33
+        },
+        {
+          "word": "còn",
+          "start": 19.24,
+          "end": 19.54,
+          "probability": 0.7
+        },
+        {
+          "word": "như",
+          "start": 19.54,
+          "end": 19.98,
+          "probability": 0.75
+        },
+        {
+          "word": "hơi",
+          "start": 19.98,
+          "end": 20.46,
+          "probability": 0.38
+        },
+        {
+          "word": "chống",
+          "start": 20.46,
+          "end": 20.82,
+          "probability": 0.36
+        },
+        {
+          "word": "cái",
+          "start": 20.82,
+          "end": 21.88,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 22.54,
+      "end": 27.8,
+      "text": "Zối thì làm lẽ như thân ngày buồn lửa lại",
+      "words": [
+        {
+          "word": "Zối",
+          "start": 22.54,
+          "end": 23.48,
+          "probability": 0.2
+        },
+        {
+          "word": "thì",
+          "start": 23.48,
+          "end": 23.7,
+          "probability": 0.38
+        },
+        {
+          "word": "làm",
+          "start": 23.7,
+          "end": 23.98,
+          "probability": 0.26
+        },
+        {
+          "word": "lẽ",
+          "start": 23.98,
+          "end": 24.3,
+          "probability": 0.4
+        },
+        {
+          "word": "như",
+          "start": 24.3,
+          "end": 24.6,
+          "probability": 0.47
+        },
+        {
+          "word": "thân",
+          "start": 24.6,
+          "end": 25.24,
+          "probability": 0.62
+        },
+        {
+          "word": "ngày",
+          "start": 25.24,
+          "end": 25.76,
+          "probability": 0.39
+        },
+        {
+          "word": "buồn",
+          "start": 25.76,
+          "end": 26.24,
+          "probability": 0.77
+        },
+        {
+          "word": "lửa",
+          "start": 26.24,
+          "end": 26.82,
+          "probability": 0.68
+        },
+        {
+          "word": "lại",
+          "start": 26.82,
+          "end": 27.8,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 27.8,
+      "end": 29.12,
+      "text": "Ngày buổi xây lắng",
+      "words": [
+        {
+          "word": "Ngày",
+          "start": 27.8,
+          "end": 28.32,
+          "probability": 0.41
+        },
+        {
+          "word": "buổi",
+          "start": 28.32,
+          "end": 28.54,
+          "probability": 0.41
+        },
+        {
+          "word": "xây",
+          "start": 28.54,
+          "end": 28.78,
+          "probability": 0.53
+        },
+        {
+          "word": "lắng",
+          "start": 28.78,
+          "end": 29.12,
+          "probability": 0.48
+        }
+      ]
+    }
+  ]
+}

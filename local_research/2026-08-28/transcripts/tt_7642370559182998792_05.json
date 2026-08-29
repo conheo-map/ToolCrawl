@@ -1,0 +1,230 @@
+{
+  "item_id": "tt_7642370559182998792_05",
+  "duration_seconds": 27.44,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 30,
+  "text": "Điều là gì mà... Thế phần mà cái gì mà để tụi cao Chỉ có thể là cái tình dành Cái gì mà hả? Chính vì vậy, cái gì mà...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.27,
+      "end": 1.89,
+      "text": "Điều là gì mà...",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 0.27,
+          "end": 0.61,
+          "probability": 0.11
+        },
+        {
+          "word": "là",
+          "start": 0.61,
+          "end": 0.61,
+          "probability": 0.17
+        },
+        {
+          "word": "gì",
+          "start": 0.61,
+          "end": 0.91,
+          "probability": 0.08
+        },
+        {
+          "word": "mà...",
+          "start": 0.91,
+          "end": 1.89,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.89,
+      "end": 4.17,
+      "text": "Thế phần mà cái gì mà để tụi cao",
+      "words": [
+        {
+          "word": "Thế",
+          "start": 1.89,
+          "end": 2.03,
+          "probability": 0.07
+        },
+        {
+          "word": "phần",
+          "start": 2.03,
+          "end": 2.19,
+          "probability": 0.19
+        },
+        {
+          "word": "mà",
+          "start": 2.19,
+          "end": 2.37,
+          "probability": 0.2
+        },
+        {
+          "word": "cái",
+          "start": 2.37,
+          "end": 2.57,
+          "probability": 0.07
+        },
+        {
+          "word": "gì",
+          "start": 2.57,
+          "end": 2.79,
+          "probability": 0.38
+        },
+        {
+          "word": "mà",
+          "start": 2.79,
+          "end": 3.05,
+          "probability": 0.47
+        },
+        {
+          "word": "để",
+          "start": 3.05,
+          "end": 3.25,
+          "probability": 0.4
+        },
+        {
+          "word": "tụi",
+          "start": 3.25,
+          "end": 3.67,
+          "probability": 0.39
+        },
+        {
+          "word": "cao",
+          "start": 3.67,
+          "end": 4.17,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.17,
+      "end": 5.63,
+      "text": "Chỉ có thể là cái tình dành",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 4.17,
+          "end": 4.33,
+          "probability": 0.19
+        },
+        {
+          "word": "có",
+          "start": 4.33,
+          "end": 4.47,
+          "probability": 0.98
+        },
+        {
+          "word": "thể",
+          "start": 4.47,
+          "end": 4.67,
+          "probability": 0.94
+        },
+        {
+          "word": "là",
+          "start": 4.67,
+          "end": 4.91,
+          "probability": 0.51
+        },
+        {
+          "word": "cái",
+          "start": 4.91,
+          "end": 5.03,
+          "probability": 0.87
+        },
+        {
+          "word": "tình",
+          "start": 5.03,
+          "end": 5.23,
+          "probability": 0.65
+        },
+        {
+          "word": "dành",
+          "start": 5.23,
+          "end": 5.63,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.46,
+      "end": 8.34,
+      "text": "Cái gì mà hả?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 7.46,
+          "end": 7.8,
+          "probability": 0.45
+        },
+        {
+          "word": "gì",
+          "start": 7.8,
+          "end": 8.0,
+          "probability": 0.69
+        },
+        {
+          "word": "mà",
+          "start": 8.0,
+          "end": 8.3,
+          "probability": 0.09
+        },
+        {
+          "word": "hả?",
+          "start": 8.3,
+          "end": 8.34,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.38,
+      "end": 14.2,
+      "text": "Chính vì vậy, cái gì mà...",
+      "words": [
+        {
+          "word": "Chính",
+          "start": 13.38,
+          "end": 13.48,
+          "probability": 0.41
+        },
+        {
+          "word": "vì",
+          "start": 13.48,
+          "end": 13.64,
+          "probability": 0.16
+        },
+        {
+          "word": "vậy,",
+          "start": 13.64,
+          "end": 13.86,
+          "probability": 0.71
+        },
+        {
+          "word": "cái",
+          "start": 13.98,
+          "end": 14.08,
+          "probability": 0.31
+        },
+        {
+          "word": "gì",
+          "start": 14.08,
+          "end": 14.2,
+          "probability": 0.5
+        },
+        {
+          "word": "mà...",
+          "start": 14.2,
+          "end": 14.2,
+          "probability": 0.7
+        }
+      ]
+    }
+  ]
+}

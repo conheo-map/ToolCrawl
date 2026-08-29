@@ -1,0 +1,910 @@
+{
+  "item_id": "tt_7595077617858940180_15",
+  "duration_seconds": 28.72,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 122,
+  "text": "thì ra đây gian tương đương vều gì đó tương đương vừa ích chưa ích tất cả bình phương nhá nha sẽ nhà bảo bố đi ok, soạn ấy gian rồi soạn ấy gian rồi để gian bố đi, để gian bố không đi gian biết là mất không, soạn bố đi, để gian bố không nè, là mất không vô bài không thì gian thì mình khai cân nâng khai cân ra thì tí đe dân ở, túng đối ở đây là dân mà tí gian thì gian thì gian bỏ í chưa ích nha sẽ nhà mắng căn của bố đi bỏ các bạn sẽ có được tí bố gian sẽ nhà mắng í, cộng với gian bố mùi đi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.78,
+      "text": "thì ra đây gian tương đương vều gì đó",
+      "words": [
+        {
+          "word": "thì",
+          "start": 0.02,
+          "end": 0.56,
+          "probability": 0.23
+        },
+        {
+          "word": "ra",
+          "start": 0.56,
+          "end": 0.72,
+          "probability": 0.42
+        },
+        {
+          "word": "đây",
+          "start": 0.72,
+          "end": 0.76,
+          "probability": 0.12
+        },
+        {
+          "word": "gian",
+          "start": 0.76,
+          "end": 0.92,
+          "probability": 0.17
+        },
+        {
+          "word": "tương",
+          "start": 0.92,
+          "end": 1.06,
+          "probability": 0.59
+        },
+        {
+          "word": "đương",
+          "start": 1.06,
+          "end": 1.2,
+          "probability": 0.73
+        },
+        {
+          "word": "vều",
+          "start": 1.2,
+          "end": 1.34,
+          "probability": 0.18
+        },
+        {
+          "word": "gì",
+          "start": 1.34,
+          "end": 1.5,
+          "probability": 0.46
+        },
+        {
+          "word": "đó",
+          "start": 1.5,
+          "end": 1.78,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.78,
+      "end": 4.18,
+      "text": "tương đương vừa ích chưa ích tất cả bình phương",
+      "words": [
+        {
+          "word": "tương",
+          "start": 1.78,
+          "end": 2.0,
+          "probability": 0.67
+        },
+        {
+          "word": "đương",
+          "start": 2.0,
+          "end": 2.1,
+          "probability": 0.97
+        },
+        {
+          "word": "vừa",
+          "start": 2.1,
+          "end": 2.34,
+          "probability": 0.74
+        },
+        {
+          "word": "ích",
+          "start": 2.34,
+          "end": 2.66,
+          "probability": 0.1
+        },
+        {
+          "word": "chưa",
+          "start": 2.66,
+          "end": 3.0,
+          "probability": 0.29
+        },
+        {
+          "word": "ích",
+          "start": 3.0,
+          "end": 3.3,
+          "probability": 0.17
+        },
+        {
+          "word": "tất",
+          "start": 3.3,
+          "end": 3.5,
+          "probability": 0.59
+        },
+        {
+          "word": "cả",
+          "start": 3.5,
+          "end": 3.6,
+          "probability": 0.98
+        },
+        {
+          "word": "bình",
+          "start": 3.6,
+          "end": 3.78,
+          "probability": 0.6
+        },
+        {
+          "word": "phương",
+          "start": 3.78,
+          "end": 4.18,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.18,
+      "end": 4.82,
+      "text": "nhá",
+      "words": [
+        {
+          "word": "nhá",
+          "start": 4.18,
+          "end": 4.82,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.82,
+      "end": 6.0,
+      "text": "nha sẽ nhà bảo bố đi",
+      "words": [
+        {
+          "word": "nha",
+          "start": 4.82,
+          "end": 5.08,
+          "probability": 0.14
+        },
+        {
+          "word": "sẽ",
+          "start": 5.08,
+          "end": 5.14,
+          "probability": 0.01
+        },
+        {
+          "word": "nhà",
+          "start": 5.14,
+          "end": 5.28,
+          "probability": 0.51
+        },
+        {
+          "word": "bảo",
+          "start": 5.28,
+          "end": 5.42,
+          "probability": 0.46
+        },
+        {
+          "word": "bố",
+          "start": 5.42,
+          "end": 5.56,
+          "probability": 0.34
+        },
+        {
+          "word": "đi",
+          "start": 5.56,
+          "end": 6.0,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.78,
+      "end": 8.36,
+      "text": "ok, soạn ấy gian rồi",
+      "words": [
+        {
+          "word": "ok,",
+          "start": 6.78,
+          "end": 7.1,
+          "probability": 0.29
+        },
+        {
+          "word": "soạn",
+          "start": 7.24,
+          "end": 7.3,
+          "probability": 0.1
+        },
+        {
+          "word": "ấy",
+          "start": 7.3,
+          "end": 7.46,
+          "probability": 0.1
+        },
+        {
+          "word": "gian",
+          "start": 7.46,
+          "end": 7.6,
+          "probability": 0.42
+        },
+        {
+          "word": "rồi",
+          "start": 7.6,
+          "end": 8.36,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.36,
+      "end": 9.64,
+      "text": "soạn ấy gian rồi",
+      "words": [
+        {
+          "word": "soạn",
+          "start": 8.36,
+          "end": 8.66,
+          "probability": 0.5
+        },
+        {
+          "word": "ấy",
+          "start": 8.66,
+          "end": 8.78,
+          "probability": 0.88
+        },
+        {
+          "word": "gian",
+          "start": 8.78,
+          "end": 9.32,
+          "probability": 0.83
+        },
+        {
+          "word": "rồi",
+          "start": 9.32,
+          "end": 9.64,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 9.64,
+      "end": 10.64,
+      "text": "để gian bố đi, để gian bố không đi",
+      "words": [
+        {
+          "word": "để",
+          "start": 9.64,
+          "end": 9.98,
+          "probability": 0.04
+        },
+        {
+          "word": "gian",
+          "start": 9.98,
+          "end": 9.98,
+          "probability": 0.56
+        },
+        {
+          "word": "bố",
+          "start": 9.98,
+          "end": 10.06,
+          "probability": 0.87
+        },
+        {
+          "word": "đi,",
+          "start": 10.06,
+          "end": 10.12,
+          "probability": 0.57
+        },
+        {
+          "word": "để",
+          "start": 10.26,
+          "end": 10.26,
+          "probability": 0.34
+        },
+        {
+          "word": "gian",
+          "start": 10.26,
+          "end": 10.3,
+          "probability": 0.66
+        },
+        {
+          "word": "bố",
+          "start": 10.3,
+          "end": 10.3,
+          "probability": 0.94
+        },
+        {
+          "word": "không",
+          "start": 10.3,
+          "end": 10.5,
+          "probability": 0.48
+        },
+        {
+          "word": "đi",
+          "start": 10.5,
+          "end": 10.64,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 12.06,
+      "end": 12.38,
+      "text": "gian",
+      "words": [
+        {
+          "word": "gian",
+          "start": 12.06,
+          "end": 12.38,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 12.38,
+      "end": 14.52,
+      "text": "biết là mất không, soạn bố đi, để gian bố không",
+      "words": [
+        {
+          "word": "biết",
+          "start": 12.38,
+          "end": 12.48,
+          "probability": 0.0
+        },
+        {
+          "word": "là",
+          "start": 12.48,
+          "end": 12.62,
+          "probability": 0.1
+        },
+        {
+          "word": "mất",
+          "start": 12.62,
+          "end": 12.62,
+          "probability": 0.07
+        },
+        {
+          "word": "không,",
+          "start": 12.62,
+          "end": 12.86,
+          "probability": 0.95
+        },
+        {
+          "word": "soạn",
+          "start": 13.06,
+          "end": 13.28,
+          "probability": 0.41
+        },
+        {
+          "word": "bố",
+          "start": 13.28,
+          "end": 13.52,
+          "probability": 0.62
+        },
+        {
+          "word": "đi,",
+          "start": 13.52,
+          "end": 13.64,
+          "probability": 0.76
+        },
+        {
+          "word": "để",
+          "start": 13.76,
+          "end": 13.92,
+          "probability": 0.52
+        },
+        {
+          "word": "gian",
+          "start": 13.92,
+          "end": 14.08,
+          "probability": 0.82
+        },
+        {
+          "word": "bố",
+          "start": 14.08,
+          "end": 14.08,
+          "probability": 0.73
+        },
+        {
+          "word": "không",
+          "start": 14.08,
+          "end": 14.52,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 14.52,
+      "end": 15.66,
+      "text": "nè, là mất không",
+      "words": [
+        {
+          "word": "nè,",
+          "start": 14.52,
+          "end": 14.72,
+          "probability": 0.29
+        },
+        {
+          "word": "là",
+          "start": 14.96,
+          "end": 14.96,
+          "probability": 0.03
+        },
+        {
+          "word": "mất",
+          "start": 14.96,
+          "end": 15.1,
+          "probability": 0.65
+        },
+        {
+          "word": "không",
+          "start": 15.1,
+          "end": 15.66,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 15.66,
+      "end": 16.7,
+      "text": "vô bài không",
+      "words": [
+        {
+          "word": "vô",
+          "start": 15.66,
+          "end": 16.22,
+          "probability": 0.1
+        },
+        {
+          "word": "bài",
+          "start": 16.22,
+          "end": 16.34,
+          "probability": 0.38
+        },
+        {
+          "word": "không",
+          "start": 16.34,
+          "end": 16.7,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 16.7,
+      "end": 18.06,
+      "text": "thì gian thì mình khai cân nâng",
+      "words": [
+        {
+          "word": "thì",
+          "start": 16.7,
+          "end": 16.94,
+          "probability": 0.11
+        },
+        {
+          "word": "gian",
+          "start": 16.94,
+          "end": 17.06,
+          "probability": 0.92
+        },
+        {
+          "word": "thì",
+          "start": 17.06,
+          "end": 17.24,
+          "probability": 0.05
+        },
+        {
+          "word": "mình",
+          "start": 17.24,
+          "end": 17.5,
+          "probability": 0.56
+        },
+        {
+          "word": "khai",
+          "start": 17.5,
+          "end": 17.62,
+          "probability": 0.76
+        },
+        {
+          "word": "cân",
+          "start": 17.62,
+          "end": 17.76,
+          "probability": 0.18
+        },
+        {
+          "word": "nâng",
+          "start": 17.76,
+          "end": 18.06,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 18.06,
+      "end": 18.82,
+      "text": "khai cân ra thì",
+      "words": [
+        {
+          "word": "khai",
+          "start": 18.06,
+          "end": 18.2,
+          "probability": 0.67
+        },
+        {
+          "word": "cân",
+          "start": 18.2,
+          "end": 18.32,
+          "probability": 0.98
+        },
+        {
+          "word": "ra",
+          "start": 18.32,
+          "end": 18.48,
+          "probability": 0.79
+        },
+        {
+          "word": "thì",
+          "start": 18.48,
+          "end": 18.82,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 18.82,
+      "end": 19.42,
+      "text": "tí đe dân",
+      "words": [
+        {
+          "word": "tí",
+          "start": 18.82,
+          "end": 19.12,
+          "probability": 0.11
+        },
+        {
+          "word": "đe",
+          "start": 19.12,
+          "end": 19.32,
+          "probability": 0.2
+        },
+        {
+          "word": "dân",
+          "start": 19.32,
+          "end": 19.42,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 19.76,
+      "end": 21.22,
+      "text": "ở, túng đối ở đây là dân mà",
+      "words": [
+        {
+          "word": "ở,",
+          "start": 19.76,
+          "end": 20.08,
+          "probability": 0.03
+        },
+        {
+          "word": "túng",
+          "start": 20.36,
+          "end": 20.36,
+          "probability": 0.32
+        },
+        {
+          "word": "đối",
+          "start": 20.36,
+          "end": 20.48,
+          "probability": 0.22
+        },
+        {
+          "word": "ở",
+          "start": 20.48,
+          "end": 20.56,
+          "probability": 0.48
+        },
+        {
+          "word": "đây",
+          "start": 20.56,
+          "end": 20.7,
+          "probability": 0.24
+        },
+        {
+          "word": "là",
+          "start": 20.7,
+          "end": 20.78,
+          "probability": 0.25
+        },
+        {
+          "word": "dân",
+          "start": 20.78,
+          "end": 20.84,
+          "probability": 0.66
+        },
+        {
+          "word": "mà",
+          "start": 20.84,
+          "end": 21.22,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 21.22,
+      "end": 22.74,
+      "text": "tí gian thì gian thì gian bỏ í chưa ích",
+      "words": [
+        {
+          "word": "tí",
+          "start": 21.22,
+          "end": 21.36,
+          "probability": 0.4
+        },
+        {
+          "word": "gian",
+          "start": 21.36,
+          "end": 21.48,
+          "probability": 0.73
+        },
+        {
+          "word": "thì",
+          "start": 21.48,
+          "end": 21.62,
+          "probability": 0.76
+        },
+        {
+          "word": "gian",
+          "start": 21.62,
+          "end": 21.78,
+          "probability": 0.61
+        },
+        {
+          "word": "thì",
+          "start": 21.78,
+          "end": 21.78,
+          "probability": 0.63
+        },
+        {
+          "word": "gian",
+          "start": 21.78,
+          "end": 22.0,
+          "probability": 0.61
+        },
+        {
+          "word": "bỏ",
+          "start": 22.0,
+          "end": 22.0,
+          "probability": 0.23
+        },
+        {
+          "word": "í",
+          "start": 22.0,
+          "end": 22.3,
+          "probability": 0.21
+        },
+        {
+          "word": "chưa",
+          "start": 22.3,
+          "end": 22.48,
+          "probability": 0.61
+        },
+        {
+          "word": "ích",
+          "start": 22.48,
+          "end": 22.74,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 22.74,
+      "end": 23.56,
+      "text": "nha sẽ nhà mắng",
+      "words": [
+        {
+          "word": "nha",
+          "start": 22.74,
+          "end": 22.92,
+          "probability": 0.13
+        },
+        {
+          "word": "sẽ",
+          "start": 22.92,
+          "end": 22.96,
+          "probability": 0.98
+        },
+        {
+          "word": "nhà",
+          "start": 22.96,
+          "end": 23.1,
+          "probability": 0.48
+        },
+        {
+          "word": "mắng",
+          "start": 23.1,
+          "end": 23.56,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 23.56,
+      "end": 24.92,
+      "text": "căn của bố đi",
+      "words": [
+        {
+          "word": "căn",
+          "start": 23.56,
+          "end": 23.96,
+          "probability": 0.37
+        },
+        {
+          "word": "của",
+          "start": 23.96,
+          "end": 24.08,
+          "probability": 0.85
+        },
+        {
+          "word": "bố",
+          "start": 24.08,
+          "end": 24.3,
+          "probability": 0.61
+        },
+        {
+          "word": "đi",
+          "start": 24.3,
+          "end": 24.92,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 24.92,
+      "end": 26.08,
+      "text": "bỏ các bạn sẽ có được tí",
+      "words": [
+        {
+          "word": "bỏ",
+          "start": 24.92,
+          "end": 25.3,
+          "probability": 0.49
+        },
+        {
+          "word": "các",
+          "start": 25.3,
+          "end": 25.4,
+          "probability": 0.07
+        },
+        {
+          "word": "bạn",
+          "start": 25.4,
+          "end": 25.52,
+          "probability": 1.0
+        },
+        {
+          "word": "sẽ",
+          "start": 25.52,
+          "end": 25.62,
+          "probability": 0.94
+        },
+        {
+          "word": "có",
+          "start": 25.62,
+          "end": 25.72,
+          "probability": 0.87
+        },
+        {
+          "word": "được",
+          "start": 25.72,
+          "end": 25.86,
+          "probability": 0.18
+        },
+        {
+          "word": "tí",
+          "start": 25.86,
+          "end": 26.08,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 26.08,
+      "end": 27.06,
+      "text": "bố gian sẽ nhà mắng",
+      "words": [
+        {
+          "word": "bố",
+          "start": 26.08,
+          "end": 26.22,
+          "probability": 0.08
+        },
+        {
+          "word": "gian",
+          "start": 26.22,
+          "end": 26.4,
+          "probability": 0.1
+        },
+        {
+          "word": "sẽ",
+          "start": 26.4,
+          "end": 26.52,
+          "probability": 0.38
+        },
+        {
+          "word": "nhà",
+          "start": 26.52,
+          "end": 26.72,
+          "probability": 0.02
+        },
+        {
+          "word": "mắng",
+          "start": 26.72,
+          "end": 27.06,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 27.06,
+      "end": 28.4,
+      "text": "í, cộng với gian bố mùi đi",
+      "words": [
+        {
+          "word": "í,",
+          "start": 27.06,
+          "end": 27.24,
+          "probability": 0.14
+        },
+        {
+          "word": "cộng",
+          "start": 27.6,
+          "end": 27.8,
+          "probability": 0.39
+        },
+        {
+          "word": "với",
+          "start": 27.8,
+          "end": 27.88,
+          "probability": 0.23
+        },
+        {
+          "word": "gian",
+          "start": 27.88,
+          "end": 28.02,
+          "probability": 0.49
+        },
+        {
+          "word": "bố",
+          "start": 28.02,
+          "end": 28.16,
+          "probability": 0.09
+        },
+        {
+          "word": "mùi",
+          "start": 28.16,
+          "end": 28.28,
+          "probability": 0.41
+        },
+        {
+          "word": "đi",
+          "start": 28.28,
+          "end": 28.4,
+          "probability": 0.12
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7673033680499002631_02",
+  "duration_seconds": 28.9,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Thì dụng",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.03,
+      "end": 2.63,
+      "text": "Thì dụng",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 2.03,
+          "end": 2.63,
+          "probability": 0.11
+        },
+        {
+          "word": "dụng",
+          "start": 2.63,
+          "end": 2.63,
+          "probability": 0.26
+        }
+      ]
+    }
+  ]
+}

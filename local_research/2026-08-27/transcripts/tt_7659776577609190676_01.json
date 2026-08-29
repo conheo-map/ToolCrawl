@@ -1,0 +1,66 @@
+{
+  "item_id": "tt_7659776577609190676_01",
+  "duration_seconds": 29.75,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 8,
+  "text": "Bảo mây, bộ cứ trình như vậy không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.72,
+      "text": "Bảo mây, bộ cứ trình như vậy không?",
+      "words": [
+        {
+          "word": "Bảo",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.35
+        },
+        {
+          "word": "mây,",
+          "start": 0.22,
+          "end": 0.88,
+          "probability": 0.28
+        },
+        {
+          "word": "bộ",
+          "start": 1.48,
+          "end": 1.56,
+          "probability": 0.53
+        },
+        {
+          "word": "cứ",
+          "start": 1.56,
+          "end": 1.8,
+          "probability": 0.18
+        },
+        {
+          "word": "trình",
+          "start": 1.8,
+          "end": 1.96,
+          "probability": 0.19
+        },
+        {
+          "word": "như",
+          "start": 1.96,
+          "end": 2.14,
+          "probability": 0.61
+        },
+        {
+          "word": "vậy",
+          "start": 2.14,
+          "end": 2.38,
+          "probability": 0.3
+        },
+        {
+          "word": "không?",
+          "start": 2.38,
+          "end": 2.72,
+          "probability": 0.39
+        }
+      ]
+    }
+  ]
+}

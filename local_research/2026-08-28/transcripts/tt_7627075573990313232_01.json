@@ -1,0 +1,202 @@
+{
+  "item_id": "tt_7627075573990313232_01",
+  "duration_seconds": 21.68,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 24,
+  "text": "Bình thương đúng rồi A xong lúc anh ta Bình thương đúng không giữ anh Bình thương đúng Bình thương đúng Bình thương đúng",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.94,
+      "text": "Bình thương đúng rồi",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 0.0,
+          "end": 0.62,
+          "probability": 0.02
+        },
+        {
+          "word": "thương",
+          "start": 0.62,
+          "end": 0.62,
+          "probability": 0.05
+        },
+        {
+          "word": "đúng",
+          "start": 0.62,
+          "end": 0.62,
+          "probability": 0.07
+        },
+        {
+          "word": "rồi",
+          "start": 0.62,
+          "end": 0.94,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.6,
+      "end": 3.24,
+      "text": "A xong lúc anh ta",
+      "words": [
+        {
+          "word": "A",
+          "start": 1.6,
+          "end": 2.16,
+          "probability": 0.0
+        },
+        {
+          "word": "xong",
+          "start": 2.16,
+          "end": 2.5,
+          "probability": 0.15
+        },
+        {
+          "word": "lúc",
+          "start": 2.5,
+          "end": 2.76,
+          "probability": 0.13
+        },
+        {
+          "word": "anh",
+          "start": 2.76,
+          "end": 3.04,
+          "probability": 0.08
+        },
+        {
+          "word": "ta",
+          "start": 3.04,
+          "end": 3.24,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.24,
+      "end": 4.96,
+      "text": "Bình thương đúng không giữ anh",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 3.24,
+          "end": 4.04,
+          "probability": 0.14
+        },
+        {
+          "word": "thương",
+          "start": 4.04,
+          "end": 4.24,
+          "probability": 0.86
+        },
+        {
+          "word": "đúng",
+          "start": 4.24,
+          "end": 4.24,
+          "probability": 0.7
+        },
+        {
+          "word": "không",
+          "start": 4.24,
+          "end": 4.48,
+          "probability": 0.19
+        },
+        {
+          "word": "giữ",
+          "start": 4.48,
+          "end": 4.66,
+          "probability": 0.16
+        },
+        {
+          "word": "anh",
+          "start": 4.66,
+          "end": 4.96,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.96,
+      "end": 5.74,
+      "text": "Bình thương đúng",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 4.96,
+          "end": 5.56,
+          "probability": 0.35
+        },
+        {
+          "word": "thương",
+          "start": 5.56,
+          "end": 5.74,
+          "probability": 0.93
+        },
+        {
+          "word": "đúng",
+          "start": 5.74,
+          "end": 5.74,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.46,
+      "end": 7.64,
+      "text": "Bình thương đúng",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 6.46,
+          "end": 7.02,
+          "probability": 0.34
+        },
+        {
+          "word": "thương",
+          "start": 7.02,
+          "end": 7.18,
+          "probability": 0.96
+        },
+        {
+          "word": "đúng",
+          "start": 7.18,
+          "end": 7.64,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 7.64,
+      "end": 7.98,
+      "text": "Bình thương đúng",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 7.64,
+          "end": 7.64,
+          "probability": 0.35
+        },
+        {
+          "word": "thương",
+          "start": 7.64,
+          "end": 7.84,
+          "probability": 0.96
+        },
+        {
+          "word": "đúng",
+          "start": 7.84,
+          "end": 7.98,
+          "probability": 0.92
+        }
+      ]
+    }
+  ]
+}

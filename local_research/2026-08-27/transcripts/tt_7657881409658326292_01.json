@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7657881409658326292_01",
+  "duration_seconds": 28.63,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "bấc, bấc, bấc, bấc, bấc bấc",
+  "segments": [
+    {
+      "id": 1,
+      "start": 10.54,
+      "end": 11.44,
+      "text": "bấc, bấc, bấc, bấc, bấc bấc",
+      "words": [
+        {
+          "word": "bấc,",
+          "start": 10.54,
+          "end": 10.9,
+          "probability": 0.11
+        },
+        {
+          "word": "bấc,",
+          "start": 10.9,
+          "end": 11.1,
+          "probability": 0.83
+        },
+        {
+          "word": "bấc,",
+          "start": 11.24,
+          "end": 11.44,
+          "probability": 0.97
+        },
+        {
+          "word": "bấc,",
+          "start": 11.44,
+          "end": 11.44,
+          "probability": 0.97
+        },
+        {
+          "word": "bấc",
+          "start": 11.44,
+          "end": 11.44,
+          "probability": 0.97
+        },
+        {
+          "word": "bấc",
+          "start": 11.44,
+          "end": 11.44,
+          "probability": 0.66
+        }
+      ]
+    }
+  ]
+}

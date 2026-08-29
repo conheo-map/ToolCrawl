@@ -1,0 +1,910 @@
+{
+  "item_id": "tt_7639564682843442452_74",
+  "duration_seconds": 29.67,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 133,
+  "text": "S-dake có công thức như thế này, nhưng ta có bên dầu rồi cho cho thấy bên dầu, bên d jênh, bên d jênh, có bên dân, có bên dân, có xúc 3 bà Bà ăn ta thì ở đây, anh này phải đánh nhàng em chú ý cho thấy anh này em thấy biết nó lại cho thấy nhé cho đây ở là xe hấp 3 này sau đó ở đây là xe ủ ủ xe hấp 2 ở đây xe hấp 2, ở đây ở đây ở đây ở xe hấp 3 này xe hấp 3 và xe hấp 3 nhá thì cả cái phần góc này chúng ta lại bà này của em là góc ủ em là cả cái này ở đây thì lỗi chức là cái anh nào",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.16,
+      "text": "S-dake có công thức như thế này, nhưng ta có bên dầu rồi",
+      "words": [
+        {
+          "word": "S",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.6
+        },
+        {
+          "word": "-dake",
+          "start": 0.42,
+          "end": 0.6,
+          "probability": 0.11
+        },
+        {
+          "word": "có",
+          "start": 0.6,
+          "end": 0.8,
+          "probability": 0.27
+        },
+        {
+          "word": "công",
+          "start": 0.8,
+          "end": 0.92,
+          "probability": 0.51
+        },
+        {
+          "word": "thức",
+          "start": 0.92,
+          "end": 0.94,
+          "probability": 0.34
+        },
+        {
+          "word": "như",
+          "start": 0.94,
+          "end": 1.16,
+          "probability": 0.93
+        },
+        {
+          "word": "thế",
+          "start": 1.16,
+          "end": 1.3,
+          "probability": 0.87
+        },
+        {
+          "word": "này,",
+          "start": 1.3,
+          "end": 1.34,
+          "probability": 0.88
+        },
+        {
+          "word": "nhưng",
+          "start": 1.52,
+          "end": 1.7,
+          "probability": 0.1
+        },
+        {
+          "word": "ta",
+          "start": 1.7,
+          "end": 1.84,
+          "probability": 0.13
+        },
+        {
+          "word": "có",
+          "start": 1.84,
+          "end": 2.3,
+          "probability": 0.11
+        },
+        {
+          "word": "bên",
+          "start": 2.3,
+          "end": 2.6,
+          "probability": 0.56
+        },
+        {
+          "word": "dầu",
+          "start": 2.6,
+          "end": 2.88,
+          "probability": 0.45
+        },
+        {
+          "word": "rồi",
+          "start": 2.88,
+          "end": 3.16,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.16,
+      "end": 7.4,
+      "text": "cho cho thấy bên dầu, bên d jênh, bên d jênh, có bên dân, có bên dân, có xúc 3 bà",
+      "words": [
+        {
+          "word": "cho",
+          "start": 3.16,
+          "end": 3.86,
+          "probability": 0.07
+        },
+        {
+          "word": "cho",
+          "start": 3.86,
+          "end": 4.02,
+          "probability": 0.06
+        },
+        {
+          "word": "thấy",
+          "start": 4.02,
+          "end": 4.22,
+          "probability": 0.18
+        },
+        {
+          "word": "bên",
+          "start": 4.22,
+          "end": 4.38,
+          "probability": 0.96
+        },
+        {
+          "word": "dầu,",
+          "start": 4.38,
+          "end": 4.48,
+          "probability": 0.77
+        },
+        {
+          "word": "bên",
+          "start": 4.66,
+          "end": 4.76,
+          "probability": 0.31
+        },
+        {
+          "word": "d",
+          "start": 4.76,
+          "end": 5.0,
+          "probability": 0.63
+        },
+        {
+          "word": "jênh,",
+          "start": 5.0,
+          "end": 5.24,
+          "probability": 0.4
+        },
+        {
+          "word": "bên",
+          "start": 5.28,
+          "end": 5.46,
+          "probability": 0.98
+        },
+        {
+          "word": "d",
+          "start": 5.46,
+          "end": 5.7,
+          "probability": 0.97
+        },
+        {
+          "word": "jênh,",
+          "start": 5.7,
+          "end": 5.72,
+          "probability": 0.67
+        },
+        {
+          "word": "có",
+          "start": 5.92,
+          "end": 5.94,
+          "probability": 0.12
+        },
+        {
+          "word": "bên",
+          "start": 5.94,
+          "end": 6.24,
+          "probability": 0.13
+        },
+        {
+          "word": "dân,",
+          "start": 6.24,
+          "end": 6.34,
+          "probability": 0.44
+        },
+        {
+          "word": "có",
+          "start": 6.34,
+          "end": 6.5,
+          "probability": 0.55
+        },
+        {
+          "word": "bên",
+          "start": 6.5,
+          "end": 6.56,
+          "probability": 0.04
+        },
+        {
+          "word": "dân,",
+          "start": 6.56,
+          "end": 6.56,
+          "probability": 0.79
+        },
+        {
+          "word": "có",
+          "start": 6.56,
+          "end": 6.56,
+          "probability": 0.67
+        },
+        {
+          "word": "xúc",
+          "start": 6.56,
+          "end": 6.62,
+          "probability": 0.2
+        },
+        {
+          "word": "3",
+          "start": 6.62,
+          "end": 6.74,
+          "probability": 0.06
+        },
+        {
+          "word": "bà",
+          "start": 6.74,
+          "end": 7.4,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.4,
+      "end": 10.18,
+      "text": "Bà ăn ta thì ở đây, anh này phải đánh nhàng",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 7.4,
+          "end": 7.74,
+          "probability": 0.11
+        },
+        {
+          "word": "ăn",
+          "start": 7.74,
+          "end": 7.94,
+          "probability": 0.08
+        },
+        {
+          "word": "ta",
+          "start": 7.94,
+          "end": 8.14,
+          "probability": 0.33
+        },
+        {
+          "word": "thì",
+          "start": 8.14,
+          "end": 8.3,
+          "probability": 0.4
+        },
+        {
+          "word": "ở",
+          "start": 8.3,
+          "end": 8.38,
+          "probability": 0.42
+        },
+        {
+          "word": "đây,",
+          "start": 8.38,
+          "end": 8.7,
+          "probability": 0.98
+        },
+        {
+          "word": "anh",
+          "start": 8.82,
+          "end": 9.26,
+          "probability": 0.29
+        },
+        {
+          "word": "này",
+          "start": 9.26,
+          "end": 9.44,
+          "probability": 0.97
+        },
+        {
+          "word": "phải",
+          "start": 9.44,
+          "end": 9.58,
+          "probability": 0.24
+        },
+        {
+          "word": "đánh",
+          "start": 9.58,
+          "end": 9.8,
+          "probability": 0.26
+        },
+        {
+          "word": "nhàng",
+          "start": 9.8,
+          "end": 10.18,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.18,
+      "end": 12.72,
+      "text": "em chú ý cho thấy anh này em thấy biết nó lại cho thấy nhé",
+      "words": [
+        {
+          "word": "em",
+          "start": 10.18,
+          "end": 10.46,
+          "probability": 0.01
+        },
+        {
+          "word": "chú",
+          "start": 10.46,
+          "end": 10.64,
+          "probability": 0.2
+        },
+        {
+          "word": "ý",
+          "start": 10.64,
+          "end": 10.7,
+          "probability": 0.44
+        },
+        {
+          "word": "cho",
+          "start": 10.7,
+          "end": 10.84,
+          "probability": 0.24
+        },
+        {
+          "word": "thấy",
+          "start": 10.84,
+          "end": 11.04,
+          "probability": 0.93
+        },
+        {
+          "word": "anh",
+          "start": 11.04,
+          "end": 11.28,
+          "probability": 0.39
+        },
+        {
+          "word": "này",
+          "start": 11.28,
+          "end": 11.44,
+          "probability": 0.93
+        },
+        {
+          "word": "em",
+          "start": 11.44,
+          "end": 11.58,
+          "probability": 0.99
+        },
+        {
+          "word": "thấy",
+          "start": 11.58,
+          "end": 11.72,
+          "probability": 0.11
+        },
+        {
+          "word": "biết",
+          "start": 11.72,
+          "end": 11.92,
+          "probability": 0.4
+        },
+        {
+          "word": "nó",
+          "start": 11.92,
+          "end": 12.06,
+          "probability": 0.68
+        },
+        {
+          "word": "lại",
+          "start": 12.06,
+          "end": 12.18,
+          "probability": 0.64
+        },
+        {
+          "word": "cho",
+          "start": 12.18,
+          "end": 12.3,
+          "probability": 0.68
+        },
+        {
+          "word": "thấy",
+          "start": 12.3,
+          "end": 12.5,
+          "probability": 0.96
+        },
+        {
+          "word": "nhé",
+          "start": 12.5,
+          "end": 12.72,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.72,
+      "end": 14.54,
+      "text": "cho đây ở là xe hấp 3 này",
+      "words": [
+        {
+          "word": "cho",
+          "start": 12.72,
+          "end": 12.82,
+          "probability": 0.04
+        },
+        {
+          "word": "đây",
+          "start": 12.82,
+          "end": 12.94,
+          "probability": 0.4
+        },
+        {
+          "word": "ở",
+          "start": 12.94,
+          "end": 13.06,
+          "probability": 0.4
+        },
+        {
+          "word": "là",
+          "start": 13.06,
+          "end": 13.24,
+          "probability": 0.28
+        },
+        {
+          "word": "xe",
+          "start": 13.24,
+          "end": 13.44,
+          "probability": 0.34
+        },
+        {
+          "word": "hấp",
+          "start": 13.44,
+          "end": 13.7,
+          "probability": 0.37
+        },
+        {
+          "word": "3",
+          "start": 13.7,
+          "end": 13.96,
+          "probability": 0.35
+        },
+        {
+          "word": "này",
+          "start": 13.96,
+          "end": 14.54,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.54,
+      "end": 16.7,
+      "text": "sau đó ở đây là xe ủ ủ",
+      "words": [
+        {
+          "word": "sau",
+          "start": 14.54,
+          "end": 14.7,
+          "probability": 0.16
+        },
+        {
+          "word": "đó",
+          "start": 14.7,
+          "end": 14.84,
+          "probability": 0.94
+        },
+        {
+          "word": "ở",
+          "start": 14.84,
+          "end": 14.94,
+          "probability": 0.19
+        },
+        {
+          "word": "đây",
+          "start": 14.94,
+          "end": 14.98,
+          "probability": 0.74
+        },
+        {
+          "word": "là",
+          "start": 14.98,
+          "end": 15.16,
+          "probability": 0.94
+        },
+        {
+          "word": "xe",
+          "start": 15.16,
+          "end": 15.66,
+          "probability": 0.65
+        },
+        {
+          "word": "ủ",
+          "start": 15.66,
+          "end": 16.12,
+          "probability": 0.14
+        },
+        {
+          "word": "ủ",
+          "start": 16.12,
+          "end": 16.7,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 16.7,
+      "end": 17.52,
+      "text": "xe hấp 2",
+      "words": [
+        {
+          "word": "xe",
+          "start": 16.7,
+          "end": 16.96,
+          "probability": 0.62
+        },
+        {
+          "word": "hấp",
+          "start": 16.96,
+          "end": 17.12,
+          "probability": 0.44
+        },
+        {
+          "word": "2",
+          "start": 17.12,
+          "end": 17.52,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 17.52,
+      "end": 20.84,
+      "text": "ở đây xe hấp 2, ở đây ở đây ở đây ở xe hấp 3 này",
+      "words": [
+        {
+          "word": "ở",
+          "start": 17.52,
+          "end": 17.9,
+          "probability": 0.08
+        },
+        {
+          "word": "đây",
+          "start": 17.9,
+          "end": 18.06,
+          "probability": 0.34
+        },
+        {
+          "word": "xe",
+          "start": 18.06,
+          "end": 18.1,
+          "probability": 0.52
+        },
+        {
+          "word": "hấp",
+          "start": 18.1,
+          "end": 18.22,
+          "probability": 0.9
+        },
+        {
+          "word": "2,",
+          "start": 18.22,
+          "end": 18.38,
+          "probability": 0.82
+        },
+        {
+          "word": "ở",
+          "start": 18.42,
+          "end": 18.6,
+          "probability": 0.15
+        },
+        {
+          "word": "đây",
+          "start": 18.6,
+          "end": 18.6,
+          "probability": 0.85
+        },
+        {
+          "word": "ở",
+          "start": 18.6,
+          "end": 18.78,
+          "probability": 0.14
+        },
+        {
+          "word": "đây",
+          "start": 18.78,
+          "end": 18.98,
+          "probability": 0.33
+        },
+        {
+          "word": "ở",
+          "start": 18.98,
+          "end": 19.12,
+          "probability": 0.84
+        },
+        {
+          "word": "đây",
+          "start": 19.12,
+          "end": 19.12,
+          "probability": 0.39
+        },
+        {
+          "word": "ở",
+          "start": 19.12,
+          "end": 19.4,
+          "probability": 0.86
+        },
+        {
+          "word": "xe",
+          "start": 19.4,
+          "end": 19.48,
+          "probability": 0.58
+        },
+        {
+          "word": "hấp",
+          "start": 19.48,
+          "end": 20.14,
+          "probability": 0.93
+        },
+        {
+          "word": "3",
+          "start": 20.14,
+          "end": 20.34,
+          "probability": 0.89
+        },
+        {
+          "word": "này",
+          "start": 20.34,
+          "end": 20.84,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 20.84,
+      "end": 22.42,
+      "text": "xe hấp 3",
+      "words": [
+        {
+          "word": "xe",
+          "start": 20.84,
+          "end": 21.36,
+          "probability": 0.66
+        },
+        {
+          "word": "hấp",
+          "start": 21.36,
+          "end": 21.6,
+          "probability": 0.95
+        },
+        {
+          "word": "3",
+          "start": 21.6,
+          "end": 22.42,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 22.42,
+      "end": 23.74,
+      "text": "và xe hấp 3",
+      "words": [
+        {
+          "word": "và",
+          "start": 22.42,
+          "end": 22.64,
+          "probability": 0.08
+        },
+        {
+          "word": "xe",
+          "start": 22.64,
+          "end": 23.04,
+          "probability": 0.95
+        },
+        {
+          "word": "hấp",
+          "start": 23.04,
+          "end": 23.26,
+          "probability": 0.97
+        },
+        {
+          "word": "3",
+          "start": 23.26,
+          "end": 23.74,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 23.74,
+      "end": 27.76,
+      "text": "nhá thì cả cái phần góc này chúng ta lại bà này của em là góc ủ em là cả cái này",
+      "words": [
+        {
+          "word": "nhá",
+          "start": 23.74,
+          "end": 24.04,
+          "probability": 0.39
+        },
+        {
+          "word": "thì",
+          "start": 24.04,
+          "end": 24.16,
+          "probability": 0.72
+        },
+        {
+          "word": "cả",
+          "start": 24.16,
+          "end": 24.32,
+          "probability": 0.41
+        },
+        {
+          "word": "cái",
+          "start": 24.32,
+          "end": 24.46,
+          "probability": 0.7
+        },
+        {
+          "word": "phần",
+          "start": 24.46,
+          "end": 24.66,
+          "probability": 0.59
+        },
+        {
+          "word": "góc",
+          "start": 24.66,
+          "end": 24.88,
+          "probability": 0.47
+        },
+        {
+          "word": "này",
+          "start": 24.88,
+          "end": 25.02,
+          "probability": 0.94
+        },
+        {
+          "word": "chúng",
+          "start": 25.02,
+          "end": 25.24,
+          "probability": 0.57
+        },
+        {
+          "word": "ta",
+          "start": 25.24,
+          "end": 25.32,
+          "probability": 0.99
+        },
+        {
+          "word": "lại",
+          "start": 25.32,
+          "end": 25.54,
+          "probability": 0.5
+        },
+        {
+          "word": "bà",
+          "start": 25.54,
+          "end": 25.66,
+          "probability": 0.11
+        },
+        {
+          "word": "này",
+          "start": 25.66,
+          "end": 25.82,
+          "probability": 0.8
+        },
+        {
+          "word": "của",
+          "start": 25.82,
+          "end": 25.9,
+          "probability": 0.19
+        },
+        {
+          "word": "em",
+          "start": 25.9,
+          "end": 26.06,
+          "probability": 0.95
+        },
+        {
+          "word": "là",
+          "start": 26.06,
+          "end": 26.34,
+          "probability": 0.17
+        },
+        {
+          "word": "góc",
+          "start": 26.34,
+          "end": 26.44,
+          "probability": 0.62
+        },
+        {
+          "word": "ủ",
+          "start": 26.44,
+          "end": 26.84,
+          "probability": 0.34
+        },
+        {
+          "word": "em",
+          "start": 26.84,
+          "end": 27.0,
+          "probability": 0.8
+        },
+        {
+          "word": "là",
+          "start": 27.0,
+          "end": 27.16,
+          "probability": 0.59
+        },
+        {
+          "word": "cả",
+          "start": 27.16,
+          "end": 27.28,
+          "probability": 0.92
+        },
+        {
+          "word": "cái",
+          "start": 27.28,
+          "end": 27.48,
+          "probability": 0.34
+        },
+        {
+          "word": "này",
+          "start": 27.48,
+          "end": 27.76,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 27.76,
+      "end": 29.38,
+      "text": "ở đây thì lỗi chức là cái anh nào",
+      "words": [
+        {
+          "word": "ở",
+          "start": 27.76,
+          "end": 27.94,
+          "probability": 0.01
+        },
+        {
+          "word": "đây",
+          "start": 27.94,
+          "end": 28.06,
+          "probability": 0.6
+        },
+        {
+          "word": "thì",
+          "start": 28.06,
+          "end": 28.22,
+          "probability": 0.24
+        },
+        {
+          "word": "lỗi",
+          "start": 28.22,
+          "end": 28.4,
+          "probability": 0.4
+        },
+        {
+          "word": "chức",
+          "start": 28.4,
+          "end": 28.56,
+          "probability": 0.2
+        },
+        {
+          "word": "là",
+          "start": 28.56,
+          "end": 28.7,
+          "probability": 0.33
+        },
+        {
+          "word": "cái",
+          "start": 28.7,
+          "end": 28.82,
+          "probability": 0.71
+        },
+        {
+          "word": "anh",
+          "start": 28.82,
+          "end": 29.08,
+          "probability": 0.33
+        },
+        {
+          "word": "nào",
+          "start": 29.08,
+          "end": 29.38,
+          "probability": 0.25
+        }
+      ]
+    }
+  ]
+}

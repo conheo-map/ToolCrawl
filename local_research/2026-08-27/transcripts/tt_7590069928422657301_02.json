@@ -1,0 +1,50 @@
+{
+  "item_id": "tt_7590069928422657301_02",
+  "duration_seconds": 24.37,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Thì lắm. Thì lắm.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.2,
+      "end": 3.24,
+      "text": "Thì lắm.",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 2.2,
+          "end": 2.84,
+          "probability": 0.13
+        },
+        {
+          "word": "lắm.",
+          "start": 2.84,
+          "end": 3.24,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.95,
+      "end": 6.19,
+      "text": "Thì lắm.",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 5.95,
+          "end": 6.19,
+          "probability": 0.53
+        },
+        {
+          "word": "lắm.",
+          "start": 6.19,
+          "end": 6.19,
+          "probability": 0.87
+        }
+      ]
+    }
+  ]
+}

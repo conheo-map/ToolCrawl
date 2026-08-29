@@ -1,0 +1,686 @@
+{
+  "item_id": "tt_7654224995618458901_01",
+  "duration_seconds": 28.69,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 106,
+  "text": "Một lửa xin 12 tuổi đã bị xác hại tại đặc loc vào ngày 20 hà 6. Lịch quan đến buộc Việt này, ngày 20 hà 5, cửa quan cả sách đủ trà con 1 tấn đặc loc cho biết được vị đã tạm giữ hình sửa phàn bán ngọt, hai mấy tuổi, ở sạp phong đường đang đặc loc để điều trà về hành vi xác hại nữ xin 12 tuổi thì thể được phát hiện cho giữ. Tại tự qua con ăn bước nổ, phạm ngọt, khai giận, đã hỏi nạn như có thể khai không khi nạn nhân trở người không có hó.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.42,
+      "text": "Một lửa xin 12 tuổi đã bị xác hại tại đặc loc vào ngày 20 hà 6.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 0.0,
+          "end": 0.64,
+          "probability": 0.47
+        },
+        {
+          "word": "lửa",
+          "start": 0.64,
+          "end": 1.0,
+          "probability": 0.58
+        },
+        {
+          "word": "xin",
+          "start": 1.0,
+          "end": 1.16,
+          "probability": 0.65
+        },
+        {
+          "word": "12",
+          "start": 1.16,
+          "end": 1.48,
+          "probability": 0.2
+        },
+        {
+          "word": "tuổi",
+          "start": 1.48,
+          "end": 1.78,
+          "probability": 0.72
+        },
+        {
+          "word": "đã",
+          "start": 1.78,
+          "end": 1.96,
+          "probability": 0.39
+        },
+        {
+          "word": "bị",
+          "start": 1.96,
+          "end": 2.12,
+          "probability": 0.98
+        },
+        {
+          "word": "xác",
+          "start": 2.12,
+          "end": 2.32,
+          "probability": 0.62
+        },
+        {
+          "word": "hại",
+          "start": 2.32,
+          "end": 2.6,
+          "probability": 0.53
+        },
+        {
+          "word": "tại",
+          "start": 2.6,
+          "end": 2.82,
+          "probability": 0.94
+        },
+        {
+          "word": "đặc",
+          "start": 2.82,
+          "end": 3.1,
+          "probability": 0.58
+        },
+        {
+          "word": "loc",
+          "start": 3.1,
+          "end": 3.3,
+          "probability": 0.29
+        },
+        {
+          "word": "vào",
+          "start": 3.3,
+          "end": 3.58,
+          "probability": 0.39
+        },
+        {
+          "word": "ngày",
+          "start": 3.58,
+          "end": 3.76,
+          "probability": 0.7
+        },
+        {
+          "word": "20",
+          "start": 3.76,
+          "end": 4.0,
+          "probability": 0.18
+        },
+        {
+          "word": "hà",
+          "start": 4.0,
+          "end": 4.36,
+          "probability": 0.05
+        },
+        {
+          "word": "6.",
+          "start": 4.36,
+          "end": 4.42,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.78,
+      "end": 11.32,
+      "text": "Lịch quan đến buộc Việt này, ngày 20 hà 5, cửa quan cả sách đủ trà con 1 tấn đặc loc cho biết",
+      "words": [
+        {
+          "word": "Lịch",
+          "start": 5.78,
+          "end": 6.22,
+          "probability": 0.24
+        },
+        {
+          "word": "quan",
+          "start": 6.22,
+          "end": 6.48,
+          "probability": 0.51
+        },
+        {
+          "word": "đến",
+          "start": 6.48,
+          "end": 6.72,
+          "probability": 0.92
+        },
+        {
+          "word": "buộc",
+          "start": 6.72,
+          "end": 6.94,
+          "probability": 0.5
+        },
+        {
+          "word": "Việt",
+          "start": 6.94,
+          "end": 7.12,
+          "probability": 0.27
+        },
+        {
+          "word": "này,",
+          "start": 7.12,
+          "end": 7.4,
+          "probability": 0.74
+        },
+        {
+          "word": "ngày",
+          "start": 7.62,
+          "end": 7.78,
+          "probability": 0.41
+        },
+        {
+          "word": "20",
+          "start": 7.78,
+          "end": 8.06,
+          "probability": 0.13
+        },
+        {
+          "word": "hà",
+          "start": 8.06,
+          "end": 8.12,
+          "probability": 0.93
+        },
+        {
+          "word": "5,",
+          "start": 8.12,
+          "end": 8.5,
+          "probability": 0.21
+        },
+        {
+          "word": "cửa",
+          "start": 8.82,
+          "end": 9.0,
+          "probability": 0.59
+        },
+        {
+          "word": "quan",
+          "start": 9.0,
+          "end": 9.22,
+          "probability": 0.23
+        },
+        {
+          "word": "cả",
+          "start": 9.22,
+          "end": 9.38,
+          "probability": 0.23
+        },
+        {
+          "word": "sách",
+          "start": 9.38,
+          "end": 9.54,
+          "probability": 0.4
+        },
+        {
+          "word": "đủ",
+          "start": 9.54,
+          "end": 9.74,
+          "probability": 0.41
+        },
+        {
+          "word": "trà",
+          "start": 9.74,
+          "end": 9.96,
+          "probability": 0.62
+        },
+        {
+          "word": "con",
+          "start": 9.96,
+          "end": 10.12,
+          "probability": 0.33
+        },
+        {
+          "word": "1",
+          "start": 10.12,
+          "end": 10.3,
+          "probability": 0.05
+        },
+        {
+          "word": "tấn",
+          "start": 10.3,
+          "end": 10.48,
+          "probability": 0.31
+        },
+        {
+          "word": "đặc",
+          "start": 10.48,
+          "end": 10.62,
+          "probability": 0.54
+        },
+        {
+          "word": "loc",
+          "start": 10.62,
+          "end": 10.74,
+          "probability": 0.53
+        },
+        {
+          "word": "cho",
+          "start": 10.74,
+          "end": 10.92,
+          "probability": 0.48
+        },
+        {
+          "word": "biết",
+          "start": 10.92,
+          "end": 11.32,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.32,
+      "end": 16.96,
+      "text": "được vị đã tạm giữ hình sửa phàn bán ngọt, hai mấy tuổi, ở sạp phong đường đang đặc loc",
+      "words": [
+        {
+          "word": "được",
+          "start": 11.32,
+          "end": 11.64,
+          "probability": 0.31
+        },
+        {
+          "word": "vị",
+          "start": 11.64,
+          "end": 11.92,
+          "probability": 0.15
+        },
+        {
+          "word": "đã",
+          "start": 11.92,
+          "end": 12.1,
+          "probability": 0.93
+        },
+        {
+          "word": "tạm",
+          "start": 12.1,
+          "end": 12.32,
+          "probability": 0.69
+        },
+        {
+          "word": "giữ",
+          "start": 12.32,
+          "end": 12.46,
+          "probability": 0.52
+        },
+        {
+          "word": "hình",
+          "start": 12.46,
+          "end": 12.68,
+          "probability": 0.89
+        },
+        {
+          "word": "sửa",
+          "start": 12.68,
+          "end": 13.02,
+          "probability": 0.57
+        },
+        {
+          "word": "phàn",
+          "start": 13.02,
+          "end": 13.38,
+          "probability": 0.44
+        },
+        {
+          "word": "bán",
+          "start": 13.38,
+          "end": 13.6,
+          "probability": 0.74
+        },
+        {
+          "word": "ngọt,",
+          "start": 13.6,
+          "end": 13.98,
+          "probability": 0.66
+        },
+        {
+          "word": "hai",
+          "start": 14.26,
+          "end": 14.26,
+          "probability": 0.34
+        },
+        {
+          "word": "mấy",
+          "start": 14.26,
+          "end": 14.38,
+          "probability": 0.19
+        },
+        {
+          "word": "tuổi,",
+          "start": 14.38,
+          "end": 14.88,
+          "probability": 0.76
+        },
+        {
+          "word": "ở",
+          "start": 15.26,
+          "end": 15.26,
+          "probability": 0.55
+        },
+        {
+          "word": "sạp",
+          "start": 15.26,
+          "end": 15.44,
+          "probability": 0.48
+        },
+        {
+          "word": "phong",
+          "start": 15.44,
+          "end": 15.7,
+          "probability": 0.32
+        },
+        {
+          "word": "đường",
+          "start": 15.7,
+          "end": 15.9,
+          "probability": 0.4
+        },
+        {
+          "word": "đang",
+          "start": 15.9,
+          "end": 16.3,
+          "probability": 0.28
+        },
+        {
+          "word": "đặc",
+          "start": 16.3,
+          "end": 16.5,
+          "probability": 0.86
+        },
+        {
+          "word": "loc",
+          "start": 16.5,
+          "end": 16.96,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 16.96,
+      "end": 21.74,
+      "text": "để điều trà về hành vi xác hại nữ xin 12 tuổi thì thể được phát hiện cho giữ.",
+      "words": [
+        {
+          "word": "để",
+          "start": 16.96,
+          "end": 17.16,
+          "probability": 0.67
+        },
+        {
+          "word": "điều",
+          "start": 17.16,
+          "end": 17.38,
+          "probability": 0.58
+        },
+        {
+          "word": "trà",
+          "start": 17.38,
+          "end": 17.64,
+          "probability": 0.91
+        },
+        {
+          "word": "về",
+          "start": 17.64,
+          "end": 17.84,
+          "probability": 0.51
+        },
+        {
+          "word": "hành",
+          "start": 17.84,
+          "end": 18.02,
+          "probability": 0.66
+        },
+        {
+          "word": "vi",
+          "start": 18.02,
+          "end": 18.3,
+          "probability": 0.37
+        },
+        {
+          "word": "xác",
+          "start": 18.3,
+          "end": 18.56,
+          "probability": 0.73
+        },
+        {
+          "word": "hại",
+          "start": 18.56,
+          "end": 18.78,
+          "probability": 0.87
+        },
+        {
+          "word": "nữ",
+          "start": 18.78,
+          "end": 18.94,
+          "probability": 0.47
+        },
+        {
+          "word": "xin",
+          "start": 18.94,
+          "end": 19.14,
+          "probability": 0.93
+        },
+        {
+          "word": "12",
+          "start": 19.14,
+          "end": 19.44,
+          "probability": 0.93
+        },
+        {
+          "word": "tuổi",
+          "start": 19.44,
+          "end": 19.86,
+          "probability": 0.99
+        },
+        {
+          "word": "thì",
+          "start": 19.86,
+          "end": 20.2,
+          "probability": 0.54
+        },
+        {
+          "word": "thể",
+          "start": 20.2,
+          "end": 20.52,
+          "probability": 0.31
+        },
+        {
+          "word": "được",
+          "start": 20.52,
+          "end": 20.72,
+          "probability": 0.84
+        },
+        {
+          "word": "phát",
+          "start": 20.72,
+          "end": 20.94,
+          "probability": 0.84
+        },
+        {
+          "word": "hiện",
+          "start": 20.94,
+          "end": 21.08,
+          "probability": 0.95
+        },
+        {
+          "word": "cho",
+          "start": 21.08,
+          "end": 21.3,
+          "probability": 0.12
+        },
+        {
+          "word": "giữ.",
+          "start": 21.3,
+          "end": 21.74,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 22.4,
+      "end": 28.66,
+      "text": "Tại tự qua con ăn bước nổ, phạm ngọt, khai giận, đã hỏi nạn như có thể khai không khi nạn nhân trở người không có hó.",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 22.4,
+          "end": 22.52,
+          "probability": 0.79
+        },
+        {
+          "word": "tự",
+          "start": 22.52,
+          "end": 22.64,
+          "probability": 0.08
+        },
+        {
+          "word": "qua",
+          "start": 22.64,
+          "end": 22.76,
+          "probability": 0.12
+        },
+        {
+          "word": "con",
+          "start": 22.76,
+          "end": 22.98,
+          "probability": 0.3
+        },
+        {
+          "word": "ăn",
+          "start": 22.98,
+          "end": 23.22,
+          "probability": 0.25
+        },
+        {
+          "word": "bước",
+          "start": 23.22,
+          "end": 23.36,
+          "probability": 0.49
+        },
+        {
+          "word": "nổ,",
+          "start": 23.36,
+          "end": 23.72,
+          "probability": 0.23
+        },
+        {
+          "word": "phạm",
+          "start": 23.88,
+          "end": 24.3,
+          "probability": 0.48
+        },
+        {
+          "word": "ngọt,",
+          "start": 24.3,
+          "end": 24.52,
+          "probability": 0.93
+        },
+        {
+          "word": "khai",
+          "start": 24.76,
+          "end": 24.88,
+          "probability": 0.39
+        },
+        {
+          "word": "giận,",
+          "start": 24.88,
+          "end": 25.34,
+          "probability": 0.35
+        },
+        {
+          "word": "đã",
+          "start": 25.62,
+          "end": 25.64,
+          "probability": 0.64
+        },
+        {
+          "word": "hỏi",
+          "start": 25.64,
+          "end": 25.8,
+          "probability": 0.7
+        },
+        {
+          "word": "nạn",
+          "start": 25.8,
+          "end": 26.04,
+          "probability": 0.13
+        },
+        {
+          "word": "như",
+          "start": 26.04,
+          "end": 26.16,
+          "probability": 0.27
+        },
+        {
+          "word": "có",
+          "start": 26.16,
+          "end": 26.38,
+          "probability": 0.14
+        },
+        {
+          "word": "thể",
+          "start": 26.38,
+          "end": 26.54,
+          "probability": 0.49
+        },
+        {
+          "word": "khai",
+          "start": 26.54,
+          "end": 26.84,
+          "probability": 0.27
+        },
+        {
+          "word": "không",
+          "start": 26.84,
+          "end": 27.08,
+          "probability": 0.8
+        },
+        {
+          "word": "khi",
+          "start": 27.08,
+          "end": 27.4,
+          "probability": 0.66
+        },
+        {
+          "word": "nạn",
+          "start": 27.4,
+          "end": 27.54,
+          "probability": 0.43
+        },
+        {
+          "word": "nhân",
+          "start": 27.54,
+          "end": 27.7,
+          "probability": 0.16
+        },
+        {
+          "word": "trở",
+          "start": 27.7,
+          "end": 27.86,
+          "probability": 0.61
+        },
+        {
+          "word": "người",
+          "start": 27.86,
+          "end": 28.04,
+          "probability": 0.31
+        },
+        {
+          "word": "không",
+          "start": 28.04,
+          "end": 28.26,
+          "probability": 0.69
+        },
+        {
+          "word": "có",
+          "start": 28.26,
+          "end": 28.44,
+          "probability": 0.97
+        },
+        {
+          "word": "hó.",
+          "start": 28.44,
+          "end": 28.66,
+          "probability": 0.5
+        }
+      ]
+    }
+  ]
+}

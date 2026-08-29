@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7654958829310086421_03",
+  "duration_seconds": 27.78,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Họ không đầy!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.23,
+      "end": 1.83,
+      "text": "Họ không đầy!",
+      "words": [
+        {
+          "word": "Họ",
+          "start": 1.23,
+          "end": 1.35,
+          "probability": 0.1
+        },
+        {
+          "word": "không",
+          "start": 1.35,
+          "end": 1.51,
+          "probability": 0.29
+        },
+        {
+          "word": "đầy!",
+          "start": 1.51,
+          "end": 1.83,
+          "probability": 0.46
+        }
+      ]
+    }
+  ]
+}

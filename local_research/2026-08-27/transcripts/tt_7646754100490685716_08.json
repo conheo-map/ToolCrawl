@@ -1,0 +1,150 @@
+{
+  "item_id": "tt_7646754100490685716_08",
+  "duration_seconds": 8.8,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 18,
+  "text": "Em được tâm đều Em không muốn Điểm hơi nghe sẽ đủ đi Mà đậu dưới của mọi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 1.97,
+      "text": "Em được tâm đều",
+      "words": [
+        {
+          "word": "Em",
+          "start": 0.11,
+          "end": 0.53,
+          "probability": 0.31
+        },
+        {
+          "word": "được",
+          "start": 0.53,
+          "end": 0.67,
+          "probability": 0.28
+        },
+        {
+          "word": "tâm",
+          "start": 0.67,
+          "end": 1.33,
+          "probability": 0.37
+        },
+        {
+          "word": "đều",
+          "start": 1.33,
+          "end": 1.97,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.97,
+      "end": 3.05,
+      "text": "Em không muốn",
+      "words": [
+        {
+          "word": "Em",
+          "start": 1.97,
+          "end": 2.31,
+          "probability": 0.01
+        },
+        {
+          "word": "không",
+          "start": 2.31,
+          "end": 2.51,
+          "probability": 0.36
+        },
+        {
+          "word": "muốn",
+          "start": 2.51,
+          "end": 3.05,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.05,
+      "end": 5.03,
+      "text": "Điểm hơi nghe sẽ đủ đi",
+      "words": [
+        {
+          "word": "Điểm",
+          "start": 3.05,
+          "end": 3.89,
+          "probability": 0.19
+        },
+        {
+          "word": "hơi",
+          "start": 3.89,
+          "end": 4.05,
+          "probability": 0.29
+        },
+        {
+          "word": "nghe",
+          "start": 4.05,
+          "end": 4.25,
+          "probability": 0.15
+        },
+        {
+          "word": "sẽ",
+          "start": 4.25,
+          "end": 4.57,
+          "probability": 0.53
+        },
+        {
+          "word": "đủ",
+          "start": 4.57,
+          "end": 4.85,
+          "probability": 0.3
+        },
+        {
+          "word": "đi",
+          "start": 4.85,
+          "end": 5.03,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.03,
+      "end": 6.47,
+      "text": "Mà đậu dưới của mọi",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 5.03,
+          "end": 5.37,
+          "probability": 0.5
+        },
+        {
+          "word": "đậu",
+          "start": 5.37,
+          "end": 5.71,
+          "probability": 0.47
+        },
+        {
+          "word": "dưới",
+          "start": 5.71,
+          "end": 6.01,
+          "probability": 0.36
+        },
+        {
+          "word": "của",
+          "start": 6.01,
+          "end": 6.19,
+          "probability": 0.1
+        },
+        {
+          "word": "mọi",
+          "start": 6.19,
+          "end": 6.47,
+          "probability": 0.37
+        }
+      ]
+    }
+  ]
+}

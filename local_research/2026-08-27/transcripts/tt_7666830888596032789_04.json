@@ -1,0 +1,648 @@
+{
+  "item_id": "tt_7666830888596032789_04",
+  "duration_seconds": 28.17,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 101,
+  "text": "các vường trong tâm như sài gòn trợ lớn, bình thạch, khủ đức, gạo góc, tâm, bình tâm, tư tâm, ít đến một trăm bà mười, mì lì mẹt. Từng ai bà mì mốt thẳng bẩy, gió mùa tay nâm, suy yếu, kiến mây rông, gây mưa dạm, gó đó, nặng nóng có su rướng ra tăng trở lại. Tư khoảng ai hai mi trình thẳng bẩy, đến hai thẳng tâm, giết độ cũng tăng trở lại lên nước cao nhất, phổ biến từ bà mì hai, đến bà mì bà đủ xe. Theo các chuyến ra khi tự thủy văn.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 7.29,
+      "text": "các vường trong tâm như sài gòn trợ lớn, bình thạch, khủ đức, gạo góc, tâm, bình tâm, tư tâm,",
+      "words": [
+        {
+          "word": "các",
+          "start": 0.11,
+          "end": 0.51,
+          "probability": 0.46
+        },
+        {
+          "word": "vường",
+          "start": 0.51,
+          "end": 0.71,
+          "probability": 0.32
+        },
+        {
+          "word": "trong",
+          "start": 0.71,
+          "end": 0.97,
+          "probability": 0.25
+        },
+        {
+          "word": "tâm",
+          "start": 0.97,
+          "end": 1.35,
+          "probability": 0.86
+        },
+        {
+          "word": "như",
+          "start": 1.35,
+          "end": 1.71,
+          "probability": 0.41
+        },
+        {
+          "word": "sài",
+          "start": 1.71,
+          "end": 2.01,
+          "probability": 0.39
+        },
+        {
+          "word": "gòn",
+          "start": 2.01,
+          "end": 2.41,
+          "probability": 0.82
+        },
+        {
+          "word": "trợ",
+          "start": 2.41,
+          "end": 2.67,
+          "probability": 0.47
+        },
+        {
+          "word": "lớn,",
+          "start": 2.67,
+          "end": 3.13,
+          "probability": 0.94
+        },
+        {
+          "word": "bình",
+          "start": 3.39,
+          "end": 3.39,
+          "probability": 0.58
+        },
+        {
+          "word": "thạch,",
+          "start": 3.39,
+          "end": 3.73,
+          "probability": 0.56
+        },
+        {
+          "word": "khủ",
+          "start": 3.99,
+          "end": 4.13,
+          "probability": 0.5
+        },
+        {
+          "word": "đức,",
+          "start": 4.13,
+          "end": 4.57,
+          "probability": 0.53
+        },
+        {
+          "word": "gạo",
+          "start": 4.71,
+          "end": 4.91,
+          "probability": 0.51
+        },
+        {
+          "word": "góc,",
+          "start": 4.91,
+          "end": 5.29,
+          "probability": 0.47
+        },
+        {
+          "word": "tâm,",
+          "start": 5.41,
+          "end": 5.57,
+          "probability": 0.73
+        },
+        {
+          "word": "bình",
+          "start": 5.85,
+          "end": 6.21,
+          "probability": 0.8
+        },
+        {
+          "word": "tâm,",
+          "start": 6.21,
+          "end": 6.57,
+          "probability": 0.49
+        },
+        {
+          "word": "tư",
+          "start": 6.83,
+          "end": 6.99,
+          "probability": 0.73
+        },
+        {
+          "word": "tâm,",
+          "start": 6.99,
+          "end": 7.29,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.47,
+      "end": 14.11,
+      "text": "ít đến một trăm bà mười, mì lì mẹt. Từng ai bà mì mốt thẳng bẩy, gió mùa tay nâm, suy yếu, kiến mây rông,",
+      "words": [
+        {
+          "word": "ít",
+          "start": 7.47,
+          "end": 7.79,
+          "probability": 0.23
+        },
+        {
+          "word": "đến",
+          "start": 7.79,
+          "end": 7.95,
+          "probability": 0.63
+        },
+        {
+          "word": "một",
+          "start": 7.95,
+          "end": 8.15,
+          "probability": 0.52
+        },
+        {
+          "word": "trăm",
+          "start": 8.15,
+          "end": 8.35,
+          "probability": 0.3
+        },
+        {
+          "word": "bà",
+          "start": 8.35,
+          "end": 8.59,
+          "probability": 0.66
+        },
+        {
+          "word": "mười,",
+          "start": 8.59,
+          "end": 8.85,
+          "probability": 0.27
+        },
+        {
+          "word": "mì",
+          "start": 9.01,
+          "end": 9.19,
+          "probability": 0.19
+        },
+        {
+          "word": "lì",
+          "start": 9.19,
+          "end": 9.35,
+          "probability": 0.44
+        },
+        {
+          "word": "mẹt.",
+          "start": 9.35,
+          "end": 10.13,
+          "probability": 0.48
+        },
+        {
+          "word": "Từng",
+          "start": 10.25,
+          "end": 10.29,
+          "probability": 0.6
+        },
+        {
+          "word": "ai",
+          "start": 10.29,
+          "end": 10.49,
+          "probability": 0.57
+        },
+        {
+          "word": "bà",
+          "start": 10.49,
+          "end": 10.65,
+          "probability": 0.58
+        },
+        {
+          "word": "mì",
+          "start": 10.65,
+          "end": 10.77,
+          "probability": 0.48
+        },
+        {
+          "word": "mốt",
+          "start": 10.77,
+          "end": 10.95,
+          "probability": 0.45
+        },
+        {
+          "word": "thẳng",
+          "start": 10.95,
+          "end": 11.15,
+          "probability": 0.76
+        },
+        {
+          "word": "bẩy,",
+          "start": 11.15,
+          "end": 11.41,
+          "probability": 0.8
+        },
+        {
+          "word": "gió",
+          "start": 11.83,
+          "end": 11.83,
+          "probability": 0.4
+        },
+        {
+          "word": "mùa",
+          "start": 11.83,
+          "end": 12.07,
+          "probability": 0.58
+        },
+        {
+          "word": "tay",
+          "start": 12.07,
+          "end": 12.23,
+          "probability": 0.24
+        },
+        {
+          "word": "nâm,",
+          "start": 12.23,
+          "end": 12.57,
+          "probability": 0.31
+        },
+        {
+          "word": "suy",
+          "start": 12.73,
+          "end": 12.79,
+          "probability": 0.67
+        },
+        {
+          "word": "yếu,",
+          "start": 12.79,
+          "end": 13.19,
+          "probability": 0.63
+        },
+        {
+          "word": "kiến",
+          "start": 13.45,
+          "end": 13.61,
+          "probability": 0.6
+        },
+        {
+          "word": "mây",
+          "start": 13.61,
+          "end": 13.81,
+          "probability": 0.59
+        },
+        {
+          "word": "rông,",
+          "start": 13.81,
+          "end": 14.11,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 14.29,
+      "end": 20.75,
+      "text": "gây mưa dạm, gó đó, nặng nóng có su rướng ra tăng trở lại. Tư khoảng ai hai mi trình thẳng bẩy, đến hai thẳng tâm,",
+      "words": [
+        {
+          "word": "gây",
+          "start": 14.29,
+          "end": 14.37,
+          "probability": 0.56
+        },
+        {
+          "word": "mưa",
+          "start": 14.37,
+          "end": 14.59,
+          "probability": 0.42
+        },
+        {
+          "word": "dạm,",
+          "start": 14.59,
+          "end": 14.95,
+          "probability": 0.74
+        },
+        {
+          "word": "gó",
+          "start": 15.27,
+          "end": 15.31,
+          "probability": 0.45
+        },
+        {
+          "word": "đó,",
+          "start": 15.31,
+          "end": 15.71,
+          "probability": 0.66
+        },
+        {
+          "word": "nặng",
+          "start": 15.79,
+          "end": 15.97,
+          "probability": 0.79
+        },
+        {
+          "word": "nóng",
+          "start": 15.97,
+          "end": 16.25,
+          "probability": 0.28
+        },
+        {
+          "word": "có",
+          "start": 16.25,
+          "end": 16.43,
+          "probability": 0.37
+        },
+        {
+          "word": "su",
+          "start": 16.43,
+          "end": 16.63,
+          "probability": 0.51
+        },
+        {
+          "word": "rướng",
+          "start": 16.63,
+          "end": 16.87,
+          "probability": 0.58
+        },
+        {
+          "word": "ra",
+          "start": 16.87,
+          "end": 17.05,
+          "probability": 0.8
+        },
+        {
+          "word": "tăng",
+          "start": 17.05,
+          "end": 17.23,
+          "probability": 0.66
+        },
+        {
+          "word": "trở",
+          "start": 17.23,
+          "end": 17.45,
+          "probability": 0.74
+        },
+        {
+          "word": "lại.",
+          "start": 17.45,
+          "end": 17.79,
+          "probability": 0.99
+        },
+        {
+          "word": "Tư",
+          "start": 18.27,
+          "end": 18.27,
+          "probability": 0.66
+        },
+        {
+          "word": "khoảng",
+          "start": 18.27,
+          "end": 18.51,
+          "probability": 0.9
+        },
+        {
+          "word": "ai",
+          "start": 18.51,
+          "end": 18.75,
+          "probability": 0.57
+        },
+        {
+          "word": "hai",
+          "start": 18.75,
+          "end": 18.95,
+          "probability": 0.33
+        },
+        {
+          "word": "mi",
+          "start": 18.95,
+          "end": 19.11,
+          "probability": 0.16
+        },
+        {
+          "word": "trình",
+          "start": 19.11,
+          "end": 19.17,
+          "probability": 0.34
+        },
+        {
+          "word": "thẳng",
+          "start": 19.17,
+          "end": 19.35,
+          "probability": 0.91
+        },
+        {
+          "word": "bẩy,",
+          "start": 19.35,
+          "end": 19.67,
+          "probability": 0.99
+        },
+        {
+          "word": "đến",
+          "start": 19.89,
+          "end": 19.89,
+          "probability": 0.98
+        },
+        {
+          "word": "hai",
+          "start": 19.89,
+          "end": 20.17,
+          "probability": 0.63
+        },
+        {
+          "word": "thẳng",
+          "start": 20.17,
+          "end": 20.33,
+          "probability": 0.95
+        },
+        {
+          "word": "tâm,",
+          "start": 20.33,
+          "end": 20.75,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 21.05,
+      "end": 28.03,
+      "text": "giết độ cũng tăng trở lại lên nước cao nhất, phổ biến từ bà mì hai, đến bà mì bà đủ xe. Theo các chuyến ra khi tự thủy văn.",
+      "words": [
+        {
+          "word": "giết",
+          "start": 21.05,
+          "end": 21.19,
+          "probability": 0.21
+        },
+        {
+          "word": "độ",
+          "start": 21.19,
+          "end": 21.33,
+          "probability": 0.64
+        },
+        {
+          "word": "cũng",
+          "start": 21.33,
+          "end": 21.57,
+          "probability": 0.46
+        },
+        {
+          "word": "tăng",
+          "start": 21.57,
+          "end": 21.77,
+          "probability": 0.94
+        },
+        {
+          "word": "trở",
+          "start": 21.77,
+          "end": 21.99,
+          "probability": 1.0
+        },
+        {
+          "word": "lại",
+          "start": 21.99,
+          "end": 22.27,
+          "probability": 1.0
+        },
+        {
+          "word": "lên",
+          "start": 22.27,
+          "end": 22.55,
+          "probability": 0.4
+        },
+        {
+          "word": "nước",
+          "start": 22.55,
+          "end": 22.77,
+          "probability": 0.46
+        },
+        {
+          "word": "cao",
+          "start": 22.77,
+          "end": 22.93,
+          "probability": 0.82
+        },
+        {
+          "word": "nhất,",
+          "start": 22.93,
+          "end": 23.33,
+          "probability": 0.87
+        },
+        {
+          "word": "phổ",
+          "start": 23.51,
+          "end": 23.57,
+          "probability": 0.74
+        },
+        {
+          "word": "biến",
+          "start": 23.57,
+          "end": 23.83,
+          "probability": 0.88
+        },
+        {
+          "word": "từ",
+          "start": 23.83,
+          "end": 24.05,
+          "probability": 0.6
+        },
+        {
+          "word": "bà",
+          "start": 24.05,
+          "end": 24.25,
+          "probability": 0.58
+        },
+        {
+          "word": "mì",
+          "start": 24.25,
+          "end": 24.41,
+          "probability": 0.67
+        },
+        {
+          "word": "hai,",
+          "start": 24.41,
+          "end": 24.73,
+          "probability": 0.86
+        },
+        {
+          "word": "đến",
+          "start": 25.01,
+          "end": 25.01,
+          "probability": 0.99
+        },
+        {
+          "word": "bà",
+          "start": 25.01,
+          "end": 25.23,
+          "probability": 0.88
+        },
+        {
+          "word": "mì",
+          "start": 25.23,
+          "end": 25.37,
+          "probability": 0.78
+        },
+        {
+          "word": "bà",
+          "start": 25.37,
+          "end": 25.55,
+          "probability": 0.83
+        },
+        {
+          "word": "đủ",
+          "start": 25.55,
+          "end": 25.77,
+          "probability": 0.41
+        },
+        {
+          "word": "xe.",
+          "start": 25.77,
+          "end": 26.41,
+          "probability": 0.45
+        },
+        {
+          "word": "Theo",
+          "start": 26.53,
+          "end": 26.71,
+          "probability": 0.73
+        },
+        {
+          "word": "các",
+          "start": 26.71,
+          "end": 26.83,
+          "probability": 0.67
+        },
+        {
+          "word": "chuyến",
+          "start": 26.83,
+          "end": 27.01,
+          "probability": 0.56
+        },
+        {
+          "word": "ra",
+          "start": 27.01,
+          "end": 27.25,
+          "probability": 0.65
+        },
+        {
+          "word": "khi",
+          "start": 27.25,
+          "end": 27.45,
+          "probability": 0.58
+        },
+        {
+          "word": "tự",
+          "start": 27.45,
+          "end": 27.59,
+          "probability": 0.6
+        },
+        {
+          "word": "thủy",
+          "start": 27.59,
+          "end": 27.85,
+          "probability": 0.41
+        },
+        {
+          "word": "văn.",
+          "start": 27.85,
+          "end": 28.03,
+          "probability": 0.7
+        }
+      ]
+    }
+  ]
+}

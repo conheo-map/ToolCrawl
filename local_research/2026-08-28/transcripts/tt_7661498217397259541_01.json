@@ -1,0 +1,560 @@
+{
+  "item_id": "tt_7661498217397259541_01",
+  "duration_seconds": 28.93,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 81,
+  "text": "tôi nghĩ đến hôm nay khoảng 1 tuần, đang thi in sách cái người nguồn, ở trực ra thì kết là đa số các bạn sau khi chúng ta thi sông, chính xác phải chúng ta mích điểm tốt nè của chúng ta thì chúng ta cũng giữ thảo, thì in sách để chúng ta đang thi cái người nguồn, mà tối ra là người nguồn. Thì với sinh dân sách đó là sau khi các trường, công bố các đường.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.66,
+      "text": "tôi nghĩ đến hôm nay khoảng 1 tuần,",
+      "words": [
+        {
+          "word": "tôi",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.06
+        },
+        {
+          "word": "nghĩ",
+          "start": 0.28,
+          "end": 0.54,
+          "probability": 0.82
+        },
+        {
+          "word": "đến",
+          "start": 0.54,
+          "end": 1.22,
+          "probability": 0.22
+        },
+        {
+          "word": "hôm",
+          "start": 1.22,
+          "end": 1.38,
+          "probability": 0.47
+        },
+        {
+          "word": "nay",
+          "start": 1.38,
+          "end": 1.54,
+          "probability": 0.98
+        },
+        {
+          "word": "khoảng",
+          "start": 1.54,
+          "end": 1.86,
+          "probability": 0.87
+        },
+        {
+          "word": "1",
+          "start": 1.86,
+          "end": 2.08,
+          "probability": 0.09
+        },
+        {
+          "word": "tuần,",
+          "start": 2.08,
+          "end": 2.66,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.01,
+      "end": 7.19,
+      "text": "đang thi in sách cái người nguồn,",
+      "words": [
+        {
+          "word": "đang",
+          "start": 5.01,
+          "end": 5.23,
+          "probability": 0.39
+        },
+        {
+          "word": "thi",
+          "start": 5.23,
+          "end": 5.65,
+          "probability": 0.5
+        },
+        {
+          "word": "in",
+          "start": 5.65,
+          "end": 6.01,
+          "probability": 0.06
+        },
+        {
+          "word": "sách",
+          "start": 6.01,
+          "end": 6.27,
+          "probability": 0.36
+        },
+        {
+          "word": "cái",
+          "start": 6.27,
+          "end": 6.51,
+          "probability": 0.5
+        },
+        {
+          "word": "người",
+          "start": 6.51,
+          "end": 6.67,
+          "probability": 0.22
+        },
+        {
+          "word": "nguồn,",
+          "start": 6.67,
+          "end": 7.19,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.66,
+      "end": 13.58,
+      "text": "ở trực ra thì kết là đa số các bạn sau khi chúng ta thi sông,",
+      "words": [
+        {
+          "word": "ở",
+          "start": 9.66,
+          "end": 10.0,
+          "probability": 0.02
+        },
+        {
+          "word": "trực",
+          "start": 10.0,
+          "end": 10.0,
+          "probability": 0.17
+        },
+        {
+          "word": "ra",
+          "start": 10.0,
+          "end": 10.26,
+          "probability": 0.95
+        },
+        {
+          "word": "thì",
+          "start": 10.26,
+          "end": 10.62,
+          "probability": 0.5
+        },
+        {
+          "word": "kết",
+          "start": 10.62,
+          "end": 10.86,
+          "probability": 0.37
+        },
+        {
+          "word": "là",
+          "start": 10.86,
+          "end": 11.02,
+          "probability": 0.91
+        },
+        {
+          "word": "đa",
+          "start": 11.02,
+          "end": 11.3,
+          "probability": 0.34
+        },
+        {
+          "word": "số",
+          "start": 11.3,
+          "end": 11.42,
+          "probability": 0.92
+        },
+        {
+          "word": "các",
+          "start": 11.42,
+          "end": 11.64,
+          "probability": 0.79
+        },
+        {
+          "word": "bạn",
+          "start": 11.64,
+          "end": 12.04,
+          "probability": 0.99
+        },
+        {
+          "word": "sau",
+          "start": 12.04,
+          "end": 12.48,
+          "probability": 0.83
+        },
+        {
+          "word": "khi",
+          "start": 12.48,
+          "end": 12.72,
+          "probability": 0.66
+        },
+        {
+          "word": "chúng",
+          "start": 12.72,
+          "end": 12.96,
+          "probability": 0.7
+        },
+        {
+          "word": "ta",
+          "start": 12.96,
+          "end": 13.02,
+          "probability": 0.65
+        },
+        {
+          "word": "thi",
+          "start": 13.02,
+          "end": 13.28,
+          "probability": 0.77
+        },
+        {
+          "word": "sông,",
+          "start": 13.28,
+          "end": 13.58,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.96,
+      "end": 18.9,
+      "text": "chính xác phải chúng ta mích điểm tốt nè của chúng ta thì chúng ta cũng giữ thảo,",
+      "words": [
+        {
+          "word": "chính",
+          "start": 13.96,
+          "end": 14.12,
+          "probability": 0.09
+        },
+        {
+          "word": "xác",
+          "start": 14.12,
+          "end": 14.22,
+          "probability": 0.74
+        },
+        {
+          "word": "phải",
+          "start": 14.22,
+          "end": 14.4,
+          "probability": 0.12
+        },
+        {
+          "word": "chúng",
+          "start": 14.4,
+          "end": 14.52,
+          "probability": 0.77
+        },
+        {
+          "word": "ta",
+          "start": 14.52,
+          "end": 14.64,
+          "probability": 1.0
+        },
+        {
+          "word": "mích",
+          "start": 14.64,
+          "end": 14.92,
+          "probability": 0.3
+        },
+        {
+          "word": "điểm",
+          "start": 14.92,
+          "end": 15.26,
+          "probability": 0.57
+        },
+        {
+          "word": "tốt",
+          "start": 15.26,
+          "end": 15.46,
+          "probability": 0.63
+        },
+        {
+          "word": "nè",
+          "start": 15.46,
+          "end": 15.62,
+          "probability": 0.14
+        },
+        {
+          "word": "của",
+          "start": 15.62,
+          "end": 15.76,
+          "probability": 0.66
+        },
+        {
+          "word": "chúng",
+          "start": 15.76,
+          "end": 15.94,
+          "probability": 0.99
+        },
+        {
+          "word": "ta",
+          "start": 15.94,
+          "end": 16.48,
+          "probability": 1.0
+        },
+        {
+          "word": "thì",
+          "start": 16.48,
+          "end": 16.64,
+          "probability": 0.71
+        },
+        {
+          "word": "chúng",
+          "start": 16.64,
+          "end": 16.84,
+          "probability": 0.99
+        },
+        {
+          "word": "ta",
+          "start": 16.84,
+          "end": 16.96,
+          "probability": 1.0
+        },
+        {
+          "word": "cũng",
+          "start": 16.96,
+          "end": 17.96,
+          "probability": 0.96
+        },
+        {
+          "word": "giữ",
+          "start": 17.96,
+          "end": 18.56,
+          "probability": 0.53
+        },
+        {
+          "word": "thảo,",
+          "start": 18.56,
+          "end": 18.9,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 19.06,
+      "end": 22.34,
+      "text": "thì in sách để chúng ta đang thi cái người nguồn,",
+      "words": [
+        {
+          "word": "thì",
+          "start": 19.06,
+          "end": 19.2,
+          "probability": 0.28
+        },
+        {
+          "word": "in",
+          "start": 19.2,
+          "end": 19.46,
+          "probability": 0.09
+        },
+        {
+          "word": "sách",
+          "start": 19.46,
+          "end": 19.74,
+          "probability": 0.98
+        },
+        {
+          "word": "để",
+          "start": 19.74,
+          "end": 20.14,
+          "probability": 0.79
+        },
+        {
+          "word": "chúng",
+          "start": 20.14,
+          "end": 20.5,
+          "probability": 0.98
+        },
+        {
+          "word": "ta",
+          "start": 20.5,
+          "end": 21.0,
+          "probability": 1.0
+        },
+        {
+          "word": "đang",
+          "start": 21.0,
+          "end": 21.34,
+          "probability": 0.89
+        },
+        {
+          "word": "thi",
+          "start": 21.34,
+          "end": 21.56,
+          "probability": 0.97
+        },
+        {
+          "word": "cái",
+          "start": 21.56,
+          "end": 21.7,
+          "probability": 0.35
+        },
+        {
+          "word": "người",
+          "start": 21.7,
+          "end": 22.0,
+          "probability": 0.81
+        },
+        {
+          "word": "nguồn,",
+          "start": 22.0,
+          "end": 22.34,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 22.56,
+      "end": 23.86,
+      "text": "mà tối ra là người nguồn.",
+      "words": [
+        {
+          "word": "mà",
+          "start": 22.56,
+          "end": 22.56,
+          "probability": 0.13
+        },
+        {
+          "word": "tối",
+          "start": 22.56,
+          "end": 22.72,
+          "probability": 0.71
+        },
+        {
+          "word": "ra",
+          "start": 22.72,
+          "end": 22.88,
+          "probability": 0.91
+        },
+        {
+          "word": "là",
+          "start": 22.88,
+          "end": 23.06,
+          "probability": 0.77
+        },
+        {
+          "word": "người",
+          "start": 23.06,
+          "end": 23.26,
+          "probability": 0.67
+        },
+        {
+          "word": "nguồn.",
+          "start": 23.26,
+          "end": 23.86,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 24.36,
+      "end": 27.84,
+      "text": "Thì với sinh dân sách đó là sau khi các trường,",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 24.36,
+          "end": 24.48,
+          "probability": 0.6
+        },
+        {
+          "word": "với",
+          "start": 24.48,
+          "end": 24.74,
+          "probability": 0.38
+        },
+        {
+          "word": "sinh",
+          "start": 24.74,
+          "end": 25.0,
+          "probability": 0.56
+        },
+        {
+          "word": "dân",
+          "start": 25.0,
+          "end": 25.22,
+          "probability": 0.37
+        },
+        {
+          "word": "sách",
+          "start": 25.22,
+          "end": 25.34,
+          "probability": 0.47
+        },
+        {
+          "word": "đó",
+          "start": 25.34,
+          "end": 25.54,
+          "probability": 0.85
+        },
+        {
+          "word": "là",
+          "start": 25.54,
+          "end": 26.02,
+          "probability": 0.35
+        },
+        {
+          "word": "sau",
+          "start": 26.02,
+          "end": 26.52,
+          "probability": 0.22
+        },
+        {
+          "word": "khi",
+          "start": 26.52,
+          "end": 26.78,
+          "probability": 0.92
+        },
+        {
+          "word": "các",
+          "start": 26.78,
+          "end": 27.04,
+          "probability": 0.37
+        },
+        {
+          "word": "trường,",
+          "start": 27.04,
+          "end": 27.84,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 28.26,
+      "end": 28.76,
+      "text": "công bố các đường.",
+      "words": [
+        {
+          "word": "công",
+          "start": 28.26,
+          "end": 28.26,
+          "probability": 0.27
+        },
+        {
+          "word": "bố",
+          "start": 28.26,
+          "end": 28.4,
+          "probability": 0.71
+        },
+        {
+          "word": "các",
+          "start": 28.4,
+          "end": 28.62,
+          "probability": 0.67
+        },
+        {
+          "word": "đường.",
+          "start": 28.62,
+          "end": 28.76,
+          "probability": 0.34
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "item_id": "tt_7647092179084659988_10",
+  "duration_seconds": 26.39,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 19,
+  "text": "để kết thằng đầu tiên nhạc ở này kết đi khúc trong cái này dù sống như thế này",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.92,
+      "text": "để kết thằng đầu tiên nhạc",
+      "words": [
+        {
+          "word": "để",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.28
+        },
+        {
+          "word": "kết",
+          "start": 0.44,
+          "end": 0.64,
+          "probability": 0.37
+        },
+        {
+          "word": "thằng",
+          "start": 0.64,
+          "end": 0.78,
+          "probability": 0.48
+        },
+        {
+          "word": "đầu",
+          "start": 0.78,
+          "end": 0.94,
+          "probability": 0.86
+        },
+        {
+          "word": "tiên",
+          "start": 0.94,
+          "end": 1.16,
+          "probability": 0.9
+        },
+        {
+          "word": "nhạc",
+          "start": 1.16,
+          "end": 1.92,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.92,
+      "end": 11.26,
+      "text": "ở này kết đi khúc trong cái này",
+      "words": [
+        {
+          "word": "ở",
+          "start": 1.92,
+          "end": 2.06,
+          "probability": 0.01
+        },
+        {
+          "word": "này",
+          "start": 2.06,
+          "end": 3.44,
+          "probability": 0.01
+        },
+        {
+          "word": "kết",
+          "start": 10.22,
+          "end": 10.46,
+          "probability": 0.19
+        },
+        {
+          "word": "đi",
+          "start": 10.46,
+          "end": 10.54,
+          "probability": 0.25
+        },
+        {
+          "word": "khúc",
+          "start": 10.54,
+          "end": 10.7,
+          "probability": 0.29
+        },
+        {
+          "word": "trong",
+          "start": 10.7,
+          "end": 10.92,
+          "probability": 0.15
+        },
+        {
+          "word": "cái",
+          "start": 10.92,
+          "end": 11.08,
+          "probability": 0.44
+        },
+        {
+          "word": "này",
+          "start": 11.08,
+          "end": 11.26,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 18.72,
+      "end": 19.46,
+      "text": "dù sống như thế này",
+      "words": [
+        {
+          "word": "dù",
+          "start": 18.72,
+          "end": 18.9,
+          "probability": 0.02
+        },
+        {
+          "word": "sống",
+          "start": 18.9,
+          "end": 19.02,
+          "probability": 0.21
+        },
+        {
+          "word": "như",
+          "start": 19.02,
+          "end": 19.14,
+          "probability": 0.52
+        },
+        {
+          "word": "thế",
+          "start": 19.14,
+          "end": 19.24,
+          "probability": 0.54
+        },
+        {
+          "word": "này",
+          "start": 19.24,
+          "end": 19.46,
+          "probability": 0.82
+        }
+      ]
+    }
+  ]
+}

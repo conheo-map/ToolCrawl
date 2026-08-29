@@ -1,0 +1,498 @@
+{
+  "item_id": "tt_7277823208466730247_02",
+  "duration_seconds": 20.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 68,
+  "text": "Đúng không? Để không cộng thì y trên đứa vụ cùng Để không cộng thì y trên đứa vụ cùng Thì mà ăn phà mà bằng không Thì y bằng íc bằng phà Bằng íc bằng íc bằng không Bởi mọi dơ Đây mình ăn và chỉ sẽ đe íc dơ như thế bà Thì đồ thì rõ chứa đường hảm ngang Đây là chờ ăn phà bằng",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.94,
+      "text": "Đúng không?",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.35
+        },
+        {
+          "word": "không?",
+          "start": 0.4,
+          "end": 0.94,
+          "probability": 0.79
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.02,
+      "end": 3.3,
+      "text": "Để không cộng thì y trên đứa vụ cùng",
+      "words": [
+        {
+          "word": "Để",
+          "start": 1.02,
+          "end": 1.22,
+          "probability": 0.16
+        },
+        {
+          "word": "không",
+          "start": 1.22,
+          "end": 1.56,
+          "probability": 0.54
+        },
+        {
+          "word": "cộng",
+          "start": 1.56,
+          "end": 1.92,
+          "probability": 0.48
+        },
+        {
+          "word": "thì",
+          "start": 1.92,
+          "end": 2.32,
+          "probability": 0.63
+        },
+        {
+          "word": "y",
+          "start": 2.32,
+          "end": 2.56,
+          "probability": 0.11
+        },
+        {
+          "word": "trên",
+          "start": 2.56,
+          "end": 2.64,
+          "probability": 0.19
+        },
+        {
+          "word": "đứa",
+          "start": 2.64,
+          "end": 2.84,
+          "probability": 0.35
+        },
+        {
+          "word": "vụ",
+          "start": 2.84,
+          "end": 2.98,
+          "probability": 0.35
+        },
+        {
+          "word": "cùng",
+          "start": 2.98,
+          "end": 3.3,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.3,
+      "end": 5.1,
+      "text": "Để không cộng thì y trên đứa vụ cùng",
+      "words": [
+        {
+          "word": "Để",
+          "start": 3.3,
+          "end": 3.54,
+          "probability": 0.47
+        },
+        {
+          "word": "không",
+          "start": 3.54,
+          "end": 3.92,
+          "probability": 0.24
+        },
+        {
+          "word": "cộng",
+          "start": 3.92,
+          "end": 4.12,
+          "probability": 0.95
+        },
+        {
+          "word": "thì",
+          "start": 4.12,
+          "end": 4.28,
+          "probability": 0.47
+        },
+        {
+          "word": "y",
+          "start": 4.28,
+          "end": 4.36,
+          "probability": 0.79
+        },
+        {
+          "word": "trên",
+          "start": 4.36,
+          "end": 4.66,
+          "probability": 0.53
+        },
+        {
+          "word": "đứa",
+          "start": 4.66,
+          "end": 4.66,
+          "probability": 0.91
+        },
+        {
+          "word": "vụ",
+          "start": 4.66,
+          "end": 4.68,
+          "probability": 0.98
+        },
+        {
+          "word": "cùng",
+          "start": 4.68,
+          "end": 5.1,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.1,
+      "end": 8.4,
+      "text": "Thì mà ăn phà mà bằng không",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 5.1,
+          "end": 5.66,
+          "probability": 0.4
+        },
+        {
+          "word": "mà",
+          "start": 5.66,
+          "end": 5.88,
+          "probability": 0.48
+        },
+        {
+          "word": "ăn",
+          "start": 5.88,
+          "end": 6.12,
+          "probability": 0.54
+        },
+        {
+          "word": "phà",
+          "start": 6.12,
+          "end": 6.5,
+          "probability": 0.44
+        },
+        {
+          "word": "mà",
+          "start": 6.5,
+          "end": 7.22,
+          "probability": 0.47
+        },
+        {
+          "word": "bằng",
+          "start": 7.22,
+          "end": 7.62,
+          "probability": 0.62
+        },
+        {
+          "word": "không",
+          "start": 7.62,
+          "end": 8.4,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.4,
+      "end": 10.2,
+      "text": "Thì y bằng íc bằng phà",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 8.4,
+          "end": 8.9,
+          "probability": 0.79
+        },
+        {
+          "word": "y",
+          "start": 8.9,
+          "end": 9.2,
+          "probability": 0.72
+        },
+        {
+          "word": "bằng",
+          "start": 9.2,
+          "end": 9.34,
+          "probability": 0.67
+        },
+        {
+          "word": "íc",
+          "start": 9.34,
+          "end": 9.56,
+          "probability": 0.47
+        },
+        {
+          "word": "bằng",
+          "start": 9.56,
+          "end": 9.74,
+          "probability": 0.54
+        },
+        {
+          "word": "phà",
+          "start": 9.74,
+          "end": 10.2,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.2,
+      "end": 11.34,
+      "text": "Bằng íc bằng íc bằng không",
+      "words": [
+        {
+          "word": "Bằng",
+          "start": 10.2,
+          "end": 10.74,
+          "probability": 0.57
+        },
+        {
+          "word": "íc",
+          "start": 10.74,
+          "end": 10.9,
+          "probability": 0.65
+        },
+        {
+          "word": "bằng",
+          "start": 10.9,
+          "end": 10.98,
+          "probability": 0.89
+        },
+        {
+          "word": "íc",
+          "start": 10.98,
+          "end": 10.98,
+          "probability": 0.74
+        },
+        {
+          "word": "bằng",
+          "start": 10.98,
+          "end": 11.06,
+          "probability": 0.89
+        },
+        {
+          "word": "không",
+          "start": 11.06,
+          "end": 11.34,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.12,
+      "end": 13.42,
+      "text": "Bởi mọi dơ",
+      "words": [
+        {
+          "word": "Bởi",
+          "start": 12.12,
+          "end": 12.56,
+          "probability": 0.51
+        },
+        {
+          "word": "mọi",
+          "start": 12.56,
+          "end": 12.74,
+          "probability": 0.7
+        },
+        {
+          "word": "dơ",
+          "start": 12.74,
+          "end": 13.42,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.42,
+      "end": 15.9,
+      "text": "Đây mình ăn và chỉ sẽ đe íc dơ như thế bà",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 13.42,
+          "end": 14.06,
+          "probability": 0.47
+        },
+        {
+          "word": "mình",
+          "start": 14.06,
+          "end": 14.2,
+          "probability": 0.5
+        },
+        {
+          "word": "ăn",
+          "start": 14.2,
+          "end": 14.4,
+          "probability": 0.8
+        },
+        {
+          "word": "và",
+          "start": 14.4,
+          "end": 14.56,
+          "probability": 0.34
+        },
+        {
+          "word": "chỉ",
+          "start": 14.56,
+          "end": 14.72,
+          "probability": 0.66
+        },
+        {
+          "word": "sẽ",
+          "start": 14.72,
+          "end": 14.88,
+          "probability": 0.68
+        },
+        {
+          "word": "đe",
+          "start": 14.88,
+          "end": 15.06,
+          "probability": 0.26
+        },
+        {
+          "word": "íc",
+          "start": 15.06,
+          "end": 15.06,
+          "probability": 0.46
+        },
+        {
+          "word": "dơ",
+          "start": 15.06,
+          "end": 15.18,
+          "probability": 0.83
+        },
+        {
+          "word": "như",
+          "start": 15.18,
+          "end": 15.4,
+          "probability": 0.05
+        },
+        {
+          "word": "thế",
+          "start": 15.4,
+          "end": 15.82,
+          "probability": 0.32
+        },
+        {
+          "word": "bà",
+          "start": 15.82,
+          "end": 15.9,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 15.9,
+      "end": 18.06,
+      "text": "Thì đồ thì rõ chứa đường hảm ngang",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 15.9,
+          "end": 16.16,
+          "probability": 0.76
+        },
+        {
+          "word": "đồ",
+          "start": 16.16,
+          "end": 16.36,
+          "probability": 0.59
+        },
+        {
+          "word": "thì",
+          "start": 16.36,
+          "end": 16.52,
+          "probability": 0.53
+        },
+        {
+          "word": "rõ",
+          "start": 16.52,
+          "end": 16.76,
+          "probability": 0.19
+        },
+        {
+          "word": "chứa",
+          "start": 16.76,
+          "end": 16.98,
+          "probability": 0.18
+        },
+        {
+          "word": "đường",
+          "start": 16.98,
+          "end": 17.12,
+          "probability": 0.7
+        },
+        {
+          "word": "hảm",
+          "start": 17.12,
+          "end": 18.06,
+          "probability": 0.22
+        },
+        {
+          "word": "ngang",
+          "start": 18.06,
+          "end": 18.06,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 18.06,
+      "end": 19.44,
+      "text": "Đây là chờ ăn phà bằng",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 18.06,
+          "end": 18.48,
+          "probability": 0.26
+        },
+        {
+          "word": "là",
+          "start": 18.48,
+          "end": 18.52,
+          "probability": 0.87
+        },
+        {
+          "word": "chờ",
+          "start": 18.52,
+          "end": 18.68,
+          "probability": 0.29
+        },
+        {
+          "word": "ăn",
+          "start": 18.68,
+          "end": 18.9,
+          "probability": 0.63
+        },
+        {
+          "word": "phà",
+          "start": 18.9,
+          "end": 19.06,
+          "probability": 0.98
+        },
+        {
+          "word": "bằng",
+          "start": 19.06,
+          "end": 19.44,
+          "probability": 0.93
+        }
+      ]
+    }
+  ]
+}

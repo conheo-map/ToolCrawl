@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7656028531247418625_02",
+  "duration_seconds": 27.65,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Nhiều, tìm tất cả!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.84,
+      "end": 5.91,
+      "text": "Nhiều, tìm tất cả!",
+      "words": [
+        {
+          "word": "Nhiều,",
+          "start": 1.84,
+          "end": 2.28,
+          "probability": 0.12
+        },
+        {
+          "word": "tìm",
+          "start": 5.23,
+          "end": 5.51,
+          "probability": 0.37
+        },
+        {
+          "word": "tất",
+          "start": 5.51,
+          "end": 5.67,
+          "probability": 0.09
+        },
+        {
+          "word": "cả!",
+          "start": 5.67,
+          "end": 5.91,
+          "probability": 0.33
+        }
+      ]
+    }
+  ]
+}

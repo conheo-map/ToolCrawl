@@ -1,0 +1,720 @@
+{
+  "item_id": "tt_7665983652651617556_09",
+  "duration_seconds": 29.95,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 109,
+  "text": "Nằm lớp mời một, mẹ sướng bị chăm vịch mang phôi phải chuyển quan nhiều bệnh viện. Không có tiền để điều trị, có học chó khi ai phải mang thủ hương, lỗi mưa đi chà, dưới vóa tình gửi nhà trủ hương để phai tự đồng. Chẳng là thủ biến của em đi em không được trủ biến mà em cũng không xong hiểu sợ giá là một mùa mưa để trưa, phải là mê thang của phương mào. Còn như bố em đi của mình của trua xanh giả, năng quá rộn. Tìm bỏ biển thêm rất là sợ, tình yến sợ về cảm xúc mở mày.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.46,
+      "end": 5.68,
+      "text": "Nằm lớp mời một, mẹ sướng bị chăm vịch mang phôi phải chuyển quan nhiều bệnh viện.",
+      "words": [
+        {
+          "word": "Nằm",
+          "start": 0.46,
+          "end": 1.08,
+          "probability": 0.6
+        },
+        {
+          "word": "lớp",
+          "start": 1.08,
+          "end": 1.22,
+          "probability": 0.82
+        },
+        {
+          "word": "mời",
+          "start": 1.22,
+          "end": 1.4,
+          "probability": 0.38
+        },
+        {
+          "word": "một,",
+          "start": 1.4,
+          "end": 1.78,
+          "probability": 0.37
+        },
+        {
+          "word": "mẹ",
+          "start": 2.1,
+          "end": 2.18,
+          "probability": 0.8
+        },
+        {
+          "word": "sướng",
+          "start": 2.18,
+          "end": 2.42,
+          "probability": 0.4
+        },
+        {
+          "word": "bị",
+          "start": 2.42,
+          "end": 2.68,
+          "probability": 0.88
+        },
+        {
+          "word": "chăm",
+          "start": 2.68,
+          "end": 2.9,
+          "probability": 0.41
+        },
+        {
+          "word": "vịch",
+          "start": 2.9,
+          "end": 3.1,
+          "probability": 0.37
+        },
+        {
+          "word": "mang",
+          "start": 3.1,
+          "end": 3.36,
+          "probability": 0.59
+        },
+        {
+          "word": "phôi",
+          "start": 3.36,
+          "end": 3.78,
+          "probability": 0.49
+        },
+        {
+          "word": "phải",
+          "start": 3.78,
+          "end": 4.18,
+          "probability": 0.36
+        },
+        {
+          "word": "chuyển",
+          "start": 4.18,
+          "end": 4.4,
+          "probability": 0.95
+        },
+        {
+          "word": "quan",
+          "start": 4.4,
+          "end": 4.72,
+          "probability": 0.49
+        },
+        {
+          "word": "nhiều",
+          "start": 4.72,
+          "end": 4.88,
+          "probability": 0.26
+        },
+        {
+          "word": "bệnh",
+          "start": 4.88,
+          "end": 5.1,
+          "probability": 0.86
+        },
+        {
+          "word": "viện.",
+          "start": 5.1,
+          "end": 5.68,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.04,
+      "end": 11.08,
+      "text": "Không có tiền để điều trị, có học chó khi ai phải mang thủ hương, lỗi mưa đi chà,",
+      "words": [
+        {
+          "word": "Không",
+          "start": 6.04,
+          "end": 6.18,
+          "probability": 0.23
+        },
+        {
+          "word": "có",
+          "start": 6.18,
+          "end": 6.32,
+          "probability": 0.99
+        },
+        {
+          "word": "tiền",
+          "start": 6.32,
+          "end": 6.48,
+          "probability": 0.56
+        },
+        {
+          "word": "để",
+          "start": 6.48,
+          "end": 6.66,
+          "probability": 0.62
+        },
+        {
+          "word": "điều",
+          "start": 6.66,
+          "end": 6.88,
+          "probability": 0.96
+        },
+        {
+          "word": "trị,",
+          "start": 6.88,
+          "end": 7.16,
+          "probability": 0.48
+        },
+        {
+          "word": "có",
+          "start": 7.5,
+          "end": 7.6,
+          "probability": 0.42
+        },
+        {
+          "word": "học",
+          "start": 7.6,
+          "end": 7.84,
+          "probability": 0.88
+        },
+        {
+          "word": "chó",
+          "start": 7.84,
+          "end": 8.02,
+          "probability": 0.41
+        },
+        {
+          "word": "khi",
+          "start": 8.02,
+          "end": 8.26,
+          "probability": 0.14
+        },
+        {
+          "word": "ai",
+          "start": 8.26,
+          "end": 8.54,
+          "probability": 0.31
+        },
+        {
+          "word": "phải",
+          "start": 8.54,
+          "end": 8.76,
+          "probability": 0.53
+        },
+        {
+          "word": "mang",
+          "start": 8.76,
+          "end": 9.0,
+          "probability": 0.99
+        },
+        {
+          "word": "thủ",
+          "start": 9.0,
+          "end": 9.22,
+          "probability": 0.49
+        },
+        {
+          "word": "hương,",
+          "start": 9.22,
+          "end": 9.62,
+          "probability": 0.49
+        },
+        {
+          "word": "lỗi",
+          "start": 9.96,
+          "end": 10.04,
+          "probability": 0.44
+        },
+        {
+          "word": "mưa",
+          "start": 10.04,
+          "end": 10.36,
+          "probability": 0.61
+        },
+        {
+          "word": "đi",
+          "start": 10.36,
+          "end": 10.64,
+          "probability": 0.81
+        },
+        {
+          "word": "chà,",
+          "start": 10.64,
+          "end": 11.08,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.36,
+      "end": 14.22,
+      "text": "dưới vóa tình gửi nhà trủ hương để phai tự đồng.",
+      "words": [
+        {
+          "word": "dưới",
+          "start": 11.36,
+          "end": 11.48,
+          "probability": 0.56
+        },
+        {
+          "word": "vóa",
+          "start": 11.48,
+          "end": 11.78,
+          "probability": 0.52
+        },
+        {
+          "word": "tình",
+          "start": 11.78,
+          "end": 12.02,
+          "probability": 0.44
+        },
+        {
+          "word": "gửi",
+          "start": 12.02,
+          "end": 12.24,
+          "probability": 0.56
+        },
+        {
+          "word": "nhà",
+          "start": 12.24,
+          "end": 12.52,
+          "probability": 0.83
+        },
+        {
+          "word": "trủ",
+          "start": 12.52,
+          "end": 12.78,
+          "probability": 0.48
+        },
+        {
+          "word": "hương",
+          "start": 12.78,
+          "end": 13.12,
+          "probability": 0.88
+        },
+        {
+          "word": "để",
+          "start": 13.12,
+          "end": 13.44,
+          "probability": 0.86
+        },
+        {
+          "word": "phai",
+          "start": 13.44,
+          "end": 13.68,
+          "probability": 0.31
+        },
+        {
+          "word": "tự",
+          "start": 13.68,
+          "end": 13.86,
+          "probability": 0.46
+        },
+        {
+          "word": "đồng.",
+          "start": 13.86,
+          "end": 14.22,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.92,
+      "end": 20.12,
+      "text": "Chẳng là thủ biến của em đi em không được trủ biến mà em cũng không xong hiểu sợ giá là một mùa mưa để trưa,",
+      "words": [
+        {
+          "word": "Chẳng",
+          "start": 14.92,
+          "end": 15.06,
+          "probability": 0.56
+        },
+        {
+          "word": "là",
+          "start": 15.06,
+          "end": 15.22,
+          "probability": 0.16
+        },
+        {
+          "word": "thủ",
+          "start": 15.22,
+          "end": 15.48,
+          "probability": 0.72
+        },
+        {
+          "word": "biến",
+          "start": 15.48,
+          "end": 15.78,
+          "probability": 0.66
+        },
+        {
+          "word": "của",
+          "start": 15.78,
+          "end": 16.4,
+          "probability": 0.29
+        },
+        {
+          "word": "em",
+          "start": 16.4,
+          "end": 16.68,
+          "probability": 0.57
+        },
+        {
+          "word": "đi",
+          "start": 16.68,
+          "end": 16.82,
+          "probability": 0.13
+        },
+        {
+          "word": "em",
+          "start": 16.82,
+          "end": 17.02,
+          "probability": 0.26
+        },
+        {
+          "word": "không",
+          "start": 17.02,
+          "end": 17.14,
+          "probability": 0.68
+        },
+        {
+          "word": "được",
+          "start": 17.14,
+          "end": 17.34,
+          "probability": 0.16
+        },
+        {
+          "word": "trủ",
+          "start": 17.34,
+          "end": 17.5,
+          "probability": 0.6
+        },
+        {
+          "word": "biến",
+          "start": 17.5,
+          "end": 17.68,
+          "probability": 0.99
+        },
+        {
+          "word": "mà",
+          "start": 17.68,
+          "end": 17.88,
+          "probability": 0.46
+        },
+        {
+          "word": "em",
+          "start": 17.88,
+          "end": 18.12,
+          "probability": 0.91
+        },
+        {
+          "word": "cũng",
+          "start": 18.12,
+          "end": 18.3,
+          "probability": 0.57
+        },
+        {
+          "word": "không",
+          "start": 18.3,
+          "end": 18.52,
+          "probability": 0.94
+        },
+        {
+          "word": "xong",
+          "start": 18.52,
+          "end": 18.7,
+          "probability": 0.27
+        },
+        {
+          "word": "hiểu",
+          "start": 18.7,
+          "end": 18.94,
+          "probability": 0.27
+        },
+        {
+          "word": "sợ",
+          "start": 18.94,
+          "end": 19.12,
+          "probability": 0.32
+        },
+        {
+          "word": "giá",
+          "start": 19.12,
+          "end": 19.32,
+          "probability": 0.39
+        },
+        {
+          "word": "là",
+          "start": 19.32,
+          "end": 19.48,
+          "probability": 0.14
+        },
+        {
+          "word": "một",
+          "start": 19.48,
+          "end": 19.6,
+          "probability": 0.24
+        },
+        {
+          "word": "mùa",
+          "start": 19.6,
+          "end": 19.82,
+          "probability": 0.45
+        },
+        {
+          "word": "mưa",
+          "start": 19.82,
+          "end": 19.84,
+          "probability": 0.06
+        },
+        {
+          "word": "để",
+          "start": 19.84,
+          "end": 19.98,
+          "probability": 0.21
+        },
+        {
+          "word": "trưa,",
+          "start": 19.98,
+          "end": 20.12,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 20.3,
+      "end": 21.68,
+      "text": "phải là mê thang của phương mào.",
+      "words": [
+        {
+          "word": "phải",
+          "start": 20.3,
+          "end": 20.38,
+          "probability": 0.16
+        },
+        {
+          "word": "là",
+          "start": 20.38,
+          "end": 20.48,
+          "probability": 0.65
+        },
+        {
+          "word": "mê",
+          "start": 20.48,
+          "end": 20.7,
+          "probability": 0.4
+        },
+        {
+          "word": "thang",
+          "start": 20.7,
+          "end": 20.94,
+          "probability": 0.25
+        },
+        {
+          "word": "của",
+          "start": 20.94,
+          "end": 21.16,
+          "probability": 0.19
+        },
+        {
+          "word": "phương",
+          "start": 21.16,
+          "end": 21.28,
+          "probability": 0.5
+        },
+        {
+          "word": "mào.",
+          "start": 21.28,
+          "end": 21.68,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 22.44,
+      "end": 26.3,
+      "text": "Còn như bố em đi của mình của trua xanh giả, năng quá rộn.",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 22.44,
+          "end": 22.44,
+          "probability": 0.35
+        },
+        {
+          "word": "như",
+          "start": 22.44,
+          "end": 22.64,
+          "probability": 0.07
+        },
+        {
+          "word": "bố",
+          "start": 22.64,
+          "end": 22.9,
+          "probability": 0.2
+        },
+        {
+          "word": "em",
+          "start": 22.9,
+          "end": 23.16,
+          "probability": 0.91
+        },
+        {
+          "word": "đi",
+          "start": 23.16,
+          "end": 23.46,
+          "probability": 0.54
+        },
+        {
+          "word": "của",
+          "start": 23.46,
+          "end": 23.66,
+          "probability": 0.21
+        },
+        {
+          "word": "mình",
+          "start": 23.66,
+          "end": 23.86,
+          "probability": 0.33
+        },
+        {
+          "word": "của",
+          "start": 23.86,
+          "end": 24.0,
+          "probability": 0.74
+        },
+        {
+          "word": "trua",
+          "start": 24.0,
+          "end": 24.24,
+          "probability": 0.24
+        },
+        {
+          "word": "xanh",
+          "start": 24.24,
+          "end": 24.58,
+          "probability": 0.31
+        },
+        {
+          "word": "giả,",
+          "start": 24.58,
+          "end": 25.18,
+          "probability": 0.31
+        },
+        {
+          "word": "năng",
+          "start": 25.56,
+          "end": 25.56,
+          "probability": 0.51
+        },
+        {
+          "word": "quá",
+          "start": 25.56,
+          "end": 25.76,
+          "probability": 0.38
+        },
+        {
+          "word": "rộn.",
+          "start": 25.76,
+          "end": 26.3,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 26.44,
+      "end": 29.7,
+      "text": "Tìm bỏ biển thêm rất là sợ, tình yến sợ về cảm xúc mở mày.",
+      "words": [
+        {
+          "word": "Tìm",
+          "start": 26.44,
+          "end": 26.48,
+          "probability": 0.53
+        },
+        {
+          "word": "bỏ",
+          "start": 26.48,
+          "end": 26.64,
+          "probability": 0.27
+        },
+        {
+          "word": "biển",
+          "start": 26.64,
+          "end": 26.82,
+          "probability": 0.34
+        },
+        {
+          "word": "thêm",
+          "start": 26.82,
+          "end": 27.06,
+          "probability": 0.65
+        },
+        {
+          "word": "rất",
+          "start": 27.06,
+          "end": 27.24,
+          "probability": 0.84
+        },
+        {
+          "word": "là",
+          "start": 27.24,
+          "end": 27.4,
+          "probability": 0.43
+        },
+        {
+          "word": "sợ,",
+          "start": 27.4,
+          "end": 27.7,
+          "probability": 0.6
+        },
+        {
+          "word": "tình",
+          "start": 27.88,
+          "end": 27.98,
+          "probability": 0.45
+        },
+        {
+          "word": "yến",
+          "start": 27.98,
+          "end": 28.36,
+          "probability": 0.14
+        },
+        {
+          "word": "sợ",
+          "start": 28.36,
+          "end": 28.62,
+          "probability": 0.61
+        },
+        {
+          "word": "về",
+          "start": 28.62,
+          "end": 28.82,
+          "probability": 0.13
+        },
+        {
+          "word": "cảm",
+          "start": 28.82,
+          "end": 29.04,
+          "probability": 0.77
+        },
+        {
+          "word": "xúc",
+          "start": 29.04,
+          "end": 29.2,
+          "probability": 0.55
+        },
+        {
+          "word": "mở",
+          "start": 29.2,
+          "end": 29.48,
+          "probability": 0.55
+        },
+        {
+          "word": "mày.",
+          "start": 29.48,
+          "end": 29.7,
+          "probability": 0.27
+        }
+      ]
+    }
+  ]
+}

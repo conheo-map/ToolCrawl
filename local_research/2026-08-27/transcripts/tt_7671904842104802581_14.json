@@ -1,0 +1,600 @@
+{
+  "item_id": "tt_7671904842104802581_14",
+  "duration_seconds": 26.13,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 89,
+  "text": "và không có nơi là cái nước thôi, dịch là nước thôi, chừng và không lấy nảo không lấy tội ý. Vì chỉ, lấy người hấp lưng, chứ không phải chình nảo. Chứ có thích lượng là cái không có bị sống nữa. Dạ ra chứa đánh và chỉ lấy cái nước là thôi. Đấy đôi khi, dịch nó tự ý tượng là lấy cái nảo, vì tội ra, không phải, nhưng tôi chỉ lấy cái nước. Sẵn sắp tự nhiên nảo và lấy vị trìa, dưới thích lưng.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.3,
+      "end": 5.9,
+      "text": "và không có nơi là cái nước thôi, dịch là nước thôi, chừng và không lấy nảo không lấy tội ý.",
+      "words": [
+        {
+          "word": "và",
+          "start": 0.3,
+          "end": 0.6,
+          "probability": 0.06
+        },
+        {
+          "word": "không",
+          "start": 0.6,
+          "end": 0.9,
+          "probability": 0.18
+        },
+        {
+          "word": "có",
+          "start": 0.9,
+          "end": 1.56,
+          "probability": 0.93
+        },
+        {
+          "word": "nơi",
+          "start": 1.56,
+          "end": 1.74,
+          "probability": 0.23
+        },
+        {
+          "word": "là",
+          "start": 1.74,
+          "end": 1.8,
+          "probability": 0.49
+        },
+        {
+          "word": "cái",
+          "start": 1.8,
+          "end": 1.98,
+          "probability": 0.17
+        },
+        {
+          "word": "nước",
+          "start": 1.98,
+          "end": 2.16,
+          "probability": 0.91
+        },
+        {
+          "word": "thôi,",
+          "start": 2.16,
+          "end": 2.5,
+          "probability": 0.21
+        },
+        {
+          "word": "dịch",
+          "start": 2.9,
+          "end": 3.02,
+          "probability": 0.6
+        },
+        {
+          "word": "là",
+          "start": 3.02,
+          "end": 3.3,
+          "probability": 0.34
+        },
+        {
+          "word": "nước",
+          "start": 3.3,
+          "end": 3.52,
+          "probability": 0.98
+        },
+        {
+          "word": "thôi,",
+          "start": 3.52,
+          "end": 3.78,
+          "probability": 0.97
+        },
+        {
+          "word": "chừng",
+          "start": 3.86,
+          "end": 4.08,
+          "probability": 0.22
+        },
+        {
+          "word": "và",
+          "start": 4.08,
+          "end": 4.22,
+          "probability": 0.26
+        },
+        {
+          "word": "không",
+          "start": 4.22,
+          "end": 4.42,
+          "probability": 0.7
+        },
+        {
+          "word": "lấy",
+          "start": 4.42,
+          "end": 4.56,
+          "probability": 0.67
+        },
+        {
+          "word": "nảo",
+          "start": 4.56,
+          "end": 4.82,
+          "probability": 0.49
+        },
+        {
+          "word": "không",
+          "start": 4.82,
+          "end": 5.06,
+          "probability": 0.3
+        },
+        {
+          "word": "lấy",
+          "start": 5.06,
+          "end": 5.18,
+          "probability": 0.69
+        },
+        {
+          "word": "tội",
+          "start": 5.18,
+          "end": 5.68,
+          "probability": 0.44
+        },
+        {
+          "word": "ý.",
+          "start": 5.68,
+          "end": 5.9,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.2,
+      "end": 9.3,
+      "text": "Vì chỉ, lấy người hấp lưng, chứ không phải chình nảo.",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 6.2,
+          "end": 6.22,
+          "probability": 0.47
+        },
+        {
+          "word": "chỉ,",
+          "start": 6.22,
+          "end": 6.68,
+          "probability": 0.25
+        },
+        {
+          "word": "lấy",
+          "start": 6.8,
+          "end": 6.98,
+          "probability": 0.6
+        },
+        {
+          "word": "người",
+          "start": 6.98,
+          "end": 7.18,
+          "probability": 0.17
+        },
+        {
+          "word": "hấp",
+          "start": 7.18,
+          "end": 7.74,
+          "probability": 0.44
+        },
+        {
+          "word": "lưng,",
+          "start": 7.74,
+          "end": 7.98,
+          "probability": 0.53
+        },
+        {
+          "word": "chứ",
+          "start": 8.06,
+          "end": 8.22,
+          "probability": 0.27
+        },
+        {
+          "word": "không",
+          "start": 8.22,
+          "end": 8.42,
+          "probability": 0.97
+        },
+        {
+          "word": "phải",
+          "start": 8.42,
+          "end": 8.6,
+          "probability": 0.91
+        },
+        {
+          "word": "chình",
+          "start": 8.6,
+          "end": 8.78,
+          "probability": 0.1
+        },
+        {
+          "word": "nảo.",
+          "start": 8.78,
+          "end": 9.3,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.86,
+      "end": 11.8,
+      "text": "Chứ có thích lượng là cái không có bị sống nữa.",
+      "words": [
+        {
+          "word": "Chứ",
+          "start": 9.86,
+          "end": 9.86,
+          "probability": 0.41
+        },
+        {
+          "word": "có",
+          "start": 9.86,
+          "end": 10.0,
+          "probability": 0.17
+        },
+        {
+          "word": "thích",
+          "start": 10.0,
+          "end": 10.12,
+          "probability": 0.53
+        },
+        {
+          "word": "lượng",
+          "start": 10.12,
+          "end": 10.26,
+          "probability": 0.59
+        },
+        {
+          "word": "là",
+          "start": 10.26,
+          "end": 10.58,
+          "probability": 0.71
+        },
+        {
+          "word": "cái",
+          "start": 10.58,
+          "end": 10.68,
+          "probability": 0.19
+        },
+        {
+          "word": "không",
+          "start": 10.68,
+          "end": 10.8,
+          "probability": 0.5
+        },
+        {
+          "word": "có",
+          "start": 10.8,
+          "end": 10.92,
+          "probability": 0.9
+        },
+        {
+          "word": "bị",
+          "start": 10.92,
+          "end": 11.12,
+          "probability": 0.71
+        },
+        {
+          "word": "sống",
+          "start": 11.12,
+          "end": 11.32,
+          "probability": 0.72
+        },
+        {
+          "word": "nữa.",
+          "start": 11.32,
+          "end": 11.8,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.22,
+      "end": 14.12,
+      "text": "Dạ ra chứa đánh và chỉ lấy cái nước là thôi.",
+      "words": [
+        {
+          "word": "Dạ",
+          "start": 12.22,
+          "end": 12.22,
+          "probability": 0.38
+        },
+        {
+          "word": "ra",
+          "start": 12.22,
+          "end": 12.32,
+          "probability": 0.16
+        },
+        {
+          "word": "chứa",
+          "start": 12.32,
+          "end": 12.58,
+          "probability": 0.15
+        },
+        {
+          "word": "đánh",
+          "start": 12.58,
+          "end": 12.8,
+          "probability": 0.23
+        },
+        {
+          "word": "và",
+          "start": 12.8,
+          "end": 12.98,
+          "probability": 0.28
+        },
+        {
+          "word": "chỉ",
+          "start": 12.98,
+          "end": 13.16,
+          "probability": 0.56
+        },
+        {
+          "word": "lấy",
+          "start": 13.16,
+          "end": 13.22,
+          "probability": 0.87
+        },
+        {
+          "word": "cái",
+          "start": 13.22,
+          "end": 13.36,
+          "probability": 0.34
+        },
+        {
+          "word": "nước",
+          "start": 13.36,
+          "end": 13.52,
+          "probability": 0.99
+        },
+        {
+          "word": "là",
+          "start": 13.52,
+          "end": 13.8,
+          "probability": 0.22
+        },
+        {
+          "word": "thôi.",
+          "start": 13.8,
+          "end": 14.12,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.98,
+      "end": 19.87,
+      "text": "Đấy đôi khi, dịch nó tự ý tượng là lấy cái nảo,",
+      "words": [
+        {
+          "word": "Đấy",
+          "start": 14.98,
+          "end": 15.2,
+          "probability": 0.2
+        },
+        {
+          "word": "đôi",
+          "start": 15.2,
+          "end": 15.34,
+          "probability": 0.64
+        },
+        {
+          "word": "khi,",
+          "start": 15.34,
+          "end": 16.08,
+          "probability": 0.45
+        },
+        {
+          "word": "dịch",
+          "start": 18.09,
+          "end": 18.65,
+          "probability": 0.6
+        },
+        {
+          "word": "nó",
+          "start": 18.65,
+          "end": 18.83,
+          "probability": 0.83
+        },
+        {
+          "word": "tự",
+          "start": 18.83,
+          "end": 19.01,
+          "probability": 0.35
+        },
+        {
+          "word": "ý",
+          "start": 19.01,
+          "end": 19.13,
+          "probability": 0.14
+        },
+        {
+          "word": "tượng",
+          "start": 19.13,
+          "end": 19.35,
+          "probability": 0.59
+        },
+        {
+          "word": "là",
+          "start": 19.35,
+          "end": 19.55,
+          "probability": 0.33
+        },
+        {
+          "word": "lấy",
+          "start": 19.55,
+          "end": 19.65,
+          "probability": 0.6
+        },
+        {
+          "word": "cái",
+          "start": 19.65,
+          "end": 19.67,
+          "probability": 0.32
+        },
+        {
+          "word": "nảo,",
+          "start": 19.67,
+          "end": 19.87,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 20.17,
+      "end": 22.55,
+      "text": "vì tội ra, không phải, nhưng tôi chỉ lấy cái nước.",
+      "words": [
+        {
+          "word": "vì",
+          "start": 20.17,
+          "end": 20.17,
+          "probability": 0.06
+        },
+        {
+          "word": "tội",
+          "start": 20.17,
+          "end": 20.17,
+          "probability": 0.16
+        },
+        {
+          "word": "ra,",
+          "start": 20.17,
+          "end": 20.45,
+          "probability": 0.63
+        },
+        {
+          "word": "không",
+          "start": 20.61,
+          "end": 20.77,
+          "probability": 0.11
+        },
+        {
+          "word": "phải,",
+          "start": 20.77,
+          "end": 21.07,
+          "probability": 0.98
+        },
+        {
+          "word": "nhưng",
+          "start": 21.35,
+          "end": 21.35,
+          "probability": 0.04
+        },
+        {
+          "word": "tôi",
+          "start": 21.35,
+          "end": 21.41,
+          "probability": 0.17
+        },
+        {
+          "word": "chỉ",
+          "start": 21.41,
+          "end": 21.63,
+          "probability": 0.98
+        },
+        {
+          "word": "lấy",
+          "start": 21.63,
+          "end": 21.69,
+          "probability": 0.99
+        },
+        {
+          "word": "cái",
+          "start": 21.69,
+          "end": 21.87,
+          "probability": 0.33
+        },
+        {
+          "word": "nước.",
+          "start": 21.87,
+          "end": 22.55,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 23.15,
+      "end": 25.81,
+      "text": "Sẵn sắp tự nhiên nảo và lấy vị trìa, dưới thích lưng.",
+      "words": [
+        {
+          "word": "Sẵn",
+          "start": 23.15,
+          "end": 23.15,
+          "probability": 0.58
+        },
+        {
+          "word": "sắp",
+          "start": 23.15,
+          "end": 23.25,
+          "probability": 0.58
+        },
+        {
+          "word": "tự",
+          "start": 23.25,
+          "end": 23.41,
+          "probability": 0.3
+        },
+        {
+          "word": "nhiên",
+          "start": 23.41,
+          "end": 23.53,
+          "probability": 0.27
+        },
+        {
+          "word": "nảo",
+          "start": 23.53,
+          "end": 23.93,
+          "probability": 0.58
+        },
+        {
+          "word": "và",
+          "start": 23.93,
+          "end": 24.53,
+          "probability": 0.74
+        },
+        {
+          "word": "lấy",
+          "start": 24.53,
+          "end": 24.75,
+          "probability": 0.87
+        },
+        {
+          "word": "vị",
+          "start": 24.75,
+          "end": 25.13,
+          "probability": 0.23
+        },
+        {
+          "word": "trìa,",
+          "start": 25.13,
+          "end": 25.41,
+          "probability": 0.34
+        },
+        {
+          "word": "dưới",
+          "start": 25.41,
+          "end": 25.57,
+          "probability": 0.59
+        },
+        {
+          "word": "thích",
+          "start": 25.57,
+          "end": 25.69,
+          "probability": 0.69
+        },
+        {
+          "word": "lưng.",
+          "start": 25.69,
+          "end": 25.81,
+          "probability": 0.72
+        }
+      ]
+    }
+  ]
+}

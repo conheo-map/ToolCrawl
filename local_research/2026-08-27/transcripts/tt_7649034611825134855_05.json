@@ -1,0 +1,92 @@
+{
+  "item_id": "tt_7649034611825134855_05",
+  "duration_seconds": 12.36,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 11,
+  "text": "Mọi người, vô sỳ vảm ổ nhiêu ở Đông  năm 2019",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.34,
+      "text": "Mọi người, vô sỳ vảm ổ nhiêu ở",
+      "words": [
+        {
+          "word": "Mọi",
+          "start": 0.0,
+          "end": 0.48,
+          "probability": 0.11
+        },
+        {
+          "word": "người,",
+          "start": 0.48,
+          "end": 0.74,
+          "probability": 0.78
+        },
+        {
+          "word": "vô",
+          "start": 1.16,
+          "end": 2.08,
+          "probability": 0.12
+        },
+        {
+          "word": "sỳ",
+          "start": 2.08,
+          "end": 2.28,
+          "probability": 0.31
+        },
+        {
+          "word": "vảm",
+          "start": 2.28,
+          "end": 2.62,
+          "probability": 0.26
+        },
+        {
+          "word": "ổ",
+          "start": 2.62,
+          "end": 2.7,
+          "probability": 0.32
+        },
+        {
+          "word": "nhiêu",
+          "start": 2.7,
+          "end": 2.86,
+          "probability": 0.13
+        },
+        {
+          "word": "ở",
+          "start": 2.86,
+          "end": 3.34,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.34,
+      "end": 5.2,
+      "text": "Đông  năm 2019",
+      "words": [
+        {
+          "word": "Đông",
+          "start": 3.34,
+          "end": 4.48,
+          "probability": 0.42
+        },
+        {
+          "word": "năm",
+          "start": 4.82,
+          "end": 4.82,
+          "probability": 0.0
+        },
+        {
+          "word": "2019",
+          "start": 4.82,
+          "end": 5.2,
+          "probability": 0.07
+        }
+      ]
+    }
+  ]
+}

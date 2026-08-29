@@ -1,0 +1,486 @@
+{
+  "item_id": "tt_7650072971985292562_06",
+  "duration_seconds": 28.11,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 74,
+  "text": "Tôi chỉ bạn và bàn thài rất là vui vẻ khi mà nó khi ý tưởng làm cái sinh nhật biết mặt này có anh hải, anh hải lành chọng. Bàn thài rất thằng xây rất thương thủ. Bàn ấy sẽ trọng cho anh chọng những kê bó bông đẹp nhất. Và bánh kêm đẹp nhất, bánh gôn sau cho cái ý nghĩa nhất để cho cảm thấy anh hải của anh bàn thài.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 10.66,
+      "text": "Tôi chỉ bạn và bàn thài rất là vui vẻ khi mà nó khi ý tưởng làm cái sinh nhật biết mặt này có anh hải, anh hải lành chọng.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 0.0,
+          "end": 0.96,
+          "probability": 0.19
+        },
+        {
+          "word": "chỉ",
+          "start": 0.96,
+          "end": 1.12,
+          "probability": 0.13
+        },
+        {
+          "word": "bạn",
+          "start": 1.12,
+          "end": 1.42,
+          "probability": 0.44
+        },
+        {
+          "word": "và",
+          "start": 1.42,
+          "end": 2.88,
+          "probability": 0.19
+        },
+        {
+          "word": "bàn",
+          "start": 2.88,
+          "end": 3.24,
+          "probability": 0.21
+        },
+        {
+          "word": "thài",
+          "start": 3.24,
+          "end": 3.52,
+          "probability": 0.44
+        },
+        {
+          "word": "rất",
+          "start": 3.52,
+          "end": 4.92,
+          "probability": 0.08
+        },
+        {
+          "word": "là",
+          "start": 4.92,
+          "end": 5.1,
+          "probability": 0.41
+        },
+        {
+          "word": "vui",
+          "start": 5.1,
+          "end": 5.26,
+          "probability": 0.77
+        },
+        {
+          "word": "vẻ",
+          "start": 5.26,
+          "end": 5.54,
+          "probability": 0.53
+        },
+        {
+          "word": "khi",
+          "start": 5.54,
+          "end": 5.92,
+          "probability": 0.87
+        },
+        {
+          "word": "mà",
+          "start": 5.92,
+          "end": 6.18,
+          "probability": 0.25
+        },
+        {
+          "word": "nó",
+          "start": 6.18,
+          "end": 6.4,
+          "probability": 0.12
+        },
+        {
+          "word": "khi",
+          "start": 6.4,
+          "end": 6.54,
+          "probability": 0.59
+        },
+        {
+          "word": "ý",
+          "start": 6.54,
+          "end": 6.72,
+          "probability": 0.2
+        },
+        {
+          "word": "tưởng",
+          "start": 6.72,
+          "end": 6.96,
+          "probability": 0.63
+        },
+        {
+          "word": "làm",
+          "start": 6.96,
+          "end": 7.32,
+          "probability": 0.81
+        },
+        {
+          "word": "cái",
+          "start": 7.32,
+          "end": 7.46,
+          "probability": 0.3
+        },
+        {
+          "word": "sinh",
+          "start": 7.46,
+          "end": 7.68,
+          "probability": 0.61
+        },
+        {
+          "word": "nhật",
+          "start": 7.68,
+          "end": 8.02,
+          "probability": 0.69
+        },
+        {
+          "word": "biết",
+          "start": 8.02,
+          "end": 8.34,
+          "probability": 0.44
+        },
+        {
+          "word": "mặt",
+          "start": 8.34,
+          "end": 8.58,
+          "probability": 0.6
+        },
+        {
+          "word": "này",
+          "start": 8.58,
+          "end": 8.86,
+          "probability": 0.82
+        },
+        {
+          "word": "có",
+          "start": 8.86,
+          "end": 9.08,
+          "probability": 0.33
+        },
+        {
+          "word": "anh",
+          "start": 9.08,
+          "end": 9.4,
+          "probability": 0.38
+        },
+        {
+          "word": "hải,",
+          "start": 9.4,
+          "end": 9.54,
+          "probability": 0.27
+        },
+        {
+          "word": "anh",
+          "start": 9.54,
+          "end": 9.72,
+          "probability": 0.91
+        },
+        {
+          "word": "hải",
+          "start": 9.72,
+          "end": 9.92,
+          "probability": 0.96
+        },
+        {
+          "word": "lành",
+          "start": 9.92,
+          "end": 10.22,
+          "probability": 0.5
+        },
+        {
+          "word": "chọng.",
+          "start": 10.22,
+          "end": 10.66,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 11.88,
+      "end": 14.46,
+      "text": "Bàn thài rất thằng xây rất thương thủ.",
+      "words": [
+        {
+          "word": "Bàn",
+          "start": 11.88,
+          "end": 11.94,
+          "probability": 0.77
+        },
+        {
+          "word": "thài",
+          "start": 11.94,
+          "end": 12.54,
+          "probability": 0.44
+        },
+        {
+          "word": "rất",
+          "start": 12.54,
+          "end": 13.12,
+          "probability": 0.59
+        },
+        {
+          "word": "thằng",
+          "start": 13.12,
+          "end": 13.38,
+          "probability": 0.31
+        },
+        {
+          "word": "xây",
+          "start": 13.38,
+          "end": 13.6,
+          "probability": 0.36
+        },
+        {
+          "word": "rất",
+          "start": 13.6,
+          "end": 13.86,
+          "probability": 0.54
+        },
+        {
+          "word": "thương",
+          "start": 13.86,
+          "end": 14.02,
+          "probability": 0.64
+        },
+        {
+          "word": "thủ.",
+          "start": 14.02,
+          "end": 14.46,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 14.94,
+      "end": 20.74,
+      "text": "Bàn ấy sẽ trọng cho anh chọng những kê bó bông đẹp nhất.",
+      "words": [
+        {
+          "word": "Bàn",
+          "start": 14.94,
+          "end": 15.08,
+          "probability": 0.62
+        },
+        {
+          "word": "ấy",
+          "start": 15.08,
+          "end": 15.62,
+          "probability": 0.36
+        },
+        {
+          "word": "sẽ",
+          "start": 15.62,
+          "end": 16.94,
+          "probability": 0.21
+        },
+        {
+          "word": "trọng",
+          "start": 16.94,
+          "end": 17.54,
+          "probability": 0.6
+        },
+        {
+          "word": "cho",
+          "start": 17.54,
+          "end": 18.12,
+          "probability": 0.36
+        },
+        {
+          "word": "anh",
+          "start": 18.12,
+          "end": 18.36,
+          "probability": 0.19
+        },
+        {
+          "word": "chọng",
+          "start": 18.36,
+          "end": 18.84,
+          "probability": 0.7
+        },
+        {
+          "word": "những",
+          "start": 18.84,
+          "end": 19.1,
+          "probability": 0.62
+        },
+        {
+          "word": "kê",
+          "start": 19.1,
+          "end": 19.84,
+          "probability": 0.43
+        },
+        {
+          "word": "bó",
+          "start": 19.84,
+          "end": 20.02,
+          "probability": 0.55
+        },
+        {
+          "word": "bông",
+          "start": 20.02,
+          "end": 20.22,
+          "probability": 0.47
+        },
+        {
+          "word": "đẹp",
+          "start": 20.22,
+          "end": 20.4,
+          "probability": 0.86
+        },
+        {
+          "word": "nhất.",
+          "start": 20.4,
+          "end": 20.74,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 21.0,
+      "end": 27.96,
+      "text": "Và bánh kêm đẹp nhất, bánh gôn sau cho cái ý nghĩa nhất để cho cảm thấy anh hải của anh bàn thài.",
+      "words": [
+        {
+          "word": "Và",
+          "start": 21.0,
+          "end": 21.16,
+          "probability": 0.42
+        },
+        {
+          "word": "bánh",
+          "start": 21.16,
+          "end": 21.36,
+          "probability": 0.34
+        },
+        {
+          "word": "kêm",
+          "start": 21.36,
+          "end": 21.6,
+          "probability": 0.41
+        },
+        {
+          "word": "đẹp",
+          "start": 21.6,
+          "end": 21.8,
+          "probability": 0.97
+        },
+        {
+          "word": "nhất,",
+          "start": 21.8,
+          "end": 22.02,
+          "probability": 0.89
+        },
+        {
+          "word": "bánh",
+          "start": 22.5,
+          "end": 22.82,
+          "probability": 0.47
+        },
+        {
+          "word": "gôn",
+          "start": 22.82,
+          "end": 23.12,
+          "probability": 0.36
+        },
+        {
+          "word": "sau",
+          "start": 23.12,
+          "end": 23.46,
+          "probability": 0.52
+        },
+        {
+          "word": "cho",
+          "start": 23.46,
+          "end": 23.76,
+          "probability": 0.8
+        },
+        {
+          "word": "cái",
+          "start": 23.76,
+          "end": 23.94,
+          "probability": 0.4
+        },
+        {
+          "word": "ý",
+          "start": 23.94,
+          "end": 24.1,
+          "probability": 0.6
+        },
+        {
+          "word": "nghĩa",
+          "start": 24.1,
+          "end": 24.24,
+          "probability": 0.58
+        },
+        {
+          "word": "nhất",
+          "start": 24.24,
+          "end": 24.56,
+          "probability": 0.63
+        },
+        {
+          "word": "để",
+          "start": 24.56,
+          "end": 25.04,
+          "probability": 0.64
+        },
+        {
+          "word": "cho",
+          "start": 25.04,
+          "end": 25.46,
+          "probability": 0.52
+        },
+        {
+          "word": "cảm",
+          "start": 25.46,
+          "end": 25.74,
+          "probability": 0.42
+        },
+        {
+          "word": "thấy",
+          "start": 25.74,
+          "end": 26.04,
+          "probability": 0.98
+        },
+        {
+          "word": "anh",
+          "start": 26.04,
+          "end": 26.38,
+          "probability": 0.92
+        },
+        {
+          "word": "hải",
+          "start": 26.38,
+          "end": 26.64,
+          "probability": 0.89
+        },
+        {
+          "word": "của",
+          "start": 26.64,
+          "end": 26.98,
+          "probability": 0.93
+        },
+        {
+          "word": "anh",
+          "start": 26.98,
+          "end": 27.54,
+          "probability": 0.36
+        },
+        {
+          "word": "bàn",
+          "start": 27.54,
+          "end": 27.64,
+          "probability": 0.72
+        },
+        {
+          "word": "thài.",
+          "start": 27.64,
+          "end": 27.96,
+          "probability": 0.93
+        }
+      ]
+    }
+  ]
+}

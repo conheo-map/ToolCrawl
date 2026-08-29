@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7652972518877187348_05",
+  "duration_seconds": 22.97,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Mình cảm ơn đến nó",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.18,
+      "end": 1.56,
+      "text": "Mình cảm ơn đến nó",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.18,
+          "end": 0.6,
+          "probability": 0.28
+        },
+        {
+          "word": "cảm",
+          "start": 0.6,
+          "end": 0.8,
+          "probability": 0.09
+        },
+        {
+          "word": "ơn",
+          "start": 0.8,
+          "end": 1.02,
+          "probability": 0.64
+        },
+        {
+          "word": "đến",
+          "start": 1.02,
+          "end": 1.26,
+          "probability": 0.07
+        },
+        {
+          "word": "nó",
+          "start": 1.26,
+          "end": 1.56,
+          "probability": 0.25
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7651114364170161428_04",
+  "duration_seconds": 28.9,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Cái gì rồi?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.53,
+      "end": 1.51,
+      "text": "Cái gì rồi?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.53,
+          "end": 0.91,
+          "probability": 0.19
+        },
+        {
+          "word": "gì",
+          "start": 0.91,
+          "end": 1.37,
+          "probability": 0.1
+        },
+        {
+          "word": "rồi?",
+          "start": 1.37,
+          "end": 1.51,
+          "probability": 0.02
+        }
+      ]
+    }
+  ]
+}

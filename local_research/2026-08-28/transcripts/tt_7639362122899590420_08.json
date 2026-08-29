@@ -1,0 +1,138 @@
+{
+  "item_id": "tt_7639362122899590420_08",
+  "duration_seconds": 8.84,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 16,
+  "text": "Bộ gặp. Thè, khi mà... Thè, như thế... Cóng bây bây giờ mọi người đã được.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.21,
+      "end": 1.19,
+      "text": "Bộ gặp.",
+      "words": [
+        {
+          "word": "Bộ",
+          "start": 0.21,
+          "end": 0.55,
+          "probability": 0.27
+        },
+        {
+          "word": "gặp.",
+          "start": 0.55,
+          "end": 1.19,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.39,
+      "end": 2.21,
+      "text": "Thè, khi mà...",
+      "words": [
+        {
+          "word": "Thè,",
+          "start": 1.39,
+          "end": 1.65,
+          "probability": 0.06
+        },
+        {
+          "word": "khi",
+          "start": 1.65,
+          "end": 1.83,
+          "probability": 0.4
+        },
+        {
+          "word": "mà...",
+          "start": 1.83,
+          "end": 2.21,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.99,
+      "end": 3.41,
+      "text": "Thè, như thế...",
+      "words": [
+        {
+          "word": "Thè,",
+          "start": 2.99,
+          "end": 3.05,
+          "probability": 0.45
+        },
+        {
+          "word": "như",
+          "start": 3.17,
+          "end": 3.19,
+          "probability": 0.05
+        },
+        {
+          "word": "thế...",
+          "start": 3.19,
+          "end": 3.41,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.09,
+      "end": 5.69,
+      "text": "Cóng bây bây giờ mọi người đã được.",
+      "words": [
+        {
+          "word": "Cóng",
+          "start": 4.09,
+          "end": 4.53,
+          "probability": 0.58
+        },
+        {
+          "word": "bây",
+          "start": 4.53,
+          "end": 4.67,
+          "probability": 0.15
+        },
+        {
+          "word": "bây",
+          "start": 4.67,
+          "end": 4.71,
+          "probability": 0.23
+        },
+        {
+          "word": "giờ",
+          "start": 4.71,
+          "end": 4.83,
+          "probability": 0.2
+        },
+        {
+          "word": "mọi",
+          "start": 4.83,
+          "end": 5.05,
+          "probability": 0.52
+        },
+        {
+          "word": "người",
+          "start": 5.05,
+          "end": 5.27,
+          "probability": 0.95
+        },
+        {
+          "word": "đã",
+          "start": 5.27,
+          "end": 5.51,
+          "probability": 0.51
+        },
+        {
+          "word": "được.",
+          "start": 5.51,
+          "end": 5.69,
+          "probability": 0.03
+        }
+      ]
+    }
+  ]
+}

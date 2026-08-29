@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7638110996619431175_05",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Nó, Nó, Nó, Nó, Nó",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.85,
+      "text": "Nó, Nó, Nó, Nó, Nó",
+      "words": [
+        {
+          "word": "Nó,",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.09
+        },
+        {
+          "word": "Nó,",
+          "start": 1.79,
+          "end": 3.13,
+          "probability": 0.52
+        },
+        {
+          "word": "Nó,",
+          "start": 3.39,
+          "end": 3.93,
+          "probability": 0.93
+        },
+        {
+          "word": "Nó,",
+          "start": 4.51,
+          "end": 4.65,
+          "probability": 0.97
+        },
+        {
+          "word": "Nó",
+          "start": 4.81,
+          "end": 4.85,
+          "probability": 0.97
+        }
+      ]
+    }
+  ]
+}

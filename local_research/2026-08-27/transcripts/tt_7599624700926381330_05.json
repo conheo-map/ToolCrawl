@@ -1,0 +1,490 @@
+{
+  "item_id": "tt_7599624700926381330_05",
+  "duration_seconds": 24.68,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 64,
+  "text": "Nghét, lời thay. Sông hứa trở về gà hoài đầu ina thì có chứ vừa. Cứ vừa mẹ. Qua ngồi làm một bằng con và đẹp. Sao bố mẹ. Dù là... Dù gờ nếu có làm một... Dù bị nhạc. Chỉ có một mình thang. Dù là... Dù gờ nếu vào của mình có con, dù là chỉ... Dù chỉ biết đạn con là...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.6,
+      "text": "Nghét, lời thay.",
+      "words": [
+        {
+          "word": "Nghét,",
+          "start": 0.02,
+          "end": 0.68,
+          "probability": 0.15
+        },
+        {
+          "word": "lời",
+          "start": 0.88,
+          "end": 0.96,
+          "probability": 0.47
+        },
+        {
+          "word": "thay.",
+          "start": 0.96,
+          "end": 1.6,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.64,
+      "end": 6.28,
+      "text": "Sông hứa trở về gà hoài đầu ina thì có chứ vừa.",
+      "words": [
+        {
+          "word": "Sông",
+          "start": 2.64,
+          "end": 2.86,
+          "probability": 0.16
+        },
+        {
+          "word": "hứa",
+          "start": 2.86,
+          "end": 3.22,
+          "probability": 0.4
+        },
+        {
+          "word": "trở",
+          "start": 3.22,
+          "end": 3.48,
+          "probability": 0.25
+        },
+        {
+          "word": "về",
+          "start": 3.48,
+          "end": 3.58,
+          "probability": 0.13
+        },
+        {
+          "word": "gà",
+          "start": 3.58,
+          "end": 3.78,
+          "probability": 0.27
+        },
+        {
+          "word": "hoài",
+          "start": 3.78,
+          "end": 3.98,
+          "probability": 0.57
+        },
+        {
+          "word": "đầu",
+          "start": 3.98,
+          "end": 4.12,
+          "probability": 0.79
+        },
+        {
+          "word": "ina",
+          "start": 4.12,
+          "end": 4.38,
+          "probability": 0.17
+        },
+        {
+          "word": "thì",
+          "start": 4.38,
+          "end": 4.7,
+          "probability": 0.17
+        },
+        {
+          "word": "có",
+          "start": 4.7,
+          "end": 5.28,
+          "probability": 0.1
+        },
+        {
+          "word": "chứ",
+          "start": 5.28,
+          "end": 5.7,
+          "probability": 0.16
+        },
+        {
+          "word": "vừa.",
+          "start": 5.7,
+          "end": 6.28,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.28,
+      "end": 8.42,
+      "text": "Cứ vừa mẹ.",
+      "words": [
+        {
+          "word": "Cứ",
+          "start": 6.28,
+          "end": 6.46,
+          "probability": 0.51
+        },
+        {
+          "word": "vừa",
+          "start": 6.46,
+          "end": 6.8,
+          "probability": 0.75
+        },
+        {
+          "word": "mẹ.",
+          "start": 6.8,
+          "end": 8.42,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.36,
+      "end": 11.34,
+      "text": "Qua ngồi làm một bằng con và đẹp.",
+      "words": [
+        {
+          "word": "Qua",
+          "start": 9.36,
+          "end": 9.88,
+          "probability": 0.07
+        },
+        {
+          "word": "ngồi",
+          "start": 9.88,
+          "end": 10.06,
+          "probability": 0.35
+        },
+        {
+          "word": "làm",
+          "start": 10.06,
+          "end": 10.28,
+          "probability": 0.24
+        },
+        {
+          "word": "một",
+          "start": 10.28,
+          "end": 10.54,
+          "probability": 0.11
+        },
+        {
+          "word": "bằng",
+          "start": 10.54,
+          "end": 10.84,
+          "probability": 0.44
+        },
+        {
+          "word": "con",
+          "start": 10.84,
+          "end": 10.92,
+          "probability": 0.87
+        },
+        {
+          "word": "và",
+          "start": 10.92,
+          "end": 11.18,
+          "probability": 0.46
+        },
+        {
+          "word": "đẹp.",
+          "start": 11.18,
+          "end": 11.34,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.9,
+      "end": 14.26,
+      "text": "Sao bố mẹ.",
+      "words": [
+        {
+          "word": "Sao",
+          "start": 12.9,
+          "end": 13.42,
+          "probability": 0.18
+        },
+        {
+          "word": "bố",
+          "start": 13.42,
+          "end": 13.54,
+          "probability": 0.52
+        },
+        {
+          "word": "mẹ.",
+          "start": 13.54,
+          "end": 14.26,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.64,
+      "end": 15.36,
+      "text": "Dù là...",
+      "words": [
+        {
+          "word": "Dù",
+          "start": 14.64,
+          "end": 14.64,
+          "probability": 0.08
+        },
+        {
+          "word": "là...",
+          "start": 14.64,
+          "end": 15.36,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.36,
+      "end": 17.3,
+      "text": "Dù gờ nếu có làm một...",
+      "words": [
+        {
+          "word": "Dù",
+          "start": 15.36,
+          "end": 15.5,
+          "probability": 0.51
+        },
+        {
+          "word": "gờ",
+          "start": 15.5,
+          "end": 15.8,
+          "probability": 0.04
+        },
+        {
+          "word": "nếu",
+          "start": 15.8,
+          "end": 16.08,
+          "probability": 0.31
+        },
+        {
+          "word": "có",
+          "start": 16.08,
+          "end": 16.28,
+          "probability": 0.79
+        },
+        {
+          "word": "làm",
+          "start": 16.28,
+          "end": 16.46,
+          "probability": 0.85
+        },
+        {
+          "word": "một...",
+          "start": 16.46,
+          "end": 17.3,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 17.3,
+      "end": 17.8,
+      "text": "Dù bị nhạc.",
+      "words": [
+        {
+          "word": "Dù",
+          "start": 17.3,
+          "end": 17.3,
+          "probability": 0.56
+        },
+        {
+          "word": "bị",
+          "start": 17.3,
+          "end": 17.3,
+          "probability": 0.08
+        },
+        {
+          "word": "nhạc.",
+          "start": 17.3,
+          "end": 17.8,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 18.02,
+      "end": 18.8,
+      "text": "Chỉ có một mình thang.",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 18.02,
+          "end": 18.02,
+          "probability": 0.41
+        },
+        {
+          "word": "có",
+          "start": 18.02,
+          "end": 18.08,
+          "probability": 0.89
+        },
+        {
+          "word": "một",
+          "start": 18.08,
+          "end": 18.24,
+          "probability": 0.23
+        },
+        {
+          "word": "mình",
+          "start": 18.24,
+          "end": 18.42,
+          "probability": 0.47
+        },
+        {
+          "word": "thang.",
+          "start": 18.42,
+          "end": 18.8,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 19.76,
+      "end": 20.12,
+      "text": "Dù là...",
+      "words": [
+        {
+          "word": "Dù",
+          "start": 19.76,
+          "end": 19.86,
+          "probability": 0.72
+        },
+        {
+          "word": "là...",
+          "start": 19.86,
+          "end": 20.12,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 20.74,
+      "end": 23.52,
+      "text": "Dù gờ nếu vào của mình có con, dù là chỉ...",
+      "words": [
+        {
+          "word": "Dù",
+          "start": 20.74,
+          "end": 20.98,
+          "probability": 0.85
+        },
+        {
+          "word": "gờ",
+          "start": 20.98,
+          "end": 21.32,
+          "probability": 0.54
+        },
+        {
+          "word": "nếu",
+          "start": 21.32,
+          "end": 21.32,
+          "probability": 0.68
+        },
+        {
+          "word": "vào",
+          "start": 21.32,
+          "end": 21.76,
+          "probability": 0.06
+        },
+        {
+          "word": "của",
+          "start": 21.76,
+          "end": 21.92,
+          "probability": 0.19
+        },
+        {
+          "word": "mình",
+          "start": 21.92,
+          "end": 22.08,
+          "probability": 0.79
+        },
+        {
+          "word": "có",
+          "start": 22.08,
+          "end": 22.34,
+          "probability": 0.58
+        },
+        {
+          "word": "con,",
+          "start": 22.34,
+          "end": 22.64,
+          "probability": 0.32
+        },
+        {
+          "word": "dù",
+          "start": 22.7,
+          "end": 22.72,
+          "probability": 0.45
+        },
+        {
+          "word": "là",
+          "start": 22.72,
+          "end": 22.88,
+          "probability": 0.91
+        },
+        {
+          "word": "chỉ...",
+          "start": 22.88,
+          "end": 23.52,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 23.52,
+      "end": 24.42,
+      "text": "Dù chỉ biết đạn con là...",
+      "words": [
+        {
+          "word": "Dù",
+          "start": 23.52,
+          "end": 23.52,
+          "probability": 0.29
+        },
+        {
+          "word": "chỉ",
+          "start": 23.52,
+          "end": 23.58,
+          "probability": 0.06
+        },
+        {
+          "word": "biết",
+          "start": 23.58,
+          "end": 23.58,
+          "probability": 0.02
+        },
+        {
+          "word": "đạn",
+          "start": 23.58,
+          "end": 23.76,
+          "probability": 0.17
+        },
+        {
+          "word": "con",
+          "start": 23.76,
+          "end": 23.96,
+          "probability": 0.76
+        },
+        {
+          "word": "là...",
+          "start": 23.96,
+          "end": 24.42,
+          "probability": 0.32
+        }
+      ]
+    }
+  ]
+}

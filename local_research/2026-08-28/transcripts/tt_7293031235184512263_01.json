@@ -1,0 +1,714 @@
+{
+  "item_id": "tt_7293031235184512263_01",
+  "duration_seconds": 26.71,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 100,
+  "text": "và bắt nào cứu em với ai em rất là không quay có hơn bản thân em để cứu em đau tiến tìm, cũng được giúp cái em phải là bản thân em để tự lực tình đầu bất nền để tất cả các lần như giúp đề mình để cứu bản thân mình thì mình không thể trong trời một ai để cứu bình để tìm để cả các bạn có đăng kia học này thì bà dậy giờ các bạn ở ký năm, phải không? phùa và đưa cái em của lộ chi xếp kém học để mục",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 3.13,
+      "text": "và bắt nào cứu em với ai em rất là không quay",
+      "words": [
+        {
+          "word": "và",
+          "start": 0.11,
+          "end": 0.33,
+          "probability": 0.06
+        },
+        {
+          "word": "bắt",
+          "start": 0.33,
+          "end": 0.67,
+          "probability": 0.36
+        },
+        {
+          "word": "nào",
+          "start": 0.67,
+          "end": 0.87,
+          "probability": 0.5
+        },
+        {
+          "word": "cứu",
+          "start": 0.87,
+          "end": 1.21,
+          "probability": 0.38
+        },
+        {
+          "word": "em",
+          "start": 1.21,
+          "end": 1.39,
+          "probability": 0.71
+        },
+        {
+          "word": "với",
+          "start": 1.39,
+          "end": 1.55,
+          "probability": 0.13
+        },
+        {
+          "word": "ai",
+          "start": 1.55,
+          "end": 1.85,
+          "probability": 0.34
+        },
+        {
+          "word": "em",
+          "start": 1.85,
+          "end": 1.93,
+          "probability": 0.7
+        },
+        {
+          "word": "rất",
+          "start": 1.93,
+          "end": 2.11,
+          "probability": 0.35
+        },
+        {
+          "word": "là",
+          "start": 2.11,
+          "end": 2.41,
+          "probability": 0.23
+        },
+        {
+          "word": "không",
+          "start": 2.41,
+          "end": 2.75,
+          "probability": 0.9
+        },
+        {
+          "word": "quay",
+          "start": 2.75,
+          "end": 3.13,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.13,
+      "end": 4.99,
+      "text": "có hơn bản thân em để cứu em",
+      "words": [
+        {
+          "word": "có",
+          "start": 3.13,
+          "end": 3.59,
+          "probability": 0.19
+        },
+        {
+          "word": "hơn",
+          "start": 3.59,
+          "end": 3.79,
+          "probability": 0.6
+        },
+        {
+          "word": "bản",
+          "start": 3.79,
+          "end": 4.03,
+          "probability": 0.35
+        },
+        {
+          "word": "thân",
+          "start": 4.03,
+          "end": 4.11,
+          "probability": 0.55
+        },
+        {
+          "word": "em",
+          "start": 4.11,
+          "end": 4.31,
+          "probability": 0.88
+        },
+        {
+          "word": "để",
+          "start": 4.31,
+          "end": 4.61,
+          "probability": 0.72
+        },
+        {
+          "word": "cứu",
+          "start": 4.61,
+          "end": 4.75,
+          "probability": 0.7
+        },
+        {
+          "word": "em",
+          "start": 4.75,
+          "end": 4.99,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.99,
+      "end": 6.87,
+      "text": "đau tiến tìm, cũng được giúp cái em",
+      "words": [
+        {
+          "word": "đau",
+          "start": 4.99,
+          "end": 5.39,
+          "probability": 0.05
+        },
+        {
+          "word": "tiến",
+          "start": 5.39,
+          "end": 5.65,
+          "probability": 0.38
+        },
+        {
+          "word": "tìm,",
+          "start": 5.65,
+          "end": 6.05,
+          "probability": 0.49
+        },
+        {
+          "word": "cũng",
+          "start": 6.07,
+          "end": 6.17,
+          "probability": 0.14
+        },
+        {
+          "word": "được",
+          "start": 6.17,
+          "end": 6.27,
+          "probability": 0.2
+        },
+        {
+          "word": "giúp",
+          "start": 6.27,
+          "end": 6.43,
+          "probability": 0.63
+        },
+        {
+          "word": "cái",
+          "start": 6.43,
+          "end": 6.67,
+          "probability": 0.15
+        },
+        {
+          "word": "em",
+          "start": 6.67,
+          "end": 6.87,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.87,
+      "end": 8.11,
+      "text": "phải là bản thân em",
+      "words": [
+        {
+          "word": "phải",
+          "start": 6.87,
+          "end": 7.05,
+          "probability": 0.61
+        },
+        {
+          "word": "là",
+          "start": 7.05,
+          "end": 7.23,
+          "probability": 0.95
+        },
+        {
+          "word": "bản",
+          "start": 7.23,
+          "end": 7.41,
+          "probability": 0.64
+        },
+        {
+          "word": "thân",
+          "start": 7.41,
+          "end": 7.55,
+          "probability": 0.99
+        },
+        {
+          "word": "em",
+          "start": 7.55,
+          "end": 8.11,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.11,
+      "end": 11.25,
+      "text": "để tự lực tình đầu bất nền để tất cả các lần như giúp đề mình",
+      "words": [
+        {
+          "word": "để",
+          "start": 8.11,
+          "end": 8.47,
+          "probability": 0.11
+        },
+        {
+          "word": "tự",
+          "start": 8.47,
+          "end": 8.81,
+          "probability": 0.16
+        },
+        {
+          "word": "lực",
+          "start": 8.81,
+          "end": 9.07,
+          "probability": 0.73
+        },
+        {
+          "word": "tình",
+          "start": 9.07,
+          "end": 9.25,
+          "probability": 0.24
+        },
+        {
+          "word": "đầu",
+          "start": 9.25,
+          "end": 9.43,
+          "probability": 0.22
+        },
+        {
+          "word": "bất",
+          "start": 9.43,
+          "end": 9.67,
+          "probability": 0.21
+        },
+        {
+          "word": "nền",
+          "start": 9.67,
+          "end": 9.79,
+          "probability": 0.49
+        },
+        {
+          "word": "để",
+          "start": 9.79,
+          "end": 9.97,
+          "probability": 0.75
+        },
+        {
+          "word": "tất",
+          "start": 9.97,
+          "end": 10.11,
+          "probability": 0.1
+        },
+        {
+          "word": "cả",
+          "start": 10.11,
+          "end": 10.11,
+          "probability": 0.91
+        },
+        {
+          "word": "các",
+          "start": 10.11,
+          "end": 10.31,
+          "probability": 0.47
+        },
+        {
+          "word": "lần",
+          "start": 10.31,
+          "end": 10.51,
+          "probability": 0.43
+        },
+        {
+          "word": "như",
+          "start": 10.51,
+          "end": 10.67,
+          "probability": 0.9
+        },
+        {
+          "word": "giúp",
+          "start": 10.67,
+          "end": 10.99,
+          "probability": 0.52
+        },
+        {
+          "word": "đề",
+          "start": 10.99,
+          "end": 11.19,
+          "probability": 0.13
+        },
+        {
+          "word": "mình",
+          "start": 11.19,
+          "end": 11.25,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.25,
+      "end": 12.23,
+      "text": "để cứu bản thân mình",
+      "words": [
+        {
+          "word": "để",
+          "start": 11.25,
+          "end": 11.47,
+          "probability": 0.06
+        },
+        {
+          "word": "cứu",
+          "start": 11.47,
+          "end": 11.71,
+          "probability": 0.98
+        },
+        {
+          "word": "bản",
+          "start": 11.71,
+          "end": 11.79,
+          "probability": 0.85
+        },
+        {
+          "word": "thân",
+          "start": 11.79,
+          "end": 11.93,
+          "probability": 0.99
+        },
+        {
+          "word": "mình",
+          "start": 11.93,
+          "end": 12.23,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.23,
+      "end": 15.73,
+      "text": "thì mình không thể trong trời một ai để cứu bình để tìm để cả",
+      "words": [
+        {
+          "word": "thì",
+          "start": 12.23,
+          "end": 12.71,
+          "probability": 0.08
+        },
+        {
+          "word": "mình",
+          "start": 12.71,
+          "end": 12.89,
+          "probability": 0.76
+        },
+        {
+          "word": "không",
+          "start": 12.89,
+          "end": 13.09,
+          "probability": 0.97
+        },
+        {
+          "word": "thể",
+          "start": 13.09,
+          "end": 13.27,
+          "probability": 0.41
+        },
+        {
+          "word": "trong",
+          "start": 13.27,
+          "end": 13.53,
+          "probability": 0.26
+        },
+        {
+          "word": "trời",
+          "start": 13.53,
+          "end": 13.77,
+          "probability": 0.52
+        },
+        {
+          "word": "một",
+          "start": 13.77,
+          "end": 13.91,
+          "probability": 0.64
+        },
+        {
+          "word": "ai",
+          "start": 13.91,
+          "end": 14.19,
+          "probability": 0.85
+        },
+        {
+          "word": "để",
+          "start": 14.19,
+          "end": 14.49,
+          "probability": 0.8
+        },
+        {
+          "word": "cứu",
+          "start": 14.49,
+          "end": 14.63,
+          "probability": 0.99
+        },
+        {
+          "word": "bình",
+          "start": 14.63,
+          "end": 14.91,
+          "probability": 0.39
+        },
+        {
+          "word": "để",
+          "start": 14.91,
+          "end": 15.09,
+          "probability": 0.31
+        },
+        {
+          "word": "tìm",
+          "start": 15.09,
+          "end": 15.27,
+          "probability": 0.45
+        },
+        {
+          "word": "để",
+          "start": 15.27,
+          "end": 15.31,
+          "probability": 0.03
+        },
+        {
+          "word": "cả",
+          "start": 15.31,
+          "end": 15.73,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.73,
+      "end": 16.81,
+      "text": "các bạn có đăng kia học này",
+      "words": [
+        {
+          "word": "các",
+          "start": 15.73,
+          "end": 15.89,
+          "probability": 0.18
+        },
+        {
+          "word": "bạn",
+          "start": 15.89,
+          "end": 15.99,
+          "probability": 0.76
+        },
+        {
+          "word": "có",
+          "start": 15.99,
+          "end": 16.09,
+          "probability": 0.39
+        },
+        {
+          "word": "đăng",
+          "start": 16.09,
+          "end": 16.25,
+          "probability": 0.48
+        },
+        {
+          "word": "kia",
+          "start": 16.25,
+          "end": 16.43,
+          "probability": 0.38
+        },
+        {
+          "word": "học",
+          "start": 16.43,
+          "end": 16.59,
+          "probability": 0.68
+        },
+        {
+          "word": "này",
+          "start": 16.59,
+          "end": 16.81,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 20.94,
+      "end": 22.12,
+      "text": "thì bà dậy giờ các bạn",
+      "words": [
+        {
+          "word": "thì",
+          "start": 20.94,
+          "end": 21.16,
+          "probability": 0.2
+        },
+        {
+          "word": "bà",
+          "start": 21.16,
+          "end": 21.36,
+          "probability": 0.25
+        },
+        {
+          "word": "dậy",
+          "start": 21.36,
+          "end": 21.6,
+          "probability": 0.36
+        },
+        {
+          "word": "giờ",
+          "start": 21.6,
+          "end": 21.76,
+          "probability": 0.2
+        },
+        {
+          "word": "các",
+          "start": 21.76,
+          "end": 21.98,
+          "probability": 0.18
+        },
+        {
+          "word": "bạn",
+          "start": 21.98,
+          "end": 22.12,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 22.12,
+      "end": 23.24,
+      "text": "ở ký năm, phải không?",
+      "words": [
+        {
+          "word": "ở",
+          "start": 22.12,
+          "end": 22.36,
+          "probability": 0.09
+        },
+        {
+          "word": "ký",
+          "start": 22.36,
+          "end": 22.48,
+          "probability": 0.25
+        },
+        {
+          "word": "năm,",
+          "start": 22.48,
+          "end": 22.66,
+          "probability": 0.21
+        },
+        {
+          "word": "phải",
+          "start": 22.86,
+          "end": 22.86,
+          "probability": 0.1
+        },
+        {
+          "word": "không?",
+          "start": 22.86,
+          "end": 23.24,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 23.5,
+      "end": 24.72,
+      "text": "phùa và đưa cái em của lộ chi",
+      "words": [
+        {
+          "word": "phùa",
+          "start": 23.5,
+          "end": 23.6,
+          "probability": 0.36
+        },
+        {
+          "word": "và",
+          "start": 23.6,
+          "end": 23.78,
+          "probability": 0.63
+        },
+        {
+          "word": "đưa",
+          "start": 23.78,
+          "end": 23.92,
+          "probability": 0.85
+        },
+        {
+          "word": "cái",
+          "start": 23.92,
+          "end": 24.12,
+          "probability": 0.16
+        },
+        {
+          "word": "em",
+          "start": 24.12,
+          "end": 24.24,
+          "probability": 0.89
+        },
+        {
+          "word": "của",
+          "start": 24.24,
+          "end": 24.34,
+          "probability": 0.28
+        },
+        {
+          "word": "lộ",
+          "start": 24.34,
+          "end": 24.52,
+          "probability": 0.57
+        },
+        {
+          "word": "chi",
+          "start": 24.52,
+          "end": 24.72,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 25.3,
+      "end": 25.7,
+      "text": "xếp",
+      "words": [
+        {
+          "word": "xếp",
+          "start": 25.3,
+          "end": 25.7,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 25.7,
+      "end": 26.58,
+      "text": "kém học để mục",
+      "words": [
+        {
+          "word": "kém",
+          "start": 25.7,
+          "end": 25.98,
+          "probability": 0.35
+        },
+        {
+          "word": "học",
+          "start": 25.98,
+          "end": 26.22,
+          "probability": 0.98
+        },
+        {
+          "word": "để",
+          "start": 26.22,
+          "end": 26.4,
+          "probability": 0.14
+        },
+        {
+          "word": "mục",
+          "start": 26.4,
+          "end": 26.58,
+          "probability": 0.56
+        }
+      ]
+    }
+  ]
+}

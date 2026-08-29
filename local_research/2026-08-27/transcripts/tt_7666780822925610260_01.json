@@ -1,0 +1,722 @@
+{
+  "item_id": "tt_7666780822925610260_01",
+  "duration_seconds": 29.02,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 105,
+  "text": "Này là những hình ảnh được ghi nhận và các buổi chiều cuối tôn ngày 18,5% và 20% năm 2020, tại công viên cảnh đôi thành phố Hủ Chíming. Tình trạng chó thả giông vẫn tiếp tục diễn ra. Chó với đủ chúng loại, kích thức từ giống nội đến giống ngoại, đã phần điều không được đéo giọt mắm, vô tư trạng nhảy tự gió, ngay cho khun viên nơi có rất đông người dân, tương người ra đến trạng nhỏ đang bị giạo mà tật tự giục. Theo quan sát, không chỉ phóng uống ở buửa bãi, là mất vệ sinh mua trường.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.96,
+      "text": "Này là những hình ảnh được ghi nhận và các buổi chiều cuối tôn ngày 18,5%",
+      "words": [
+        {
+          "word": "Này",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.18
+        },
+        {
+          "word": "là",
+          "start": 0.12,
+          "end": 0.28,
+          "probability": 0.78
+        },
+        {
+          "word": "những",
+          "start": 0.28,
+          "end": 0.4,
+          "probability": 0.98
+        },
+        {
+          "word": "hình",
+          "start": 0.4,
+          "end": 0.6,
+          "probability": 0.73
+        },
+        {
+          "word": "ảnh",
+          "start": 0.6,
+          "end": 0.78,
+          "probability": 0.57
+        },
+        {
+          "word": "được",
+          "start": 0.78,
+          "end": 0.92,
+          "probability": 0.73
+        },
+        {
+          "word": "ghi",
+          "start": 0.92,
+          "end": 1.16,
+          "probability": 0.23
+        },
+        {
+          "word": "nhận",
+          "start": 1.16,
+          "end": 1.28,
+          "probability": 0.57
+        },
+        {
+          "word": "và",
+          "start": 1.28,
+          "end": 1.46,
+          "probability": 0.69
+        },
+        {
+          "word": "các",
+          "start": 1.46,
+          "end": 1.62,
+          "probability": 0.96
+        },
+        {
+          "word": "buổi",
+          "start": 1.62,
+          "end": 1.8,
+          "probability": 0.66
+        },
+        {
+          "word": "chiều",
+          "start": 1.8,
+          "end": 2.06,
+          "probability": 0.64
+        },
+        {
+          "word": "cuối",
+          "start": 2.06,
+          "end": 2.3,
+          "probability": 0.74
+        },
+        {
+          "word": "tôn",
+          "start": 2.3,
+          "end": 2.52,
+          "probability": 0.23
+        },
+        {
+          "word": "ngày",
+          "start": 2.52,
+          "end": 2.8,
+          "probability": 0.76
+        },
+        {
+          "word": "18",
+          "start": 2.8,
+          "end": 3.12,
+          "probability": 0.22
+        },
+        {
+          "word": ",5",
+          "start": 3.12,
+          "end": 3.96,
+          "probability": 0.13
+        },
+        {
+          "word": "%",
+          "start": 3.96,
+          "end": 3.96,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.96,
+      "end": 8.56,
+      "text": "và 20% năm 2020, tại công viên cảnh đôi thành phố Hủ Chíming.",
+      "words": [
+        {
+          "word": "và",
+          "start": 3.96,
+          "end": 3.96,
+          "probability": 0.17
+        },
+        {
+          "word": "20",
+          "start": 3.96,
+          "end": 4.28,
+          "probability": 0.28
+        },
+        {
+          "word": "%",
+          "start": 4.28,
+          "end": 4.64,
+          "probability": 0.66
+        },
+        {
+          "word": "năm",
+          "start": 4.64,
+          "end": 4.98,
+          "probability": 0.6
+        },
+        {
+          "word": "2020,",
+          "start": 4.98,
+          "end": 5.5,
+          "probability": 0.46
+        },
+        {
+          "word": "tại",
+          "start": 6.6,
+          "end": 6.76,
+          "probability": 0.77
+        },
+        {
+          "word": "công",
+          "start": 6.76,
+          "end": 6.96,
+          "probability": 0.8
+        },
+        {
+          "word": "viên",
+          "start": 6.96,
+          "end": 7.08,
+          "probability": 0.81
+        },
+        {
+          "word": "cảnh",
+          "start": 7.08,
+          "end": 7.34,
+          "probability": 0.72
+        },
+        {
+          "word": "đôi",
+          "start": 7.34,
+          "end": 7.58,
+          "probability": 0.51
+        },
+        {
+          "word": "thành",
+          "start": 7.58,
+          "end": 7.8,
+          "probability": 0.94
+        },
+        {
+          "word": "phố",
+          "start": 7.8,
+          "end": 7.96,
+          "probability": 0.85
+        },
+        {
+          "word": "Hủ",
+          "start": 7.96,
+          "end": 8.12,
+          "probability": 0.37
+        },
+        {
+          "word": "Chíming.",
+          "start": 8.12,
+          "end": 8.56,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.14,
+      "end": 11.22,
+      "text": "Tình trạng chó thả giông vẫn tiếp tục diễn ra.",
+      "words": [
+        {
+          "word": "Tình",
+          "start": 9.14,
+          "end": 9.14,
+          "probability": 0.83
+        },
+        {
+          "word": "trạng",
+          "start": 9.14,
+          "end": 9.34,
+          "probability": 0.68
+        },
+        {
+          "word": "chó",
+          "start": 9.34,
+          "end": 9.58,
+          "probability": 0.61
+        },
+        {
+          "word": "thả",
+          "start": 9.58,
+          "end": 9.8,
+          "probability": 0.75
+        },
+        {
+          "word": "giông",
+          "start": 9.8,
+          "end": 10.06,
+          "probability": 0.32
+        },
+        {
+          "word": "vẫn",
+          "start": 10.06,
+          "end": 10.34,
+          "probability": 0.66
+        },
+        {
+          "word": "tiếp",
+          "start": 10.34,
+          "end": 10.52,
+          "probability": 0.91
+        },
+        {
+          "word": "tục",
+          "start": 10.52,
+          "end": 10.68,
+          "probability": 0.94
+        },
+        {
+          "word": "diễn",
+          "start": 10.68,
+          "end": 10.9,
+          "probability": 0.85
+        },
+        {
+          "word": "ra.",
+          "start": 10.9,
+          "end": 11.22,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.04,
+      "end": 15.24,
+      "text": "Chó với đủ chúng loại, kích thức từ giống nội đến giống ngoại,",
+      "words": [
+        {
+          "word": "Chó",
+          "start": 12.04,
+          "end": 12.04,
+          "probability": 0.81
+        },
+        {
+          "word": "với",
+          "start": 12.04,
+          "end": 12.18,
+          "probability": 0.84
+        },
+        {
+          "word": "đủ",
+          "start": 12.18,
+          "end": 12.34,
+          "probability": 0.81
+        },
+        {
+          "word": "chúng",
+          "start": 12.34,
+          "end": 12.58,
+          "probability": 0.22
+        },
+        {
+          "word": "loại,",
+          "start": 12.58,
+          "end": 12.92,
+          "probability": 0.56
+        },
+        {
+          "word": "kích",
+          "start": 13.26,
+          "end": 13.26,
+          "probability": 0.6
+        },
+        {
+          "word": "thức",
+          "start": 13.26,
+          "end": 13.64,
+          "probability": 0.74
+        },
+        {
+          "word": "từ",
+          "start": 13.64,
+          "end": 13.94,
+          "probability": 0.49
+        },
+        {
+          "word": "giống",
+          "start": 13.94,
+          "end": 14.14,
+          "probability": 0.97
+        },
+        {
+          "word": "nội",
+          "start": 14.14,
+          "end": 14.44,
+          "probability": 0.51
+        },
+        {
+          "word": "đến",
+          "start": 14.44,
+          "end": 14.68,
+          "probability": 0.95
+        },
+        {
+          "word": "giống",
+          "start": 14.68,
+          "end": 14.86,
+          "probability": 0.96
+        },
+        {
+          "word": "ngoại,",
+          "start": 14.86,
+          "end": 15.24,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.48,
+      "end": 18.82,
+      "text": "đã phần điều không được đéo giọt mắm, vô tư trạng nhảy tự gió,",
+      "words": [
+        {
+          "word": "đã",
+          "start": 15.48,
+          "end": 15.64,
+          "probability": 0.45
+        },
+        {
+          "word": "phần",
+          "start": 15.64,
+          "end": 15.88,
+          "probability": 0.91
+        },
+        {
+          "word": "điều",
+          "start": 15.88,
+          "end": 16.1,
+          "probability": 0.71
+        },
+        {
+          "word": "không",
+          "start": 16.1,
+          "end": 16.3,
+          "probability": 0.85
+        },
+        {
+          "word": "được",
+          "start": 16.3,
+          "end": 16.44,
+          "probability": 0.93
+        },
+        {
+          "word": "đéo",
+          "start": 16.44,
+          "end": 16.64,
+          "probability": 0.27
+        },
+        {
+          "word": "giọt",
+          "start": 16.64,
+          "end": 16.86,
+          "probability": 0.57
+        },
+        {
+          "word": "mắm,",
+          "start": 16.86,
+          "end": 17.26,
+          "probability": 0.55
+        },
+        {
+          "word": "vô",
+          "start": 17.66,
+          "end": 17.68,
+          "probability": 0.93
+        },
+        {
+          "word": "tư",
+          "start": 17.68,
+          "end": 17.86,
+          "probability": 0.81
+        },
+        {
+          "word": "trạng",
+          "start": 17.86,
+          "end": 18.06,
+          "probability": 0.75
+        },
+        {
+          "word": "nhảy",
+          "start": 18.06,
+          "end": 18.3,
+          "probability": 0.57
+        },
+        {
+          "word": "tự",
+          "start": 18.3,
+          "end": 18.48,
+          "probability": 0.81
+        },
+        {
+          "word": "gió,",
+          "start": 18.48,
+          "end": 18.82,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 19.0,
+      "end": 21.08,
+      "text": "ngay cho khun viên nơi có rất đông người dân,",
+      "words": [
+        {
+          "word": "ngay",
+          "start": 19.0,
+          "end": 19.2,
+          "probability": 0.66
+        },
+        {
+          "word": "cho",
+          "start": 19.2,
+          "end": 19.34,
+          "probability": 0.88
+        },
+        {
+          "word": "khun",
+          "start": 19.34,
+          "end": 19.56,
+          "probability": 0.34
+        },
+        {
+          "word": "viên",
+          "start": 19.56,
+          "end": 19.82,
+          "probability": 0.98
+        },
+        {
+          "word": "nơi",
+          "start": 19.82,
+          "end": 20.12,
+          "probability": 0.56
+        },
+        {
+          "word": "có",
+          "start": 20.12,
+          "end": 20.3,
+          "probability": 0.65
+        },
+        {
+          "word": "rất",
+          "start": 20.3,
+          "end": 20.48,
+          "probability": 0.74
+        },
+        {
+          "word": "đông",
+          "start": 20.48,
+          "end": 20.66,
+          "probability": 0.66
+        },
+        {
+          "word": "người",
+          "start": 20.66,
+          "end": 20.84,
+          "probability": 0.77
+        },
+        {
+          "word": "dân,",
+          "start": 20.84,
+          "end": 21.08,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 21.46,
+      "end": 24.42,
+      "text": "tương người ra đến trạng nhỏ đang bị giạo mà tật tự giục.",
+      "words": [
+        {
+          "word": "tương",
+          "start": 21.46,
+          "end": 21.58,
+          "probability": 0.67
+        },
+        {
+          "word": "người",
+          "start": 21.58,
+          "end": 21.74,
+          "probability": 0.77
+        },
+        {
+          "word": "ra",
+          "start": 21.74,
+          "end": 22.06,
+          "probability": 0.71
+        },
+        {
+          "word": "đến",
+          "start": 22.06,
+          "end": 22.36,
+          "probability": 0.94
+        },
+        {
+          "word": "trạng",
+          "start": 22.36,
+          "end": 22.54,
+          "probability": 0.65
+        },
+        {
+          "word": "nhỏ",
+          "start": 22.54,
+          "end": 23.0,
+          "probability": 0.88
+        },
+        {
+          "word": "đang",
+          "start": 23.0,
+          "end": 23.28,
+          "probability": 0.49
+        },
+        {
+          "word": "bị",
+          "start": 23.28,
+          "end": 23.44,
+          "probability": 0.56
+        },
+        {
+          "word": "giạo",
+          "start": 23.44,
+          "end": 23.72,
+          "probability": 0.72
+        },
+        {
+          "word": "mà",
+          "start": 23.72,
+          "end": 23.9,
+          "probability": 0.57
+        },
+        {
+          "word": "tật",
+          "start": 23.9,
+          "end": 24.06,
+          "probability": 0.59
+        },
+        {
+          "word": "tự",
+          "start": 24.06,
+          "end": 24.18,
+          "probability": 0.43
+        },
+        {
+          "word": "giục.",
+          "start": 24.18,
+          "end": 24.42,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 25.02,
+      "end": 28.68,
+      "text": "Theo quan sát, không chỉ phóng uống ở buửa bãi, là mất vệ sinh mua trường.",
+      "words": [
+        {
+          "word": "Theo",
+          "start": 25.02,
+          "end": 25.22,
+          "probability": 0.41
+        },
+        {
+          "word": "quan",
+          "start": 25.22,
+          "end": 25.42,
+          "probability": 0.46
+        },
+        {
+          "word": "sát,",
+          "start": 25.42,
+          "end": 25.7,
+          "probability": 0.79
+        },
+        {
+          "word": "không",
+          "start": 26.08,
+          "end": 26.16,
+          "probability": 0.96
+        },
+        {
+          "word": "chỉ",
+          "start": 26.16,
+          "end": 26.36,
+          "probability": 0.91
+        },
+        {
+          "word": "phóng",
+          "start": 26.36,
+          "end": 26.58,
+          "probability": 0.71
+        },
+        {
+          "word": "uống",
+          "start": 26.58,
+          "end": 26.8,
+          "probability": 0.32
+        },
+        {
+          "word": "ở",
+          "start": 26.8,
+          "end": 26.8,
+          "probability": 0.32
+        },
+        {
+          "word": "buửa",
+          "start": 26.8,
+          "end": 27.06,
+          "probability": 0.45
+        },
+        {
+          "word": "bãi,",
+          "start": 27.06,
+          "end": 27.56,
+          "probability": 0.79
+        },
+        {
+          "word": "là",
+          "start": 27.7,
+          "end": 27.78,
+          "probability": 0.31
+        },
+        {
+          "word": "mất",
+          "start": 27.78,
+          "end": 28.0,
+          "probability": 0.88
+        },
+        {
+          "word": "vệ",
+          "start": 28.0,
+          "end": 28.18,
+          "probability": 0.48
+        },
+        {
+          "word": "sinh",
+          "start": 28.18,
+          "end": 28.32,
+          "probability": 0.84
+        },
+        {
+          "word": "mua",
+          "start": 28.32,
+          "end": 28.5,
+          "probability": 0.32
+        },
+        {
+          "word": "trường.",
+          "start": 28.5,
+          "end": 28.68,
+          "probability": 0.77
+        }
+      ]
+    }
+  ]
+}

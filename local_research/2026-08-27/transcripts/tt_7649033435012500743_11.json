@@ -1,0 +1,488 @@
+{
+  "item_id": "tt_7649033435012500743_11",
+  "duration_seconds": 24.59,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 69,
+  "text": "Bình luyên ở hỏi ở kê là quát báo dài, cháu lòng có vui, có phó kè thó là có phó ché là tình luy đi trong mắm chúc cật con chè. Không chỉ để lại dú ấn bình những mạnh trình dĩnh phó hoàn mạnh nhận. Hình ảnh các bạn chè ở lại dùng về sinh xó lễ hồi cũng nhận được sự viện từ nhiều dù khách.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.21,
+      "end": 3.75,
+      "text": "Bình luyên ở hỏi ở kê là quát báo dài,",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 0.21,
+          "end": 0.81,
+          "probability": 0.57
+        },
+        {
+          "word": "luyên",
+          "start": 0.81,
+          "end": 1.25,
+          "probability": 0.53
+        },
+        {
+          "word": "ở",
+          "start": 1.25,
+          "end": 1.51,
+          "probability": 0.16
+        },
+        {
+          "word": "hỏi",
+          "start": 1.51,
+          "end": 1.87,
+          "probability": 0.2
+        },
+        {
+          "word": "ở",
+          "start": 1.87,
+          "end": 2.19,
+          "probability": 0.17
+        },
+        {
+          "word": "kê",
+          "start": 2.19,
+          "end": 2.35,
+          "probability": 0.28
+        },
+        {
+          "word": "là",
+          "start": 2.35,
+          "end": 2.61,
+          "probability": 0.39
+        },
+        {
+          "word": "quát",
+          "start": 2.61,
+          "end": 3.21,
+          "probability": 0.1
+        },
+        {
+          "word": "báo",
+          "start": 3.21,
+          "end": 3.45,
+          "probability": 0.55
+        },
+        {
+          "word": "dài,",
+          "start": 3.45,
+          "end": 3.75,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.51,
+      "end": 5.91,
+      "text": "cháu lòng có vui,",
+      "words": [
+        {
+          "word": "cháu",
+          "start": 4.51,
+          "end": 4.93,
+          "probability": 0.47
+        },
+        {
+          "word": "lòng",
+          "start": 4.93,
+          "end": 5.13,
+          "probability": 0.4
+        },
+        {
+          "word": "có",
+          "start": 5.13,
+          "end": 5.41,
+          "probability": 0.1
+        },
+        {
+          "word": "vui,",
+          "start": 5.41,
+          "end": 5.91,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.17,
+      "end": 8.33,
+      "text": "có phó kè thó là",
+      "words": [
+        {
+          "word": "có",
+          "start": 6.17,
+          "end": 6.73,
+          "probability": 0.13
+        },
+        {
+          "word": "phó",
+          "start": 6.73,
+          "end": 7.07,
+          "probability": 0.18
+        },
+        {
+          "word": "kè",
+          "start": 7.07,
+          "end": 7.27,
+          "probability": 0.38
+        },
+        {
+          "word": "thó",
+          "start": 7.27,
+          "end": 7.51,
+          "probability": 0.55
+        },
+        {
+          "word": "là",
+          "start": 7.51,
+          "end": 8.33,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.33,
+      "end": 10.05,
+      "text": "có phó ché là",
+      "words": [
+        {
+          "word": "có",
+          "start": 8.33,
+          "end": 9.05,
+          "probability": 0.02
+        },
+        {
+          "word": "phó",
+          "start": 9.05,
+          "end": 9.39,
+          "probability": 0.9
+        },
+        {
+          "word": "ché",
+          "start": 9.39,
+          "end": 9.59,
+          "probability": 0.28
+        },
+        {
+          "word": "là",
+          "start": 9.59,
+          "end": 10.05,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 10.05,
+      "end": 12.41,
+      "text": "tình luy đi trong mắm chúc cật con chè.",
+      "words": [
+        {
+          "word": "tình",
+          "start": 10.05,
+          "end": 10.41,
+          "probability": 0.2
+        },
+        {
+          "word": "luy",
+          "start": 10.41,
+          "end": 10.65,
+          "probability": 0.43
+        },
+        {
+          "word": "đi",
+          "start": 10.65,
+          "end": 10.95,
+          "probability": 0.1
+        },
+        {
+          "word": "trong",
+          "start": 10.95,
+          "end": 11.13,
+          "probability": 0.1
+        },
+        {
+          "word": "mắm",
+          "start": 11.13,
+          "end": 11.53,
+          "probability": 0.13
+        },
+        {
+          "word": "chúc",
+          "start": 11.53,
+          "end": 11.77,
+          "probability": 0.38
+        },
+        {
+          "word": "cật",
+          "start": 11.77,
+          "end": 11.97,
+          "probability": 0.24
+        },
+        {
+          "word": "con",
+          "start": 11.97,
+          "end": 12.19,
+          "probability": 0.48
+        },
+        {
+          "word": "chè.",
+          "start": 12.19,
+          "end": 12.41,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.75,
+      "end": 19.21,
+      "text": "Không chỉ để lại dú ấn bình những mạnh trình dĩnh phó hoàn mạnh nhận.",
+      "words": [
+        {
+          "word": "Không",
+          "start": 15.75,
+          "end": 16.13,
+          "probability": 0.72
+        },
+        {
+          "word": "chỉ",
+          "start": 16.13,
+          "end": 16.29,
+          "probability": 0.62
+        },
+        {
+          "word": "để",
+          "start": 16.29,
+          "end": 16.45,
+          "probability": 0.82
+        },
+        {
+          "word": "lại",
+          "start": 16.45,
+          "end": 16.67,
+          "probability": 0.56
+        },
+        {
+          "word": "dú",
+          "start": 16.67,
+          "end": 16.79,
+          "probability": 0.33
+        },
+        {
+          "word": "ấn",
+          "start": 16.79,
+          "end": 16.99,
+          "probability": 0.3
+        },
+        {
+          "word": "bình",
+          "start": 16.99,
+          "end": 17.23,
+          "probability": 0.67
+        },
+        {
+          "word": "những",
+          "start": 17.23,
+          "end": 17.41,
+          "probability": 0.31
+        },
+        {
+          "word": "mạnh",
+          "start": 17.41,
+          "end": 17.67,
+          "probability": 0.75
+        },
+        {
+          "word": "trình",
+          "start": 17.67,
+          "end": 17.85,
+          "probability": 0.45
+        },
+        {
+          "word": "dĩnh",
+          "start": 17.85,
+          "end": 18.09,
+          "probability": 0.52
+        },
+        {
+          "word": "phó",
+          "start": 18.09,
+          "end": 18.29,
+          "probability": 0.89
+        },
+        {
+          "word": "hoàn",
+          "start": 18.29,
+          "end": 18.59,
+          "probability": 0.33
+        },
+        {
+          "word": "mạnh",
+          "start": 18.59,
+          "end": 18.75,
+          "probability": 0.78
+        },
+        {
+          "word": "nhận.",
+          "start": 18.75,
+          "end": 19.21,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 19.49,
+      "end": 22.13,
+      "text": "Hình ảnh các bạn chè ở lại dùng về sinh xó lễ hồi",
+      "words": [
+        {
+          "word": "Hình",
+          "start": 19.49,
+          "end": 19.51,
+          "probability": 0.42
+        },
+        {
+          "word": "ảnh",
+          "start": 19.51,
+          "end": 19.71,
+          "probability": 0.51
+        },
+        {
+          "word": "các",
+          "start": 19.71,
+          "end": 19.85,
+          "probability": 0.48
+        },
+        {
+          "word": "bạn",
+          "start": 19.85,
+          "end": 20.03,
+          "probability": 0.74
+        },
+        {
+          "word": "chè",
+          "start": 20.03,
+          "end": 20.23,
+          "probability": 0.53
+        },
+        {
+          "word": "ở",
+          "start": 20.23,
+          "end": 20.49,
+          "probability": 0.73
+        },
+        {
+          "word": "lại",
+          "start": 20.49,
+          "end": 20.71,
+          "probability": 0.94
+        },
+        {
+          "word": "dùng",
+          "start": 20.71,
+          "end": 20.95,
+          "probability": 0.42
+        },
+        {
+          "word": "về",
+          "start": 20.95,
+          "end": 21.15,
+          "probability": 0.43
+        },
+        {
+          "word": "sinh",
+          "start": 21.15,
+          "end": 21.33,
+          "probability": 0.9
+        },
+        {
+          "word": "xó",
+          "start": 21.33,
+          "end": 21.57,
+          "probability": 0.38
+        },
+        {
+          "word": "lễ",
+          "start": 21.57,
+          "end": 21.73,
+          "probability": 0.32
+        },
+        {
+          "word": "hồi",
+          "start": 21.73,
+          "end": 22.13,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 22.13,
+      "end": 24.29,
+      "text": "cũng nhận được sự viện từ nhiều dù khách.",
+      "words": [
+        {
+          "word": "cũng",
+          "start": 22.13,
+          "end": 22.41,
+          "probability": 0.78
+        },
+        {
+          "word": "nhận",
+          "start": 22.41,
+          "end": 22.63,
+          "probability": 0.69
+        },
+        {
+          "word": "được",
+          "start": 22.63,
+          "end": 22.77,
+          "probability": 0.88
+        },
+        {
+          "word": "sự",
+          "start": 22.77,
+          "end": 22.99,
+          "probability": 0.95
+        },
+        {
+          "word": "viện",
+          "start": 22.99,
+          "end": 23.31,
+          "probability": 0.33
+        },
+        {
+          "word": "từ",
+          "start": 23.31,
+          "end": 23.63,
+          "probability": 0.41
+        },
+        {
+          "word": "nhiều",
+          "start": 23.63,
+          "end": 23.91,
+          "probability": 0.43
+        },
+        {
+          "word": "dù",
+          "start": 23.91,
+          "end": 24.15,
+          "probability": 0.37
+        },
+        {
+          "word": "khách.",
+          "start": 24.15,
+          "end": 24.29,
+          "probability": 0.52
+        }
+      ]
+    }
+  ]
+}

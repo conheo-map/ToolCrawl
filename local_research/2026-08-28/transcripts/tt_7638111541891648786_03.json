@@ -1,0 +1,66 @@
+{
+  "item_id": "tt_7638111541891648786_03",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 8,
+  "text": "And then I'll be the one to play",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.82,
+      "text": "And then I'll be the one to play",
+      "words": [
+        {
+          "word": "And",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.03
+        },
+        {
+          "word": "then",
+          "start": 0.36,
+          "end": 0.58,
+          "probability": 0.78
+        },
+        {
+          "word": "I'll",
+          "start": 0.58,
+          "end": 0.9,
+          "probability": 0.18
+        },
+        {
+          "word": "be",
+          "start": 3.3,
+          "end": 3.3,
+          "probability": 0.24
+        },
+        {
+          "word": "the",
+          "start": 3.3,
+          "end": 3.38,
+          "probability": 0.03
+        },
+        {
+          "word": "one",
+          "start": 3.38,
+          "end": 3.58,
+          "probability": 0.11
+        },
+        {
+          "word": "to",
+          "start": 3.58,
+          "end": 3.58,
+          "probability": 0.56
+        },
+        {
+          "word": "play",
+          "start": 3.58,
+          "end": 3.82,
+          "probability": 0.03
+        }
+      ]
+    }
+  ]
+}

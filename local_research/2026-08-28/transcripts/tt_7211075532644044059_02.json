@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7211075532644044059_02",
+  "duration_seconds": 25.95,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Hẹn gặp, hẹn gặp.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.54,
+      "text": "Hẹn gặp, hẹn gặp.",
+      "words": [
+        {
+          "word": "Hẹn",
+          "start": 0.0,
+          "end": 0.0,
+          "probability": 0.17
+        },
+        {
+          "word": "gặp,",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.68
+        },
+        {
+          "word": "hẹn",
+          "start": 0.26,
+          "end": 0.54,
+          "probability": 0.7
+        },
+        {
+          "word": "gặp.",
+          "start": 0.54,
+          "end": 0.54,
+          "probability": 0.99
+        }
+      ]
+    }
+  ]
+}

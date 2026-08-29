@@ -1,0 +1,62 @@
+{
+  "item_id": "tt_7368082144670878983_10",
+  "duration_seconds": 19.56,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "hoa những giờ cái bản gi辦",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.12,
+      "end": 0.7,
+      "text": "hoa",
+      "words": [
+        {
+          "word": "hoa",
+          "start": 0.12,
+          "end": 0.7,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 0.7,
+      "end": 1.18,
+      "text": "những giờ cái bản gi辦",
+      "words": [
+        {
+          "word": "những",
+          "start": 0.7,
+          "end": 1.18,
+          "probability": 0.0
+        },
+        {
+          "word": "giờ",
+          "start": 1.18,
+          "end": 1.18,
+          "probability": 0.0
+        },
+        {
+          "word": "cái",
+          "start": 1.18,
+          "end": 1.18,
+          "probability": 0.0
+        },
+        {
+          "word": "bản",
+          "start": 1.18,
+          "end": 1.18,
+          "probability": 0.03
+        },
+        {
+          "word": "gi辦",
+          "start": 1.18,
+          "end": 1.18,
+          "probability": 0.01
+        }
+      ]
+    }
+  ]
+}

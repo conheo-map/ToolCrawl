@@ -1,0 +1,174 @@
+{
+  "item_id": "tt_7642182979611151636_01",
+  "duration_seconds": 12.85,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 22,
+  "text": "Nếu sẽ quốc tình Tại vì mình sẽ quốc tình Đây là chiếp của tình không sao quốc Đây là chiếp về",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.14,
+      "end": 2.44,
+      "text": "Nếu sẽ quốc tình",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 1.14,
+          "end": 1.7,
+          "probability": 0.3
+        },
+        {
+          "word": "sẽ",
+          "start": 1.7,
+          "end": 1.86,
+          "probability": 0.16
+        },
+        {
+          "word": "quốc",
+          "start": 1.86,
+          "end": 2.04,
+          "probability": 0.22
+        },
+        {
+          "word": "tình",
+          "start": 2.04,
+          "end": 2.44,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.22,
+      "end": 6.31,
+      "text": "Tại vì mình sẽ quốc tình",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 3.22,
+          "end": 3.7,
+          "probability": 0.09
+        },
+        {
+          "word": "vì",
+          "start": 3.7,
+          "end": 3.84,
+          "probability": 0.08
+        },
+        {
+          "word": "mình",
+          "start": 3.84,
+          "end": 3.92,
+          "probability": 0.03
+        },
+        {
+          "word": "sẽ",
+          "start": 3.92,
+          "end": 4.16,
+          "probability": 0.21
+        },
+        {
+          "word": "quốc",
+          "start": 4.16,
+          "end": 4.6,
+          "probability": 0.52
+        },
+        {
+          "word": "tình",
+          "start": 5.97,
+          "end": 6.31,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.31,
+      "end": 8.15,
+      "text": "Đây là chiếp của tình không sao quốc",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 6.31,
+          "end": 6.31,
+          "probability": 0.0
+        },
+        {
+          "word": "là",
+          "start": 6.31,
+          "end": 6.71,
+          "probability": 0.9
+        },
+        {
+          "word": "chiếp",
+          "start": 6.71,
+          "end": 6.95,
+          "probability": 0.38
+        },
+        {
+          "word": "của",
+          "start": 6.95,
+          "end": 7.11,
+          "probability": 0.32
+        },
+        {
+          "word": "tình",
+          "start": 7.11,
+          "end": 7.21,
+          "probability": 0.33
+        },
+        {
+          "word": "không",
+          "start": 7.21,
+          "end": 7.35,
+          "probability": 0.06
+        },
+        {
+          "word": "sao",
+          "start": 7.35,
+          "end": 7.51,
+          "probability": 0.14
+        },
+        {
+          "word": "quốc",
+          "start": 7.51,
+          "end": 8.15,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.32,
+      "end": 12.62,
+      "text": "Đây là chiếp về",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 11.32,
+          "end": 11.94,
+          "probability": 0.01
+        },
+        {
+          "word": "là",
+          "start": 11.94,
+          "end": 12.16,
+          "probability": 0.99
+        },
+        {
+          "word": "chiếp",
+          "start": 12.16,
+          "end": 12.62,
+          "probability": 0.94
+        },
+        {
+          "word": "về",
+          "start": 12.62,
+          "end": 12.62,
+          "probability": 0.0
+        }
+      ]
+    }
+  ]
+}

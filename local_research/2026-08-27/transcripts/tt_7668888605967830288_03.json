@@ -1,0 +1,740 @@
+{
+  "item_id": "tt_7668888605967830288_03",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 103,
+  "text": "Bây giờ, cái tin như cầu với nghĩ là cái đường bài vẫn rất là nhiều người đi ở đây là đi xe máy thì nó rất là hãy cho đợi cho đợi rất là lâu nhưng là thịt tụng chị cũng phải cho mất người cũng là năng cuối phía rám, người ta mới tới và để cho đi ra xe đi thì đủ đủ thời gian là là bên xe biết về cho người ta đã trải luôn rồi thôi, phải cho đợi mà lẹ còn mang được không thấy lạnh mồ là mang thì tính nha về cho số xong",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.87,
+      "end": 3.61,
+      "text": "Bây giờ, cái tin như cầu với nghĩ là",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 0.87,
+          "end": 1.27,
+          "probability": 0.31
+        },
+        {
+          "word": "giờ,",
+          "start": 1.27,
+          "end": 1.67,
+          "probability": 0.99
+        },
+        {
+          "word": "cái",
+          "start": 1.79,
+          "end": 2.01,
+          "probability": 0.27
+        },
+        {
+          "word": "tin",
+          "start": 2.01,
+          "end": 2.35,
+          "probability": 0.09
+        },
+        {
+          "word": "như",
+          "start": 2.35,
+          "end": 2.51,
+          "probability": 0.16
+        },
+        {
+          "word": "cầu",
+          "start": 2.51,
+          "end": 2.73,
+          "probability": 0.53
+        },
+        {
+          "word": "với",
+          "start": 2.73,
+          "end": 2.91,
+          "probability": 0.1
+        },
+        {
+          "word": "nghĩ",
+          "start": 2.91,
+          "end": 3.15,
+          "probability": 0.16
+        },
+        {
+          "word": "là",
+          "start": 3.15,
+          "end": 3.61,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.61,
+      "end": 5.55,
+      "text": "cái đường bài vẫn rất là nhiều người đi",
+      "words": [
+        {
+          "word": "cái",
+          "start": 3.61,
+          "end": 3.81,
+          "probability": 0.14
+        },
+        {
+          "word": "đường",
+          "start": 3.81,
+          "end": 4.01,
+          "probability": 0.62
+        },
+        {
+          "word": "bài",
+          "start": 4.01,
+          "end": 4.21,
+          "probability": 0.43
+        },
+        {
+          "word": "vẫn",
+          "start": 4.21,
+          "end": 4.39,
+          "probability": 0.19
+        },
+        {
+          "word": "rất",
+          "start": 4.39,
+          "end": 4.57,
+          "probability": 0.93
+        },
+        {
+          "word": "là",
+          "start": 4.57,
+          "end": 4.79,
+          "probability": 0.94
+        },
+        {
+          "word": "nhiều",
+          "start": 4.79,
+          "end": 4.93,
+          "probability": 0.83
+        },
+        {
+          "word": "người",
+          "start": 4.93,
+          "end": 5.21,
+          "probability": 0.85
+        },
+        {
+          "word": "đi",
+          "start": 5.21,
+          "end": 5.55,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.55,
+      "end": 8.01,
+      "text": "ở đây là đi xe máy thì nó rất là",
+      "words": [
+        {
+          "word": "ở",
+          "start": 5.55,
+          "end": 5.91,
+          "probability": 0.11
+        },
+        {
+          "word": "đây",
+          "start": 5.91,
+          "end": 6.01,
+          "probability": 0.75
+        },
+        {
+          "word": "là",
+          "start": 6.01,
+          "end": 6.27,
+          "probability": 0.16
+        },
+        {
+          "word": "đi",
+          "start": 6.27,
+          "end": 6.53,
+          "probability": 0.63
+        },
+        {
+          "word": "xe",
+          "start": 6.53,
+          "end": 6.71,
+          "probability": 0.35
+        },
+        {
+          "word": "máy",
+          "start": 6.71,
+          "end": 7.03,
+          "probability": 0.6
+        },
+        {
+          "word": "thì",
+          "start": 7.03,
+          "end": 7.25,
+          "probability": 0.51
+        },
+        {
+          "word": "nó",
+          "start": 7.25,
+          "end": 7.43,
+          "probability": 0.79
+        },
+        {
+          "word": "rất",
+          "start": 7.43,
+          "end": 7.65,
+          "probability": 0.99
+        },
+        {
+          "word": "là",
+          "start": 7.65,
+          "end": 8.01,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.43,
+      "end": 10.29,
+      "text": "hãy cho đợi",
+      "words": [
+        {
+          "word": "hãy",
+          "start": 8.43,
+          "end": 8.83,
+          "probability": 0.41
+        },
+        {
+          "word": "cho",
+          "start": 8.83,
+          "end": 9.01,
+          "probability": 0.65
+        },
+        {
+          "word": "đợi",
+          "start": 9.01,
+          "end": 10.29,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 10.29,
+      "end": 11.53,
+      "text": "cho đợi rất là lâu",
+      "words": [
+        {
+          "word": "cho",
+          "start": 10.29,
+          "end": 10.77,
+          "probability": 0.04
+        },
+        {
+          "word": "đợi",
+          "start": 10.77,
+          "end": 10.91,
+          "probability": 0.96
+        },
+        {
+          "word": "rất",
+          "start": 10.91,
+          "end": 11.11,
+          "probability": 0.33
+        },
+        {
+          "word": "là",
+          "start": 11.11,
+          "end": 11.31,
+          "probability": 0.98
+        },
+        {
+          "word": "lâu",
+          "start": 11.31,
+          "end": 11.53,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.53,
+      "end": 13.73,
+      "text": "nhưng là thịt tụng chị cũng phải cho mất người",
+      "words": [
+        {
+          "word": "nhưng",
+          "start": 11.53,
+          "end": 11.73,
+          "probability": 0.01
+        },
+        {
+          "word": "là",
+          "start": 11.73,
+          "end": 12.07,
+          "probability": 0.34
+        },
+        {
+          "word": "thịt",
+          "start": 12.07,
+          "end": 12.31,
+          "probability": 0.52
+        },
+        {
+          "word": "tụng",
+          "start": 12.31,
+          "end": 12.47,
+          "probability": 0.51
+        },
+        {
+          "word": "chị",
+          "start": 12.47,
+          "end": 12.65,
+          "probability": 0.28
+        },
+        {
+          "word": "cũng",
+          "start": 12.65,
+          "end": 12.79,
+          "probability": 0.88
+        },
+        {
+          "word": "phải",
+          "start": 12.79,
+          "end": 12.99,
+          "probability": 0.97
+        },
+        {
+          "word": "cho",
+          "start": 12.99,
+          "end": 13.23,
+          "probability": 0.64
+        },
+        {
+          "word": "mất",
+          "start": 13.23,
+          "end": 13.45,
+          "probability": 0.6
+        },
+        {
+          "word": "người",
+          "start": 13.45,
+          "end": 13.73,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 13.73,
+      "end": 15.61,
+      "text": "cũng là năng cuối phía rám, người ta mới tới",
+      "words": [
+        {
+          "word": "cũng",
+          "start": 13.73,
+          "end": 13.93,
+          "probability": 0.34
+        },
+        {
+          "word": "là",
+          "start": 13.93,
+          "end": 14.15,
+          "probability": 0.26
+        },
+        {
+          "word": "năng",
+          "start": 14.15,
+          "end": 14.43,
+          "probability": 0.29
+        },
+        {
+          "word": "cuối",
+          "start": 14.43,
+          "end": 14.59,
+          "probability": 0.44
+        },
+        {
+          "word": "phía",
+          "start": 14.59,
+          "end": 14.73,
+          "probability": 0.55
+        },
+        {
+          "word": "rám,",
+          "start": 14.73,
+          "end": 14.95,
+          "probability": 0.38
+        },
+        {
+          "word": "người",
+          "start": 15.05,
+          "end": 15.19,
+          "probability": 0.14
+        },
+        {
+          "word": "ta",
+          "start": 15.19,
+          "end": 15.19,
+          "probability": 0.8
+        },
+        {
+          "word": "mới",
+          "start": 15.19,
+          "end": 15.35,
+          "probability": 0.84
+        },
+        {
+          "word": "tới",
+          "start": 15.35,
+          "end": 15.61,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.61,
+      "end": 17.33,
+      "text": "và để cho đi ra xe đi thì đủ",
+      "words": [
+        {
+          "word": "và",
+          "start": 15.61,
+          "end": 15.79,
+          "probability": 0.27
+        },
+        {
+          "word": "để",
+          "start": 15.79,
+          "end": 15.95,
+          "probability": 0.53
+        },
+        {
+          "word": "cho",
+          "start": 15.95,
+          "end": 16.11,
+          "probability": 0.04
+        },
+        {
+          "word": "đi",
+          "start": 16.11,
+          "end": 16.19,
+          "probability": 0.9
+        },
+        {
+          "word": "ra",
+          "start": 16.19,
+          "end": 16.41,
+          "probability": 0.94
+        },
+        {
+          "word": "xe",
+          "start": 16.41,
+          "end": 16.63,
+          "probability": 0.4
+        },
+        {
+          "word": "đi",
+          "start": 16.63,
+          "end": 16.85,
+          "probability": 0.93
+        },
+        {
+          "word": "thì",
+          "start": 16.85,
+          "end": 17.01,
+          "probability": 0.83
+        },
+        {
+          "word": "đủ",
+          "start": 17.01,
+          "end": 17.33,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 17.33,
+      "end": 19.39,
+      "text": "đủ thời gian là là bên",
+      "words": [
+        {
+          "word": "đủ",
+          "start": 17.33,
+          "end": 17.55,
+          "probability": 0.25
+        },
+        {
+          "word": "thời",
+          "start": 17.55,
+          "end": 17.73,
+          "probability": 0.56
+        },
+        {
+          "word": "gian",
+          "start": 17.73,
+          "end": 17.95,
+          "probability": 0.76
+        },
+        {
+          "word": "là",
+          "start": 17.95,
+          "end": 18.47,
+          "probability": 0.87
+        },
+        {
+          "word": "là",
+          "start": 18.47,
+          "end": 18.71,
+          "probability": 0.09
+        },
+        {
+          "word": "bên",
+          "start": 18.71,
+          "end": 19.39,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 19.39,
+      "end": 21.39,
+      "text": "xe biết về cho người ta đã trải luôn rồi",
+      "words": [
+        {
+          "word": "xe",
+          "start": 19.39,
+          "end": 19.91,
+          "probability": 0.46
+        },
+        {
+          "word": "biết",
+          "start": 19.91,
+          "end": 20.11,
+          "probability": 0.61
+        },
+        {
+          "word": "về",
+          "start": 20.11,
+          "end": 20.31,
+          "probability": 0.14
+        },
+        {
+          "word": "cho",
+          "start": 20.31,
+          "end": 20.45,
+          "probability": 0.58
+        },
+        {
+          "word": "người",
+          "start": 20.45,
+          "end": 20.61,
+          "probability": 0.57
+        },
+        {
+          "word": "ta",
+          "start": 20.61,
+          "end": 20.73,
+          "probability": 0.98
+        },
+        {
+          "word": "đã",
+          "start": 20.73,
+          "end": 20.79,
+          "probability": 0.18
+        },
+        {
+          "word": "trải",
+          "start": 20.79,
+          "end": 20.97,
+          "probability": 0.48
+        },
+        {
+          "word": "luôn",
+          "start": 20.97,
+          "end": 21.13,
+          "probability": 0.87
+        },
+        {
+          "word": "rồi",
+          "start": 21.13,
+          "end": 21.39,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 21.39,
+      "end": 22.69,
+      "text": "thôi, phải cho đợi mà lẹ",
+      "words": [
+        {
+          "word": "thôi,",
+          "start": 21.39,
+          "end": 21.61,
+          "probability": 0.19
+        },
+        {
+          "word": "phải",
+          "start": 21.61,
+          "end": 21.89,
+          "probability": 0.16
+        },
+        {
+          "word": "cho",
+          "start": 21.89,
+          "end": 22.11,
+          "probability": 0.61
+        },
+        {
+          "word": "đợi",
+          "start": 22.11,
+          "end": 22.35,
+          "probability": 0.95
+        },
+        {
+          "word": "mà",
+          "start": 22.35,
+          "end": 22.53,
+          "probability": 0.64
+        },
+        {
+          "word": "lẹ",
+          "start": 22.53,
+          "end": 22.69,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 22.69,
+      "end": 24.45,
+      "text": "còn mang được không thấy lạnh mồ là mang",
+      "words": [
+        {
+          "word": "còn",
+          "start": 22.69,
+          "end": 22.93,
+          "probability": 0.39
+        },
+        {
+          "word": "mang",
+          "start": 22.93,
+          "end": 23.13,
+          "probability": 0.55
+        },
+        {
+          "word": "được",
+          "start": 23.13,
+          "end": 23.31,
+          "probability": 0.2
+        },
+        {
+          "word": "không",
+          "start": 23.31,
+          "end": 23.43,
+          "probability": 0.36
+        },
+        {
+          "word": "thấy",
+          "start": 23.43,
+          "end": 23.51,
+          "probability": 0.15
+        },
+        {
+          "word": "lạnh",
+          "start": 23.51,
+          "end": 23.75,
+          "probability": 0.33
+        },
+        {
+          "word": "mồ",
+          "start": 23.75,
+          "end": 23.93,
+          "probability": 0.27
+        },
+        {
+          "word": "là",
+          "start": 23.93,
+          "end": 24.11,
+          "probability": 0.59
+        },
+        {
+          "word": "mang",
+          "start": 24.11,
+          "end": 24.45,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 25.92,
+      "end": 27.32,
+      "text": "thì tính nha",
+      "words": [
+        {
+          "word": "thì",
+          "start": 25.92,
+          "end": 26.36,
+          "probability": 0.07
+        },
+        {
+          "word": "tính",
+          "start": 26.36,
+          "end": 26.66,
+          "probability": 0.51
+        },
+        {
+          "word": "nha",
+          "start": 26.66,
+          "end": 27.32,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 27.32,
+      "end": 27.92,
+      "text": "về cho số xong",
+      "words": [
+        {
+          "word": "về",
+          "start": 27.32,
+          "end": 27.46,
+          "probability": 0.05
+        },
+        {
+          "word": "cho",
+          "start": 27.46,
+          "end": 27.62,
+          "probability": 0.94
+        },
+        {
+          "word": "số",
+          "start": 27.62,
+          "end": 27.82,
+          "probability": 0.33
+        },
+        {
+          "word": "xong",
+          "start": 27.82,
+          "end": 27.92,
+          "probability": 0.47
+        }
+      ]
+    }
+  ]
+}

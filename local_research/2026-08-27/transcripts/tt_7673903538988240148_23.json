@@ -1,0 +1,606 @@
+{
+  "item_id": "tt_7673903538988240148_23",
+  "duration_seconds": 26.66,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 90,
+  "text": "cũng như là tiếp tế có thể theo dõi được chế hoa trên mình cần tái kết với thế nào theo mà cái mua anh mà giống bắt nông dân nó đang làm năng tầng dòng cái lúc bình mà trong xung quanh để mà cải thiện muu trường nất và theo tôi nghĩ thì cái cải lúc bình là một trong những thứ loại cải mà cải thiện muu trường nức tốt nhất ở hiệnh này như vậy giờ đang biết là năng sử lý khi kìm rồi năng",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.28,
+      "text": "cũng như là tiếp tế có thể theo dõi được chế hoa trên mình cần tái kết với thế nào",
+      "words": [
+        {
+          "word": "cũng",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.13
+        },
+        {
+          "word": "như",
+          "start": 0.22,
+          "end": 0.56,
+          "probability": 0.87
+        },
+        {
+          "word": "là",
+          "start": 0.56,
+          "end": 0.96,
+          "probability": 0.77
+        },
+        {
+          "word": "tiếp",
+          "start": 0.96,
+          "end": 1.14,
+          "probability": 0.22
+        },
+        {
+          "word": "tế",
+          "start": 1.14,
+          "end": 1.26,
+          "probability": 0.08
+        },
+        {
+          "word": "có",
+          "start": 1.26,
+          "end": 1.54,
+          "probability": 0.06
+        },
+        {
+          "word": "thể",
+          "start": 1.54,
+          "end": 1.72,
+          "probability": 0.78
+        },
+        {
+          "word": "theo",
+          "start": 1.72,
+          "end": 1.92,
+          "probability": 0.67
+        },
+        {
+          "word": "dõi",
+          "start": 1.92,
+          "end": 2.26,
+          "probability": 0.75
+        },
+        {
+          "word": "được",
+          "start": 2.26,
+          "end": 2.52,
+          "probability": 0.92
+        },
+        {
+          "word": "chế",
+          "start": 2.52,
+          "end": 2.7,
+          "probability": 0.17
+        },
+        {
+          "word": "hoa",
+          "start": 2.7,
+          "end": 2.84,
+          "probability": 0.31
+        },
+        {
+          "word": "trên",
+          "start": 2.84,
+          "end": 3.04,
+          "probability": 0.36
+        },
+        {
+          "word": "mình",
+          "start": 3.04,
+          "end": 3.22,
+          "probability": 0.84
+        },
+        {
+          "word": "cần",
+          "start": 3.22,
+          "end": 3.4,
+          "probability": 0.53
+        },
+        {
+          "word": "tái",
+          "start": 3.4,
+          "end": 3.6,
+          "probability": 0.3
+        },
+        {
+          "word": "kết",
+          "start": 3.6,
+          "end": 3.78,
+          "probability": 0.16
+        },
+        {
+          "word": "với",
+          "start": 3.78,
+          "end": 3.82,
+          "probability": 0.1
+        },
+        {
+          "word": "thế",
+          "start": 3.82,
+          "end": 3.96,
+          "probability": 0.22
+        },
+        {
+          "word": "nào",
+          "start": 3.96,
+          "end": 4.28,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 8.22,
+      "end": 11.26,
+      "text": "theo mà cái mua anh mà giống bắt nông dân nó đang làm",
+      "words": [
+        {
+          "word": "theo",
+          "start": 8.22,
+          "end": 8.84,
+          "probability": 0.01
+        },
+        {
+          "word": "mà",
+          "start": 8.84,
+          "end": 9.16,
+          "probability": 0.56
+        },
+        {
+          "word": "cái",
+          "start": 9.16,
+          "end": 9.28,
+          "probability": 0.5
+        },
+        {
+          "word": "mua",
+          "start": 9.28,
+          "end": 9.44,
+          "probability": 0.61
+        },
+        {
+          "word": "anh",
+          "start": 9.44,
+          "end": 9.76,
+          "probability": 0.32
+        },
+        {
+          "word": "mà",
+          "start": 9.76,
+          "end": 9.9,
+          "probability": 0.3
+        },
+        {
+          "word": "giống",
+          "start": 9.9,
+          "end": 10.12,
+          "probability": 0.48
+        },
+        {
+          "word": "bắt",
+          "start": 10.12,
+          "end": 10.3,
+          "probability": 0.5
+        },
+        {
+          "word": "nông",
+          "start": 10.3,
+          "end": 10.46,
+          "probability": 0.25
+        },
+        {
+          "word": "dân",
+          "start": 10.46,
+          "end": 10.64,
+          "probability": 0.49
+        },
+        {
+          "word": "nó",
+          "start": 10.64,
+          "end": 10.8,
+          "probability": 0.35
+        },
+        {
+          "word": "đang",
+          "start": 10.8,
+          "end": 11.0,
+          "probability": 0.36
+        },
+        {
+          "word": "làm",
+          "start": 11.0,
+          "end": 11.26,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.72,
+      "end": 13.8,
+      "text": "năng tầng dòng cái lúc bình",
+      "words": [
+        {
+          "word": "năng",
+          "start": 11.72,
+          "end": 12.12,
+          "probability": 0.47
+        },
+        {
+          "word": "tầng",
+          "start": 12.12,
+          "end": 12.38,
+          "probability": 0.49
+        },
+        {
+          "word": "dòng",
+          "start": 12.38,
+          "end": 12.6,
+          "probability": 0.36
+        },
+        {
+          "word": "cái",
+          "start": 12.6,
+          "end": 12.8,
+          "probability": 0.96
+        },
+        {
+          "word": "lúc",
+          "start": 12.8,
+          "end": 12.94,
+          "probability": 0.75
+        },
+        {
+          "word": "bình",
+          "start": 12.94,
+          "end": 13.8,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.8,
+      "end": 16.8,
+      "text": "mà trong xung quanh để mà cải thiện muu trường nất",
+      "words": [
+        {
+          "word": "mà",
+          "start": 13.8,
+          "end": 14.32,
+          "probability": 0.38
+        },
+        {
+          "word": "trong",
+          "start": 14.32,
+          "end": 14.46,
+          "probability": 0.28
+        },
+        {
+          "word": "xung",
+          "start": 14.46,
+          "end": 14.76,
+          "probability": 0.44
+        },
+        {
+          "word": "quanh",
+          "start": 14.76,
+          "end": 15.04,
+          "probability": 0.48
+        },
+        {
+          "word": "để",
+          "start": 15.04,
+          "end": 15.22,
+          "probability": 0.65
+        },
+        {
+          "word": "mà",
+          "start": 15.22,
+          "end": 15.34,
+          "probability": 0.51
+        },
+        {
+          "word": "cải",
+          "start": 15.34,
+          "end": 15.54,
+          "probability": 0.38
+        },
+        {
+          "word": "thiện",
+          "start": 15.54,
+          "end": 15.74,
+          "probability": 0.56
+        },
+        {
+          "word": "muu",
+          "start": 15.74,
+          "end": 15.9,
+          "probability": 0.5
+        },
+        {
+          "word": "trường",
+          "start": 15.9,
+          "end": 16.06,
+          "probability": 0.62
+        },
+        {
+          "word": "nất",
+          "start": 16.06,
+          "end": 16.8,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.8,
+      "end": 20.58,
+      "text": "và theo tôi nghĩ thì cái cải lúc bình là một trong những thứ loại cải",
+      "words": [
+        {
+          "word": "và",
+          "start": 16.8,
+          "end": 17.22,
+          "probability": 0.02
+        },
+        {
+          "word": "theo",
+          "start": 17.22,
+          "end": 17.54,
+          "probability": 0.51
+        },
+        {
+          "word": "tôi",
+          "start": 17.54,
+          "end": 17.7,
+          "probability": 0.49
+        },
+        {
+          "word": "nghĩ",
+          "start": 17.7,
+          "end": 17.84,
+          "probability": 0.98
+        },
+        {
+          "word": "thì",
+          "start": 17.84,
+          "end": 18.06,
+          "probability": 0.57
+        },
+        {
+          "word": "cái",
+          "start": 18.06,
+          "end": 18.24,
+          "probability": 0.6
+        },
+        {
+          "word": "cải",
+          "start": 18.24,
+          "end": 18.4,
+          "probability": 0.58
+        },
+        {
+          "word": "lúc",
+          "start": 18.4,
+          "end": 18.52,
+          "probability": 0.97
+        },
+        {
+          "word": "bình",
+          "start": 18.52,
+          "end": 18.76,
+          "probability": 0.93
+        },
+        {
+          "word": "là",
+          "start": 18.76,
+          "end": 18.98,
+          "probability": 0.56
+        },
+        {
+          "word": "một",
+          "start": 18.98,
+          "end": 19.22,
+          "probability": 0.23
+        },
+        {
+          "word": "trong",
+          "start": 19.22,
+          "end": 19.44,
+          "probability": 0.96
+        },
+        {
+          "word": "những",
+          "start": 19.44,
+          "end": 19.64,
+          "probability": 0.95
+        },
+        {
+          "word": "thứ",
+          "start": 19.64,
+          "end": 19.82,
+          "probability": 0.45
+        },
+        {
+          "word": "loại",
+          "start": 19.82,
+          "end": 20.04,
+          "probability": 0.69
+        },
+        {
+          "word": "cải",
+          "start": 20.04,
+          "end": 20.58,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 20.58,
+      "end": 22.46,
+      "text": "mà cải thiện muu trường nức",
+      "words": [
+        {
+          "word": "mà",
+          "start": 20.58,
+          "end": 20.8,
+          "probability": 0.01
+        },
+        {
+          "word": "cải",
+          "start": 20.8,
+          "end": 21.06,
+          "probability": 0.98
+        },
+        {
+          "word": "thiện",
+          "start": 21.06,
+          "end": 21.32,
+          "probability": 0.99
+        },
+        {
+          "word": "muu",
+          "start": 21.32,
+          "end": 21.52,
+          "probability": 1.0
+        },
+        {
+          "word": "trường",
+          "start": 21.52,
+          "end": 21.72,
+          "probability": 1.0
+        },
+        {
+          "word": "nức",
+          "start": 21.72,
+          "end": 22.46,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 22.46,
+      "end": 26.56,
+      "text": "tốt nhất ở hiệnh này như vậy giờ đang biết là năng sử lý khi kìm rồi năng",
+      "words": [
+        {
+          "word": "tốt",
+          "start": 22.46,
+          "end": 22.84,
+          "probability": 0.55
+        },
+        {
+          "word": "nhất",
+          "start": 22.84,
+          "end": 23.16,
+          "probability": 0.97
+        },
+        {
+          "word": "ở",
+          "start": 23.16,
+          "end": 23.44,
+          "probability": 0.08
+        },
+        {
+          "word": "hiệnh",
+          "start": 23.44,
+          "end": 23.78,
+          "probability": 0.25
+        },
+        {
+          "word": "này",
+          "start": 23.78,
+          "end": 23.94,
+          "probability": 0.71
+        },
+        {
+          "word": "như",
+          "start": 23.94,
+          "end": 24.2,
+          "probability": 0.73
+        },
+        {
+          "word": "vậy",
+          "start": 24.2,
+          "end": 24.52,
+          "probability": 0.37
+        },
+        {
+          "word": "giờ",
+          "start": 24.52,
+          "end": 24.66,
+          "probability": 0.04
+        },
+        {
+          "word": "đang",
+          "start": 24.66,
+          "end": 24.88,
+          "probability": 0.48
+        },
+        {
+          "word": "biết",
+          "start": 24.88,
+          "end": 25.0,
+          "probability": 0.09
+        },
+        {
+          "word": "là",
+          "start": 25.0,
+          "end": 25.2,
+          "probability": 0.43
+        },
+        {
+          "word": "năng",
+          "start": 25.2,
+          "end": 25.42,
+          "probability": 0.16
+        },
+        {
+          "word": "sử",
+          "start": 25.42,
+          "end": 25.64,
+          "probability": 0.69
+        },
+        {
+          "word": "lý",
+          "start": 25.64,
+          "end": 25.78,
+          "probability": 0.67
+        },
+        {
+          "word": "khi",
+          "start": 25.78,
+          "end": 26.04,
+          "probability": 0.28
+        },
+        {
+          "word": "kìm",
+          "start": 26.04,
+          "end": 26.18,
+          "probability": 0.67
+        },
+        {
+          "word": "rồi",
+          "start": 26.18,
+          "end": 26.34,
+          "probability": 0.22
+        },
+        {
+          "word": "năng",
+          "start": 26.34,
+          "end": 26.56,
+          "probability": 0.93
+        }
+      ]
+    }
+  ]
+}

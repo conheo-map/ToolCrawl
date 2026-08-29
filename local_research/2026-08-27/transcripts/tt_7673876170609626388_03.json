@@ -1,0 +1,130 @@
+{
+  "item_id": "tt_7673876170609626388_03",
+  "duration_seconds": 13.16,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 16,
+  "text": "Chẳng có kêu thương Bất tâm mọt kê tụt là tài xong A lạm gì có",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.34,
+      "text": "Chẳng có kêu thương",
+      "words": [
+        {
+          "word": "Chẳng",
+          "start": 0.0,
+          "end": 0.76,
+          "probability": 0.64
+        },
+        {
+          "word": "có",
+          "start": 0.76,
+          "end": 1.06,
+          "probability": 0.31
+        },
+        {
+          "word": "kêu",
+          "start": 1.06,
+          "end": 1.58,
+          "probability": 0.16
+        },
+        {
+          "word": "thương",
+          "start": 1.58,
+          "end": 2.34,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.34,
+      "end": 6.68,
+      "text": "Bất tâm mọt kê tụt là tài xong",
+      "words": [
+        {
+          "word": "Bất",
+          "start": 2.34,
+          "end": 3.46,
+          "probability": 0.05
+        },
+        {
+          "word": "tâm",
+          "start": 3.46,
+          "end": 3.82,
+          "probability": 0.69
+        },
+        {
+          "word": "mọt",
+          "start": 3.82,
+          "end": 4.28,
+          "probability": 0.62
+        },
+        {
+          "word": "kê",
+          "start": 4.28,
+          "end": 4.58,
+          "probability": 0.5
+        },
+        {
+          "word": "tụt",
+          "start": 4.58,
+          "end": 5.22,
+          "probability": 0.29
+        },
+        {
+          "word": "là",
+          "start": 5.22,
+          "end": 5.58,
+          "probability": 0.45
+        },
+        {
+          "word": "tài",
+          "start": 5.58,
+          "end": 5.98,
+          "probability": 0.36
+        },
+        {
+          "word": "xong",
+          "start": 5.98,
+          "end": 6.68,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.68,
+      "end": 9.06,
+      "text": "A lạm gì có",
+      "words": [
+        {
+          "word": "A",
+          "start": 6.68,
+          "end": 7.58,
+          "probability": 0.07
+        },
+        {
+          "word": "lạm",
+          "start": 7.58,
+          "end": 8.22,
+          "probability": 0.39
+        },
+        {
+          "word": "gì",
+          "start": 8.22,
+          "end": 8.7,
+          "probability": 0.66
+        },
+        {
+          "word": "có",
+          "start": 8.7,
+          "end": 9.06,
+          "probability": 0.58
+        }
+      ]
+    }
+  ]
+}

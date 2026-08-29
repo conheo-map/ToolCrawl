@@ -1,0 +1,68 @@
+{
+  "item_id": "tt_7268576046633471234_03",
+  "duration_seconds": 6.97,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 7,
+  "text": "Vào tài kể hỏi Bí sát nhớ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.04,
+      "end": 2.34,
+      "text": "Vào tài kể hỏi",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 1.04,
+          "end": 1.04,
+          "probability": 0.1
+        },
+        {
+          "word": "tài",
+          "start": 1.04,
+          "end": 1.76,
+          "probability": 0.22
+        },
+        {
+          "word": "kể",
+          "start": 1.76,
+          "end": 2.02,
+          "probability": 0.26
+        },
+        {
+          "word": "hỏi",
+          "start": 2.02,
+          "end": 2.34,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.54,
+      "end": 4.1,
+      "text": "Bí sát nhớ",
+      "words": [
+        {
+          "word": "Bí",
+          "start": 2.54,
+          "end": 3.06,
+          "probability": 0.11
+        },
+        {
+          "word": "sát",
+          "start": 3.06,
+          "end": 3.26,
+          "probability": 0.21
+        },
+        {
+          "word": "nhớ",
+          "start": 3.26,
+          "end": 4.1,
+          "probability": 0.48
+        }
+      ]
+    }
+  ]
+}

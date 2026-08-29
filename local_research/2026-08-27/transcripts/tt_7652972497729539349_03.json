@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7652972497729539349_03",
+  "duration_seconds": 22.02,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Đừng có bán thạc",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.9,
+      "end": 3.78,
+      "text": "Đừng có bán thạc",
+      "words": [
+        {
+          "word": "Đừng",
+          "start": 2.9,
+          "end": 3.06,
+          "probability": 0.08
+        },
+        {
+          "word": "có",
+          "start": 3.06,
+          "end": 3.38,
+          "probability": 0.53
+        },
+        {
+          "word": "bán",
+          "start": 3.38,
+          "end": 3.6,
+          "probability": 0.08
+        },
+        {
+          "word": "thạc",
+          "start": 3.6,
+          "end": 3.78,
+          "probability": 0.18
+        }
+      ]
+    }
+  ]
+}

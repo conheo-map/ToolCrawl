@@ -1,0 +1,598 @@
+{
+  "item_id": "tt_7665316853819952405_06",
+  "duration_seconds": 29.25,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 90,
+  "text": "thì mình sẽ ui tiền tình thông tin mình kính tình từ tờ tờ tờ. Đói chứ, a phố, thì lối với mình đất thì có khoảng 2 mươi mức buồn. Đói chứ, tờ mình chúng tìm kiếm kiếm, giật bán ngàn. Nhật bán ngàn thì mình rất phát, thì dây nhiên xì mà đã tìm thấy giấu hiểu của... hại cố gố gố phì, mềm rất là thúc đầu thì rất là... Lò lắng, không biết phải không, nhưng mà khi đã chắc đến thức đúng cơ rồi thì...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.26,
+      "text": "thì mình sẽ ui tiền tình thông tin mình kính tình từ tờ tờ tờ.",
+      "words": [
+        {
+          "word": "thì",
+          "start": 0.0,
+          "end": 0.76,
+          "probability": 0.43
+        },
+        {
+          "word": "mình",
+          "start": 0.76,
+          "end": 1.14,
+          "probability": 0.61
+        },
+        {
+          "word": "sẽ",
+          "start": 1.14,
+          "end": 1.44,
+          "probability": 0.93
+        },
+        {
+          "word": "ui",
+          "start": 1.44,
+          "end": 2.02,
+          "probability": 0.31
+        },
+        {
+          "word": "tiền",
+          "start": 2.02,
+          "end": 2.22,
+          "probability": 0.5
+        },
+        {
+          "word": "tình",
+          "start": 2.22,
+          "end": 2.4,
+          "probability": 0.61
+        },
+        {
+          "word": "thông",
+          "start": 2.4,
+          "end": 2.6,
+          "probability": 0.69
+        },
+        {
+          "word": "tin",
+          "start": 2.6,
+          "end": 2.72,
+          "probability": 0.76
+        },
+        {
+          "word": "mình",
+          "start": 2.72,
+          "end": 2.92,
+          "probability": 0.68
+        },
+        {
+          "word": "kính",
+          "start": 2.92,
+          "end": 3.16,
+          "probability": 0.37
+        },
+        {
+          "word": "tình",
+          "start": 3.16,
+          "end": 3.36,
+          "probability": 0.29
+        },
+        {
+          "word": "từ",
+          "start": 3.36,
+          "end": 3.46,
+          "probability": 0.29
+        },
+        {
+          "word": "tờ",
+          "start": 3.46,
+          "end": 3.52,
+          "probability": 0.26
+        },
+        {
+          "word": "tờ",
+          "start": 3.52,
+          "end": 3.76,
+          "probability": 0.41
+        },
+        {
+          "word": "tờ.",
+          "start": 3.76,
+          "end": 4.26,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.96,
+      "end": 9.92,
+      "text": "Đói chứ, a phố, thì lối với mình đất thì có khoảng 2 mươi mức buồn.",
+      "words": [
+        {
+          "word": "Đói",
+          "start": 4.96,
+          "end": 5.44,
+          "probability": 0.57
+        },
+        {
+          "word": "chứ,",
+          "start": 5.44,
+          "end": 5.9,
+          "probability": 0.23
+        },
+        {
+          "word": "a",
+          "start": 6.56,
+          "end": 6.56,
+          "probability": 0.11
+        },
+        {
+          "word": "phố,",
+          "start": 6.56,
+          "end": 6.88,
+          "probability": 0.25
+        },
+        {
+          "word": "thì",
+          "start": 7.14,
+          "end": 7.38,
+          "probability": 0.48
+        },
+        {
+          "word": "lối",
+          "start": 7.38,
+          "end": 7.68,
+          "probability": 0.36
+        },
+        {
+          "word": "với",
+          "start": 7.68,
+          "end": 7.82,
+          "probability": 0.21
+        },
+        {
+          "word": "mình",
+          "start": 7.82,
+          "end": 7.98,
+          "probability": 0.62
+        },
+        {
+          "word": "đất",
+          "start": 7.98,
+          "end": 8.16,
+          "probability": 0.56
+        },
+        {
+          "word": "thì",
+          "start": 8.16,
+          "end": 8.38,
+          "probability": 0.29
+        },
+        {
+          "word": "có",
+          "start": 8.38,
+          "end": 8.78,
+          "probability": 0.68
+        },
+        {
+          "word": "khoảng",
+          "start": 8.78,
+          "end": 9.16,
+          "probability": 0.84
+        },
+        {
+          "word": "2",
+          "start": 9.16,
+          "end": 9.46,
+          "probability": 0.47
+        },
+        {
+          "word": "mươi",
+          "start": 9.46,
+          "end": 9.52,
+          "probability": 0.24
+        },
+        {
+          "word": "mức",
+          "start": 9.52,
+          "end": 9.68,
+          "probability": 0.31
+        },
+        {
+          "word": "buồn.",
+          "start": 9.68,
+          "end": 9.92,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.48,
+      "end": 14.04,
+      "text": "Đói chứ, tờ mình chúng tìm kiếm kiếm, giật bán ngàn.",
+      "words": [
+        {
+          "word": "Đói",
+          "start": 10.48,
+          "end": 10.72,
+          "probability": 0.75
+        },
+        {
+          "word": "chứ,",
+          "start": 10.72,
+          "end": 11.18,
+          "probability": 0.5
+        },
+        {
+          "word": "tờ",
+          "start": 11.18,
+          "end": 11.3,
+          "probability": 0.11
+        },
+        {
+          "word": "mình",
+          "start": 11.3,
+          "end": 11.5,
+          "probability": 0.92
+        },
+        {
+          "word": "chúng",
+          "start": 11.5,
+          "end": 11.66,
+          "probability": 0.55
+        },
+        {
+          "word": "tìm",
+          "start": 11.66,
+          "end": 11.82,
+          "probability": 0.69
+        },
+        {
+          "word": "kiếm",
+          "start": 11.82,
+          "end": 12.1,
+          "probability": 0.78
+        },
+        {
+          "word": "kiếm,",
+          "start": 12.1,
+          "end": 12.42,
+          "probability": 0.68
+        },
+        {
+          "word": "giật",
+          "start": 12.42,
+          "end": 13.12,
+          "probability": 0.24
+        },
+        {
+          "word": "bán",
+          "start": 13.12,
+          "end": 13.34,
+          "probability": 0.33
+        },
+        {
+          "word": "ngàn.",
+          "start": 13.34,
+          "end": 14.04,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.32,
+      "end": 20.0,
+      "text": "Nhật bán ngàn thì mình rất phát, thì dây nhiên xì mà đã tìm thấy giấu hiểu của...",
+      "words": [
+        {
+          "word": "Nhật",
+          "start": 14.32,
+          "end": 14.4,
+          "probability": 0.24
+        },
+        {
+          "word": "bán",
+          "start": 14.4,
+          "end": 14.54,
+          "probability": 0.52
+        },
+        {
+          "word": "ngàn",
+          "start": 14.54,
+          "end": 14.84,
+          "probability": 0.99
+        },
+        {
+          "word": "thì",
+          "start": 14.84,
+          "end": 15.46,
+          "probability": 0.31
+        },
+        {
+          "word": "mình",
+          "start": 15.46,
+          "end": 15.8,
+          "probability": 0.12
+        },
+        {
+          "word": "rất",
+          "start": 15.8,
+          "end": 16.16,
+          "probability": 0.38
+        },
+        {
+          "word": "phát,",
+          "start": 16.16,
+          "end": 16.52,
+          "probability": 0.37
+        },
+        {
+          "word": "thì",
+          "start": 17.04,
+          "end": 17.12,
+          "probability": 0.62
+        },
+        {
+          "word": "dây",
+          "start": 17.12,
+          "end": 17.28,
+          "probability": 0.17
+        },
+        {
+          "word": "nhiên",
+          "start": 17.28,
+          "end": 17.36,
+          "probability": 0.6
+        },
+        {
+          "word": "xì",
+          "start": 17.36,
+          "end": 17.56,
+          "probability": 0.29
+        },
+        {
+          "word": "mà",
+          "start": 17.56,
+          "end": 17.82,
+          "probability": 0.94
+        },
+        {
+          "word": "đã",
+          "start": 17.82,
+          "end": 18.12,
+          "probability": 0.42
+        },
+        {
+          "word": "tìm",
+          "start": 18.12,
+          "end": 18.54,
+          "probability": 0.75
+        },
+        {
+          "word": "thấy",
+          "start": 18.54,
+          "end": 18.84,
+          "probability": 0.37
+        },
+        {
+          "word": "giấu",
+          "start": 18.84,
+          "end": 19.14,
+          "probability": 0.67
+        },
+        {
+          "word": "hiểu",
+          "start": 19.14,
+          "end": 19.48,
+          "probability": 0.7
+        },
+        {
+          "word": "của...",
+          "start": 19.48,
+          "end": 20.0,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 21.34,
+      "end": 25.08,
+      "text": "hại cố gố gố phì, mềm rất là thúc đầu thì rất là...",
+      "words": [
+        {
+          "word": "hại",
+          "start": 21.34,
+          "end": 21.54,
+          "probability": 0.25
+        },
+        {
+          "word": "cố",
+          "start": 21.54,
+          "end": 21.72,
+          "probability": 0.66
+        },
+        {
+          "word": "gố",
+          "start": 21.72,
+          "end": 22.06,
+          "probability": 0.33
+        },
+        {
+          "word": "gố",
+          "start": 22.06,
+          "end": 22.34,
+          "probability": 0.59
+        },
+        {
+          "word": "phì,",
+          "start": 22.34,
+          "end": 22.58,
+          "probability": 0.29
+        },
+        {
+          "word": "mềm",
+          "start": 22.8,
+          "end": 23.14,
+          "probability": 0.57
+        },
+        {
+          "word": "rất",
+          "start": 23.14,
+          "end": 23.38,
+          "probability": 0.55
+        },
+        {
+          "word": "là",
+          "start": 23.38,
+          "end": 23.62,
+          "probability": 0.71
+        },
+        {
+          "word": "thúc",
+          "start": 23.62,
+          "end": 23.8,
+          "probability": 0.52
+        },
+        {
+          "word": "đầu",
+          "start": 23.8,
+          "end": 24.0,
+          "probability": 0.76
+        },
+        {
+          "word": "thì",
+          "start": 24.0,
+          "end": 24.16,
+          "probability": 0.74
+        },
+        {
+          "word": "rất",
+          "start": 24.16,
+          "end": 24.38,
+          "probability": 0.94
+        },
+        {
+          "word": "là...",
+          "start": 24.38,
+          "end": 25.08,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 25.08,
+      "end": 29.22,
+      "text": "Lò lắng, không biết phải không, nhưng mà khi đã chắc đến thức đúng cơ rồi thì...",
+      "words": [
+        {
+          "word": "Lò",
+          "start": 25.08,
+          "end": 25.36,
+          "probability": 0.15
+        },
+        {
+          "word": "lắng,",
+          "start": 25.36,
+          "end": 25.56,
+          "probability": 0.6
+        },
+        {
+          "word": "không",
+          "start": 25.7,
+          "end": 25.84,
+          "probability": 0.36
+        },
+        {
+          "word": "biết",
+          "start": 25.84,
+          "end": 25.98,
+          "probability": 0.95
+        },
+        {
+          "word": "phải",
+          "start": 25.98,
+          "end": 26.32,
+          "probability": 0.44
+        },
+        {
+          "word": "không,",
+          "start": 26.32,
+          "end": 26.72,
+          "probability": 0.54
+        },
+        {
+          "word": "nhưng",
+          "start": 26.98,
+          "end": 27.08,
+          "probability": 0.81
+        },
+        {
+          "word": "mà",
+          "start": 27.08,
+          "end": 27.24,
+          "probability": 0.68
+        },
+        {
+          "word": "khi",
+          "start": 27.24,
+          "end": 27.36,
+          "probability": 0.24
+        },
+        {
+          "word": "đã",
+          "start": 27.36,
+          "end": 27.48,
+          "probability": 0.65
+        },
+        {
+          "word": "chắc",
+          "start": 27.48,
+          "end": 27.62,
+          "probability": 0.58
+        },
+        {
+          "word": "đến",
+          "start": 27.62,
+          "end": 27.8,
+          "probability": 0.3
+        },
+        {
+          "word": "thức",
+          "start": 27.8,
+          "end": 28.0,
+          "probability": 0.42
+        },
+        {
+          "word": "đúng",
+          "start": 28.0,
+          "end": 28.22,
+          "probability": 0.58
+        },
+        {
+          "word": "cơ",
+          "start": 28.22,
+          "end": 28.5,
+          "probability": 0.28
+        },
+        {
+          "word": "rồi",
+          "start": 28.5,
+          "end": 28.78,
+          "probability": 0.38
+        },
+        {
+          "word": "thì...",
+          "start": 28.78,
+          "end": 29.22,
+          "probability": 0.8
+        }
+      ]
+    }
+  ]
+}

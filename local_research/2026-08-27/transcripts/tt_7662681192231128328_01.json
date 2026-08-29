@@ -1,0 +1,66 @@
+{
+  "item_id": "tt_7662681192231128328_01",
+  "duration_seconds": 26.71,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 8,
+  "text": "Một rất nhiều như là cái ăn xà",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.75,
+      "text": "Một rất nhiều như là cái ăn xà",
+      "words": [
+        {
+          "word": "Một",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.37
+        },
+        {
+          "word": "rất",
+          "start": 0.3,
+          "end": 0.48,
+          "probability": 0.11
+        },
+        {
+          "word": "nhiều",
+          "start": 6.75,
+          "end": 7.17,
+          "probability": 0.55
+        },
+        {
+          "word": "như",
+          "start": 7.17,
+          "end": 7.49,
+          "probability": 0.22
+        },
+        {
+          "word": "là",
+          "start": 7.49,
+          "end": 7.73,
+          "probability": 0.5
+        },
+        {
+          "word": "cái",
+          "start": 7.73,
+          "end": 7.91,
+          "probability": 0.44
+        },
+        {
+          "word": "ăn",
+          "start": 7.91,
+          "end": 8.33,
+          "probability": 0.52
+        },
+        {
+          "word": "xà",
+          "start": 8.33,
+          "end": 8.75,
+          "probability": 0.29
+        }
+      ]
+    }
+  ]
+}

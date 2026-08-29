@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7566935782649253140_03",
+  "duration_seconds": 7.89,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Tôi là người chết là",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.38,
+      "end": 5.68,
+      "text": "Tôi là người chết là",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 2.38,
+          "end": 3.28,
+          "probability": 0.16
+        },
+        {
+          "word": "là",
+          "start": 3.28,
+          "end": 4.16,
+          "probability": 0.26
+        },
+        {
+          "word": "người",
+          "start": 4.16,
+          "end": 4.64,
+          "probability": 0.48
+        },
+        {
+          "word": "chết",
+          "start": 4.64,
+          "end": 5.18,
+          "probability": 0.32
+        },
+        {
+          "word": "là",
+          "start": 5.18,
+          "end": 5.68,
+          "probability": 0.93
+        }
+      ]
+    }
+  ]
+}

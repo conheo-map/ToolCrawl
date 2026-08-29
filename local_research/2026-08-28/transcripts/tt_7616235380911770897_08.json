@@ -1,0 +1,400 @@
+{
+  "item_id": "tt_7616235380911770897_08",
+  "duration_seconds": 13.87,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 61,
+  "text": "Bình công thực anit thì không kêu được Không kêu được cho bay này thôi, còn sau khi chết thúc bà này em vui giám hợp lại, không thực anit, nhớ nó, thì lại kêu được Con trong đi này thì quên tụt tụt tụt ở đi và phòng thi và đi này mà quên tụt anit thì không kêu được",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 2.4,
+      "text": "Bình công thực anit thì không kêu được",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 0.02,
+          "end": 0.58,
+          "probability": 0.53
+        },
+        {
+          "word": "công",
+          "start": 0.58,
+          "end": 0.74,
+          "probability": 0.31
+        },
+        {
+          "word": "thực",
+          "start": 0.74,
+          "end": 0.86,
+          "probability": 0.42
+        },
+        {
+          "word": "anit",
+          "start": 0.86,
+          "end": 1.1,
+          "probability": 0.23
+        },
+        {
+          "word": "thì",
+          "start": 1.1,
+          "end": 1.28,
+          "probability": 0.16
+        },
+        {
+          "word": "không",
+          "start": 1.28,
+          "end": 1.46,
+          "probability": 0.95
+        },
+        {
+          "word": "kêu",
+          "start": 1.46,
+          "end": 1.62,
+          "probability": 0.29
+        },
+        {
+          "word": "được",
+          "start": 1.62,
+          "end": 2.4,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.34,
+      "end": 9.2,
+      "text": "Không kêu được cho bay này thôi, còn sau khi chết thúc bà này em vui giám hợp lại, không thực anit, nhớ nó, thì lại kêu được",
+      "words": [
+        {
+          "word": "Không",
+          "start": 3.34,
+          "end": 3.66,
+          "probability": 0.11
+        },
+        {
+          "word": "kêu",
+          "start": 3.66,
+          "end": 3.82,
+          "probability": 0.95
+        },
+        {
+          "word": "được",
+          "start": 3.82,
+          "end": 3.92,
+          "probability": 0.99
+        },
+        {
+          "word": "cho",
+          "start": 3.92,
+          "end": 4.06,
+          "probability": 0.95
+        },
+        {
+          "word": "bay",
+          "start": 4.06,
+          "end": 4.18,
+          "probability": 0.26
+        },
+        {
+          "word": "này",
+          "start": 4.18,
+          "end": 4.32,
+          "probability": 0.8
+        },
+        {
+          "word": "thôi,",
+          "start": 4.32,
+          "end": 4.6,
+          "probability": 0.8
+        },
+        {
+          "word": "còn",
+          "start": 4.76,
+          "end": 4.98,
+          "probability": 0.65
+        },
+        {
+          "word": "sau",
+          "start": 4.98,
+          "end": 5.14,
+          "probability": 0.93
+        },
+        {
+          "word": "khi",
+          "start": 5.14,
+          "end": 5.28,
+          "probability": 0.98
+        },
+        {
+          "word": "chết",
+          "start": 5.28,
+          "end": 5.4,
+          "probability": 0.62
+        },
+        {
+          "word": "thúc",
+          "start": 5.4,
+          "end": 5.5,
+          "probability": 0.49
+        },
+        {
+          "word": "bà",
+          "start": 5.5,
+          "end": 5.6,
+          "probability": 0.47
+        },
+        {
+          "word": "này",
+          "start": 5.6,
+          "end": 5.74,
+          "probability": 0.87
+        },
+        {
+          "word": "em",
+          "start": 5.74,
+          "end": 5.98,
+          "probability": 0.89
+        },
+        {
+          "word": "vui",
+          "start": 5.98,
+          "end": 6.08,
+          "probability": 0.29
+        },
+        {
+          "word": "giám",
+          "start": 6.08,
+          "end": 6.26,
+          "probability": 0.11
+        },
+        {
+          "word": "hợp",
+          "start": 6.26,
+          "end": 6.46,
+          "probability": 0.58
+        },
+        {
+          "word": "lại,",
+          "start": 6.46,
+          "end": 6.62,
+          "probability": 0.94
+        },
+        {
+          "word": "không",
+          "start": 6.64,
+          "end": 6.74,
+          "probability": 0.22
+        },
+        {
+          "word": "thực",
+          "start": 6.74,
+          "end": 6.86,
+          "probability": 0.95
+        },
+        {
+          "word": "anit,",
+          "start": 6.86,
+          "end": 7.1,
+          "probability": 0.99
+        },
+        {
+          "word": "nhớ",
+          "start": 7.34,
+          "end": 7.34,
+          "probability": 0.53
+        },
+        {
+          "word": "nó,",
+          "start": 7.34,
+          "end": 7.54,
+          "probability": 0.48
+        },
+        {
+          "word": "thì",
+          "start": 7.86,
+          "end": 8.02,
+          "probability": 0.39
+        },
+        {
+          "word": "lại",
+          "start": 8.02,
+          "end": 8.18,
+          "probability": 0.7
+        },
+        {
+          "word": "kêu",
+          "start": 8.18,
+          "end": 8.3,
+          "probability": 0.94
+        },
+        {
+          "word": "được",
+          "start": 8.3,
+          "end": 9.2,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.14,
+      "end": 13.84,
+      "text": "Con trong đi này thì quên tụt tụt tụt ở đi và phòng thi và đi này mà quên tụt anit thì không kêu được",
+      "words": [
+        {
+          "word": "Con",
+          "start": 10.14,
+          "end": 10.46,
+          "probability": 0.03
+        },
+        {
+          "word": "trong",
+          "start": 10.46,
+          "end": 10.78,
+          "probability": 0.8
+        },
+        {
+          "word": "đi",
+          "start": 10.78,
+          "end": 10.98,
+          "probability": 0.19
+        },
+        {
+          "word": "này",
+          "start": 10.98,
+          "end": 11.16,
+          "probability": 0.89
+        },
+        {
+          "word": "thì",
+          "start": 11.16,
+          "end": 11.36,
+          "probability": 0.78
+        },
+        {
+          "word": "quên",
+          "start": 11.36,
+          "end": 11.48,
+          "probability": 0.54
+        },
+        {
+          "word": "tụt",
+          "start": 11.48,
+          "end": 11.64,
+          "probability": 0.42
+        },
+        {
+          "word": "tụt",
+          "start": 11.64,
+          "end": 11.76,
+          "probability": 0.6
+        },
+        {
+          "word": "tụt",
+          "start": 11.76,
+          "end": 11.84,
+          "probability": 0.7
+        },
+        {
+          "word": "ở",
+          "start": 11.84,
+          "end": 11.94,
+          "probability": 0.17
+        },
+        {
+          "word": "đi",
+          "start": 11.94,
+          "end": 12.04,
+          "probability": 0.53
+        },
+        {
+          "word": "và",
+          "start": 12.04,
+          "end": 12.16,
+          "probability": 0.23
+        },
+        {
+          "word": "phòng",
+          "start": 12.16,
+          "end": 12.32,
+          "probability": 0.82
+        },
+        {
+          "word": "thi",
+          "start": 12.32,
+          "end": 12.44,
+          "probability": 0.58
+        },
+        {
+          "word": "và",
+          "start": 12.44,
+          "end": 12.56,
+          "probability": 0.08
+        },
+        {
+          "word": "đi",
+          "start": 12.56,
+          "end": 12.72,
+          "probability": 0.95
+        },
+        {
+          "word": "này",
+          "start": 12.72,
+          "end": 12.8,
+          "probability": 0.97
+        },
+        {
+          "word": "mà",
+          "start": 12.8,
+          "end": 12.9,
+          "probability": 0.58
+        },
+        {
+          "word": "quên",
+          "start": 12.9,
+          "end": 13.02,
+          "probability": 0.94
+        },
+        {
+          "word": "tụt",
+          "start": 13.02,
+          "end": 13.16,
+          "probability": 0.84
+        },
+        {
+          "word": "anit",
+          "start": 13.16,
+          "end": 13.32,
+          "probability": 0.77
+        },
+        {
+          "word": "thì",
+          "start": 13.32,
+          "end": 13.5,
+          "probability": 0.84
+        },
+        {
+          "word": "không",
+          "start": 13.5,
+          "end": 13.58,
+          "probability": 0.99
+        },
+        {
+          "word": "kêu",
+          "start": 13.58,
+          "end": 13.72,
+          "probability": 0.96
+        },
+        {
+          "word": "được",
+          "start": 13.72,
+          "end": 13.84,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

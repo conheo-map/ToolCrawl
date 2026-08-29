@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7667425448493829397",
+  "duration_seconds": 23.25,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Tao sẽ có xe",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.43,
+      "end": 1.41,
+      "text": "Tao sẽ có xe",
+      "words": [
+        {
+          "word": "Tao",
+          "start": 0.43,
+          "end": 0.73,
+          "probability": 0.05
+        },
+        {
+          "word": "sẽ",
+          "start": 0.73,
+          "end": 1.01,
+          "probability": 0.32
+        },
+        {
+          "word": "có",
+          "start": 1.01,
+          "end": 1.19,
+          "probability": 0.35
+        },
+        {
+          "word": "xe",
+          "start": 1.19,
+          "end": 1.41,
+          "probability": 0.19
+        }
+      ]
+    }
+  ]
+}

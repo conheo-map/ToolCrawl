@@ -1,0 +1,520 @@
+{
+  "item_id": "tt_7666724906700131605_05",
+  "duration_seconds": 22.04,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 77,
+  "text": "khiến trân nghiệp gặng bán hàng, gặng lúc nặng. Tại ki điệu hành giá ngày 28 tháng 20 năm, ra săng em người tăng tám trăm tám mi động một lit, giấu điên xen, tăng 2 in 4 chăm 4 mi động một lit, và giấu ma suốt, tăng một miền một chăm người động một kí lúc em. Mức tăng này sau khi đã có thực hiện chi sự dụng phép bình của giá xăng dầu.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.68,
+      "text": "khiến trân nghiệp gặng bán hàng, gặng lúc nặng.",
+      "words": [
+        {
+          "word": "khiến",
+          "start": 0.0,
+          "end": 0.52,
+          "probability": 0.69
+        },
+        {
+          "word": "trân",
+          "start": 0.52,
+          "end": 0.7,
+          "probability": 0.17
+        },
+        {
+          "word": "nghiệp",
+          "start": 0.7,
+          "end": 0.96,
+          "probability": 0.76
+        },
+        {
+          "word": "gặng",
+          "start": 0.96,
+          "end": 1.2,
+          "probability": 0.41
+        },
+        {
+          "word": "bán",
+          "start": 1.2,
+          "end": 1.38,
+          "probability": 0.42
+        },
+        {
+          "word": "hàng,",
+          "start": 1.38,
+          "end": 1.78,
+          "probability": 0.81
+        },
+        {
+          "word": "gặng",
+          "start": 1.96,
+          "end": 2.18,
+          "probability": 0.77
+        },
+        {
+          "word": "lúc",
+          "start": 2.18,
+          "end": 2.36,
+          "probability": 0.55
+        },
+        {
+          "word": "nặng.",
+          "start": 2.36,
+          "end": 2.68,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.18,
+      "end": 5.48,
+      "text": "Tại ki điệu hành giá ngày 28 tháng 20 năm,",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 3.18,
+          "end": 3.2,
+          "probability": 0.84
+        },
+        {
+          "word": "ki",
+          "start": 3.2,
+          "end": 3.36,
+          "probability": 0.27
+        },
+        {
+          "word": "điệu",
+          "start": 3.36,
+          "end": 3.54,
+          "probability": 0.21
+        },
+        {
+          "word": "hành",
+          "start": 3.54,
+          "end": 3.76,
+          "probability": 0.69
+        },
+        {
+          "word": "giá",
+          "start": 3.76,
+          "end": 4.1,
+          "probability": 0.8
+        },
+        {
+          "word": "ngày",
+          "start": 4.1,
+          "end": 4.38,
+          "probability": 0.85
+        },
+        {
+          "word": "28",
+          "start": 4.38,
+          "end": 4.72,
+          "probability": 0.21
+        },
+        {
+          "word": "tháng",
+          "start": 4.72,
+          "end": 5.06,
+          "probability": 0.48
+        },
+        {
+          "word": "20",
+          "start": 5.06,
+          "end": 5.36,
+          "probability": 0.53
+        },
+        {
+          "word": "năm,",
+          "start": 5.36,
+          "end": 5.48,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.92,
+      "end": 10.3,
+      "text": "ra săng em người tăng tám trăm tám mi động một lit,",
+      "words": [
+        {
+          "word": "ra",
+          "start": 6.92,
+          "end": 7.38,
+          "probability": 0.01
+        },
+        {
+          "word": "săng",
+          "start": 7.38,
+          "end": 7.7,
+          "probability": 0.49
+        },
+        {
+          "word": "em",
+          "start": 7.7,
+          "end": 8.04,
+          "probability": 0.63
+        },
+        {
+          "word": "người",
+          "start": 8.04,
+          "end": 8.38,
+          "probability": 0.29
+        },
+        {
+          "word": "tăng",
+          "start": 8.38,
+          "end": 8.78,
+          "probability": 0.71
+        },
+        {
+          "word": "tám",
+          "start": 8.78,
+          "end": 9.04,
+          "probability": 0.35
+        },
+        {
+          "word": "trăm",
+          "start": 9.04,
+          "end": 9.28,
+          "probability": 0.38
+        },
+        {
+          "word": "tám",
+          "start": 9.28,
+          "end": 9.5,
+          "probability": 0.66
+        },
+        {
+          "word": "mi",
+          "start": 9.5,
+          "end": 9.76,
+          "probability": 0.05
+        },
+        {
+          "word": "động",
+          "start": 9.76,
+          "end": 9.76,
+          "probability": 0.23
+        },
+        {
+          "word": "một",
+          "start": 9.76,
+          "end": 9.98,
+          "probability": 0.36
+        },
+        {
+          "word": "lit,",
+          "start": 9.98,
+          "end": 10.3,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.6,
+      "end": 13.74,
+      "text": "giấu điên xen, tăng 2 in 4 chăm 4 mi động một lit,",
+      "words": [
+        {
+          "word": "giấu",
+          "start": 10.6,
+          "end": 10.78,
+          "probability": 0.36
+        },
+        {
+          "word": "điên",
+          "start": 10.78,
+          "end": 11.04,
+          "probability": 0.58
+        },
+        {
+          "word": "xen,",
+          "start": 11.04,
+          "end": 11.44,
+          "probability": 0.32
+        },
+        {
+          "word": "tăng",
+          "start": 11.66,
+          "end": 11.78,
+          "probability": 0.98
+        },
+        {
+          "word": "2",
+          "start": 11.78,
+          "end": 12.04,
+          "probability": 0.15
+        },
+        {
+          "word": "in",
+          "start": 12.04,
+          "end": 12.28,
+          "probability": 0.1
+        },
+        {
+          "word": "4",
+          "start": 12.28,
+          "end": 12.5,
+          "probability": 0.41
+        },
+        {
+          "word": "chăm",
+          "start": 12.5,
+          "end": 12.86,
+          "probability": 0.2
+        },
+        {
+          "word": "4",
+          "start": 12.86,
+          "end": 12.92,
+          "probability": 0.31
+        },
+        {
+          "word": "mi",
+          "start": 12.92,
+          "end": 13.18,
+          "probability": 0.6
+        },
+        {
+          "word": "động",
+          "start": 13.18,
+          "end": 13.22,
+          "probability": 0.93
+        },
+        {
+          "word": "một",
+          "start": 13.22,
+          "end": 13.4,
+          "probability": 0.98
+        },
+        {
+          "word": "lit,",
+          "start": 13.4,
+          "end": 13.74,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.06,
+      "end": 17.66,
+      "text": "và giấu ma suốt, tăng một miền một chăm người động một kí lúc em.",
+      "words": [
+        {
+          "word": "và",
+          "start": 14.06,
+          "end": 14.14,
+          "probability": 0.6
+        },
+        {
+          "word": "giấu",
+          "start": 14.14,
+          "end": 14.36,
+          "probability": 0.79
+        },
+        {
+          "word": "ma",
+          "start": 14.36,
+          "end": 14.54,
+          "probability": 0.59
+        },
+        {
+          "word": "suốt,",
+          "start": 14.54,
+          "end": 14.94,
+          "probability": 0.55
+        },
+        {
+          "word": "tăng",
+          "start": 15.22,
+          "end": 15.28,
+          "probability": 0.99
+        },
+        {
+          "word": "một",
+          "start": 15.28,
+          "end": 15.5,
+          "probability": 0.86
+        },
+        {
+          "word": "miền",
+          "start": 15.5,
+          "end": 15.82,
+          "probability": 0.18
+        },
+        {
+          "word": "một",
+          "start": 15.82,
+          "end": 16.06,
+          "probability": 0.71
+        },
+        {
+          "word": "chăm",
+          "start": 16.06,
+          "end": 16.26,
+          "probability": 0.61
+        },
+        {
+          "word": "người",
+          "start": 16.26,
+          "end": 16.46,
+          "probability": 0.79
+        },
+        {
+          "word": "động",
+          "start": 16.46,
+          "end": 16.66,
+          "probability": 0.57
+        },
+        {
+          "word": "một",
+          "start": 16.66,
+          "end": 16.92,
+          "probability": 0.97
+        },
+        {
+          "word": "kí",
+          "start": 16.92,
+          "end": 17.1,
+          "probability": 0.33
+        },
+        {
+          "word": "lúc",
+          "start": 17.1,
+          "end": 17.2,
+          "probability": 0.22
+        },
+        {
+          "word": "em.",
+          "start": 17.2,
+          "end": 17.66,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 18.0,
+      "end": 21.88,
+      "text": "Mức tăng này sau khi đã có thực hiện chi sự dụng phép bình của giá xăng dầu.",
+      "words": [
+        {
+          "word": "Mức",
+          "start": 18.0,
+          "end": 18.18,
+          "probability": 0.66
+        },
+        {
+          "word": "tăng",
+          "start": 18.18,
+          "end": 18.4,
+          "probability": 0.89
+        },
+        {
+          "word": "này",
+          "start": 18.4,
+          "end": 18.7,
+          "probability": 0.43
+        },
+        {
+          "word": "sau",
+          "start": 18.7,
+          "end": 19.06,
+          "probability": 0.57
+        },
+        {
+          "word": "khi",
+          "start": 19.06,
+          "end": 19.26,
+          "probability": 0.99
+        },
+        {
+          "word": "đã",
+          "start": 19.26,
+          "end": 19.44,
+          "probability": 0.93
+        },
+        {
+          "word": "có",
+          "start": 19.44,
+          "end": 19.58,
+          "probability": 0.97
+        },
+        {
+          "word": "thực",
+          "start": 19.58,
+          "end": 19.8,
+          "probability": 0.91
+        },
+        {
+          "word": "hiện",
+          "start": 19.8,
+          "end": 20.0,
+          "probability": 0.9
+        },
+        {
+          "word": "chi",
+          "start": 20.0,
+          "end": 20.24,
+          "probability": 0.32
+        },
+        {
+          "word": "sự",
+          "start": 20.24,
+          "end": 20.44,
+          "probability": 0.33
+        },
+        {
+          "word": "dụng",
+          "start": 20.44,
+          "end": 20.78,
+          "probability": 0.43
+        },
+        {
+          "word": "phép",
+          "start": 20.78,
+          "end": 20.86,
+          "probability": 0.23
+        },
+        {
+          "word": "bình",
+          "start": 20.86,
+          "end": 21.04,
+          "probability": 0.65
+        },
+        {
+          "word": "của",
+          "start": 21.04,
+          "end": 21.16,
+          "probability": 0.14
+        },
+        {
+          "word": "giá",
+          "start": 21.16,
+          "end": 21.42,
+          "probability": 0.44
+        },
+        {
+          "word": "xăng",
+          "start": 21.42,
+          "end": 21.64,
+          "probability": 0.5
+        },
+        {
+          "word": "dầu.",
+          "start": 21.64,
+          "end": 21.88,
+          "probability": 0.5
+        }
+      ]
+    }
+  ]
+}

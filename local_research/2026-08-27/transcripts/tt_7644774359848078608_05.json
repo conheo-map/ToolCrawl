@@ -1,0 +1,516 @@
+{
+  "item_id": "tt_7644774359848078608_05",
+  "duration_seconds": 28.76,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 71,
+  "text": "Bây giờ bảo cao, mình sẽ giang hôm giờ phải tình xúc phần qua đi, cho mình có tình thần qua. Bất mọi người sẽ là cái hành ở đâu cao của mình khi có quá truyền trởi. Lần thần ra không phải là được cao. Bất là được cao. Điều đi, mình truyền ở đâu cao. Công bất truyền. Công bất truyền. Cả đâu biết, mình truyền. Công bất truyền.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 3.26,
+      "text": "Bây giờ bảo cao, mình sẽ giang hôm giờ phải tình xúc phần qua đi,",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 0.02,
+          "end": 0.6,
+          "probability": 0.15
+        },
+        {
+          "word": "giờ",
+          "start": 0.6,
+          "end": 0.68,
+          "probability": 0.93
+        },
+        {
+          "word": "bảo",
+          "start": 0.68,
+          "end": 0.9,
+          "probability": 0.29
+        },
+        {
+          "word": "cao,",
+          "start": 0.9,
+          "end": 1.12,
+          "probability": 0.48
+        },
+        {
+          "word": "mình",
+          "start": 1.2,
+          "end": 1.3,
+          "probability": 0.19
+        },
+        {
+          "word": "sẽ",
+          "start": 1.3,
+          "end": 1.58,
+          "probability": 0.08
+        },
+        {
+          "word": "giang",
+          "start": 1.58,
+          "end": 1.78,
+          "probability": 0.16
+        },
+        {
+          "word": "hôm",
+          "start": 1.78,
+          "end": 1.94,
+          "probability": 0.05
+        },
+        {
+          "word": "giờ",
+          "start": 1.94,
+          "end": 2.06,
+          "probability": 0.06
+        },
+        {
+          "word": "phải",
+          "start": 2.06,
+          "end": 2.32,
+          "probability": 0.11
+        },
+        {
+          "word": "tình",
+          "start": 2.32,
+          "end": 2.46,
+          "probability": 0.15
+        },
+        {
+          "word": "xúc",
+          "start": 2.46,
+          "end": 2.58,
+          "probability": 0.32
+        },
+        {
+          "word": "phần",
+          "start": 2.58,
+          "end": 2.82,
+          "probability": 0.17
+        },
+        {
+          "word": "qua",
+          "start": 2.82,
+          "end": 3.04,
+          "probability": 0.1
+        },
+        {
+          "word": "đi,",
+          "start": 3.04,
+          "end": 3.26,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.42,
+      "end": 5.99,
+      "text": "cho mình có tình thần qua.",
+      "words": [
+        {
+          "word": "cho",
+          "start": 3.42,
+          "end": 3.44,
+          "probability": 0.08
+        },
+        {
+          "word": "mình",
+          "start": 3.44,
+          "end": 3.66,
+          "probability": 0.3
+        },
+        {
+          "word": "có",
+          "start": 3.66,
+          "end": 3.82,
+          "probability": 0.21
+        },
+        {
+          "word": "tình",
+          "start": 3.82,
+          "end": 4.02,
+          "probability": 0.37
+        },
+        {
+          "word": "thần",
+          "start": 4.02,
+          "end": 4.14,
+          "probability": 0.13
+        },
+        {
+          "word": "qua.",
+          "start": 5.51,
+          "end": 5.99,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.99,
+      "end": 9.59,
+      "text": "Bất mọi người sẽ là cái hành ở đâu cao của mình khi có quá truyền trởi.",
+      "words": [
+        {
+          "word": "Bất",
+          "start": 5.99,
+          "end": 6.19,
+          "probability": 0.37
+        },
+        {
+          "word": "mọi",
+          "start": 6.19,
+          "end": 6.43,
+          "probability": 0.25
+        },
+        {
+          "word": "người",
+          "start": 6.43,
+          "end": 6.55,
+          "probability": 0.22
+        },
+        {
+          "word": "sẽ",
+          "start": 6.55,
+          "end": 6.79,
+          "probability": 0.31
+        },
+        {
+          "word": "là",
+          "start": 6.79,
+          "end": 6.79,
+          "probability": 0.05
+        },
+        {
+          "word": "cái",
+          "start": 6.79,
+          "end": 6.93,
+          "probability": 0.4
+        },
+        {
+          "word": "hành",
+          "start": 6.93,
+          "end": 7.13,
+          "probability": 0.31
+        },
+        {
+          "word": "ở",
+          "start": 7.13,
+          "end": 7.29,
+          "probability": 0.09
+        },
+        {
+          "word": "đâu",
+          "start": 7.29,
+          "end": 7.43,
+          "probability": 0.66
+        },
+        {
+          "word": "cao",
+          "start": 7.43,
+          "end": 7.59,
+          "probability": 0.67
+        },
+        {
+          "word": "của",
+          "start": 7.59,
+          "end": 7.81,
+          "probability": 0.25
+        },
+        {
+          "word": "mình",
+          "start": 7.81,
+          "end": 7.91,
+          "probability": 0.54
+        },
+        {
+          "word": "khi",
+          "start": 7.91,
+          "end": 8.15,
+          "probability": 0.13
+        },
+        {
+          "word": "có",
+          "start": 8.15,
+          "end": 8.63,
+          "probability": 0.08
+        },
+        {
+          "word": "quá",
+          "start": 8.63,
+          "end": 8.87,
+          "probability": 0.12
+        },
+        {
+          "word": "truyền",
+          "start": 8.87,
+          "end": 9.19,
+          "probability": 0.48
+        },
+        {
+          "word": "trởi.",
+          "start": 9.19,
+          "end": 9.59,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.07,
+      "end": 11.67,
+      "text": "Lần thần ra không phải là được cao.",
+      "words": [
+        {
+          "word": "Lần",
+          "start": 10.07,
+          "end": 10.37,
+          "probability": 0.15
+        },
+        {
+          "word": "thần",
+          "start": 10.37,
+          "end": 10.59,
+          "probability": 0.28
+        },
+        {
+          "word": "ra",
+          "start": 10.59,
+          "end": 10.81,
+          "probability": 0.35
+        },
+        {
+          "word": "không",
+          "start": 10.81,
+          "end": 11.01,
+          "probability": 0.27
+        },
+        {
+          "word": "phải",
+          "start": 11.01,
+          "end": 11.19,
+          "probability": 0.66
+        },
+        {
+          "word": "là",
+          "start": 11.19,
+          "end": 11.37,
+          "probability": 0.18
+        },
+        {
+          "word": "được",
+          "start": 11.37,
+          "end": 11.49,
+          "probability": 0.48
+        },
+        {
+          "word": "cao.",
+          "start": 11.49,
+          "end": 11.67,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.23,
+      "end": 12.79,
+      "text": "Bất là được cao.",
+      "words": [
+        {
+          "word": "Bất",
+          "start": 12.23,
+          "end": 12.35,
+          "probability": 0.35
+        },
+        {
+          "word": "là",
+          "start": 12.35,
+          "end": 12.45,
+          "probability": 0.69
+        },
+        {
+          "word": "được",
+          "start": 12.45,
+          "end": 12.61,
+          "probability": 0.29
+        },
+        {
+          "word": "cao.",
+          "start": 12.61,
+          "end": 12.79,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.29,
+      "end": 15.29,
+      "text": "Điều đi, mình truyền ở đâu cao.",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 13.29,
+          "end": 13.61,
+          "probability": 0.19
+        },
+        {
+          "word": "đi,",
+          "start": 13.61,
+          "end": 13.75,
+          "probability": 0.19
+        },
+        {
+          "word": "mình",
+          "start": 13.79,
+          "end": 13.93,
+          "probability": 0.54
+        },
+        {
+          "word": "truyền",
+          "start": 13.93,
+          "end": 14.33,
+          "probability": 0.47
+        },
+        {
+          "word": "ở",
+          "start": 14.33,
+          "end": 14.51,
+          "probability": 0.71
+        },
+        {
+          "word": "đâu",
+          "start": 14.51,
+          "end": 14.73,
+          "probability": 0.94
+        },
+        {
+          "word": "cao.",
+          "start": 14.73,
+          "end": 15.29,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.53,
+      "end": 16.11,
+      "text": "Công bất truyền.",
+      "words": [
+        {
+          "word": "Công",
+          "start": 15.53,
+          "end": 15.53,
+          "probability": 0.27
+        },
+        {
+          "word": "bất",
+          "start": 15.53,
+          "end": 15.73,
+          "probability": 0.22
+        },
+        {
+          "word": "truyền.",
+          "start": 15.73,
+          "end": 16.11,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.69,
+      "end": 17.15,
+      "text": "Công bất truyền.",
+      "words": [
+        {
+          "word": "Công",
+          "start": 16.69,
+          "end": 16.79,
+          "probability": 0.49
+        },
+        {
+          "word": "bất",
+          "start": 16.79,
+          "end": 16.95,
+          "probability": 0.94
+        },
+        {
+          "word": "truyền.",
+          "start": 16.95,
+          "end": 17.15,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 20.56,
+      "end": 21.7,
+      "text": "Cả đâu biết, mình truyền.",
+      "words": [
+        {
+          "word": "Cả",
+          "start": 20.56,
+          "end": 20.7,
+          "probability": 0.21
+        },
+        {
+          "word": "đâu",
+          "start": 20.7,
+          "end": 20.86,
+          "probability": 0.26
+        },
+        {
+          "word": "biết,",
+          "start": 20.86,
+          "end": 21.1,
+          "probability": 0.26
+        },
+        {
+          "word": "mình",
+          "start": 21.18,
+          "end": 21.42,
+          "probability": 0.23
+        },
+        {
+          "word": "truyền.",
+          "start": 21.42,
+          "end": 21.7,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 22.14,
+      "end": 22.9,
+      "text": "Công bất truyền.",
+      "words": [
+        {
+          "word": "Công",
+          "start": 22.14,
+          "end": 22.54,
+          "probability": 0.49
+        },
+        {
+          "word": "bất",
+          "start": 22.54,
+          "end": 22.74,
+          "probability": 0.85
+        },
+        {
+          "word": "truyền.",
+          "start": 22.74,
+          "end": 22.9,
+          "probability": 0.94
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7639361800055655700_08",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Đi đi đi đi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.84,
+      "text": "Đi đi đi đi",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.3
+        },
+        {
+          "word": "đi",
+          "start": 0.4,
+          "end": 0.5,
+          "probability": 0.03
+        },
+        {
+          "word": "đi",
+          "start": 0.5,
+          "end": 0.64,
+          "probability": 0.14
+        },
+        {
+          "word": "đi",
+          "start": 0.64,
+          "end": 0.84,
+          "probability": 0.57
+        }
+      ]
+    }
+  ]
+}

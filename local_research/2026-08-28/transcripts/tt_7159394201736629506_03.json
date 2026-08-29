@@ -1,0 +1,168 @@
+{
+  "item_id": "tt_7159394201736629506_03",
+  "duration_seconds": 28.95,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 21,
+  "text": "bike có tr recovering để bạn t산 đơn hỏi Đi nào, anh sö hzone Bạn t산 đơn hỏi Bà của H2Bà.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 9.22,
+      "end": 13.24,
+      "text": "bike có tr recovering để bạn t산 đơn hỏi",
+      "words": [
+        {
+          "word": "bike",
+          "start": 9.22,
+          "end": 10.3,
+          "probability": 0.0
+        },
+        {
+          "word": "có",
+          "start": 10.3,
+          "end": 11.38,
+          "probability": 0.08
+        },
+        {
+          "word": "tr",
+          "start": 11.38,
+          "end": 11.38,
+          "probability": 0.02
+        },
+        {
+          "word": "recovering",
+          "start": 11.38,
+          "end": 11.38,
+          "probability": 0.0
+        },
+        {
+          "word": "để",
+          "start": 11.38,
+          "end": 11.68,
+          "probability": 0.01
+        },
+        {
+          "word": "bạn",
+          "start": 11.68,
+          "end": 11.76,
+          "probability": 0.05
+        },
+        {
+          "word": "t산",
+          "start": 11.76,
+          "end": 13.24,
+          "probability": 0.01
+        },
+        {
+          "word": "đơn",
+          "start": 13.24,
+          "end": 13.24,
+          "probability": 0.02
+        },
+        {
+          "word": "hỏi",
+          "start": 13.24,
+          "end": 13.24,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 13.24,
+      "end": 17.72,
+      "text": "Đi nào, anh sö hzone",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 13.24,
+          "end": 13.44,
+          "probability": 0.05
+        },
+        {
+          "word": "nào,",
+          "start": 13.44,
+          "end": 13.88,
+          "probability": 0.01
+        },
+        {
+          "word": "anh",
+          "start": 14.46,
+          "end": 17.58,
+          "probability": 0.01
+        },
+        {
+          "word": "sö",
+          "start": 17.58,
+          "end": 17.72,
+          "probability": 0.0
+        },
+        {
+          "word": "hzone",
+          "start": 17.72,
+          "end": 17.72,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 26.12,
+      "end": 27.82,
+      "text": "Bạn t산 đơn hỏi",
+      "words": [
+        {
+          "word": "Bạn",
+          "start": 26.12,
+          "end": 27.2,
+          "probability": 0.06
+        },
+        {
+          "word": "t산",
+          "start": 27.2,
+          "end": 27.74,
+          "probability": 0.3
+        },
+        {
+          "word": "đơn",
+          "start": 27.74,
+          "end": 27.82,
+          "probability": 0.78
+        },
+        {
+          "word": "hỏi",
+          "start": 27.82,
+          "end": 27.82,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 27.82,
+      "end": 28.82,
+      "text": "Bà của H2Bà.",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 27.82,
+          "end": 27.98,
+          "probability": 0.13
+        },
+        {
+          "word": "của",
+          "start": 27.98,
+          "end": 27.98,
+          "probability": 0.09
+        },
+        {
+          "word": "H2Bà.",
+          "start": 27.98,
+          "end": 28.82,
+          "probability": 0.38
+        }
+      ]
+    }
+  ]
+}

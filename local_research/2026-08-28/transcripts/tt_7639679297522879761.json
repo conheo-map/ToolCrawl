@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7639679297522879761",
+  "duration_seconds": 16.18,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Mà đi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.62,
+      "text": "Mà đi",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.17
+        },
+        {
+          "word": "đi",
+          "start": 0.36,
+          "end": 0.62,
+          "probability": 0.12
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "item_id": "tt_7593320139618012417_08",
+  "duration_seconds": 10.12,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 28,
+  "text": "Mọi là gì trở quán kiến có thể đi xong phải Nhi lên trên Một cái Một cái Để chào Thế một chút là thế này Yá Ok",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 2.45,
+      "text": "Mọi là gì trở quán kiến có thể đi xong phải",
+      "words": [
+        {
+          "word": "Mọi",
+          "start": 0.11,
+          "end": 0.61,
+          "probability": 0.38
+        },
+        {
+          "word": "là",
+          "start": 0.61,
+          "end": 0.69,
+          "probability": 0.11
+        },
+        {
+          "word": "gì",
+          "start": 0.69,
+          "end": 0.83,
+          "probability": 0.14
+        },
+        {
+          "word": "trở",
+          "start": 0.83,
+          "end": 0.99,
+          "probability": 0.32
+        },
+        {
+          "word": "quán",
+          "start": 0.99,
+          "end": 1.11,
+          "probability": 0.26
+        },
+        {
+          "word": "kiến",
+          "start": 1.11,
+          "end": 1.41,
+          "probability": 0.3
+        },
+        {
+          "word": "có",
+          "start": 1.41,
+          "end": 1.61,
+          "probability": 0.88
+        },
+        {
+          "word": "thể",
+          "start": 1.61,
+          "end": 1.73,
+          "probability": 0.96
+        },
+        {
+          "word": "đi",
+          "start": 1.73,
+          "end": 1.93,
+          "probability": 0.95
+        },
+        {
+          "word": "xong",
+          "start": 1.93,
+          "end": 2.09,
+          "probability": 0.5
+        },
+        {
+          "word": "phải",
+          "start": 2.09,
+          "end": 2.45,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.13,
+      "end": 4.01,
+      "text": "Nhi lên trên",
+      "words": [
+        {
+          "word": "Nhi",
+          "start": 3.13,
+          "end": 3.49,
+          "probability": 0.34
+        },
+        {
+          "word": "lên",
+          "start": 3.49,
+          "end": 3.63,
+          "probability": 0.19
+        },
+        {
+          "word": "trên",
+          "start": 3.63,
+          "end": 4.01,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.01,
+      "end": 4.75,
+      "text": "Một cái",
+      "words": [
+        {
+          "word": "Một",
+          "start": 4.01,
+          "end": 4.57,
+          "probability": 0.18
+        },
+        {
+          "word": "cái",
+          "start": 4.57,
+          "end": 4.75,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.75,
+      "end": 4.89,
+      "text": "Một cái",
+      "words": [
+        {
+          "word": "Một",
+          "start": 4.75,
+          "end": 4.89,
+          "probability": 0.2
+        },
+        {
+          "word": "cái",
+          "start": 4.89,
+          "end": 4.89,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 5.83,
+      "end": 6.35,
+      "text": "Để chào",
+      "words": [
+        {
+          "word": "Để",
+          "start": 5.83,
+          "end": 6.19,
+          "probability": 0.02
+        },
+        {
+          "word": "chào",
+          "start": 6.19,
+          "end": 6.35,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 6.91,
+      "end": 8.21,
+      "text": "Thế một chút là thế này",
+      "words": [
+        {
+          "word": "Thế",
+          "start": 6.91,
+          "end": 7.27,
+          "probability": 0.14
+        },
+        {
+          "word": "một",
+          "start": 7.27,
+          "end": 7.39,
+          "probability": 0.33
+        },
+        {
+          "word": "chút",
+          "start": 7.39,
+          "end": 7.51,
+          "probability": 0.71
+        },
+        {
+          "word": "là",
+          "start": 7.51,
+          "end": 7.63,
+          "probability": 0.08
+        },
+        {
+          "word": "thế",
+          "start": 7.63,
+          "end": 7.95,
+          "probability": 0.18
+        },
+        {
+          "word": "này",
+          "start": 7.95,
+          "end": 8.21,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 8.21,
+      "end": 8.33,
+      "text": "Yá",
+      "words": [
+        {
+          "word": "Yá",
+          "start": 8.21,
+          "end": 8.33,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 8.95,
+      "end": 9.31,
+      "text": "Ok",
+      "words": [
+        {
+          "word": "Ok",
+          "start": 8.95,
+          "end": 9.31,
+          "probability": 0.14
+        }
+      ]
+    }
+  ]
+}

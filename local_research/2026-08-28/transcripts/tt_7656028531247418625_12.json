@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7656028531247418625_12",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Bây giờ bố nguyên.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.99,
+      "end": 3.89,
+      "text": "Bây giờ bố nguyên.",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 2.99,
+          "end": 3.13,
+          "probability": 0.21
+        },
+        {
+          "word": "giờ",
+          "start": 3.13,
+          "end": 3.31,
+          "probability": 0.87
+        },
+        {
+          "word": "bố",
+          "start": 3.31,
+          "end": 3.67,
+          "probability": 0.12
+        },
+        {
+          "word": "nguyên.",
+          "start": 3.67,
+          "end": 3.89,
+          "probability": 0.22
+        }
+      ]
+    }
+  ]
+}

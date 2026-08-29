@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7369562296185572616_10",
+  "duration_seconds": 19.56,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Vào tên hả?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.02,
+      "text": "Vào tên hả?",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 0.02,
+          "end": 0.7,
+          "probability": 0.19
+        },
+        {
+          "word": "tên",
+          "start": 0.7,
+          "end": 1.0,
+          "probability": 0.18
+        },
+        {
+          "word": "hả?",
+          "start": 1.0,
+          "end": 1.02,
+          "probability": 0.03
+        }
+      ]
+    }
+  ]
+}

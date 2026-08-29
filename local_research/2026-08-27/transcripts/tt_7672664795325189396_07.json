@@ -1,0 +1,536 @@
+{
+  "item_id": "tt_7672664795325189396_07",
+  "duration_seconds": 29.46,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 73,
+  "text": "Mình khác cũng có ý tốt nằm là một người, vũi năng là vũa này. Thôi không có ý tốt nằm là năng là một người. Thôi không có tốt nằm là một người. Thôi không có tốt lấy chạy mà. Trái chạy sẽ đoạn ở đây. Tốt nằm là cái cây. Tốt nằm là cái cây. Trái chạy là nó. Trái chạy là nó. Trái chạy là nó. không càng đường nó",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.72,
+      "text": "Mình khác cũng có ý tốt nằm là một người, vũi năng là vũa này.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.0,
+          "end": 0.52,
+          "probability": 0.69
+        },
+        {
+          "word": "khác",
+          "start": 0.52,
+          "end": 0.78,
+          "probability": 0.01
+        },
+        {
+          "word": "cũng",
+          "start": 0.78,
+          "end": 1.0,
+          "probability": 0.54
+        },
+        {
+          "word": "có",
+          "start": 1.0,
+          "end": 1.12,
+          "probability": 0.27
+        },
+        {
+          "word": "ý",
+          "start": 1.12,
+          "end": 1.22,
+          "probability": 0.09
+        },
+        {
+          "word": "tốt",
+          "start": 1.22,
+          "end": 1.4,
+          "probability": 0.22
+        },
+        {
+          "word": "nằm",
+          "start": 1.4,
+          "end": 1.82,
+          "probability": 0.45
+        },
+        {
+          "word": "là",
+          "start": 1.82,
+          "end": 2.44,
+          "probability": 0.47
+        },
+        {
+          "word": "một",
+          "start": 2.44,
+          "end": 2.62,
+          "probability": 0.07
+        },
+        {
+          "word": "người,",
+          "start": 2.62,
+          "end": 3.0,
+          "probability": 0.22
+        },
+        {
+          "word": "vũi",
+          "start": 3.04,
+          "end": 3.38,
+          "probability": 0.34
+        },
+        {
+          "word": "năng",
+          "start": 3.38,
+          "end": 3.68,
+          "probability": 0.08
+        },
+        {
+          "word": "là",
+          "start": 3.68,
+          "end": 4.0,
+          "probability": 0.51
+        },
+        {
+          "word": "vũa",
+          "start": 4.0,
+          "end": 4.5,
+          "probability": 0.65
+        },
+        {
+          "word": "này.",
+          "start": 4.5,
+          "end": 4.72,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.18,
+      "end": 6.54,
+      "text": "Thôi không có ý tốt nằm là năng là một người.",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 5.18,
+          "end": 5.26,
+          "probability": 0.53
+        },
+        {
+          "word": "không",
+          "start": 5.26,
+          "end": 5.66,
+          "probability": 0.16
+        },
+        {
+          "word": "có",
+          "start": 5.66,
+          "end": 5.68,
+          "probability": 0.7
+        },
+        {
+          "word": "ý",
+          "start": 5.68,
+          "end": 5.68,
+          "probability": 0.4
+        },
+        {
+          "word": "tốt",
+          "start": 5.68,
+          "end": 5.68,
+          "probability": 0.63
+        },
+        {
+          "word": "nằm",
+          "start": 5.68,
+          "end": 5.9,
+          "probability": 0.39
+        },
+        {
+          "word": "là",
+          "start": 5.9,
+          "end": 6.0,
+          "probability": 0.28
+        },
+        {
+          "word": "năng",
+          "start": 6.0,
+          "end": 6.4,
+          "probability": 0.34
+        },
+        {
+          "word": "là",
+          "start": 6.4,
+          "end": 6.4,
+          "probability": 0.27
+        },
+        {
+          "word": "một",
+          "start": 6.4,
+          "end": 6.54,
+          "probability": 0.06
+        },
+        {
+          "word": "người.",
+          "start": 6.54,
+          "end": 6.54,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.54,
+      "end": 7.46,
+      "text": "Thôi không có tốt nằm là một người.",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 6.54,
+          "end": 6.54,
+          "probability": 0.46
+        },
+        {
+          "word": "không",
+          "start": 6.54,
+          "end": 6.56,
+          "probability": 0.27
+        },
+        {
+          "word": "có",
+          "start": 6.56,
+          "end": 6.66,
+          "probability": 0.63
+        },
+        {
+          "word": "tốt",
+          "start": 6.66,
+          "end": 6.7,
+          "probability": 0.1
+        },
+        {
+          "word": "nằm",
+          "start": 6.7,
+          "end": 7.16,
+          "probability": 0.6
+        },
+        {
+          "word": "là",
+          "start": 7.16,
+          "end": 7.16,
+          "probability": 0.31
+        },
+        {
+          "word": "một",
+          "start": 7.16,
+          "end": 7.46,
+          "probability": 0.11
+        },
+        {
+          "word": "người.",
+          "start": 7.46,
+          "end": 7.46,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.54,
+      "end": 11.2,
+      "text": "Thôi không có tốt lấy chạy mà.",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 7.54,
+          "end": 7.86,
+          "probability": 0.52
+        },
+        {
+          "word": "không",
+          "start": 7.86,
+          "end": 8.2,
+          "probability": 0.18
+        },
+        {
+          "word": "có",
+          "start": 8.2,
+          "end": 8.2,
+          "probability": 0.67
+        },
+        {
+          "word": "tốt",
+          "start": 8.2,
+          "end": 9.14,
+          "probability": 0.55
+        },
+        {
+          "word": "lấy",
+          "start": 9.14,
+          "end": 10.5,
+          "probability": 0.05
+        },
+        {
+          "word": "chạy",
+          "start": 10.5,
+          "end": 10.98,
+          "probability": 0.31
+        },
+        {
+          "word": "mà.",
+          "start": 10.98,
+          "end": 11.2,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.7,
+      "end": 13.5,
+      "text": "Trái chạy sẽ đoạn ở đây.",
+      "words": [
+        {
+          "word": "Trái",
+          "start": 12.7,
+          "end": 12.7,
+          "probability": 0.1
+        },
+        {
+          "word": "chạy",
+          "start": 12.7,
+          "end": 12.74,
+          "probability": 0.6
+        },
+        {
+          "word": "sẽ",
+          "start": 12.74,
+          "end": 12.78,
+          "probability": 0.05
+        },
+        {
+          "word": "đoạn",
+          "start": 12.78,
+          "end": 13.06,
+          "probability": 0.13
+        },
+        {
+          "word": "ở",
+          "start": 13.06,
+          "end": 13.14,
+          "probability": 0.01
+        },
+        {
+          "word": "đây.",
+          "start": 13.14,
+          "end": 13.5,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.58,
+      "end": 13.88,
+      "text": "Tốt nằm là cái cây.",
+      "words": [
+        {
+          "word": "Tốt",
+          "start": 13.58,
+          "end": 13.7,
+          "probability": 0.09
+        },
+        {
+          "word": "nằm",
+          "start": 13.7,
+          "end": 13.88,
+          "probability": 0.45
+        },
+        {
+          "word": "là",
+          "start": 13.88,
+          "end": 13.88,
+          "probability": 0.36
+        },
+        {
+          "word": "cái",
+          "start": 13.88,
+          "end": 13.88,
+          "probability": 0.13
+        },
+        {
+          "word": "cây.",
+          "start": 13.88,
+          "end": 13.88,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 14.44,
+      "end": 15.14,
+      "text": "Tốt nằm là cái cây.",
+      "words": [
+        {
+          "word": "Tốt",
+          "start": 14.44,
+          "end": 14.68,
+          "probability": 0.47
+        },
+        {
+          "word": "nằm",
+          "start": 14.68,
+          "end": 15.14,
+          "probability": 0.64
+        },
+        {
+          "word": "là",
+          "start": 15.14,
+          "end": 15.14,
+          "probability": 0.39
+        },
+        {
+          "word": "cái",
+          "start": 15.14,
+          "end": 15.14,
+          "probability": 0.71
+        },
+        {
+          "word": "cây.",
+          "start": 15.14,
+          "end": 15.14,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.14,
+      "end": 15.7,
+      "text": "Trái chạy là nó.",
+      "words": [
+        {
+          "word": "Trái",
+          "start": 15.14,
+          "end": 15.7,
+          "probability": 0.32
+        },
+        {
+          "word": "chạy",
+          "start": 15.7,
+          "end": 15.7,
+          "probability": 0.89
+        },
+        {
+          "word": "là",
+          "start": 15.7,
+          "end": 15.7,
+          "probability": 0.07
+        },
+        {
+          "word": "nó.",
+          "start": 15.7,
+          "end": 15.7,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 15.7,
+      "end": 16.42,
+      "text": "Trái chạy là nó.",
+      "words": [
+        {
+          "word": "Trái",
+          "start": 15.7,
+          "end": 15.7,
+          "probability": 0.58
+        },
+        {
+          "word": "chạy",
+          "start": 15.7,
+          "end": 15.7,
+          "probability": 0.93
+        },
+        {
+          "word": "là",
+          "start": 15.7,
+          "end": 15.84,
+          "probability": 0.73
+        },
+        {
+          "word": "nó.",
+          "start": 15.84,
+          "end": 16.42,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 18.38,
+      "end": 28.42,
+      "text": "Trái chạy là nó.",
+      "words": [
+        {
+          "word": "Trái",
+          "start": 18.38,
+          "end": 18.98,
+          "probability": 0.61
+        },
+        {
+          "word": "chạy",
+          "start": 18.98,
+          "end": 19.26,
+          "probability": 0.96
+        },
+        {
+          "word": "là",
+          "start": 19.26,
+          "end": 25.4,
+          "probability": 0.75
+        },
+        {
+          "word": "nó.",
+          "start": 25.4,
+          "end": 28.42,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 28.42,
+      "end": 29.3,
+      "text": "không càng đường nó",
+      "words": [
+        {
+          "word": "không",
+          "start": 28.42,
+          "end": 28.62,
+          "probability": 0.08
+        },
+        {
+          "word": "càng",
+          "start": 28.62,
+          "end": 28.86,
+          "probability": 0.25
+        },
+        {
+          "word": "đường",
+          "start": 28.86,
+          "end": 29.0,
+          "probability": 0.41
+        },
+        {
+          "word": "nó",
+          "start": 29.0,
+          "end": 29.3,
+          "probability": 0.08
+        }
+      ]
+    }
+  ]
+}

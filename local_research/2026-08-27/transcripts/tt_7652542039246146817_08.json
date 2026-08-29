@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7652542039246146817_08",
+  "duration_seconds": 11.11,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Mình cứ như thế nào, không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.65,
+      "end": 3.65,
+      "text": "Mình cứ như thế nào, không?",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 1.65,
+          "end": 1.95,
+          "probability": 0.19
+        },
+        {
+          "word": "cứ",
+          "start": 1.95,
+          "end": 1.95,
+          "probability": 0.01
+        },
+        {
+          "word": "như",
+          "start": 1.95,
+          "end": 2.07,
+          "probability": 0.01
+        },
+        {
+          "word": "thế",
+          "start": 2.07,
+          "end": 2.43,
+          "probability": 0.34
+        },
+        {
+          "word": "nào,",
+          "start": 2.43,
+          "end": 2.83,
+          "probability": 0.66
+        },
+        {
+          "word": "không?",
+          "start": 3.39,
+          "end": 3.65,
+          "probability": 0.02
+        }
+      ]
+    }
+  ]
+}

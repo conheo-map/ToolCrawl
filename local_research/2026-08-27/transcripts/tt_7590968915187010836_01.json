@@ -1,0 +1,866 @@
+{
+  "item_id": "tt_7590968915187010836_01",
+  "duration_seconds": 27.89,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 135,
+  "text": "có tin mới vụ tài xế tắc xí bị khách dùng đủ tình công tại đất lắc. Tối ngày 12 tháng 1, con quan xa tổ đồng phóc chất lắc, cho biết đơn vị đã làm việc với đối tượng có hình vì dùng đối hình hương một tài xế tắc xí, khi người này đặc lại xe trên đường. Đối tượng bị trưởng tập la phán ngọc khánh, 2-3 tuổi, chú tài xá tình kiến, đất lắc. Tại các quan công an, khánh khai những khoảng 15 giờ ngày 1 một tháng 1, có hoa tắc xí trở vợ và con nhỏ từ xảy phy, đất lắc về nhà. Hí tài xế tắc xí dị trình đến thận buồn trông, xa cố lông phóc, giờ đường dụ gửu gà làm vợ khánh nụ nối.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.68,
+      "text": "có tin mới vụ tài xế tắc xí bị khách dùng đủ tình công tại đất lắc.",
+      "words": [
+        {
+          "word": "có",
+          "start": 0.0,
+          "end": 0.08,
+          "probability": 0.06
+        },
+        {
+          "word": "tin",
+          "start": 0.08,
+          "end": 0.24,
+          "probability": 0.41
+        },
+        {
+          "word": "mới",
+          "start": 0.24,
+          "end": 0.42,
+          "probability": 0.69
+        },
+        {
+          "word": "vụ",
+          "start": 0.42,
+          "end": 0.58,
+          "probability": 0.67
+        },
+        {
+          "word": "tài",
+          "start": 0.58,
+          "end": 0.78,
+          "probability": 0.53
+        },
+        {
+          "word": "xế",
+          "start": 0.78,
+          "end": 0.84,
+          "probability": 0.48
+        },
+        {
+          "word": "tắc",
+          "start": 0.84,
+          "end": 1.02,
+          "probability": 0.51
+        },
+        {
+          "word": "xí",
+          "start": 1.02,
+          "end": 1.18,
+          "probability": 0.65
+        },
+        {
+          "word": "bị",
+          "start": 1.18,
+          "end": 1.36,
+          "probability": 0.78
+        },
+        {
+          "word": "khách",
+          "start": 1.36,
+          "end": 1.48,
+          "probability": 0.73
+        },
+        {
+          "word": "dùng",
+          "start": 1.48,
+          "end": 1.66,
+          "probability": 0.75
+        },
+        {
+          "word": "đủ",
+          "start": 1.66,
+          "end": 1.8,
+          "probability": 0.37
+        },
+        {
+          "word": "tình",
+          "start": 1.8,
+          "end": 1.98,
+          "probability": 0.64
+        },
+        {
+          "word": "công",
+          "start": 1.98,
+          "end": 2.18,
+          "probability": 0.91
+        },
+        {
+          "word": "tại",
+          "start": 2.18,
+          "end": 2.3,
+          "probability": 0.76
+        },
+        {
+          "word": "đất",
+          "start": 2.3,
+          "end": 2.66,
+          "probability": 0.41
+        },
+        {
+          "word": "lắc.",
+          "start": 2.66,
+          "end": 2.68,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.32,
+      "end": 11.02,
+      "text": "Tối ngày 12 tháng 1, con quan xa tổ đồng phóc chất lắc, cho biết đơn vị đã làm việc với đối tượng có hình vì dùng đối hình hương một tài xế tắc xí, khi người này đặc lại xe trên đường.",
+      "words": [
+        {
+          "word": "Tối",
+          "start": 3.32,
+          "end": 3.36,
+          "probability": 0.66
+        },
+        {
+          "word": "ngày",
+          "start": 3.36,
+          "end": 3.48,
+          "probability": 0.24
+        },
+        {
+          "word": "12",
+          "start": 3.48,
+          "end": 3.74,
+          "probability": 0.39
+        },
+        {
+          "word": "tháng",
+          "start": 3.74,
+          "end": 3.94,
+          "probability": 0.28
+        },
+        {
+          "word": "1,",
+          "start": 3.94,
+          "end": 4.2,
+          "probability": 0.66
+        },
+        {
+          "word": "con",
+          "start": 4.38,
+          "end": 4.48,
+          "probability": 0.21
+        },
+        {
+          "word": "quan",
+          "start": 4.48,
+          "end": 4.68,
+          "probability": 0.13
+        },
+        {
+          "word": "xa",
+          "start": 4.68,
+          "end": 4.84,
+          "probability": 0.4
+        },
+        {
+          "word": "tổ",
+          "start": 4.84,
+          "end": 5.06,
+          "probability": 0.44
+        },
+        {
+          "word": "đồng",
+          "start": 5.06,
+          "end": 5.12,
+          "probability": 0.45
+        },
+        {
+          "word": "phóc",
+          "start": 5.12,
+          "end": 5.4,
+          "probability": 0.21
+        },
+        {
+          "word": "chất",
+          "start": 5.4,
+          "end": 5.62,
+          "probability": 0.38
+        },
+        {
+          "word": "lắc,",
+          "start": 5.62,
+          "end": 5.82,
+          "probability": 0.58
+        },
+        {
+          "word": "cho",
+          "start": 5.94,
+          "end": 6.06,
+          "probability": 0.56
+        },
+        {
+          "word": "biết",
+          "start": 6.06,
+          "end": 6.42,
+          "probability": 0.99
+        },
+        {
+          "word": "đơn",
+          "start": 6.42,
+          "end": 6.62,
+          "probability": 0.72
+        },
+        {
+          "word": "vị",
+          "start": 6.62,
+          "end": 6.76,
+          "probability": 0.92
+        },
+        {
+          "word": "đã",
+          "start": 6.76,
+          "end": 6.9,
+          "probability": 0.88
+        },
+        {
+          "word": "làm",
+          "start": 6.9,
+          "end": 7.08,
+          "probability": 0.94
+        },
+        {
+          "word": "việc",
+          "start": 7.08,
+          "end": 7.2,
+          "probability": 0.98
+        },
+        {
+          "word": "với",
+          "start": 7.2,
+          "end": 7.36,
+          "probability": 0.67
+        },
+        {
+          "word": "đối",
+          "start": 7.36,
+          "end": 7.58,
+          "probability": 0.65
+        },
+        {
+          "word": "tượng",
+          "start": 7.58,
+          "end": 7.6,
+          "probability": 0.87
+        },
+        {
+          "word": "có",
+          "start": 7.6,
+          "end": 7.74,
+          "probability": 0.71
+        },
+        {
+          "word": "hình",
+          "start": 7.74,
+          "end": 7.88,
+          "probability": 0.76
+        },
+        {
+          "word": "vì",
+          "start": 7.88,
+          "end": 8.0,
+          "probability": 0.55
+        },
+        {
+          "word": "dùng",
+          "start": 8.0,
+          "end": 8.2,
+          "probability": 0.9
+        },
+        {
+          "word": "đối",
+          "start": 8.2,
+          "end": 8.32,
+          "probability": 0.89
+        },
+        {
+          "word": "hình",
+          "start": 8.32,
+          "end": 8.46,
+          "probability": 0.78
+        },
+        {
+          "word": "hương",
+          "start": 8.46,
+          "end": 8.62,
+          "probability": 0.16
+        },
+        {
+          "word": "một",
+          "start": 8.62,
+          "end": 8.8,
+          "probability": 0.69
+        },
+        {
+          "word": "tài",
+          "start": 8.8,
+          "end": 8.94,
+          "probability": 0.98
+        },
+        {
+          "word": "xế",
+          "start": 8.94,
+          "end": 9.08,
+          "probability": 1.0
+        },
+        {
+          "word": "tắc",
+          "start": 9.08,
+          "end": 9.24,
+          "probability": 0.98
+        },
+        {
+          "word": "xí,",
+          "start": 9.24,
+          "end": 9.5,
+          "probability": 0.98
+        },
+        {
+          "word": "khi",
+          "start": 9.74,
+          "end": 9.8,
+          "probability": 0.93
+        },
+        {
+          "word": "người",
+          "start": 9.8,
+          "end": 9.94,
+          "probability": 0.97
+        },
+        {
+          "word": "này",
+          "start": 9.94,
+          "end": 10.1,
+          "probability": 0.86
+        },
+        {
+          "word": "đặc",
+          "start": 10.1,
+          "end": 10.3,
+          "probability": 0.61
+        },
+        {
+          "word": "lại",
+          "start": 10.3,
+          "end": 10.46,
+          "probability": 0.62
+        },
+        {
+          "word": "xe",
+          "start": 10.46,
+          "end": 10.62,
+          "probability": 0.52
+        },
+        {
+          "word": "trên",
+          "start": 10.62,
+          "end": 10.8,
+          "probability": 0.54
+        },
+        {
+          "word": "đường.",
+          "start": 10.8,
+          "end": 11.02,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.54,
+      "end": 15.8,
+      "text": "Đối tượng bị trưởng tập la phán ngọc khánh, 2-3 tuổi, chú tài xá tình kiến, đất lắc.",
+      "words": [
+        {
+          "word": "Đối",
+          "start": 11.54,
+          "end": 11.6,
+          "probability": 0.8
+        },
+        {
+          "word": "tượng",
+          "start": 11.6,
+          "end": 11.74,
+          "probability": 0.86
+        },
+        {
+          "word": "bị",
+          "start": 11.74,
+          "end": 11.9,
+          "probability": 0.4
+        },
+        {
+          "word": "trưởng",
+          "start": 11.9,
+          "end": 12.0,
+          "probability": 0.23
+        },
+        {
+          "word": "tập",
+          "start": 12.0,
+          "end": 12.16,
+          "probability": 0.95
+        },
+        {
+          "word": "la",
+          "start": 12.16,
+          "end": 12.38,
+          "probability": 0.45
+        },
+        {
+          "word": "phán",
+          "start": 12.38,
+          "end": 12.48,
+          "probability": 0.47
+        },
+        {
+          "word": "ngọc",
+          "start": 12.48,
+          "end": 12.66,
+          "probability": 0.79
+        },
+        {
+          "word": "khánh,",
+          "start": 12.66,
+          "end": 12.96,
+          "probability": 0.61
+        },
+        {
+          "word": "2",
+          "start": 13.2,
+          "end": 13.26,
+          "probability": 0.13
+        },
+        {
+          "word": "-3",
+          "start": 13.26,
+          "end": 13.52,
+          "probability": 0.33
+        },
+        {
+          "word": "tuổi,",
+          "start": 13.52,
+          "end": 13.9,
+          "probability": 0.85
+        },
+        {
+          "word": "chú",
+          "start": 14.14,
+          "end": 14.22,
+          "probability": 0.77
+        },
+        {
+          "word": "tài",
+          "start": 14.22,
+          "end": 14.4,
+          "probability": 0.68
+        },
+        {
+          "word": "xá",
+          "start": 14.4,
+          "end": 14.58,
+          "probability": 0.78
+        },
+        {
+          "word": "tình",
+          "start": 14.58,
+          "end": 14.74,
+          "probability": 0.82
+        },
+        {
+          "word": "kiến,",
+          "start": 14.74,
+          "end": 15.16,
+          "probability": 0.53
+        },
+        {
+          "word": "đất",
+          "start": 15.26,
+          "end": 15.38,
+          "probability": 0.9
+        },
+        {
+          "word": "lắc.",
+          "start": 15.38,
+          "end": 15.8,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 16.02,
+      "end": 22.4,
+      "text": "Tại các quan công an, khánh khai những khoảng 15 giờ ngày 1 một tháng 1, có hoa tắc xí trở vợ và con nhỏ từ xảy phy, đất lắc về nhà.",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 16.02,
+          "end": 16.16,
+          "probability": 0.71
+        },
+        {
+          "word": "các",
+          "start": 16.16,
+          "end": 16.26,
+          "probability": 0.49
+        },
+        {
+          "word": "quan",
+          "start": 16.26,
+          "end": 16.42,
+          "probability": 0.73
+        },
+        {
+          "word": "công",
+          "start": 16.42,
+          "end": 16.58,
+          "probability": 0.56
+        },
+        {
+          "word": "an,",
+          "start": 16.58,
+          "end": 16.9,
+          "probability": 0.62
+        },
+        {
+          "word": "khánh",
+          "start": 17.04,
+          "end": 17.22,
+          "probability": 0.56
+        },
+        {
+          "word": "khai",
+          "start": 17.22,
+          "end": 17.36,
+          "probability": 0.56
+        },
+        {
+          "word": "những",
+          "start": 17.36,
+          "end": 17.56,
+          "probability": 0.15
+        },
+        {
+          "word": "khoảng",
+          "start": 17.56,
+          "end": 17.76,
+          "probability": 0.93
+        },
+        {
+          "word": "15",
+          "start": 17.76,
+          "end": 18.02,
+          "probability": 0.25
+        },
+        {
+          "word": "giờ",
+          "start": 18.02,
+          "end": 18.22,
+          "probability": 0.3
+        },
+        {
+          "word": "ngày",
+          "start": 18.22,
+          "end": 18.38,
+          "probability": 0.41
+        },
+        {
+          "word": "1",
+          "start": 18.38,
+          "end": 18.54,
+          "probability": 0.45
+        },
+        {
+          "word": "một",
+          "start": 18.54,
+          "end": 18.62,
+          "probability": 0.05
+        },
+        {
+          "word": "tháng",
+          "start": 18.62,
+          "end": 18.76,
+          "probability": 0.75
+        },
+        {
+          "word": "1,",
+          "start": 18.76,
+          "end": 18.92,
+          "probability": 0.95
+        },
+        {
+          "word": "có",
+          "start": 19.18,
+          "end": 19.3,
+          "probability": 0.77
+        },
+        {
+          "word": "hoa",
+          "start": 19.3,
+          "end": 19.46,
+          "probability": 0.39
+        },
+        {
+          "word": "tắc",
+          "start": 19.46,
+          "end": 19.62,
+          "probability": 0.87
+        },
+        {
+          "word": "xí",
+          "start": 19.62,
+          "end": 19.78,
+          "probability": 0.99
+        },
+        {
+          "word": "trở",
+          "start": 19.78,
+          "end": 19.98,
+          "probability": 0.35
+        },
+        {
+          "word": "vợ",
+          "start": 19.98,
+          "end": 20.12,
+          "probability": 0.45
+        },
+        {
+          "word": "và",
+          "start": 20.12,
+          "end": 20.34,
+          "probability": 0.45
+        },
+        {
+          "word": "con",
+          "start": 20.34,
+          "end": 20.48,
+          "probability": 0.61
+        },
+        {
+          "word": "nhỏ",
+          "start": 20.48,
+          "end": 20.66,
+          "probability": 0.87
+        },
+        {
+          "word": "từ",
+          "start": 20.66,
+          "end": 20.86,
+          "probability": 0.79
+        },
+        {
+          "word": "xảy",
+          "start": 20.86,
+          "end": 21.28,
+          "probability": 0.48
+        },
+        {
+          "word": "phy,",
+          "start": 21.28,
+          "end": 21.46,
+          "probability": 0.38
+        },
+        {
+          "word": "đất",
+          "start": 21.74,
+          "end": 21.84,
+          "probability": 0.91
+        },
+        {
+          "word": "lắc",
+          "start": 21.84,
+          "end": 22.02,
+          "probability": 0.96
+        },
+        {
+          "word": "về",
+          "start": 22.02,
+          "end": 22.14,
+          "probability": 0.52
+        },
+        {
+          "word": "nhà.",
+          "start": 22.14,
+          "end": 22.4,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 22.84,
+      "end": 27.66,
+      "text": "Hí tài xế tắc xí dị trình đến thận buồn trông, xa cố lông phóc, giờ đường dụ gửu gà làm vợ khánh nụ nối.",
+      "words": [
+        {
+          "word": "Hí",
+          "start": 22.84,
+          "end": 23.2,
+          "probability": 0.26
+        },
+        {
+          "word": "tài",
+          "start": 23.2,
+          "end": 23.34,
+          "probability": 0.3
+        },
+        {
+          "word": "xế",
+          "start": 23.34,
+          "end": 23.48,
+          "probability": 0.27
+        },
+        {
+          "word": "tắc",
+          "start": 23.48,
+          "end": 23.62,
+          "probability": 0.48
+        },
+        {
+          "word": "xí",
+          "start": 23.62,
+          "end": 23.82,
+          "probability": 0.49
+        },
+        {
+          "word": "dị",
+          "start": 23.82,
+          "end": 24.04,
+          "probability": 0.21
+        },
+        {
+          "word": "trình",
+          "start": 24.04,
+          "end": 24.14,
+          "probability": 0.36
+        },
+        {
+          "word": "đến",
+          "start": 24.14,
+          "end": 24.3,
+          "probability": 0.89
+        },
+        {
+          "word": "thận",
+          "start": 24.3,
+          "end": 24.48,
+          "probability": 0.49
+        },
+        {
+          "word": "buồn",
+          "start": 24.48,
+          "end": 24.66,
+          "probability": 0.61
+        },
+        {
+          "word": "trông,",
+          "start": 24.66,
+          "end": 25.04,
+          "probability": 0.33
+        },
+        {
+          "word": "xa",
+          "start": 25.26,
+          "end": 25.34,
+          "probability": 0.11
+        },
+        {
+          "word": "cố",
+          "start": 25.34,
+          "end": 25.48,
+          "probability": 0.23
+        },
+        {
+          "word": "lông",
+          "start": 25.48,
+          "end": 25.62,
+          "probability": 0.33
+        },
+        {
+          "word": "phóc,",
+          "start": 25.62,
+          "end": 25.98,
+          "probability": 0.24
+        },
+        {
+          "word": "giờ",
+          "start": 26.06,
+          "end": 26.12,
+          "probability": 0.26
+        },
+        {
+          "word": "đường",
+          "start": 26.12,
+          "end": 26.3,
+          "probability": 0.66
+        },
+        {
+          "word": "dụ",
+          "start": 26.3,
+          "end": 26.48,
+          "probability": 0.45
+        },
+        {
+          "word": "gửu",
+          "start": 26.48,
+          "end": 26.56,
+          "probability": 0.27
+        },
+        {
+          "word": "gà",
+          "start": 26.56,
+          "end": 26.76,
+          "probability": 0.4
+        },
+        {
+          "word": "làm",
+          "start": 26.76,
+          "end": 26.94,
+          "probability": 0.75
+        },
+        {
+          "word": "vợ",
+          "start": 26.94,
+          "end": 27.1,
+          "probability": 0.58
+        },
+        {
+          "word": "khánh",
+          "start": 27.1,
+          "end": 27.28,
+          "probability": 0.31
+        },
+        {
+          "word": "nụ",
+          "start": 27.28,
+          "end": 27.42,
+          "probability": 0.29
+        },
+        {
+          "word": "nối.",
+          "start": 27.42,
+          "end": 27.66,
+          "probability": 0.3
+        }
+      ]
+    }
+  ]
+}

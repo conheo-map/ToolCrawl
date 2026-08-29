@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7639564682843442452_78",
+  "duration_seconds": 25.44,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Nói chứ, đúng không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.04,
+      "end": 23.54,
+      "text": "Nói chứ, đúng không?",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 3.04,
+          "end": 4.44,
+          "probability": 0.21
+        },
+        {
+          "word": "chứ,",
+          "start": 4.44,
+          "end": 5.84,
+          "probability": 0.08
+        },
+        {
+          "word": "đúng",
+          "start": 7.52,
+          "end": 12.46,
+          "probability": 0.06
+        },
+        {
+          "word": "không?",
+          "start": 12.46,
+          "end": 23.54,
+          "probability": 0.27
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "item_id": "tt_7652342545443261716_23",
+  "duration_seconds": 27.44,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "Thì là cái sân lực khá pháp Năng lực",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.16,
+      "text": "Thì là cái sân lực khá pháp",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 0.0,
+          "end": 0.78,
+          "probability": 0.13
+        },
+        {
+          "word": "là",
+          "start": 0.78,
+          "end": 2.02,
+          "probability": 0.22
+        },
+        {
+          "word": "cái",
+          "start": 2.02,
+          "end": 2.22,
+          "probability": 0.58
+        },
+        {
+          "word": "sân",
+          "start": 2.22,
+          "end": 2.38,
+          "probability": 0.11
+        },
+        {
+          "word": "lực",
+          "start": 2.38,
+          "end": 2.56,
+          "probability": 0.58
+        },
+        {
+          "word": "khá",
+          "start": 2.56,
+          "end": 2.92,
+          "probability": 0.24
+        },
+        {
+          "word": "pháp",
+          "start": 2.92,
+          "end": 3.16,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.16,
+      "end": 3.72,
+      "text": "Năng lực",
+      "words": [
+        {
+          "word": "Năng",
+          "start": 3.16,
+          "end": 3.38,
+          "probability": 0.08
+        },
+        {
+          "word": "lực",
+          "start": 3.38,
+          "end": 3.72,
+          "probability": 0.49
+        }
+      ]
+    }
+  ]
+}

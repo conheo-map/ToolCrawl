@@ -1,0 +1,134 @@
+{
+  "item_id": "tt_7666836283473333525_13",
+  "duration_seconds": 12.6,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 18,
+  "text": "không biết rồi thì xin chào then các bạn ở những video thì đi có kể cho sao",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.4,
+      "text": "không biết rồi thì xin chào",
+      "words": [
+        {
+          "word": "không",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.23
+        },
+        {
+          "word": "biết",
+          "start": 0.34,
+          "end": 0.4,
+          "probability": 0.25
+        },
+        {
+          "word": "rồi",
+          "start": 0.4,
+          "end": 0.52,
+          "probability": 0.14
+        },
+        {
+          "word": "thì",
+          "start": 0.52,
+          "end": 0.88,
+          "probability": 0.14
+        },
+        {
+          "word": "xin",
+          "start": 0.88,
+          "end": 1.08,
+          "probability": 0.81
+        },
+        {
+          "word": "chào",
+          "start": 1.08,
+          "end": 1.4,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.4,
+      "end": 3.64,
+      "text": "then các bạn ở những video thì đi có kể cho sao",
+      "words": [
+        {
+          "word": "then",
+          "start": 1.4,
+          "end": 1.66,
+          "probability": 0.03
+        },
+        {
+          "word": "các",
+          "start": 1.66,
+          "end": 1.8,
+          "probability": 0.25
+        },
+        {
+          "word": "bạn",
+          "start": 1.8,
+          "end": 1.94,
+          "probability": 0.94
+        },
+        {
+          "word": "ở",
+          "start": 1.94,
+          "end": 2.1,
+          "probability": 0.18
+        },
+        {
+          "word": "những",
+          "start": 2.1,
+          "end": 2.26,
+          "probability": 0.89
+        },
+        {
+          "word": "video",
+          "start": 2.26,
+          "end": 2.48,
+          "probability": 0.64
+        },
+        {
+          "word": "thì",
+          "start": 2.48,
+          "end": 2.64,
+          "probability": 0.14
+        },
+        {
+          "word": "đi",
+          "start": 2.64,
+          "end": 2.78,
+          "probability": 0.35
+        },
+        {
+          "word": "có",
+          "start": 2.78,
+          "end": 2.88,
+          "probability": 0.16
+        },
+        {
+          "word": "kể",
+          "start": 2.88,
+          "end": 3.04,
+          "probability": 0.37
+        },
+        {
+          "word": "cho",
+          "start": 3.04,
+          "end": 3.24,
+          "probability": 0.25
+        },
+        {
+          "word": "sao",
+          "start": 3.24,
+          "end": 3.64,
+          "probability": 0.2
+        }
+      ]
+    }
+  ]
+}

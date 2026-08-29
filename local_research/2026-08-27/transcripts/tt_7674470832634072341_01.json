@@ -1,0 +1,612 @@
+{
+  "item_id": "tt_7674470832634072341_01",
+  "duration_seconds": 24.95,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 87,
+  "text": "Mình gà thì mừng gà thì làm cho mừng điểm dài gũ Ở đây thì mẹ đe gũ để nè chó Ở Gồi ở trên nơi trên gà thì nở hả Chỉ nơi nở, nơi em, nơi em một chờ nữa Cứ một người nở một người nở, một người nở tài gũ thì nơi nở Cô xem như mù để hồi chước Gồi ngủ như nhà, vui ở trên gà Bánh chuyển nấu ăn của phải đưa ra bên ngoài để bất nắm Và bất chực",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Mình gà thì mừng gà thì làm cho mừng điểm dài gũ",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.29
+        },
+        {
+          "word": "gà",
+          "start": 0.4,
+          "end": 0.4,
+          "probability": 0.17
+        },
+        {
+          "word": "thì",
+          "start": 0.4,
+          "end": 0.6,
+          "probability": 0.37
+        },
+        {
+          "word": "mừng",
+          "start": 0.6,
+          "end": 1.12,
+          "probability": 0.12
+        },
+        {
+          "word": "gà",
+          "start": 1.12,
+          "end": 1.38,
+          "probability": 0.56
+        },
+        {
+          "word": "thì",
+          "start": 1.38,
+          "end": 1.62,
+          "probability": 0.58
+        },
+        {
+          "word": "làm",
+          "start": 1.62,
+          "end": 1.92,
+          "probability": 0.11
+        },
+        {
+          "word": "cho",
+          "start": 1.92,
+          "end": 2.38,
+          "probability": 0.15
+        },
+        {
+          "word": "mừng",
+          "start": 2.38,
+          "end": 2.62,
+          "probability": 0.54
+        },
+        {
+          "word": "điểm",
+          "start": 2.62,
+          "end": 2.88,
+          "probability": 0.26
+        },
+        {
+          "word": "dài",
+          "start": 2.88,
+          "end": 3.08,
+          "probability": 0.35
+        },
+        {
+          "word": "gũ",
+          "start": 3.08,
+          "end": 3.4,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.4,
+      "end": 5.94,
+      "text": "Ở đây thì mẹ đe gũ để nè chó",
+      "words": [
+        {
+          "word": "Ở",
+          "start": 3.4,
+          "end": 3.76,
+          "probability": 0.46
+        },
+        {
+          "word": "đây",
+          "start": 3.76,
+          "end": 3.92,
+          "probability": 0.66
+        },
+        {
+          "word": "thì",
+          "start": 3.92,
+          "end": 4.34,
+          "probability": 0.6
+        },
+        {
+          "word": "mẹ",
+          "start": 4.34,
+          "end": 5.1,
+          "probability": 0.73
+        },
+        {
+          "word": "đe",
+          "start": 5.1,
+          "end": 5.28,
+          "probability": 0.21
+        },
+        {
+          "word": "gũ",
+          "start": 5.28,
+          "end": 5.34,
+          "probability": 0.81
+        },
+        {
+          "word": "để",
+          "start": 5.34,
+          "end": 5.52,
+          "probability": 0.43
+        },
+        {
+          "word": "nè",
+          "start": 5.52,
+          "end": 5.64,
+          "probability": 0.31
+        },
+        {
+          "word": "chó",
+          "start": 5.64,
+          "end": 5.94,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.56,
+      "end": 7.0,
+      "text": "Ở",
+      "words": [
+        {
+          "word": "Ở",
+          "start": 6.56,
+          "end": 7.0,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.0,
+      "end": 9.46,
+      "text": "Gồi ở trên nơi trên gà thì nở hả",
+      "words": [
+        {
+          "word": "Gồi",
+          "start": 7.0,
+          "end": 7.48,
+          "probability": 0.12
+        },
+        {
+          "word": "ở",
+          "start": 7.48,
+          "end": 7.66,
+          "probability": 0.09
+        },
+        {
+          "word": "trên",
+          "start": 7.66,
+          "end": 7.8,
+          "probability": 0.84
+        },
+        {
+          "word": "nơi",
+          "start": 7.8,
+          "end": 8.02,
+          "probability": 0.22
+        },
+        {
+          "word": "trên",
+          "start": 8.02,
+          "end": 8.24,
+          "probability": 0.84
+        },
+        {
+          "word": "gà",
+          "start": 8.24,
+          "end": 8.52,
+          "probability": 0.36
+        },
+        {
+          "word": "thì",
+          "start": 8.52,
+          "end": 8.78,
+          "probability": 0.82
+        },
+        {
+          "word": "nở",
+          "start": 8.78,
+          "end": 9.16,
+          "probability": 0.2
+        },
+        {
+          "word": "hả",
+          "start": 9.16,
+          "end": 9.46,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 10.0,
+      "end": 13.0,
+      "text": "Chỉ nơi nở, nơi em, nơi em một chờ nữa",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 10.0,
+          "end": 10.44,
+          "probability": 0.25
+        },
+        {
+          "word": "nơi",
+          "start": 10.44,
+          "end": 10.74,
+          "probability": 0.22
+        },
+        {
+          "word": "nở,",
+          "start": 10.74,
+          "end": 11.14,
+          "probability": 0.19
+        },
+        {
+          "word": "nơi",
+          "start": 11.26,
+          "end": 11.52,
+          "probability": 0.41
+        },
+        {
+          "word": "em,",
+          "start": 11.52,
+          "end": 11.9,
+          "probability": 0.27
+        },
+        {
+          "word": "nơi",
+          "start": 11.9,
+          "end": 12.0,
+          "probability": 0.38
+        },
+        {
+          "word": "em",
+          "start": 12.0,
+          "end": 12.16,
+          "probability": 0.98
+        },
+        {
+          "word": "một",
+          "start": 12.16,
+          "end": 12.24,
+          "probability": 0.13
+        },
+        {
+          "word": "chờ",
+          "start": 12.24,
+          "end": 12.38,
+          "probability": 0.39
+        },
+        {
+          "word": "nữa",
+          "start": 12.38,
+          "end": 13.0,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.0,
+      "end": 15.36,
+      "text": "Cứ một người nở một người nở, một người nở tài gũ thì nơi nở",
+      "words": [
+        {
+          "word": "Cứ",
+          "start": 13.0,
+          "end": 13.24,
+          "probability": 0.58
+        },
+        {
+          "word": "một",
+          "start": 13.24,
+          "end": 13.34,
+          "probability": 0.21
+        },
+        {
+          "word": "người",
+          "start": 13.34,
+          "end": 13.6,
+          "probability": 0.53
+        },
+        {
+          "word": "nở",
+          "start": 13.6,
+          "end": 13.74,
+          "probability": 0.5
+        },
+        {
+          "word": "một",
+          "start": 13.74,
+          "end": 13.94,
+          "probability": 0.43
+        },
+        {
+          "word": "người",
+          "start": 13.94,
+          "end": 14.14,
+          "probability": 0.82
+        },
+        {
+          "word": "nở,",
+          "start": 14.14,
+          "end": 14.16,
+          "probability": 0.31
+        },
+        {
+          "word": "một",
+          "start": 14.16,
+          "end": 14.16,
+          "probability": 0.02
+        },
+        {
+          "word": "người",
+          "start": 14.16,
+          "end": 14.16,
+          "probability": 0.89
+        },
+        {
+          "word": "nở",
+          "start": 14.16,
+          "end": 14.26,
+          "probability": 0.39
+        },
+        {
+          "word": "tài",
+          "start": 14.26,
+          "end": 14.34,
+          "probability": 0.36
+        },
+        {
+          "word": "gũ",
+          "start": 14.34,
+          "end": 14.56,
+          "probability": 0.77
+        },
+        {
+          "word": "thì",
+          "start": 14.56,
+          "end": 14.8,
+          "probability": 0.13
+        },
+        {
+          "word": "nơi",
+          "start": 14.8,
+          "end": 15.24,
+          "probability": 0.45
+        },
+        {
+          "word": "nở",
+          "start": 15.24,
+          "end": 15.36,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.36,
+      "end": 17.28,
+      "text": "Cô xem như mù để hồi chước",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 15.36,
+          "end": 15.82,
+          "probability": 0.04
+        },
+        {
+          "word": "xem",
+          "start": 15.82,
+          "end": 16.0,
+          "probability": 0.16
+        },
+        {
+          "word": "như",
+          "start": 16.0,
+          "end": 16.22,
+          "probability": 0.22
+        },
+        {
+          "word": "mù",
+          "start": 16.22,
+          "end": 16.42,
+          "probability": 0.37
+        },
+        {
+          "word": "để",
+          "start": 16.42,
+          "end": 16.58,
+          "probability": 0.35
+        },
+        {
+          "word": "hồi",
+          "start": 16.58,
+          "end": 16.74,
+          "probability": 0.52
+        },
+        {
+          "word": "chước",
+          "start": 16.74,
+          "end": 17.28,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 17.88,
+      "end": 20.6,
+      "text": "Gồi ngủ như nhà, vui ở trên gà",
+      "words": [
+        {
+          "word": "Gồi",
+          "start": 17.88,
+          "end": 18.32,
+          "probability": 0.23
+        },
+        {
+          "word": "ngủ",
+          "start": 18.32,
+          "end": 18.56,
+          "probability": 0.5
+        },
+        {
+          "word": "như",
+          "start": 18.56,
+          "end": 18.72,
+          "probability": 0.18
+        },
+        {
+          "word": "nhà,",
+          "start": 18.72,
+          "end": 19.26,
+          "probability": 0.45
+        },
+        {
+          "word": "vui",
+          "start": 19.42,
+          "end": 19.58,
+          "probability": 0.44
+        },
+        {
+          "word": "ở",
+          "start": 19.58,
+          "end": 19.8,
+          "probability": 0.97
+        },
+        {
+          "word": "trên",
+          "start": 19.8,
+          "end": 19.98,
+          "probability": 0.96
+        },
+        {
+          "word": "gà",
+          "start": 19.98,
+          "end": 20.6,
+          "probability": 0.79
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 20.6,
+      "end": 23.98,
+      "text": "Bánh chuyển nấu ăn của phải đưa ra bên ngoài để bất nắm",
+      "words": [
+        {
+          "word": "Bánh",
+          "start": 20.6,
+          "end": 21.38,
+          "probability": 0.16
+        },
+        {
+          "word": "chuyển",
+          "start": 21.38,
+          "end": 21.58,
+          "probability": 0.37
+        },
+        {
+          "word": "nấu",
+          "start": 21.58,
+          "end": 21.8,
+          "probability": 0.72
+        },
+        {
+          "word": "ăn",
+          "start": 21.8,
+          "end": 22.04,
+          "probability": 0.82
+        },
+        {
+          "word": "của",
+          "start": 22.04,
+          "end": 22.24,
+          "probability": 0.48
+        },
+        {
+          "word": "phải",
+          "start": 22.24,
+          "end": 22.44,
+          "probability": 0.38
+        },
+        {
+          "word": "đưa",
+          "start": 22.44,
+          "end": 22.62,
+          "probability": 0.94
+        },
+        {
+          "word": "ra",
+          "start": 22.62,
+          "end": 22.78,
+          "probability": 0.54
+        },
+        {
+          "word": "bên",
+          "start": 22.78,
+          "end": 22.96,
+          "probability": 0.63
+        },
+        {
+          "word": "ngoài",
+          "start": 22.96,
+          "end": 23.24,
+          "probability": 0.97
+        },
+        {
+          "word": "để",
+          "start": 23.24,
+          "end": 23.48,
+          "probability": 0.71
+        },
+        {
+          "word": "bất",
+          "start": 23.48,
+          "end": 23.66,
+          "probability": 0.52
+        },
+        {
+          "word": "nắm",
+          "start": 23.66,
+          "end": 23.98,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 23.98,
+      "end": 24.68,
+      "text": "Và bất chực",
+      "words": [
+        {
+          "word": "Và",
+          "start": 23.98,
+          "end": 24.24,
+          "probability": 0.27
+        },
+        {
+          "word": "bất",
+          "start": 24.24,
+          "end": 24.44,
+          "probability": 0.93
+        },
+        {
+          "word": "chực",
+          "start": 24.44,
+          "end": 24.68,
+          "probability": 0.56
+        }
+      ]
+    }
+  ]
+}

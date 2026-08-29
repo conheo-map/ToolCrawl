@@ -1,0 +1,98 @@
+{
+  "item_id": "tt_7673900137902509332_04",
+  "duration_seconds": 17.48,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "Mà khỏa đây này cả nhiều b взu nào Nenhク đứa ạ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 10.82,
+      "text": "Mà khỏa đây này cả nhiều b взu nào",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 0.02,
+          "end": 0.6,
+          "probability": 0.36
+        },
+        {
+          "word": "khỏa",
+          "start": 0.6,
+          "end": 0.8,
+          "probability": 0.38
+        },
+        {
+          "word": "đây",
+          "start": 0.8,
+          "end": 1.02,
+          "probability": 0.02
+        },
+        {
+          "word": "này",
+          "start": 1.02,
+          "end": 1.36,
+          "probability": 0.02
+        },
+        {
+          "word": "cả",
+          "start": 1.36,
+          "end": 5.18,
+          "probability": 0.0
+        },
+        {
+          "word": "nhiều",
+          "start": 5.18,
+          "end": 6.0,
+          "probability": 0.0
+        },
+        {
+          "word": "b",
+          "start": 6.0,
+          "end": 10.82,
+          "probability": 0.02
+        },
+        {
+          "word": "взu",
+          "start": 10.82,
+          "end": 10.82,
+          "probability": 0.04
+        },
+        {
+          "word": "nào",
+          "start": 10.82,
+          "end": 10.82,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 10.82,
+      "end": 17.34,
+      "text": "Nenhク đứa ạ",
+      "words": [
+        {
+          "word": "Nenhク",
+          "start": 10.82,
+          "end": 12.62,
+          "probability": 0.0
+        },
+        {
+          "word": "đứa",
+          "start": 12.62,
+          "end": 12.62,
+          "probability": 0.33
+        },
+        {
+          "word": "ạ",
+          "start": 12.62,
+          "end": 17.34,
+          "probability": 0.07
+        }
+      ]
+    }
+  ]
+}

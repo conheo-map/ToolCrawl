@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7378455927592144136_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Đấy, hôm nay?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.5,
+      "end": 1.18,
+      "text": "Đấy, hôm nay?",
+      "words": [
+        {
+          "word": "Đấy,",
+          "start": 0.5,
+          "end": 0.86,
+          "probability": 0.03
+        },
+        {
+          "word": "hôm",
+          "start": 1.04,
+          "end": 1.14,
+          "probability": 0.2
+        },
+        {
+          "word": "nay?",
+          "start": 1.14,
+          "end": 1.18,
+          "probability": 0.91
+        }
+      ]
+    }
+  ]
+}

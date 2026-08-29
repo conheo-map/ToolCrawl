@@ -1,0 +1,574 @@
+{
+  "item_id": "tt_7654205188613590292_12",
+  "duration_seconds": 24.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 86,
+  "text": "Sắt dơ sống thì mang dễ trái trái trái thức khách ngồi trước đi. Rồi mang đứa trái thức đi. Gái thức kêu dị trái em sư là khách và giữ dễ. Còn những cái gia đình phóng mới trở và phá giữa trời trời cho con người phá có một cái cuộc trái dễ dù. Dạy, con khá dễ dễ dễ dễ dễ trái trái đẹp trảm dẫn được là. Tôi có dễ dù, tôi có được trái dù, tôi có đị thực phá dù.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 4.13,
+      "text": "Sắt dơ sống thì mang dễ trái trái trái thức khách ngồi trước đi.",
+      "words": [
+        {
+          "word": "Sắt",
+          "start": 0.05,
+          "end": 0.51,
+          "probability": 0.29
+        },
+        {
+          "word": "dơ",
+          "start": 0.51,
+          "end": 0.73,
+          "probability": 0.35
+        },
+        {
+          "word": "sống",
+          "start": 0.73,
+          "end": 1.05,
+          "probability": 0.45
+        },
+        {
+          "word": "thì",
+          "start": 1.05,
+          "end": 1.69,
+          "probability": 0.2
+        },
+        {
+          "word": "mang",
+          "start": 1.69,
+          "end": 2.13,
+          "probability": 0.87
+        },
+        {
+          "word": "dễ",
+          "start": 2.13,
+          "end": 2.35,
+          "probability": 0.49
+        },
+        {
+          "word": "trái",
+          "start": 2.35,
+          "end": 2.67,
+          "probability": 0.31
+        },
+        {
+          "word": "trái",
+          "start": 2.67,
+          "end": 2.95,
+          "probability": 0.47
+        },
+        {
+          "word": "trái",
+          "start": 2.95,
+          "end": 3.03,
+          "probability": 0.74
+        },
+        {
+          "word": "thức",
+          "start": 3.03,
+          "end": 3.11,
+          "probability": 0.27
+        },
+        {
+          "word": "khách",
+          "start": 3.11,
+          "end": 3.29,
+          "probability": 0.46
+        },
+        {
+          "word": "ngồi",
+          "start": 3.29,
+          "end": 3.43,
+          "probability": 0.39
+        },
+        {
+          "word": "trước",
+          "start": 3.43,
+          "end": 3.65,
+          "probability": 0.71
+        },
+        {
+          "word": "đi.",
+          "start": 3.65,
+          "end": 4.13,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.45,
+      "end": 6.09,
+      "text": "Rồi mang đứa trái thức đi.",
+      "words": [
+        {
+          "word": "Rồi",
+          "start": 4.45,
+          "end": 4.65,
+          "probability": 0.7
+        },
+        {
+          "word": "mang",
+          "start": 4.65,
+          "end": 4.83,
+          "probability": 0.97
+        },
+        {
+          "word": "đứa",
+          "start": 4.83,
+          "end": 4.99,
+          "probability": 0.57
+        },
+        {
+          "word": "trái",
+          "start": 4.99,
+          "end": 5.27,
+          "probability": 0.69
+        },
+        {
+          "word": "thức",
+          "start": 5.27,
+          "end": 5.59,
+          "probability": 0.96
+        },
+        {
+          "word": "đi.",
+          "start": 5.59,
+          "end": 6.09,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.59,
+      "end": 10.23,
+      "text": "Gái thức kêu dị trái em sư là khách và giữ dễ.",
+      "words": [
+        {
+          "word": "Gái",
+          "start": 6.59,
+          "end": 6.73,
+          "probability": 0.17
+        },
+        {
+          "word": "thức",
+          "start": 6.73,
+          "end": 6.95,
+          "probability": 0.59
+        },
+        {
+          "word": "kêu",
+          "start": 6.95,
+          "end": 7.17,
+          "probability": 0.4
+        },
+        {
+          "word": "dị",
+          "start": 7.17,
+          "end": 7.51,
+          "probability": 0.58
+        },
+        {
+          "word": "trái",
+          "start": 7.51,
+          "end": 7.89,
+          "probability": 0.39
+        },
+        {
+          "word": "em",
+          "start": 7.89,
+          "end": 8.13,
+          "probability": 0.94
+        },
+        {
+          "word": "sư",
+          "start": 8.13,
+          "end": 8.41,
+          "probability": 0.36
+        },
+        {
+          "word": "là",
+          "start": 8.41,
+          "end": 9.03,
+          "probability": 0.51
+        },
+        {
+          "word": "khách",
+          "start": 9.03,
+          "end": 9.23,
+          "probability": 0.79
+        },
+        {
+          "word": "và",
+          "start": 9.23,
+          "end": 9.37,
+          "probability": 0.21
+        },
+        {
+          "word": "giữ",
+          "start": 9.37,
+          "end": 9.65,
+          "probability": 0.29
+        },
+        {
+          "word": "dễ.",
+          "start": 9.65,
+          "end": 10.23,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.47,
+      "end": 16.33,
+      "text": "Còn những cái gia đình phóng mới trở và phá giữa trời trời cho con người phá có một cái cuộc trái dễ dù.",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 10.47,
+          "end": 10.55,
+          "probability": 0.32
+        },
+        {
+          "word": "những",
+          "start": 10.55,
+          "end": 10.83,
+          "probability": 0.32
+        },
+        {
+          "word": "cái",
+          "start": 10.83,
+          "end": 11.09,
+          "probability": 0.15
+        },
+        {
+          "word": "gia",
+          "start": 11.09,
+          "end": 11.33,
+          "probability": 0.88
+        },
+        {
+          "word": "đình",
+          "start": 11.33,
+          "end": 11.61,
+          "probability": 0.94
+        },
+        {
+          "word": "phóng",
+          "start": 11.61,
+          "end": 12.51,
+          "probability": 0.54
+        },
+        {
+          "word": "mới",
+          "start": 12.51,
+          "end": 12.71,
+          "probability": 0.53
+        },
+        {
+          "word": "trở",
+          "start": 12.71,
+          "end": 12.97,
+          "probability": 0.4
+        },
+        {
+          "word": "và",
+          "start": 12.97,
+          "end": 13.19,
+          "probability": 0.23
+        },
+        {
+          "word": "phá",
+          "start": 13.19,
+          "end": 13.49,
+          "probability": 0.62
+        },
+        {
+          "word": "giữa",
+          "start": 13.49,
+          "end": 13.51,
+          "probability": 0.3
+        },
+        {
+          "word": "trời",
+          "start": 13.51,
+          "end": 13.91,
+          "probability": 0.26
+        },
+        {
+          "word": "trời",
+          "start": 13.91,
+          "end": 14.15,
+          "probability": 0.52
+        },
+        {
+          "word": "cho",
+          "start": 14.15,
+          "end": 14.23,
+          "probability": 0.17
+        },
+        {
+          "word": "con",
+          "start": 14.23,
+          "end": 14.43,
+          "probability": 0.32
+        },
+        {
+          "word": "người",
+          "start": 14.43,
+          "end": 14.51,
+          "probability": 0.6
+        },
+        {
+          "word": "phá",
+          "start": 14.51,
+          "end": 14.71,
+          "probability": 0.44
+        },
+        {
+          "word": "có",
+          "start": 14.71,
+          "end": 14.89,
+          "probability": 0.86
+        },
+        {
+          "word": "một",
+          "start": 14.89,
+          "end": 15.05,
+          "probability": 0.64
+        },
+        {
+          "word": "cái",
+          "start": 15.05,
+          "end": 15.21,
+          "probability": 0.46
+        },
+        {
+          "word": "cuộc",
+          "start": 15.21,
+          "end": 15.41,
+          "probability": 0.76
+        },
+        {
+          "word": "trái",
+          "start": 15.41,
+          "end": 15.61,
+          "probability": 0.9
+        },
+        {
+          "word": "dễ",
+          "start": 15.61,
+          "end": 15.87,
+          "probability": 0.38
+        },
+        {
+          "word": "dù.",
+          "start": 15.87,
+          "end": 16.33,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.95,
+      "end": 20.83,
+      "text": "Dạy, con khá dễ dễ dễ dễ dễ trái trái đẹp trảm dẫn được là.",
+      "words": [
+        {
+          "word": "Dạy,",
+          "start": 16.95,
+          "end": 17.29,
+          "probability": 0.52
+        },
+        {
+          "word": "con",
+          "start": 17.45,
+          "end": 17.53,
+          "probability": 0.56
+        },
+        {
+          "word": "khá",
+          "start": 17.53,
+          "end": 17.93,
+          "probability": 0.72
+        },
+        {
+          "word": "dễ",
+          "start": 17.93,
+          "end": 18.37,
+          "probability": 0.62
+        },
+        {
+          "word": "dễ",
+          "start": 18.37,
+          "end": 18.53,
+          "probability": 0.26
+        },
+        {
+          "word": "dễ",
+          "start": 18.53,
+          "end": 18.79,
+          "probability": 0.2
+        },
+        {
+          "word": "dễ",
+          "start": 18.79,
+          "end": 18.99,
+          "probability": 0.39
+        },
+        {
+          "word": "dễ",
+          "start": 18.99,
+          "end": 19.35,
+          "probability": 0.48
+        },
+        {
+          "word": "trái",
+          "start": 19.35,
+          "end": 19.35,
+          "probability": 0.49
+        },
+        {
+          "word": "trái",
+          "start": 19.35,
+          "end": 19.49,
+          "probability": 0.56
+        },
+        {
+          "word": "đẹp",
+          "start": 19.49,
+          "end": 19.59,
+          "probability": 0.18
+        },
+        {
+          "word": "trảm",
+          "start": 19.59,
+          "end": 19.93,
+          "probability": 0.36
+        },
+        {
+          "word": "dẫn",
+          "start": 19.93,
+          "end": 20.13,
+          "probability": 0.5
+        },
+        {
+          "word": "được",
+          "start": 20.13,
+          "end": 20.47,
+          "probability": 0.94
+        },
+        {
+          "word": "là.",
+          "start": 20.47,
+          "end": 20.83,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 21.01,
+      "end": 23.75,
+      "text": "Tôi có dễ dù, tôi có được trái dù, tôi có đị thực phá dù.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 21.01,
+          "end": 21.01,
+          "probability": 0.35
+        },
+        {
+          "word": "có",
+          "start": 21.01,
+          "end": 21.17,
+          "probability": 0.9
+        },
+        {
+          "word": "dễ",
+          "start": 21.17,
+          "end": 21.37,
+          "probability": 0.62
+        },
+        {
+          "word": "dù,",
+          "start": 21.37,
+          "end": 21.65,
+          "probability": 0.97
+        },
+        {
+          "word": "tôi",
+          "start": 21.83,
+          "end": 21.89,
+          "probability": 0.96
+        },
+        {
+          "word": "có",
+          "start": 21.89,
+          "end": 22.01,
+          "probability": 0.92
+        },
+        {
+          "word": "được",
+          "start": 22.01,
+          "end": 22.17,
+          "probability": 0.52
+        },
+        {
+          "word": "trái",
+          "start": 22.17,
+          "end": 22.43,
+          "probability": 0.61
+        },
+        {
+          "word": "dù,",
+          "start": 22.43,
+          "end": 22.67,
+          "probability": 0.58
+        },
+        {
+          "word": "tôi",
+          "start": 22.89,
+          "end": 22.89,
+          "probability": 0.95
+        },
+        {
+          "word": "có",
+          "start": 22.89,
+          "end": 23.05,
+          "probability": 1.0
+        },
+        {
+          "word": "đị",
+          "start": 23.05,
+          "end": 23.19,
+          "probability": 0.22
+        },
+        {
+          "word": "thực",
+          "start": 23.19,
+          "end": 23.33,
+          "probability": 0.27
+        },
+        {
+          "word": "phá",
+          "start": 23.33,
+          "end": 23.53,
+          "probability": 0.43
+        },
+        {
+          "word": "dù.",
+          "start": 23.53,
+          "end": 23.75,
+          "probability": 0.43
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7672953128332856583_08",
+  "duration_seconds": 28.47,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Hãy subscribe!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.21,
+      "end": 21.46,
+      "text": "Hãy subscribe!",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 0.21,
+          "end": 1.59,
+          "probability": 0.08
+        },
+        {
+          "word": "subscribe!",
+          "start": 21.14,
+          "end": 21.46,
+          "probability": 0.1
+        }
+      ]
+    }
+  ]
+}

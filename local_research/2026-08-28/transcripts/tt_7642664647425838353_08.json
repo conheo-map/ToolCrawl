@@ -1,0 +1,764 @@
+{
+  "item_id": "tt_7642664647425838353_08",
+  "duration_seconds": 29.55,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 99,
+  "text": "Tại vì điều mà và mềm việu này mà nó mà điểm chỉ có kinh hiểu thôi nhá Thì đến số chất tôn nơi đây nó là gì đây số chất nơi đây nó là gì nó số cấp Trời số số này em mà em nơi gì nơi số cấp đi chọn ra ai phần 2 số tình nhận mất bố liệu có thể hữu ý mà đi có thể 2 quán 2 kinh hiểu hơi Trời là số tình nhận mất bố liệu có thể hữu có 2 kinh hiểu nó gì cả lắm nơi gì em",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.1,
+      "text": "Tại vì điều mà và mềm việu này mà nó mà điểm chỉ có kinh hiểu thôi",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.16
+        },
+        {
+          "word": "vì",
+          "start": 0.36,
+          "end": 0.36,
+          "probability": 0.92
+        },
+        {
+          "word": "điều",
+          "start": 0.36,
+          "end": 0.6,
+          "probability": 0.11
+        },
+        {
+          "word": "mà",
+          "start": 0.6,
+          "end": 0.64,
+          "probability": 0.36
+        },
+        {
+          "word": "và",
+          "start": 0.64,
+          "end": 0.82,
+          "probability": 0.09
+        },
+        {
+          "word": "mềm",
+          "start": 0.82,
+          "end": 1.06,
+          "probability": 0.33
+        },
+        {
+          "word": "việu",
+          "start": 1.06,
+          "end": 1.18,
+          "probability": 0.17
+        },
+        {
+          "word": "này",
+          "start": 1.18,
+          "end": 1.38,
+          "probability": 0.11
+        },
+        {
+          "word": "mà",
+          "start": 1.38,
+          "end": 1.56,
+          "probability": 0.09
+        },
+        {
+          "word": "nó",
+          "start": 1.56,
+          "end": 1.72,
+          "probability": 0.15
+        },
+        {
+          "word": "mà",
+          "start": 1.72,
+          "end": 1.92,
+          "probability": 0.23
+        },
+        {
+          "word": "điểm",
+          "start": 1.92,
+          "end": 2.14,
+          "probability": 0.37
+        },
+        {
+          "word": "chỉ",
+          "start": 2.14,
+          "end": 2.3,
+          "probability": 0.41
+        },
+        {
+          "word": "có",
+          "start": 2.3,
+          "end": 2.32,
+          "probability": 0.61
+        },
+        {
+          "word": "kinh",
+          "start": 2.32,
+          "end": 2.52,
+          "probability": 0.11
+        },
+        {
+          "word": "hiểu",
+          "start": 2.52,
+          "end": 2.64,
+          "probability": 0.81
+        },
+        {
+          "word": "thôi",
+          "start": 2.64,
+          "end": 3.1,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.54,
+      "end": 3.9,
+      "text": "nhá",
+      "words": [
+        {
+          "word": "nhá",
+          "start": 3.54,
+          "end": 3.9,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.9,
+      "end": 4.58,
+      "text": "Thì đến",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 3.9,
+          "end": 4.3,
+          "probability": 0.12
+        },
+        {
+          "word": "đến",
+          "start": 4.3,
+          "end": 4.58,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.58,
+      "end": 6.64,
+      "text": "số chất tôn nơi đây nó là gì đây",
+      "words": [
+        {
+          "word": "số",
+          "start": 4.58,
+          "end": 5.16,
+          "probability": 0.27
+        },
+        {
+          "word": "chất",
+          "start": 5.16,
+          "end": 5.34,
+          "probability": 0.28
+        },
+        {
+          "word": "tôn",
+          "start": 5.34,
+          "end": 5.44,
+          "probability": 0.18
+        },
+        {
+          "word": "nơi",
+          "start": 5.44,
+          "end": 5.58,
+          "probability": 0.34
+        },
+        {
+          "word": "đây",
+          "start": 5.58,
+          "end": 5.8,
+          "probability": 0.24
+        },
+        {
+          "word": "nó",
+          "start": 5.8,
+          "end": 5.92,
+          "probability": 0.51
+        },
+        {
+          "word": "là",
+          "start": 5.92,
+          "end": 6.06,
+          "probability": 0.42
+        },
+        {
+          "word": "gì",
+          "start": 6.06,
+          "end": 6.16,
+          "probability": 0.91
+        },
+        {
+          "word": "đây",
+          "start": 6.16,
+          "end": 6.64,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.64,
+      "end": 8.18,
+      "text": "số chất nơi đây nó là gì",
+      "words": [
+        {
+          "word": "số",
+          "start": 6.64,
+          "end": 7.2,
+          "probability": 0.33
+        },
+        {
+          "word": "chất",
+          "start": 7.2,
+          "end": 7.38,
+          "probability": 0.97
+        },
+        {
+          "word": "nơi",
+          "start": 7.38,
+          "end": 7.56,
+          "probability": 0.79
+        },
+        {
+          "word": "đây",
+          "start": 7.56,
+          "end": 7.8,
+          "probability": 0.97
+        },
+        {
+          "word": "nó",
+          "start": 7.8,
+          "end": 7.86,
+          "probability": 0.8
+        },
+        {
+          "word": "là",
+          "start": 7.86,
+          "end": 8.18,
+          "probability": 0.92
+        },
+        {
+          "word": "gì",
+          "start": 8.18,
+          "end": 8.18,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.56,
+      "end": 8.92,
+      "text": "nó",
+      "words": [
+        {
+          "word": "nó",
+          "start": 8.56,
+          "end": 8.92,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 9.78,
+      "end": 10.5,
+      "text": "số cấp",
+      "words": [
+        {
+          "word": "số",
+          "start": 9.78,
+          "end": 10.14,
+          "probability": 0.0
+        },
+        {
+          "word": "cấp",
+          "start": 10.14,
+          "end": 10.5,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 10.5,
+      "end": 11.28,
+      "text": "Trời số",
+      "words": [
+        {
+          "word": "Trời",
+          "start": 10.5,
+          "end": 10.96,
+          "probability": 0.33
+        },
+        {
+          "word": "số",
+          "start": 10.96,
+          "end": 11.28,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 11.28,
+      "end": 11.9,
+      "text": "số này",
+      "words": [
+        {
+          "word": "số",
+          "start": 11.28,
+          "end": 11.7,
+          "probability": 0.05
+        },
+        {
+          "word": "này",
+          "start": 11.7,
+          "end": 11.9,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 11.9,
+      "end": 12.18,
+      "text": "em",
+      "words": [
+        {
+          "word": "em",
+          "start": 11.9,
+          "end": 12.18,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 13.88,
+      "end": 14.24,
+      "text": "mà",
+      "words": [
+        {
+          "word": "mà",
+          "start": 13.88,
+          "end": 14.24,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 15.16,
+      "end": 15.52,
+      "text": "em",
+      "words": [
+        {
+          "word": "em",
+          "start": 15.16,
+          "end": 15.52,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 15.52,
+      "end": 16.7,
+      "text": "nơi gì",
+      "words": [
+        {
+          "word": "nơi",
+          "start": 15.52,
+          "end": 16.06,
+          "probability": 0.05
+        },
+        {
+          "word": "gì",
+          "start": 16.06,
+          "end": 16.7,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 16.7,
+      "end": 18.24,
+      "text": "nơi số cấp đi chọn ra",
+      "words": [
+        {
+          "word": "nơi",
+          "start": 16.7,
+          "end": 17.04,
+          "probability": 0.49
+        },
+        {
+          "word": "số",
+          "start": 17.04,
+          "end": 17.2,
+          "probability": 0.54
+        },
+        {
+          "word": "cấp",
+          "start": 17.2,
+          "end": 17.36,
+          "probability": 0.35
+        },
+        {
+          "word": "đi",
+          "start": 17.36,
+          "end": 17.5,
+          "probability": 0.12
+        },
+        {
+          "word": "chọn",
+          "start": 17.5,
+          "end": 17.68,
+          "probability": 0.71
+        },
+        {
+          "word": "ra",
+          "start": 17.68,
+          "end": 18.24,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 18.24,
+      "end": 19.0,
+      "text": "ai phần 2",
+      "words": [
+        {
+          "word": "ai",
+          "start": 18.24,
+          "end": 18.68,
+          "probability": 0.09
+        },
+        {
+          "word": "phần",
+          "start": 18.68,
+          "end": 18.86,
+          "probability": 0.43
+        },
+        {
+          "word": "2",
+          "start": 18.86,
+          "end": 19.0,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 19.0,
+      "end": 21.58,
+      "text": "số tình nhận mất bố liệu có thể hữu ý",
+      "words": [
+        {
+          "word": "số",
+          "start": 19.0,
+          "end": 19.4,
+          "probability": 0.07
+        },
+        {
+          "word": "tình",
+          "start": 19.4,
+          "end": 19.92,
+          "probability": 0.26
+        },
+        {
+          "word": "nhận",
+          "start": 19.92,
+          "end": 20.1,
+          "probability": 0.45
+        },
+        {
+          "word": "mất",
+          "start": 20.1,
+          "end": 20.28,
+          "probability": 0.33
+        },
+        {
+          "word": "bố",
+          "start": 20.28,
+          "end": 20.4,
+          "probability": 0.19
+        },
+        {
+          "word": "liệu",
+          "start": 20.4,
+          "end": 20.5,
+          "probability": 0.77
+        },
+        {
+          "word": "có",
+          "start": 20.5,
+          "end": 20.66,
+          "probability": 0.76
+        },
+        {
+          "word": "thể",
+          "start": 20.66,
+          "end": 20.82,
+          "probability": 0.65
+        },
+        {
+          "word": "hữu",
+          "start": 20.82,
+          "end": 21.0,
+          "probability": 0.53
+        },
+        {
+          "word": "ý",
+          "start": 21.0,
+          "end": 21.58,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 21.58,
+      "end": 23.8,
+      "text": "mà đi có thể 2 quán 2 kinh hiểu hơi",
+      "words": [
+        {
+          "word": "mà",
+          "start": 21.58,
+          "end": 21.74,
+          "probability": 0.45
+        },
+        {
+          "word": "đi",
+          "start": 21.74,
+          "end": 21.96,
+          "probability": 0.56
+        },
+        {
+          "word": "có",
+          "start": 21.96,
+          "end": 22.14,
+          "probability": 0.69
+        },
+        {
+          "word": "thể",
+          "start": 22.14,
+          "end": 22.34,
+          "probability": 0.77
+        },
+        {
+          "word": "2",
+          "start": 22.34,
+          "end": 22.56,
+          "probability": 0.45
+        },
+        {
+          "word": "quán",
+          "start": 22.56,
+          "end": 22.74,
+          "probability": 0.3
+        },
+        {
+          "word": "2",
+          "start": 22.74,
+          "end": 22.94,
+          "probability": 0.72
+        },
+        {
+          "word": "kinh",
+          "start": 22.94,
+          "end": 23.02,
+          "probability": 0.3
+        },
+        {
+          "word": "hiểu",
+          "start": 23.02,
+          "end": 23.16,
+          "probability": 0.95
+        },
+        {
+          "word": "hơi",
+          "start": 23.16,
+          "end": 23.8,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 23.8,
+      "end": 27.16,
+      "text": "Trời là số tình nhận mất bố liệu có thể hữu có 2 kinh hiểu nó gì cả lắm",
+      "words": [
+        {
+          "word": "Trời",
+          "start": 23.8,
+          "end": 24.12,
+          "probability": 0.85
+        },
+        {
+          "word": "là",
+          "start": 24.12,
+          "end": 24.2,
+          "probability": 0.51
+        },
+        {
+          "word": "số",
+          "start": 24.2,
+          "end": 24.36,
+          "probability": 0.97
+        },
+        {
+          "word": "tình",
+          "start": 24.36,
+          "end": 24.46,
+          "probability": 0.97
+        },
+        {
+          "word": "nhận",
+          "start": 24.46,
+          "end": 24.64,
+          "probability": 0.98
+        },
+        {
+          "word": "mất",
+          "start": 24.64,
+          "end": 24.78,
+          "probability": 0.84
+        },
+        {
+          "word": "bố",
+          "start": 24.78,
+          "end": 24.84,
+          "probability": 0.94
+        },
+        {
+          "word": "liệu",
+          "start": 24.84,
+          "end": 24.98,
+          "probability": 1.0
+        },
+        {
+          "word": "có",
+          "start": 24.98,
+          "end": 25.14,
+          "probability": 0.98
+        },
+        {
+          "word": "thể",
+          "start": 25.14,
+          "end": 25.2,
+          "probability": 0.97
+        },
+        {
+          "word": "hữu",
+          "start": 25.2,
+          "end": 25.36,
+          "probability": 0.7
+        },
+        {
+          "word": "có",
+          "start": 25.36,
+          "end": 25.58,
+          "probability": 0.25
+        },
+        {
+          "word": "2",
+          "start": 25.58,
+          "end": 25.78,
+          "probability": 0.27
+        },
+        {
+          "word": "kinh",
+          "start": 25.78,
+          "end": 25.96,
+          "probability": 0.6
+        },
+        {
+          "word": "hiểu",
+          "start": 25.96,
+          "end": 26.06,
+          "probability": 0.99
+        },
+        {
+          "word": "nó",
+          "start": 26.06,
+          "end": 26.2,
+          "probability": 0.63
+        },
+        {
+          "word": "gì",
+          "start": 26.2,
+          "end": 26.32,
+          "probability": 0.33
+        },
+        {
+          "word": "cả",
+          "start": 26.32,
+          "end": 26.48,
+          "probability": 0.31
+        },
+        {
+          "word": "lắm",
+          "start": 26.48,
+          "end": 27.16,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 27.16,
+      "end": 28.08,
+      "text": "nơi gì",
+      "words": [
+        {
+          "word": "nơi",
+          "start": 27.16,
+          "end": 27.52,
+          "probability": 0.62
+        },
+        {
+          "word": "gì",
+          "start": 27.52,
+          "end": 28.08,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 28.74,
+      "end": 29.1,
+      "text": "em",
+      "words": [
+        {
+          "word": "em",
+          "start": 28.74,
+          "end": 29.1,
+          "probability": 0.06
+        }
+      ]
+    }
+  ]
+}

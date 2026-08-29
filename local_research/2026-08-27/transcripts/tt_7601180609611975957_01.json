@@ -1,0 +1,210 @@
+{
+  "item_id": "tt_7601180609611975957_01",
+  "duration_seconds": 6.5,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 28,
+  "text": "Sẵn bình họ sắp mến vời Không biết là mẹ vệ có chương trình yêu đại gì không ý Có chương, giúp nơi đà lần khác Mỏ nả",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.48,
+      "text": "Sẵn bình họ sắp mến vời",
+      "words": [
+        {
+          "word": "Sẵn",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.51
+        },
+        {
+          "word": "bình",
+          "start": 0.34,
+          "end": 0.48,
+          "probability": 0.14
+        },
+        {
+          "word": "họ",
+          "start": 0.48,
+          "end": 0.7,
+          "probability": 0.17
+        },
+        {
+          "word": "sắp",
+          "start": 0.7,
+          "end": 0.86,
+          "probability": 0.56
+        },
+        {
+          "word": "mến",
+          "start": 0.86,
+          "end": 1.02,
+          "probability": 0.34
+        },
+        {
+          "word": "vời",
+          "start": 1.02,
+          "end": 1.48,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.48,
+      "end": 4.1,
+      "text": "Không biết là mẹ vệ có chương trình yêu đại gì không ý",
+      "words": [
+        {
+          "word": "Không",
+          "start": 1.48,
+          "end": 1.68,
+          "probability": 0.03
+        },
+        {
+          "word": "biết",
+          "start": 1.68,
+          "end": 1.8,
+          "probability": 0.84
+        },
+        {
+          "word": "là",
+          "start": 1.8,
+          "end": 1.98,
+          "probability": 0.86
+        },
+        {
+          "word": "mẹ",
+          "start": 1.98,
+          "end": 2.16,
+          "probability": 0.3
+        },
+        {
+          "word": "vệ",
+          "start": 2.16,
+          "end": 2.34,
+          "probability": 0.17
+        },
+        {
+          "word": "có",
+          "start": 2.34,
+          "end": 2.58,
+          "probability": 0.45
+        },
+        {
+          "word": "chương",
+          "start": 2.58,
+          "end": 2.76,
+          "probability": 0.57
+        },
+        {
+          "word": "trình",
+          "start": 2.76,
+          "end": 2.98,
+          "probability": 0.91
+        },
+        {
+          "word": "yêu",
+          "start": 2.98,
+          "end": 3.16,
+          "probability": 0.82
+        },
+        {
+          "word": "đại",
+          "start": 3.16,
+          "end": 3.32,
+          "probability": 0.29
+        },
+        {
+          "word": "gì",
+          "start": 3.32,
+          "end": 3.48,
+          "probability": 0.74
+        },
+        {
+          "word": "không",
+          "start": 3.48,
+          "end": 3.66,
+          "probability": 0.97
+        },
+        {
+          "word": "ý",
+          "start": 3.66,
+          "end": 4.1,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.1,
+      "end": 5.76,
+      "text": "Có chương, giúp nơi đà lần khác",
+      "words": [
+        {
+          "word": "Có",
+          "start": 4.1,
+          "end": 4.42,
+          "probability": 0.37
+        },
+        {
+          "word": "chương,",
+          "start": 4.42,
+          "end": 4.76,
+          "probability": 0.55
+        },
+        {
+          "word": "giúp",
+          "start": 4.78,
+          "end": 4.98,
+          "probability": 0.45
+        },
+        {
+          "word": "nơi",
+          "start": 4.98,
+          "end": 5.14,
+          "probability": 0.36
+        },
+        {
+          "word": "đà",
+          "start": 5.14,
+          "end": 5.28,
+          "probability": 0.42
+        },
+        {
+          "word": "lần",
+          "start": 5.28,
+          "end": 5.42,
+          "probability": 0.58
+        },
+        {
+          "word": "khác",
+          "start": 5.42,
+          "end": 5.76,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.76,
+      "end": 6.3,
+      "text": "Mỏ nả",
+      "words": [
+        {
+          "word": "Mỏ",
+          "start": 5.76,
+          "end": 6.04,
+          "probability": 0.16
+        },
+        {
+          "word": "nả",
+          "start": 6.04,
+          "end": 6.3,
+          "probability": 0.44
+        }
+      ]
+    }
+  ]
+}

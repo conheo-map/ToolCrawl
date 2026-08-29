@@ -1,0 +1,72 @@
+{
+  "item_id": "tt_7651560779132587280_08",
+  "duration_seconds": 22.42,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "Chỉ có truyền được rồi, có nhiều đẹp rồi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 3.09,
+      "text": "Chỉ có truyền được rồi, có nhiều đẹp rồi.",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 0.11,
+          "end": 0.75,
+          "probability": 0.03
+        },
+        {
+          "word": "có",
+          "start": 0.75,
+          "end": 0.75,
+          "probability": 0.09
+        },
+        {
+          "word": "truyền",
+          "start": 0.75,
+          "end": 0.77,
+          "probability": 0.16
+        },
+        {
+          "word": "được",
+          "start": 0.77,
+          "end": 0.97,
+          "probability": 0.02
+        },
+        {
+          "word": "rồi,",
+          "start": 0.97,
+          "end": 1.51,
+          "probability": 0.11
+        },
+        {
+          "word": "có",
+          "start": 1.65,
+          "end": 2.19,
+          "probability": 0.02
+        },
+        {
+          "word": "nhiều",
+          "start": 2.19,
+          "end": 2.59,
+          "probability": 0.01
+        },
+        {
+          "word": "đẹp",
+          "start": 2.59,
+          "end": 3.09,
+          "probability": 0.34
+        },
+        {
+          "word": "rồi.",
+          "start": 3.09,
+          "end": 3.09,
+          "probability": 0.05
+        }
+      ]
+    }
+  ]
+}

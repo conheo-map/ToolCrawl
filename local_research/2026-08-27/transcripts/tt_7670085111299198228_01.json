@@ -1,0 +1,814 @@
+{
+  "item_id": "tt_7670085111299198228_01",
+  "duration_seconds": 29.33,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 117,
+  "text": "Nga CNN, N đồng thống Mỹ Donald Trump, cáo mục giờ lãnh đạo Iran, Hài Lời, sau khi tây ra bác bỏ thông tin của ông, rằng các cuộc đàn phán đang được đối lại. Soda ông khẳng định, đây là các hội quối cùng để Iran kỳ kết một thật. Nhưng nó thêm rằng ông không bị rằng buộc về thời gian đưa với các cuộc đàn phán, vì ông không tin các tay đã cử tổng thống Mỹ. Chức đó, hôm ngày 30, phăm 1 viên cuộc ngoại giao Iran S-208 gây cho biết không có cuộc đàn phán nào với Mỹ đang diễn ra và không có cuộc đàn phán nào được lên định.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.22,
+      "text": "Nga CNN, N đồng thống Mỹ Donald Trump,",
+      "words": [
+        {
+          "word": "Nga",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.1
+        },
+        {
+          "word": "CNN,",
+          "start": 0.16,
+          "end": 0.64,
+          "probability": 0.39
+        },
+        {
+          "word": "N",
+          "start": 0.76,
+          "end": 1.04,
+          "probability": 0.12
+        },
+        {
+          "word": "đồng",
+          "start": 1.04,
+          "end": 1.04,
+          "probability": 0.02
+        },
+        {
+          "word": "thống",
+          "start": 1.04,
+          "end": 1.04,
+          "probability": 0.18
+        },
+        {
+          "word": "Mỹ",
+          "start": 1.04,
+          "end": 1.6,
+          "probability": 0.01
+        },
+        {
+          "word": "Donald",
+          "start": 1.6,
+          "end": 2.74,
+          "probability": 0.05
+        },
+        {
+          "word": "Trump,",
+          "start": 2.74,
+          "end": 3.22,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.48,
+      "end": 5.12,
+      "text": "cáo mục giờ lãnh đạo Iran, Hài Lời,",
+      "words": [
+        {
+          "word": "cáo",
+          "start": 3.48,
+          "end": 3.56,
+          "probability": 0.56
+        },
+        {
+          "word": "mục",
+          "start": 3.56,
+          "end": 3.7,
+          "probability": 0.71
+        },
+        {
+          "word": "giờ",
+          "start": 3.7,
+          "end": 3.84,
+          "probability": 0.37
+        },
+        {
+          "word": "lãnh",
+          "start": 3.84,
+          "end": 3.98,
+          "probability": 0.77
+        },
+        {
+          "word": "đạo",
+          "start": 3.98,
+          "end": 4.14,
+          "probability": 0.61
+        },
+        {
+          "word": "Iran,",
+          "start": 4.14,
+          "end": 4.44,
+          "probability": 0.36
+        },
+        {
+          "word": "Hài",
+          "start": 4.76,
+          "end": 4.84,
+          "probability": 0.19
+        },
+        {
+          "word": "Lời,",
+          "start": 4.84,
+          "end": 5.12,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.5,
+      "end": 7.28,
+      "text": "sau khi tây ra bác bỏ thông tin của ông,",
+      "words": [
+        {
+          "word": "sau",
+          "start": 5.5,
+          "end": 5.62,
+          "probability": 0.49
+        },
+        {
+          "word": "khi",
+          "start": 5.62,
+          "end": 5.8,
+          "probability": 0.99
+        },
+        {
+          "word": "tây",
+          "start": 5.8,
+          "end": 6.0,
+          "probability": 0.23
+        },
+        {
+          "word": "ra",
+          "start": 6.0,
+          "end": 6.16,
+          "probability": 0.62
+        },
+        {
+          "word": "bác",
+          "start": 6.16,
+          "end": 6.36,
+          "probability": 0.4
+        },
+        {
+          "word": "bỏ",
+          "start": 6.36,
+          "end": 6.52,
+          "probability": 0.92
+        },
+        {
+          "word": "thông",
+          "start": 6.52,
+          "end": 6.72,
+          "probability": 0.79
+        },
+        {
+          "word": "tin",
+          "start": 6.72,
+          "end": 6.86,
+          "probability": 0.86
+        },
+        {
+          "word": "của",
+          "start": 6.86,
+          "end": 7.02,
+          "probability": 0.99
+        },
+        {
+          "word": "ông,",
+          "start": 7.02,
+          "end": 7.28,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.72,
+      "end": 9.16,
+      "text": "rằng các cuộc đàn phán đang được đối lại.",
+      "words": [
+        {
+          "word": "rằng",
+          "start": 7.72,
+          "end": 7.72,
+          "probability": 0.53
+        },
+        {
+          "word": "các",
+          "start": 7.72,
+          "end": 7.98,
+          "probability": 0.85
+        },
+        {
+          "word": "cuộc",
+          "start": 7.98,
+          "end": 8.02,
+          "probability": 0.87
+        },
+        {
+          "word": "đàn",
+          "start": 8.02,
+          "end": 8.16,
+          "probability": 0.62
+        },
+        {
+          "word": "phán",
+          "start": 8.16,
+          "end": 8.42,
+          "probability": 0.66
+        },
+        {
+          "word": "đang",
+          "start": 8.42,
+          "end": 8.6,
+          "probability": 0.75
+        },
+        {
+          "word": "được",
+          "start": 8.6,
+          "end": 8.8,
+          "probability": 0.88
+        },
+        {
+          "word": "đối",
+          "start": 8.8,
+          "end": 8.98,
+          "probability": 0.48
+        },
+        {
+          "word": "lại.",
+          "start": 8.98,
+          "end": 9.16,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.76,
+      "end": 11.06,
+      "text": "Soda ông khẳng định,",
+      "words": [
+        {
+          "word": "Soda",
+          "start": 9.76,
+          "end": 10.12,
+          "probability": 0.24
+        },
+        {
+          "word": "ông",
+          "start": 10.12,
+          "end": 10.48,
+          "probability": 0.65
+        },
+        {
+          "word": "khẳng",
+          "start": 10.48,
+          "end": 10.66,
+          "probability": 0.66
+        },
+        {
+          "word": "định,",
+          "start": 10.66,
+          "end": 11.06,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.18,
+      "end": 13.38,
+      "text": "đây là các hội quối cùng để Iran kỳ kết một thật.",
+      "words": [
+        {
+          "word": "đây",
+          "start": 11.18,
+          "end": 11.34,
+          "probability": 0.7
+        },
+        {
+          "word": "là",
+          "start": 11.34,
+          "end": 11.5,
+          "probability": 0.96
+        },
+        {
+          "word": "các",
+          "start": 11.5,
+          "end": 11.62,
+          "probability": 0.29
+        },
+        {
+          "word": "hội",
+          "start": 11.62,
+          "end": 11.74,
+          "probability": 0.91
+        },
+        {
+          "word": "quối",
+          "start": 11.74,
+          "end": 11.98,
+          "probability": 0.28
+        },
+        {
+          "word": "cùng",
+          "start": 11.98,
+          "end": 12.18,
+          "probability": 0.93
+        },
+        {
+          "word": "để",
+          "start": 12.18,
+          "end": 12.42,
+          "probability": 0.7
+        },
+        {
+          "word": "Iran",
+          "start": 12.42,
+          "end": 12.7,
+          "probability": 0.96
+        },
+        {
+          "word": "kỳ",
+          "start": 12.7,
+          "end": 12.92,
+          "probability": 0.42
+        },
+        {
+          "word": "kết",
+          "start": 12.92,
+          "end": 13.06,
+          "probability": 0.67
+        },
+        {
+          "word": "một",
+          "start": 13.06,
+          "end": 13.2,
+          "probability": 0.58
+        },
+        {
+          "word": "thật.",
+          "start": 13.2,
+          "end": 13.38,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 13.94,
+      "end": 16.36,
+      "text": "Nhưng nó thêm rằng ông không bị rằng buộc về thời gian",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 13.94,
+          "end": 14.12,
+          "probability": 0.88
+        },
+        {
+          "word": "nó",
+          "start": 14.12,
+          "end": 14.3,
+          "probability": 0.32
+        },
+        {
+          "word": "thêm",
+          "start": 14.3,
+          "end": 14.44,
+          "probability": 0.86
+        },
+        {
+          "word": "rằng",
+          "start": 14.44,
+          "end": 14.74,
+          "probability": 0.87
+        },
+        {
+          "word": "ông",
+          "start": 14.74,
+          "end": 15.12,
+          "probability": 0.9
+        },
+        {
+          "word": "không",
+          "start": 15.12,
+          "end": 15.24,
+          "probability": 0.96
+        },
+        {
+          "word": "bị",
+          "start": 15.24,
+          "end": 15.38,
+          "probability": 0.99
+        },
+        {
+          "word": "rằng",
+          "start": 15.38,
+          "end": 15.56,
+          "probability": 0.59
+        },
+        {
+          "word": "buộc",
+          "start": 15.56,
+          "end": 15.8,
+          "probability": 0.61
+        },
+        {
+          "word": "về",
+          "start": 15.8,
+          "end": 15.98,
+          "probability": 0.73
+        },
+        {
+          "word": "thời",
+          "start": 15.98,
+          "end": 16.14,
+          "probability": 0.88
+        },
+        {
+          "word": "gian",
+          "start": 16.14,
+          "end": 16.36,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.36,
+      "end": 17.42,
+      "text": "đưa với các cuộc đàn phán,",
+      "words": [
+        {
+          "word": "đưa",
+          "start": 16.36,
+          "end": 16.6,
+          "probability": 0.42
+        },
+        {
+          "word": "với",
+          "start": 16.6,
+          "end": 16.74,
+          "probability": 0.9
+        },
+        {
+          "word": "các",
+          "start": 16.74,
+          "end": 16.82,
+          "probability": 0.97
+        },
+        {
+          "word": "cuộc",
+          "start": 16.82,
+          "end": 16.96,
+          "probability": 0.98
+        },
+        {
+          "word": "đàn",
+          "start": 16.96,
+          "end": 17.12,
+          "probability": 0.98
+        },
+        {
+          "word": "phán,",
+          "start": 17.12,
+          "end": 17.42,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 17.84,
+      "end": 20.08,
+      "text": "vì ông không tin các tay đã cử tổng thống Mỹ.",
+      "words": [
+        {
+          "word": "vì",
+          "start": 17.84,
+          "end": 17.98,
+          "probability": 0.93
+        },
+        {
+          "word": "ông",
+          "start": 17.98,
+          "end": 18.16,
+          "probability": 1.0
+        },
+        {
+          "word": "không",
+          "start": 18.16,
+          "end": 18.36,
+          "probability": 1.0
+        },
+        {
+          "word": "tin",
+          "start": 18.36,
+          "end": 18.5,
+          "probability": 0.42
+        },
+        {
+          "word": "các",
+          "start": 18.5,
+          "end": 18.66,
+          "probability": 0.34
+        },
+        {
+          "word": "tay",
+          "start": 18.66,
+          "end": 18.92,
+          "probability": 0.38
+        },
+        {
+          "word": "đã",
+          "start": 18.92,
+          "end": 19.1,
+          "probability": 0.79
+        },
+        {
+          "word": "cử",
+          "start": 19.1,
+          "end": 19.22,
+          "probability": 0.48
+        },
+        {
+          "word": "tổng",
+          "start": 19.22,
+          "end": 19.4,
+          "probability": 0.57
+        },
+        {
+          "word": "thống",
+          "start": 19.4,
+          "end": 19.54,
+          "probability": 0.86
+        },
+        {
+          "word": "Mỹ.",
+          "start": 19.54,
+          "end": 20.08,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 20.52,
+      "end": 25.08,
+      "text": "Chức đó, hôm ngày 30, phăm 1 viên cuộc ngoại giao Iran S-208 gây cho biết",
+      "words": [
+        {
+          "word": "Chức",
+          "start": 20.52,
+          "end": 20.66,
+          "probability": 0.42
+        },
+        {
+          "word": "đó,",
+          "start": 20.66,
+          "end": 20.86,
+          "probability": 0.7
+        },
+        {
+          "word": "hôm",
+          "start": 20.88,
+          "end": 21.08,
+          "probability": 0.55
+        },
+        {
+          "word": "ngày",
+          "start": 21.08,
+          "end": 21.2,
+          "probability": 0.28
+        },
+        {
+          "word": "30,",
+          "start": 21.2,
+          "end": 21.46,
+          "probability": 0.3
+        },
+        {
+          "word": "phăm",
+          "start": 22.02,
+          "end": 22.2,
+          "probability": 0.36
+        },
+        {
+          "word": "1",
+          "start": 22.2,
+          "end": 22.36,
+          "probability": 0.19
+        },
+        {
+          "word": "viên",
+          "start": 22.36,
+          "end": 22.5,
+          "probability": 0.87
+        },
+        {
+          "word": "cuộc",
+          "start": 22.5,
+          "end": 22.66,
+          "probability": 0.41
+        },
+        {
+          "word": "ngoại",
+          "start": 22.66,
+          "end": 22.8,
+          "probability": 0.63
+        },
+        {
+          "word": "giao",
+          "start": 22.8,
+          "end": 22.98,
+          "probability": 0.49
+        },
+        {
+          "word": "Iran",
+          "start": 22.98,
+          "end": 23.32,
+          "probability": 0.98
+        },
+        {
+          "word": "S",
+          "start": 23.32,
+          "end": 23.62,
+          "probability": 0.72
+        },
+        {
+          "word": "-208",
+          "start": 23.62,
+          "end": 24.1,
+          "probability": 0.29
+        },
+        {
+          "word": "gây",
+          "start": 24.1,
+          "end": 24.42,
+          "probability": 0.24
+        },
+        {
+          "word": "cho",
+          "start": 24.42,
+          "end": 24.64,
+          "probability": 0.71
+        },
+        {
+          "word": "biết",
+          "start": 24.64,
+          "end": 25.08,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 25.08,
+      "end": 27.28,
+      "text": "không có cuộc đàn phán nào với Mỹ đang diễn ra",
+      "words": [
+        {
+          "word": "không",
+          "start": 25.08,
+          "end": 25.4,
+          "probability": 0.4
+        },
+        {
+          "word": "có",
+          "start": 25.4,
+          "end": 25.48,
+          "probability": 0.65
+        },
+        {
+          "word": "cuộc",
+          "start": 25.48,
+          "end": 25.7,
+          "probability": 0.98
+        },
+        {
+          "word": "đàn",
+          "start": 25.7,
+          "end": 25.78,
+          "probability": 0.99
+        },
+        {
+          "word": "phán",
+          "start": 25.78,
+          "end": 25.98,
+          "probability": 0.9
+        },
+        {
+          "word": "nào",
+          "start": 25.98,
+          "end": 26.16,
+          "probability": 0.96
+        },
+        {
+          "word": "với",
+          "start": 26.16,
+          "end": 26.34,
+          "probability": 0.97
+        },
+        {
+          "word": "Mỹ",
+          "start": 26.34,
+          "end": 26.62,
+          "probability": 1.0
+        },
+        {
+          "word": "đang",
+          "start": 26.62,
+          "end": 26.82,
+          "probability": 0.5
+        },
+        {
+          "word": "diễn",
+          "start": 26.82,
+          "end": 27.02,
+          "probability": 0.75
+        },
+        {
+          "word": "ra",
+          "start": 27.02,
+          "end": 27.28,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 27.28,
+      "end": 29.12,
+      "text": "và không có cuộc đàn phán nào được lên định.",
+      "words": [
+        {
+          "word": "và",
+          "start": 27.28,
+          "end": 27.74,
+          "probability": 0.9
+        },
+        {
+          "word": "không",
+          "start": 27.74,
+          "end": 27.96,
+          "probability": 0.99
+        },
+        {
+          "word": "có",
+          "start": 27.96,
+          "end": 28.06,
+          "probability": 0.98
+        },
+        {
+          "word": "cuộc",
+          "start": 28.06,
+          "end": 28.26,
+          "probability": 0.97
+        },
+        {
+          "word": "đàn",
+          "start": 28.26,
+          "end": 28.42,
+          "probability": 0.14
+        },
+        {
+          "word": "phán",
+          "start": 28.42,
+          "end": 28.54,
+          "probability": 0.44
+        },
+        {
+          "word": "nào",
+          "start": 28.54,
+          "end": 28.6,
+          "probability": 0.97
+        },
+        {
+          "word": "được",
+          "start": 28.6,
+          "end": 28.8,
+          "probability": 0.92
+        },
+        {
+          "word": "lên",
+          "start": 28.8,
+          "end": 29.02,
+          "probability": 0.8
+        },
+        {
+          "word": "định.",
+          "start": 29.02,
+          "end": 29.12,
+          "probability": 0.43
+        }
+      ]
+    }
+  ]
+}

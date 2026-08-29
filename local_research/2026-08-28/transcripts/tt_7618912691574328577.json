@@ -1,0 +1,218 @@
+{
+  "item_id": "tt_7618912691574328577",
+  "duration_seconds": 14.89,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 28,
+  "text": "Mình anh nơi, anh nơi nơi Mình anh nơi, anh nơi Mình chẳng cái hay hãi con mọi người Chúng cái không xa Mình chẳng cái không xa",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.64,
+      "text": "Mình anh nơi, anh nơi nơi",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.3
+        },
+        {
+          "word": "anh",
+          "start": 0.32,
+          "end": 0.64,
+          "probability": 0.11
+        },
+        {
+          "word": "nơi,",
+          "start": 0.64,
+          "end": 0.9,
+          "probability": 0.33
+        },
+        {
+          "word": "anh",
+          "start": 1.04,
+          "end": 1.08,
+          "probability": 0.26
+        },
+        {
+          "word": "nơi",
+          "start": 1.08,
+          "end": 1.48,
+          "probability": 0.83
+        },
+        {
+          "word": "nơi",
+          "start": 1.48,
+          "end": 1.64,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.64,
+      "end": 3.04,
+      "text": "Mình anh nơi, anh nơi",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 1.64,
+          "end": 2.04,
+          "probability": 0.5
+        },
+        {
+          "word": "anh",
+          "start": 2.04,
+          "end": 2.3,
+          "probability": 0.87
+        },
+        {
+          "word": "nơi,",
+          "start": 2.3,
+          "end": 2.62,
+          "probability": 0.98
+        },
+        {
+          "word": "anh",
+          "start": 3.04,
+          "end": 3.04,
+          "probability": 0.84
+        },
+        {
+          "word": "nơi",
+          "start": 3.04,
+          "end": 3.04,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.04,
+      "end": 5.46,
+      "text": "Mình chẳng cái hay hãi con mọi người",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 3.04,
+          "end": 3.18,
+          "probability": 0.5
+        },
+        {
+          "word": "chẳng",
+          "start": 3.18,
+          "end": 4.06,
+          "probability": 0.52
+        },
+        {
+          "word": "cái",
+          "start": 4.06,
+          "end": 4.2,
+          "probability": 0.16
+        },
+        {
+          "word": "hay",
+          "start": 4.2,
+          "end": 4.46,
+          "probability": 0.08
+        },
+        {
+          "word": "hãi",
+          "start": 4.46,
+          "end": 4.82,
+          "probability": 0.39
+        },
+        {
+          "word": "con",
+          "start": 4.82,
+          "end": 4.94,
+          "probability": 0.27
+        },
+        {
+          "word": "mọi",
+          "start": 4.94,
+          "end": 5.22,
+          "probability": 0.15
+        },
+        {
+          "word": "người",
+          "start": 5.22,
+          "end": 5.46,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.74,
+      "end": 6.72,
+      "text": "Chúng cái không xa",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 5.74,
+          "end": 6.02,
+          "probability": 0.42
+        },
+        {
+          "word": "cái",
+          "start": 6.02,
+          "end": 6.2,
+          "probability": 0.14
+        },
+        {
+          "word": "không",
+          "start": 6.2,
+          "end": 6.44,
+          "probability": 0.07
+        },
+        {
+          "word": "xa",
+          "start": 6.44,
+          "end": 6.72,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.72,
+      "end": 9.68,
+      "text": "Mình chẳng cái không xa",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 6.72,
+          "end": 7.02,
+          "probability": 0.49
+        },
+        {
+          "word": "chẳng",
+          "start": 7.02,
+          "end": 7.4,
+          "probability": 0.88
+        },
+        {
+          "word": "cái",
+          "start": 7.4,
+          "end": 9.68,
+          "probability": 0.29
+        },
+        {
+          "word": "không",
+          "start": 9.68,
+          "end": 9.68,
+          "probability": 0.28
+        },
+        {
+          "word": "xa",
+          "start": 9.68,
+          "end": 9.68,
+          "probability": 0.72
+        }
+      ]
+    }
+  ]
+}

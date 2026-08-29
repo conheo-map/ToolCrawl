@@ -1,0 +1,140 @@
+{
+  "item_id": "tt_7669667623306546452_04",
+  "duration_seconds": 8.89,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 19,
+  "text": "Cá là dờ gió là dạc dạc dạc dạc dạc dạc. Các bạn sẽ tờ hẹn gặp dạc dạc.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 3.22,
+      "text": "Cá là dờ gió là dạc dạc dạc dạc dạc dạc.",
+      "words": [
+        {
+          "word": "Cá",
+          "start": 0.02,
+          "end": 0.6,
+          "probability": 0.21
+        },
+        {
+          "word": "là",
+          "start": 0.6,
+          "end": 0.78,
+          "probability": 0.15
+        },
+        {
+          "word": "dờ",
+          "start": 0.78,
+          "end": 0.96,
+          "probability": 0.22
+        },
+        {
+          "word": "gió",
+          "start": 0.96,
+          "end": 1.16,
+          "probability": 0.31
+        },
+        {
+          "word": "là",
+          "start": 1.16,
+          "end": 1.32,
+          "probability": 0.29
+        },
+        {
+          "word": "dạc",
+          "start": 1.32,
+          "end": 1.68,
+          "probability": 0.24
+        },
+        {
+          "word": "dạc",
+          "start": 1.68,
+          "end": 1.82,
+          "probability": 0.36
+        },
+        {
+          "word": "dạc",
+          "start": 1.82,
+          "end": 2.42,
+          "probability": 0.57
+        },
+        {
+          "word": "dạc",
+          "start": 2.42,
+          "end": 2.44,
+          "probability": 0.71
+        },
+        {
+          "word": "dạc",
+          "start": 2.44,
+          "end": 3.08,
+          "probability": 0.76
+        },
+        {
+          "word": "dạc.",
+          "start": 3.08,
+          "end": 3.22,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.38,
+      "end": 6.7,
+      "text": "Các bạn sẽ tờ hẹn gặp dạc dạc.",
+      "words": [
+        {
+          "word": "Các",
+          "start": 3.38,
+          "end": 4.04,
+          "probability": 0.09
+        },
+        {
+          "word": "bạn",
+          "start": 4.04,
+          "end": 4.04,
+          "probability": 0.1
+        },
+        {
+          "word": "sẽ",
+          "start": 4.04,
+          "end": 4.82,
+          "probability": 0.07
+        },
+        {
+          "word": "tờ",
+          "start": 4.82,
+          "end": 5.18,
+          "probability": 0.18
+        },
+        {
+          "word": "hẹn",
+          "start": 5.18,
+          "end": 5.5,
+          "probability": 0.62
+        },
+        {
+          "word": "gặp",
+          "start": 5.5,
+          "end": 5.86,
+          "probability": 0.57
+        },
+        {
+          "word": "dạc",
+          "start": 5.86,
+          "end": 6.02,
+          "probability": 0.64
+        },
+        {
+          "word": "dạc.",
+          "start": 6.02,
+          "end": 6.7,
+          "probability": 0.71
+        }
+      ]
+    }
+  ]
+}

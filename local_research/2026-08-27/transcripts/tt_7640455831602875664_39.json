@@ -1,0 +1,780 @@
+{
+  "item_id": "tt_7640455831602875664_39",
+  "duration_seconds": 29.69,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 103,
+  "text": "Nhanh giết nhau Nhanh giết nhau Nhanh giết nhau Càng gần sau Càng kịt nếu như thế Ok cho Đây, thì đây là với tính tàn của Estab, mình rất là lưu ý thế Thầy vậy thôi Nhanh, ok cho Tất cả chận sang cái thầy phần tiếp theo Mình tiếp theo, dùng thầy, liên và những dụng suối với này Khá phần trọng, thầy, giết thế Nhanh giết được suối với Estab Vậy, giết được suối Vậy, giết thầy, giết thầy Nhanh giết được suối với Estab Nhật được suối với Estab Nhật được suối với Estab Thầy, giết thầy, giết thầy",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 1.21,
+      "text": "Nhanh giết nhau",
+      "words": [
+        {
+          "word": "Nhanh",
+          "start": 0.11,
+          "end": 0.63,
+          "probability": 0.43
+        },
+        {
+          "word": "giết",
+          "start": 0.63,
+          "end": 0.73,
+          "probability": 0.2
+        },
+        {
+          "word": "nhau",
+          "start": 0.73,
+          "end": 1.21,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.21,
+      "end": 2.55,
+      "text": "Nhanh giết nhau",
+      "words": [
+        {
+          "word": "Nhanh",
+          "start": 1.21,
+          "end": 1.61,
+          "probability": 0.67
+        },
+        {
+          "word": "giết",
+          "start": 1.61,
+          "end": 2.27,
+          "probability": 0.97
+        },
+        {
+          "word": "nhau",
+          "start": 2.27,
+          "end": 2.55,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.55,
+      "end": 2.57,
+      "text": "Nhanh giết nhau",
+      "words": [
+        {
+          "word": "Nhanh",
+          "start": 2.55,
+          "end": 2.55,
+          "probability": 0.65
+        },
+        {
+          "word": "giết",
+          "start": 2.55,
+          "end": 2.55,
+          "probability": 0.97
+        },
+        {
+          "word": "nhau",
+          "start": 2.55,
+          "end": 2.57,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 3.43,
+      "end": 4.45,
+      "text": "Càng gần sau",
+      "words": [
+        {
+          "word": "Càng",
+          "start": 3.43,
+          "end": 3.83,
+          "probability": 0.02
+        },
+        {
+          "word": "gần",
+          "start": 3.83,
+          "end": 4.03,
+          "probability": 0.22
+        },
+        {
+          "word": "sau",
+          "start": 4.03,
+          "end": 4.45,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 4.97,
+      "end": 6.37,
+      "text": "Càng kịt nếu như thế",
+      "words": [
+        {
+          "word": "Càng",
+          "start": 4.97,
+          "end": 5.17,
+          "probability": 0.61
+        },
+        {
+          "word": "kịt",
+          "start": 5.17,
+          "end": 5.73,
+          "probability": 0.47
+        },
+        {
+          "word": "nếu",
+          "start": 5.73,
+          "end": 5.93,
+          "probability": 0.09
+        },
+        {
+          "word": "như",
+          "start": 5.93,
+          "end": 6.05,
+          "probability": 0.36
+        },
+        {
+          "word": "thế",
+          "start": 6.05,
+          "end": 6.37,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 6.37,
+      "end": 6.85,
+      "text": "Ok cho",
+      "words": [
+        {
+          "word": "Ok",
+          "start": 6.37,
+          "end": 6.61,
+          "probability": 0.08
+        },
+        {
+          "word": "cho",
+          "start": 6.61,
+          "end": 6.85,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 6.85,
+      "end": 9.39,
+      "text": "Đây, thì đây là với tính tàn của Estab, mình rất là lưu ý thế",
+      "words": [
+        {
+          "word": "Đây,",
+          "start": 6.85,
+          "end": 7.23,
+          "probability": 0.14
+        },
+        {
+          "word": "thì",
+          "start": 7.25,
+          "end": 7.33,
+          "probability": 0.11
+        },
+        {
+          "word": "đây",
+          "start": 7.33,
+          "end": 7.55,
+          "probability": 0.61
+        },
+        {
+          "word": "là",
+          "start": 7.55,
+          "end": 7.57,
+          "probability": 0.45
+        },
+        {
+          "word": "với",
+          "start": 7.57,
+          "end": 7.75,
+          "probability": 0.26
+        },
+        {
+          "word": "tính",
+          "start": 7.75,
+          "end": 7.95,
+          "probability": 0.28
+        },
+        {
+          "word": "tàn",
+          "start": 7.95,
+          "end": 8.11,
+          "probability": 0.43
+        },
+        {
+          "word": "của",
+          "start": 8.11,
+          "end": 8.27,
+          "probability": 0.32
+        },
+        {
+          "word": "Estab,",
+          "start": 8.27,
+          "end": 8.57,
+          "probability": 0.2
+        },
+        {
+          "word": "mình",
+          "start": 8.57,
+          "end": 8.71,
+          "probability": 0.16
+        },
+        {
+          "word": "rất",
+          "start": 8.71,
+          "end": 8.89,
+          "probability": 0.32
+        },
+        {
+          "word": "là",
+          "start": 8.89,
+          "end": 8.93,
+          "probability": 0.84
+        },
+        {
+          "word": "lưu",
+          "start": 8.93,
+          "end": 9.13,
+          "probability": 0.6
+        },
+        {
+          "word": "ý",
+          "start": 9.13,
+          "end": 9.27,
+          "probability": 0.85
+        },
+        {
+          "word": "thế",
+          "start": 9.27,
+          "end": 9.39,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 9.39,
+      "end": 10.25,
+      "text": "Thầy vậy thôi",
+      "words": [
+        {
+          "word": "Thầy",
+          "start": 9.39,
+          "end": 9.51,
+          "probability": 0.52
+        },
+        {
+          "word": "vậy",
+          "start": 9.51,
+          "end": 9.65,
+          "probability": 0.05
+        },
+        {
+          "word": "thôi",
+          "start": 9.65,
+          "end": 10.25,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 10.25,
+      "end": 11.07,
+      "text": "Nhanh, ok cho",
+      "words": [
+        {
+          "word": "Nhanh,",
+          "start": 10.25,
+          "end": 10.49,
+          "probability": 0.9
+        },
+        {
+          "word": "ok",
+          "start": 10.61,
+          "end": 10.71,
+          "probability": 0.49
+        },
+        {
+          "word": "cho",
+          "start": 10.71,
+          "end": 11.07,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 11.07,
+      "end": 12.61,
+      "text": "Tất cả chận sang cái thầy phần tiếp theo",
+      "words": [
+        {
+          "word": "Tất",
+          "start": 11.07,
+          "end": 11.33,
+          "probability": 0.12
+        },
+        {
+          "word": "cả",
+          "start": 11.33,
+          "end": 11.33,
+          "probability": 0.23
+        },
+        {
+          "word": "chận",
+          "start": 11.33,
+          "end": 11.55,
+          "probability": 0.18
+        },
+        {
+          "word": "sang",
+          "start": 11.55,
+          "end": 11.71,
+          "probability": 0.29
+        },
+        {
+          "word": "cái",
+          "start": 11.71,
+          "end": 11.83,
+          "probability": 0.17
+        },
+        {
+          "word": "thầy",
+          "start": 11.83,
+          "end": 11.97,
+          "probability": 0.87
+        },
+        {
+          "word": "phần",
+          "start": 11.97,
+          "end": 12.07,
+          "probability": 0.8
+        },
+        {
+          "word": "tiếp",
+          "start": 12.07,
+          "end": 12.21,
+          "probability": 0.71
+        },
+        {
+          "word": "theo",
+          "start": 12.21,
+          "end": 12.61,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 12.61,
+      "end": 14.67,
+      "text": "Mình tiếp theo, dùng thầy, liên và những dụng suối với này",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 12.61,
+          "end": 12.87,
+          "probability": 0.37
+        },
+        {
+          "word": "tiếp",
+          "start": 12.87,
+          "end": 13.03,
+          "probability": 0.87
+        },
+        {
+          "word": "theo,",
+          "start": 13.03,
+          "end": 13.07,
+          "probability": 0.99
+        },
+        {
+          "word": "dùng",
+          "start": 13.27,
+          "end": 13.27,
+          "probability": 0.12
+        },
+        {
+          "word": "thầy,",
+          "start": 13.27,
+          "end": 13.49,
+          "probability": 0.75
+        },
+        {
+          "word": "liên",
+          "start": 13.69,
+          "end": 13.69,
+          "probability": 0.51
+        },
+        {
+          "word": "và",
+          "start": 13.69,
+          "end": 13.79,
+          "probability": 0.16
+        },
+        {
+          "word": "những",
+          "start": 13.79,
+          "end": 13.93,
+          "probability": 0.16
+        },
+        {
+          "word": "dụng",
+          "start": 13.93,
+          "end": 14.13,
+          "probability": 0.29
+        },
+        {
+          "word": "suối",
+          "start": 14.13,
+          "end": 14.35,
+          "probability": 0.3
+        },
+        {
+          "word": "với",
+          "start": 14.35,
+          "end": 14.53,
+          "probability": 0.08
+        },
+        {
+          "word": "này",
+          "start": 14.53,
+          "end": 14.67,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 14.67,
+      "end": 16.21,
+      "text": "Khá phần trọng, thầy, giết thế",
+      "words": [
+        {
+          "word": "Khá",
+          "start": 14.67,
+          "end": 14.91,
+          "probability": 0.54
+        },
+        {
+          "word": "phần",
+          "start": 14.91,
+          "end": 15.05,
+          "probability": 0.43
+        },
+        {
+          "word": "trọng,",
+          "start": 15.05,
+          "end": 15.25,
+          "probability": 0.74
+        },
+        {
+          "word": "thầy,",
+          "start": 15.65,
+          "end": 15.65,
+          "probability": 0.67
+        },
+        {
+          "word": "giết",
+          "start": 15.99,
+          "end": 15.99,
+          "probability": 0.09
+        },
+        {
+          "word": "thế",
+          "start": 15.99,
+          "end": 16.21,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 16.65,
+      "end": 18.53,
+      "text": "Nhanh giết được suối với Estab",
+      "words": [
+        {
+          "word": "Nhanh",
+          "start": 16.65,
+          "end": 17.05,
+          "probability": 0.66
+        },
+        {
+          "word": "giết",
+          "start": 17.05,
+          "end": 17.19,
+          "probability": 0.92
+        },
+        {
+          "word": "được",
+          "start": 17.19,
+          "end": 17.37,
+          "probability": 0.28
+        },
+        {
+          "word": "suối",
+          "start": 17.37,
+          "end": 17.55,
+          "probability": 0.98
+        },
+        {
+          "word": "với",
+          "start": 17.55,
+          "end": 18.53,
+          "probability": 0.66
+        },
+        {
+          "word": "Estab",
+          "start": 18.53,
+          "end": 18.53,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 18.53,
+      "end": 19.25,
+      "text": "Vậy, giết được suối",
+      "words": [
+        {
+          "word": "Vậy,",
+          "start": 18.53,
+          "end": 18.87,
+          "probability": 0.24
+        },
+        {
+          "word": "giết",
+          "start": 18.91,
+          "end": 18.93,
+          "probability": 0.57
+        },
+        {
+          "word": "được",
+          "start": 18.93,
+          "end": 19.05,
+          "probability": 0.52
+        },
+        {
+          "word": "suối",
+          "start": 19.05,
+          "end": 19.25,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 19.71,
+      "end": 20.59,
+      "text": "Vậy, giết thầy, giết thầy",
+      "words": [
+        {
+          "word": "Vậy,",
+          "start": 19.71,
+          "end": 19.91,
+          "probability": 0.58
+        },
+        {
+          "word": "giết",
+          "start": 20.13,
+          "end": 20.13,
+          "probability": 0.76
+        },
+        {
+          "word": "thầy,",
+          "start": 20.13,
+          "end": 20.27,
+          "probability": 0.71
+        },
+        {
+          "word": "giết",
+          "start": 20.59,
+          "end": 20.59,
+          "probability": 0.81
+        },
+        {
+          "word": "thầy",
+          "start": 20.59,
+          "end": 20.59,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 21.21,
+      "end": 22.45,
+      "text": "Nhanh giết được suối với Estab",
+      "words": [
+        {
+          "word": "Nhanh",
+          "start": 21.21,
+          "end": 21.61,
+          "probability": 0.5
+        },
+        {
+          "word": "giết",
+          "start": 21.61,
+          "end": 21.61,
+          "probability": 0.97
+        },
+        {
+          "word": "được",
+          "start": 21.61,
+          "end": 21.73,
+          "probability": 0.15
+        },
+        {
+          "word": "suối",
+          "start": 21.73,
+          "end": 21.97,
+          "probability": 0.95
+        },
+        {
+          "word": "với",
+          "start": 21.97,
+          "end": 22.13,
+          "probability": 0.56
+        },
+        {
+          "word": "Estab",
+          "start": 22.13,
+          "end": 22.45,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 22.45,
+      "end": 23.65,
+      "text": "Nhật được suối với Estab",
+      "words": [
+        {
+          "word": "Nhật",
+          "start": 22.45,
+          "end": 22.55,
+          "probability": 0.15
+        },
+        {
+          "word": "được",
+          "start": 22.55,
+          "end": 22.75,
+          "probability": 0.44
+        },
+        {
+          "word": "suối",
+          "start": 22.75,
+          "end": 22.93,
+          "probability": 0.96
+        },
+        {
+          "word": "với",
+          "start": 22.93,
+          "end": 22.93,
+          "probability": 0.89
+        },
+        {
+          "word": "Estab",
+          "start": 22.93,
+          "end": 23.65,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 23.65,
+      "end": 24.79,
+      "text": "Nhật được suối với Estab",
+      "words": [
+        {
+          "word": "Nhật",
+          "start": 23.65,
+          "end": 24.01,
+          "probability": 0.77
+        },
+        {
+          "word": "được",
+          "start": 24.01,
+          "end": 24.09,
+          "probability": 0.95
+        },
+        {
+          "word": "suối",
+          "start": 24.09,
+          "end": 24.27,
+          "probability": 0.97
+        },
+        {
+          "word": "với",
+          "start": 24.27,
+          "end": 24.37,
+          "probability": 0.99
+        },
+        {
+          "word": "Estab",
+          "start": 24.37,
+          "end": 24.79,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 26.29,
+      "end": 27.37,
+      "text": "Thầy, giết thầy, giết thầy",
+      "words": [
+        {
+          "word": "Thầy,",
+          "start": 26.29,
+          "end": 26.75,
+          "probability": 0.16
+        },
+        {
+          "word": "giết",
+          "start": 26.93,
+          "end": 26.93,
+          "probability": 0.0
+        },
+        {
+          "word": "thầy,",
+          "start": 26.93,
+          "end": 27.09,
+          "probability": 0.37
+        },
+        {
+          "word": "giết",
+          "start": 27.09,
+          "end": 27.09,
+          "probability": 0.39
+        },
+        {
+          "word": "thầy",
+          "start": 27.09,
+          "end": 27.37,
+          "probability": 0.75
+        }
+      ]
+    }
+  ]
+}

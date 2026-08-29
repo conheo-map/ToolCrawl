@@ -1,0 +1,662 @@
+{
+  "item_id": "tt_7666836283473333525_07",
+  "duration_seconds": 26.2,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 102,
+  "text": "và chính là lúc kể các phía mâu sách ngay trên mây. Tên là những ốc số công bố từ nhà sản xuất và gỗ vui như thế giải thịt mức độc trải hệ tự tiếp ở trong điều kể 143 yếu chủ kể anh sang cũng có tạp phía trịt ra sẽ cần thử ra kể chủ nghiệp và tình trường. Tên đến thứ 3, trên 24 tui chào đó là kết ca là phía AI, kể kể để tự thức kể để tự thức mặt lưu nữa đây. Hình mà mình dục dựa sinh nhận hẹn gặp bao huối hình.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.66,
+      "text": "và chính là lúc kể các phía mâu sách ngay trên mây.",
+      "words": [
+        {
+          "word": "và",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.44
+        },
+        {
+          "word": "chính",
+          "start": 0.4,
+          "end": 0.52,
+          "probability": 0.13
+        },
+        {
+          "word": "là",
+          "start": 0.52,
+          "end": 0.64,
+          "probability": 0.5
+        },
+        {
+          "word": "lúc",
+          "start": 0.64,
+          "end": 0.9,
+          "probability": 0.84
+        },
+        {
+          "word": "kể",
+          "start": 0.9,
+          "end": 1.06,
+          "probability": 0.52
+        },
+        {
+          "word": "các",
+          "start": 1.06,
+          "end": 1.26,
+          "probability": 0.28
+        },
+        {
+          "word": "phía",
+          "start": 1.26,
+          "end": 1.44,
+          "probability": 0.12
+        },
+        {
+          "word": "mâu",
+          "start": 1.44,
+          "end": 1.68,
+          "probability": 0.31
+        },
+        {
+          "word": "sách",
+          "start": 1.68,
+          "end": 2.02,
+          "probability": 0.39
+        },
+        {
+          "word": "ngay",
+          "start": 2.02,
+          "end": 2.26,
+          "probability": 0.42
+        },
+        {
+          "word": "trên",
+          "start": 2.26,
+          "end": 2.42,
+          "probability": 0.89
+        },
+        {
+          "word": "mây.",
+          "start": 2.42,
+          "end": 2.66,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.14,
+      "end": 8.18,
+      "text": "Tên là những ốc số công bố từ nhà sản xuất và gỗ vui như thế giải thịt mức độc trải hệ tự tiếp",
+      "words": [
+        {
+          "word": "Tên",
+          "start": 3.14,
+          "end": 3.5,
+          "probability": 0.33
+        },
+        {
+          "word": "là",
+          "start": 3.5,
+          "end": 3.62,
+          "probability": 0.56
+        },
+        {
+          "word": "những",
+          "start": 3.62,
+          "end": 3.76,
+          "probability": 0.47
+        },
+        {
+          "word": "ốc",
+          "start": 3.76,
+          "end": 3.92,
+          "probability": 0.27
+        },
+        {
+          "word": "số",
+          "start": 3.92,
+          "end": 3.98,
+          "probability": 0.6
+        },
+        {
+          "word": "công",
+          "start": 3.98,
+          "end": 4.16,
+          "probability": 0.67
+        },
+        {
+          "word": "bố",
+          "start": 4.16,
+          "end": 4.38,
+          "probability": 0.58
+        },
+        {
+          "word": "từ",
+          "start": 4.38,
+          "end": 4.6,
+          "probability": 0.72
+        },
+        {
+          "word": "nhà",
+          "start": 4.6,
+          "end": 4.8,
+          "probability": 0.06
+        },
+        {
+          "word": "sản",
+          "start": 4.8,
+          "end": 4.96,
+          "probability": 0.56
+        },
+        {
+          "word": "xuất",
+          "start": 4.96,
+          "end": 5.18,
+          "probability": 0.96
+        },
+        {
+          "word": "và",
+          "start": 5.18,
+          "end": 5.5,
+          "probability": 0.86
+        },
+        {
+          "word": "gỗ",
+          "start": 5.5,
+          "end": 5.74,
+          "probability": 0.23
+        },
+        {
+          "word": "vui",
+          "start": 5.74,
+          "end": 5.96,
+          "probability": 0.22
+        },
+        {
+          "word": "như",
+          "start": 5.96,
+          "end": 6.12,
+          "probability": 0.76
+        },
+        {
+          "word": "thế",
+          "start": 6.12,
+          "end": 6.32,
+          "probability": 0.49
+        },
+        {
+          "word": "giải",
+          "start": 6.32,
+          "end": 6.44,
+          "probability": 0.18
+        },
+        {
+          "word": "thịt",
+          "start": 6.44,
+          "end": 6.64,
+          "probability": 0.28
+        },
+        {
+          "word": "mức",
+          "start": 6.64,
+          "end": 6.74,
+          "probability": 0.41
+        },
+        {
+          "word": "độc",
+          "start": 6.74,
+          "end": 7.22,
+          "probability": 0.38
+        },
+        {
+          "word": "trải",
+          "start": 7.22,
+          "end": 7.22,
+          "probability": 0.36
+        },
+        {
+          "word": "hệ",
+          "start": 7.22,
+          "end": 7.42,
+          "probability": 0.43
+        },
+        {
+          "word": "tự",
+          "start": 7.42,
+          "end": 7.66,
+          "probability": 0.28
+        },
+        {
+          "word": "tiếp",
+          "start": 7.66,
+          "end": 8.18,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.18,
+      "end": 15.66,
+      "text": "ở trong điều kể 143 yếu chủ kể anh sang cũng có tạp phía trịt ra sẽ cần thử ra kể chủ nghiệp và tình trường.",
+      "words": [
+        {
+          "word": "ở",
+          "start": 8.18,
+          "end": 8.52,
+          "probability": 0.2
+        },
+        {
+          "word": "trong",
+          "start": 8.52,
+          "end": 8.66,
+          "probability": 1.0
+        },
+        {
+          "word": "điều",
+          "start": 8.66,
+          "end": 8.84,
+          "probability": 0.38
+        },
+        {
+          "word": "kể",
+          "start": 8.84,
+          "end": 9.1,
+          "probability": 0.35
+        },
+        {
+          "word": "143",
+          "start": 9.1,
+          "end": 10.26,
+          "probability": 0.12
+        },
+        {
+          "word": "yếu",
+          "start": 10.26,
+          "end": 10.46,
+          "probability": 0.45
+        },
+        {
+          "word": "chủ",
+          "start": 10.46,
+          "end": 10.72,
+          "probability": 0.49
+        },
+        {
+          "word": "kể",
+          "start": 10.72,
+          "end": 11.12,
+          "probability": 0.47
+        },
+        {
+          "word": "anh",
+          "start": 11.12,
+          "end": 11.4,
+          "probability": 0.28
+        },
+        {
+          "word": "sang",
+          "start": 11.4,
+          "end": 11.62,
+          "probability": 0.47
+        },
+        {
+          "word": "cũng",
+          "start": 11.62,
+          "end": 11.88,
+          "probability": 0.38
+        },
+        {
+          "word": "có",
+          "start": 11.88,
+          "end": 11.96,
+          "probability": 0.3
+        },
+        {
+          "word": "tạp",
+          "start": 11.96,
+          "end": 12.22,
+          "probability": 0.56
+        },
+        {
+          "word": "phía",
+          "start": 12.22,
+          "end": 12.4,
+          "probability": 0.37
+        },
+        {
+          "word": "trịt",
+          "start": 12.4,
+          "end": 12.46,
+          "probability": 0.26
+        },
+        {
+          "word": "ra",
+          "start": 12.46,
+          "end": 12.68,
+          "probability": 0.47
+        },
+        {
+          "word": "sẽ",
+          "start": 12.68,
+          "end": 12.88,
+          "probability": 0.53
+        },
+        {
+          "word": "cần",
+          "start": 12.88,
+          "end": 13.14,
+          "probability": 0.51
+        },
+        {
+          "word": "thử",
+          "start": 13.14,
+          "end": 13.32,
+          "probability": 0.31
+        },
+        {
+          "word": "ra",
+          "start": 13.32,
+          "end": 13.56,
+          "probability": 0.62
+        },
+        {
+          "word": "kể",
+          "start": 13.56,
+          "end": 13.96,
+          "probability": 0.72
+        },
+        {
+          "word": "chủ",
+          "start": 13.96,
+          "end": 14.22,
+          "probability": 0.56
+        },
+        {
+          "word": "nghiệp",
+          "start": 14.22,
+          "end": 14.66,
+          "probability": 0.61
+        },
+        {
+          "word": "và",
+          "start": 14.66,
+          "end": 14.94,
+          "probability": 0.9
+        },
+        {
+          "word": "tình",
+          "start": 14.94,
+          "end": 15.16,
+          "probability": 0.19
+        },
+        {
+          "word": "trường.",
+          "start": 15.16,
+          "end": 15.66,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 16.14,
+      "end": 22.82,
+      "text": "Tên đến thứ 3, trên 24 tui chào đó là kết ca là phía AI, kể kể để tự thức kể để tự thức mặt lưu nữa đây.",
+      "words": [
+        {
+          "word": "Tên",
+          "start": 16.14,
+          "end": 16.28,
+          "probability": 0.32
+        },
+        {
+          "word": "đến",
+          "start": 16.28,
+          "end": 16.42,
+          "probability": 0.39
+        },
+        {
+          "word": "thứ",
+          "start": 16.42,
+          "end": 16.56,
+          "probability": 0.82
+        },
+        {
+          "word": "3,",
+          "start": 16.56,
+          "end": 16.9,
+          "probability": 0.39
+        },
+        {
+          "word": "trên",
+          "start": 17.16,
+          "end": 17.34,
+          "probability": 0.21
+        },
+        {
+          "word": "24",
+          "start": 17.34,
+          "end": 17.76,
+          "probability": 0.04
+        },
+        {
+          "word": "tui",
+          "start": 17.76,
+          "end": 18.04,
+          "probability": 0.14
+        },
+        {
+          "word": "chào",
+          "start": 18.04,
+          "end": 18.22,
+          "probability": 0.5
+        },
+        {
+          "word": "đó",
+          "start": 18.22,
+          "end": 18.42,
+          "probability": 0.33
+        },
+        {
+          "word": "là",
+          "start": 18.42,
+          "end": 18.52,
+          "probability": 0.82
+        },
+        {
+          "word": "kết",
+          "start": 18.52,
+          "end": 18.72,
+          "probability": 0.46
+        },
+        {
+          "word": "ca",
+          "start": 18.72,
+          "end": 18.9,
+          "probability": 0.1
+        },
+        {
+          "word": "là",
+          "start": 18.9,
+          "end": 19.08,
+          "probability": 0.36
+        },
+        {
+          "word": "phía",
+          "start": 19.08,
+          "end": 19.24,
+          "probability": 0.51
+        },
+        {
+          "word": "AI,",
+          "start": 19.24,
+          "end": 19.7,
+          "probability": 0.72
+        },
+        {
+          "word": "kể",
+          "start": 20.04,
+          "end": 20.04,
+          "probability": 0.38
+        },
+        {
+          "word": "kể",
+          "start": 20.04,
+          "end": 20.52,
+          "probability": 0.45
+        },
+        {
+          "word": "để",
+          "start": 20.52,
+          "end": 20.96,
+          "probability": 0.41
+        },
+        {
+          "word": "tự",
+          "start": 20.96,
+          "end": 21.2,
+          "probability": 0.42
+        },
+        {
+          "word": "thức",
+          "start": 21.2,
+          "end": 21.2,
+          "probability": 0.15
+        },
+        {
+          "word": "kể",
+          "start": 21.2,
+          "end": 21.2,
+          "probability": 0.79
+        },
+        {
+          "word": "để",
+          "start": 21.2,
+          "end": 21.2,
+          "probability": 0.63
+        },
+        {
+          "word": "tự",
+          "start": 21.2,
+          "end": 21.28,
+          "probability": 0.54
+        },
+        {
+          "word": "thức",
+          "start": 21.28,
+          "end": 21.44,
+          "probability": 0.21
+        },
+        {
+          "word": "mặt",
+          "start": 21.44,
+          "end": 21.68,
+          "probability": 0.38
+        },
+        {
+          "word": "lưu",
+          "start": 21.68,
+          "end": 22.08,
+          "probability": 0.36
+        },
+        {
+          "word": "nữa",
+          "start": 22.08,
+          "end": 22.28,
+          "probability": 0.28
+        },
+        {
+          "word": "đây.",
+          "start": 22.28,
+          "end": 22.82,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 23.14,
+      "end": 26.02,
+      "text": "Hình mà mình dục dựa sinh nhận hẹn gặp bao huối hình.",
+      "words": [
+        {
+          "word": "Hình",
+          "start": 23.14,
+          "end": 23.28,
+          "probability": 0.21
+        },
+        {
+          "word": "mà",
+          "start": 23.28,
+          "end": 23.62,
+          "probability": 0.25
+        },
+        {
+          "word": "mình",
+          "start": 23.62,
+          "end": 23.82,
+          "probability": 0.23
+        },
+        {
+          "word": "dục",
+          "start": 23.82,
+          "end": 24.06,
+          "probability": 0.34
+        },
+        {
+          "word": "dựa",
+          "start": 24.06,
+          "end": 24.42,
+          "probability": 0.27
+        },
+        {
+          "word": "sinh",
+          "start": 24.42,
+          "end": 24.72,
+          "probability": 0.66
+        },
+        {
+          "word": "nhận",
+          "start": 24.72,
+          "end": 24.92,
+          "probability": 0.47
+        },
+        {
+          "word": "hẹn",
+          "start": 24.92,
+          "end": 25.22,
+          "probability": 0.68
+        },
+        {
+          "word": "gặp",
+          "start": 25.22,
+          "end": 25.44,
+          "probability": 0.82
+        },
+        {
+          "word": "bao",
+          "start": 25.44,
+          "end": 25.7,
+          "probability": 0.59
+        },
+        {
+          "word": "huối",
+          "start": 25.7,
+          "end": 25.88,
+          "probability": 0.63
+        },
+        {
+          "word": "hình.",
+          "start": 25.88,
+          "end": 26.02,
+          "probability": 0.28
+        }
+      ]
+    }
+  ]
+}

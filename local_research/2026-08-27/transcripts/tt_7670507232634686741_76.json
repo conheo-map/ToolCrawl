@@ -1,0 +1,78 @@
+{
+  "item_id": "tt_7670507232634686741_76",
+  "duration_seconds": 26.37,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 10,
+  "text": "mình nhìn rất là rau, và nó quá đi ngay",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.42,
+      "text": "mình nhìn rất là rau, và nó quá đi ngay",
+      "words": [
+        {
+          "word": "mình",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.12
+        },
+        {
+          "word": "nhìn",
+          "start": 0.16,
+          "end": 0.32,
+          "probability": 0.51
+        },
+        {
+          "word": "rất",
+          "start": 0.32,
+          "end": 0.5,
+          "probability": 0.21
+        },
+        {
+          "word": "là",
+          "start": 0.5,
+          "end": 0.64,
+          "probability": 0.26
+        },
+        {
+          "word": "rau,",
+          "start": 0.64,
+          "end": 1.14,
+          "probability": 0.26
+        },
+        {
+          "word": "và",
+          "start": 1.24,
+          "end": 1.36,
+          "probability": 0.52
+        },
+        {
+          "word": "nó",
+          "start": 1.36,
+          "end": 1.68,
+          "probability": 0.37
+        },
+        {
+          "word": "quá",
+          "start": 1.68,
+          "end": 1.92,
+          "probability": 0.34
+        },
+        {
+          "word": "đi",
+          "start": 1.92,
+          "end": 2.04,
+          "probability": 0.33
+        },
+        {
+          "word": "ngay",
+          "start": 2.04,
+          "end": 2.42,
+          "probability": 0.61
+        }
+      ]
+    }
+  ]
+}

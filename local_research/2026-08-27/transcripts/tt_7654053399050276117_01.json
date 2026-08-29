@@ -1,0 +1,216 @@
+{
+  "item_id": "tt_7654053399050276117_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 29,
+  "text": "Nếu là làm lập, nơi mình mà, nó không có cái ngay hả? Hãy chờ máy hơi giả dạ. Thời chào mừng b коi. Hãy cho mừng bà đức.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.16,
+      "end": 16.64,
+      "text": "Nếu là làm lập, nơi mình mà, nó không có cái ngay hả?",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 2.16,
+          "end": 3.36,
+          "probability": 0.18
+        },
+        {
+          "word": "là",
+          "start": 9.44,
+          "end": 11.6,
+          "probability": 0.03
+        },
+        {
+          "word": "làm",
+          "start": 11.6,
+          "end": 11.6,
+          "probability": 0.0
+        },
+        {
+          "word": "lập,",
+          "start": 11.6,
+          "end": 13.34,
+          "probability": 0.51
+        },
+        {
+          "word": "nơi",
+          "start": 13.58,
+          "end": 13.58,
+          "probability": 0.09
+        },
+        {
+          "word": "mình",
+          "start": 13.58,
+          "end": 13.88,
+          "probability": 0.21
+        },
+        {
+          "word": "mà,",
+          "start": 13.88,
+          "end": 14.78,
+          "probability": 0.33
+        },
+        {
+          "word": "nó",
+          "start": 15.6,
+          "end": 15.62,
+          "probability": 0.1
+        },
+        {
+          "word": "không",
+          "start": 15.62,
+          "end": 16.0,
+          "probability": 0.07
+        },
+        {
+          "word": "có",
+          "start": 16.0,
+          "end": 16.0,
+          "probability": 0.27
+        },
+        {
+          "word": "cái",
+          "start": 16.0,
+          "end": 16.12,
+          "probability": 0.08
+        },
+        {
+          "word": "ngay",
+          "start": 16.12,
+          "end": 16.4,
+          "probability": 0.16
+        },
+        {
+          "word": "hả?",
+          "start": 16.4,
+          "end": 16.64,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 18.08,
+      "end": 23.22,
+      "text": "Hãy chờ máy hơi giả dạ.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 18.08,
+          "end": 18.8,
+          "probability": 0.2
+        },
+        {
+          "word": "chờ",
+          "start": 20.62,
+          "end": 20.86,
+          "probability": 0.03
+        },
+        {
+          "word": "máy",
+          "start": 20.86,
+          "end": 21.34,
+          "probability": 0.18
+        },
+        {
+          "word": "hơi",
+          "start": 21.34,
+          "end": 21.8,
+          "probability": 0.07
+        },
+        {
+          "word": "giả",
+          "start": 21.8,
+          "end": 22.66,
+          "probability": 0.17
+        },
+        {
+          "word": "dạ.",
+          "start": 22.66,
+          "end": 23.22,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 23.4,
+      "end": 26.48,
+      "text": "Thời chào mừng b коi.",
+      "words": [
+        {
+          "word": "Thời",
+          "start": 23.4,
+          "end": 24.34,
+          "probability": 0.01
+        },
+        {
+          "word": "chào",
+          "start": 24.34,
+          "end": 24.72,
+          "probability": 0.03
+        },
+        {
+          "word": "mừng",
+          "start": 24.72,
+          "end": 26.42,
+          "probability": 0.04
+        },
+        {
+          "word": "b",
+          "start": 26.42,
+          "end": 26.42,
+          "probability": 0.02
+        },
+        {
+          "word": "коi.",
+          "start": 26.42,
+          "end": 26.48,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 27.04,
+      "end": 27.08,
+      "text": "Hãy cho mừng bà đức.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 27.04,
+          "end": 27.04,
+          "probability": 0.44
+        },
+        {
+          "word": "cho",
+          "start": 27.04,
+          "end": 27.04,
+          "probability": 0.03
+        },
+        {
+          "word": "mừng",
+          "start": 27.04,
+          "end": 27.04,
+          "probability": 0.34
+        },
+        {
+          "word": "bà",
+          "start": 27.04,
+          "end": 27.08,
+          "probability": 0.06
+        },
+        {
+          "word": "đức.",
+          "start": 27.08,
+          "end": 27.08,
+          "probability": 0.02
+        }
+      ]
+    }
+  ]
+}

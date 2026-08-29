@@ -1,0 +1,88 @@
+{
+  "item_id": "tt_7676693292041374983",
+  "duration_seconds": 17.49,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "Bôi chừng đi về là Bà bà bó Mình",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.06,
+      "end": 3.7,
+      "text": "Bôi chừng đi về là",
+      "words": [
+        {
+          "word": "Bôi",
+          "start": 2.06,
+          "end": 2.48,
+          "probability": 0.15
+        },
+        {
+          "word": "chừng",
+          "start": 2.48,
+          "end": 2.66,
+          "probability": 0.14
+        },
+        {
+          "word": "đi",
+          "start": 2.66,
+          "end": 2.82,
+          "probability": 0.18
+        },
+        {
+          "word": "về",
+          "start": 2.82,
+          "end": 3.02,
+          "probability": 0.55
+        },
+        {
+          "word": "là",
+          "start": 3.02,
+          "end": 3.7,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.7,
+      "end": 4.8,
+      "text": "Bà bà bó",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 3.7,
+          "end": 4.18,
+          "probability": 0.07
+        },
+        {
+          "word": "bà",
+          "start": 4.18,
+          "end": 4.4,
+          "probability": 0.34
+        },
+        {
+          "word": "bó",
+          "start": 4.4,
+          "end": 4.8,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.0,
+      "end": 12.72,
+      "text": "Mình",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 12.0,
+          "end": 12.72,
+          "probability": 0.04
+        }
+      ]
+    }
+  ]
+}

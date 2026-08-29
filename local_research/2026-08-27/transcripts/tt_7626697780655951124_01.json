@@ -1,0 +1,682 @@
+{
+  "item_id": "tt_7626697780655951124_01",
+  "duration_seconds": 22.29,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 104,
+  "text": "Với tay khi có th话 qua, nếu bệnh nhân mất vẫn động hoàn toàn ngón tay cho. Với qua, bệnh viện đó qua hồng nọ phút chứng minh đã tiếp nhận một nữ bệnh nhân cuốc tịch Anh bị đứt dân sau tay nạn sinh hoàn. Trong nữ có th话, bệnh nhân chứ tay khiến sau đâm vào món trọng tay trái, với thương nhỏ chỉ khoảng 1 cm và 1 trẻ mấu đến bệnh nhân từ cầm mấu và bằng bỏ đơn giản tay, sau vài ngày, với thương ngoài ra đã liền nhân ngón tay cho không thể gấp lại như trước.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Với tay khi có th话 qua, nếu bệnh nhân mất vẫn động hoàn toàn ngón tay cho.",
+      "words": [
+        {
+          "word": "Với",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.14
+        },
+        {
+          "word": "tay",
+          "start": 0.14,
+          "end": 0.3,
+          "probability": 0.18
+        },
+        {
+          "word": "khi",
+          "start": 0.3,
+          "end": 0.48,
+          "probability": 0.86
+        },
+        {
+          "word": "có",
+          "start": 0.48,
+          "end": 0.64,
+          "probability": 0.42
+        },
+        {
+          "word": "th话",
+          "start": 0.64,
+          "end": 0.88,
+          "probability": 0.39
+        },
+        {
+          "word": "qua,",
+          "start": 0.88,
+          "end": 1.34,
+          "probability": 0.65
+        },
+        {
+          "word": "nếu",
+          "start": 1.44,
+          "end": 1.52,
+          "probability": 0.34
+        },
+        {
+          "word": "bệnh",
+          "start": 1.52,
+          "end": 1.7,
+          "probability": 0.75
+        },
+        {
+          "word": "nhân",
+          "start": 1.7,
+          "end": 1.84,
+          "probability": 0.14
+        },
+        {
+          "word": "mất",
+          "start": 1.84,
+          "end": 2.0,
+          "probability": 0.87
+        },
+        {
+          "word": "vẫn",
+          "start": 2.0,
+          "end": 2.16,
+          "probability": 0.3
+        },
+        {
+          "word": "động",
+          "start": 2.16,
+          "end": 2.4,
+          "probability": 0.39
+        },
+        {
+          "word": "hoàn",
+          "start": 2.4,
+          "end": 2.56,
+          "probability": 0.8
+        },
+        {
+          "word": "toàn",
+          "start": 2.56,
+          "end": 2.76,
+          "probability": 0.94
+        },
+        {
+          "word": "ngón",
+          "start": 2.76,
+          "end": 2.98,
+          "probability": 0.49
+        },
+        {
+          "word": "tay",
+          "start": 2.98,
+          "end": 3.16,
+          "probability": 0.89
+        },
+        {
+          "word": "cho.",
+          "start": 3.16,
+          "end": 3.4,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.08,
+      "end": 7.6,
+      "text": "Với qua, bệnh viện đó qua hồng nọ phút chứng minh đã tiếp nhận một nữ bệnh nhân cuốc",
+      "words": [
+        {
+          "word": "Với",
+          "start": 4.08,
+          "end": 4.26,
+          "probability": 0.53
+        },
+        {
+          "word": "qua,",
+          "start": 4.26,
+          "end": 4.52,
+          "probability": 0.99
+        },
+        {
+          "word": "bệnh",
+          "start": 4.76,
+          "end": 4.92,
+          "probability": 0.77
+        },
+        {
+          "word": "viện",
+          "start": 4.92,
+          "end": 5.1,
+          "probability": 0.29
+        },
+        {
+          "word": "đó",
+          "start": 5.1,
+          "end": 5.24,
+          "probability": 0.21
+        },
+        {
+          "word": "qua",
+          "start": 5.24,
+          "end": 5.42,
+          "probability": 0.4
+        },
+        {
+          "word": "hồng",
+          "start": 5.42,
+          "end": 5.6,
+          "probability": 0.35
+        },
+        {
+          "word": "nọ",
+          "start": 5.6,
+          "end": 5.76,
+          "probability": 0.15
+        },
+        {
+          "word": "phút",
+          "start": 5.76,
+          "end": 5.92,
+          "probability": 0.31
+        },
+        {
+          "word": "chứng",
+          "start": 5.92,
+          "end": 6.1,
+          "probability": 0.25
+        },
+        {
+          "word": "minh",
+          "start": 6.1,
+          "end": 6.26,
+          "probability": 0.63
+        },
+        {
+          "word": "đã",
+          "start": 6.26,
+          "end": 6.44,
+          "probability": 0.85
+        },
+        {
+          "word": "tiếp",
+          "start": 6.44,
+          "end": 6.62,
+          "probability": 0.53
+        },
+        {
+          "word": "nhận",
+          "start": 6.62,
+          "end": 6.74,
+          "probability": 0.82
+        },
+        {
+          "word": "một",
+          "start": 6.74,
+          "end": 6.94,
+          "probability": 0.68
+        },
+        {
+          "word": "nữ",
+          "start": 6.94,
+          "end": 7.12,
+          "probability": 0.76
+        },
+        {
+          "word": "bệnh",
+          "start": 7.12,
+          "end": 7.28,
+          "probability": 0.99
+        },
+        {
+          "word": "nhân",
+          "start": 7.28,
+          "end": 7.44,
+          "probability": 0.98
+        },
+        {
+          "word": "cuốc",
+          "start": 7.44,
+          "end": 7.6,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.6,
+      "end": 9.52,
+      "text": "tịch Anh bị đứt dân sau tay nạn sinh hoàn.",
+      "words": [
+        {
+          "word": "tịch",
+          "start": 7.6,
+          "end": 7.78,
+          "probability": 0.48
+        },
+        {
+          "word": "Anh",
+          "start": 7.78,
+          "end": 8.02,
+          "probability": 0.29
+        },
+        {
+          "word": "bị",
+          "start": 8.02,
+          "end": 8.16,
+          "probability": 0.9
+        },
+        {
+          "word": "đứt",
+          "start": 8.16,
+          "end": 8.34,
+          "probability": 0.72
+        },
+        {
+          "word": "dân",
+          "start": 8.34,
+          "end": 8.54,
+          "probability": 0.41
+        },
+        {
+          "word": "sau",
+          "start": 8.54,
+          "end": 8.7,
+          "probability": 0.7
+        },
+        {
+          "word": "tay",
+          "start": 8.7,
+          "end": 8.82,
+          "probability": 0.92
+        },
+        {
+          "word": "nạn",
+          "start": 8.82,
+          "end": 9.02,
+          "probability": 0.61
+        },
+        {
+          "word": "sinh",
+          "start": 9.02,
+          "end": 9.22,
+          "probability": 0.7
+        },
+        {
+          "word": "hoàn.",
+          "start": 9.22,
+          "end": 9.52,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.64,
+      "end": 13.2,
+      "text": "Trong nữ có th话, bệnh nhân chứ tay khiến sau đâm vào món trọng tay trái,",
+      "words": [
+        {
+          "word": "Trong",
+          "start": 9.64,
+          "end": 9.78,
+          "probability": 0.69
+        },
+        {
+          "word": "nữ",
+          "start": 9.78,
+          "end": 9.94,
+          "probability": 0.43
+        },
+        {
+          "word": "có",
+          "start": 9.94,
+          "end": 10.1,
+          "probability": 0.83
+        },
+        {
+          "word": "th话,",
+          "start": 10.1,
+          "end": 10.34,
+          "probability": 0.99
+        },
+        {
+          "word": "bệnh",
+          "start": 10.8,
+          "end": 10.96,
+          "probability": 0.98
+        },
+        {
+          "word": "nhân",
+          "start": 10.96,
+          "end": 11.14,
+          "probability": 0.99
+        },
+        {
+          "word": "chứ",
+          "start": 11.14,
+          "end": 11.32,
+          "probability": 0.31
+        },
+        {
+          "word": "tay",
+          "start": 11.32,
+          "end": 11.52,
+          "probability": 1.0
+        },
+        {
+          "word": "khiến",
+          "start": 11.52,
+          "end": 11.78,
+          "probability": 0.79
+        },
+        {
+          "word": "sau",
+          "start": 11.78,
+          "end": 11.92,
+          "probability": 0.56
+        },
+        {
+          "word": "đâm",
+          "start": 11.92,
+          "end": 12.1,
+          "probability": 0.76
+        },
+        {
+          "word": "vào",
+          "start": 12.1,
+          "end": 12.28,
+          "probability": 0.82
+        },
+        {
+          "word": "món",
+          "start": 12.28,
+          "end": 12.48,
+          "probability": 0.44
+        },
+        {
+          "word": "trọng",
+          "start": 12.48,
+          "end": 12.72,
+          "probability": 0.6
+        },
+        {
+          "word": "tay",
+          "start": 12.72,
+          "end": 12.9,
+          "probability": 0.99
+        },
+        {
+          "word": "trái,",
+          "start": 12.9,
+          "end": 13.2,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.4,
+      "end": 17.86,
+      "text": "với thương nhỏ chỉ khoảng 1 cm và 1 trẻ mấu đến bệnh nhân từ cầm mấu và bằng bỏ đơn giản tay,",
+      "words": [
+        {
+          "word": "với",
+          "start": 13.4,
+          "end": 13.5,
+          "probability": 0.46
+        },
+        {
+          "word": "thương",
+          "start": 13.5,
+          "end": 13.68,
+          "probability": 0.72
+        },
+        {
+          "word": "nhỏ",
+          "start": 13.68,
+          "end": 13.88,
+          "probability": 0.78
+        },
+        {
+          "word": "chỉ",
+          "start": 13.88,
+          "end": 14.12,
+          "probability": 0.59
+        },
+        {
+          "word": "khoảng",
+          "start": 14.12,
+          "end": 14.3,
+          "probability": 0.71
+        },
+        {
+          "word": "1",
+          "start": 14.3,
+          "end": 14.5,
+          "probability": 0.55
+        },
+        {
+          "word": "cm",
+          "start": 14.5,
+          "end": 14.78,
+          "probability": 0.24
+        },
+        {
+          "word": "và",
+          "start": 14.78,
+          "end": 15.14,
+          "probability": 0.85
+        },
+        {
+          "word": "1",
+          "start": 15.14,
+          "end": 15.32,
+          "probability": 0.4
+        },
+        {
+          "word": "trẻ",
+          "start": 15.32,
+          "end": 15.5,
+          "probability": 0.28
+        },
+        {
+          "word": "mấu",
+          "start": 15.5,
+          "end": 15.68,
+          "probability": 0.31
+        },
+        {
+          "word": "đến",
+          "start": 15.68,
+          "end": 15.84,
+          "probability": 0.34
+        },
+        {
+          "word": "bệnh",
+          "start": 15.84,
+          "end": 16.02,
+          "probability": 0.99
+        },
+        {
+          "word": "nhân",
+          "start": 16.02,
+          "end": 16.2,
+          "probability": 0.99
+        },
+        {
+          "word": "từ",
+          "start": 16.2,
+          "end": 16.34,
+          "probability": 0.64
+        },
+        {
+          "word": "cầm",
+          "start": 16.34,
+          "end": 16.58,
+          "probability": 0.74
+        },
+        {
+          "word": "mấu",
+          "start": 16.58,
+          "end": 16.78,
+          "probability": 0.69
+        },
+        {
+          "word": "và",
+          "start": 16.78,
+          "end": 16.94,
+          "probability": 0.79
+        },
+        {
+          "word": "bằng",
+          "start": 16.94,
+          "end": 17.1,
+          "probability": 0.45
+        },
+        {
+          "word": "bỏ",
+          "start": 17.1,
+          "end": 17.28,
+          "probability": 0.71
+        },
+        {
+          "word": "đơn",
+          "start": 17.28,
+          "end": 17.44,
+          "probability": 0.51
+        },
+        {
+          "word": "giản",
+          "start": 17.44,
+          "end": 17.64,
+          "probability": 0.55
+        },
+        {
+          "word": "tay,",
+          "start": 17.64,
+          "end": 17.86,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 18.22,
+      "end": 22.18,
+      "text": "sau vài ngày, với thương ngoài ra đã liền nhân ngón tay cho không thể gấp lại như trước.",
+      "words": [
+        {
+          "word": "sau",
+          "start": 18.22,
+          "end": 18.52,
+          "probability": 0.3
+        },
+        {
+          "word": "vài",
+          "start": 18.52,
+          "end": 18.74,
+          "probability": 0.45
+        },
+        {
+          "word": "ngày,",
+          "start": 18.74,
+          "end": 19.0,
+          "probability": 0.69
+        },
+        {
+          "word": "với",
+          "start": 19.22,
+          "end": 19.3,
+          "probability": 0.98
+        },
+        {
+          "word": "thương",
+          "start": 19.3,
+          "end": 19.5,
+          "probability": 0.96
+        },
+        {
+          "word": "ngoài",
+          "start": 19.5,
+          "end": 19.74,
+          "probability": 0.67
+        },
+        {
+          "word": "ra",
+          "start": 19.74,
+          "end": 19.94,
+          "probability": 0.87
+        },
+        {
+          "word": "đã",
+          "start": 19.94,
+          "end": 20.14,
+          "probability": 0.9
+        },
+        {
+          "word": "liền",
+          "start": 20.14,
+          "end": 20.3,
+          "probability": 0.69
+        },
+        {
+          "word": "nhân",
+          "start": 20.3,
+          "end": 20.52,
+          "probability": 0.41
+        },
+        {
+          "word": "ngón",
+          "start": 20.52,
+          "end": 20.7,
+          "probability": 0.93
+        },
+        {
+          "word": "tay",
+          "start": 20.7,
+          "end": 20.88,
+          "probability": 1.0
+        },
+        {
+          "word": "cho",
+          "start": 20.88,
+          "end": 21.08,
+          "probability": 0.99
+        },
+        {
+          "word": "không",
+          "start": 21.08,
+          "end": 21.26,
+          "probability": 0.95
+        },
+        {
+          "word": "thể",
+          "start": 21.26,
+          "end": 21.42,
+          "probability": 0.43
+        },
+        {
+          "word": "gấp",
+          "start": 21.42,
+          "end": 21.62,
+          "probability": 0.58
+        },
+        {
+          "word": "lại",
+          "start": 21.62,
+          "end": 21.82,
+          "probability": 0.77
+        },
+        {
+          "word": "như",
+          "start": 21.82,
+          "end": 21.98,
+          "probability": 0.94
+        },
+        {
+          "word": "trước.",
+          "start": 21.98,
+          "end": 22.18,
+          "probability": 0.96
+        }
+      ]
+    }
+  ]
+}

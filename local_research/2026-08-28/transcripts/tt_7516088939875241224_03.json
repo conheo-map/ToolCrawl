@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7516088939875241224_03",
+  "duration_seconds": 7.58,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Rửa, rửa, rửa, rửa, rửa, rửa.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.1,
+      "end": 6.74,
+      "text": "Rửa, rửa, rửa, rửa, rửa, rửa.",
+      "words": [
+        {
+          "word": "Rửa,",
+          "start": 3.1,
+          "end": 3.98,
+          "probability": 0.2
+        },
+        {
+          "word": "rửa,",
+          "start": 3.98,
+          "end": 4.36,
+          "probability": 0.7
+        },
+        {
+          "word": "rửa,",
+          "start": 4.9,
+          "end": 5.34,
+          "probability": 0.98
+        },
+        {
+          "word": "rửa,",
+          "start": 5.34,
+          "end": 5.44,
+          "probability": 0.97
+        },
+        {
+          "word": "rửa,",
+          "start": 5.84,
+          "end": 5.84,
+          "probability": 0.97
+        },
+        {
+          "word": "rửa.",
+          "start": 6.48,
+          "end": 6.74,
+          "probability": 0.97
+        }
+      ]
+    }
+  ]
+}

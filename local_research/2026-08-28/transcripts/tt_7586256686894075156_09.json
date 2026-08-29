@@ -1,0 +1,840 @@
+{
+  "item_id": "tt_7586256686894075156_09",
+  "duration_seconds": 28.7,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 121,
+  "text": "1 kí tự này chỉ 1 này là không 1 Bây giờ 1 kí tự Thì số cách để sắp sếp nè an ở đi Bây giờ thì sẽ có rất cái số đầu tiên mình tập trùa số đầu tiên số đầu tiên nếu như mà nó nó không Bây giờ thì nó đầy Thì nó đầy này Cái số thứ 2 này có thể là 1 số 3 của nó phòng 1 Thì mình tập trùa nó chỉ 1 kí tự này Chỉ cần nó chỉ 1 kí tự này đàm bảo Thì 1 kí tự này nó không có 2 số 1 nó cạnh nhau nó 1 kì Thì nó sẽ thảm ảm ảm ảm ảm ảm ảm",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.28,
+      "text": "1 kí tự này chỉ 1 này là không 1",
+      "words": [
+        {
+          "word": "1",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.33
+        },
+        {
+          "word": "kí",
+          "start": 0.44,
+          "end": 0.6,
+          "probability": 0.38
+        },
+        {
+          "word": "tự",
+          "start": 0.6,
+          "end": 0.7,
+          "probability": 0.36
+        },
+        {
+          "word": "này",
+          "start": 0.7,
+          "end": 0.88,
+          "probability": 0.64
+        },
+        {
+          "word": "chỉ",
+          "start": 0.88,
+          "end": 1.06,
+          "probability": 0.24
+        },
+        {
+          "word": "1",
+          "start": 1.06,
+          "end": 1.1,
+          "probability": 0.39
+        },
+        {
+          "word": "này",
+          "start": 1.1,
+          "end": 1.14,
+          "probability": 0.44
+        },
+        {
+          "word": "là",
+          "start": 1.14,
+          "end": 1.3,
+          "probability": 0.43
+        },
+        {
+          "word": "không",
+          "start": 1.3,
+          "end": 1.48,
+          "probability": 0.69
+        },
+        {
+          "word": "1",
+          "start": 1.48,
+          "end": 2.28,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.28,
+      "end": 2.74,
+      "text": "Bây giờ",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 2.28,
+          "end": 2.62,
+          "probability": 0.05
+        },
+        {
+          "word": "giờ",
+          "start": 2.62,
+          "end": 2.74,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.74,
+      "end": 3.88,
+      "text": "1 kí tự",
+      "words": [
+        {
+          "word": "1",
+          "start": 2.74,
+          "end": 3.36,
+          "probability": 0.28
+        },
+        {
+          "word": "kí",
+          "start": 3.36,
+          "end": 3.48,
+          "probability": 0.69
+        },
+        {
+          "word": "tự",
+          "start": 3.48,
+          "end": 3.88,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 3.88,
+      "end": 6.28,
+      "text": "Thì số cách để sắp sếp nè an ở đi",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 3.88,
+          "end": 4.26,
+          "probability": 0.47
+        },
+        {
+          "word": "số",
+          "start": 4.26,
+          "end": 4.42,
+          "probability": 0.92
+        },
+        {
+          "word": "cách",
+          "start": 4.42,
+          "end": 4.64,
+          "probability": 0.49
+        },
+        {
+          "word": "để",
+          "start": 4.64,
+          "end": 4.78,
+          "probability": 0.71
+        },
+        {
+          "word": "sắp",
+          "start": 4.78,
+          "end": 4.94,
+          "probability": 0.63
+        },
+        {
+          "word": "sếp",
+          "start": 4.94,
+          "end": 5.1,
+          "probability": 0.55
+        },
+        {
+          "word": "nè",
+          "start": 5.1,
+          "end": 5.26,
+          "probability": 0.33
+        },
+        {
+          "word": "an",
+          "start": 5.26,
+          "end": 5.48,
+          "probability": 0.29
+        },
+        {
+          "word": "ở",
+          "start": 5.48,
+          "end": 5.58,
+          "probability": 0.64
+        },
+        {
+          "word": "đi",
+          "start": 5.58,
+          "end": 6.28,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.06,
+      "end": 10.38,
+      "text": "Bây giờ thì sẽ có rất cái số đầu tiên mình tập trùa số đầu tiên",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 7.06,
+          "end": 7.42,
+          "probability": 0.6
+        },
+        {
+          "word": "giờ",
+          "start": 7.42,
+          "end": 7.68,
+          "probability": 1.0
+        },
+        {
+          "word": "thì",
+          "start": 7.68,
+          "end": 7.92,
+          "probability": 0.5
+        },
+        {
+          "word": "sẽ",
+          "start": 7.92,
+          "end": 8.1,
+          "probability": 0.95
+        },
+        {
+          "word": "có",
+          "start": 8.1,
+          "end": 8.24,
+          "probability": 0.96
+        },
+        {
+          "word": "rất",
+          "start": 8.24,
+          "end": 8.42,
+          "probability": 0.22
+        },
+        {
+          "word": "cái",
+          "start": 8.42,
+          "end": 8.46,
+          "probability": 0.28
+        },
+        {
+          "word": "số",
+          "start": 8.46,
+          "end": 8.58,
+          "probability": 0.95
+        },
+        {
+          "word": "đầu",
+          "start": 8.58,
+          "end": 8.76,
+          "probability": 0.43
+        },
+        {
+          "word": "tiên",
+          "start": 8.76,
+          "end": 8.86,
+          "probability": 0.92
+        },
+        {
+          "word": "mình",
+          "start": 8.86,
+          "end": 9.26,
+          "probability": 0.59
+        },
+        {
+          "word": "tập",
+          "start": 9.26,
+          "end": 9.42,
+          "probability": 0.47
+        },
+        {
+          "word": "trùa",
+          "start": 9.42,
+          "end": 9.6,
+          "probability": 0.41
+        },
+        {
+          "word": "số",
+          "start": 9.6,
+          "end": 9.78,
+          "probability": 0.89
+        },
+        {
+          "word": "đầu",
+          "start": 9.78,
+          "end": 9.9,
+          "probability": 0.95
+        },
+        {
+          "word": "tiên",
+          "start": 9.9,
+          "end": 10.38,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.38,
+      "end": 13.16,
+      "text": "số đầu tiên nếu như mà nó nó không",
+      "words": [
+        {
+          "word": "số",
+          "start": 10.38,
+          "end": 10.64,
+          "probability": 0.4
+        },
+        {
+          "word": "đầu",
+          "start": 10.64,
+          "end": 10.86,
+          "probability": 0.98
+        },
+        {
+          "word": "tiên",
+          "start": 10.86,
+          "end": 11.24,
+          "probability": 1.0
+        },
+        {
+          "word": "nếu",
+          "start": 11.24,
+          "end": 11.66,
+          "probability": 0.48
+        },
+        {
+          "word": "như",
+          "start": 11.66,
+          "end": 12.28,
+          "probability": 0.98
+        },
+        {
+          "word": "mà",
+          "start": 12.28,
+          "end": 12.62,
+          "probability": 0.57
+        },
+        {
+          "word": "nó",
+          "start": 12.62,
+          "end": 12.78,
+          "probability": 0.82
+        },
+        {
+          "word": "nó",
+          "start": 12.78,
+          "end": 12.98,
+          "probability": 0.26
+        },
+        {
+          "word": "không",
+          "start": 12.98,
+          "end": 13.16,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 14.02,
+      "end": 15.94,
+      "text": "Bây giờ thì nó đầy",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 14.02,
+          "end": 14.38,
+          "probability": 0.48
+        },
+        {
+          "word": "giờ",
+          "start": 14.38,
+          "end": 14.74,
+          "probability": 1.0
+        },
+        {
+          "word": "thì",
+          "start": 14.74,
+          "end": 15.22,
+          "probability": 0.74
+        },
+        {
+          "word": "nó",
+          "start": 15.22,
+          "end": 15.34,
+          "probability": 0.62
+        },
+        {
+          "word": "đầy",
+          "start": 15.34,
+          "end": 15.94,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.94,
+      "end": 17.22,
+      "text": "Thì nó đầy này",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 15.94,
+          "end": 16.3,
+          "probability": 0.5
+        },
+        {
+          "word": "nó",
+          "start": 16.3,
+          "end": 16.4,
+          "probability": 0.58
+        },
+        {
+          "word": "đầy",
+          "start": 16.4,
+          "end": 16.54,
+          "probability": 0.79
+        },
+        {
+          "word": "này",
+          "start": 16.54,
+          "end": 17.22,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 17.22,
+      "end": 20.24,
+      "text": "Cái số thứ 2 này có thể là 1 số 3 của nó phòng 1",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 17.22,
+          "end": 17.38,
+          "probability": 0.5
+        },
+        {
+          "word": "số",
+          "start": 17.38,
+          "end": 17.54,
+          "probability": 0.99
+        },
+        {
+          "word": "thứ",
+          "start": 17.54,
+          "end": 17.76,
+          "probability": 0.54
+        },
+        {
+          "word": "2",
+          "start": 17.76,
+          "end": 18.1,
+          "probability": 0.85
+        },
+        {
+          "word": "này",
+          "start": 18.1,
+          "end": 18.32,
+          "probability": 0.74
+        },
+        {
+          "word": "có",
+          "start": 18.32,
+          "end": 18.36,
+          "probability": 0.87
+        },
+        {
+          "word": "thể",
+          "start": 18.36,
+          "end": 18.5,
+          "probability": 0.92
+        },
+        {
+          "word": "là",
+          "start": 18.5,
+          "end": 18.66,
+          "probability": 0.23
+        },
+        {
+          "word": "1",
+          "start": 18.66,
+          "end": 18.88,
+          "probability": 0.18
+        },
+        {
+          "word": "số",
+          "start": 18.88,
+          "end": 19.2,
+          "probability": 0.42
+        },
+        {
+          "word": "3",
+          "start": 19.2,
+          "end": 19.48,
+          "probability": 0.16
+        },
+        {
+          "word": "của",
+          "start": 19.48,
+          "end": 19.66,
+          "probability": 0.46
+        },
+        {
+          "word": "nó",
+          "start": 19.66,
+          "end": 19.78,
+          "probability": 0.36
+        },
+        {
+          "word": "phòng",
+          "start": 19.78,
+          "end": 19.94,
+          "probability": 0.14
+        },
+        {
+          "word": "1",
+          "start": 19.94,
+          "end": 20.24,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 20.24,
+      "end": 22.16,
+      "text": "Thì mình tập trùa nó chỉ 1 kí tự này",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 20.24,
+          "end": 20.52,
+          "probability": 0.7
+        },
+        {
+          "word": "mình",
+          "start": 20.52,
+          "end": 20.58,
+          "probability": 0.99
+        },
+        {
+          "word": "tập",
+          "start": 20.58,
+          "end": 20.72,
+          "probability": 0.99
+        },
+        {
+          "word": "trùa",
+          "start": 20.72,
+          "end": 20.88,
+          "probability": 0.93
+        },
+        {
+          "word": "nó",
+          "start": 20.88,
+          "end": 21.1,
+          "probability": 0.85
+        },
+        {
+          "word": "chỉ",
+          "start": 21.1,
+          "end": 21.34,
+          "probability": 0.4
+        },
+        {
+          "word": "1",
+          "start": 21.34,
+          "end": 21.46,
+          "probability": 0.95
+        },
+        {
+          "word": "kí",
+          "start": 21.46,
+          "end": 21.7,
+          "probability": 0.98
+        },
+        {
+          "word": "tự",
+          "start": 21.7,
+          "end": 21.8,
+          "probability": 0.98
+        },
+        {
+          "word": "này",
+          "start": 21.8,
+          "end": 22.16,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 22.16,
+      "end": 24.04,
+      "text": "Chỉ cần nó chỉ 1 kí tự này đàm bảo",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 22.16,
+          "end": 22.32,
+          "probability": 0.58
+        },
+        {
+          "word": "cần",
+          "start": 22.32,
+          "end": 22.48,
+          "probability": 0.86
+        },
+        {
+          "word": "nó",
+          "start": 22.48,
+          "end": 22.7,
+          "probability": 0.83
+        },
+        {
+          "word": "chỉ",
+          "start": 22.7,
+          "end": 22.84,
+          "probability": 0.82
+        },
+        {
+          "word": "1",
+          "start": 22.84,
+          "end": 22.96,
+          "probability": 0.99
+        },
+        {
+          "word": "kí",
+          "start": 22.96,
+          "end": 23.12,
+          "probability": 0.99
+        },
+        {
+          "word": "tự",
+          "start": 23.12,
+          "end": 23.26,
+          "probability": 0.99
+        },
+        {
+          "word": "này",
+          "start": 23.26,
+          "end": 23.52,
+          "probability": 0.99
+        },
+        {
+          "word": "đàm",
+          "start": 23.52,
+          "end": 23.76,
+          "probability": 0.41
+        },
+        {
+          "word": "bảo",
+          "start": 23.76,
+          "end": 24.04,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 24.04,
+      "end": 27.44,
+      "text": "Thì 1 kí tự này nó không có 2 số 1 nó cạnh nhau nó 1 kì",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 24.04,
+          "end": 24.3,
+          "probability": 0.54
+        },
+        {
+          "word": "1",
+          "start": 24.3,
+          "end": 24.38,
+          "probability": 0.37
+        },
+        {
+          "word": "kí",
+          "start": 24.38,
+          "end": 24.6,
+          "probability": 0.57
+        },
+        {
+          "word": "tự",
+          "start": 24.6,
+          "end": 24.72,
+          "probability": 0.87
+        },
+        {
+          "word": "này",
+          "start": 24.72,
+          "end": 25.0,
+          "probability": 0.66
+        },
+        {
+          "word": "nó",
+          "start": 25.0,
+          "end": 25.14,
+          "probability": 0.07
+        },
+        {
+          "word": "không",
+          "start": 25.14,
+          "end": 25.4,
+          "probability": 0.95
+        },
+        {
+          "word": "có",
+          "start": 25.4,
+          "end": 25.58,
+          "probability": 0.74
+        },
+        {
+          "word": "2",
+          "start": 25.58,
+          "end": 25.82,
+          "probability": 0.92
+        },
+        {
+          "word": "số",
+          "start": 25.82,
+          "end": 25.98,
+          "probability": 0.97
+        },
+        {
+          "word": "1",
+          "start": 25.98,
+          "end": 26.14,
+          "probability": 0.65
+        },
+        {
+          "word": "nó",
+          "start": 26.14,
+          "end": 26.3,
+          "probability": 0.36
+        },
+        {
+          "word": "cạnh",
+          "start": 26.3,
+          "end": 26.42,
+          "probability": 0.53
+        },
+        {
+          "word": "nhau",
+          "start": 26.42,
+          "end": 26.56,
+          "probability": 0.78
+        },
+        {
+          "word": "nó",
+          "start": 26.56,
+          "end": 26.78,
+          "probability": 0.84
+        },
+        {
+          "word": "1",
+          "start": 26.78,
+          "end": 27.12,
+          "probability": 0.17
+        },
+        {
+          "word": "kì",
+          "start": 27.12,
+          "end": 27.44,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 27.44,
+      "end": 28.68,
+      "text": "Thì nó sẽ thảm ảm ảm ảm ảm ảm ảm",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 27.44,
+          "end": 27.58,
+          "probability": 0.5
+        },
+        {
+          "word": "nó",
+          "start": 27.58,
+          "end": 27.7,
+          "probability": 0.62
+        },
+        {
+          "word": "sẽ",
+          "start": 27.7,
+          "end": 28.0,
+          "probability": 0.81
+        },
+        {
+          "word": "thảm",
+          "start": 28.0,
+          "end": 28.3,
+          "probability": 0.46
+        },
+        {
+          "word": "ảm",
+          "start": 28.3,
+          "end": 28.56,
+          "probability": 0.6
+        },
+        {
+          "word": "ảm",
+          "start": 28.56,
+          "end": 28.68,
+          "probability": 0.92
+        },
+        {
+          "word": "ảm",
+          "start": 28.68,
+          "end": 28.68,
+          "probability": 0.93
+        },
+        {
+          "word": "ảm",
+          "start": 28.68,
+          "end": 28.68,
+          "probability": 0.93
+        },
+        {
+          "word": "ảm",
+          "start": 28.68,
+          "end": 28.68,
+          "probability": 0.93
+        },
+        {
+          "word": "ảm",
+          "start": 28.68,
+          "end": 28.68,
+          "probability": 0.94
+        }
+      ]
+    }
+  ]
+}

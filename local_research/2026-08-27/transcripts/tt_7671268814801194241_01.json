@@ -1,0 +1,166 @@
+{
+  "item_id": "tt_7671268814801194241_01",
+  "duration_seconds": 26.56,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 22,
+  "text": "thì tất cả con phải nói tên ngắn thì xin đăng ký mới vọng nhìn nhất thì tất cả cũng viểu là",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.81,
+      "end": 5.74,
+      "text": "thì tất cả con phải nói tên ngắn",
+      "words": [
+        {
+          "word": "thì",
+          "start": 1.81,
+          "end": 2.15,
+          "probability": 0.04
+        },
+        {
+          "word": "tất",
+          "start": 2.15,
+          "end": 2.23,
+          "probability": 0.16
+        },
+        {
+          "word": "cả",
+          "start": 2.23,
+          "end": 2.33,
+          "probability": 0.74
+        },
+        {
+          "word": "con",
+          "start": 2.33,
+          "end": 2.47,
+          "probability": 0.31
+        },
+        {
+          "word": "phải",
+          "start": 2.47,
+          "end": 2.63,
+          "probability": 0.46
+        },
+        {
+          "word": "nói",
+          "start": 4.52,
+          "end": 4.68,
+          "probability": 0.08
+        },
+        {
+          "word": "tên",
+          "start": 4.68,
+          "end": 4.96,
+          "probability": 0.19
+        },
+        {
+          "word": "ngắn",
+          "start": 4.96,
+          "end": 5.74,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 15.62,
+      "end": 17.26,
+      "text": "thì xin đăng ký mới vọng nhìn nhất",
+      "words": [
+        {
+          "word": "thì",
+          "start": 15.62,
+          "end": 15.8,
+          "probability": 0.21
+        },
+        {
+          "word": "xin",
+          "start": 15.8,
+          "end": 16.0,
+          "probability": 0.52
+        },
+        {
+          "word": "đăng",
+          "start": 16.0,
+          "end": 16.22,
+          "probability": 0.6
+        },
+        {
+          "word": "ký",
+          "start": 16.22,
+          "end": 16.38,
+          "probability": 0.79
+        },
+        {
+          "word": "mới",
+          "start": 16.38,
+          "end": 16.52,
+          "probability": 0.23
+        },
+        {
+          "word": "vọng",
+          "start": 16.52,
+          "end": 16.74,
+          "probability": 0.79
+        },
+        {
+          "word": "nhìn",
+          "start": 16.74,
+          "end": 16.9,
+          "probability": 0.36
+        },
+        {
+          "word": "nhất",
+          "start": 16.9,
+          "end": 17.26,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 17.26,
+      "end": 18.64,
+      "text": "thì tất cả cũng viểu là",
+      "words": [
+        {
+          "word": "thì",
+          "start": 17.26,
+          "end": 17.6,
+          "probability": 0.51
+        },
+        {
+          "word": "tất",
+          "start": 17.6,
+          "end": 17.76,
+          "probability": 0.72
+        },
+        {
+          "word": "cả",
+          "start": 17.76,
+          "end": 17.8,
+          "probability": 0.96
+        },
+        {
+          "word": "cũng",
+          "start": 17.8,
+          "end": 17.92,
+          "probability": 0.22
+        },
+        {
+          "word": "viểu",
+          "start": 17.92,
+          "end": 18.12,
+          "probability": 0.48
+        },
+        {
+          "word": "là",
+          "start": 18.12,
+          "end": 18.64,
+          "probability": 0.79
+        }
+      ]
+    }
+  ]
+}

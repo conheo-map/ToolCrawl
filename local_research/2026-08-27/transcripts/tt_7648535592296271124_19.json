@@ -1,0 +1,660 @@
+{
+  "item_id": "tt_7648535592296271124_19",
+  "duration_seconds": 24.91,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 90,
+  "text": "Chào mẹ chăm sóc cho kê trồng mình là khoảng 1 tư bánh mì lòng trên đến 8,5 tư để mẹ tăng cửa xúc kê trồng bánh mìng phán lâu dài Thật sự là đối với phàm lấy tạo là 1 mỗi mả đẹp Tư chuyển tốt Chất lượng ngang tòa anh chúng tôi đã có kinh nghiệm và đã thực hiện tốt với nè Nèng xuất lòng thời đạt được cái tý lệ từ thấp nhất và mấy bà tư ghiền là A, B, B, B, C, Đi, B",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.52,
+      "text": "Chào mẹ chăm sóc cho kê trồng mình là khoảng 1 tư",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 0.0,
+          "end": 0.5,
+          "probability": 0.13
+        },
+        {
+          "word": "mẹ",
+          "start": 0.5,
+          "end": 0.6,
+          "probability": 0.29
+        },
+        {
+          "word": "chăm",
+          "start": 0.6,
+          "end": 0.6,
+          "probability": 0.29
+        },
+        {
+          "word": "sóc",
+          "start": 0.6,
+          "end": 0.88,
+          "probability": 0.77
+        },
+        {
+          "word": "cho",
+          "start": 0.88,
+          "end": 1.28,
+          "probability": 0.63
+        },
+        {
+          "word": "kê",
+          "start": 1.28,
+          "end": 1.7,
+          "probability": 0.38
+        },
+        {
+          "word": "trồng",
+          "start": 1.7,
+          "end": 1.86,
+          "probability": 0.54
+        },
+        {
+          "word": "mình",
+          "start": 1.86,
+          "end": 2.16,
+          "probability": 0.29
+        },
+        {
+          "word": "là",
+          "start": 2.16,
+          "end": 2.4,
+          "probability": 0.54
+        },
+        {
+          "word": "khoảng",
+          "start": 2.4,
+          "end": 2.62,
+          "probability": 0.94
+        },
+        {
+          "word": "1",
+          "start": 2.62,
+          "end": 3.28,
+          "probability": 0.23
+        },
+        {
+          "word": "tư",
+          "start": 3.28,
+          "end": 3.52,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.52,
+      "end": 5.2,
+      "text": "bánh mì lòng trên đến 8,5 tư",
+      "words": [
+        {
+          "word": "bánh",
+          "start": 3.52,
+          "end": 3.92,
+          "probability": 0.24
+        },
+        {
+          "word": "mì",
+          "start": 3.92,
+          "end": 4.06,
+          "probability": 0.14
+        },
+        {
+          "word": "lòng",
+          "start": 4.06,
+          "end": 4.2,
+          "probability": 0.59
+        },
+        {
+          "word": "trên",
+          "start": 4.2,
+          "end": 4.36,
+          "probability": 0.27
+        },
+        {
+          "word": "đến",
+          "start": 4.36,
+          "end": 4.5,
+          "probability": 0.32
+        },
+        {
+          "word": "8",
+          "start": 4.5,
+          "end": 4.66,
+          "probability": 0.11
+        },
+        {
+          "word": ",5",
+          "start": 4.66,
+          "end": 4.98,
+          "probability": 0.31
+        },
+        {
+          "word": "tư",
+          "start": 4.98,
+          "end": 5.2,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.2,
+      "end": 8.0,
+      "text": "để mẹ tăng cửa xúc kê trồng",
+      "words": [
+        {
+          "word": "để",
+          "start": 5.2,
+          "end": 5.76,
+          "probability": 0.01
+        },
+        {
+          "word": "mẹ",
+          "start": 5.76,
+          "end": 6.46,
+          "probability": 0.4
+        },
+        {
+          "word": "tăng",
+          "start": 6.46,
+          "end": 6.74,
+          "probability": 0.73
+        },
+        {
+          "word": "cửa",
+          "start": 6.74,
+          "end": 7.02,
+          "probability": 0.63
+        },
+        {
+          "word": "xúc",
+          "start": 7.02,
+          "end": 7.22,
+          "probability": 0.28
+        },
+        {
+          "word": "kê",
+          "start": 7.22,
+          "end": 7.64,
+          "probability": 0.25
+        },
+        {
+          "word": "trồng",
+          "start": 7.64,
+          "end": 8.0,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.0,
+      "end": 9.66,
+      "text": "bánh mìng phán lâu dài",
+      "words": [
+        {
+          "word": "bánh",
+          "start": 8.0,
+          "end": 8.34,
+          "probability": 0.67
+        },
+        {
+          "word": "mìng",
+          "start": 8.34,
+          "end": 8.74,
+          "probability": 0.71
+        },
+        {
+          "word": "phán",
+          "start": 8.74,
+          "end": 8.94,
+          "probability": 0.49
+        },
+        {
+          "word": "lâu",
+          "start": 8.94,
+          "end": 9.24,
+          "probability": 0.52
+        },
+        {
+          "word": "dài",
+          "start": 9.24,
+          "end": 9.66,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.66,
+      "end": 12.84,
+      "text": "Thật sự là đối với phàm lấy tạo là 1 mỗi mả đẹp",
+      "words": [
+        {
+          "word": "Thật",
+          "start": 9.66,
+          "end": 10.14,
+          "probability": 0.24
+        },
+        {
+          "word": "sự",
+          "start": 10.14,
+          "end": 10.22,
+          "probability": 0.94
+        },
+        {
+          "word": "là",
+          "start": 10.22,
+          "end": 10.38,
+          "probability": 0.57
+        },
+        {
+          "word": "đối",
+          "start": 10.38,
+          "end": 10.62,
+          "probability": 0.63
+        },
+        {
+          "word": "với",
+          "start": 10.62,
+          "end": 10.8,
+          "probability": 0.12
+        },
+        {
+          "word": "phàm",
+          "start": 10.8,
+          "end": 11.04,
+          "probability": 0.62
+        },
+        {
+          "word": "lấy",
+          "start": 11.04,
+          "end": 11.18,
+          "probability": 0.19
+        },
+        {
+          "word": "tạo",
+          "start": 11.18,
+          "end": 11.36,
+          "probability": 0.51
+        },
+        {
+          "word": "là",
+          "start": 11.36,
+          "end": 11.52,
+          "probability": 0.39
+        },
+        {
+          "word": "1",
+          "start": 11.52,
+          "end": 11.74,
+          "probability": 0.63
+        },
+        {
+          "word": "mỗi",
+          "start": 11.74,
+          "end": 12.02,
+          "probability": 0.3
+        },
+        {
+          "word": "mả",
+          "start": 12.02,
+          "end": 12.26,
+          "probability": 0.5
+        },
+        {
+          "word": "đẹp",
+          "start": 12.26,
+          "end": 12.84,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 12.84,
+      "end": 14.02,
+      "text": "Tư chuyển tốt",
+      "words": [
+        {
+          "word": "Tư",
+          "start": 12.84,
+          "end": 13.28,
+          "probability": 0.44
+        },
+        {
+          "word": "chuyển",
+          "start": 13.28,
+          "end": 13.52,
+          "probability": 0.46
+        },
+        {
+          "word": "tốt",
+          "start": 13.52,
+          "end": 14.02,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 14.02,
+      "end": 15.6,
+      "text": "Chất lượng ngang tòa anh",
+      "words": [
+        {
+          "word": "Chất",
+          "start": 14.02,
+          "end": 14.68,
+          "probability": 0.39
+        },
+        {
+          "word": "lượng",
+          "start": 14.68,
+          "end": 14.86,
+          "probability": 0.53
+        },
+        {
+          "word": "ngang",
+          "start": 14.86,
+          "end": 15.06,
+          "probability": 0.58
+        },
+        {
+          "word": "tòa",
+          "start": 15.06,
+          "end": 15.46,
+          "probability": 0.34
+        },
+        {
+          "word": "anh",
+          "start": 15.46,
+          "end": 15.6,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.6,
+      "end": 16.82,
+      "text": "chúng tôi đã có kinh nghiệm",
+      "words": [
+        {
+          "word": "chúng",
+          "start": 15.6,
+          "end": 15.78,
+          "probability": 0.32
+        },
+        {
+          "word": "tôi",
+          "start": 15.78,
+          "end": 15.92,
+          "probability": 0.56
+        },
+        {
+          "word": "đã",
+          "start": 15.92,
+          "end": 16.08,
+          "probability": 0.75
+        },
+        {
+          "word": "có",
+          "start": 16.08,
+          "end": 16.24,
+          "probability": 0.98
+        },
+        {
+          "word": "kinh",
+          "start": 16.24,
+          "end": 16.42,
+          "probability": 0.64
+        },
+        {
+          "word": "nghiệm",
+          "start": 16.42,
+          "end": 16.82,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 16.82,
+      "end": 18.34,
+      "text": "và đã thực hiện tốt với nè",
+      "words": [
+        {
+          "word": "và",
+          "start": 16.82,
+          "end": 17.02,
+          "probability": 0.51
+        },
+        {
+          "word": "đã",
+          "start": 17.02,
+          "end": 17.14,
+          "probability": 0.75
+        },
+        {
+          "word": "thực",
+          "start": 17.14,
+          "end": 17.34,
+          "probability": 0.92
+        },
+        {
+          "word": "hiện",
+          "start": 17.34,
+          "end": 17.46,
+          "probability": 0.97
+        },
+        {
+          "word": "tốt",
+          "start": 17.46,
+          "end": 17.72,
+          "probability": 0.98
+        },
+        {
+          "word": "với",
+          "start": 17.72,
+          "end": 17.98,
+          "probability": 0.07
+        },
+        {
+          "word": "nè",
+          "start": 17.98,
+          "end": 18.34,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 18.34,
+      "end": 19.2,
+      "text": "Nèng xuất",
+      "words": [
+        {
+          "word": "Nèng",
+          "start": 18.34,
+          "end": 18.76,
+          "probability": 0.47
+        },
+        {
+          "word": "xuất",
+          "start": 18.76,
+          "end": 19.2,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 19.2,
+      "end": 21.5,
+      "text": "lòng thời đạt được cái tý lệ từ thấp nhất",
+      "words": [
+        {
+          "word": "lòng",
+          "start": 19.2,
+          "end": 19.44,
+          "probability": 0.55
+        },
+        {
+          "word": "thời",
+          "start": 19.44,
+          "end": 19.7,
+          "probability": 0.45
+        },
+        {
+          "word": "đạt",
+          "start": 19.7,
+          "end": 19.84,
+          "probability": 0.57
+        },
+        {
+          "word": "được",
+          "start": 19.84,
+          "end": 19.98,
+          "probability": 0.47
+        },
+        {
+          "word": "cái",
+          "start": 19.98,
+          "end": 20.18,
+          "probability": 0.36
+        },
+        {
+          "word": "tý",
+          "start": 20.18,
+          "end": 20.28,
+          "probability": 0.63
+        },
+        {
+          "word": "lệ",
+          "start": 20.28,
+          "end": 20.6,
+          "probability": 0.66
+        },
+        {
+          "word": "từ",
+          "start": 20.6,
+          "end": 21.16,
+          "probability": 0.52
+        },
+        {
+          "word": "thấp",
+          "start": 21.16,
+          "end": 21.34,
+          "probability": 0.51
+        },
+        {
+          "word": "nhất",
+          "start": 21.34,
+          "end": 21.5,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 21.5,
+      "end": 22.24,
+      "text": "và mấy bà",
+      "words": [
+        {
+          "word": "và",
+          "start": 21.5,
+          "end": 21.7,
+          "probability": 0.17
+        },
+        {
+          "word": "mấy",
+          "start": 21.7,
+          "end": 21.82,
+          "probability": 0.33
+        },
+        {
+          "word": "bà",
+          "start": 21.82,
+          "end": 22.24,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 22.24,
+      "end": 24.66,
+      "text": "tư ghiền là A, B, B, B, C, Đi, B",
+      "words": [
+        {
+          "word": "tư",
+          "start": 22.24,
+          "end": 22.42,
+          "probability": 0.26
+        },
+        {
+          "word": "ghiền",
+          "start": 22.42,
+          "end": 22.62,
+          "probability": 0.08
+        },
+        {
+          "word": "là",
+          "start": 22.62,
+          "end": 22.7,
+          "probability": 0.18
+        },
+        {
+          "word": "A,",
+          "start": 22.7,
+          "end": 22.92,
+          "probability": 0.14
+        },
+        {
+          "word": "B,",
+          "start": 22.92,
+          "end": 23.14,
+          "probability": 0.69
+        },
+        {
+          "word": "B,",
+          "start": 23.14,
+          "end": 23.42,
+          "probability": 0.28
+        },
+        {
+          "word": "B,",
+          "start": 23.46,
+          "end": 23.58,
+          "probability": 0.28
+        },
+        {
+          "word": "C,",
+          "start": 23.58,
+          "end": 24.14,
+          "probability": 0.47
+        },
+        {
+          "word": "Đi,",
+          "start": 24.34,
+          "end": 24.34,
+          "probability": 0.38
+        },
+        {
+          "word": "B",
+          "start": 24.42,
+          "end": 24.66,
+          "probability": 0.47
+        }
+      ]
+    }
+  ]
+}

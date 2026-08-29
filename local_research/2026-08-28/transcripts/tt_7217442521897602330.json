@@ -1,0 +1,138 @@
+{
+  "item_id": "tt_7217442521897602330",
+  "duration_seconds": 25.13,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 16,
+  "text": "Thật là gì nữa? Thật là gì nữa? Chẳng như thế nào? Thật là gì nữa?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.96,
+      "text": "Thật là gì nữa?",
+      "words": [
+        {
+          "word": "Thật",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.12
+        },
+        {
+          "word": "là",
+          "start": 0.26,
+          "end": 0.52,
+          "probability": 0.09
+        },
+        {
+          "word": "gì",
+          "start": 0.52,
+          "end": 0.66,
+          "probability": 0.31
+        },
+        {
+          "word": "nữa?",
+          "start": 0.66,
+          "end": 0.96,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.14,
+      "end": 1.62,
+      "text": "Thật là gì nữa?",
+      "words": [
+        {
+          "word": "Thật",
+          "start": 1.14,
+          "end": 1.26,
+          "probability": 0.46
+        },
+        {
+          "word": "là",
+          "start": 1.26,
+          "end": 1.56,
+          "probability": 0.91
+        },
+        {
+          "word": "gì",
+          "start": 1.56,
+          "end": 1.56,
+          "probability": 0.96
+        },
+        {
+          "word": "nữa?",
+          "start": 1.56,
+          "end": 1.62,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 1.82,
+      "end": 2.82,
+      "text": "Chẳng như thế nào?",
+      "words": [
+        {
+          "word": "Chẳng",
+          "start": 1.82,
+          "end": 1.9,
+          "probability": 0.5
+        },
+        {
+          "word": "như",
+          "start": 1.9,
+          "end": 2.24,
+          "probability": 0.09
+        },
+        {
+          "word": "thế",
+          "start": 2.24,
+          "end": 2.56,
+          "probability": 0.48
+        },
+        {
+          "word": "nào?",
+          "start": 2.56,
+          "end": 2.82,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 2.82,
+      "end": 3.32,
+      "text": "Thật là gì nữa?",
+      "words": [
+        {
+          "word": "Thật",
+          "start": 2.82,
+          "end": 2.94,
+          "probability": 0.22
+        },
+        {
+          "word": "là",
+          "start": 2.94,
+          "end": 3.08,
+          "probability": 0.93
+        },
+        {
+          "word": "gì",
+          "start": 3.08,
+          "end": 3.18,
+          "probability": 0.97
+        },
+        {
+          "word": "nữa?",
+          "start": 3.18,
+          "end": 3.32,
+          "probability": 0.36
+        }
+      ]
+    }
+  ]
+}

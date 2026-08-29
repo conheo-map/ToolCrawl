@@ -1,0 +1,724 @@
+{
+  "item_id": "tt_7667554760827866389_04",
+  "duration_seconds": 28.15,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 111,
+  "text": "Chúng khi đó, công ty địa lực kêu chú thông báo không có báo gáo nào về sự bất thường tại các nhà mại điện hạm nhân xen dài và gên kai sau trận độc đất. Một trận độc đất mạnh mấy về hai độ ríc tê đã sử dạ ở miền mắt nhật bản và ngày 20 hành sau, như không gây thương vong hay triển hại lớn. Vong ngày 20 hành tư, một trận độc đất mạnh mấy về bẩy độ ríc tê đã sử dạ ở miền mắt nhật bản. Khiến ít nhất mười người bị thương và làm dung chuyển nhiều toàn nhà lớn ở tục nhiều.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.02,
+      "text": "Chúng khi đó, công ty địa lực kêu chú thông báo không có báo gáo nào về sự bất thường",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 0.0,
+          "end": 0.5,
+          "probability": 0.39
+        },
+        {
+          "word": "khi",
+          "start": 0.5,
+          "end": 0.66,
+          "probability": 0.09
+        },
+        {
+          "word": "đó,",
+          "start": 0.66,
+          "end": 1.08,
+          "probability": 0.91
+        },
+        {
+          "word": "công",
+          "start": 1.26,
+          "end": 1.36,
+          "probability": 0.52
+        },
+        {
+          "word": "ty",
+          "start": 1.36,
+          "end": 1.5,
+          "probability": 0.58
+        },
+        {
+          "word": "địa",
+          "start": 1.5,
+          "end": 1.68,
+          "probability": 0.74
+        },
+        {
+          "word": "lực",
+          "start": 1.68,
+          "end": 1.92,
+          "probability": 0.74
+        },
+        {
+          "word": "kêu",
+          "start": 1.92,
+          "end": 2.18,
+          "probability": 0.28
+        },
+        {
+          "word": "chú",
+          "start": 2.18,
+          "end": 2.5,
+          "probability": 0.32
+        },
+        {
+          "word": "thông",
+          "start": 2.5,
+          "end": 2.78,
+          "probability": 0.72
+        },
+        {
+          "word": "báo",
+          "start": 2.78,
+          "end": 3.14,
+          "probability": 0.9
+        },
+        {
+          "word": "không",
+          "start": 3.14,
+          "end": 3.48,
+          "probability": 0.53
+        },
+        {
+          "word": "có",
+          "start": 3.48,
+          "end": 3.68,
+          "probability": 0.39
+        },
+        {
+          "word": "báo",
+          "start": 3.68,
+          "end": 3.86,
+          "probability": 0.79
+        },
+        {
+          "word": "gáo",
+          "start": 3.86,
+          "end": 4.04,
+          "probability": 0.33
+        },
+        {
+          "word": "nào",
+          "start": 4.04,
+          "end": 4.28,
+          "probability": 0.92
+        },
+        {
+          "word": "về",
+          "start": 4.28,
+          "end": 4.48,
+          "probability": 0.8
+        },
+        {
+          "word": "sự",
+          "start": 4.48,
+          "end": 4.6,
+          "probability": 0.96
+        },
+        {
+          "word": "bất",
+          "start": 4.6,
+          "end": 4.84,
+          "probability": 0.78
+        },
+        {
+          "word": "thường",
+          "start": 4.84,
+          "end": 5.02,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.02,
+      "end": 9.16,
+      "text": "tại các nhà mại điện hạm nhân xen dài và gên kai sau trận độc đất.",
+      "words": [
+        {
+          "word": "tại",
+          "start": 5.02,
+          "end": 5.26,
+          "probability": 0.21
+        },
+        {
+          "word": "các",
+          "start": 5.26,
+          "end": 5.34,
+          "probability": 0.56
+        },
+        {
+          "word": "nhà",
+          "start": 5.34,
+          "end": 5.54,
+          "probability": 0.95
+        },
+        {
+          "word": "mại",
+          "start": 5.54,
+          "end": 5.72,
+          "probability": 0.32
+        },
+        {
+          "word": "điện",
+          "start": 5.72,
+          "end": 5.9,
+          "probability": 0.71
+        },
+        {
+          "word": "hạm",
+          "start": 5.9,
+          "end": 6.12,
+          "probability": 0.45
+        },
+        {
+          "word": "nhân",
+          "start": 6.12,
+          "end": 6.34,
+          "probability": 0.88
+        },
+        {
+          "word": "xen",
+          "start": 6.34,
+          "end": 6.54,
+          "probability": 0.6
+        },
+        {
+          "word": "dài",
+          "start": 6.54,
+          "end": 6.92,
+          "probability": 0.49
+        },
+        {
+          "word": "và",
+          "start": 6.92,
+          "end": 7.3,
+          "probability": 0.93
+        },
+        {
+          "word": "gên",
+          "start": 7.3,
+          "end": 7.54,
+          "probability": 0.33
+        },
+        {
+          "word": "kai",
+          "start": 7.54,
+          "end": 7.9,
+          "probability": 0.42
+        },
+        {
+          "word": "sau",
+          "start": 7.9,
+          "end": 8.2,
+          "probability": 0.69
+        },
+        {
+          "word": "trận",
+          "start": 8.2,
+          "end": 8.38,
+          "probability": 0.6
+        },
+        {
+          "word": "độc",
+          "start": 8.38,
+          "end": 8.56,
+          "probability": 0.62
+        },
+        {
+          "word": "đất.",
+          "start": 8.56,
+          "end": 9.16,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.62,
+      "end": 14.96,
+      "text": "Một trận độc đất mạnh mấy về hai độ ríc tê đã sử dạ ở miền mắt nhật bản và ngày 20 hành sau,",
+      "words": [
+        {
+          "word": "Một",
+          "start": 9.62,
+          "end": 9.68,
+          "probability": 0.64
+        },
+        {
+          "word": "trận",
+          "start": 9.68,
+          "end": 9.84,
+          "probability": 0.89
+        },
+        {
+          "word": "độc",
+          "start": 9.84,
+          "end": 10.04,
+          "probability": 0.99
+        },
+        {
+          "word": "đất",
+          "start": 10.04,
+          "end": 10.2,
+          "probability": 0.98
+        },
+        {
+          "word": "mạnh",
+          "start": 10.2,
+          "end": 10.46,
+          "probability": 0.61
+        },
+        {
+          "word": "mấy",
+          "start": 10.46,
+          "end": 10.66,
+          "probability": 0.51
+        },
+        {
+          "word": "về",
+          "start": 10.66,
+          "end": 10.84,
+          "probability": 0.2
+        },
+        {
+          "word": "hai",
+          "start": 10.84,
+          "end": 11.02,
+          "probability": 0.37
+        },
+        {
+          "word": "độ",
+          "start": 11.02,
+          "end": 11.14,
+          "probability": 0.52
+        },
+        {
+          "word": "ríc",
+          "start": 11.14,
+          "end": 11.44,
+          "probability": 0.19
+        },
+        {
+          "word": "tê",
+          "start": 11.44,
+          "end": 11.8,
+          "probability": 0.32
+        },
+        {
+          "word": "đã",
+          "start": 11.8,
+          "end": 12.08,
+          "probability": 0.79
+        },
+        {
+          "word": "sử",
+          "start": 12.08,
+          "end": 12.3,
+          "probability": 0.42
+        },
+        {
+          "word": "dạ",
+          "start": 12.3,
+          "end": 12.54,
+          "probability": 0.34
+        },
+        {
+          "word": "ở",
+          "start": 12.54,
+          "end": 12.76,
+          "probability": 0.31
+        },
+        {
+          "word": "miền",
+          "start": 12.76,
+          "end": 12.9,
+          "probability": 0.29
+        },
+        {
+          "word": "mắt",
+          "start": 12.9,
+          "end": 13.06,
+          "probability": 0.44
+        },
+        {
+          "word": "nhật",
+          "start": 13.06,
+          "end": 13.26,
+          "probability": 0.68
+        },
+        {
+          "word": "bản",
+          "start": 13.26,
+          "end": 13.48,
+          "probability": 0.85
+        },
+        {
+          "word": "và",
+          "start": 13.48,
+          "end": 13.66,
+          "probability": 0.51
+        },
+        {
+          "word": "ngày",
+          "start": 13.66,
+          "end": 13.82,
+          "probability": 0.59
+        },
+        {
+          "word": "20",
+          "start": 13.82,
+          "end": 14.16,
+          "probability": 0.22
+        },
+        {
+          "word": "hành",
+          "start": 14.16,
+          "end": 14.4,
+          "probability": 0.07
+        },
+        {
+          "word": "sau,",
+          "start": 14.4,
+          "end": 14.96,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.08,
+      "end": 17.3,
+      "text": "như không gây thương vong hay triển hại lớn.",
+      "words": [
+        {
+          "word": "như",
+          "start": 15.08,
+          "end": 15.3,
+          "probability": 0.61
+        },
+        {
+          "word": "không",
+          "start": 15.3,
+          "end": 15.52,
+          "probability": 0.86
+        },
+        {
+          "word": "gây",
+          "start": 15.52,
+          "end": 15.68,
+          "probability": 0.58
+        },
+        {
+          "word": "thương",
+          "start": 15.68,
+          "end": 15.86,
+          "probability": 0.67
+        },
+        {
+          "word": "vong",
+          "start": 15.86,
+          "end": 16.14,
+          "probability": 0.77
+        },
+        {
+          "word": "hay",
+          "start": 16.14,
+          "end": 16.42,
+          "probability": 0.68
+        },
+        {
+          "word": "triển",
+          "start": 16.42,
+          "end": 16.56,
+          "probability": 0.23
+        },
+        {
+          "word": "hại",
+          "start": 16.56,
+          "end": 16.74,
+          "probability": 0.38
+        },
+        {
+          "word": "lớn.",
+          "start": 16.74,
+          "end": 17.3,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 17.8,
+      "end": 23.38,
+      "text": "Vong ngày 20 hành tư, một trận độc đất mạnh mấy về bẩy độ ríc tê đã sử dạ ở miền mắt nhật bản.",
+      "words": [
+        {
+          "word": "Vong",
+          "start": 17.8,
+          "end": 17.88,
+          "probability": 0.58
+        },
+        {
+          "word": "ngày",
+          "start": 17.88,
+          "end": 18.02,
+          "probability": 0.97
+        },
+        {
+          "word": "20",
+          "start": 18.02,
+          "end": 18.36,
+          "probability": 0.68
+        },
+        {
+          "word": "hành",
+          "start": 18.36,
+          "end": 18.62,
+          "probability": 0.7
+        },
+        {
+          "word": "tư,",
+          "start": 18.62,
+          "end": 19.0,
+          "probability": 0.81
+        },
+        {
+          "word": "một",
+          "start": 19.34,
+          "end": 19.36,
+          "probability": 0.92
+        },
+        {
+          "word": "trận",
+          "start": 19.36,
+          "end": 19.52,
+          "probability": 0.98
+        },
+        {
+          "word": "độc",
+          "start": 19.52,
+          "end": 19.7,
+          "probability": 1.0
+        },
+        {
+          "word": "đất",
+          "start": 19.7,
+          "end": 19.98,
+          "probability": 1.0
+        },
+        {
+          "word": "mạnh",
+          "start": 19.98,
+          "end": 20.22,
+          "probability": 0.99
+        },
+        {
+          "word": "mấy",
+          "start": 20.22,
+          "end": 20.44,
+          "probability": 0.97
+        },
+        {
+          "word": "về",
+          "start": 20.44,
+          "end": 20.6,
+          "probability": 0.94
+        },
+        {
+          "word": "bẩy",
+          "start": 20.6,
+          "end": 20.8,
+          "probability": 0.53
+        },
+        {
+          "word": "độ",
+          "start": 20.8,
+          "end": 20.88,
+          "probability": 0.96
+        },
+        {
+          "word": "ríc",
+          "start": 20.88,
+          "end": 21.14,
+          "probability": 0.99
+        },
+        {
+          "word": "tê",
+          "start": 21.14,
+          "end": 21.48,
+          "probability": 0.99
+        },
+        {
+          "word": "đã",
+          "start": 21.48,
+          "end": 21.84,
+          "probability": 0.99
+        },
+        {
+          "word": "sử",
+          "start": 21.84,
+          "end": 22.06,
+          "probability": 0.96
+        },
+        {
+          "word": "dạ",
+          "start": 22.06,
+          "end": 22.3,
+          "probability": 0.99
+        },
+        {
+          "word": "ở",
+          "start": 22.3,
+          "end": 22.46,
+          "probability": 0.99
+        },
+        {
+          "word": "miền",
+          "start": 22.46,
+          "end": 22.62,
+          "probability": 0.98
+        },
+        {
+          "word": "mắt",
+          "start": 22.62,
+          "end": 22.8,
+          "probability": 0.95
+        },
+        {
+          "word": "nhật",
+          "start": 22.8,
+          "end": 23.0,
+          "probability": 0.99
+        },
+        {
+          "word": "bản.",
+          "start": 23.0,
+          "end": 23.38,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.6,
+      "end": 27.68,
+      "text": "Khiến ít nhất mười người bị thương và làm dung chuyển nhiều toàn nhà lớn ở tục nhiều.",
+      "words": [
+        {
+          "word": "Khiến",
+          "start": 23.6,
+          "end": 23.74,
+          "probability": 0.4
+        },
+        {
+          "word": "ít",
+          "start": 23.74,
+          "end": 23.98,
+          "probability": 0.77
+        },
+        {
+          "word": "nhất",
+          "start": 23.98,
+          "end": 24.18,
+          "probability": 0.94
+        },
+        {
+          "word": "mười",
+          "start": 24.18,
+          "end": 24.42,
+          "probability": 0.31
+        },
+        {
+          "word": "người",
+          "start": 24.42,
+          "end": 24.64,
+          "probability": 0.96
+        },
+        {
+          "word": "bị",
+          "start": 24.64,
+          "end": 24.84,
+          "probability": 0.79
+        },
+        {
+          "word": "thương",
+          "start": 24.84,
+          "end": 25.06,
+          "probability": 0.83
+        },
+        {
+          "word": "và",
+          "start": 25.06,
+          "end": 25.48,
+          "probability": 0.85
+        },
+        {
+          "word": "làm",
+          "start": 25.48,
+          "end": 25.66,
+          "probability": 0.9
+        },
+        {
+          "word": "dung",
+          "start": 25.66,
+          "end": 25.92,
+          "probability": 0.78
+        },
+        {
+          "word": "chuyển",
+          "start": 25.92,
+          "end": 26.18,
+          "probability": 0.85
+        },
+        {
+          "word": "nhiều",
+          "start": 26.18,
+          "end": 26.48,
+          "probability": 0.88
+        },
+        {
+          "word": "toàn",
+          "start": 26.48,
+          "end": 26.68,
+          "probability": 0.58
+        },
+        {
+          "word": "nhà",
+          "start": 26.68,
+          "end": 26.84,
+          "probability": 0.54
+        },
+        {
+          "word": "lớn",
+          "start": 26.84,
+          "end": 27.06,
+          "probability": 0.92
+        },
+        {
+          "word": "ở",
+          "start": 27.06,
+          "end": 27.28,
+          "probability": 0.59
+        },
+        {
+          "word": "tục",
+          "start": 27.28,
+          "end": 27.42,
+          "probability": 0.32
+        },
+        {
+          "word": "nhiều.",
+          "start": 27.42,
+          "end": 27.68,
+          "probability": 0.11
+        }
+      ]
+    }
+  ]
+}

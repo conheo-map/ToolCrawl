@@ -1,0 +1,558 @@
+{
+  "item_id": "tt_7637440252013071632_07",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 78,
+  "text": "Lượng liệu thông xa cộn đó, cho tiền hơn. Lên đó, mình cũng chưa gần mấy. Thao, nó vẻ vẻ, nó chứ. Thù hồn chứ ở hệ ua vẻ của bạn sao? Thấy trước mắt là vì dạ. Hôm đó, nó chứ còn vẻ, mình cũng chưa gần mấy. Nếu có, từ vẻ vẻ, nó chứ. Thì anh như thế nào, mình cũng chưa biết. Điều này, nó chứ. Thôi nha người dẫn, nó đi làm về trong...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 2.1,
+      "text": "Lượng liệu thông xa cộn đó, cho tiền hơn.",
+      "words": [
+        {
+          "word": "Lượng",
+          "start": 0.02,
+          "end": 0.66,
+          "probability": 0.13
+        },
+        {
+          "word": "liệu",
+          "start": 0.66,
+          "end": 0.84,
+          "probability": 0.52
+        },
+        {
+          "word": "thông",
+          "start": 0.84,
+          "end": 1.02,
+          "probability": 0.85
+        },
+        {
+          "word": "xa",
+          "start": 1.02,
+          "end": 1.2,
+          "probability": 0.42
+        },
+        {
+          "word": "cộn",
+          "start": 1.2,
+          "end": 1.44,
+          "probability": 0.33
+        },
+        {
+          "word": "đó,",
+          "start": 1.44,
+          "end": 1.48,
+          "probability": 0.38
+        },
+        {
+          "word": "cho",
+          "start": 1.48,
+          "end": 1.62,
+          "probability": 0.11
+        },
+        {
+          "word": "tiền",
+          "start": 1.62,
+          "end": 1.76,
+          "probability": 0.39
+        },
+        {
+          "word": "hơn.",
+          "start": 1.76,
+          "end": 2.1,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.22,
+      "end": 3.82,
+      "text": "Lên đó, mình cũng chưa gần mấy.",
+      "words": [
+        {
+          "word": "Lên",
+          "start": 2.22,
+          "end": 2.38,
+          "probability": 0.11
+        },
+        {
+          "word": "đó,",
+          "start": 2.38,
+          "end": 2.52,
+          "probability": 0.27
+        },
+        {
+          "word": "mình",
+          "start": 2.68,
+          "end": 2.84,
+          "probability": 0.39
+        },
+        {
+          "word": "cũng",
+          "start": 2.84,
+          "end": 3.02,
+          "probability": 0.38
+        },
+        {
+          "word": "chưa",
+          "start": 3.02,
+          "end": 3.2,
+          "probability": 0.27
+        },
+        {
+          "word": "gần",
+          "start": 3.2,
+          "end": 3.5,
+          "probability": 0.32
+        },
+        {
+          "word": "mấy.",
+          "start": 3.5,
+          "end": 3.82,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.96,
+      "end": 7.26,
+      "text": "Thao, nó vẻ vẻ, nó chứ.",
+      "words": [
+        {
+          "word": "Thao,",
+          "start": 4.96,
+          "end": 5.44,
+          "probability": 0.28
+        },
+        {
+          "word": "nó",
+          "start": 6.2,
+          "end": 6.42,
+          "probability": 0.25
+        },
+        {
+          "word": "vẻ",
+          "start": 6.42,
+          "end": 6.62,
+          "probability": 0.17
+        },
+        {
+          "word": "vẻ,",
+          "start": 6.62,
+          "end": 6.92,
+          "probability": 0.61
+        },
+        {
+          "word": "nó",
+          "start": 7.12,
+          "end": 7.14,
+          "probability": 0.06
+        },
+        {
+          "word": "chứ.",
+          "start": 7.14,
+          "end": 7.26,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.6,
+      "end": 10.98,
+      "text": "Thù hồn chứ ở hệ ua vẻ của bạn sao?",
+      "words": [
+        {
+          "word": "Thù",
+          "start": 8.6,
+          "end": 9.08,
+          "probability": 0.13
+        },
+        {
+          "word": "hồn",
+          "start": 9.08,
+          "end": 9.32,
+          "probability": 0.45
+        },
+        {
+          "word": "chứ",
+          "start": 9.32,
+          "end": 9.5,
+          "probability": 0.66
+        },
+        {
+          "word": "ở",
+          "start": 9.5,
+          "end": 9.72,
+          "probability": 0.22
+        },
+        {
+          "word": "hệ",
+          "start": 9.72,
+          "end": 9.82,
+          "probability": 0.23
+        },
+        {
+          "word": "ua",
+          "start": 9.82,
+          "end": 9.96,
+          "probability": 0.2
+        },
+        {
+          "word": "vẻ",
+          "start": 9.96,
+          "end": 10.28,
+          "probability": 0.67
+        },
+        {
+          "word": "của",
+          "start": 10.28,
+          "end": 10.48,
+          "probability": 0.42
+        },
+        {
+          "word": "bạn",
+          "start": 10.48,
+          "end": 10.68,
+          "probability": 0.2
+        },
+        {
+          "word": "sao?",
+          "start": 10.68,
+          "end": 10.98,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.84,
+      "end": 13.4,
+      "text": "Thấy trước mắt là vì dạ.",
+      "words": [
+        {
+          "word": "Thấy",
+          "start": 11.84,
+          "end": 12.22,
+          "probability": 0.07
+        },
+        {
+          "word": "trước",
+          "start": 12.22,
+          "end": 12.5,
+          "probability": 0.28
+        },
+        {
+          "word": "mắt",
+          "start": 12.5,
+          "end": 12.72,
+          "probability": 0.55
+        },
+        {
+          "word": "là",
+          "start": 12.72,
+          "end": 12.96,
+          "probability": 0.25
+        },
+        {
+          "word": "vì",
+          "start": 12.96,
+          "end": 13.1,
+          "probability": 0.1
+        },
+        {
+          "word": "dạ.",
+          "start": 13.1,
+          "end": 13.4,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.34,
+      "end": 19.18,
+      "text": "Hôm đó, nó chứ còn vẻ, mình cũng chưa gần mấy.",
+      "words": [
+        {
+          "word": "Hôm",
+          "start": 14.34,
+          "end": 14.7,
+          "probability": 0.14
+        },
+        {
+          "word": "đó,",
+          "start": 14.7,
+          "end": 15.22,
+          "probability": 0.06
+        },
+        {
+          "word": "nó",
+          "start": 16.16,
+          "end": 16.42,
+          "probability": 0.06
+        },
+        {
+          "word": "chứ",
+          "start": 16.42,
+          "end": 16.72,
+          "probability": 0.63
+        },
+        {
+          "word": "còn",
+          "start": 16.72,
+          "end": 16.96,
+          "probability": 0.4
+        },
+        {
+          "word": "vẻ,",
+          "start": 16.96,
+          "end": 17.26,
+          "probability": 0.89
+        },
+        {
+          "word": "mình",
+          "start": 17.7,
+          "end": 18.2,
+          "probability": 0.75
+        },
+        {
+          "word": "cũng",
+          "start": 18.2,
+          "end": 18.4,
+          "probability": 0.98
+        },
+        {
+          "word": "chưa",
+          "start": 18.4,
+          "end": 18.6,
+          "probability": 0.95
+        },
+        {
+          "word": "gần",
+          "start": 18.6,
+          "end": 18.94,
+          "probability": 0.98
+        },
+        {
+          "word": "mấy.",
+          "start": 18.94,
+          "end": 19.18,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 20.42,
+      "end": 23.24,
+      "text": "Nếu có, từ vẻ vẻ, nó chứ.",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 20.42,
+          "end": 20.9,
+          "probability": 0.32
+        },
+        {
+          "word": "có,",
+          "start": 20.9,
+          "end": 21.24,
+          "probability": 0.15
+        },
+        {
+          "word": "từ",
+          "start": 21.7,
+          "end": 21.84,
+          "probability": 0.17
+        },
+        {
+          "word": "vẻ",
+          "start": 21.84,
+          "end": 22.06,
+          "probability": 0.68
+        },
+        {
+          "word": "vẻ,",
+          "start": 22.06,
+          "end": 22.38,
+          "probability": 0.97
+        },
+        {
+          "word": "nó",
+          "start": 23.04,
+          "end": 23.16,
+          "probability": 0.32
+        },
+        {
+          "word": "chứ.",
+          "start": 23.16,
+          "end": 23.24,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 23.24,
+      "end": 25.0,
+      "text": "Thì anh như thế nào, mình cũng chưa biết.",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 23.24,
+          "end": 23.24,
+          "probability": 0.2
+        },
+        {
+          "word": "anh",
+          "start": 23.24,
+          "end": 23.4,
+          "probability": 0.26
+        },
+        {
+          "word": "như",
+          "start": 23.4,
+          "end": 23.52,
+          "probability": 0.43
+        },
+        {
+          "word": "thế",
+          "start": 23.52,
+          "end": 23.68,
+          "probability": 0.61
+        },
+        {
+          "word": "nào,",
+          "start": 23.68,
+          "end": 23.92,
+          "probability": 0.91
+        },
+        {
+          "word": "mình",
+          "start": 23.96,
+          "end": 24.16,
+          "probability": 0.93
+        },
+        {
+          "word": "cũng",
+          "start": 24.16,
+          "end": 24.34,
+          "probability": 0.87
+        },
+        {
+          "word": "chưa",
+          "start": 24.34,
+          "end": 24.48,
+          "probability": 0.89
+        },
+        {
+          "word": "biết.",
+          "start": 24.48,
+          "end": 25.0,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 25.46,
+      "end": 27.36,
+      "text": "Điều này, nó chứ.",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 25.46,
+          "end": 25.58,
+          "probability": 0.43
+        },
+        {
+          "word": "này,",
+          "start": 25.58,
+          "end": 25.94,
+          "probability": 0.06
+        },
+        {
+          "word": "nó",
+          "start": 26.82,
+          "end": 27.16,
+          "probability": 0.47
+        },
+        {
+          "word": "chứ.",
+          "start": 27.16,
+          "end": 27.36,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 27.36,
+      "end": 29.98,
+      "text": "Thôi nha người dẫn, nó đi làm về trong...",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 27.36,
+          "end": 27.74,
+          "probability": 0.18
+        },
+        {
+          "word": "nha",
+          "start": 27.74,
+          "end": 27.96,
+          "probability": 0.09
+        },
+        {
+          "word": "người",
+          "start": 27.96,
+          "end": 28.28,
+          "probability": 0.68
+        },
+        {
+          "word": "dẫn,",
+          "start": 28.28,
+          "end": 28.58,
+          "probability": 0.6
+        },
+        {
+          "word": "nó",
+          "start": 28.78,
+          "end": 28.8,
+          "probability": 0.14
+        },
+        {
+          "word": "đi",
+          "start": 28.8,
+          "end": 28.96,
+          "probability": 0.27
+        },
+        {
+          "word": "làm",
+          "start": 28.96,
+          "end": 29.3,
+          "probability": 0.89
+        },
+        {
+          "word": "về",
+          "start": 29.3,
+          "end": 29.62,
+          "probability": 0.36
+        },
+        {
+          "word": "trong...",
+          "start": 29.62,
+          "end": 29.98,
+          "probability": 0.5
+        }
+      ]
+    }
+  ]
+}

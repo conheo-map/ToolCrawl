@@ -1,0 +1,782 @@
+{
+  "item_id": "tt_7676062380878531861_04",
+  "duration_seconds": 29.22,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 114,
+  "text": "Nhóm chưa thương vị, quý hai, tệ phía đoạn chân nào vậy, nhá không đứng gì cả. Hơi ra chỉ đo nhất, có mại là các bạn sẽ có đục ba phần, đục ba phần. Khi phần, đi đặc số đi game điện này, các món có đi đặc số để đánh visual như thế này. Phần 2 đúng sai này. Vá chỉ đánh các bạn số ở biết trên đoạn này. Sai đúng đúng visual thế. Cô này, đi đúng sai, sai, sai. Cô này, các bạn cứu năm như mình thơ. Cô năm như mình thơ. Cô bạn sẽ xuyện sỏng. Cô phần đi đặc số, đi đặc số, đi mình thơ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.14,
+      "text": "Nhóm chưa thương vị, quý hai, tệ phía đoạn chân nào vậy, nhá không đứng gì cả.",
+      "words": [
+        {
+          "word": "Nhóm",
+          "start": 0.0,
+          "end": 0.68,
+          "probability": 0.17
+        },
+        {
+          "word": "chưa",
+          "start": 0.68,
+          "end": 0.86,
+          "probability": 0.52
+        },
+        {
+          "word": "thương",
+          "start": 0.86,
+          "end": 1.1,
+          "probability": 0.3
+        },
+        {
+          "word": "vị,",
+          "start": 1.1,
+          "end": 1.3,
+          "probability": 0.5
+        },
+        {
+          "word": "quý",
+          "start": 1.38,
+          "end": 1.64,
+          "probability": 0.54
+        },
+        {
+          "word": "hai,",
+          "start": 1.64,
+          "end": 1.92,
+          "probability": 0.25
+        },
+        {
+          "word": "tệ",
+          "start": 2.14,
+          "end": 2.14,
+          "probability": 0.15
+        },
+        {
+          "word": "phía",
+          "start": 2.14,
+          "end": 2.24,
+          "probability": 0.36
+        },
+        {
+          "word": "đoạn",
+          "start": 2.24,
+          "end": 2.42,
+          "probability": 0.6
+        },
+        {
+          "word": "chân",
+          "start": 2.42,
+          "end": 2.66,
+          "probability": 0.24
+        },
+        {
+          "word": "nào",
+          "start": 2.66,
+          "end": 2.82,
+          "probability": 0.21
+        },
+        {
+          "word": "vậy,",
+          "start": 2.82,
+          "end": 3.06,
+          "probability": 0.55
+        },
+        {
+          "word": "nhá",
+          "start": 3.22,
+          "end": 3.26,
+          "probability": 0.67
+        },
+        {
+          "word": "không",
+          "start": 3.26,
+          "end": 3.44,
+          "probability": 0.92
+        },
+        {
+          "word": "đứng",
+          "start": 3.44,
+          "end": 3.56,
+          "probability": 0.24
+        },
+        {
+          "word": "gì",
+          "start": 3.56,
+          "end": 3.72,
+          "probability": 0.37
+        },
+        {
+          "word": "cả.",
+          "start": 3.72,
+          "end": 4.14,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.38,
+      "end": 7.9,
+      "text": "Hơi ra chỉ đo nhất, có mại là các bạn sẽ có đục ba phần, đục ba phần.",
+      "words": [
+        {
+          "word": "Hơi",
+          "start": 4.38,
+          "end": 4.38,
+          "probability": 0.48
+        },
+        {
+          "word": "ra",
+          "start": 4.38,
+          "end": 4.52,
+          "probability": 0.31
+        },
+        {
+          "word": "chỉ",
+          "start": 4.52,
+          "end": 4.62,
+          "probability": 0.47
+        },
+        {
+          "word": "đo",
+          "start": 4.62,
+          "end": 4.74,
+          "probability": 0.28
+        },
+        {
+          "word": "nhất,",
+          "start": 4.74,
+          "end": 4.88,
+          "probability": 0.44
+        },
+        {
+          "word": "có",
+          "start": 5.14,
+          "end": 5.4,
+          "probability": 0.18
+        },
+        {
+          "word": "mại",
+          "start": 5.4,
+          "end": 5.54,
+          "probability": 0.24
+        },
+        {
+          "word": "là",
+          "start": 5.54,
+          "end": 5.78,
+          "probability": 0.33
+        },
+        {
+          "word": "các",
+          "start": 5.78,
+          "end": 5.86,
+          "probability": 0.76
+        },
+        {
+          "word": "bạn",
+          "start": 5.86,
+          "end": 6.0,
+          "probability": 1.0
+        },
+        {
+          "word": "sẽ",
+          "start": 6.0,
+          "end": 6.12,
+          "probability": 0.95
+        },
+        {
+          "word": "có",
+          "start": 6.12,
+          "end": 6.24,
+          "probability": 0.97
+        },
+        {
+          "word": "đục",
+          "start": 6.24,
+          "end": 6.4,
+          "probability": 0.51
+        },
+        {
+          "word": "ba",
+          "start": 6.4,
+          "end": 6.6,
+          "probability": 0.29
+        },
+        {
+          "word": "phần,",
+          "start": 6.6,
+          "end": 6.98,
+          "probability": 0.5
+        },
+        {
+          "word": "đục",
+          "start": 7.26,
+          "end": 7.3,
+          "probability": 0.66
+        },
+        {
+          "word": "ba",
+          "start": 7.3,
+          "end": 7.54,
+          "probability": 0.98
+        },
+        {
+          "word": "phần.",
+          "start": 7.54,
+          "end": 7.9,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.58,
+      "end": 12.3,
+      "text": "Khi phần, đi đặc số đi game điện này, các món có đi đặc số để đánh visual như thế này.",
+      "words": [
+        {
+          "word": "Khi",
+          "start": 8.58,
+          "end": 8.94,
+          "probability": 0.51
+        },
+        {
+          "word": "phần,",
+          "start": 8.94,
+          "end": 9.08,
+          "probability": 0.89
+        },
+        {
+          "word": "đi",
+          "start": 9.1,
+          "end": 9.28,
+          "probability": 0.28
+        },
+        {
+          "word": "đặc",
+          "start": 9.28,
+          "end": 9.36,
+          "probability": 0.1
+        },
+        {
+          "word": "số",
+          "start": 9.36,
+          "end": 9.54,
+          "probability": 0.37
+        },
+        {
+          "word": "đi",
+          "start": 9.54,
+          "end": 9.68,
+          "probability": 0.19
+        },
+        {
+          "word": "game",
+          "start": 9.68,
+          "end": 9.76,
+          "probability": 0.22
+        },
+        {
+          "word": "điện",
+          "start": 9.76,
+          "end": 9.98,
+          "probability": 0.42
+        },
+        {
+          "word": "này,",
+          "start": 9.98,
+          "end": 10.14,
+          "probability": 0.19
+        },
+        {
+          "word": "các",
+          "start": 10.36,
+          "end": 10.48,
+          "probability": 0.11
+        },
+        {
+          "word": "món",
+          "start": 10.48,
+          "end": 10.54,
+          "probability": 0.26
+        },
+        {
+          "word": "có",
+          "start": 10.54,
+          "end": 10.7,
+          "probability": 0.43
+        },
+        {
+          "word": "đi",
+          "start": 10.7,
+          "end": 10.8,
+          "probability": 0.59
+        },
+        {
+          "word": "đặc",
+          "start": 10.8,
+          "end": 10.94,
+          "probability": 0.72
+        },
+        {
+          "word": "số",
+          "start": 10.94,
+          "end": 11.12,
+          "probability": 0.98
+        },
+        {
+          "word": "để",
+          "start": 11.12,
+          "end": 11.54,
+          "probability": 0.39
+        },
+        {
+          "word": "đánh",
+          "start": 11.54,
+          "end": 11.7,
+          "probability": 0.34
+        },
+        {
+          "word": "visual",
+          "start": 11.7,
+          "end": 11.92,
+          "probability": 0.24
+        },
+        {
+          "word": "như",
+          "start": 11.92,
+          "end": 12.12,
+          "probability": 0.23
+        },
+        {
+          "word": "thế",
+          "start": 12.12,
+          "end": 12.3,
+          "probability": 0.52
+        },
+        {
+          "word": "này.",
+          "start": 12.3,
+          "end": 12.3,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.44,
+      "end": 14.14,
+      "text": "Phần 2 đúng sai này.",
+      "words": [
+        {
+          "word": "Phần",
+          "start": 12.44,
+          "end": 12.44,
+          "probability": 0.56
+        },
+        {
+          "word": "2",
+          "start": 12.44,
+          "end": 12.64,
+          "probability": 0.46
+        },
+        {
+          "word": "đúng",
+          "start": 12.64,
+          "end": 12.82,
+          "probability": 0.73
+        },
+        {
+          "word": "sai",
+          "start": 12.82,
+          "end": 13.02,
+          "probability": 0.65
+        },
+        {
+          "word": "này.",
+          "start": 13.02,
+          "end": 14.14,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.34,
+      "end": 15.8,
+      "text": "Vá chỉ đánh các bạn số ở biết trên đoạn này.",
+      "words": [
+        {
+          "word": "Vá",
+          "start": 14.34,
+          "end": 14.42,
+          "probability": 0.3
+        },
+        {
+          "word": "chỉ",
+          "start": 14.42,
+          "end": 14.52,
+          "probability": 0.35
+        },
+        {
+          "word": "đánh",
+          "start": 14.52,
+          "end": 14.68,
+          "probability": 0.56
+        },
+        {
+          "word": "các",
+          "start": 14.68,
+          "end": 14.8,
+          "probability": 0.09
+        },
+        {
+          "word": "bạn",
+          "start": 14.8,
+          "end": 14.9,
+          "probability": 0.99
+        },
+        {
+          "word": "số",
+          "start": 14.9,
+          "end": 14.98,
+          "probability": 0.25
+        },
+        {
+          "word": "ở",
+          "start": 14.98,
+          "end": 15.04,
+          "probability": 0.13
+        },
+        {
+          "word": "biết",
+          "start": 15.04,
+          "end": 15.16,
+          "probability": 0.13
+        },
+        {
+          "word": "trên",
+          "start": 15.16,
+          "end": 15.34,
+          "probability": 0.95
+        },
+        {
+          "word": "đoạn",
+          "start": 15.34,
+          "end": 15.62,
+          "probability": 0.56
+        },
+        {
+          "word": "này.",
+          "start": 15.62,
+          "end": 15.8,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 16.22,
+      "end": 18.08,
+      "text": "Sai đúng đúng visual thế.",
+      "words": [
+        {
+          "word": "Sai",
+          "start": 16.22,
+          "end": 16.22,
+          "probability": 0.73
+        },
+        {
+          "word": "đúng",
+          "start": 16.22,
+          "end": 16.6,
+          "probability": 0.89
+        },
+        {
+          "word": "đúng",
+          "start": 16.6,
+          "end": 17.18,
+          "probability": 0.61
+        },
+        {
+          "word": "visual",
+          "start": 17.18,
+          "end": 17.52,
+          "probability": 0.07
+        },
+        {
+          "word": "thế.",
+          "start": 17.52,
+          "end": 18.08,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.4,
+      "end": 21.56,
+      "text": "Cô này, đi đúng sai, sai, sai.",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 18.4,
+          "end": 18.56,
+          "probability": 0.3
+        },
+        {
+          "word": "này,",
+          "start": 18.56,
+          "end": 18.74,
+          "probability": 0.56
+        },
+        {
+          "word": "đi",
+          "start": 18.82,
+          "end": 18.96,
+          "probability": 0.46
+        },
+        {
+          "word": "đúng",
+          "start": 18.96,
+          "end": 19.76,
+          "probability": 0.63
+        },
+        {
+          "word": "sai,",
+          "start": 19.76,
+          "end": 20.42,
+          "probability": 0.67
+        },
+        {
+          "word": "sai,",
+          "start": 20.84,
+          "end": 20.84,
+          "probability": 0.5
+        },
+        {
+          "word": "sai.",
+          "start": 21.56,
+          "end": 21.56,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 21.66,
+      "end": 24.22,
+      "text": "Cô này, các bạn cứu năm như mình thơ.",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 21.66,
+          "end": 21.88,
+          "probability": 0.73
+        },
+        {
+          "word": "này,",
+          "start": 21.88,
+          "end": 22.16,
+          "probability": 0.99
+        },
+        {
+          "word": "các",
+          "start": 22.32,
+          "end": 22.4,
+          "probability": 0.75
+        },
+        {
+          "word": "bạn",
+          "start": 22.4,
+          "end": 22.58,
+          "probability": 1.0
+        },
+        {
+          "word": "cứu",
+          "start": 22.58,
+          "end": 23.54,
+          "probability": 0.22
+        },
+        {
+          "word": "năm",
+          "start": 23.54,
+          "end": 23.68,
+          "probability": 0.28
+        },
+        {
+          "word": "như",
+          "start": 23.68,
+          "end": 23.78,
+          "probability": 0.18
+        },
+        {
+          "word": "mình",
+          "start": 23.78,
+          "end": 23.96,
+          "probability": 0.18
+        },
+        {
+          "word": "thơ.",
+          "start": 23.96,
+          "end": 24.22,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 24.6,
+      "end": 25.16,
+      "text": "Cô năm như mình thơ.",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 24.6,
+          "end": 24.6,
+          "probability": 0.77
+        },
+        {
+          "word": "năm",
+          "start": 24.6,
+          "end": 24.7,
+          "probability": 0.89
+        },
+        {
+          "word": "như",
+          "start": 24.7,
+          "end": 24.8,
+          "probability": 0.83
+        },
+        {
+          "word": "mình",
+          "start": 24.8,
+          "end": 24.92,
+          "probability": 0.92
+        },
+        {
+          "word": "thơ.",
+          "start": 24.92,
+          "end": 25.16,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 25.58,
+      "end": 26.98,
+      "text": "Cô bạn sẽ xuyện sỏng.",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 25.58,
+          "end": 25.9,
+          "probability": 0.94
+        },
+        {
+          "word": "bạn",
+          "start": 25.9,
+          "end": 26.02,
+          "probability": 0.0
+        },
+        {
+          "word": "sẽ",
+          "start": 26.02,
+          "end": 26.2,
+          "probability": 0.3
+        },
+        {
+          "word": "xuyện",
+          "start": 26.2,
+          "end": 26.54,
+          "probability": 0.35
+        },
+        {
+          "word": "sỏng.",
+          "start": 26.54,
+          "end": 26.98,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 27.44,
+      "end": 28.94,
+      "text": "Cô phần đi đặc số, đi đặc số, đi mình thơ.",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 27.44,
+          "end": 27.52,
+          "probability": 0.86
+        },
+        {
+          "word": "phần",
+          "start": 27.52,
+          "end": 27.66,
+          "probability": 0.69
+        },
+        {
+          "word": "đi",
+          "start": 27.66,
+          "end": 27.76,
+          "probability": 0.85
+        },
+        {
+          "word": "đặc",
+          "start": 27.76,
+          "end": 27.9,
+          "probability": 0.9
+        },
+        {
+          "word": "số,",
+          "start": 27.9,
+          "end": 28.02,
+          "probability": 0.99
+        },
+        {
+          "word": "đi",
+          "start": 28.02,
+          "end": 28.3,
+          "probability": 0.12
+        },
+        {
+          "word": "đặc",
+          "start": 28.3,
+          "end": 28.42,
+          "probability": 0.76
+        },
+        {
+          "word": "số,",
+          "start": 28.42,
+          "end": 28.52,
+          "probability": 0.98
+        },
+        {
+          "word": "đi",
+          "start": 28.74,
+          "end": 28.74,
+          "probability": 0.31
+        },
+        {
+          "word": "mình",
+          "start": 28.74,
+          "end": 28.78,
+          "probability": 0.72
+        },
+        {
+          "word": "thơ.",
+          "start": 28.78,
+          "end": 28.94,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

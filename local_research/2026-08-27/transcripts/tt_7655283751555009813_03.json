@@ -1,0 +1,784 @@
+{
+  "item_id": "tt_7655283751555009813_03",
+  "duration_seconds": 29.65,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 113,
+  "text": "Theo điều bao nhiêu bóng lột xử đội sống, bột phòng trong thầy húng, thêm người có nghĩa vụ kê khá đại sản của nhạm bao gồm. Trắng hổ, công trước, sĩ qua có anh như dân, sĩ qua con đổi nhân dân, quân nhân chuyên nghiệp. Người dễ chức bố từ phó trữ phòng và tương đương có lươi con tát đề được vỷ sự nghiệp công lập. Người dễ chức bố trong gần nghiệp nhà nước, người được cứ nhạm đại gị phần bố nhà nước tại dần nghiệp thêm người định của chính phố. Người ứng cứ đại biệt quốc hội, người ứng cứ đại biệt hội trong tình dân.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.18,
+      "end": 2.68,
+      "text": "Theo điều bao nhiêu bóng lột xử đội sống,",
+      "words": [
+        {
+          "word": "Theo",
+          "start": 0.18,
+          "end": 0.64,
+          "probability": 0.56
+        },
+        {
+          "word": "điều",
+          "start": 0.64,
+          "end": 0.88,
+          "probability": 0.89
+        },
+        {
+          "word": "bao",
+          "start": 0.88,
+          "end": 1.04,
+          "probability": 0.4
+        },
+        {
+          "word": "nhiêu",
+          "start": 1.04,
+          "end": 1.18,
+          "probability": 0.76
+        },
+        {
+          "word": "bóng",
+          "start": 1.18,
+          "end": 1.38,
+          "probability": 0.74
+        },
+        {
+          "word": "lột",
+          "start": 1.38,
+          "end": 1.58,
+          "probability": 0.42
+        },
+        {
+          "word": "xử",
+          "start": 1.58,
+          "end": 1.74,
+          "probability": 0.4
+        },
+        {
+          "word": "đội",
+          "start": 1.74,
+          "end": 1.96,
+          "probability": 0.33
+        },
+        {
+          "word": "sống,",
+          "start": 1.96,
+          "end": 2.68,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.84,
+      "end": 4.1,
+      "text": "bột phòng trong thầy húng,",
+      "words": [
+        {
+          "word": "bột",
+          "start": 2.84,
+          "end": 2.96,
+          "probability": 0.15
+        },
+        {
+          "word": "phòng",
+          "start": 2.96,
+          "end": 3.3,
+          "probability": 0.74
+        },
+        {
+          "word": "trong",
+          "start": 3.3,
+          "end": 3.52,
+          "probability": 0.44
+        },
+        {
+          "word": "thầy",
+          "start": 3.52,
+          "end": 3.78,
+          "probability": 0.6
+        },
+        {
+          "word": "húng,",
+          "start": 3.78,
+          "end": 4.1,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.46,
+      "end": 7.22,
+      "text": "thêm người có nghĩa vụ kê khá đại sản của nhạm bao gồm.",
+      "words": [
+        {
+          "word": "thêm",
+          "start": 4.46,
+          "end": 4.56,
+          "probability": 0.5
+        },
+        {
+          "word": "người",
+          "start": 4.56,
+          "end": 4.76,
+          "probability": 0.85
+        },
+        {
+          "word": "có",
+          "start": 4.76,
+          "end": 4.92,
+          "probability": 0.61
+        },
+        {
+          "word": "nghĩa",
+          "start": 4.92,
+          "end": 5.12,
+          "probability": 0.64
+        },
+        {
+          "word": "vụ",
+          "start": 5.12,
+          "end": 5.32,
+          "probability": 0.54
+        },
+        {
+          "word": "kê",
+          "start": 5.32,
+          "end": 5.52,
+          "probability": 0.5
+        },
+        {
+          "word": "khá",
+          "start": 5.52,
+          "end": 5.7,
+          "probability": 0.68
+        },
+        {
+          "word": "đại",
+          "start": 5.7,
+          "end": 5.9,
+          "probability": 0.49
+        },
+        {
+          "word": "sản",
+          "start": 5.9,
+          "end": 6.16,
+          "probability": 0.54
+        },
+        {
+          "word": "của",
+          "start": 6.16,
+          "end": 6.32,
+          "probability": 0.28
+        },
+        {
+          "word": "nhạm",
+          "start": 6.32,
+          "end": 6.52,
+          "probability": 0.55
+        },
+        {
+          "word": "bao",
+          "start": 6.52,
+          "end": 6.72,
+          "probability": 0.61
+        },
+        {
+          "word": "gồm.",
+          "start": 6.72,
+          "end": 7.22,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.42,
+      "end": 9.98,
+      "text": "Trắng hổ, công trước, sĩ qua có anh như dân,",
+      "words": [
+        {
+          "word": "Trắng",
+          "start": 7.42,
+          "end": 7.6,
+          "probability": 0.47
+        },
+        {
+          "word": "hổ,",
+          "start": 7.6,
+          "end": 7.92,
+          "probability": 0.29
+        },
+        {
+          "word": "công",
+          "start": 8.08,
+          "end": 8.32,
+          "probability": 0.57
+        },
+        {
+          "word": "trước,",
+          "start": 8.32,
+          "end": 8.58,
+          "probability": 0.45
+        },
+        {
+          "word": "sĩ",
+          "start": 8.78,
+          "end": 8.98,
+          "probability": 0.58
+        },
+        {
+          "word": "qua",
+          "start": 8.98,
+          "end": 9.18,
+          "probability": 0.5
+        },
+        {
+          "word": "có",
+          "start": 9.18,
+          "end": 9.38,
+          "probability": 0.3
+        },
+        {
+          "word": "anh",
+          "start": 9.38,
+          "end": 9.6,
+          "probability": 0.16
+        },
+        {
+          "word": "như",
+          "start": 9.6,
+          "end": 9.7,
+          "probability": 0.28
+        },
+        {
+          "word": "dân,",
+          "start": 9.7,
+          "end": 9.98,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 10.44,
+      "end": 12.76,
+      "text": "sĩ qua con đổi nhân dân, quân nhân chuyên nghiệp.",
+      "words": [
+        {
+          "word": "sĩ",
+          "start": 10.44,
+          "end": 10.46,
+          "probability": 0.94
+        },
+        {
+          "word": "qua",
+          "start": 10.46,
+          "end": 10.66,
+          "probability": 0.98
+        },
+        {
+          "word": "con",
+          "start": 10.66,
+          "end": 10.86,
+          "probability": 0.27
+        },
+        {
+          "word": "đổi",
+          "start": 10.86,
+          "end": 11.04,
+          "probability": 0.25
+        },
+        {
+          "word": "nhân",
+          "start": 11.04,
+          "end": 11.28,
+          "probability": 0.86
+        },
+        {
+          "word": "dân,",
+          "start": 11.28,
+          "end": 11.62,
+          "probability": 0.76
+        },
+        {
+          "word": "quân",
+          "start": 12.0,
+          "end": 12.0,
+          "probability": 0.32
+        },
+        {
+          "word": "nhân",
+          "start": 12.0,
+          "end": 12.2,
+          "probability": 0.59
+        },
+        {
+          "word": "chuyên",
+          "start": 12.2,
+          "end": 12.44,
+          "probability": 0.31
+        },
+        {
+          "word": "nghiệp.",
+          "start": 12.44,
+          "end": 12.76,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.44,
+      "end": 15.7,
+      "text": "Người dễ chức bố từ phó trữ phòng và tương đương",
+      "words": [
+        {
+          "word": "Người",
+          "start": 13.44,
+          "end": 13.48,
+          "probability": 0.8
+        },
+        {
+          "word": "dễ",
+          "start": 13.48,
+          "end": 13.64,
+          "probability": 0.51
+        },
+        {
+          "word": "chức",
+          "start": 13.64,
+          "end": 13.84,
+          "probability": 0.59
+        },
+        {
+          "word": "bố",
+          "start": 13.84,
+          "end": 14.1,
+          "probability": 0.37
+        },
+        {
+          "word": "từ",
+          "start": 14.1,
+          "end": 14.36,
+          "probability": 0.78
+        },
+        {
+          "word": "phó",
+          "start": 14.36,
+          "end": 14.6,
+          "probability": 0.7
+        },
+        {
+          "word": "trữ",
+          "start": 14.6,
+          "end": 14.78,
+          "probability": 0.25
+        },
+        {
+          "word": "phòng",
+          "start": 14.78,
+          "end": 15.06,
+          "probability": 0.94
+        },
+        {
+          "word": "và",
+          "start": 15.06,
+          "end": 15.32,
+          "probability": 0.92
+        },
+        {
+          "word": "tương",
+          "start": 15.32,
+          "end": 15.5,
+          "probability": 0.71
+        },
+        {
+          "word": "đương",
+          "start": 15.5,
+          "end": 15.7,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.7,
+      "end": 17.9,
+      "text": "có lươi con tát đề được vỷ sự nghiệp công lập.",
+      "words": [
+        {
+          "word": "có",
+          "start": 15.7,
+          "end": 15.92,
+          "probability": 0.09
+        },
+        {
+          "word": "lươi",
+          "start": 15.92,
+          "end": 16.14,
+          "probability": 0.34
+        },
+        {
+          "word": "con",
+          "start": 16.14,
+          "end": 16.48,
+          "probability": 0.36
+        },
+        {
+          "word": "tát",
+          "start": 16.48,
+          "end": 16.68,
+          "probability": 0.3
+        },
+        {
+          "word": "đề",
+          "start": 16.68,
+          "end": 16.92,
+          "probability": 0.21
+        },
+        {
+          "word": "được",
+          "start": 16.92,
+          "end": 16.94,
+          "probability": 0.32
+        },
+        {
+          "word": "vỷ",
+          "start": 16.94,
+          "end": 17.12,
+          "probability": 0.32
+        },
+        {
+          "word": "sự",
+          "start": 17.12,
+          "end": 17.28,
+          "probability": 0.67
+        },
+        {
+          "word": "nghiệp",
+          "start": 17.28,
+          "end": 17.48,
+          "probability": 0.67
+        },
+        {
+          "word": "công",
+          "start": 17.48,
+          "end": 17.66,
+          "probability": 0.57
+        },
+        {
+          "word": "lập.",
+          "start": 17.66,
+          "end": 17.9,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 18.52,
+      "end": 20.42,
+      "text": "Người dễ chức bố trong gần nghiệp nhà nước,",
+      "words": [
+        {
+          "word": "Người",
+          "start": 18.52,
+          "end": 18.54,
+          "probability": 0.88
+        },
+        {
+          "word": "dễ",
+          "start": 18.54,
+          "end": 18.74,
+          "probability": 0.98
+        },
+        {
+          "word": "chức",
+          "start": 18.74,
+          "end": 18.9,
+          "probability": 0.98
+        },
+        {
+          "word": "bố",
+          "start": 18.9,
+          "end": 19.14,
+          "probability": 0.96
+        },
+        {
+          "word": "trong",
+          "start": 19.14,
+          "end": 19.42,
+          "probability": 0.78
+        },
+        {
+          "word": "gần",
+          "start": 19.42,
+          "end": 19.66,
+          "probability": 0.43
+        },
+        {
+          "word": "nghiệp",
+          "start": 19.66,
+          "end": 19.84,
+          "probability": 0.86
+        },
+        {
+          "word": "nhà",
+          "start": 19.84,
+          "end": 20.08,
+          "probability": 0.35
+        },
+        {
+          "word": "nước,",
+          "start": 20.08,
+          "end": 20.42,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 20.68,
+      "end": 22.8,
+      "text": "người được cứ nhạm đại gị phần bố nhà nước",
+      "words": [
+        {
+          "word": "người",
+          "start": 20.68,
+          "end": 20.82,
+          "probability": 0.81
+        },
+        {
+          "word": "được",
+          "start": 20.82,
+          "end": 21.04,
+          "probability": 0.85
+        },
+        {
+          "word": "cứ",
+          "start": 21.04,
+          "end": 21.26,
+          "probability": 0.34
+        },
+        {
+          "word": "nhạm",
+          "start": 21.26,
+          "end": 21.44,
+          "probability": 0.6
+        },
+        {
+          "word": "đại",
+          "start": 21.44,
+          "end": 21.7,
+          "probability": 0.62
+        },
+        {
+          "word": "gị",
+          "start": 21.7,
+          "end": 21.86,
+          "probability": 0.33
+        },
+        {
+          "word": "phần",
+          "start": 21.86,
+          "end": 22.1,
+          "probability": 0.73
+        },
+        {
+          "word": "bố",
+          "start": 22.1,
+          "end": 22.3,
+          "probability": 0.85
+        },
+        {
+          "word": "nhà",
+          "start": 22.3,
+          "end": 22.5,
+          "probability": 0.76
+        },
+        {
+          "word": "nước",
+          "start": 22.5,
+          "end": 22.8,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 22.8,
+      "end": 24.66,
+      "text": "tại dần nghiệp thêm người định của chính phố.",
+      "words": [
+        {
+          "word": "tại",
+          "start": 22.8,
+          "end": 22.98,
+          "probability": 0.34
+        },
+        {
+          "word": "dần",
+          "start": 22.98,
+          "end": 23.18,
+          "probability": 0.14
+        },
+        {
+          "word": "nghiệp",
+          "start": 23.18,
+          "end": 23.46,
+          "probability": 0.97
+        },
+        {
+          "word": "thêm",
+          "start": 23.46,
+          "end": 23.72,
+          "probability": 0.51
+        },
+        {
+          "word": "người",
+          "start": 23.72,
+          "end": 23.88,
+          "probability": 0.26
+        },
+        {
+          "word": "định",
+          "start": 23.88,
+          "end": 23.98,
+          "probability": 0.83
+        },
+        {
+          "word": "của",
+          "start": 23.98,
+          "end": 24.14,
+          "probability": 0.77
+        },
+        {
+          "word": "chính",
+          "start": 24.14,
+          "end": 24.32,
+          "probability": 0.71
+        },
+        {
+          "word": "phố.",
+          "start": 24.32,
+          "end": 24.66,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 25.34,
+      "end": 26.64,
+      "text": "Người ứng cứ đại biệt quốc hội,",
+      "words": [
+        {
+          "word": "Người",
+          "start": 25.34,
+          "end": 25.48,
+          "probability": 0.94
+        },
+        {
+          "word": "ứng",
+          "start": 25.48,
+          "end": 25.72,
+          "probability": 0.82
+        },
+        {
+          "word": "cứ",
+          "start": 25.72,
+          "end": 25.88,
+          "probability": 0.35
+        },
+        {
+          "word": "đại",
+          "start": 25.88,
+          "end": 26.04,
+          "probability": 0.76
+        },
+        {
+          "word": "biệt",
+          "start": 26.04,
+          "end": 26.18,
+          "probability": 0.35
+        },
+        {
+          "word": "quốc",
+          "start": 26.18,
+          "end": 26.36,
+          "probability": 0.59
+        },
+        {
+          "word": "hội,",
+          "start": 26.36,
+          "end": 26.64,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 26.64,
+      "end": 28.62,
+      "text": "người ứng cứ đại biệt hội trong tình dân.",
+      "words": [
+        {
+          "word": "người",
+          "start": 26.64,
+          "end": 27.12,
+          "probability": 0.29
+        },
+        {
+          "word": "ứng",
+          "start": 27.12,
+          "end": 27.36,
+          "probability": 0.72
+        },
+        {
+          "word": "cứ",
+          "start": 27.36,
+          "end": 27.52,
+          "probability": 0.12
+        },
+        {
+          "word": "đại",
+          "start": 27.52,
+          "end": 27.68,
+          "probability": 0.69
+        },
+        {
+          "word": "biệt",
+          "start": 27.68,
+          "end": 27.86,
+          "probability": 0.18
+        },
+        {
+          "word": "hội",
+          "start": 27.86,
+          "end": 28.02,
+          "probability": 0.27
+        },
+        {
+          "word": "trong",
+          "start": 28.02,
+          "end": 28.14,
+          "probability": 0.21
+        },
+        {
+          "word": "tình",
+          "start": 28.14,
+          "end": 28.28,
+          "probability": 0.14
+        },
+        {
+          "word": "dân.",
+          "start": 28.28,
+          "end": 28.62,
+          "probability": 0.46
+        }
+      ]
+    }
+  ]
+}

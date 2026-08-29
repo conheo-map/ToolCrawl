@@ -1,0 +1,952 @@
+{
+  "item_id": "tt_7644530427620756744_06",
+  "duration_seconds": 29.57,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 140,
+  "text": "hãy tụi thúc chừng khai sửct. 2 cựu giám đốc phản của Alise Rán đi để trong điện lỡ viễn chiến thắng vào viên đu tấn có bị cáo bột nhận hư lộ tức khách nhà thấu thi công với cận xúc hiện lên tới hơn bột trăm tì đầu. Bản viên thì kinh tiến bị truy tổ tối vi phản quy định về quan lý sử dụt tại sản nhà nước kế thật thác lạm phi theo quy định tại khoản ma, điều hát trong bây chính bột lột tình xử. Với khu quyền phạt từng buơi đến 2.5 tuổi, tại bản luật tối, đại diện viện kiểm soát để nghiệm một án với tí cao tự năm để sống nâm tụt. Với khu quyền đánh nêm, ở phía bột với cường hư một trong lệnh lắm đi đồng.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.1,
+      "text": "hãy tụi thúc chừng khai sửct.",
+      "words": [
+        {
+          "word": "hãy",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.09
+        },
+        {
+          "word": "tụi",
+          "start": 0.14,
+          "end": 0.14,
+          "probability": 0.43
+        },
+        {
+          "word": "thúc",
+          "start": 0.14,
+          "end": 0.34,
+          "probability": 0.31
+        },
+        {
+          "word": "chừng",
+          "start": 0.34,
+          "end": 0.5,
+          "probability": 0.18
+        },
+        {
+          "word": "khai",
+          "start": 0.5,
+          "end": 0.72,
+          "probability": 0.54
+        },
+        {
+          "word": "sửct.",
+          "start": 0.72,
+          "end": 1.1,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.56,
+      "end": 3.6,
+      "text": "2 cựu giám đốc phản của Alise Rán đi để trong điện",
+      "words": [
+        {
+          "word": "2",
+          "start": 1.56,
+          "end": 1.56,
+          "probability": 0.38
+        },
+        {
+          "word": "cựu",
+          "start": 1.56,
+          "end": 1.7,
+          "probability": 0.26
+        },
+        {
+          "word": "giám",
+          "start": 1.7,
+          "end": 1.82,
+          "probability": 0.64
+        },
+        {
+          "word": "đốc",
+          "start": 1.82,
+          "end": 1.96,
+          "probability": 0.72
+        },
+        {
+          "word": "phản",
+          "start": 1.96,
+          "end": 2.12,
+          "probability": 0.25
+        },
+        {
+          "word": "của",
+          "start": 2.12,
+          "end": 2.24,
+          "probability": 0.11
+        },
+        {
+          "word": "Alise",
+          "start": 2.24,
+          "end": 2.48,
+          "probability": 0.16
+        },
+        {
+          "word": "Rán",
+          "start": 2.48,
+          "end": 2.76,
+          "probability": 0.12
+        },
+        {
+          "word": "đi",
+          "start": 2.76,
+          "end": 2.96,
+          "probability": 0.21
+        },
+        {
+          "word": "để",
+          "start": 2.96,
+          "end": 3.1,
+          "probability": 0.38
+        },
+        {
+          "word": "trong",
+          "start": 3.1,
+          "end": 3.28,
+          "probability": 0.34
+        },
+        {
+          "word": "điện",
+          "start": 3.28,
+          "end": 3.6,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.6,
+      "end": 5.5,
+      "text": "lỡ viễn chiến thắng vào viên đu tấn",
+      "words": [
+        {
+          "word": "lỡ",
+          "start": 3.6,
+          "end": 3.84,
+          "probability": 0.5
+        },
+        {
+          "word": "viễn",
+          "start": 3.84,
+          "end": 4.08,
+          "probability": 0.5
+        },
+        {
+          "word": "chiến",
+          "start": 4.08,
+          "end": 4.34,
+          "probability": 0.72
+        },
+        {
+          "word": "thắng",
+          "start": 4.34,
+          "end": 4.56,
+          "probability": 0.71
+        },
+        {
+          "word": "vào",
+          "start": 4.56,
+          "end": 4.8,
+          "probability": 0.35
+        },
+        {
+          "word": "viên",
+          "start": 4.8,
+          "end": 5.02,
+          "probability": 0.49
+        },
+        {
+          "word": "đu",
+          "start": 5.02,
+          "end": 5.18,
+          "probability": 0.43
+        },
+        {
+          "word": "tấn",
+          "start": 5.18,
+          "end": 5.5,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.5,
+      "end": 8.1,
+      "text": "có bị cáo bột nhận hư lộ tức khách nhà thấu thi công",
+      "words": [
+        {
+          "word": "có",
+          "start": 5.5,
+          "end": 5.86,
+          "probability": 0.05
+        },
+        {
+          "word": "bị",
+          "start": 5.86,
+          "end": 6.02,
+          "probability": 0.5
+        },
+        {
+          "word": "cáo",
+          "start": 6.02,
+          "end": 6.22,
+          "probability": 0.5
+        },
+        {
+          "word": "bột",
+          "start": 6.22,
+          "end": 6.44,
+          "probability": 0.54
+        },
+        {
+          "word": "nhận",
+          "start": 6.44,
+          "end": 6.64,
+          "probability": 0.76
+        },
+        {
+          "word": "hư",
+          "start": 6.64,
+          "end": 6.8,
+          "probability": 0.46
+        },
+        {
+          "word": "lộ",
+          "start": 6.8,
+          "end": 7.0,
+          "probability": 0.54
+        },
+        {
+          "word": "tức",
+          "start": 7.0,
+          "end": 7.18,
+          "probability": 0.23
+        },
+        {
+          "word": "khách",
+          "start": 7.18,
+          "end": 7.32,
+          "probability": 0.44
+        },
+        {
+          "word": "nhà",
+          "start": 7.32,
+          "end": 7.46,
+          "probability": 0.5
+        },
+        {
+          "word": "thấu",
+          "start": 7.46,
+          "end": 7.68,
+          "probability": 0.46
+        },
+        {
+          "word": "thi",
+          "start": 7.68,
+          "end": 7.94,
+          "probability": 0.35
+        },
+        {
+          "word": "công",
+          "start": 7.94,
+          "end": 8.1,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.1,
+      "end": 10.42,
+      "text": "với cận xúc hiện lên tới hơn bột trăm tì đầu.",
+      "words": [
+        {
+          "word": "với",
+          "start": 8.1,
+          "end": 8.42,
+          "probability": 0.54
+        },
+        {
+          "word": "cận",
+          "start": 8.42,
+          "end": 8.62,
+          "probability": 0.41
+        },
+        {
+          "word": "xúc",
+          "start": 8.62,
+          "end": 8.8,
+          "probability": 0.59
+        },
+        {
+          "word": "hiện",
+          "start": 8.8,
+          "end": 8.96,
+          "probability": 0.26
+        },
+        {
+          "word": "lên",
+          "start": 8.96,
+          "end": 9.12,
+          "probability": 0.71
+        },
+        {
+          "word": "tới",
+          "start": 9.12,
+          "end": 9.32,
+          "probability": 0.9
+        },
+        {
+          "word": "hơn",
+          "start": 9.32,
+          "end": 9.54,
+          "probability": 0.49
+        },
+        {
+          "word": "bột",
+          "start": 9.54,
+          "end": 9.74,
+          "probability": 0.57
+        },
+        {
+          "word": "trăm",
+          "start": 9.74,
+          "end": 9.92,
+          "probability": 0.33
+        },
+        {
+          "word": "tì",
+          "start": 9.92,
+          "end": 10.06,
+          "probability": 0.18
+        },
+        {
+          "word": "đầu.",
+          "start": 10.06,
+          "end": 10.42,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.98,
+      "end": 14.04,
+      "text": "Bản viên thì kinh tiến bị truy tổ tối vi phản quy định về quan lý",
+      "words": [
+        {
+          "word": "Bản",
+          "start": 10.98,
+          "end": 11.14,
+          "probability": 0.52
+        },
+        {
+          "word": "viên",
+          "start": 11.14,
+          "end": 11.32,
+          "probability": 0.46
+        },
+        {
+          "word": "thì",
+          "start": 11.32,
+          "end": 11.46,
+          "probability": 0.33
+        },
+        {
+          "word": "kinh",
+          "start": 11.46,
+          "end": 11.7,
+          "probability": 0.44
+        },
+        {
+          "word": "tiến",
+          "start": 11.7,
+          "end": 11.82,
+          "probability": 0.77
+        },
+        {
+          "word": "bị",
+          "start": 11.82,
+          "end": 12.02,
+          "probability": 0.36
+        },
+        {
+          "word": "truy",
+          "start": 12.02,
+          "end": 12.22,
+          "probability": 0.5
+        },
+        {
+          "word": "tổ",
+          "start": 12.22,
+          "end": 12.28,
+          "probability": 0.43
+        },
+        {
+          "word": "tối",
+          "start": 12.28,
+          "end": 12.68,
+          "probability": 0.66
+        },
+        {
+          "word": "vi",
+          "start": 12.68,
+          "end": 12.88,
+          "probability": 0.21
+        },
+        {
+          "word": "phản",
+          "start": 12.88,
+          "end": 13.1,
+          "probability": 0.71
+        },
+        {
+          "word": "quy",
+          "start": 13.1,
+          "end": 13.28,
+          "probability": 0.95
+        },
+        {
+          "word": "định",
+          "start": 13.28,
+          "end": 13.38,
+          "probability": 0.65
+        },
+        {
+          "word": "về",
+          "start": 13.38,
+          "end": 13.56,
+          "probability": 0.46
+        },
+        {
+          "word": "quan",
+          "start": 13.56,
+          "end": 13.78,
+          "probability": 0.48
+        },
+        {
+          "word": "lý",
+          "start": 13.78,
+          "end": 14.04,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 14.04,
+      "end": 16.72,
+      "text": "sử dụt tại sản nhà nước kế thật thác lạm phi theo quy định",
+      "words": [
+        {
+          "word": "sử",
+          "start": 14.04,
+          "end": 14.24,
+          "probability": 0.62
+        },
+        {
+          "word": "dụt",
+          "start": 14.24,
+          "end": 14.38,
+          "probability": 0.84
+        },
+        {
+          "word": "tại",
+          "start": 14.38,
+          "end": 14.54,
+          "probability": 0.38
+        },
+        {
+          "word": "sản",
+          "start": 14.54,
+          "end": 14.74,
+          "probability": 0.62
+        },
+        {
+          "word": "nhà",
+          "start": 14.74,
+          "end": 14.9,
+          "probability": 0.48
+        },
+        {
+          "word": "nước",
+          "start": 14.9,
+          "end": 15.12,
+          "probability": 0.85
+        },
+        {
+          "word": "kế",
+          "start": 15.12,
+          "end": 15.3,
+          "probability": 0.25
+        },
+        {
+          "word": "thật",
+          "start": 15.3,
+          "end": 15.52,
+          "probability": 0.62
+        },
+        {
+          "word": "thác",
+          "start": 15.52,
+          "end": 15.66,
+          "probability": 0.35
+        },
+        {
+          "word": "lạm",
+          "start": 15.66,
+          "end": 15.88,
+          "probability": 0.51
+        },
+        {
+          "word": "phi",
+          "start": 15.88,
+          "end": 16.16,
+          "probability": 0.42
+        },
+        {
+          "word": "theo",
+          "start": 16.16,
+          "end": 16.34,
+          "probability": 0.62
+        },
+        {
+          "word": "quy",
+          "start": 16.34,
+          "end": 16.56,
+          "probability": 0.96
+        },
+        {
+          "word": "định",
+          "start": 16.56,
+          "end": 16.72,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.72,
+      "end": 19.0,
+      "text": "tại khoản ma, điều hát trong bây chính bột lột tình xử.",
+      "words": [
+        {
+          "word": "tại",
+          "start": 16.72,
+          "end": 16.94,
+          "probability": 0.85
+        },
+        {
+          "word": "khoản",
+          "start": 16.94,
+          "end": 17.18,
+          "probability": 0.55
+        },
+        {
+          "word": "ma,",
+          "start": 17.18,
+          "end": 17.44,
+          "probability": 0.26
+        },
+        {
+          "word": "điều",
+          "start": 17.5,
+          "end": 17.66,
+          "probability": 0.42
+        },
+        {
+          "word": "hát",
+          "start": 17.66,
+          "end": 17.84,
+          "probability": 0.27
+        },
+        {
+          "word": "trong",
+          "start": 17.84,
+          "end": 17.92,
+          "probability": 0.29
+        },
+        {
+          "word": "bây",
+          "start": 17.92,
+          "end": 18.12,
+          "probability": 0.2
+        },
+        {
+          "word": "chính",
+          "start": 18.12,
+          "end": 18.26,
+          "probability": 0.46
+        },
+        {
+          "word": "bột",
+          "start": 18.26,
+          "end": 18.42,
+          "probability": 0.55
+        },
+        {
+          "word": "lột",
+          "start": 18.42,
+          "end": 18.56,
+          "probability": 0.54
+        },
+        {
+          "word": "tình",
+          "start": 18.56,
+          "end": 18.76,
+          "probability": 0.62
+        },
+        {
+          "word": "xử.",
+          "start": 18.76,
+          "end": 19.0,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 19.28,
+      "end": 21.42,
+      "text": "Với khu quyền phạt từng buơi đến 2.5 tuổi,",
+      "words": [
+        {
+          "word": "Với",
+          "start": 19.28,
+          "end": 19.4,
+          "probability": 0.62
+        },
+        {
+          "word": "khu",
+          "start": 19.4,
+          "end": 19.52,
+          "probability": 0.58
+        },
+        {
+          "word": "quyền",
+          "start": 19.52,
+          "end": 19.7,
+          "probability": 0.46
+        },
+        {
+          "word": "phạt",
+          "start": 19.7,
+          "end": 19.9,
+          "probability": 0.54
+        },
+        {
+          "word": "từng",
+          "start": 19.9,
+          "end": 20.18,
+          "probability": 0.39
+        },
+        {
+          "word": "buơi",
+          "start": 20.18,
+          "end": 20.28,
+          "probability": 0.34
+        },
+        {
+          "word": "đến",
+          "start": 20.28,
+          "end": 20.46,
+          "probability": 0.95
+        },
+        {
+          "word": "2",
+          "start": 20.46,
+          "end": 20.64,
+          "probability": 0.38
+        },
+        {
+          "word": ".5",
+          "start": 20.64,
+          "end": 21.0,
+          "probability": 0.23
+        },
+        {
+          "word": "tuổi,",
+          "start": 21.0,
+          "end": 21.42,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 21.42,
+      "end": 24.3,
+      "text": "tại bản luật tối, đại diện viện kiểm soát để nghiệm một án",
+      "words": [
+        {
+          "word": "tại",
+          "start": 21.42,
+          "end": 21.62,
+          "probability": 0.29
+        },
+        {
+          "word": "bản",
+          "start": 21.62,
+          "end": 21.86,
+          "probability": 0.29
+        },
+        {
+          "word": "luật",
+          "start": 21.86,
+          "end": 22.04,
+          "probability": 0.48
+        },
+        {
+          "word": "tối,",
+          "start": 22.04,
+          "end": 22.3,
+          "probability": 0.28
+        },
+        {
+          "word": "đại",
+          "start": 22.58,
+          "end": 22.68,
+          "probability": 0.73
+        },
+        {
+          "word": "diện",
+          "start": 22.68,
+          "end": 22.88,
+          "probability": 0.62
+        },
+        {
+          "word": "viện",
+          "start": 22.88,
+          "end": 23.08,
+          "probability": 0.49
+        },
+        {
+          "word": "kiểm",
+          "start": 23.08,
+          "end": 23.32,
+          "probability": 0.48
+        },
+        {
+          "word": "soát",
+          "start": 23.32,
+          "end": 23.54,
+          "probability": 0.65
+        },
+        {
+          "word": "để",
+          "start": 23.54,
+          "end": 23.7,
+          "probability": 0.29
+        },
+        {
+          "word": "nghiệm",
+          "start": 23.7,
+          "end": 23.88,
+          "probability": 0.56
+        },
+        {
+          "word": "một",
+          "start": 23.88,
+          "end": 24.02,
+          "probability": 0.25
+        },
+        {
+          "word": "án",
+          "start": 24.02,
+          "end": 24.3,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 24.3,
+      "end": 26.32,
+      "text": "với tí cao tự năm để sống nâm tụt.",
+      "words": [
+        {
+          "word": "với",
+          "start": 24.3,
+          "end": 24.48,
+          "probability": 0.15
+        },
+        {
+          "word": "tí",
+          "start": 24.48,
+          "end": 24.68,
+          "probability": 0.16
+        },
+        {
+          "word": "cao",
+          "start": 24.68,
+          "end": 24.92,
+          "probability": 0.57
+        },
+        {
+          "word": "tự",
+          "start": 24.92,
+          "end": 25.12,
+          "probability": 0.13
+        },
+        {
+          "word": "năm",
+          "start": 25.12,
+          "end": 25.3,
+          "probability": 0.24
+        },
+        {
+          "word": "để",
+          "start": 25.3,
+          "end": 25.5,
+          "probability": 0.57
+        },
+        {
+          "word": "sống",
+          "start": 25.5,
+          "end": 25.64,
+          "probability": 0.48
+        },
+        {
+          "word": "nâm",
+          "start": 25.64,
+          "end": 25.8,
+          "probability": 0.22
+        },
+        {
+          "word": "tụt.",
+          "start": 25.8,
+          "end": 26.32,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 26.32,
+      "end": 29.44,
+      "text": "Với khu quyền đánh nêm, ở phía bột với cường hư một trong lệnh lắm đi đồng.",
+      "words": [
+        {
+          "word": "Với",
+          "start": 26.32,
+          "end": 26.48,
+          "probability": 0.13
+        },
+        {
+          "word": "khu",
+          "start": 26.48,
+          "end": 26.64,
+          "probability": 0.59
+        },
+        {
+          "word": "quyền",
+          "start": 26.64,
+          "end": 26.7,
+          "probability": 0.2
+        },
+        {
+          "word": "đánh",
+          "start": 26.7,
+          "end": 26.84,
+          "probability": 0.35
+        },
+        {
+          "word": "nêm,",
+          "start": 26.84,
+          "end": 27.22,
+          "probability": 0.24
+        },
+        {
+          "word": "ở",
+          "start": 27.4,
+          "end": 27.44,
+          "probability": 0.13
+        },
+        {
+          "word": "phía",
+          "start": 27.44,
+          "end": 27.62,
+          "probability": 0.09
+        },
+        {
+          "word": "bột",
+          "start": 27.62,
+          "end": 27.78,
+          "probability": 0.28
+        },
+        {
+          "word": "với",
+          "start": 27.78,
+          "end": 27.96,
+          "probability": 0.2
+        },
+        {
+          "word": "cường",
+          "start": 27.96,
+          "end": 28.18,
+          "probability": 0.23
+        },
+        {
+          "word": "hư",
+          "start": 28.18,
+          "end": 28.36,
+          "probability": 0.26
+        },
+        {
+          "word": "một",
+          "start": 28.36,
+          "end": 28.58,
+          "probability": 0.06
+        },
+        {
+          "word": "trong",
+          "start": 28.58,
+          "end": 28.74,
+          "probability": 0.78
+        },
+        {
+          "word": "lệnh",
+          "start": 28.74,
+          "end": 29.04,
+          "probability": 0.37
+        },
+        {
+          "word": "lắm",
+          "start": 29.04,
+          "end": 29.14,
+          "probability": 0.5
+        },
+        {
+          "word": "đi",
+          "start": 29.14,
+          "end": 29.28,
+          "probability": 0.08
+        },
+        {
+          "word": "đồng.",
+          "start": 29.28,
+          "end": 29.44,
+          "probability": 0.45
+        }
+      ]
+    }
+  ]
+}

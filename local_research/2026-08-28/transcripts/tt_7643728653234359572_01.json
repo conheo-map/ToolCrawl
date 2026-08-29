@@ -1,0 +1,786 @@
+{
+  "item_id": "tt_7643728653234359572_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 120,
+  "text": "Thưa bây giờ, dừng đen đó, thay bí là ôm vòng xuyến Đây là những gì ngạch mà bởi vì đang được thấy tại vòng xoai điện biến phủ, thay phố hồ chí mi Trong này thứ 8 thì đi ở bây cái phượng ál đuông mới tại vòng xoai này Thì bởi vì cũng có thể quan sát, mọi người dường như đa quen nhịp với các kết luôn thông mới Đó là thân thu thông đang tính hiểu hai là những cái giải phân cách Trong này thứ 8 này thì lúc nâng, bánh kép tục có mặt để mà hướng rất mọi người trong bây phượng ál đuông mới này và hôm nay thứ lần này đông",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.2,
+      "end": 5.06,
+      "text": "Thưa bây giờ, dừng đen đó, thay bí là ôm vòng xuyến",
+      "words": [
+        {
+          "word": "Thưa",
+          "start": 1.2,
+          "end": 1.64,
+          "probability": 0.34
+        },
+        {
+          "word": "bây",
+          "start": 1.64,
+          "end": 1.86,
+          "probability": 0.2
+        },
+        {
+          "word": "giờ,",
+          "start": 1.86,
+          "end": 2.24,
+          "probability": 0.22
+        },
+        {
+          "word": "dừng",
+          "start": 2.3,
+          "end": 2.5,
+          "probability": 0.44
+        },
+        {
+          "word": "đen",
+          "start": 2.5,
+          "end": 2.78,
+          "probability": 0.28
+        },
+        {
+          "word": "đó,",
+          "start": 2.78,
+          "end": 3.02,
+          "probability": 0.24
+        },
+        {
+          "word": "thay",
+          "start": 3.26,
+          "end": 3.36,
+          "probability": 0.56
+        },
+        {
+          "word": "bí",
+          "start": 3.36,
+          "end": 3.62,
+          "probability": 0.25
+        },
+        {
+          "word": "là",
+          "start": 3.62,
+          "end": 4.02,
+          "probability": 0.76
+        },
+        {
+          "word": "ôm",
+          "start": 4.02,
+          "end": 4.24,
+          "probability": 0.54
+        },
+        {
+          "word": "vòng",
+          "start": 4.24,
+          "end": 4.46,
+          "probability": 0.76
+        },
+        {
+          "word": "xuyến",
+          "start": 4.46,
+          "end": 5.06,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.06,
+      "end": 9.5,
+      "text": "Đây là những gì ngạch mà bởi vì đang được thấy tại vòng xoai điện biến phủ, thay phố hồ chí mi",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 5.06,
+          "end": 5.32,
+          "probability": 0.22
+        },
+        {
+          "word": "là",
+          "start": 5.32,
+          "end": 5.46,
+          "probability": 0.99
+        },
+        {
+          "word": "những",
+          "start": 5.46,
+          "end": 5.6,
+          "probability": 0.98
+        },
+        {
+          "word": "gì",
+          "start": 5.6,
+          "end": 5.78,
+          "probability": 0.67
+        },
+        {
+          "word": "ngạch",
+          "start": 5.78,
+          "end": 5.92,
+          "probability": 0.36
+        },
+        {
+          "word": "mà",
+          "start": 5.92,
+          "end": 6.06,
+          "probability": 0.5
+        },
+        {
+          "word": "bởi",
+          "start": 6.06,
+          "end": 6.2,
+          "probability": 0.46
+        },
+        {
+          "word": "vì",
+          "start": 6.2,
+          "end": 6.38,
+          "probability": 0.92
+        },
+        {
+          "word": "đang",
+          "start": 6.38,
+          "end": 6.6,
+          "probability": 0.77
+        },
+        {
+          "word": "được",
+          "start": 6.6,
+          "end": 6.78,
+          "probability": 0.88
+        },
+        {
+          "word": "thấy",
+          "start": 6.78,
+          "end": 7.06,
+          "probability": 0.48
+        },
+        {
+          "word": "tại",
+          "start": 7.06,
+          "end": 7.42,
+          "probability": 0.36
+        },
+        {
+          "word": "vòng",
+          "start": 7.42,
+          "end": 7.62,
+          "probability": 0.67
+        },
+        {
+          "word": "xoai",
+          "start": 7.62,
+          "end": 7.82,
+          "probability": 0.31
+        },
+        {
+          "word": "điện",
+          "start": 7.82,
+          "end": 8.02,
+          "probability": 0.56
+        },
+        {
+          "word": "biến",
+          "start": 8.02,
+          "end": 8.22,
+          "probability": 0.69
+        },
+        {
+          "word": "phủ,",
+          "start": 8.22,
+          "end": 8.4,
+          "probability": 0.73
+        },
+        {
+          "word": "thay",
+          "start": 8.48,
+          "end": 8.6,
+          "probability": 0.37
+        },
+        {
+          "word": "phố",
+          "start": 8.6,
+          "end": 8.8,
+          "probability": 0.56
+        },
+        {
+          "word": "hồ",
+          "start": 8.8,
+          "end": 9.04,
+          "probability": 0.5
+        },
+        {
+          "word": "chí",
+          "start": 9.04,
+          "end": 9.14,
+          "probability": 0.31
+        },
+        {
+          "word": "mi",
+          "start": 9.14,
+          "end": 9.5,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.94,
+      "end": 13.44,
+      "text": "Trong này thứ 8 thì đi ở bây cái phượng ál đuông mới tại vòng xoai này",
+      "words": [
+        {
+          "word": "Trong",
+          "start": 9.94,
+          "end": 10.34,
+          "probability": 0.48
+        },
+        {
+          "word": "này",
+          "start": 10.34,
+          "end": 10.6,
+          "probability": 0.7
+        },
+        {
+          "word": "thứ",
+          "start": 10.6,
+          "end": 10.74,
+          "probability": 0.64
+        },
+        {
+          "word": "8",
+          "start": 10.74,
+          "end": 10.96,
+          "probability": 0.22
+        },
+        {
+          "word": "thì",
+          "start": 10.96,
+          "end": 11.16,
+          "probability": 0.7
+        },
+        {
+          "word": "đi",
+          "start": 11.16,
+          "end": 11.24,
+          "probability": 0.48
+        },
+        {
+          "word": "ở",
+          "start": 11.24,
+          "end": 11.3,
+          "probability": 0.23
+        },
+        {
+          "word": "bây",
+          "start": 11.3,
+          "end": 11.4,
+          "probability": 0.28
+        },
+        {
+          "word": "cái",
+          "start": 11.4,
+          "end": 11.52,
+          "probability": 0.23
+        },
+        {
+          "word": "phượng",
+          "start": 11.52,
+          "end": 11.66,
+          "probability": 0.31
+        },
+        {
+          "word": "ál",
+          "start": 11.66,
+          "end": 11.94,
+          "probability": 0.68
+        },
+        {
+          "word": "đuông",
+          "start": 11.94,
+          "end": 12.1,
+          "probability": 0.17
+        },
+        {
+          "word": "mới",
+          "start": 12.1,
+          "end": 12.38,
+          "probability": 0.58
+        },
+        {
+          "word": "tại",
+          "start": 12.38,
+          "end": 12.64,
+          "probability": 0.65
+        },
+        {
+          "word": "vòng",
+          "start": 12.64,
+          "end": 12.82,
+          "probability": 0.97
+        },
+        {
+          "word": "xoai",
+          "start": 12.82,
+          "end": 13.0,
+          "probability": 0.99
+        },
+        {
+          "word": "này",
+          "start": 13.0,
+          "end": 13.44,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.44,
+      "end": 18.2,
+      "text": "Thì bởi vì cũng có thể quan sát, mọi người dường như đa quen nhịp với các kết luôn thông mới",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 13.44,
+          "end": 13.76,
+          "probability": 0.52
+        },
+        {
+          "word": "bởi",
+          "start": 13.76,
+          "end": 13.88,
+          "probability": 0.62
+        },
+        {
+          "word": "vì",
+          "start": 13.88,
+          "end": 14.0,
+          "probability": 0.98
+        },
+        {
+          "word": "cũng",
+          "start": 14.0,
+          "end": 14.14,
+          "probability": 0.65
+        },
+        {
+          "word": "có",
+          "start": 14.14,
+          "end": 14.26,
+          "probability": 0.99
+        },
+        {
+          "word": "thể",
+          "start": 14.26,
+          "end": 14.36,
+          "probability": 0.97
+        },
+        {
+          "word": "quan",
+          "start": 14.36,
+          "end": 14.54,
+          "probability": 0.68
+        },
+        {
+          "word": "sát,",
+          "start": 14.54,
+          "end": 14.74,
+          "probability": 0.56
+        },
+        {
+          "word": "mọi",
+          "start": 15.04,
+          "end": 15.26,
+          "probability": 0.7
+        },
+        {
+          "word": "người",
+          "start": 15.26,
+          "end": 15.48,
+          "probability": 1.0
+        },
+        {
+          "word": "dường",
+          "start": 15.48,
+          "end": 15.72,
+          "probability": 0.51
+        },
+        {
+          "word": "như",
+          "start": 15.72,
+          "end": 16.02,
+          "probability": 0.9
+        },
+        {
+          "word": "đa",
+          "start": 16.02,
+          "end": 16.22,
+          "probability": 0.46
+        },
+        {
+          "word": "quen",
+          "start": 16.22,
+          "end": 16.44,
+          "probability": 0.58
+        },
+        {
+          "word": "nhịp",
+          "start": 16.44,
+          "end": 16.76,
+          "probability": 0.59
+        },
+        {
+          "word": "với",
+          "start": 16.76,
+          "end": 16.96,
+          "probability": 0.38
+        },
+        {
+          "word": "các",
+          "start": 16.96,
+          "end": 17.18,
+          "probability": 0.32
+        },
+        {
+          "word": "kết",
+          "start": 17.18,
+          "end": 17.36,
+          "probability": 0.12
+        },
+        {
+          "word": "luôn",
+          "start": 17.36,
+          "end": 17.4,
+          "probability": 0.37
+        },
+        {
+          "word": "thông",
+          "start": 17.4,
+          "end": 17.68,
+          "probability": 0.85
+        },
+        {
+          "word": "mới",
+          "start": 17.68,
+          "end": 18.2,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 18.2,
+      "end": 21.82,
+      "text": "Đó là thân thu thông đang tính hiểu hai là những cái giải phân cách",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 18.2,
+          "end": 18.52,
+          "probability": 0.64
+        },
+        {
+          "word": "là",
+          "start": 18.52,
+          "end": 18.58,
+          "probability": 0.98
+        },
+        {
+          "word": "thân",
+          "start": 18.58,
+          "end": 18.74,
+          "probability": 0.34
+        },
+        {
+          "word": "thu",
+          "start": 18.74,
+          "end": 18.88,
+          "probability": 0.24
+        },
+        {
+          "word": "thông",
+          "start": 18.88,
+          "end": 18.98,
+          "probability": 0.24
+        },
+        {
+          "word": "đang",
+          "start": 18.98,
+          "end": 19.18,
+          "probability": 0.21
+        },
+        {
+          "word": "tính",
+          "start": 19.18,
+          "end": 19.34,
+          "probability": 0.29
+        },
+        {
+          "word": "hiểu",
+          "start": 19.34,
+          "end": 19.6,
+          "probability": 0.56
+        },
+        {
+          "word": "hai",
+          "start": 19.6,
+          "end": 19.98,
+          "probability": 0.27
+        },
+        {
+          "word": "là",
+          "start": 19.98,
+          "end": 20.66,
+          "probability": 0.47
+        },
+        {
+          "word": "những",
+          "start": 20.66,
+          "end": 20.74,
+          "probability": 0.69
+        },
+        {
+          "word": "cái",
+          "start": 20.74,
+          "end": 20.9,
+          "probability": 0.86
+        },
+        {
+          "word": "giải",
+          "start": 20.9,
+          "end": 21.04,
+          "probability": 0.69
+        },
+        {
+          "word": "phân",
+          "start": 21.04,
+          "end": 21.28,
+          "probability": 0.79
+        },
+        {
+          "word": "cách",
+          "start": 21.28,
+          "end": 21.82,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 21.82,
+      "end": 28.82,
+      "text": "Trong này thứ 8 này thì lúc nâng, bánh kép tục có mặt để mà hướng rất mọi người trong bây phượng ál đuông mới này",
+      "words": [
+        {
+          "word": "Trong",
+          "start": 21.82,
+          "end": 22.5,
+          "probability": 0.86
+        },
+        {
+          "word": "này",
+          "start": 22.5,
+          "end": 22.62,
+          "probability": 0.18
+        },
+        {
+          "word": "thứ",
+          "start": 22.62,
+          "end": 22.72,
+          "probability": 0.95
+        },
+        {
+          "word": "8",
+          "start": 22.72,
+          "end": 22.88,
+          "probability": 0.69
+        },
+        {
+          "word": "này",
+          "start": 22.88,
+          "end": 23.12,
+          "probability": 0.96
+        },
+        {
+          "word": "thì",
+          "start": 23.12,
+          "end": 23.36,
+          "probability": 0.97
+        },
+        {
+          "word": "lúc",
+          "start": 23.36,
+          "end": 23.6,
+          "probability": 0.51
+        },
+        {
+          "word": "nâng,",
+          "start": 23.6,
+          "end": 24.08,
+          "probability": 0.42
+        },
+        {
+          "word": "bánh",
+          "start": 24.8,
+          "end": 25.08,
+          "probability": 0.37
+        },
+        {
+          "word": "kép",
+          "start": 25.08,
+          "end": 25.28,
+          "probability": 0.3
+        },
+        {
+          "word": "tục",
+          "start": 25.28,
+          "end": 25.64,
+          "probability": 0.72
+        },
+        {
+          "word": "có",
+          "start": 25.64,
+          "end": 25.94,
+          "probability": 0.82
+        },
+        {
+          "word": "mặt",
+          "start": 25.94,
+          "end": 26.2,
+          "probability": 0.81
+        },
+        {
+          "word": "để",
+          "start": 26.2,
+          "end": 26.38,
+          "probability": 0.3
+        },
+        {
+          "word": "mà",
+          "start": 26.38,
+          "end": 26.48,
+          "probability": 0.51
+        },
+        {
+          "word": "hướng",
+          "start": 26.48,
+          "end": 26.66,
+          "probability": 0.87
+        },
+        {
+          "word": "rất",
+          "start": 26.66,
+          "end": 26.84,
+          "probability": 0.51
+        },
+        {
+          "word": "mọi",
+          "start": 26.84,
+          "end": 27.08,
+          "probability": 0.84
+        },
+        {
+          "word": "người",
+          "start": 27.08,
+          "end": 27.24,
+          "probability": 1.0
+        },
+        {
+          "word": "trong",
+          "start": 27.24,
+          "end": 27.36,
+          "probability": 0.74
+        },
+        {
+          "word": "bây",
+          "start": 27.36,
+          "end": 27.6,
+          "probability": 0.45
+        },
+        {
+          "word": "phượng",
+          "start": 27.6,
+          "end": 27.6,
+          "probability": 0.72
+        },
+        {
+          "word": "ál",
+          "start": 27.6,
+          "end": 27.88,
+          "probability": 1.0
+        },
+        {
+          "word": "đuông",
+          "start": 27.88,
+          "end": 27.88,
+          "probability": 0.98
+        },
+        {
+          "word": "mới",
+          "start": 27.88,
+          "end": 28.14,
+          "probability": 0.98
+        },
+        {
+          "word": "này",
+          "start": 28.14,
+          "end": 28.82,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 28.82,
+      "end": 29.98,
+      "text": "và hôm nay thứ lần này đông",
+      "words": [
+        {
+          "word": "và",
+          "start": 28.82,
+          "end": 28.98,
+          "probability": 0.14
+        },
+        {
+          "word": "hôm",
+          "start": 28.98,
+          "end": 29.22,
+          "probability": 0.82
+        },
+        {
+          "word": "nay",
+          "start": 29.22,
+          "end": 29.42,
+          "probability": 0.99
+        },
+        {
+          "word": "thứ",
+          "start": 29.42,
+          "end": 29.58,
+          "probability": 0.0
+        },
+        {
+          "word": "lần",
+          "start": 29.58,
+          "end": 29.7,
+          "probability": 0.34
+        },
+        {
+          "word": "này",
+          "start": 29.7,
+          "end": 29.8,
+          "probability": 0.21
+        },
+        {
+          "word": "đông",
+          "start": 29.8,
+          "end": 29.98,
+          "probability": 0.32
+        }
+      ]
+    }
+  ]
+}

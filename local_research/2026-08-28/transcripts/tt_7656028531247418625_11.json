@@ -1,0 +1,110 @@
+{
+  "item_id": "tt_7656028531247418625_11",
+  "duration_seconds": 24.21,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 14,
+  "text": "Bây giờ, anh sẽ giúp bỏ lắm. Bây giờ, anh sẽ giúp bỏ lắm.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.42,
+      "end": 5.38,
+      "text": "Bây giờ, anh sẽ giúp bỏ lắm.",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 2.42,
+          "end": 3.06,
+          "probability": 0.12
+        },
+        {
+          "word": "giờ,",
+          "start": 3.06,
+          "end": 3.5,
+          "probability": 0.82
+        },
+        {
+          "word": "anh",
+          "start": 3.5,
+          "end": 3.94,
+          "probability": 0.03
+        },
+        {
+          "word": "sẽ",
+          "start": 3.94,
+          "end": 5.06,
+          "probability": 0.1
+        },
+        {
+          "word": "giúp",
+          "start": 5.06,
+          "end": 5.06,
+          "probability": 0.07
+        },
+        {
+          "word": "bỏ",
+          "start": 5.06,
+          "end": 5.38,
+          "probability": 0.07
+        },
+        {
+          "word": "lắm.",
+          "start": 5.38,
+          "end": 5.38,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.38,
+      "end": 7.06,
+      "text": "Bây giờ, anh sẽ giúp bỏ lắm.",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 5.38,
+          "end": 5.78,
+          "probability": 0.23
+        },
+        {
+          "word": "giờ,",
+          "start": 5.78,
+          "end": 5.78,
+          "probability": 1.0
+        },
+        {
+          "word": "anh",
+          "start": 5.78,
+          "end": 5.78,
+          "probability": 0.81
+        },
+        {
+          "word": "sẽ",
+          "start": 5.78,
+          "end": 6.66,
+          "probability": 0.92
+        },
+        {
+          "word": "giúp",
+          "start": 6.66,
+          "end": 6.66,
+          "probability": 0.97
+        },
+        {
+          "word": "bỏ",
+          "start": 6.66,
+          "end": 7.06,
+          "probability": 0.97
+        },
+        {
+          "word": "lắm.",
+          "start": 7.06,
+          "end": 7.06,
+          "probability": 0.96
+        }
+      ]
+    }
+  ]
+}

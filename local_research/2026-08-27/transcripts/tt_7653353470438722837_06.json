@@ -1,0 +1,338 @@
+{
+  "item_id": "tt_7653353470438722837_06",
+  "duration_seconds": 27.06,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 36,
+  "text": "Một chút rồi, hết, rồi, rồi. Bị tr�� chút đâu. Bị trùng, rồi. Một chút. Một chút rồi. Bị trùng. Chút. Bị trùng. Bị trùng. Bị trùng. Bị trùng. Bị trùng. Bị trùng. Cái gì vậy?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.24,
+      "text": "Một chút rồi, hết, rồi, rồi.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.09
+        },
+        {
+          "word": "chút",
+          "start": 0.36,
+          "end": 0.58,
+          "probability": 0.18
+        },
+        {
+          "word": "rồi,",
+          "start": 0.58,
+          "end": 0.88,
+          "probability": 0.0
+        },
+        {
+          "word": "hết,",
+          "start": 1.24,
+          "end": 1.24,
+          "probability": 0.0
+        },
+        {
+          "word": "rồi,",
+          "start": 2.14,
+          "end": 2.14,
+          "probability": 0.02
+        },
+        {
+          "word": "rồi.",
+          "start": 2.24,
+          "end": 2.24,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.42,
+      "end": 4.66,
+      "text": "Bị tr�� chút đâu.",
+      "words": [
+        {
+          "word": "Bị",
+          "start": 3.42,
+          "end": 4.14,
+          "probability": 0.03
+        },
+        {
+          "word": "tr��",
+          "start": 4.14,
+          "end": 4.14,
+          "probability": 0.02
+        },
+        {
+          "word": "chút",
+          "start": 4.14,
+          "end": 4.14,
+          "probability": 0.33
+        },
+        {
+          "word": "đâu.",
+          "start": 4.14,
+          "end": 4.66,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.7,
+      "end": 5.98,
+      "text": "Bị trùng, rồi.",
+      "words": [
+        {
+          "word": "Bị",
+          "start": 5.7,
+          "end": 5.94,
+          "probability": 0.39
+        },
+        {
+          "word": "trùng,",
+          "start": 5.94,
+          "end": 5.98,
+          "probability": 0.48
+        },
+        {
+          "word": "rồi.",
+          "start": 5.98,
+          "end": 5.98,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.98,
+      "end": 6.3,
+      "text": "Một chút.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 5.98,
+          "end": 5.98,
+          "probability": 0.41
+        },
+        {
+          "word": "chút.",
+          "start": 5.98,
+          "end": 6.3,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 6.3,
+      "end": 6.68,
+      "text": "Một chút rồi.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 6.3,
+          "end": 6.3,
+          "probability": 0.55
+        },
+        {
+          "word": "chút",
+          "start": 6.3,
+          "end": 6.38,
+          "probability": 0.93
+        },
+        {
+          "word": "rồi.",
+          "start": 6.38,
+          "end": 6.68,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 6.9,
+      "end": 7.06,
+      "text": "Bị trùng.",
+      "words": [
+        {
+          "word": "Bị",
+          "start": 6.9,
+          "end": 7.06,
+          "probability": 0.48
+        },
+        {
+          "word": "trùng.",
+          "start": 7.06,
+          "end": 7.06,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 9.22,
+      "end": 9.94,
+      "text": "Chút.",
+      "words": [
+        {
+          "word": "Chút.",
+          "start": 9.22,
+          "end": 9.94,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 10.4,
+      "end": 11.16,
+      "text": "Bị trùng.",
+      "words": [
+        {
+          "word": "Bị",
+          "start": 10.4,
+          "end": 10.4,
+          "probability": 0.6
+        },
+        {
+          "word": "trùng.",
+          "start": 10.4,
+          "end": 11.16,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 11.48,
+      "end": 12.38,
+      "text": "Bị trùng.",
+      "words": [
+        {
+          "word": "Bị",
+          "start": 11.48,
+          "end": 12.2,
+          "probability": 0.66
+        },
+        {
+          "word": "trùng.",
+          "start": 12.2,
+          "end": 12.38,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 12.98,
+      "end": 13.68,
+      "text": "Bị trùng.",
+      "words": [
+        {
+          "word": "Bị",
+          "start": 12.98,
+          "end": 13.42,
+          "probability": 0.71
+        },
+        {
+          "word": "trùng.",
+          "start": 13.42,
+          "end": 13.68,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 14.0,
+      "end": 14.46,
+      "text": "Bị trùng.",
+      "words": [
+        {
+          "word": "Bị",
+          "start": 14.0,
+          "end": 14.1,
+          "probability": 0.74
+        },
+        {
+          "word": "trùng.",
+          "start": 14.1,
+          "end": 14.46,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 15.24,
+      "end": 16.1,
+      "text": "Bị trùng.",
+      "words": [
+        {
+          "word": "Bị",
+          "start": 15.24,
+          "end": 15.96,
+          "probability": 0.75
+        },
+        {
+          "word": "trùng.",
+          "start": 15.96,
+          "end": 16.1,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 19.04,
+      "end": 19.96,
+      "text": "Bị trùng.",
+      "words": [
+        {
+          "word": "Bị",
+          "start": 19.04,
+          "end": 19.76,
+          "probability": 0.77
+        },
+        {
+          "word": "trùng.",
+          "start": 19.76,
+          "end": 19.96,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 26.7,
+      "end": 27.02,
+      "text": "Cái gì vậy?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 26.7,
+          "end": 26.7,
+          "probability": 0.06
+        },
+        {
+          "word": "gì",
+          "start": 26.7,
+          "end": 26.8,
+          "probability": 0.23
+        },
+        {
+          "word": "vậy?",
+          "start": 26.8,
+          "end": 27.02,
+          "probability": 0.11
+        }
+      ]
+    }
+  ]
+}

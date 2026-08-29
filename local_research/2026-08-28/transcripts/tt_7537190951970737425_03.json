@@ -1,0 +1,146 @@
+{
+  "item_id": "tt_7537190951970737425_03",
+  "duration_seconds": 15.08,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 20,
+  "text": "Bây giờ, tôi đã đại giới đại giới bây giờ nha. Bây giờ thì chẳng nó thích chẳng nó cửa.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.88,
+      "text": "Bây giờ, tôi đã đại giới đại giới bây giờ nha.",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 0.02,
+          "end": 0.62,
+          "probability": 0.28
+        },
+        {
+          "word": "giờ,",
+          "start": 0.62,
+          "end": 0.62,
+          "probability": 0.78
+        },
+        {
+          "word": "tôi",
+          "start": 0.62,
+          "end": 0.62,
+          "probability": 0.08
+        },
+        {
+          "word": "đã",
+          "start": 0.62,
+          "end": 0.7,
+          "probability": 0.35
+        },
+        {
+          "word": "đại",
+          "start": 0.7,
+          "end": 0.86,
+          "probability": 0.1
+        },
+        {
+          "word": "giới",
+          "start": 0.86,
+          "end": 1.04,
+          "probability": 0.11
+        },
+        {
+          "word": "đại",
+          "start": 1.04,
+          "end": 1.24,
+          "probability": 0.18
+        },
+        {
+          "word": "giới",
+          "start": 1.24,
+          "end": 1.24,
+          "probability": 0.67
+        },
+        {
+          "word": "bây",
+          "start": 1.24,
+          "end": 1.24,
+          "probability": 0.43
+        },
+        {
+          "word": "giờ",
+          "start": 1.24,
+          "end": 1.52,
+          "probability": 0.77
+        },
+        {
+          "word": "nha.",
+          "start": 1.52,
+          "end": 1.88,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.08,
+      "end": 3.38,
+      "text": "Bây giờ thì chẳng nó thích chẳng nó cửa.",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 2.08,
+          "end": 2.24,
+          "probability": 0.25
+        },
+        {
+          "word": "giờ",
+          "start": 2.24,
+          "end": 2.32,
+          "probability": 1.0
+        },
+        {
+          "word": "thì",
+          "start": 2.32,
+          "end": 2.48,
+          "probability": 0.24
+        },
+        {
+          "word": "chẳng",
+          "start": 2.48,
+          "end": 2.68,
+          "probability": 0.54
+        },
+        {
+          "word": "nó",
+          "start": 2.68,
+          "end": 2.92,
+          "probability": 0.03
+        },
+        {
+          "word": "thích",
+          "start": 2.92,
+          "end": 2.92,
+          "probability": 0.16
+        },
+        {
+          "word": "chẳng",
+          "start": 2.92,
+          "end": 2.92,
+          "probability": 0.65
+        },
+        {
+          "word": "nó",
+          "start": 2.92,
+          "end": 3.0,
+          "probability": 0.66
+        },
+        {
+          "word": "cửa.",
+          "start": 3.0,
+          "end": 3.38,
+          "probability": 0.54
+        }
+      ]
+    }
+  ]
+}

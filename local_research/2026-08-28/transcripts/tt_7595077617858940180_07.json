@@ -1,0 +1,722 @@
+{
+  "item_id": "tt_7595077617858940180_07",
+  "duration_seconds": 28.25,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 96,
+  "text": "Cọc ý trên mục bằng mục, tôi đã ý cộ ý bằng mục. Em ơi, các bạn có ý, chỉ mục bằng khóc. Đời chào. Nhà. Vào đến mục có tổ ý ki đi. Mình cứ vọt mục tổ ý ki nhá kế mục. Lâu rồi, kì đến ý thì đường nhé, hoàn nổ đầy. Một sẽ đợi mục phần ai. Điểm này đợi mục. Tụi mục. Tụi mục phần ai. Tụi mục phần ai. Một phần ai. Cái ở tiền mà thêm 1 các bạn tập trung bà. Độ đầy mục. OK. Độ đầy mục.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 2.44,
+      "text": "Cọc ý trên mục bằng mục, tôi đã ý cộ ý bằng mục.",
+      "words": [
+        {
+          "word": "Cọc",
+          "start": 0.08,
+          "end": 0.54,
+          "probability": 0.28
+        },
+        {
+          "word": "ý",
+          "start": 0.54,
+          "end": 0.68,
+          "probability": 0.26
+        },
+        {
+          "word": "trên",
+          "start": 0.68,
+          "end": 0.82,
+          "probability": 0.89
+        },
+        {
+          "word": "mục",
+          "start": 0.82,
+          "end": 1.06,
+          "probability": 0.34
+        },
+        {
+          "word": "bằng",
+          "start": 1.06,
+          "end": 1.42,
+          "probability": 0.54
+        },
+        {
+          "word": "mục,",
+          "start": 1.42,
+          "end": 1.62,
+          "probability": 0.7
+        },
+        {
+          "word": "tôi",
+          "start": 1.7,
+          "end": 1.78,
+          "probability": 0.39
+        },
+        {
+          "word": "đã",
+          "start": 1.78,
+          "end": 1.86,
+          "probability": 0.74
+        },
+        {
+          "word": "ý",
+          "start": 1.86,
+          "end": 1.98,
+          "probability": 0.25
+        },
+        {
+          "word": "cộ",
+          "start": 1.98,
+          "end": 2.08,
+          "probability": 0.23
+        },
+        {
+          "word": "ý",
+          "start": 2.08,
+          "end": 2.12,
+          "probability": 0.21
+        },
+        {
+          "word": "bằng",
+          "start": 2.12,
+          "end": 2.3,
+          "probability": 0.67
+        },
+        {
+          "word": "mục.",
+          "start": 2.3,
+          "end": 2.44,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.58,
+      "end": 4.2,
+      "text": "Em ơi, các bạn có ý, chỉ mục bằng khóc.",
+      "words": [
+        {
+          "word": "Em",
+          "start": 2.58,
+          "end": 2.7,
+          "probability": 0.12
+        },
+        {
+          "word": "ơi,",
+          "start": 2.7,
+          "end": 2.76,
+          "probability": 0.15
+        },
+        {
+          "word": "các",
+          "start": 2.76,
+          "end": 2.9,
+          "probability": 0.24
+        },
+        {
+          "word": "bạn",
+          "start": 2.9,
+          "end": 3.0,
+          "probability": 0.71
+        },
+        {
+          "word": "có",
+          "start": 3.0,
+          "end": 3.14,
+          "probability": 0.41
+        },
+        {
+          "word": "ý,",
+          "start": 3.14,
+          "end": 3.44,
+          "probability": 0.82
+        },
+        {
+          "word": "chỉ",
+          "start": 3.8,
+          "end": 3.8,
+          "probability": 0.12
+        },
+        {
+          "word": "mục",
+          "start": 3.8,
+          "end": 3.9,
+          "probability": 0.58
+        },
+        {
+          "word": "bằng",
+          "start": 3.9,
+          "end": 4.02,
+          "probability": 0.7
+        },
+        {
+          "word": "khóc.",
+          "start": 4.02,
+          "end": 4.2,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.52,
+      "end": 5.76,
+      "text": "Đời chào.",
+      "words": [
+        {
+          "word": "Đời",
+          "start": 5.52,
+          "end": 5.66,
+          "probability": 0.17
+        },
+        {
+          "word": "chào.",
+          "start": 5.66,
+          "end": 5.76,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.32,
+      "end": 6.44,
+      "text": "Nhà.",
+      "words": [
+        {
+          "word": "Nhà.",
+          "start": 6.32,
+          "end": 6.44,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.0,
+      "end": 8.14,
+      "text": "Vào đến mục có tổ ý ki đi.",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 7.0,
+          "end": 7.12,
+          "probability": 0.21
+        },
+        {
+          "word": "đến",
+          "start": 7.12,
+          "end": 7.26,
+          "probability": 0.22
+        },
+        {
+          "word": "mục",
+          "start": 7.26,
+          "end": 7.48,
+          "probability": 0.53
+        },
+        {
+          "word": "có",
+          "start": 7.48,
+          "end": 7.62,
+          "probability": 0.35
+        },
+        {
+          "word": "tổ",
+          "start": 7.62,
+          "end": 7.68,
+          "probability": 0.12
+        },
+        {
+          "word": "ý",
+          "start": 7.68,
+          "end": 7.86,
+          "probability": 0.28
+        },
+        {
+          "word": "ki",
+          "start": 7.86,
+          "end": 8.1,
+          "probability": 0.44
+        },
+        {
+          "word": "đi.",
+          "start": 8.1,
+          "end": 8.14,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.38,
+      "end": 10.16,
+      "text": "Mình cứ vọt mục tổ ý ki nhá kế mục.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 8.38,
+          "end": 8.44,
+          "probability": 0.79
+        },
+        {
+          "word": "cứ",
+          "start": 8.44,
+          "end": 8.54,
+          "probability": 0.41
+        },
+        {
+          "word": "vọt",
+          "start": 8.54,
+          "end": 8.66,
+          "probability": 0.37
+        },
+        {
+          "word": "mục",
+          "start": 8.66,
+          "end": 8.88,
+          "probability": 0.79
+        },
+        {
+          "word": "tổ",
+          "start": 8.88,
+          "end": 9.02,
+          "probability": 0.81
+        },
+        {
+          "word": "ý",
+          "start": 9.02,
+          "end": 9.16,
+          "probability": 0.96
+        },
+        {
+          "word": "ki",
+          "start": 9.16,
+          "end": 9.28,
+          "probability": 0.28
+        },
+        {
+          "word": "nhá",
+          "start": 9.28,
+          "end": 9.32,
+          "probability": 0.26
+        },
+        {
+          "word": "kế",
+          "start": 9.32,
+          "end": 9.5,
+          "probability": 0.31
+        },
+        {
+          "word": "mục.",
+          "start": 9.5,
+          "end": 10.16,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 10.32,
+      "end": 12.72,
+      "text": "Lâu rồi, kì đến ý thì đường nhé, hoàn nổ đầy.",
+      "words": [
+        {
+          "word": "Lâu",
+          "start": 10.32,
+          "end": 10.48,
+          "probability": 0.14
+        },
+        {
+          "word": "rồi,",
+          "start": 10.48,
+          "end": 10.7,
+          "probability": 0.3
+        },
+        {
+          "word": "kì",
+          "start": 10.72,
+          "end": 10.78,
+          "probability": 0.18
+        },
+        {
+          "word": "đến",
+          "start": 10.78,
+          "end": 10.86,
+          "probability": 0.34
+        },
+        {
+          "word": "ý",
+          "start": 10.86,
+          "end": 11.16,
+          "probability": 0.06
+        },
+        {
+          "word": "thì",
+          "start": 11.16,
+          "end": 11.34,
+          "probability": 0.45
+        },
+        {
+          "word": "đường",
+          "start": 11.34,
+          "end": 11.46,
+          "probability": 0.57
+        },
+        {
+          "word": "nhé,",
+          "start": 11.46,
+          "end": 11.76,
+          "probability": 0.51
+        },
+        {
+          "word": "hoàn",
+          "start": 12.02,
+          "end": 12.02,
+          "probability": 0.25
+        },
+        {
+          "word": "nổ",
+          "start": 12.02,
+          "end": 12.08,
+          "probability": 0.19
+        },
+        {
+          "word": "đầy.",
+          "start": 12.08,
+          "end": 12.72,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.06,
+      "end": 13.66,
+      "text": "Một sẽ đợi mục phần ai.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 13.06,
+          "end": 13.06,
+          "probability": 0.44
+        },
+        {
+          "word": "sẽ",
+          "start": 13.06,
+          "end": 13.16,
+          "probability": 0.33
+        },
+        {
+          "word": "đợi",
+          "start": 13.16,
+          "end": 13.18,
+          "probability": 0.48
+        },
+        {
+          "word": "mục",
+          "start": 13.18,
+          "end": 13.34,
+          "probability": 0.59
+        },
+        {
+          "word": "phần",
+          "start": 13.34,
+          "end": 13.48,
+          "probability": 0.46
+        },
+        {
+          "word": "ai.",
+          "start": 13.48,
+          "end": 13.66,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 13.94,
+      "end": 14.88,
+      "text": "Điểm này đợi mục.",
+      "words": [
+        {
+          "word": "Điểm",
+          "start": 13.94,
+          "end": 13.96,
+          "probability": 0.25
+        },
+        {
+          "word": "này",
+          "start": 13.96,
+          "end": 13.96,
+          "probability": 0.12
+        },
+        {
+          "word": "đợi",
+          "start": 13.96,
+          "end": 14.14,
+          "probability": 0.59
+        },
+        {
+          "word": "mục.",
+          "start": 14.14,
+          "end": 14.88,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 15.7,
+      "end": 16.0,
+      "text": "Tụi mục.",
+      "words": [
+        {
+          "word": "Tụi",
+          "start": 15.7,
+          "end": 16.0,
+          "probability": 0.51
+        },
+        {
+          "word": "mục.",
+          "start": 16.0,
+          "end": 16.0,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 16.0,
+      "end": 17.2,
+      "text": "Tụi mục phần ai.",
+      "words": [
+        {
+          "word": "Tụi",
+          "start": 16.0,
+          "end": 16.22,
+          "probability": 0.79
+        },
+        {
+          "word": "mục",
+          "start": 16.22,
+          "end": 16.46,
+          "probability": 0.92
+        },
+        {
+          "word": "phần",
+          "start": 16.46,
+          "end": 17.2,
+          "probability": 0.64
+        },
+        {
+          "word": "ai.",
+          "start": 17.2,
+          "end": 17.2,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 17.6,
+      "end": 18.18,
+      "text": "Tụi mục phần ai.",
+      "words": [
+        {
+          "word": "Tụi",
+          "start": 17.6,
+          "end": 17.68,
+          "probability": 0.6
+        },
+        {
+          "word": "mục",
+          "start": 17.68,
+          "end": 17.86,
+          "probability": 0.96
+        },
+        {
+          "word": "phần",
+          "start": 17.86,
+          "end": 18.18,
+          "probability": 0.73
+        },
+        {
+          "word": "ai.",
+          "start": 18.18,
+          "end": 18.18,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 18.18,
+      "end": 20.5,
+      "text": "Một phần ai.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 18.18,
+          "end": 18.18,
+          "probability": 0.23
+        },
+        {
+          "word": "phần",
+          "start": 18.18,
+          "end": 18.58,
+          "probability": 0.78
+        },
+        {
+          "word": "ai.",
+          "start": 18.58,
+          "end": 20.5,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 21.12,
+      "end": 22.76,
+      "text": "Cái ở tiền mà thêm 1 các bạn tập trung bà.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 21.12,
+          "end": 21.42,
+          "probability": 0.55
+        },
+        {
+          "word": "ở",
+          "start": 21.42,
+          "end": 21.56,
+          "probability": 0.04
+        },
+        {
+          "word": "tiền",
+          "start": 21.56,
+          "end": 21.66,
+          "probability": 0.39
+        },
+        {
+          "word": "mà",
+          "start": 21.66,
+          "end": 21.76,
+          "probability": 0.62
+        },
+        {
+          "word": "thêm",
+          "start": 21.76,
+          "end": 21.9,
+          "probability": 0.46
+        },
+        {
+          "word": "1",
+          "start": 21.9,
+          "end": 21.98,
+          "probability": 0.49
+        },
+        {
+          "word": "các",
+          "start": 21.98,
+          "end": 22.28,
+          "probability": 0.13
+        },
+        {
+          "word": "bạn",
+          "start": 22.28,
+          "end": 22.28,
+          "probability": 0.19
+        },
+        {
+          "word": "tập",
+          "start": 22.28,
+          "end": 22.4,
+          "probability": 0.3
+        },
+        {
+          "word": "trung",
+          "start": 22.4,
+          "end": 22.52,
+          "probability": 0.45
+        },
+        {
+          "word": "bà.",
+          "start": 22.52,
+          "end": 22.76,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 22.94,
+      "end": 23.72,
+      "text": "Độ đầy mục.",
+      "words": [
+        {
+          "word": "Độ",
+          "start": 22.94,
+          "end": 22.94,
+          "probability": 0.39
+        },
+        {
+          "word": "đầy",
+          "start": 22.94,
+          "end": 23.06,
+          "probability": 0.47
+        },
+        {
+          "word": "mục.",
+          "start": 23.06,
+          "end": 23.72,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 23.84,
+      "end": 24.14,
+      "text": "OK.",
+      "words": [
+        {
+          "word": "OK.",
+          "start": 23.84,
+          "end": 24.14,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 24.7,
+      "end": 25.16,
+      "text": "Độ đầy mục.",
+      "words": [
+        {
+          "word": "Độ",
+          "start": 24.7,
+          "end": 24.74,
+          "probability": 0.61
+        },
+        {
+          "word": "đầy",
+          "start": 24.74,
+          "end": 24.9,
+          "probability": 0.82
+        },
+        {
+          "word": "mục.",
+          "start": 24.9,
+          "end": 25.16,
+          "probability": 0.59
+        }
+      ]
+    }
+  ]
+}

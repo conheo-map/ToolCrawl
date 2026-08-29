@@ -1,0 +1,562 @@
+{
+  "item_id": "tt_7590626158295797012_23",
+  "duration_seconds": 29.96,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 76,
+  "text": "Tôi đã nghĩa mà sạch dưới mất kém có thứ ra. Thôi xanh của anh yêu. Mình hai cho tình thàn, anh mới, càng bật hai của. Lời chó. Yết đây, mọi người đã để mất kém có thứ ra. Cái anh làm thì cũng này rồi. Đoàn. Cảm ốc thì chỉ sợ luôn. Cảm ốc này không? Cảm ốc không? Nằm phải nói là không thì sai được. Dạm nhiều khi một sai, không khó.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.58,
+      "text": "Tôi đã nghĩa mà sạch dưới mất kém có thứ ra.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.11
+        },
+        {
+          "word": "đã",
+          "start": 0.32,
+          "end": 0.36,
+          "probability": 0.33
+        },
+        {
+          "word": "nghĩa",
+          "start": 0.36,
+          "end": 0.52,
+          "probability": 0.32
+        },
+        {
+          "word": "mà",
+          "start": 0.52,
+          "end": 0.56,
+          "probability": 0.15
+        },
+        {
+          "word": "sạch",
+          "start": 0.56,
+          "end": 0.66,
+          "probability": 0.37
+        },
+        {
+          "word": "dưới",
+          "start": 0.66,
+          "end": 0.8,
+          "probability": 0.39
+        },
+        {
+          "word": "mất",
+          "start": 0.8,
+          "end": 0.84,
+          "probability": 0.24
+        },
+        {
+          "word": "kém",
+          "start": 0.84,
+          "end": 1.02,
+          "probability": 0.49
+        },
+        {
+          "word": "có",
+          "start": 1.02,
+          "end": 1.26,
+          "probability": 0.41
+        },
+        {
+          "word": "thứ",
+          "start": 1.26,
+          "end": 1.38,
+          "probability": 0.16
+        },
+        {
+          "word": "ra.",
+          "start": 1.38,
+          "end": 1.58,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.22,
+      "end": 3.22,
+      "text": "Thôi xanh của anh yêu.",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 2.22,
+          "end": 2.46,
+          "probability": 0.18
+        },
+        {
+          "word": "xanh",
+          "start": 2.46,
+          "end": 2.64,
+          "probability": 0.22
+        },
+        {
+          "word": "của",
+          "start": 2.64,
+          "end": 2.74,
+          "probability": 0.76
+        },
+        {
+          "word": "anh",
+          "start": 2.74,
+          "end": 2.88,
+          "probability": 0.12
+        },
+        {
+          "word": "yêu.",
+          "start": 2.88,
+          "end": 3.22,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.54,
+      "end": 5.24,
+      "text": "Mình hai cho tình thàn, anh mới, càng bật hai của.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 3.54,
+          "end": 3.54,
+          "probability": 0.47
+        },
+        {
+          "word": "hai",
+          "start": 3.54,
+          "end": 3.72,
+          "probability": 0.58
+        },
+        {
+          "word": "cho",
+          "start": 3.72,
+          "end": 3.76,
+          "probability": 0.49
+        },
+        {
+          "word": "tình",
+          "start": 3.76,
+          "end": 3.94,
+          "probability": 0.15
+        },
+        {
+          "word": "thàn,",
+          "start": 3.94,
+          "end": 4.08,
+          "probability": 0.27
+        },
+        {
+          "word": "anh",
+          "start": 4.14,
+          "end": 4.28,
+          "probability": 0.11
+        },
+        {
+          "word": "mới,",
+          "start": 4.28,
+          "end": 4.52,
+          "probability": 0.35
+        },
+        {
+          "word": "càng",
+          "start": 4.66,
+          "end": 4.78,
+          "probability": 0.14
+        },
+        {
+          "word": "bật",
+          "start": 4.78,
+          "end": 4.86,
+          "probability": 0.32
+        },
+        {
+          "word": "hai",
+          "start": 4.86,
+          "end": 5.08,
+          "probability": 0.81
+        },
+        {
+          "word": "của.",
+          "start": 5.08,
+          "end": 5.24,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.44,
+      "end": 9.86,
+      "text": "Lời chó.",
+      "words": [
+        {
+          "word": "Lời",
+          "start": 9.44,
+          "end": 9.76,
+          "probability": 0.21
+        },
+        {
+          "word": "chó.",
+          "start": 9.76,
+          "end": 9.86,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.08,
+      "end": 12.22,
+      "text": "Yết đây, mọi người đã để mất kém có thứ ra.",
+      "words": [
+        {
+          "word": "Yết",
+          "start": 11.08,
+          "end": 11.26,
+          "probability": 0.23
+        },
+        {
+          "word": "đây,",
+          "start": 11.26,
+          "end": 11.3,
+          "probability": 0.22
+        },
+        {
+          "word": "mọi",
+          "start": 11.34,
+          "end": 11.44,
+          "probability": 0.41
+        },
+        {
+          "word": "người",
+          "start": 11.44,
+          "end": 11.46,
+          "probability": 0.75
+        },
+        {
+          "word": "đã",
+          "start": 11.46,
+          "end": 11.6,
+          "probability": 0.23
+        },
+        {
+          "word": "để",
+          "start": 11.6,
+          "end": 11.64,
+          "probability": 0.19
+        },
+        {
+          "word": "mất",
+          "start": 11.64,
+          "end": 11.82,
+          "probability": 0.41
+        },
+        {
+          "word": "kém",
+          "start": 11.82,
+          "end": 11.86,
+          "probability": 0.91
+        },
+        {
+          "word": "có",
+          "start": 11.86,
+          "end": 12.02,
+          "probability": 0.26
+        },
+        {
+          "word": "thứ",
+          "start": 12.02,
+          "end": 12.08,
+          "probability": 0.95
+        },
+        {
+          "word": "ra.",
+          "start": 12.08,
+          "end": 12.22,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 12.88,
+      "end": 14.18,
+      "text": "Cái anh làm thì cũng này rồi.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 12.88,
+          "end": 13.16,
+          "probability": 0.34
+        },
+        {
+          "word": "anh",
+          "start": 13.16,
+          "end": 13.24,
+          "probability": 0.33
+        },
+        {
+          "word": "làm",
+          "start": 13.24,
+          "end": 13.32,
+          "probability": 0.45
+        },
+        {
+          "word": "thì",
+          "start": 13.32,
+          "end": 13.42,
+          "probability": 0.13
+        },
+        {
+          "word": "cũng",
+          "start": 13.42,
+          "end": 13.54,
+          "probability": 0.28
+        },
+        {
+          "word": "này",
+          "start": 13.54,
+          "end": 13.66,
+          "probability": 0.26
+        },
+        {
+          "word": "rồi.",
+          "start": 13.66,
+          "end": 14.18,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 16.25,
+      "end": 16.57,
+      "text": "Đoàn.",
+      "words": [
+        {
+          "word": "Đoàn.",
+          "start": 16.25,
+          "end": 16.57,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 19.21,
+      "end": 20.41,
+      "text": "Cảm ốc thì chỉ sợ luôn.",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 19.21,
+          "end": 19.53,
+          "probability": 0.6
+        },
+        {
+          "word": "ốc",
+          "start": 19.53,
+          "end": 19.53,
+          "probability": 0.29
+        },
+        {
+          "word": "thì",
+          "start": 19.53,
+          "end": 19.65,
+          "probability": 0.21
+        },
+        {
+          "word": "chỉ",
+          "start": 19.65,
+          "end": 19.77,
+          "probability": 0.84
+        },
+        {
+          "word": "sợ",
+          "start": 19.77,
+          "end": 19.89,
+          "probability": 0.22
+        },
+        {
+          "word": "luôn.",
+          "start": 19.89,
+          "end": 20.41,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 21.81,
+      "end": 22.65,
+      "text": "Cảm ốc này không?",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 21.81,
+          "end": 21.97,
+          "probability": 0.62
+        },
+        {
+          "word": "ốc",
+          "start": 21.97,
+          "end": 21.97,
+          "probability": 0.99
+        },
+        {
+          "word": "này",
+          "start": 21.97,
+          "end": 21.97,
+          "probability": 0.0
+        },
+        {
+          "word": "không?",
+          "start": 21.97,
+          "end": 22.65,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 22.89,
+      "end": 23.45,
+      "text": "Cảm ốc không?",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 22.89,
+          "end": 23.21,
+          "probability": 0.59
+        },
+        {
+          "word": "ốc",
+          "start": 23.21,
+          "end": 23.21,
+          "probability": 0.99
+        },
+        {
+          "word": "không?",
+          "start": 23.21,
+          "end": 23.45,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 25.31,
+      "end": 27.13,
+      "text": "Nằm phải nói là không thì sai được.",
+      "words": [
+        {
+          "word": "Nằm",
+          "start": 25.31,
+          "end": 25.63,
+          "probability": 0.35
+        },
+        {
+          "word": "phải",
+          "start": 25.63,
+          "end": 25.83,
+          "probability": 0.54
+        },
+        {
+          "word": "nói",
+          "start": 25.83,
+          "end": 25.97,
+          "probability": 0.7
+        },
+        {
+          "word": "là",
+          "start": 25.97,
+          "end": 26.05,
+          "probability": 0.62
+        },
+        {
+          "word": "không",
+          "start": 26.05,
+          "end": 26.25,
+          "probability": 0.8
+        },
+        {
+          "word": "thì",
+          "start": 26.25,
+          "end": 26.39,
+          "probability": 0.61
+        },
+        {
+          "word": "sai",
+          "start": 26.39,
+          "end": 26.59,
+          "probability": 0.51
+        },
+        {
+          "word": "được.",
+          "start": 26.59,
+          "end": 27.13,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 27.75,
+      "end": 28.63,
+      "text": "Dạm nhiều khi một sai, không khó.",
+      "words": [
+        {
+          "word": "Dạm",
+          "start": 27.75,
+          "end": 27.75,
+          "probability": 0.25
+        },
+        {
+          "word": "nhiều",
+          "start": 27.75,
+          "end": 27.85,
+          "probability": 0.38
+        },
+        {
+          "word": "khi",
+          "start": 27.85,
+          "end": 28.01,
+          "probability": 0.9
+        },
+        {
+          "word": "một",
+          "start": 28.01,
+          "end": 28.13,
+          "probability": 0.28
+        },
+        {
+          "word": "sai,",
+          "start": 28.13,
+          "end": 28.29,
+          "probability": 0.96
+        },
+        {
+          "word": "không",
+          "start": 28.39,
+          "end": 28.47,
+          "probability": 0.07
+        },
+        {
+          "word": "khó.",
+          "start": 28.47,
+          "end": 28.63,
+          "probability": 0.62
+        }
+      ]
+    }
+  ]
+}

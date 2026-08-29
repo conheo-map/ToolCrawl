@@ -1,0 +1,210 @@
+{
+  "item_id": "tt_7644159079639813393_01",
+  "duration_seconds": 15.89,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 28,
+  "text": "Cái mẹ sẽ đem thương là khóa để tất cả thiệt. Thế một lẻ, cái xảy. Thế sẽ đi hỏi mà thật bình. Cái mẹ sẽ xóa hảo.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.38,
+      "text": "Cái mẹ sẽ đem thương là khóa để tất cả thiệt.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.0,
+          "end": 0.56,
+          "probability": 0.3
+        },
+        {
+          "word": "mẹ",
+          "start": 0.56,
+          "end": 0.58,
+          "probability": 0.07
+        },
+        {
+          "word": "sẽ",
+          "start": 0.58,
+          "end": 0.94,
+          "probability": 0.1
+        },
+        {
+          "word": "đem",
+          "start": 0.94,
+          "end": 1.16,
+          "probability": 0.1
+        },
+        {
+          "word": "thương",
+          "start": 1.16,
+          "end": 1.3,
+          "probability": 0.39
+        },
+        {
+          "word": "là",
+          "start": 1.3,
+          "end": 1.52,
+          "probability": 0.04
+        },
+        {
+          "word": "khóa",
+          "start": 1.52,
+          "end": 1.68,
+          "probability": 0.28
+        },
+        {
+          "word": "để",
+          "start": 1.68,
+          "end": 1.86,
+          "probability": 0.05
+        },
+        {
+          "word": "tất",
+          "start": 1.86,
+          "end": 2.06,
+          "probability": 0.11
+        },
+        {
+          "word": "cả",
+          "start": 2.06,
+          "end": 2.06,
+          "probability": 0.75
+        },
+        {
+          "word": "thiệt.",
+          "start": 2.06,
+          "end": 2.38,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.8,
+      "end": 5.86,
+      "text": "Thế một lẻ, cái xảy.",
+      "words": [
+        {
+          "word": "Thế",
+          "start": 3.8,
+          "end": 4.24,
+          "probability": 0.09
+        },
+        {
+          "word": "một",
+          "start": 4.24,
+          "end": 4.34,
+          "probability": 0.05
+        },
+        {
+          "word": "lẻ,",
+          "start": 4.34,
+          "end": 4.56,
+          "probability": 0.19
+        },
+        {
+          "word": "cái",
+          "start": 5.04,
+          "end": 5.18,
+          "probability": 0.05
+        },
+        {
+          "word": "xảy.",
+          "start": 5.18,
+          "end": 5.86,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.12,
+      "end": 8.8,
+      "text": "Thế sẽ đi hỏi mà thật bình.",
+      "words": [
+        {
+          "word": "Thế",
+          "start": 7.12,
+          "end": 7.56,
+          "probability": 0.38
+        },
+        {
+          "word": "sẽ",
+          "start": 7.56,
+          "end": 7.6,
+          "probability": 0.01
+        },
+        {
+          "word": "đi",
+          "start": 7.6,
+          "end": 7.82,
+          "probability": 0.71
+        },
+        {
+          "word": "hỏi",
+          "start": 7.82,
+          "end": 7.98,
+          "probability": 0.44
+        },
+        {
+          "word": "mà",
+          "start": 7.98,
+          "end": 8.18,
+          "probability": 0.45
+        },
+        {
+          "word": "thật",
+          "start": 8.18,
+          "end": 8.42,
+          "probability": 0.31
+        },
+        {
+          "word": "bình.",
+          "start": 8.42,
+          "end": 8.8,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.38,
+      "end": 15.64,
+      "text": "Cái mẹ sẽ xóa hảo.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 14.38,
+          "end": 14.58,
+          "probability": 0.52
+        },
+        {
+          "word": "mẹ",
+          "start": 14.58,
+          "end": 14.84,
+          "probability": 0.8
+        },
+        {
+          "word": "sẽ",
+          "start": 14.84,
+          "end": 15.22,
+          "probability": 0.16
+        },
+        {
+          "word": "xóa",
+          "start": 15.22,
+          "end": 15.44,
+          "probability": 0.39
+        },
+        {
+          "word": "hảo.",
+          "start": 15.44,
+          "end": 15.64,
+          "probability": 0.28
+        }
+      ]
+    }
+  ]
+}

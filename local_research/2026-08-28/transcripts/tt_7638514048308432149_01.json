@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7638514048308432149_01",
+  "duration_seconds": 25.45,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Lòng tró khách",
+  "segments": [
+    {
+      "id": 1,
+      "start": 24.34,
+      "end": 25.42,
+      "text": "Lòng tró khách",
+      "words": [
+        {
+          "word": "Lòng",
+          "start": 24.34,
+          "end": 24.72,
+          "probability": 0.3
+        },
+        {
+          "word": "tró",
+          "start": 24.72,
+          "end": 24.96,
+          "probability": 0.26
+        },
+        {
+          "word": "khách",
+          "start": 24.96,
+          "end": 25.42,
+          "probability": 0.46
+        }
+      ]
+    }
+  ]
+}

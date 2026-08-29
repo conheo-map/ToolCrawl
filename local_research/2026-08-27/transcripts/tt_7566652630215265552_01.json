@@ -1,0 +1,60 @@
+{
+  "item_id": "tt_7566652630215265552_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 7,
+  "text": "Hãy like and subscribe to the channel.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.76,
+      "text": "Hãy like and subscribe to the channel.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 0.0,
+          "end": 1.02,
+          "probability": 0.14
+        },
+        {
+          "word": "like",
+          "start": 1.02,
+          "end": 1.02,
+          "probability": 0.1
+        },
+        {
+          "word": "and",
+          "start": 1.02,
+          "end": 1.02,
+          "probability": 0.47
+        },
+        {
+          "word": "subscribe",
+          "start": 1.02,
+          "end": 1.02,
+          "probability": 0.62
+        },
+        {
+          "word": "to",
+          "start": 1.02,
+          "end": 1.02,
+          "probability": 0.27
+        },
+        {
+          "word": "the",
+          "start": 1.02,
+          "end": 3.74,
+          "probability": 0.29
+        },
+        {
+          "word": "channel.",
+          "start": 3.74,
+          "end": 3.76,
+          "probability": 0.89
+        }
+      ]
+    }
+  ]
+}

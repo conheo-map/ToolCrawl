@@ -1,0 +1,86 @@
+{
+  "item_id": "tt_7660489743934688532_08",
+  "duration_seconds": 22.42,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 10,
+  "text": "Cô tên hợp dạc sớm Cô tên hợp dạc sớm",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 1.37,
+      "text": "Cô tên hợp dạc sớm",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 0.11,
+          "end": 0.61,
+          "probability": 0.05
+        },
+        {
+          "word": "tên",
+          "start": 0.61,
+          "end": 0.77,
+          "probability": 0.11
+        },
+        {
+          "word": "hợp",
+          "start": 0.77,
+          "end": 0.99,
+          "probability": 0.27
+        },
+        {
+          "word": "dạc",
+          "start": 0.99,
+          "end": 1.25,
+          "probability": 0.07
+        },
+        {
+          "word": "sớm",
+          "start": 1.25,
+          "end": 1.37,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.37,
+      "end": 2.49,
+      "text": "Cô tên hợp dạc sớm",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 1.37,
+          "end": 1.95,
+          "probability": 0.42
+        },
+        {
+          "word": "tên",
+          "start": 1.95,
+          "end": 2.37,
+          "probability": 0.84
+        },
+        {
+          "word": "hợp",
+          "start": 2.37,
+          "end": 2.37,
+          "probability": 0.81
+        },
+        {
+          "word": "dạc",
+          "start": 2.37,
+          "end": 2.49,
+          "probability": 0.93
+        },
+        {
+          "word": "sớm",
+          "start": 2.49,
+          "end": 2.49,
+          "probability": 0.82
+        }
+      ]
+    }
+  ]
+}

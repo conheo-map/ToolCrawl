@@ -1,0 +1,818 @@
+{
+  "item_id": "tt_7237105314598817030_04",
+  "duration_seconds": 25.01,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 116,
+  "text": "Cái này sao chị này cáim biệt đi mà bạn nên mờ này, xuống nơi xuống nơi Y vậy thì ở đây em cần về sát định được cái hình ạng Đồ vụ thịt của em sâu f quý trong chập mần nơi ở gáng đi thì nó sẽ rất bởi kêu này đi xuống nơi thấp hình đi nơi, nơi báng đi mà ra, trọng nó đe dàng nơi ở báng đi trong chập mần nơi báng đi thì nó sẽ rất bởi đúng chỗ đây Thì cái này nó nơi ở đi bằng nhau Quế cùng trong chập nơi ở lớn đi thì nó sẽ rất bò như kìa này Ở đây ở đây",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Cái này sao chị này cáim biệt đi",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.45
+        },
+        {
+          "word": "này",
+          "start": 0.3,
+          "end": 0.44,
+          "probability": 0.82
+        },
+        {
+          "word": "sao",
+          "start": 0.44,
+          "end": 0.58,
+          "probability": 0.1
+        },
+        {
+          "word": "chị",
+          "start": 0.58,
+          "end": 0.7,
+          "probability": 0.55
+        },
+        {
+          "word": "này",
+          "start": 0.7,
+          "end": 0.82,
+          "probability": 0.42
+        },
+        {
+          "word": "cáim",
+          "start": 0.82,
+          "end": 1.02,
+          "probability": 0.1
+        },
+        {
+          "word": "biệt",
+          "start": 1.02,
+          "end": 1.1,
+          "probability": 0.22
+        },
+        {
+          "word": "đi",
+          "start": 1.1,
+          "end": 1.32,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.32,
+      "end": 3.42,
+      "text": "mà bạn nên mờ này, xuống nơi xuống nơi",
+      "words": [
+        {
+          "word": "mà",
+          "start": 1.32,
+          "end": 1.8,
+          "probability": 0.02
+        },
+        {
+          "word": "bạn",
+          "start": 1.8,
+          "end": 2.04,
+          "probability": 0.06
+        },
+        {
+          "word": "nên",
+          "start": 2.04,
+          "end": 2.24,
+          "probability": 0.28
+        },
+        {
+          "word": "mờ",
+          "start": 2.24,
+          "end": 2.42,
+          "probability": 0.41
+        },
+        {
+          "word": "này,",
+          "start": 2.42,
+          "end": 2.7,
+          "probability": 0.41
+        },
+        {
+          "word": "xuống",
+          "start": 2.7,
+          "end": 2.9,
+          "probability": 0.61
+        },
+        {
+          "word": "nơi",
+          "start": 2.9,
+          "end": 3.06,
+          "probability": 0.22
+        },
+        {
+          "word": "xuống",
+          "start": 3.06,
+          "end": 3.28,
+          "probability": 0.94
+        },
+        {
+          "word": "nơi",
+          "start": 3.28,
+          "end": 3.42,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.42,
+      "end": 6.56,
+      "text": "Y vậy thì ở đây em cần về sát định được cái hình ạng",
+      "words": [
+        {
+          "word": "Y",
+          "start": 3.42,
+          "end": 3.9,
+          "probability": 0.0
+        },
+        {
+          "word": "vậy",
+          "start": 3.9,
+          "end": 4.04,
+          "probability": 0.31
+        },
+        {
+          "word": "thì",
+          "start": 4.04,
+          "end": 4.24,
+          "probability": 0.89
+        },
+        {
+          "word": "ở",
+          "start": 4.24,
+          "end": 4.36,
+          "probability": 0.86
+        },
+        {
+          "word": "đây",
+          "start": 4.36,
+          "end": 4.54,
+          "probability": 0.99
+        },
+        {
+          "word": "em",
+          "start": 4.54,
+          "end": 4.98,
+          "probability": 0.71
+        },
+        {
+          "word": "cần",
+          "start": 4.98,
+          "end": 5.22,
+          "probability": 0.79
+        },
+        {
+          "word": "về",
+          "start": 5.22,
+          "end": 5.4,
+          "probability": 0.65
+        },
+        {
+          "word": "sát",
+          "start": 5.4,
+          "end": 5.54,
+          "probability": 0.55
+        },
+        {
+          "word": "định",
+          "start": 5.54,
+          "end": 5.7,
+          "probability": 0.71
+        },
+        {
+          "word": "được",
+          "start": 5.7,
+          "end": 5.96,
+          "probability": 0.78
+        },
+        {
+          "word": "cái",
+          "start": 5.96,
+          "end": 6.2,
+          "probability": 0.52
+        },
+        {
+          "word": "hình",
+          "start": 6.2,
+          "end": 6.36,
+          "probability": 0.46
+        },
+        {
+          "word": "ạng",
+          "start": 6.36,
+          "end": 6.56,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.56,
+      "end": 8.38,
+      "text": "Đồ vụ thịt của em sâu f quý",
+      "words": [
+        {
+          "word": "Đồ",
+          "start": 6.56,
+          "end": 6.74,
+          "probability": 0.24
+        },
+        {
+          "word": "vụ",
+          "start": 6.74,
+          "end": 6.84,
+          "probability": 0.35
+        },
+        {
+          "word": "thịt",
+          "start": 6.84,
+          "end": 7.32,
+          "probability": 0.59
+        },
+        {
+          "word": "của",
+          "start": 7.32,
+          "end": 7.46,
+          "probability": 0.55
+        },
+        {
+          "word": "em",
+          "start": 7.46,
+          "end": 7.6,
+          "probability": 0.21
+        },
+        {
+          "word": "sâu",
+          "start": 7.6,
+          "end": 7.8,
+          "probability": 0.26
+        },
+        {
+          "word": "f",
+          "start": 7.8,
+          "end": 8.08,
+          "probability": 0.28
+        },
+        {
+          "word": "quý",
+          "start": 8.08,
+          "end": 8.38,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.38,
+      "end": 9.84,
+      "text": "trong chập mần nơi ở gáng đi",
+      "words": [
+        {
+          "word": "trong",
+          "start": 8.38,
+          "end": 8.68,
+          "probability": 0.68
+        },
+        {
+          "word": "chập",
+          "start": 8.68,
+          "end": 8.98,
+          "probability": 0.46
+        },
+        {
+          "word": "mần",
+          "start": 8.98,
+          "end": 9.18,
+          "probability": 0.39
+        },
+        {
+          "word": "nơi",
+          "start": 9.18,
+          "end": 9.28,
+          "probability": 0.54
+        },
+        {
+          "word": "ở",
+          "start": 9.28,
+          "end": 9.38,
+          "probability": 0.57
+        },
+        {
+          "word": "gáng",
+          "start": 9.38,
+          "end": 9.5,
+          "probability": 0.16
+        },
+        {
+          "word": "đi",
+          "start": 9.5,
+          "end": 9.84,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 9.84,
+      "end": 11.2,
+      "text": "thì nó sẽ rất bởi kêu này",
+      "words": [
+        {
+          "word": "thì",
+          "start": 9.84,
+          "end": 10.18,
+          "probability": 0.08
+        },
+        {
+          "word": "nó",
+          "start": 10.18,
+          "end": 10.36,
+          "probability": 0.96
+        },
+        {
+          "word": "sẽ",
+          "start": 10.36,
+          "end": 10.5,
+          "probability": 0.97
+        },
+        {
+          "word": "rất",
+          "start": 10.5,
+          "end": 10.64,
+          "probability": 0.44
+        },
+        {
+          "word": "bởi",
+          "start": 10.64,
+          "end": 10.72,
+          "probability": 0.33
+        },
+        {
+          "word": "kêu",
+          "start": 10.72,
+          "end": 10.82,
+          "probability": 0.17
+        },
+        {
+          "word": "này",
+          "start": 10.82,
+          "end": 11.2,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 11.2,
+      "end": 13.76,
+      "text": "đi xuống nơi thấp hình đi nơi, nơi báng đi mà",
+      "words": [
+        {
+          "word": "đi",
+          "start": 11.2,
+          "end": 11.6,
+          "probability": 0.68
+        },
+        {
+          "word": "xuống",
+          "start": 11.6,
+          "end": 11.86,
+          "probability": 0.99
+        },
+        {
+          "word": "nơi",
+          "start": 11.86,
+          "end": 12.28,
+          "probability": 0.89
+        },
+        {
+          "word": "thấp",
+          "start": 12.28,
+          "end": 12.44,
+          "probability": 0.56
+        },
+        {
+          "word": "hình",
+          "start": 12.44,
+          "end": 12.6,
+          "probability": 0.59
+        },
+        {
+          "word": "đi",
+          "start": 12.6,
+          "end": 12.9,
+          "probability": 0.83
+        },
+        {
+          "word": "nơi,",
+          "start": 12.9,
+          "end": 13.04,
+          "probability": 0.7
+        },
+        {
+          "word": "nơi",
+          "start": 13.12,
+          "end": 13.12,
+          "probability": 0.63
+        },
+        {
+          "word": "báng",
+          "start": 13.12,
+          "end": 13.24,
+          "probability": 0.21
+        },
+        {
+          "word": "đi",
+          "start": 13.24,
+          "end": 13.56,
+          "probability": 0.96
+        },
+        {
+          "word": "mà",
+          "start": 13.56,
+          "end": 13.76,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.76,
+      "end": 15.46,
+      "text": "ra, trọng nó đe dàng nơi ở báng đi",
+      "words": [
+        {
+          "word": "ra,",
+          "start": 13.76,
+          "end": 13.96,
+          "probability": 0.01
+        },
+        {
+          "word": "trọng",
+          "start": 14.0,
+          "end": 14.02,
+          "probability": 0.54
+        },
+        {
+          "word": "nó",
+          "start": 14.02,
+          "end": 14.16,
+          "probability": 0.61
+        },
+        {
+          "word": "đe",
+          "start": 14.16,
+          "end": 14.3,
+          "probability": 0.21
+        },
+        {
+          "word": "dàng",
+          "start": 14.3,
+          "end": 14.34,
+          "probability": 0.18
+        },
+        {
+          "word": "nơi",
+          "start": 14.34,
+          "end": 14.52,
+          "probability": 0.94
+        },
+        {
+          "word": "ở",
+          "start": 14.52,
+          "end": 14.6,
+          "probability": 0.82
+        },
+        {
+          "word": "báng",
+          "start": 14.6,
+          "end": 14.72,
+          "probability": 0.84
+        },
+        {
+          "word": "đi",
+          "start": 14.72,
+          "end": 15.46,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 15.46,
+      "end": 17.0,
+      "text": "trong chập mần nơi báng đi",
+      "words": [
+        {
+          "word": "trong",
+          "start": 15.46,
+          "end": 15.86,
+          "probability": 0.23
+        },
+        {
+          "word": "chập",
+          "start": 15.86,
+          "end": 16.16,
+          "probability": 0.97
+        },
+        {
+          "word": "mần",
+          "start": 16.16,
+          "end": 16.42,
+          "probability": 0.57
+        },
+        {
+          "word": "nơi",
+          "start": 16.42,
+          "end": 16.52,
+          "probability": 0.97
+        },
+        {
+          "word": "báng",
+          "start": 16.52,
+          "end": 16.7,
+          "probability": 0.39
+        },
+        {
+          "word": "đi",
+          "start": 16.7,
+          "end": 17.0,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 17.0,
+      "end": 18.68,
+      "text": "thì nó sẽ rất bởi đúng chỗ đây",
+      "words": [
+        {
+          "word": "thì",
+          "start": 17.0,
+          "end": 17.22,
+          "probability": 0.57
+        },
+        {
+          "word": "nó",
+          "start": 17.22,
+          "end": 17.3,
+          "probability": 1.0
+        },
+        {
+          "word": "sẽ",
+          "start": 17.3,
+          "end": 17.5,
+          "probability": 1.0
+        },
+        {
+          "word": "rất",
+          "start": 17.5,
+          "end": 17.7,
+          "probability": 0.61
+        },
+        {
+          "word": "bởi",
+          "start": 17.7,
+          "end": 17.74,
+          "probability": 0.9
+        },
+        {
+          "word": "đúng",
+          "start": 17.74,
+          "end": 17.86,
+          "probability": 0.67
+        },
+        {
+          "word": "chỗ",
+          "start": 17.86,
+          "end": 18.4,
+          "probability": 0.36
+        },
+        {
+          "word": "đây",
+          "start": 18.4,
+          "end": 18.68,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 18.68,
+      "end": 20.22,
+      "text": "Thì cái này nó nơi ở đi bằng nhau",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 18.68,
+          "end": 18.92,
+          "probability": 0.42
+        },
+        {
+          "word": "cái",
+          "start": 18.92,
+          "end": 19.06,
+          "probability": 0.24
+        },
+        {
+          "word": "này",
+          "start": 19.06,
+          "end": 19.08,
+          "probability": 0.99
+        },
+        {
+          "word": "nó",
+          "start": 19.08,
+          "end": 19.24,
+          "probability": 0.31
+        },
+        {
+          "word": "nơi",
+          "start": 19.24,
+          "end": 19.36,
+          "probability": 0.89
+        },
+        {
+          "word": "ở",
+          "start": 19.36,
+          "end": 19.42,
+          "probability": 0.99
+        },
+        {
+          "word": "đi",
+          "start": 19.42,
+          "end": 19.54,
+          "probability": 0.32
+        },
+        {
+          "word": "bằng",
+          "start": 19.54,
+          "end": 19.66,
+          "probability": 0.64
+        },
+        {
+          "word": "nhau",
+          "start": 19.66,
+          "end": 20.22,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 20.22,
+      "end": 22.1,
+      "text": "Quế cùng trong chập nơi ở lớn đi",
+      "words": [
+        {
+          "word": "Quế",
+          "start": 20.22,
+          "end": 20.58,
+          "probability": 0.15
+        },
+        {
+          "word": "cùng",
+          "start": 20.58,
+          "end": 20.8,
+          "probability": 0.46
+        },
+        {
+          "word": "trong",
+          "start": 20.8,
+          "end": 21.04,
+          "probability": 0.86
+        },
+        {
+          "word": "chập",
+          "start": 21.04,
+          "end": 21.3,
+          "probability": 0.9
+        },
+        {
+          "word": "nơi",
+          "start": 21.3,
+          "end": 21.48,
+          "probability": 0.7
+        },
+        {
+          "word": "ở",
+          "start": 21.48,
+          "end": 21.54,
+          "probability": 0.52
+        },
+        {
+          "word": "lớn",
+          "start": 21.54,
+          "end": 21.74,
+          "probability": 0.86
+        },
+        {
+          "word": "đi",
+          "start": 21.74,
+          "end": 22.1,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 22.1,
+      "end": 23.96,
+      "text": "thì nó sẽ rất bò như kìa này",
+      "words": [
+        {
+          "word": "thì",
+          "start": 22.1,
+          "end": 22.28,
+          "probability": 0.97
+        },
+        {
+          "word": "nó",
+          "start": 22.28,
+          "end": 22.4,
+          "probability": 1.0
+        },
+        {
+          "word": "sẽ",
+          "start": 22.4,
+          "end": 22.52,
+          "probability": 1.0
+        },
+        {
+          "word": "rất",
+          "start": 22.52,
+          "end": 22.74,
+          "probability": 0.66
+        },
+        {
+          "word": "bò",
+          "start": 22.74,
+          "end": 22.82,
+          "probability": 0.59
+        },
+        {
+          "word": "như",
+          "start": 22.82,
+          "end": 23.0,
+          "probability": 0.71
+        },
+        {
+          "word": "kìa",
+          "start": 23.0,
+          "end": 23.14,
+          "probability": 0.27
+        },
+        {
+          "word": "này",
+          "start": 23.14,
+          "end": 23.96,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 23.96,
+      "end": 24.66,
+      "text": "Ở đây ở đây",
+      "words": [
+        {
+          "word": "Ở",
+          "start": 23.96,
+          "end": 24.3,
+          "probability": 0.46
+        },
+        {
+          "word": "đây",
+          "start": 24.3,
+          "end": 24.36,
+          "probability": 0.98
+        },
+        {
+          "word": "ở",
+          "start": 24.36,
+          "end": 24.5,
+          "probability": 0.97
+        },
+        {
+          "word": "đây",
+          "start": 24.5,
+          "end": 24.66,
+          "probability": 0.7
+        }
+      ]
+    }
+  ]
+}

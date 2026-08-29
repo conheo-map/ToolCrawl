@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7339872325589912833_05",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Chúng ta sẽ tìm tìm.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.23,
+      "end": 1.85,
+      "text": "Chúng ta sẽ tìm tìm.",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 1.23,
+          "end": 1.45,
+          "probability": 0.17
+        },
+        {
+          "word": "ta",
+          "start": 1.45,
+          "end": 1.77,
+          "probability": 0.4
+        },
+        {
+          "word": "sẽ",
+          "start": 1.77,
+          "end": 1.77,
+          "probability": 0.15
+        },
+        {
+          "word": "tìm",
+          "start": 1.77,
+          "end": 1.77,
+          "probability": 0.38
+        },
+        {
+          "word": "tìm.",
+          "start": 1.77,
+          "end": 1.85,
+          "probability": 0.39
+        }
+      ]
+    }
+  ]
+}

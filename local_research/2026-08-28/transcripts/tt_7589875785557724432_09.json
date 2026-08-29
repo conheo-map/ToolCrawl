@@ -1,0 +1,128 @@
+{
+  "item_id": "tt_7589875785557724432_09",
+  "duration_seconds": 25.1,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 13,
+  "text": "1 cây ra bằng ngon Đây Tại vì kỳ nữa 1 cây sóc",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 1.61,
+      "text": "1 cây ra",
+      "words": [
+        {
+          "word": "1",
+          "start": 0.05,
+          "end": 0.63,
+          "probability": 0.14
+        },
+        {
+          "word": "cây",
+          "start": 0.63,
+          "end": 0.91,
+          "probability": 0.08
+        },
+        {
+          "word": "ra",
+          "start": 0.91,
+          "end": 1.61,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.61,
+      "end": 2.81,
+      "text": "bằng ngon",
+      "words": [
+        {
+          "word": "bằng",
+          "start": 1.61,
+          "end": 2.61,
+          "probability": 0.03
+        },
+        {
+          "word": "ngon",
+          "start": 2.61,
+          "end": 2.81,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.81,
+      "end": 3.05,
+      "text": "Đây",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 2.81,
+          "end": 3.05,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 3.05,
+      "end": 5.13,
+      "text": "Tại vì kỳ nữa",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 3.05,
+          "end": 3.05,
+          "probability": 0.02
+        },
+        {
+          "word": "vì",
+          "start": 3.05,
+          "end": 3.05,
+          "probability": 0.22
+        },
+        {
+          "word": "kỳ",
+          "start": 3.05,
+          "end": 5.13,
+          "probability": 0.28
+        },
+        {
+          "word": "nữa",
+          "start": 5.13,
+          "end": 5.13,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.49,
+      "end": 19.93,
+      "text": "1 cây sóc",
+      "words": [
+        {
+          "word": "1",
+          "start": 7.49,
+          "end": 8.89,
+          "probability": 0.01
+        },
+        {
+          "word": "cây",
+          "start": 8.89,
+          "end": 10.29,
+          "probability": 0.6
+        },
+        {
+          "word": "sóc",
+          "start": 10.29,
+          "end": 19.93,
+          "probability": 0.24
+        }
+      ]
+    }
+  ]
+}

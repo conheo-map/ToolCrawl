@@ -1,0 +1,194 @@
+{
+  "item_id": "tt_7337273066042510599_07",
+  "duration_seconds": 5.84,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 24,
+  "text": "ờ, chạy đôi ạ, cho anh đi từ mà chúng ta được gì đi được OK OK, anh đi ờ, thôi, chạy anh đi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.9,
+      "text": "ờ, chạy đôi",
+      "words": [
+        {
+          "word": "ờ,",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.08
+        },
+        {
+          "word": "chạy",
+          "start": 0.44,
+          "end": 0.66,
+          "probability": 0.4
+        },
+        {
+          "word": "đôi",
+          "start": 0.66,
+          "end": 0.9,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 0.9,
+      "end": 3.42,
+      "text": "ạ, cho anh đi từ mà chúng ta được gì đi được",
+      "words": [
+        {
+          "word": "ạ,",
+          "start": 0.9,
+          "end": 1.26,
+          "probability": 0.23
+        },
+        {
+          "word": "cho",
+          "start": 1.3,
+          "end": 1.66,
+          "probability": 0.04
+        },
+        {
+          "word": "anh",
+          "start": 1.66,
+          "end": 1.88,
+          "probability": 0.04
+        },
+        {
+          "word": "đi",
+          "start": 1.88,
+          "end": 2.0,
+          "probability": 0.13
+        },
+        {
+          "word": "từ",
+          "start": 2.0,
+          "end": 2.22,
+          "probability": 0.36
+        },
+        {
+          "word": "mà",
+          "start": 2.22,
+          "end": 2.38,
+          "probability": 0.43
+        },
+        {
+          "word": "chúng",
+          "start": 2.38,
+          "end": 2.5,
+          "probability": 0.14
+        },
+        {
+          "word": "ta",
+          "start": 2.5,
+          "end": 2.6,
+          "probability": 0.39
+        },
+        {
+          "word": "được",
+          "start": 2.6,
+          "end": 2.76,
+          "probability": 0.36
+        },
+        {
+          "word": "gì",
+          "start": 2.76,
+          "end": 2.92,
+          "probability": 0.29
+        },
+        {
+          "word": "đi",
+          "start": 2.92,
+          "end": 3.04,
+          "probability": 0.37
+        },
+        {
+          "word": "được",
+          "start": 3.04,
+          "end": 3.42,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.42,
+      "end": 3.72,
+      "text": "OK",
+      "words": [
+        {
+          "word": "OK",
+          "start": 3.42,
+          "end": 3.72,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 3.72,
+      "end": 4.4,
+      "text": "OK, anh đi",
+      "words": [
+        {
+          "word": "OK,",
+          "start": 3.72,
+          "end": 4.04,
+          "probability": 0.09
+        },
+        {
+          "word": "anh",
+          "start": 4.04,
+          "end": 4.24,
+          "probability": 0.39
+        },
+        {
+          "word": "đi",
+          "start": 4.24,
+          "end": 4.4,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 4.4,
+      "end": 5.58,
+      "text": "ờ, thôi, chạy anh đi",
+      "words": [
+        {
+          "word": "ờ,",
+          "start": 4.4,
+          "end": 4.8,
+          "probability": 0.24
+        },
+        {
+          "word": "thôi,",
+          "start": 4.84,
+          "end": 4.98,
+          "probability": 0.1
+        },
+        {
+          "word": "chạy",
+          "start": 5.1,
+          "end": 5.18,
+          "probability": 0.54
+        },
+        {
+          "word": "anh",
+          "start": 5.18,
+          "end": 5.3,
+          "probability": 0.51
+        },
+        {
+          "word": "đi",
+          "start": 5.3,
+          "end": 5.58,
+          "probability": 0.66
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "item_id": "tt_7654501585535470865_15",
+  "duration_seconds": 27.13,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 94,
+  "text": "Một hại sống bị tắm tủ để đến có vặt thật phố hồ chi Minh để trên báo sử viết. Đáng nói, sợ phía biết mình rất vào bỏi hùa đảo, đáng như không giám về tính hề tốt cáo đến cơ quan cộp ăn mà chỉ đầm gặp mức kê. Đấy, người dẻ, người dẻ, người gá tân hà mươi, mươi tân dẻ thông. Trường cửa, phải nói là hòa nó không có cắt gần gọi là. Dù giống có cắt thức chương nghiệp, nha. Trường phải là nó có cắt người dẻ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.26,
+      "text": "Một hại sống bị tắm tủ để đến có vặt thật phố hồ chi Minh để trên báo sử viết.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.62
+        },
+        {
+          "word": "hại",
+          "start": 0.4,
+          "end": 0.74,
+          "probability": 0.3
+        },
+        {
+          "word": "sống",
+          "start": 0.74,
+          "end": 0.98,
+          "probability": 0.55
+        },
+        {
+          "word": "bị",
+          "start": 0.98,
+          "end": 1.24,
+          "probability": 0.62
+        },
+        {
+          "word": "tắm",
+          "start": 1.24,
+          "end": 1.28,
+          "probability": 0.41
+        },
+        {
+          "word": "tủ",
+          "start": 1.28,
+          "end": 1.46,
+          "probability": 0.58
+        },
+        {
+          "word": "để",
+          "start": 1.46,
+          "end": 1.64,
+          "probability": 0.16
+        },
+        {
+          "word": "đến",
+          "start": 1.64,
+          "end": 1.8,
+          "probability": 0.88
+        },
+        {
+          "word": "có",
+          "start": 1.8,
+          "end": 1.94,
+          "probability": 0.21
+        },
+        {
+          "word": "vặt",
+          "start": 1.94,
+          "end": 2.1,
+          "probability": 0.19
+        },
+        {
+          "word": "thật",
+          "start": 2.1,
+          "end": 2.26,
+          "probability": 0.67
+        },
+        {
+          "word": "phố",
+          "start": 2.26,
+          "end": 2.36,
+          "probability": 0.53
+        },
+        {
+          "word": "hồ",
+          "start": 2.36,
+          "end": 2.58,
+          "probability": 0.34
+        },
+        {
+          "word": "chi",
+          "start": 2.58,
+          "end": 2.64,
+          "probability": 0.29
+        },
+        {
+          "word": "Minh",
+          "start": 2.64,
+          "end": 2.76,
+          "probability": 0.82
+        },
+        {
+          "word": "để",
+          "start": 2.76,
+          "end": 3.06,
+          "probability": 0.84
+        },
+        {
+          "word": "trên",
+          "start": 3.06,
+          "end": 3.28,
+          "probability": 0.43
+        },
+        {
+          "word": "báo",
+          "start": 3.28,
+          "end": 3.48,
+          "probability": 0.87
+        },
+        {
+          "word": "sử",
+          "start": 3.48,
+          "end": 3.7,
+          "probability": 0.66
+        },
+        {
+          "word": "viết.",
+          "start": 3.7,
+          "end": 4.26,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.46,
+      "end": 6.86,
+      "text": "Đáng nói, sợ phía biết mình rất vào bỏi hùa đảo,",
+      "words": [
+        {
+          "word": "Đáng",
+          "start": 4.46,
+          "end": 4.64,
+          "probability": 0.64
+        },
+        {
+          "word": "nói,",
+          "start": 4.64,
+          "end": 4.94,
+          "probability": 0.53
+        },
+        {
+          "word": "sợ",
+          "start": 5.04,
+          "end": 5.24,
+          "probability": 0.42
+        },
+        {
+          "word": "phía",
+          "start": 5.24,
+          "end": 5.38,
+          "probability": 0.65
+        },
+        {
+          "word": "biết",
+          "start": 5.38,
+          "end": 5.58,
+          "probability": 0.57
+        },
+        {
+          "word": "mình",
+          "start": 5.58,
+          "end": 5.8,
+          "probability": 0.79
+        },
+        {
+          "word": "rất",
+          "start": 5.8,
+          "end": 6.0,
+          "probability": 0.15
+        },
+        {
+          "word": "vào",
+          "start": 6.0,
+          "end": 6.2,
+          "probability": 0.18
+        },
+        {
+          "word": "bỏi",
+          "start": 6.2,
+          "end": 6.38,
+          "probability": 0.14
+        },
+        {
+          "word": "hùa",
+          "start": 6.38,
+          "end": 6.54,
+          "probability": 0.4
+        },
+        {
+          "word": "đảo,",
+          "start": 6.54,
+          "end": 6.86,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.2,
+      "end": 12.28,
+      "text": "đáng như không giám về tính hề tốt cáo đến cơ quan cộp ăn mà chỉ đầm gặp mức kê.",
+      "words": [
+        {
+          "word": "đáng",
+          "start": 7.2,
+          "end": 7.46,
+          "probability": 0.71
+        },
+        {
+          "word": "như",
+          "start": 7.46,
+          "end": 7.64,
+          "probability": 0.21
+        },
+        {
+          "word": "không",
+          "start": 7.64,
+          "end": 7.88,
+          "probability": 0.55
+        },
+        {
+          "word": "giám",
+          "start": 7.88,
+          "end": 8.04,
+          "probability": 0.52
+        },
+        {
+          "word": "về",
+          "start": 8.04,
+          "end": 8.28,
+          "probability": 0.15
+        },
+        {
+          "word": "tính",
+          "start": 8.28,
+          "end": 8.54,
+          "probability": 0.32
+        },
+        {
+          "word": "hề",
+          "start": 8.54,
+          "end": 8.84,
+          "probability": 0.25
+        },
+        {
+          "word": "tốt",
+          "start": 8.84,
+          "end": 9.06,
+          "probability": 0.87
+        },
+        {
+          "word": "cáo",
+          "start": 9.06,
+          "end": 9.3,
+          "probability": 0.37
+        },
+        {
+          "word": "đến",
+          "start": 9.3,
+          "end": 9.42,
+          "probability": 0.69
+        },
+        {
+          "word": "cơ",
+          "start": 9.42,
+          "end": 9.64,
+          "probability": 0.35
+        },
+        {
+          "word": "quan",
+          "start": 9.64,
+          "end": 9.76,
+          "probability": 0.56
+        },
+        {
+          "word": "cộp",
+          "start": 9.76,
+          "end": 9.98,
+          "probability": 0.44
+        },
+        {
+          "word": "ăn",
+          "start": 9.98,
+          "end": 10.28,
+          "probability": 0.36
+        },
+        {
+          "word": "mà",
+          "start": 10.28,
+          "end": 10.72,
+          "probability": 0.76
+        },
+        {
+          "word": "chỉ",
+          "start": 10.72,
+          "end": 10.94,
+          "probability": 0.61
+        },
+        {
+          "word": "đầm",
+          "start": 10.94,
+          "end": 11.26,
+          "probability": 0.48
+        },
+        {
+          "word": "gặp",
+          "start": 11.26,
+          "end": 11.52,
+          "probability": 0.44
+        },
+        {
+          "word": "mức",
+          "start": 11.52,
+          "end": 11.94,
+          "probability": 0.42
+        },
+        {
+          "word": "kê.",
+          "start": 11.94,
+          "end": 12.28,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.9,
+      "end": 16.78,
+      "text": "Đấy, người dẻ, người dẻ, người gá tân hà mươi, mươi tân dẻ thông.",
+      "words": [
+        {
+          "word": "Đấy,",
+          "start": 12.9,
+          "end": 13.1,
+          "probability": 0.2
+        },
+        {
+          "word": "người",
+          "start": 13.3,
+          "end": 13.54,
+          "probability": 0.79
+        },
+        {
+          "word": "dẻ,",
+          "start": 13.54,
+          "end": 13.88,
+          "probability": 0.48
+        },
+        {
+          "word": "người",
+          "start": 14.14,
+          "end": 14.42,
+          "probability": 0.6
+        },
+        {
+          "word": "dẻ,",
+          "start": 14.42,
+          "end": 14.6,
+          "probability": 0.51
+        },
+        {
+          "word": "người",
+          "start": 14.6,
+          "end": 14.6,
+          "probability": 0.78
+        },
+        {
+          "word": "gá",
+          "start": 14.6,
+          "end": 14.66,
+          "probability": 0.13
+        },
+        {
+          "word": "tân",
+          "start": 14.66,
+          "end": 14.9,
+          "probability": 0.22
+        },
+        {
+          "word": "hà",
+          "start": 14.9,
+          "end": 15.34,
+          "probability": 0.16
+        },
+        {
+          "word": "mươi,",
+          "start": 15.34,
+          "end": 15.6,
+          "probability": 0.36
+        },
+        {
+          "word": "mươi",
+          "start": 15.6,
+          "end": 15.96,
+          "probability": 0.56
+        },
+        {
+          "word": "tân",
+          "start": 15.96,
+          "end": 16.14,
+          "probability": 0.48
+        },
+        {
+          "word": "dẻ",
+          "start": 16.14,
+          "end": 16.4,
+          "probability": 0.33
+        },
+        {
+          "word": "thông.",
+          "start": 16.4,
+          "end": 16.78,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 17.38,
+      "end": 21.48,
+      "text": "Trường cửa, phải nói là hòa nó không có cắt gần gọi là.",
+      "words": [
+        {
+          "word": "Trường",
+          "start": 17.38,
+          "end": 17.62,
+          "probability": 0.26
+        },
+        {
+          "word": "cửa,",
+          "start": 17.62,
+          "end": 18.2,
+          "probability": 0.4
+        },
+        {
+          "word": "phải",
+          "start": 18.2,
+          "end": 18.38,
+          "probability": 0.21
+        },
+        {
+          "word": "nói",
+          "start": 18.38,
+          "end": 18.6,
+          "probability": 0.33
+        },
+        {
+          "word": "là",
+          "start": 18.6,
+          "end": 18.6,
+          "probability": 0.69
+        },
+        {
+          "word": "hòa",
+          "start": 18.6,
+          "end": 18.9,
+          "probability": 0.37
+        },
+        {
+          "word": "nó",
+          "start": 18.9,
+          "end": 19.0,
+          "probability": 0.5
+        },
+        {
+          "word": "không",
+          "start": 19.0,
+          "end": 20.04,
+          "probability": 0.17
+        },
+        {
+          "word": "có",
+          "start": 20.04,
+          "end": 20.34,
+          "probability": 0.61
+        },
+        {
+          "word": "cắt",
+          "start": 20.34,
+          "end": 20.44,
+          "probability": 0.6
+        },
+        {
+          "word": "gần",
+          "start": 20.44,
+          "end": 20.66,
+          "probability": 0.46
+        },
+        {
+          "word": "gọi",
+          "start": 20.66,
+          "end": 20.82,
+          "probability": 0.25
+        },
+        {
+          "word": "là.",
+          "start": 20.82,
+          "end": 21.48,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 21.94,
+      "end": 23.68,
+      "text": "Dù giống có cắt thức chương nghiệp, nha.",
+      "words": [
+        {
+          "word": "Dù",
+          "start": 21.94,
+          "end": 21.96,
+          "probability": 0.22
+        },
+        {
+          "word": "giống",
+          "start": 21.96,
+          "end": 22.18,
+          "probability": 0.27
+        },
+        {
+          "word": "có",
+          "start": 22.18,
+          "end": 22.36,
+          "probability": 0.67
+        },
+        {
+          "word": "cắt",
+          "start": 22.36,
+          "end": 22.48,
+          "probability": 0.54
+        },
+        {
+          "word": "thức",
+          "start": 22.48,
+          "end": 22.6,
+          "probability": 0.16
+        },
+        {
+          "word": "chương",
+          "start": 22.6,
+          "end": 22.8,
+          "probability": 0.16
+        },
+        {
+          "word": "nghiệp,",
+          "start": 22.8,
+          "end": 22.98,
+          "probability": 0.81
+        },
+        {
+          "word": "nha.",
+          "start": 23.34,
+          "end": 23.68,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 24.02,
+      "end": 26.12,
+      "text": "Trường phải là nó có cắt người dẻ.",
+      "words": [
+        {
+          "word": "Trường",
+          "start": 24.02,
+          "end": 24.18,
+          "probability": 0.22
+        },
+        {
+          "word": "phải",
+          "start": 24.18,
+          "end": 24.42,
+          "probability": 0.22
+        },
+        {
+          "word": "là",
+          "start": 24.42,
+          "end": 24.64,
+          "probability": 0.69
+        },
+        {
+          "word": "nó",
+          "start": 24.64,
+          "end": 24.96,
+          "probability": 0.47
+        },
+        {
+          "word": "có",
+          "start": 24.96,
+          "end": 25.46,
+          "probability": 0.07
+        },
+        {
+          "word": "cắt",
+          "start": 25.46,
+          "end": 25.56,
+          "probability": 0.67
+        },
+        {
+          "word": "người",
+          "start": 25.56,
+          "end": 26.12,
+          "probability": 0.1
+        },
+        {
+          "word": "dẻ.",
+          "start": 26.12,
+          "end": 26.12,
+          "probability": 0.17
+        }
+      ]
+    }
+  ]
+}

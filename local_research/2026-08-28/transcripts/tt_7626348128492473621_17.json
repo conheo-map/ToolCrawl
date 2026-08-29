@@ -1,0 +1,346 @@
+{
+  "item_id": "tt_7626348128492473621_17",
+  "duration_seconds": 29.24,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 44,
+  "text": "1 đnity 4 đúng không? 1 đói chử 1 luôn 1 đói chree bắt Tek nha 1 đói chử 1 luôn Được rồi Cái này này 2 đói chử cắt 1 luôn 2 đói chử 1 luôn 3 đói, 3 đói chử 1 luôn",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.92,
+      "text": "1 đnity 4 đúng không?",
+      "words": [
+        {
+          "word": "1",
+          "start": 0.0,
+          "end": 0.66,
+          "probability": 0.07
+        },
+        {
+          "word": "đnity",
+          "start": 0.66,
+          "end": 2.24,
+          "probability": 0.0
+        },
+        {
+          "word": "4",
+          "start": 2.24,
+          "end": 3.12,
+          "probability": 0.02
+        },
+        {
+          "word": "đúng",
+          "start": 3.12,
+          "end": 3.12,
+          "probability": 0.09
+        },
+        {
+          "word": "không?",
+          "start": 3.12,
+          "end": 5.92,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 8.14,
+      "end": 10.14,
+      "text": "1 đói chử 1 luôn",
+      "words": [
+        {
+          "word": "1",
+          "start": 8.14,
+          "end": 8.82,
+          "probability": 0.34
+        },
+        {
+          "word": "đói",
+          "start": 8.82,
+          "end": 8.82,
+          "probability": 0.45
+        },
+        {
+          "word": "chử",
+          "start": 8.82,
+          "end": 9.46,
+          "probability": 0.05
+        },
+        {
+          "word": "1",
+          "start": 9.46,
+          "end": 10.14,
+          "probability": 0.18
+        },
+        {
+          "word": "luôn",
+          "start": 10.14,
+          "end": 10.14,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.14,
+      "end": 11.42,
+      "text": "1 đói chree bắt Tek nha",
+      "words": [
+        {
+          "word": "1",
+          "start": 10.14,
+          "end": 10.14,
+          "probability": 0.59
+        },
+        {
+          "word": "đói",
+          "start": 10.14,
+          "end": 10.14,
+          "probability": 0.72
+        },
+        {
+          "word": "chree",
+          "start": 10.14,
+          "end": 11.32,
+          "probability": 0.47
+        },
+        {
+          "word": "bắt",
+          "start": 11.32,
+          "end": 11.42,
+          "probability": 0.03
+        },
+        {
+          "word": "Tek",
+          "start": 11.42,
+          "end": 11.42,
+          "probability": 0.0
+        },
+        {
+          "word": "nha",
+          "start": 11.42,
+          "end": 11.42,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.42,
+      "end": 11.52,
+      "text": "1 đói chử 1 luôn",
+      "words": [
+        {
+          "word": "1",
+          "start": 11.42,
+          "end": 11.42,
+          "probability": 0.15
+        },
+        {
+          "word": "đói",
+          "start": 11.42,
+          "end": 11.42,
+          "probability": 0.68
+        },
+        {
+          "word": "chử",
+          "start": 11.42,
+          "end": 11.42,
+          "probability": 0.69
+        },
+        {
+          "word": "1",
+          "start": 11.42,
+          "end": 11.42,
+          "probability": 0.69
+        },
+        {
+          "word": "luôn",
+          "start": 11.42,
+          "end": 11.52,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.52,
+      "end": 12.64,
+      "text": "Được rồi",
+      "words": [
+        {
+          "word": "Được",
+          "start": 11.52,
+          "end": 11.52,
+          "probability": 0.02
+        },
+        {
+          "word": "rồi",
+          "start": 11.52,
+          "end": 12.64,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.24,
+      "end": 19.2,
+      "text": "Cái này này",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 13.24,
+          "end": 14.84,
+          "probability": 0.09
+        },
+        {
+          "word": "này",
+          "start": 14.84,
+          "end": 19.2,
+          "probability": 0.26
+        },
+        {
+          "word": "này",
+          "start": 19.2,
+          "end": 19.2,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 19.2,
+      "end": 19.66,
+      "text": "2 đói chử cắt 1 luôn",
+      "words": [
+        {
+          "word": "2",
+          "start": 19.2,
+          "end": 19.2,
+          "probability": 0.02
+        },
+        {
+          "word": "đói",
+          "start": 19.2,
+          "end": 19.2,
+          "probability": 0.56
+        },
+        {
+          "word": "chử",
+          "start": 19.2,
+          "end": 19.2,
+          "probability": 0.77
+        },
+        {
+          "word": "cắt",
+          "start": 19.2,
+          "end": 19.38,
+          "probability": 0.03
+        },
+        {
+          "word": "1",
+          "start": 19.38,
+          "end": 19.38,
+          "probability": 0.11
+        },
+        {
+          "word": "luôn",
+          "start": 19.38,
+          "end": 19.66,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 19.66,
+      "end": 24.0,
+      "text": "2 đói chử 1 luôn",
+      "words": [
+        {
+          "word": "2",
+          "start": 19.66,
+          "end": 20.72,
+          "probability": 0.1
+        },
+        {
+          "word": "đói",
+          "start": 20.72,
+          "end": 20.72,
+          "probability": 0.69
+        },
+        {
+          "word": "chử",
+          "start": 20.72,
+          "end": 21.14,
+          "probability": 0.78
+        },
+        {
+          "word": "1",
+          "start": 21.14,
+          "end": 24.0,
+          "probability": 0.48
+        },
+        {
+          "word": "luôn",
+          "start": 24.0,
+          "end": 24.0,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 24.0,
+      "end": 29.2,
+      "text": "3 đói, 3 đói chử 1 luôn",
+      "words": [
+        {
+          "word": "3",
+          "start": 24.0,
+          "end": 24.76,
+          "probability": 0.05
+        },
+        {
+          "word": "đói,",
+          "start": 24.76,
+          "end": 25.1,
+          "probability": 0.82
+        },
+        {
+          "word": "3",
+          "start": 27.24,
+          "end": 27.24,
+          "probability": 0.05
+        },
+        {
+          "word": "đói",
+          "start": 27.24,
+          "end": 27.24,
+          "probability": 0.86
+        },
+        {
+          "word": "chử",
+          "start": 27.24,
+          "end": 27.98,
+          "probability": 0.8
+        },
+        {
+          "word": "1",
+          "start": 27.98,
+          "end": 27.98,
+          "probability": 0.59
+        },
+        {
+          "word": "luôn",
+          "start": 27.98,
+          "end": 29.2,
+          "probability": 0.88
+        }
+      ]
+    }
+  ]
+}

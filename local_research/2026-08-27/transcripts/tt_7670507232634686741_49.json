@@ -1,0 +1,98 @@
+{
+  "item_id": "tt_7670507232634686741_49",
+  "duration_seconds": 28.4,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "Tụi vô chào các bạn ạ! Tụi vô chào các bạn ạ!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.23,
+      "end": 2.47,
+      "text": "Tụi vô chào các bạn ạ!",
+      "words": [
+        {
+          "word": "Tụi",
+          "start": 1.23,
+          "end": 1.41,
+          "probability": 0.33
+        },
+        {
+          "word": "vô",
+          "start": 1.41,
+          "end": 1.57,
+          "probability": 0.34
+        },
+        {
+          "word": "chào",
+          "start": 1.57,
+          "end": 1.99,
+          "probability": 0.21
+        },
+        {
+          "word": "các",
+          "start": 1.99,
+          "end": 2.21,
+          "probability": 0.21
+        },
+        {
+          "word": "bạn",
+          "start": 2.21,
+          "end": 2.37,
+          "probability": 0.43
+        },
+        {
+          "word": "ạ!",
+          "start": 2.37,
+          "end": 2.47,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.63,
+      "end": 3.17,
+      "text": "Tụi vô chào các bạn ạ!",
+      "words": [
+        {
+          "word": "Tụi",
+          "start": 2.63,
+          "end": 2.81,
+          "probability": 0.48
+        },
+        {
+          "word": "vô",
+          "start": 2.81,
+          "end": 2.81,
+          "probability": 0.91
+        },
+        {
+          "word": "chào",
+          "start": 2.81,
+          "end": 3.15,
+          "probability": 0.87
+        },
+        {
+          "word": "các",
+          "start": 3.15,
+          "end": 3.17,
+          "probability": 0.79
+        },
+        {
+          "word": "bạn",
+          "start": 3.17,
+          "end": 3.17,
+          "probability": 0.97
+        },
+        {
+          "word": "ạ!",
+          "start": 3.17,
+          "end": 3.17,
+          "probability": 0.87
+        }
+      ]
+    }
+  ]
+}

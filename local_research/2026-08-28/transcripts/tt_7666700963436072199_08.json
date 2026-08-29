@@ -1,0 +1,86 @@
+{
+  "item_id": "tt_7666700963436072199_08",
+  "duration_seconds": 22.42,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 10,
+  "text": "Thôi thật đi bắt đầu Thôi thật đi bắt đầu",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 1.13,
+      "text": "Thôi thật đi bắt đầu",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 0.11,
+          "end": 0.63,
+          "probability": 0.07
+        },
+        {
+          "word": "thật",
+          "start": 0.63,
+          "end": 0.87,
+          "probability": 0.05
+        },
+        {
+          "word": "đi",
+          "start": 0.87,
+          "end": 0.87,
+          "probability": 0.01
+        },
+        {
+          "word": "bắt",
+          "start": 0.87,
+          "end": 1.01,
+          "probability": 0.06
+        },
+        {
+          "word": "đầu",
+          "start": 1.01,
+          "end": 1.13,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.13,
+      "end": 2.37,
+      "text": "Thôi thật đi bắt đầu",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 1.13,
+          "end": 1.81,
+          "probability": 0.4
+        },
+        {
+          "word": "thật",
+          "start": 1.81,
+          "end": 1.81,
+          "probability": 0.7
+        },
+        {
+          "word": "đi",
+          "start": 1.81,
+          "end": 1.81,
+          "probability": 0.72
+        },
+        {
+          "word": "bắt",
+          "start": 1.81,
+          "end": 2.37,
+          "probability": 0.87
+        },
+        {
+          "word": "đầu",
+          "start": 2.37,
+          "end": 2.37,
+          "probability": 0.97
+        }
+      ]
+    }
+  ]
+}

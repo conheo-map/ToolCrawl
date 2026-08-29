@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7637497621606567185_01",
+  "duration_seconds": 8.99,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Đừng chết!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 7.89,
+      "end": 8.81,
+      "text": "Đừng chết!",
+      "words": [
+        {
+          "word": "Đừng",
+          "start": 7.89,
+          "end": 8.45,
+          "probability": 0.12
+        },
+        {
+          "word": "chết!",
+          "start": 8.45,
+          "end": 8.81,
+          "probability": 0.35
+        }
+      ]
+    }
+  ]
+}

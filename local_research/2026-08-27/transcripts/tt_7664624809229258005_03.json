@@ -1,0 +1,530 @@
+{
+  "item_id": "tt_7664624809229258005_03",
+  "duration_seconds": 19.53,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 80,
+  "text": "Hù vực năm bộ có ngày nắng nắng, mưa giảm hảm và chỉ còn sảy ra bài nơi về triệu tối. Thời thích thành phố của chi Minh, đồng này tảy nừng nửng nắng mạnh, nghiệp độ cao nhất dào đồng và mì và đến bà miệm độ sẻ. Nắng kéo dài tới cuối ngày, thời thích hậu hết tức mưa. Các tính mình tay có nghiệp độ cao nhất dào đồng và mì hay đến bà miệm độ sẻ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.1,
+      "text": "Hù vực năm bộ có ngày nắng nắng, mưa giảm hảm và chỉ còn sảy ra bài nơi về triệu tối.",
+      "words": [
+        {
+          "word": "Hù",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.25
+        },
+        {
+          "word": "vực",
+          "start": 0.3,
+          "end": 0.48,
+          "probability": 0.92
+        },
+        {
+          "word": "năm",
+          "start": 0.48,
+          "end": 0.7,
+          "probability": 0.25
+        },
+        {
+          "word": "bộ",
+          "start": 0.7,
+          "end": 0.94,
+          "probability": 0.59
+        },
+        {
+          "word": "có",
+          "start": 0.94,
+          "end": 1.1,
+          "probability": 0.87
+        },
+        {
+          "word": "ngày",
+          "start": 1.1,
+          "end": 1.3,
+          "probability": 0.85
+        },
+        {
+          "word": "nắng",
+          "start": 1.3,
+          "end": 1.52,
+          "probability": 0.57
+        },
+        {
+          "word": "nắng,",
+          "start": 1.52,
+          "end": 2.02,
+          "probability": 0.33
+        },
+        {
+          "word": "mưa",
+          "start": 2.06,
+          "end": 2.22,
+          "probability": 0.67
+        },
+        {
+          "word": "giảm",
+          "start": 2.22,
+          "end": 2.46,
+          "probability": 0.75
+        },
+        {
+          "word": "hảm",
+          "start": 2.46,
+          "end": 2.88,
+          "probability": 0.44
+        },
+        {
+          "word": "và",
+          "start": 2.88,
+          "end": 3.12,
+          "probability": 0.71
+        },
+        {
+          "word": "chỉ",
+          "start": 3.12,
+          "end": 3.3,
+          "probability": 0.9
+        },
+        {
+          "word": "còn",
+          "start": 3.3,
+          "end": 3.48,
+          "probability": 0.9
+        },
+        {
+          "word": "sảy",
+          "start": 3.48,
+          "end": 3.64,
+          "probability": 0.62
+        },
+        {
+          "word": "ra",
+          "start": 3.64,
+          "end": 3.84,
+          "probability": 0.96
+        },
+        {
+          "word": "bài",
+          "start": 3.84,
+          "end": 4.06,
+          "probability": 0.53
+        },
+        {
+          "word": "nơi",
+          "start": 4.06,
+          "end": 4.32,
+          "probability": 0.94
+        },
+        {
+          "word": "về",
+          "start": 4.32,
+          "end": 4.54,
+          "probability": 0.93
+        },
+        {
+          "word": "triệu",
+          "start": 4.54,
+          "end": 4.7,
+          "probability": 0.38
+        },
+        {
+          "word": "tối.",
+          "start": 4.7,
+          "end": 5.1,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.7,
+      "end": 8.66,
+      "text": "Thời thích thành phố của chi Minh, đồng này tảy nừng nửng nắng mạnh,",
+      "words": [
+        {
+          "word": "Thời",
+          "start": 5.7,
+          "end": 5.7,
+          "probability": 0.73
+        },
+        {
+          "word": "thích",
+          "start": 5.7,
+          "end": 5.88,
+          "probability": 0.67
+        },
+        {
+          "word": "thành",
+          "start": 5.88,
+          "end": 6.08,
+          "probability": 0.75
+        },
+        {
+          "word": "phố",
+          "start": 6.08,
+          "end": 6.2,
+          "probability": 0.97
+        },
+        {
+          "word": "của",
+          "start": 6.2,
+          "end": 6.38,
+          "probability": 0.28
+        },
+        {
+          "word": "chi",
+          "start": 6.38,
+          "end": 6.48,
+          "probability": 0.33
+        },
+        {
+          "word": "Minh,",
+          "start": 6.48,
+          "end": 6.68,
+          "probability": 0.81
+        },
+        {
+          "word": "đồng",
+          "start": 6.9,
+          "end": 7.08,
+          "probability": 0.6
+        },
+        {
+          "word": "này",
+          "start": 7.08,
+          "end": 7.38,
+          "probability": 0.65
+        },
+        {
+          "word": "tảy",
+          "start": 7.38,
+          "end": 7.64,
+          "probability": 0.49
+        },
+        {
+          "word": "nừng",
+          "start": 7.64,
+          "end": 7.78,
+          "probability": 0.38
+        },
+        {
+          "word": "nửng",
+          "start": 7.78,
+          "end": 8.08,
+          "probability": 0.24
+        },
+        {
+          "word": "nắng",
+          "start": 8.08,
+          "end": 8.2,
+          "probability": 0.37
+        },
+        {
+          "word": "mạnh,",
+          "start": 8.2,
+          "end": 8.66,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.84,
+      "end": 11.92,
+      "text": "nghiệp độ cao nhất dào đồng và mì và đến bà miệm độ sẻ.",
+      "words": [
+        {
+          "word": "nghiệp",
+          "start": 8.84,
+          "end": 8.96,
+          "probability": 0.52
+        },
+        {
+          "word": "độ",
+          "start": 8.96,
+          "end": 9.16,
+          "probability": 0.38
+        },
+        {
+          "word": "cao",
+          "start": 9.16,
+          "end": 9.34,
+          "probability": 0.41
+        },
+        {
+          "word": "nhất",
+          "start": 9.34,
+          "end": 9.58,
+          "probability": 0.9
+        },
+        {
+          "word": "dào",
+          "start": 9.58,
+          "end": 9.76,
+          "probability": 0.28
+        },
+        {
+          "word": "đồng",
+          "start": 9.76,
+          "end": 10.0,
+          "probability": 0.64
+        },
+        {
+          "word": "và",
+          "start": 10.0,
+          "end": 10.14,
+          "probability": 0.24
+        },
+        {
+          "word": "mì",
+          "start": 10.14,
+          "end": 10.26,
+          "probability": 0.16
+        },
+        {
+          "word": "và",
+          "start": 10.26,
+          "end": 10.58,
+          "probability": 0.24
+        },
+        {
+          "word": "đến",
+          "start": 10.58,
+          "end": 10.84,
+          "probability": 0.29
+        },
+        {
+          "word": "bà",
+          "start": 10.84,
+          "end": 10.98,
+          "probability": 0.4
+        },
+        {
+          "word": "miệm",
+          "start": 10.98,
+          "end": 11.16,
+          "probability": 0.61
+        },
+        {
+          "word": "độ",
+          "start": 11.16,
+          "end": 11.38,
+          "probability": 0.57
+        },
+        {
+          "word": "sẻ.",
+          "start": 11.38,
+          "end": 11.92,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.28,
+      "end": 15.04,
+      "text": "Nắng kéo dài tới cuối ngày, thời thích hậu hết tức mưa.",
+      "words": [
+        {
+          "word": "Nắng",
+          "start": 12.28,
+          "end": 12.28,
+          "probability": 0.89
+        },
+        {
+          "word": "kéo",
+          "start": 12.28,
+          "end": 12.46,
+          "probability": 0.7
+        },
+        {
+          "word": "dài",
+          "start": 12.46,
+          "end": 12.68,
+          "probability": 0.57
+        },
+        {
+          "word": "tới",
+          "start": 12.68,
+          "end": 12.94,
+          "probability": 0.95
+        },
+        {
+          "word": "cuối",
+          "start": 12.94,
+          "end": 13.12,
+          "probability": 0.79
+        },
+        {
+          "word": "ngày,",
+          "start": 13.12,
+          "end": 13.46,
+          "probability": 0.93
+        },
+        {
+          "word": "thời",
+          "start": 13.76,
+          "end": 13.76,
+          "probability": 0.71
+        },
+        {
+          "word": "thích",
+          "start": 13.76,
+          "end": 13.98,
+          "probability": 0.92
+        },
+        {
+          "word": "hậu",
+          "start": 13.98,
+          "end": 14.28,
+          "probability": 0.64
+        },
+        {
+          "word": "hết",
+          "start": 14.28,
+          "end": 14.56,
+          "probability": 0.86
+        },
+        {
+          "word": "tức",
+          "start": 14.56,
+          "end": 14.78,
+          "probability": 0.19
+        },
+        {
+          "word": "mưa.",
+          "start": 14.78,
+          "end": 15.04,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.6,
+      "end": 19.34,
+      "text": "Các tính mình tay có nghiệp độ cao nhất dào đồng và mì hay đến bà miệm độ sẻ.",
+      "words": [
+        {
+          "word": "Các",
+          "start": 15.6,
+          "end": 15.74,
+          "probability": 0.81
+        },
+        {
+          "word": "tính",
+          "start": 15.74,
+          "end": 15.9,
+          "probability": 0.64
+        },
+        {
+          "word": "mình",
+          "start": 15.9,
+          "end": 16.08,
+          "probability": 0.54
+        },
+        {
+          "word": "tay",
+          "start": 16.08,
+          "end": 16.3,
+          "probability": 0.52
+        },
+        {
+          "word": "có",
+          "start": 16.3,
+          "end": 16.48,
+          "probability": 0.84
+        },
+        {
+          "word": "nghiệp",
+          "start": 16.48,
+          "end": 16.64,
+          "probability": 0.91
+        },
+        {
+          "word": "độ",
+          "start": 16.64,
+          "end": 16.84,
+          "probability": 0.94
+        },
+        {
+          "word": "cao",
+          "start": 16.84,
+          "end": 17.04,
+          "probability": 1.0
+        },
+        {
+          "word": "nhất",
+          "start": 17.04,
+          "end": 17.26,
+          "probability": 1.0
+        },
+        {
+          "word": "dào",
+          "start": 17.26,
+          "end": 17.48,
+          "probability": 0.95
+        },
+        {
+          "word": "đồng",
+          "start": 17.48,
+          "end": 17.68,
+          "probability": 1.0
+        },
+        {
+          "word": "và",
+          "start": 17.68,
+          "end": 17.86,
+          "probability": 0.99
+        },
+        {
+          "word": "mì",
+          "start": 17.86,
+          "end": 18.02,
+          "probability": 0.7
+        },
+        {
+          "word": "hay",
+          "start": 18.02,
+          "end": 18.28,
+          "probability": 0.58
+        },
+        {
+          "word": "đến",
+          "start": 18.28,
+          "end": 18.48,
+          "probability": 0.79
+        },
+        {
+          "word": "bà",
+          "start": 18.48,
+          "end": 18.64,
+          "probability": 0.99
+        },
+        {
+          "word": "miệm",
+          "start": 18.64,
+          "end": 18.78,
+          "probability": 0.72
+        },
+        {
+          "word": "độ",
+          "start": 18.78,
+          "end": 19.02,
+          "probability": 0.28
+        },
+        {
+          "word": "sẻ.",
+          "start": 19.02,
+          "end": 19.34,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

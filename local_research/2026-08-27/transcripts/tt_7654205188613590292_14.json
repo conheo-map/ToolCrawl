@@ -1,0 +1,732 @@
+{
+  "item_id": "tt_7654205188613590292_14",
+  "duration_seconds": 27.78,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 111,
+  "text": "Vũ giảng trang người phá, giờ cá này bình làm sao gia này bình làm sao? A đây những cái dịch mà nó thục dạy, giang giá là nử khóc, lấy nhạy măng cuộc là. Tại tưởng chi, nàn gà lưu, cá nửa cá những đậu đậu đậu đậu. Các hay tưởng mình sẽ tử nội, gà dương mình sẽ nửa luôn. Cá lọc đồng, cá cá những đậu đồng là có hấp. A đây là mình thường là tưởng tưởng có thấy sau dịch sửa kịch phép là bàn người đây gà ngoài dưu. Một người đi giao, hai người trong biết, mỗi đầy khách đếp phương tế gất lỡ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.98,
+      "text": "Vũ giảng trang người phá, giờ cá này bình làm sao gia này bình làm sao?",
+      "words": [
+        {
+          "word": "Vũ",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.33
+        },
+        {
+          "word": "giảng",
+          "start": 0.36,
+          "end": 0.66,
+          "probability": 0.26
+        },
+        {
+          "word": "trang",
+          "start": 0.66,
+          "end": 0.98,
+          "probability": 0.47
+        },
+        {
+          "word": "người",
+          "start": 0.98,
+          "end": 1.06,
+          "probability": 0.78
+        },
+        {
+          "word": "phá,",
+          "start": 1.06,
+          "end": 1.36,
+          "probability": 0.5
+        },
+        {
+          "word": "giờ",
+          "start": 1.66,
+          "end": 1.82,
+          "probability": 0.22
+        },
+        {
+          "word": "cá",
+          "start": 1.82,
+          "end": 2.08,
+          "probability": 0.47
+        },
+        {
+          "word": "này",
+          "start": 2.08,
+          "end": 2.26,
+          "probability": 0.73
+        },
+        {
+          "word": "bình",
+          "start": 2.26,
+          "end": 2.46,
+          "probability": 0.69
+        },
+        {
+          "word": "làm",
+          "start": 2.46,
+          "end": 2.68,
+          "probability": 0.67
+        },
+        {
+          "word": "sao",
+          "start": 2.68,
+          "end": 2.9,
+          "probability": 0.54
+        },
+        {
+          "word": "gia",
+          "start": 2.9,
+          "end": 3.16,
+          "probability": 0.22
+        },
+        {
+          "word": "này",
+          "start": 3.16,
+          "end": 3.32,
+          "probability": 0.96
+        },
+        {
+          "word": "bình",
+          "start": 3.32,
+          "end": 3.48,
+          "probability": 0.68
+        },
+        {
+          "word": "làm",
+          "start": 3.48,
+          "end": 3.68,
+          "probability": 1.0
+        },
+        {
+          "word": "sao?",
+          "start": 3.68,
+          "end": 3.98,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.2,
+      "end": 9.08,
+      "text": "A đây những cái dịch mà nó thục dạy, giang giá là nử khóc, lấy nhạy măng cuộc là.",
+      "words": [
+        {
+          "word": "A",
+          "start": 4.2,
+          "end": 4.3,
+          "probability": 0.18
+        },
+        {
+          "word": "đây",
+          "start": 4.3,
+          "end": 4.44,
+          "probability": 0.16
+        },
+        {
+          "word": "những",
+          "start": 4.44,
+          "end": 4.66,
+          "probability": 0.53
+        },
+        {
+          "word": "cái",
+          "start": 4.66,
+          "end": 4.9,
+          "probability": 0.64
+        },
+        {
+          "word": "dịch",
+          "start": 4.9,
+          "end": 5.08,
+          "probability": 0.24
+        },
+        {
+          "word": "mà",
+          "start": 5.08,
+          "end": 5.28,
+          "probability": 0.53
+        },
+        {
+          "word": "nó",
+          "start": 5.28,
+          "end": 5.42,
+          "probability": 0.5
+        },
+        {
+          "word": "thục",
+          "start": 5.42,
+          "end": 5.68,
+          "probability": 0.63
+        },
+        {
+          "word": "dạy,",
+          "start": 5.68,
+          "end": 6.28,
+          "probability": 0.48
+        },
+        {
+          "word": "giang",
+          "start": 6.56,
+          "end": 6.56,
+          "probability": 0.32
+        },
+        {
+          "word": "giá",
+          "start": 6.56,
+          "end": 6.9,
+          "probability": 0.61
+        },
+        {
+          "word": "là",
+          "start": 6.9,
+          "end": 7.12,
+          "probability": 0.64
+        },
+        {
+          "word": "nử",
+          "start": 7.12,
+          "end": 7.32,
+          "probability": 0.19
+        },
+        {
+          "word": "khóc,",
+          "start": 7.32,
+          "end": 7.76,
+          "probability": 0.41
+        },
+        {
+          "word": "lấy",
+          "start": 7.78,
+          "end": 7.94,
+          "probability": 0.24
+        },
+        {
+          "word": "nhạy",
+          "start": 7.94,
+          "end": 8.14,
+          "probability": 0.29
+        },
+        {
+          "word": "măng",
+          "start": 8.14,
+          "end": 8.32,
+          "probability": 0.34
+        },
+        {
+          "word": "cuộc",
+          "start": 8.32,
+          "end": 8.54,
+          "probability": 0.35
+        },
+        {
+          "word": "là.",
+          "start": 8.54,
+          "end": 9.08,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.48,
+      "end": 12.78,
+      "text": "Tại tưởng chi, nàn gà lưu, cá nửa cá những đậu đậu đậu đậu.",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 9.48,
+          "end": 9.48,
+          "probability": 0.36
+        },
+        {
+          "word": "tưởng",
+          "start": 9.48,
+          "end": 9.78,
+          "probability": 0.38
+        },
+        {
+          "word": "chi,",
+          "start": 9.78,
+          "end": 10.08,
+          "probability": 0.11
+        },
+        {
+          "word": "nàn",
+          "start": 10.2,
+          "end": 10.3,
+          "probability": 0.37
+        },
+        {
+          "word": "gà",
+          "start": 10.3,
+          "end": 10.5,
+          "probability": 0.4
+        },
+        {
+          "word": "lưu,",
+          "start": 10.5,
+          "end": 10.76,
+          "probability": 0.44
+        },
+        {
+          "word": "cá",
+          "start": 10.92,
+          "end": 11.14,
+          "probability": 0.93
+        },
+        {
+          "word": "nửa",
+          "start": 11.14,
+          "end": 11.56,
+          "probability": 0.58
+        },
+        {
+          "word": "cá",
+          "start": 11.56,
+          "end": 11.8,
+          "probability": 0.63
+        },
+        {
+          "word": "những",
+          "start": 11.8,
+          "end": 12.0,
+          "probability": 0.38
+        },
+        {
+          "word": "đậu",
+          "start": 12.0,
+          "end": 12.2,
+          "probability": 0.47
+        },
+        {
+          "word": "đậu",
+          "start": 12.2,
+          "end": 12.4,
+          "probability": 0.77
+        },
+        {
+          "word": "đậu",
+          "start": 12.4,
+          "end": 12.62,
+          "probability": 0.81
+        },
+        {
+          "word": "đậu.",
+          "start": 12.62,
+          "end": 12.78,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.04,
+      "end": 15.86,
+      "text": "Các hay tưởng mình sẽ tử nội, gà dương mình sẽ nửa luôn.",
+      "words": [
+        {
+          "word": "Các",
+          "start": 13.04,
+          "end": 13.2,
+          "probability": 0.46
+        },
+        {
+          "word": "hay",
+          "start": 13.2,
+          "end": 13.44,
+          "probability": 0.19
+        },
+        {
+          "word": "tưởng",
+          "start": 13.44,
+          "end": 13.62,
+          "probability": 0.89
+        },
+        {
+          "word": "mình",
+          "start": 13.62,
+          "end": 13.88,
+          "probability": 0.23
+        },
+        {
+          "word": "sẽ",
+          "start": 13.88,
+          "end": 13.94,
+          "probability": 0.92
+        },
+        {
+          "word": "tử",
+          "start": 13.94,
+          "end": 14.12,
+          "probability": 0.5
+        },
+        {
+          "word": "nội,",
+          "start": 14.12,
+          "end": 14.46,
+          "probability": 0.44
+        },
+        {
+          "word": "gà",
+          "start": 14.58,
+          "end": 14.8,
+          "probability": 0.64
+        },
+        {
+          "word": "dương",
+          "start": 14.8,
+          "end": 15.0,
+          "probability": 0.35
+        },
+        {
+          "word": "mình",
+          "start": 15.0,
+          "end": 15.16,
+          "probability": 0.92
+        },
+        {
+          "word": "sẽ",
+          "start": 15.16,
+          "end": 15.3,
+          "probability": 0.59
+        },
+        {
+          "word": "nửa",
+          "start": 15.3,
+          "end": 15.62,
+          "probability": 0.34
+        },
+        {
+          "word": "luôn.",
+          "start": 15.62,
+          "end": 15.86,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.9,
+      "end": 18.5,
+      "text": "Cá lọc đồng, cá cá những đậu đồng là có hấp.",
+      "words": [
+        {
+          "word": "Cá",
+          "start": 15.9,
+          "end": 16.1,
+          "probability": 0.72
+        },
+        {
+          "word": "lọc",
+          "start": 16.1,
+          "end": 16.4,
+          "probability": 0.63
+        },
+        {
+          "word": "đồng,",
+          "start": 16.4,
+          "end": 16.74,
+          "probability": 0.57
+        },
+        {
+          "word": "cá",
+          "start": 16.88,
+          "end": 17.0,
+          "probability": 0.51
+        },
+        {
+          "word": "cá",
+          "start": 17.0,
+          "end": 17.16,
+          "probability": 0.35
+        },
+        {
+          "word": "những",
+          "start": 17.16,
+          "end": 17.36,
+          "probability": 0.56
+        },
+        {
+          "word": "đậu",
+          "start": 17.36,
+          "end": 17.52,
+          "probability": 0.99
+        },
+        {
+          "word": "đồng",
+          "start": 17.52,
+          "end": 17.74,
+          "probability": 0.99
+        },
+        {
+          "word": "là",
+          "start": 17.74,
+          "end": 17.94,
+          "probability": 0.61
+        },
+        {
+          "word": "có",
+          "start": 17.94,
+          "end": 18.12,
+          "probability": 0.77
+        },
+        {
+          "word": "hấp.",
+          "start": 18.12,
+          "end": 18.5,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 18.64,
+      "end": 23.94,
+      "text": "A đây là mình thường là tưởng tưởng có thấy sau dịch sửa kịch phép là bàn người đây gà ngoài dưu.",
+      "words": [
+        {
+          "word": "A",
+          "start": 18.64,
+          "end": 18.78,
+          "probability": 0.21
+        },
+        {
+          "word": "đây",
+          "start": 18.78,
+          "end": 18.98,
+          "probability": 0.58
+        },
+        {
+          "word": "là",
+          "start": 18.98,
+          "end": 19.2,
+          "probability": 0.96
+        },
+        {
+          "word": "mình",
+          "start": 19.2,
+          "end": 19.42,
+          "probability": 0.28
+        },
+        {
+          "word": "thường",
+          "start": 19.42,
+          "end": 19.68,
+          "probability": 0.82
+        },
+        {
+          "word": "là",
+          "start": 19.68,
+          "end": 20.02,
+          "probability": 0.72
+        },
+        {
+          "word": "tưởng",
+          "start": 20.02,
+          "end": 20.22,
+          "probability": 0.73
+        },
+        {
+          "word": "tưởng",
+          "start": 20.22,
+          "end": 20.36,
+          "probability": 0.15
+        },
+        {
+          "word": "có",
+          "start": 20.36,
+          "end": 20.52,
+          "probability": 0.8
+        },
+        {
+          "word": "thấy",
+          "start": 20.52,
+          "end": 20.86,
+          "probability": 0.28
+        },
+        {
+          "word": "sau",
+          "start": 20.86,
+          "end": 21.42,
+          "probability": 0.16
+        },
+        {
+          "word": "dịch",
+          "start": 21.42,
+          "end": 21.62,
+          "probability": 0.15
+        },
+        {
+          "word": "sửa",
+          "start": 21.62,
+          "end": 21.84,
+          "probability": 0.59
+        },
+        {
+          "word": "kịch",
+          "start": 21.84,
+          "end": 22.08,
+          "probability": 0.28
+        },
+        {
+          "word": "phép",
+          "start": 22.08,
+          "end": 22.32,
+          "probability": 0.58
+        },
+        {
+          "word": "là",
+          "start": 22.32,
+          "end": 22.46,
+          "probability": 0.71
+        },
+        {
+          "word": "bàn",
+          "start": 22.46,
+          "end": 22.74,
+          "probability": 0.39
+        },
+        {
+          "word": "người",
+          "start": 22.74,
+          "end": 22.96,
+          "probability": 0.84
+        },
+        {
+          "word": "đây",
+          "start": 22.96,
+          "end": 23.24,
+          "probability": 0.19
+        },
+        {
+          "word": "gà",
+          "start": 23.24,
+          "end": 23.34,
+          "probability": 0.47
+        },
+        {
+          "word": "ngoài",
+          "start": 23.34,
+          "end": 23.54,
+          "probability": 0.9
+        },
+        {
+          "word": "dưu.",
+          "start": 23.54,
+          "end": 23.94,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 24.18,
+      "end": 27.74,
+      "text": "Một người đi giao, hai người trong biết, mỗi đầy khách đếp phương tế gất lỡ.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 24.18,
+          "end": 24.18,
+          "probability": 0.82
+        },
+        {
+          "word": "người",
+          "start": 24.18,
+          "end": 24.38,
+          "probability": 1.0
+        },
+        {
+          "word": "đi",
+          "start": 24.38,
+          "end": 24.62,
+          "probability": 0.31
+        },
+        {
+          "word": "giao,",
+          "start": 24.62,
+          "end": 24.84,
+          "probability": 0.52
+        },
+        {
+          "word": "hai",
+          "start": 25.1,
+          "end": 25.3,
+          "probability": 0.22
+        },
+        {
+          "word": "người",
+          "start": 25.3,
+          "end": 25.48,
+          "probability": 0.99
+        },
+        {
+          "word": "trong",
+          "start": 25.48,
+          "end": 25.68,
+          "probability": 0.89
+        },
+        {
+          "word": "biết,",
+          "start": 25.68,
+          "end": 25.92,
+          "probability": 0.48
+        },
+        {
+          "word": "mỗi",
+          "start": 26.08,
+          "end": 26.14,
+          "probability": 0.31
+        },
+        {
+          "word": "đầy",
+          "start": 26.14,
+          "end": 26.36,
+          "probability": 0.59
+        },
+        {
+          "word": "khách",
+          "start": 26.36,
+          "end": 26.54,
+          "probability": 0.61
+        },
+        {
+          "word": "đếp",
+          "start": 26.54,
+          "end": 26.72,
+          "probability": 0.38
+        },
+        {
+          "word": "phương",
+          "start": 26.72,
+          "end": 27.0,
+          "probability": 0.8
+        },
+        {
+          "word": "tế",
+          "start": 27.0,
+          "end": 27.2,
+          "probability": 0.16
+        },
+        {
+          "word": "gất",
+          "start": 27.2,
+          "end": 27.42,
+          "probability": 0.23
+        },
+        {
+          "word": "lỡ.",
+          "start": 27.42,
+          "end": 27.74,
+          "probability": 0.59
+        }
+      ]
+    }
+  ]
+}

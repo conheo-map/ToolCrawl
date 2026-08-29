@@ -1,0 +1,568 @@
+{
+  "item_id": "tt_7673722473589787925_03",
+  "duration_seconds": 27.91,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 80,
+  "text": "Để kì vựng vang hóa Ấn sinh viên trên đe học í qua sạp ngoc thạch Ấn thử thêm vô chí mình. Thành trứng vết lên cuối như bắt đầu từ lỗi đau tốt cùng. Nó là khi đại dịch COVID-19 gửi chá quay. Thời đi mà, dạ tư bài nứt. Mình nói như mà nó chung ra. Rất là bù là cái là cái Ấn, hả? Nó bởi vậy. Mong mắc cái cái. Đi ở mầm. Đi ở mầm.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.34,
+      "text": "Để kì vựng vang hóa Ấn sinh viên trên đe học í qua sạp ngoc thạch Ấn thử thêm vô chí mình.",
+      "words": [
+        {
+          "word": "Để",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.27
+        },
+        {
+          "word": "kì",
+          "start": 0.4,
+          "end": 0.6,
+          "probability": 0.29
+        },
+        {
+          "word": "vựng",
+          "start": 0.6,
+          "end": 0.86,
+          "probability": 0.41
+        },
+        {
+          "word": "vang",
+          "start": 0.86,
+          "end": 1.08,
+          "probability": 0.38
+        },
+        {
+          "word": "hóa",
+          "start": 1.08,
+          "end": 1.32,
+          "probability": 0.58
+        },
+        {
+          "word": "Ấn",
+          "start": 1.32,
+          "end": 1.56,
+          "probability": 0.42
+        },
+        {
+          "word": "sinh",
+          "start": 1.56,
+          "end": 1.72,
+          "probability": 0.63
+        },
+        {
+          "word": "viên",
+          "start": 1.72,
+          "end": 2.12,
+          "probability": 0.55
+        },
+        {
+          "word": "trên",
+          "start": 2.12,
+          "end": 2.46,
+          "probability": 0.26
+        },
+        {
+          "word": "đe",
+          "start": 2.46,
+          "end": 2.7,
+          "probability": 0.4
+        },
+        {
+          "word": "học",
+          "start": 2.7,
+          "end": 2.78,
+          "probability": 0.86
+        },
+        {
+          "word": "í",
+          "start": 2.78,
+          "end": 3.06,
+          "probability": 0.55
+        },
+        {
+          "word": "qua",
+          "start": 3.06,
+          "end": 3.16,
+          "probability": 0.25
+        },
+        {
+          "word": "sạp",
+          "start": 3.16,
+          "end": 3.4,
+          "probability": 0.58
+        },
+        {
+          "word": "ngoc",
+          "start": 3.4,
+          "end": 3.56,
+          "probability": 0.49
+        },
+        {
+          "word": "thạch",
+          "start": 3.56,
+          "end": 3.8,
+          "probability": 0.34
+        },
+        {
+          "word": "Ấn",
+          "start": 3.8,
+          "end": 4.02,
+          "probability": 0.6
+        },
+        {
+          "word": "thử",
+          "start": 4.02,
+          "end": 4.02,
+          "probability": 0.33
+        },
+        {
+          "word": "thêm",
+          "start": 4.02,
+          "end": 4.22,
+          "probability": 0.44
+        },
+        {
+          "word": "vô",
+          "start": 4.22,
+          "end": 4.42,
+          "probability": 0.67
+        },
+        {
+          "word": "chí",
+          "start": 4.42,
+          "end": 4.62,
+          "probability": 0.29
+        },
+        {
+          "word": "mình.",
+          "start": 4.62,
+          "end": 5.34,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.26,
+      "end": 9.1,
+      "text": "Thành trứng vết lên cuối như bắt đầu từ lỗi đau tốt cùng.",
+      "words": [
+        {
+          "word": "Thành",
+          "start": 6.26,
+          "end": 6.3,
+          "probability": 0.5
+        },
+        {
+          "word": "trứng",
+          "start": 6.3,
+          "end": 6.52,
+          "probability": 0.28
+        },
+        {
+          "word": "vết",
+          "start": 6.52,
+          "end": 6.68,
+          "probability": 0.19
+        },
+        {
+          "word": "lên",
+          "start": 6.68,
+          "end": 6.86,
+          "probability": 0.73
+        },
+        {
+          "word": "cuối",
+          "start": 6.86,
+          "end": 7.08,
+          "probability": 0.27
+        },
+        {
+          "word": "như",
+          "start": 7.08,
+          "end": 7.24,
+          "probability": 0.84
+        },
+        {
+          "word": "bắt",
+          "start": 7.24,
+          "end": 7.52,
+          "probability": 0.67
+        },
+        {
+          "word": "đầu",
+          "start": 7.52,
+          "end": 7.82,
+          "probability": 0.94
+        },
+        {
+          "word": "từ",
+          "start": 7.82,
+          "end": 8.1,
+          "probability": 0.5
+        },
+        {
+          "word": "lỗi",
+          "start": 8.1,
+          "end": 8.26,
+          "probability": 0.78
+        },
+        {
+          "word": "đau",
+          "start": 8.26,
+          "end": 8.46,
+          "probability": 0.66
+        },
+        {
+          "word": "tốt",
+          "start": 8.46,
+          "end": 8.7,
+          "probability": 0.49
+        },
+        {
+          "word": "cùng.",
+          "start": 8.7,
+          "end": 9.1,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.5,
+      "end": 12.3,
+      "text": "Nó là khi đại dịch COVID-19 gửi chá quay.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 9.5,
+          "end": 9.5,
+          "probability": 0.56
+        },
+        {
+          "word": "là",
+          "start": 9.5,
+          "end": 9.68,
+          "probability": 0.8
+        },
+        {
+          "word": "khi",
+          "start": 9.68,
+          "end": 9.84,
+          "probability": 0.8
+        },
+        {
+          "word": "đại",
+          "start": 9.84,
+          "end": 10.06,
+          "probability": 0.61
+        },
+        {
+          "word": "dịch",
+          "start": 10.06,
+          "end": 10.22,
+          "probability": 0.67
+        },
+        {
+          "word": "COVID",
+          "start": 10.22,
+          "end": 10.5,
+          "probability": 0.58
+        },
+        {
+          "word": "-19",
+          "start": 10.5,
+          "end": 10.84,
+          "probability": 0.79
+        },
+        {
+          "word": "gửi",
+          "start": 10.84,
+          "end": 11.56,
+          "probability": 0.44
+        },
+        {
+          "word": "chá",
+          "start": 11.56,
+          "end": 11.84,
+          "probability": 0.28
+        },
+        {
+          "word": "quay.",
+          "start": 11.84,
+          "end": 12.3,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.04,
+      "end": 15.16,
+      "text": "Thời đi mà, dạ tư bài nứt.",
+      "words": [
+        {
+          "word": "Thời",
+          "start": 13.04,
+          "end": 13.26,
+          "probability": 0.34
+        },
+        {
+          "word": "đi",
+          "start": 13.26,
+          "end": 13.44,
+          "probability": 0.29
+        },
+        {
+          "word": "mà,",
+          "start": 13.44,
+          "end": 14.0,
+          "probability": 0.2
+        },
+        {
+          "word": "dạ",
+          "start": 14.38,
+          "end": 14.46,
+          "probability": 0.16
+        },
+        {
+          "word": "tư",
+          "start": 14.46,
+          "end": 14.56,
+          "probability": 0.11
+        },
+        {
+          "word": "bài",
+          "start": 14.56,
+          "end": 14.74,
+          "probability": 0.23
+        },
+        {
+          "word": "nứt.",
+          "start": 14.74,
+          "end": 15.16,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 17.63,
+      "end": 19.25,
+      "text": "Mình nói như mà nó chung ra.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 17.63,
+          "end": 17.63,
+          "probability": 0.13
+        },
+        {
+          "word": "nói",
+          "start": 17.63,
+          "end": 17.99,
+          "probability": 0.16
+        },
+        {
+          "word": "như",
+          "start": 17.99,
+          "end": 18.25,
+          "probability": 0.11
+        },
+        {
+          "word": "mà",
+          "start": 18.25,
+          "end": 18.59,
+          "probability": 0.3
+        },
+        {
+          "word": "nó",
+          "start": 18.59,
+          "end": 18.81,
+          "probability": 0.26
+        },
+        {
+          "word": "chung",
+          "start": 18.81,
+          "end": 19.01,
+          "probability": 0.46
+        },
+        {
+          "word": "ra.",
+          "start": 19.01,
+          "end": 19.25,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 20.29,
+      "end": 23.95,
+      "text": "Rất là bù là cái là cái Ấn, hả? Nó bởi vậy.",
+      "words": [
+        {
+          "word": "Rất",
+          "start": 20.29,
+          "end": 20.29,
+          "probability": 0.36
+        },
+        {
+          "word": "là",
+          "start": 20.29,
+          "end": 20.31,
+          "probability": 0.35
+        },
+        {
+          "word": "bù",
+          "start": 20.31,
+          "end": 21.31,
+          "probability": 0.22
+        },
+        {
+          "word": "là",
+          "start": 21.31,
+          "end": 21.61,
+          "probability": 0.04
+        },
+        {
+          "word": "cái",
+          "start": 21.61,
+          "end": 21.69,
+          "probability": 0.39
+        },
+        {
+          "word": "là",
+          "start": 21.69,
+          "end": 21.77,
+          "probability": 0.05
+        },
+        {
+          "word": "cái",
+          "start": 21.77,
+          "end": 22.15,
+          "probability": 0.41
+        },
+        {
+          "word": "Ấn,",
+          "start": 22.15,
+          "end": 22.81,
+          "probability": 0.51
+        },
+        {
+          "word": "hả?",
+          "start": 22.83,
+          "end": 23.17,
+          "probability": 0.14
+        },
+        {
+          "word": "Nó",
+          "start": 23.47,
+          "end": 23.47,
+          "probability": 0.34
+        },
+        {
+          "word": "bởi",
+          "start": 23.47,
+          "end": 23.79,
+          "probability": 0.53
+        },
+        {
+          "word": "vậy.",
+          "start": 23.79,
+          "end": 23.95,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 24.63,
+      "end": 26.15,
+      "text": "Mong mắc cái cái.",
+      "words": [
+        {
+          "word": "Mong",
+          "start": 24.63,
+          "end": 24.93,
+          "probability": 0.16
+        },
+        {
+          "word": "mắc",
+          "start": 24.93,
+          "end": 25.33,
+          "probability": 0.4
+        },
+        {
+          "word": "cái",
+          "start": 25.33,
+          "end": 25.59,
+          "probability": 0.3
+        },
+        {
+          "word": "cái.",
+          "start": 25.59,
+          "end": 26.15,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 26.45,
+      "end": 26.99,
+      "text": "Đi ở mầm.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 26.45,
+          "end": 26.61,
+          "probability": 0.31
+        },
+        {
+          "word": "ở",
+          "start": 26.61,
+          "end": 26.69,
+          "probability": 0.1
+        },
+        {
+          "word": "mầm.",
+          "start": 26.69,
+          "end": 26.99,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 27.41,
+      "end": 27.73,
+      "text": "Đi ở mầm.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 27.41,
+          "end": 27.41,
+          "probability": 0.65
+        },
+        {
+          "word": "ở",
+          "start": 27.41,
+          "end": 27.69,
+          "probability": 0.92
+        },
+        {
+          "word": "mầm.",
+          "start": 27.69,
+          "end": 27.73,
+          "probability": 0.65
+        }
+      ]
+    }
+  ]
+}

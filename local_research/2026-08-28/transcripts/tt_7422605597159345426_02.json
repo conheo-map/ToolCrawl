@@ -1,0 +1,212 @@
+{
+  "item_id": "tt_7422605597159345426_02",
+  "duration_seconds": 21.68,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 27,
+  "text": "Chật về dơ sơ mơ Nói ngồi ngồi đáng mơ Này đau, bánh vòa Sơ mơ, anh mi đã cứ mong chờ Sôi khi bong đêm t",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 3.47,
+      "text": "Chật về dơ sơ mơ",
+      "words": [
+        {
+          "word": "Chật",
+          "start": 0.05,
+          "end": 0.77,
+          "probability": 0.35
+        },
+        {
+          "word": "về",
+          "start": 0.77,
+          "end": 1.47,
+          "probability": 0.6
+        },
+        {
+          "word": "dơ",
+          "start": 1.47,
+          "end": 2.01,
+          "probability": 0.17
+        },
+        {
+          "word": "sơ",
+          "start": 2.01,
+          "end": 2.61,
+          "probability": 0.3
+        },
+        {
+          "word": "mơ",
+          "start": 2.61,
+          "end": 3.47,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.47,
+      "end": 7.07,
+      "text": "Nói ngồi ngồi đáng mơ",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 3.47,
+          "end": 4.69,
+          "probability": 0.54
+        },
+        {
+          "word": "ngồi",
+          "start": 4.69,
+          "end": 4.95,
+          "probability": 0.1
+        },
+        {
+          "word": "ngồi",
+          "start": 4.95,
+          "end": 5.37,
+          "probability": 0.19
+        },
+        {
+          "word": "đáng",
+          "start": 5.37,
+          "end": 6.07,
+          "probability": 0.28
+        },
+        {
+          "word": "mơ",
+          "start": 6.07,
+          "end": 7.07,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.07,
+      "end": 10.91,
+      "text": "Này đau, bánh vòa",
+      "words": [
+        {
+          "word": "Này",
+          "start": 7.07,
+          "end": 9.21,
+          "probability": 0.14
+        },
+        {
+          "word": "đau,",
+          "start": 9.21,
+          "end": 9.75,
+          "probability": 0.45
+        },
+        {
+          "word": "bánh",
+          "start": 9.93,
+          "end": 10.07,
+          "probability": 0.23
+        },
+        {
+          "word": "vòa",
+          "start": 10.07,
+          "end": 10.91,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.91,
+      "end": 15.87,
+      "text": "Sơ mơ, anh mi đã cứ mong chờ",
+      "words": [
+        {
+          "word": "Sơ",
+          "start": 10.91,
+          "end": 11.51,
+          "probability": 0.07
+        },
+        {
+          "word": "mơ,",
+          "start": 11.51,
+          "end": 12.19,
+          "probability": 0.66
+        },
+        {
+          "word": "anh",
+          "start": 12.39,
+          "end": 12.61,
+          "probability": 0.76
+        },
+        {
+          "word": "mi",
+          "start": 12.61,
+          "end": 13.15,
+          "probability": 0.18
+        },
+        {
+          "word": "đã",
+          "start": 13.15,
+          "end": 13.93,
+          "probability": 0.04
+        },
+        {
+          "word": "cứ",
+          "start": 13.93,
+          "end": 14.67,
+          "probability": 0.27
+        },
+        {
+          "word": "mong",
+          "start": 14.67,
+          "end": 15.21,
+          "probability": 0.7
+        },
+        {
+          "word": "chờ",
+          "start": 15.21,
+          "end": 15.87,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 17.97,
+      "end": 21.65,
+      "text": "Sôi khi bong đêm t",
+      "words": [
+        {
+          "word": "Sôi",
+          "start": 17.97,
+          "end": 18.69,
+          "probability": 0.16
+        },
+        {
+          "word": "khi",
+          "start": 18.69,
+          "end": 19.39,
+          "probability": 0.54
+        },
+        {
+          "word": "bong",
+          "start": 19.39,
+          "end": 19.97,
+          "probability": 0.46
+        },
+        {
+          "word": "đêm",
+          "start": 19.97,
+          "end": 20.73,
+          "probability": 0.26
+        },
+        {
+          "word": "t",
+          "start": 20.73,
+          "end": 21.65,
+          "probability": 0.1
+        }
+      ]
+    }
+  ]
+}

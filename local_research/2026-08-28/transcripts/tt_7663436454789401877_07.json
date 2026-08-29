@@ -1,0 +1,808 @@
+{
+  "item_id": "tt_7663436454789401877_07",
+  "duration_seconds": 29.21,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 105,
+  "text": "Nếu là nó sóc tồi nó, mình phải dây ông người, mình đang gặp bởi gặp. Gặp, nó phải nhớ là nó dưới lời, thì hợp biến xe là sau, mình bà chạm, sinh nhớ gà chạm. Cái cái nó sẽ ra nổi. Nó sẽ gà lời nó, nó hợp, nó hợp. Nó sẽ gặp, nó sẽ gặp, nó có vẻ thì, nó như là nếu tình sẽ gặp lại. Nó không phát khi gặp, nó sinh gà là, nó có vô ngôn có ai gồn gà. Đi, nó tên, nó tây gái, thì nó sẽ thấy lại và chánh nó xin ra vác qua",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.86,
+      "text": "Nếu là nó sóc tồi nó,",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.22
+        },
+        {
+          "word": "là",
+          "start": 0.36,
+          "end": 0.6,
+          "probability": 0.75
+        },
+        {
+          "word": "nó",
+          "start": 0.6,
+          "end": 0.92,
+          "probability": 0.67
+        },
+        {
+          "word": "sóc",
+          "start": 0.92,
+          "end": 1.22,
+          "probability": 0.63
+        },
+        {
+          "word": "tồi",
+          "start": 1.22,
+          "end": 1.44,
+          "probability": 0.2
+        },
+        {
+          "word": "nó,",
+          "start": 1.44,
+          "end": 1.86,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.1,
+      "end": 2.84,
+      "text": "mình phải dây ông người,",
+      "words": [
+        {
+          "word": "mình",
+          "start": 2.1,
+          "end": 2.26,
+          "probability": 0.13
+        },
+        {
+          "word": "phải",
+          "start": 2.26,
+          "end": 2.46,
+          "probability": 0.12
+        },
+        {
+          "word": "dây",
+          "start": 2.46,
+          "end": 2.58,
+          "probability": 0.1
+        },
+        {
+          "word": "ông",
+          "start": 2.58,
+          "end": 2.66,
+          "probability": 0.23
+        },
+        {
+          "word": "người,",
+          "start": 2.66,
+          "end": 2.84,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.0,
+      "end": 4.56,
+      "text": "mình đang gặp bởi gặp.",
+      "words": [
+        {
+          "word": "mình",
+          "start": 3.0,
+          "end": 3.0,
+          "probability": 0.23
+        },
+        {
+          "word": "đang",
+          "start": 3.0,
+          "end": 3.1,
+          "probability": 0.3
+        },
+        {
+          "word": "gặp",
+          "start": 3.1,
+          "end": 3.4,
+          "probability": 0.87
+        },
+        {
+          "word": "bởi",
+          "start": 3.4,
+          "end": 4.38,
+          "probability": 0.39
+        },
+        {
+          "word": "gặp.",
+          "start": 4.38,
+          "end": 4.56,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.72,
+      "end": 6.86,
+      "text": "Gặp, nó phải nhớ là nó dưới lời,",
+      "words": [
+        {
+          "word": "Gặp,",
+          "start": 4.72,
+          "end": 4.84,
+          "probability": 0.54
+        },
+        {
+          "word": "nó",
+          "start": 4.88,
+          "end": 5.04,
+          "probability": 0.24
+        },
+        {
+          "word": "phải",
+          "start": 5.04,
+          "end": 5.18,
+          "probability": 0.41
+        },
+        {
+          "word": "nhớ",
+          "start": 5.18,
+          "end": 5.68,
+          "probability": 0.22
+        },
+        {
+          "word": "là",
+          "start": 5.68,
+          "end": 6.36,
+          "probability": 0.34
+        },
+        {
+          "word": "nó",
+          "start": 6.36,
+          "end": 6.6,
+          "probability": 0.27
+        },
+        {
+          "word": "dưới",
+          "start": 6.6,
+          "end": 6.72,
+          "probability": 0.48
+        },
+        {
+          "word": "lời,",
+          "start": 6.72,
+          "end": 6.86,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.04,
+      "end": 8.4,
+      "text": "thì hợp biến xe là sau,",
+      "words": [
+        {
+          "word": "thì",
+          "start": 7.04,
+          "end": 7.2,
+          "probability": 0.13
+        },
+        {
+          "word": "hợp",
+          "start": 7.2,
+          "end": 7.36,
+          "probability": 0.62
+        },
+        {
+          "word": "biến",
+          "start": 7.36,
+          "end": 7.6,
+          "probability": 0.26
+        },
+        {
+          "word": "xe",
+          "start": 7.6,
+          "end": 7.76,
+          "probability": 0.54
+        },
+        {
+          "word": "là",
+          "start": 7.76,
+          "end": 7.98,
+          "probability": 0.23
+        },
+        {
+          "word": "sau,",
+          "start": 7.98,
+          "end": 8.4,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.76,
+      "end": 9.26,
+      "text": "mình bà chạm,",
+      "words": [
+        {
+          "word": "mình",
+          "start": 8.76,
+          "end": 8.76,
+          "probability": 0.06
+        },
+        {
+          "word": "bà",
+          "start": 8.76,
+          "end": 8.98,
+          "probability": 0.45
+        },
+        {
+          "word": "chạm,",
+          "start": 8.98,
+          "end": 9.26,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 9.46,
+      "end": 10.28,
+      "text": "sinh nhớ gà chạm.",
+      "words": [
+        {
+          "word": "sinh",
+          "start": 9.46,
+          "end": 9.46,
+          "probability": 0.65
+        },
+        {
+          "word": "nhớ",
+          "start": 9.46,
+          "end": 9.56,
+          "probability": 0.46
+        },
+        {
+          "word": "gà",
+          "start": 9.56,
+          "end": 9.74,
+          "probability": 0.47
+        },
+        {
+          "word": "chạm.",
+          "start": 9.74,
+          "end": 10.28,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 10.34,
+      "end": 11.62,
+      "text": "Cái cái nó sẽ ra nổi.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 10.34,
+          "end": 10.48,
+          "probability": 0.26
+        },
+        {
+          "word": "cái",
+          "start": 10.48,
+          "end": 10.7,
+          "probability": 0.05
+        },
+        {
+          "word": "nó",
+          "start": 10.7,
+          "end": 10.86,
+          "probability": 0.87
+        },
+        {
+          "word": "sẽ",
+          "start": 10.86,
+          "end": 11.1,
+          "probability": 0.19
+        },
+        {
+          "word": "ra",
+          "start": 11.1,
+          "end": 11.34,
+          "probability": 0.21
+        },
+        {
+          "word": "nổi.",
+          "start": 11.34,
+          "end": 11.62,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 12.26,
+      "end": 13.16,
+      "text": "Nó sẽ gà lời nó,",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 12.26,
+          "end": 12.26,
+          "probability": 0.53
+        },
+        {
+          "word": "sẽ",
+          "start": 12.26,
+          "end": 12.38,
+          "probability": 0.06
+        },
+        {
+          "word": "gà",
+          "start": 12.38,
+          "end": 12.58,
+          "probability": 0.36
+        },
+        {
+          "word": "lời",
+          "start": 12.58,
+          "end": 12.88,
+          "probability": 0.72
+        },
+        {
+          "word": "nó,",
+          "start": 12.88,
+          "end": 13.16,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 13.42,
+      "end": 14.3,
+      "text": "nó hợp, nó hợp.",
+      "words": [
+        {
+          "word": "nó",
+          "start": 13.42,
+          "end": 13.44,
+          "probability": 0.19
+        },
+        {
+          "word": "hợp,",
+          "start": 13.44,
+          "end": 13.64,
+          "probability": 0.48
+        },
+        {
+          "word": "nó",
+          "start": 13.92,
+          "end": 13.92,
+          "probability": 0.28
+        },
+        {
+          "word": "hợp.",
+          "start": 13.92,
+          "end": 14.3,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 14.3,
+      "end": 14.32,
+      "text": "Nó sẽ gặp,",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 14.3,
+          "end": 14.3,
+          "probability": 0.45
+        },
+        {
+          "word": "sẽ",
+          "start": 14.3,
+          "end": 14.3,
+          "probability": 0.15
+        },
+        {
+          "word": "gặp,",
+          "start": 14.3,
+          "end": 14.32,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 15.84,
+      "end": 17.1,
+      "text": "nó sẽ gặp,",
+      "words": [
+        {
+          "word": "nó",
+          "start": 15.84,
+          "end": 16.14,
+          "probability": 0.59
+        },
+        {
+          "word": "sẽ",
+          "start": 16.14,
+          "end": 16.36,
+          "probability": 0.25
+        },
+        {
+          "word": "gặp,",
+          "start": 16.36,
+          "end": 17.1,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 17.1,
+      "end": 17.78,
+      "text": "nó có vẻ thì,",
+      "words": [
+        {
+          "word": "nó",
+          "start": 17.1,
+          "end": 17.1,
+          "probability": 0.9
+        },
+        {
+          "word": "có",
+          "start": 17.1,
+          "end": 17.14,
+          "probability": 0.03
+        },
+        {
+          "word": "vẻ",
+          "start": 17.14,
+          "end": 17.58,
+          "probability": 0.25
+        },
+        {
+          "word": "thì,",
+          "start": 17.58,
+          "end": 17.78,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 17.78,
+      "end": 19.46,
+      "text": "nó như là nếu tình sẽ gặp lại.",
+      "words": [
+        {
+          "word": "nó",
+          "start": 17.78,
+          "end": 18.0,
+          "probability": 0.37
+        },
+        {
+          "word": "như",
+          "start": 18.0,
+          "end": 18.3,
+          "probability": 0.23
+        },
+        {
+          "word": "là",
+          "start": 18.3,
+          "end": 18.3,
+          "probability": 0.53
+        },
+        {
+          "word": "nếu",
+          "start": 18.3,
+          "end": 18.54,
+          "probability": 0.16
+        },
+        {
+          "word": "tình",
+          "start": 18.54,
+          "end": 18.7,
+          "probability": 0.09
+        },
+        {
+          "word": "sẽ",
+          "start": 18.7,
+          "end": 18.86,
+          "probability": 0.25
+        },
+        {
+          "word": "gặp",
+          "start": 18.86,
+          "end": 19.1,
+          "probability": 0.96
+        },
+        {
+          "word": "lại.",
+          "start": 19.1,
+          "end": 19.46,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 19.58,
+      "end": 20.64,
+      "text": "Nó không phát khi gặp,",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 19.58,
+          "end": 19.78,
+          "probability": 0.36
+        },
+        {
+          "word": "không",
+          "start": 19.78,
+          "end": 19.9,
+          "probability": 0.13
+        },
+        {
+          "word": "phát",
+          "start": 19.9,
+          "end": 19.96,
+          "probability": 0.64
+        },
+        {
+          "word": "khi",
+          "start": 19.96,
+          "end": 20.2,
+          "probability": 0.17
+        },
+        {
+          "word": "gặp,",
+          "start": 20.2,
+          "end": 20.64,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 20.92,
+      "end": 21.66,
+      "text": "nó sinh gà là,",
+      "words": [
+        {
+          "word": "nó",
+          "start": 20.92,
+          "end": 20.92,
+          "probability": 0.77
+        },
+        {
+          "word": "sinh",
+          "start": 20.92,
+          "end": 21.14,
+          "probability": 0.56
+        },
+        {
+          "word": "gà",
+          "start": 21.14,
+          "end": 21.38,
+          "probability": 0.8
+        },
+        {
+          "word": "là,",
+          "start": 21.38,
+          "end": 21.66,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 22.06,
+      "end": 23.54,
+      "text": "nó có vô ngôn có ai gồn gà.",
+      "words": [
+        {
+          "word": "nó",
+          "start": 22.06,
+          "end": 22.06,
+          "probability": 0.45
+        },
+        {
+          "word": "có",
+          "start": 22.06,
+          "end": 22.22,
+          "probability": 0.24
+        },
+        {
+          "word": "vô",
+          "start": 22.22,
+          "end": 22.36,
+          "probability": 0.3
+        },
+        {
+          "word": "ngôn",
+          "start": 22.36,
+          "end": 22.46,
+          "probability": 0.15
+        },
+        {
+          "word": "có",
+          "start": 22.46,
+          "end": 22.74,
+          "probability": 0.14
+        },
+        {
+          "word": "ai",
+          "start": 22.74,
+          "end": 22.9,
+          "probability": 0.16
+        },
+        {
+          "word": "gồn",
+          "start": 22.9,
+          "end": 23.08,
+          "probability": 0.19
+        },
+        {
+          "word": "gà.",
+          "start": 23.08,
+          "end": 23.54,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 23.68,
+      "end": 23.92,
+      "text": "Đi,",
+      "words": [
+        {
+          "word": "Đi,",
+          "start": 23.68,
+          "end": 23.92,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 24.06,
+      "end": 24.4,
+      "text": "nó tên,",
+      "words": [
+        {
+          "word": "nó",
+          "start": 24.06,
+          "end": 24.1,
+          "probability": 0.53
+        },
+        {
+          "word": "tên,",
+          "start": 24.1,
+          "end": 24.4,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 24.92,
+      "end": 26.16,
+      "text": "nó tây gái,",
+      "words": [
+        {
+          "word": "nó",
+          "start": 24.92,
+          "end": 25.3,
+          "probability": 0.78
+        },
+        {
+          "word": "tây",
+          "start": 25.3,
+          "end": 25.44,
+          "probability": 0.13
+        },
+        {
+          "word": "gái,",
+          "start": 25.44,
+          "end": 26.16,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 26.16,
+      "end": 29.1,
+      "text": "thì nó sẽ thấy lại và chánh nó xin ra vác qua",
+      "words": [
+        {
+          "word": "thì",
+          "start": 26.16,
+          "end": 26.26,
+          "probability": 0.05
+        },
+        {
+          "word": "nó",
+          "start": 26.26,
+          "end": 26.52,
+          "probability": 0.07
+        },
+        {
+          "word": "sẽ",
+          "start": 26.52,
+          "end": 26.82,
+          "probability": 0.09
+        },
+        {
+          "word": "thấy",
+          "start": 26.82,
+          "end": 27.02,
+          "probability": 0.25
+        },
+        {
+          "word": "lại",
+          "start": 27.02,
+          "end": 27.28,
+          "probability": 0.39
+        },
+        {
+          "word": "và",
+          "start": 27.28,
+          "end": 27.46,
+          "probability": 0.16
+        },
+        {
+          "word": "chánh",
+          "start": 27.46,
+          "end": 27.8,
+          "probability": 0.27
+        },
+        {
+          "word": "nó",
+          "start": 27.8,
+          "end": 28.22,
+          "probability": 0.32
+        },
+        {
+          "word": "xin",
+          "start": 28.22,
+          "end": 28.54,
+          "probability": 0.34
+        },
+        {
+          "word": "ra",
+          "start": 28.54,
+          "end": 28.72,
+          "probability": 0.36
+        },
+        {
+          "word": "vác",
+          "start": 28.72,
+          "end": 28.9,
+          "probability": 0.42
+        },
+        {
+          "word": "qua",
+          "start": 28.9,
+          "end": 29.1,
+          "probability": 0.08
+        }
+      ]
+    }
+  ]
+}

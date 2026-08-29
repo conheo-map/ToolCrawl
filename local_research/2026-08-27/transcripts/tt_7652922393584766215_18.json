@@ -1,0 +1,676 @@
+{
+  "item_id": "tt_7652922393584766215_18",
+  "duration_seconds": 29.27,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 103,
+  "text": "Còn như khóc thiệt cũng các khóc hậu tính phần Lan, khóc hậu tính phần Lan. Hãy có có thể có hiểu là đổn thời vụ từ Việt Nam khi gành làm bị đa phần Lan, và còn shú đán phục đa tâm lên. Tôi nghĩ trong những cái cuộc khách sẻ cũng không một số người Việt Nam mà tôi biết, đàn theo hậu nghe này ở phần Lan và cũng đá những dựng, gerade bị đáng ở phần Lan ở phần Lan cho lịch đo hết, nhanh này có tính cuộc thế rất kiao như mọi thứ có thể thình dụng.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.32,
+      "text": "Còn như khóc thiệt cũng các khóc hậu tính phần Lan,",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.34
+        },
+        {
+          "word": "như",
+          "start": 0.36,
+          "end": 0.5,
+          "probability": 0.17
+        },
+        {
+          "word": "khóc",
+          "start": 0.5,
+          "end": 0.7,
+          "probability": 0.18
+        },
+        {
+          "word": "thiệt",
+          "start": 0.7,
+          "end": 0.9,
+          "probability": 0.27
+        },
+        {
+          "word": "cũng",
+          "start": 0.9,
+          "end": 1.06,
+          "probability": 0.21
+        },
+        {
+          "word": "các",
+          "start": 1.06,
+          "end": 1.24,
+          "probability": 0.24
+        },
+        {
+          "word": "khóc",
+          "start": 1.24,
+          "end": 1.48,
+          "probability": 0.9
+        },
+        {
+          "word": "hậu",
+          "start": 1.48,
+          "end": 1.7,
+          "probability": 0.53
+        },
+        {
+          "word": "tính",
+          "start": 1.7,
+          "end": 1.82,
+          "probability": 0.56
+        },
+        {
+          "word": "phần",
+          "start": 1.82,
+          "end": 2.08,
+          "probability": 0.46
+        },
+        {
+          "word": "Lan,",
+          "start": 2.08,
+          "end": 2.32,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.62,
+      "end": 4.74,
+      "text": "khóc hậu tính phần Lan.",
+      "words": [
+        {
+          "word": "khóc",
+          "start": 2.62,
+          "end": 2.62,
+          "probability": 0.46
+        },
+        {
+          "word": "hậu",
+          "start": 2.62,
+          "end": 2.98,
+          "probability": 0.58
+        },
+        {
+          "word": "tính",
+          "start": 2.98,
+          "end": 2.98,
+          "probability": 0.71
+        },
+        {
+          "word": "phần",
+          "start": 2.98,
+          "end": 4.74,
+          "probability": 0.9
+        },
+        {
+          "word": "Lan.",
+          "start": 4.74,
+          "end": 4.74,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.6,
+      "end": 16.6,
+      "text": "Hãy có có thể có hiểu là đổn thời vụ từ Việt Nam khi gành làm bị đa phần Lan, và còn shú đán phục đa tâm lên.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 6.6,
+          "end": 7.0,
+          "probability": 0.07
+        },
+        {
+          "word": "có",
+          "start": 7.0,
+          "end": 7.24,
+          "probability": 0.11
+        },
+        {
+          "word": "có",
+          "start": 7.24,
+          "end": 7.52,
+          "probability": 0.02
+        },
+        {
+          "word": "thể",
+          "start": 7.52,
+          "end": 7.52,
+          "probability": 0.41
+        },
+        {
+          "word": "có",
+          "start": 7.52,
+          "end": 8.08,
+          "probability": 0.04
+        },
+        {
+          "word": "hiểu",
+          "start": 8.08,
+          "end": 12.2,
+          "probability": 0.34
+        },
+        {
+          "word": "là",
+          "start": 12.2,
+          "end": 12.36,
+          "probability": 0.39
+        },
+        {
+          "word": "đổn",
+          "start": 12.36,
+          "end": 12.62,
+          "probability": 0.28
+        },
+        {
+          "word": "thời",
+          "start": 12.62,
+          "end": 12.76,
+          "probability": 0.32
+        },
+        {
+          "word": "vụ",
+          "start": 12.76,
+          "end": 12.94,
+          "probability": 0.72
+        },
+        {
+          "word": "từ",
+          "start": 12.94,
+          "end": 13.12,
+          "probability": 0.79
+        },
+        {
+          "word": "Việt",
+          "start": 13.12,
+          "end": 13.38,
+          "probability": 0.56
+        },
+        {
+          "word": "Nam",
+          "start": 13.38,
+          "end": 13.5,
+          "probability": 0.99
+        },
+        {
+          "word": "khi",
+          "start": 13.5,
+          "end": 13.76,
+          "probability": 0.23
+        },
+        {
+          "word": "gành",
+          "start": 13.76,
+          "end": 13.94,
+          "probability": 0.14
+        },
+        {
+          "word": "làm",
+          "start": 13.94,
+          "end": 14.14,
+          "probability": 0.55
+        },
+        {
+          "word": "bị",
+          "start": 14.14,
+          "end": 14.3,
+          "probability": 0.06
+        },
+        {
+          "word": "đa",
+          "start": 14.3,
+          "end": 14.44,
+          "probability": 0.25
+        },
+        {
+          "word": "phần",
+          "start": 14.44,
+          "end": 14.6,
+          "probability": 0.99
+        },
+        {
+          "word": "Lan,",
+          "start": 14.6,
+          "end": 14.88,
+          "probability": 1.0
+        },
+        {
+          "word": "và",
+          "start": 15.12,
+          "end": 15.3,
+          "probability": 0.93
+        },
+        {
+          "word": "còn",
+          "start": 15.3,
+          "end": 15.5,
+          "probability": 0.23
+        },
+        {
+          "word": "shú",
+          "start": 15.5,
+          "end": 15.64,
+          "probability": 0.15
+        },
+        {
+          "word": "đán",
+          "start": 15.64,
+          "end": 15.82,
+          "probability": 0.37
+        },
+        {
+          "word": "phục",
+          "start": 15.82,
+          "end": 16.0,
+          "probability": 0.18
+        },
+        {
+          "word": "đa",
+          "start": 16.0,
+          "end": 16.12,
+          "probability": 0.75
+        },
+        {
+          "word": "tâm",
+          "start": 16.12,
+          "end": 16.3,
+          "probability": 0.36
+        },
+        {
+          "word": "lên.",
+          "start": 16.3,
+          "end": 16.6,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 17.12,
+      "end": 20.4,
+      "text": "Tôi nghĩ trong những cái cuộc khách sẻ cũng không một số người Việt Nam mà tôi biết,",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 17.12,
+          "end": 17.14,
+          "probability": 0.44
+        },
+        {
+          "word": "nghĩ",
+          "start": 17.14,
+          "end": 17.32,
+          "probability": 0.88
+        },
+        {
+          "word": "trong",
+          "start": 17.32,
+          "end": 17.48,
+          "probability": 0.62
+        },
+        {
+          "word": "những",
+          "start": 17.48,
+          "end": 17.68,
+          "probability": 0.17
+        },
+        {
+          "word": "cái",
+          "start": 17.68,
+          "end": 17.82,
+          "probability": 0.17
+        },
+        {
+          "word": "cuộc",
+          "start": 17.82,
+          "end": 18.06,
+          "probability": 0.01
+        },
+        {
+          "word": "khách",
+          "start": 18.06,
+          "end": 18.06,
+          "probability": 0.52
+        },
+        {
+          "word": "sẻ",
+          "start": 18.06,
+          "end": 18.22,
+          "probability": 0.31
+        },
+        {
+          "word": "cũng",
+          "start": 18.22,
+          "end": 18.5,
+          "probability": 0.31
+        },
+        {
+          "word": "không",
+          "start": 18.5,
+          "end": 18.78,
+          "probability": 0.35
+        },
+        {
+          "word": "một",
+          "start": 18.78,
+          "end": 18.88,
+          "probability": 0.13
+        },
+        {
+          "word": "số",
+          "start": 18.88,
+          "end": 19.0,
+          "probability": 0.73
+        },
+        {
+          "word": "người",
+          "start": 19.0,
+          "end": 19.22,
+          "probability": 0.87
+        },
+        {
+          "word": "Việt",
+          "start": 19.22,
+          "end": 19.4,
+          "probability": 0.79
+        },
+        {
+          "word": "Nam",
+          "start": 19.4,
+          "end": 19.62,
+          "probability": 0.99
+        },
+        {
+          "word": "mà",
+          "start": 19.62,
+          "end": 19.84,
+          "probability": 0.9
+        },
+        {
+          "word": "tôi",
+          "start": 19.84,
+          "end": 20.0,
+          "probability": 0.9
+        },
+        {
+          "word": "biết,",
+          "start": 20.0,
+          "end": 20.4,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 20.58,
+      "end": 25.78,
+      "text": "đàn theo hậu nghe này ở phần Lan và cũng đá những dựng, gerade bị đáng ở phần Lan ở phần Lan cho lịch đo hết,",
+      "words": [
+        {
+          "word": "đàn",
+          "start": 20.58,
+          "end": 20.78,
+          "probability": 0.26
+        },
+        {
+          "word": "theo",
+          "start": 20.78,
+          "end": 20.92,
+          "probability": 0.29
+        },
+        {
+          "word": "hậu",
+          "start": 20.92,
+          "end": 21.1,
+          "probability": 0.67
+        },
+        {
+          "word": "nghe",
+          "start": 21.1,
+          "end": 21.28,
+          "probability": 0.45
+        },
+        {
+          "word": "này",
+          "start": 21.28,
+          "end": 21.48,
+          "probability": 0.78
+        },
+        {
+          "word": "ở",
+          "start": 21.48,
+          "end": 21.66,
+          "probability": 0.96
+        },
+        {
+          "word": "phần",
+          "start": 21.66,
+          "end": 21.82,
+          "probability": 0.98
+        },
+        {
+          "word": "Lan",
+          "start": 21.82,
+          "end": 22.06,
+          "probability": 1.0
+        },
+        {
+          "word": "và",
+          "start": 22.06,
+          "end": 22.62,
+          "probability": 0.6
+        },
+        {
+          "word": "cũng",
+          "start": 22.62,
+          "end": 22.88,
+          "probability": 0.84
+        },
+        {
+          "word": "đá",
+          "start": 22.88,
+          "end": 23.14,
+          "probability": 0.46
+        },
+        {
+          "word": "những",
+          "start": 23.14,
+          "end": 23.52,
+          "probability": 0.14
+        },
+        {
+          "word": "dựng,",
+          "start": 23.52,
+          "end": 23.84,
+          "probability": 0.12
+        },
+        {
+          "word": "gerade",
+          "start": 23.84,
+          "end": 24.0,
+          "probability": 0.0
+        },
+        {
+          "word": "bị",
+          "start": 24.0,
+          "end": 24.16,
+          "probability": 0.24
+        },
+        {
+          "word": "đáng",
+          "start": 24.16,
+          "end": 24.32,
+          "probability": 0.26
+        },
+        {
+          "word": "ở",
+          "start": 24.32,
+          "end": 24.48,
+          "probability": 0.81
+        },
+        {
+          "word": "phần",
+          "start": 24.48,
+          "end": 24.66,
+          "probability": 0.99
+        },
+        {
+          "word": "Lan",
+          "start": 24.66,
+          "end": 24.9,
+          "probability": 1.0
+        },
+        {
+          "word": "ở",
+          "start": 24.9,
+          "end": 24.96,
+          "probability": 0.06
+        },
+        {
+          "word": "phần",
+          "start": 24.96,
+          "end": 24.96,
+          "probability": 0.94
+        },
+        {
+          "word": "Lan",
+          "start": 24.96,
+          "end": 24.96,
+          "probability": 0.98
+        },
+        {
+          "word": "cho",
+          "start": 24.96,
+          "end": 25.08,
+          "probability": 0.12
+        },
+        {
+          "word": "lịch",
+          "start": 25.08,
+          "end": 25.24,
+          "probability": 0.25
+        },
+        {
+          "word": "đo",
+          "start": 25.24,
+          "end": 25.54,
+          "probability": 0.19
+        },
+        {
+          "word": "hết,",
+          "start": 25.54,
+          "end": 25.78,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 26.1,
+      "end": 29.1,
+      "text": "nhanh này có tính cuộc thế rất kiao như mọi thứ có thể thình dụng.",
+      "words": [
+        {
+          "word": "nhanh",
+          "start": 26.1,
+          "end": 26.36,
+          "probability": 0.47
+        },
+        {
+          "word": "này",
+          "start": 26.36,
+          "end": 26.54,
+          "probability": 0.46
+        },
+        {
+          "word": "có",
+          "start": 26.54,
+          "end": 26.68,
+          "probability": 0.85
+        },
+        {
+          "word": "tính",
+          "start": 26.68,
+          "end": 26.86,
+          "probability": 0.51
+        },
+        {
+          "word": "cuộc",
+          "start": 26.86,
+          "end": 27.06,
+          "probability": 0.57
+        },
+        {
+          "word": "thế",
+          "start": 27.06,
+          "end": 27.22,
+          "probability": 0.26
+        },
+        {
+          "word": "rất",
+          "start": 27.22,
+          "end": 27.46,
+          "probability": 0.53
+        },
+        {
+          "word": "kiao",
+          "start": 27.46,
+          "end": 27.78,
+          "probability": 0.13
+        },
+        {
+          "word": "như",
+          "start": 27.78,
+          "end": 28.08,
+          "probability": 0.6
+        },
+        {
+          "word": "mọi",
+          "start": 28.08,
+          "end": 28.28,
+          "probability": 0.6
+        },
+        {
+          "word": "thứ",
+          "start": 28.28,
+          "end": 28.42,
+          "probability": 0.12
+        },
+        {
+          "word": "có",
+          "start": 28.42,
+          "end": 28.6,
+          "probability": 0.95
+        },
+        {
+          "word": "thể",
+          "start": 28.6,
+          "end": 28.7,
+          "probability": 0.97
+        },
+        {
+          "word": "thình",
+          "start": 28.7,
+          "end": 28.88,
+          "probability": 0.2
+        },
+        {
+          "word": "dụng.",
+          "start": 28.88,
+          "end": 29.1,
+          "probability": 0.67
+        }
+      ]
+    }
+  ]
+}

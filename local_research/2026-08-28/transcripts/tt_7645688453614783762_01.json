@@ -1,0 +1,292 @@
+{
+  "item_id": "tt_7645688453614783762_01",
+  "duration_seconds": 23.29,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 35,
+  "text": "Mình đã sửi mà mình cứ tâm sửi Nãy giờ ăn quá cho luôn á Nó Nó Nó Bây giờ Thù qua luôn Cái là tôi cũng vẫn ngon Chỉ có sẽ bỏ đường sao?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.14,
+      "text": "Mình đã sửi mà mình cứ tâm sửi",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.42
+        },
+        {
+          "word": "đã",
+          "start": 0.16,
+          "end": 0.54,
+          "probability": 0.39
+        },
+        {
+          "word": "sửi",
+          "start": 0.54,
+          "end": 0.98,
+          "probability": 0.28
+        },
+        {
+          "word": "mà",
+          "start": 0.98,
+          "end": 1.18,
+          "probability": 0.34
+        },
+        {
+          "word": "mình",
+          "start": 1.18,
+          "end": 1.32,
+          "probability": 0.43
+        },
+        {
+          "word": "cứ",
+          "start": 1.32,
+          "end": 1.46,
+          "probability": 0.49
+        },
+        {
+          "word": "tâm",
+          "start": 1.46,
+          "end": 1.7,
+          "probability": 0.13
+        },
+        {
+          "word": "sửi",
+          "start": 1.7,
+          "end": 2.14,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.14,
+      "end": 6.17,
+      "text": "Nãy giờ ăn quá cho luôn á",
+      "words": [
+        {
+          "word": "Nãy",
+          "start": 2.14,
+          "end": 2.38,
+          "probability": 0.17
+        },
+        {
+          "word": "giờ",
+          "start": 2.38,
+          "end": 2.54,
+          "probability": 0.35
+        },
+        {
+          "word": "ăn",
+          "start": 2.54,
+          "end": 2.72,
+          "probability": 0.41
+        },
+        {
+          "word": "quá",
+          "start": 2.72,
+          "end": 2.9,
+          "probability": 0.76
+        },
+        {
+          "word": "cho",
+          "start": 2.9,
+          "end": 3.16,
+          "probability": 0.28
+        },
+        {
+          "word": "luôn",
+          "start": 3.16,
+          "end": 3.44,
+          "probability": 0.72
+        },
+        {
+          "word": "á",
+          "start": 5.71,
+          "end": 6.17,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.17,
+      "end": 6.71,
+      "text": "Nó",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 6.17,
+          "end": 6.71,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.69,
+      "end": 8.13,
+      "text": "Nó",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 7.69,
+          "end": 8.13,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.13,
+      "end": 8.55,
+      "text": "Nó",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 8.13,
+          "end": 8.55,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.55,
+      "end": 9.29,
+      "text": "Bây giờ",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 8.55,
+          "end": 8.65,
+          "probability": 0.32
+        },
+        {
+          "word": "giờ",
+          "start": 8.65,
+          "end": 9.29,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 11.37,
+      "end": 12.37,
+      "text": "Thù qua luôn",
+      "words": [
+        {
+          "word": "Thù",
+          "start": 11.37,
+          "end": 11.69,
+          "probability": 0.16
+        },
+        {
+          "word": "qua",
+          "start": 11.69,
+          "end": 11.89,
+          "probability": 0.05
+        },
+        {
+          "word": "luôn",
+          "start": 11.89,
+          "end": 12.37,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 12.37,
+      "end": 13.81,
+      "text": "Cái là tôi cũng vẫn ngon",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 12.37,
+          "end": 12.55,
+          "probability": 0.2
+        },
+        {
+          "word": "là",
+          "start": 12.55,
+          "end": 12.71,
+          "probability": 0.67
+        },
+        {
+          "word": "tôi",
+          "start": 12.71,
+          "end": 12.93,
+          "probability": 0.72
+        },
+        {
+          "word": "cũng",
+          "start": 12.93,
+          "end": 13.07,
+          "probability": 0.06
+        },
+        {
+          "word": "vẫn",
+          "start": 13.07,
+          "end": 13.23,
+          "probability": 0.11
+        },
+        {
+          "word": "ngon",
+          "start": 13.23,
+          "end": 13.81,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 13.81,
+      "end": 14.95,
+      "text": "Chỉ có sẽ bỏ đường sao?",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 13.81,
+          "end": 14.03,
+          "probability": 0.28
+        },
+        {
+          "word": "có",
+          "start": 14.03,
+          "end": 14.15,
+          "probability": 0.29
+        },
+        {
+          "word": "sẽ",
+          "start": 14.15,
+          "end": 14.31,
+          "probability": 0.15
+        },
+        {
+          "word": "bỏ",
+          "start": 14.31,
+          "end": 14.43,
+          "probability": 0.27
+        },
+        {
+          "word": "đường",
+          "start": 14.43,
+          "end": 14.63,
+          "probability": 0.11
+        },
+        {
+          "word": "sao?",
+          "start": 14.63,
+          "end": 14.95,
+          "probability": 0.5
+        }
+      ]
+    }
+  ]
+}

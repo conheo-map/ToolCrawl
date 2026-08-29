@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7655635523503050004_05",
+  "duration_seconds": 25.56,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "tòa vì tui",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.42,
+      "text": "tòa vì tui",
+      "words": [
+        {
+          "word": "tòa",
+          "start": 0.0,
+          "end": 0.74,
+          "probability": 0.15
+        },
+        {
+          "word": "vì",
+          "start": 0.74,
+          "end": 0.8,
+          "probability": 0.0
+        },
+        {
+          "word": "tui",
+          "start": 0.8,
+          "end": 5.42,
+          "probability": 0.12
+        }
+      ]
+    }
+  ]
+}

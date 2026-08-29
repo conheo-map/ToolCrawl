@@ -1,0 +1,148 @@
+{
+  "item_id": "tt_7658895835765263623_17",
+  "duration_seconds": 28.93,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 19,
+  "text": "đúng gió bầy cho mình với đồng trong tâu mục mỏ nó là hẹp dưới tầy dừng cầm nhất",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.75,
+      "end": 5.47,
+      "text": "đúng gió bầy cho mình với đồng trong tâu mục mỏ",
+      "words": [
+        {
+          "word": "đúng",
+          "start": 0.75,
+          "end": 0.87,
+          "probability": 0.13
+        },
+        {
+          "word": "gió",
+          "start": 0.87,
+          "end": 1.03,
+          "probability": 0.02
+        },
+        {
+          "word": "bầy",
+          "start": 1.03,
+          "end": 1.15,
+          "probability": 0.38
+        },
+        {
+          "word": "cho",
+          "start": 1.15,
+          "end": 1.29,
+          "probability": 0.11
+        },
+        {
+          "word": "mình",
+          "start": 1.29,
+          "end": 1.55,
+          "probability": 0.76
+        },
+        {
+          "word": "với",
+          "start": 1.55,
+          "end": 1.77,
+          "probability": 0.01
+        },
+        {
+          "word": "đồng",
+          "start": 1.77,
+          "end": 2.19,
+          "probability": 0.05
+        },
+        {
+          "word": "trong",
+          "start": 4.53,
+          "end": 5.07,
+          "probability": 0.01
+        },
+        {
+          "word": "tâu",
+          "start": 5.07,
+          "end": 5.25,
+          "probability": 0.03
+        },
+        {
+          "word": "mục",
+          "start": 5.25,
+          "end": 5.45,
+          "probability": 0.1
+        },
+        {
+          "word": "mỏ",
+          "start": 5.45,
+          "end": 5.47,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.47,
+      "end": 9.19,
+      "text": "nó là hẹp dưới tầy dừng",
+      "words": [
+        {
+          "word": "nó",
+          "start": 5.47,
+          "end": 5.99,
+          "probability": 0.0
+        },
+        {
+          "word": "là",
+          "start": 5.99,
+          "end": 7.41,
+          "probability": 0.03
+        },
+        {
+          "word": "hẹp",
+          "start": 7.41,
+          "end": 7.69,
+          "probability": 0.23
+        },
+        {
+          "word": "dưới",
+          "start": 7.69,
+          "end": 7.81,
+          "probability": 0.46
+        },
+        {
+          "word": "tầy",
+          "start": 7.81,
+          "end": 8.05,
+          "probability": 0.3
+        },
+        {
+          "word": "dừng",
+          "start": 8.05,
+          "end": 9.19,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.19,
+      "end": 9.85,
+      "text": "cầm nhất",
+      "words": [
+        {
+          "word": "cầm",
+          "start": 9.19,
+          "end": 9.55,
+          "probability": 0.32
+        },
+        {
+          "word": "nhất",
+          "start": 9.55,
+          "end": 9.85,
+          "probability": 0.35
+        }
+      ]
+    }
+  ]
+}

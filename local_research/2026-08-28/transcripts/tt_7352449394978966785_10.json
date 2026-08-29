@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7352449394978966785_10",
+  "duration_seconds": 19.56,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Chúng ta sẽ...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.18,
+      "text": "Chúng ta sẽ...",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 0.02,
+          "end": 0.86,
+          "probability": 0.15
+        },
+        {
+          "word": "ta",
+          "start": 0.86,
+          "end": 1.18,
+          "probability": 0.48
+        },
+        {
+          "word": "sẽ...",
+          "start": 1.18,
+          "end": 1.18,
+          "probability": 0.11
+        }
+      ]
+    }
+  ]
+}

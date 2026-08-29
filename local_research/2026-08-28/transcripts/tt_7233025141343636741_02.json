@@ -1,0 +1,74 @@
+{
+  "item_id": "tt_7233025141343636741_02",
+  "duration_seconds": 25.4,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 8,
+  "text": "Bạn hẹn gặp imo Bạn hẹn gặp imo",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 3.08,
+      "text": "Bạn hẹn gặp imo",
+      "words": [
+        {
+          "word": "Bạn",
+          "start": 0.02,
+          "end": 1.42,
+          "probability": 0.08
+        },
+        {
+          "word": "hẹn",
+          "start": 1.42,
+          "end": 2.08,
+          "probability": 0.33
+        },
+        {
+          "word": "gặp",
+          "start": 2.08,
+          "end": 2.16,
+          "probability": 0.64
+        },
+        {
+          "word": "imo",
+          "start": 2.16,
+          "end": 3.08,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.08,
+      "end": 18.51,
+      "text": "Bạn hẹn gặp imo",
+      "words": [
+        {
+          "word": "Bạn",
+          "start": 3.08,
+          "end": 4.84,
+          "probability": 0.46
+        },
+        {
+          "word": "hẹn",
+          "start": 6.31,
+          "end": 11.85,
+          "probability": 0.82
+        },
+        {
+          "word": "gặp",
+          "start": 11.85,
+          "end": 12.33,
+          "probability": 0.9
+        },
+        {
+          "word": "imo",
+          "start": 12.33,
+          "end": 18.51,
+          "probability": 0.77
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7650072971985292562_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Thôi, hôm nay, hôm nay.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.26,
+      "text": "Thôi, hôm nay, hôm nay.",
+      "words": [
+        {
+          "word": "Thôi,",
+          "start": 0.0,
+          "end": 0.6,
+          "probability": 0.12
+        },
+        {
+          "word": "hôm",
+          "start": 0.6,
+          "end": 0.62,
+          "probability": 0.08
+        },
+        {
+          "word": "nay,",
+          "start": 0.62,
+          "end": 0.94,
+          "probability": 0.93
+        },
+        {
+          "word": "hôm",
+          "start": 1.26,
+          "end": 1.26,
+          "probability": 0.56
+        },
+        {
+          "word": "nay.",
+          "start": 1.26,
+          "end": 1.26,
+          "probability": 0.99
+        }
+      ]
+    }
+  ]
+}

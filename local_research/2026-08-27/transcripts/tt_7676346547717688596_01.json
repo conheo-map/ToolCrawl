@@ -1,0 +1,382 @@
+{
+  "item_id": "tt_7676346547717688596_01",
+  "duration_seconds": 15.45,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 54,
+  "text": "Tí là mẹ mùa, tìm mùa bỏ sách mà nó thiếu 2, hả dù không có anh! Mình mô chảy, không? Mình mẹ nằm giấu thử gì đằng ký hợi trường mà đằng 2 lúc mô ký trường. Em đi tờ mình thẳng qua đây. Em chỉ tí đi vô 2 lời sách là...",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.14,
+      "text": "Tí là mẹ mùa, tìm mùa bỏ sách mà nó thiếu 2,",
+      "words": [
+        {
+          "word": "Tí",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.05
+        },
+        {
+          "word": "là",
+          "start": 0.24,
+          "end": 0.78,
+          "probability": 0.17
+        },
+        {
+          "word": "mẹ",
+          "start": 0.78,
+          "end": 1.36,
+          "probability": 0.48
+        },
+        {
+          "word": "mùa,",
+          "start": 1.36,
+          "end": 1.96,
+          "probability": 0.56
+        },
+        {
+          "word": "tìm",
+          "start": 2.06,
+          "end": 2.36,
+          "probability": 0.44
+        },
+        {
+          "word": "mùa",
+          "start": 2.36,
+          "end": 2.54,
+          "probability": 0.59
+        },
+        {
+          "word": "bỏ",
+          "start": 2.54,
+          "end": 2.84,
+          "probability": 0.4
+        },
+        {
+          "word": "sách",
+          "start": 2.84,
+          "end": 3.08,
+          "probability": 0.53
+        },
+        {
+          "word": "mà",
+          "start": 3.08,
+          "end": 3.48,
+          "probability": 0.87
+        },
+        {
+          "word": "nó",
+          "start": 3.48,
+          "end": 3.72,
+          "probability": 0.41
+        },
+        {
+          "word": "thiếu",
+          "start": 3.72,
+          "end": 3.9,
+          "probability": 0.44
+        },
+        {
+          "word": "2,",
+          "start": 3.9,
+          "end": 4.14,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.56,
+      "end": 5.56,
+      "text": "hả dù không có anh!",
+      "words": [
+        {
+          "word": "hả",
+          "start": 4.56,
+          "end": 4.82,
+          "probability": 0.09
+        },
+        {
+          "word": "dù",
+          "start": 4.82,
+          "end": 4.96,
+          "probability": 0.2
+        },
+        {
+          "word": "không",
+          "start": 4.96,
+          "end": 5.12,
+          "probability": 0.21
+        },
+        {
+          "word": "có",
+          "start": 5.12,
+          "end": 5.3,
+          "probability": 0.9
+        },
+        {
+          "word": "anh!",
+          "start": 5.3,
+          "end": 5.56,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.32,
+      "end": 7.86,
+      "text": "Mình mô chảy, không?",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 6.32,
+          "end": 6.48,
+          "probability": 0.59
+        },
+        {
+          "word": "mô",
+          "start": 6.48,
+          "end": 6.66,
+          "probability": 0.39
+        },
+        {
+          "word": "chảy,",
+          "start": 6.66,
+          "end": 7.12,
+          "probability": 0.45
+        },
+        {
+          "word": "không?",
+          "start": 7.34,
+          "end": 7.86,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.86,
+      "end": 11.14,
+      "text": "Mình mẹ nằm giấu thử gì đằng ký hợi trường mà đằng 2 lúc mô ký trường.",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 7.86,
+          "end": 8.04,
+          "probability": 0.58
+        },
+        {
+          "word": "mẹ",
+          "start": 8.04,
+          "end": 8.12,
+          "probability": 0.3
+        },
+        {
+          "word": "nằm",
+          "start": 8.12,
+          "end": 8.28,
+          "probability": 0.7
+        },
+        {
+          "word": "giấu",
+          "start": 8.28,
+          "end": 8.46,
+          "probability": 0.4
+        },
+        {
+          "word": "thử",
+          "start": 8.46,
+          "end": 8.64,
+          "probability": 0.15
+        },
+        {
+          "word": "gì",
+          "start": 8.64,
+          "end": 8.78,
+          "probability": 0.34
+        },
+        {
+          "word": "đằng",
+          "start": 8.78,
+          "end": 8.92,
+          "probability": 0.2
+        },
+        {
+          "word": "ký",
+          "start": 8.92,
+          "end": 9.12,
+          "probability": 0.26
+        },
+        {
+          "word": "hợi",
+          "start": 9.12,
+          "end": 9.28,
+          "probability": 0.41
+        },
+        {
+          "word": "trường",
+          "start": 9.28,
+          "end": 9.5,
+          "probability": 0.46
+        },
+        {
+          "word": "mà",
+          "start": 9.5,
+          "end": 9.6,
+          "probability": 0.89
+        },
+        {
+          "word": "đằng",
+          "start": 9.6,
+          "end": 9.76,
+          "probability": 0.3
+        },
+        {
+          "word": "2",
+          "start": 9.76,
+          "end": 10.12,
+          "probability": 0.74
+        },
+        {
+          "word": "lúc",
+          "start": 10.12,
+          "end": 10.46,
+          "probability": 0.22
+        },
+        {
+          "word": "mô",
+          "start": 10.46,
+          "end": 10.7,
+          "probability": 0.37
+        },
+        {
+          "word": "ký",
+          "start": 10.7,
+          "end": 10.88,
+          "probability": 0.49
+        },
+        {
+          "word": "trường.",
+          "start": 10.88,
+          "end": 11.14,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.68,
+      "end": 13.08,
+      "text": "Em đi tờ mình thẳng qua đây.",
+      "words": [
+        {
+          "word": "Em",
+          "start": 11.68,
+          "end": 11.9,
+          "probability": 0.44
+        },
+        {
+          "word": "đi",
+          "start": 11.9,
+          "end": 11.94,
+          "probability": 0.08
+        },
+        {
+          "word": "tờ",
+          "start": 11.94,
+          "end": 12.08,
+          "probability": 0.43
+        },
+        {
+          "word": "mình",
+          "start": 12.08,
+          "end": 12.24,
+          "probability": 0.19
+        },
+        {
+          "word": "thẳng",
+          "start": 12.24,
+          "end": 12.42,
+          "probability": 0.7
+        },
+        {
+          "word": "qua",
+          "start": 12.42,
+          "end": 12.66,
+          "probability": 0.56
+        },
+        {
+          "word": "đây.",
+          "start": 12.66,
+          "end": 13.08,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.58,
+      "end": 15.42,
+      "text": "Em chỉ tí đi vô 2 lời sách là...",
+      "words": [
+        {
+          "word": "Em",
+          "start": 13.58,
+          "end": 13.6,
+          "probability": 0.92
+        },
+        {
+          "word": "chỉ",
+          "start": 13.6,
+          "end": 13.74,
+          "probability": 0.18
+        },
+        {
+          "word": "tí",
+          "start": 13.74,
+          "end": 13.86,
+          "probability": 0.29
+        },
+        {
+          "word": "đi",
+          "start": 13.86,
+          "end": 13.92,
+          "probability": 0.1
+        },
+        {
+          "word": "vô",
+          "start": 13.92,
+          "end": 14.0,
+          "probability": 0.57
+        },
+        {
+          "word": "2",
+          "start": 14.0,
+          "end": 14.24,
+          "probability": 0.46
+        },
+        {
+          "word": "lời",
+          "start": 14.24,
+          "end": 14.42,
+          "probability": 0.87
+        },
+        {
+          "word": "sách",
+          "start": 14.42,
+          "end": 14.6,
+          "probability": 0.85
+        },
+        {
+          "word": "là...",
+          "start": 14.6,
+          "end": 15.42,
+          "probability": 0.59
+        }
+      ]
+    }
+  ]
+}

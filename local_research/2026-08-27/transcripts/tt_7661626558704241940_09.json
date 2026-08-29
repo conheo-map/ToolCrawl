@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7661626558704241940_09",
+  "duration_seconds": 25.91,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Chào tên.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.33,
+      "end": 2.55,
+      "text": "Chào tên.",
+      "words": [
+        {
+          "word": "Chào",
+          "start": 1.33,
+          "end": 2.05,
+          "probability": 0.1
+        },
+        {
+          "word": "tên.",
+          "start": 2.05,
+          "end": 2.55,
+          "probability": 0.16
+        }
+      ]
+    }
+  ]
+}

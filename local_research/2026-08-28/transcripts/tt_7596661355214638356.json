@@ -1,0 +1,62 @@
+{
+  "item_id": "tt_7596661355214638356",
+  "duration_seconds": 20.72,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Mình đã đem! Mình đã đem!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.07,
+      "end": 1.37,
+      "text": "Mình đã đem!",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 1.07,
+          "end": 1.37,
+          "probability": 0.15
+        },
+        {
+          "word": "đã",
+          "start": 1.37,
+          "end": 1.37,
+          "probability": 0.05
+        },
+        {
+          "word": "đem!",
+          "start": 1.37,
+          "end": 1.37,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.88,
+      "end": 5.62,
+      "text": "Mình đã đem!",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 4.88,
+          "end": 5.3,
+          "probability": 0.56
+        },
+        {
+          "word": "đã",
+          "start": 5.3,
+          "end": 5.56,
+          "probability": 0.45
+        },
+        {
+          "word": "đem!",
+          "start": 5.56,
+          "end": 5.62,
+          "probability": 0.81
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "item_id": "tt_7606716553459125524_01",
+  "duration_seconds": 28.3,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 17,
+  "text": "mình sẽ mấy cái nhẹn, đẹp tốt độ. Dừng lại mà quan sát ký cả hai vướng.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.17,
+      "end": 26.1,
+      "text": "mình sẽ mấy cái nhẹn, đẹp tốt độ.",
+      "words": [
+        {
+          "word": "mình",
+          "start": 1.17,
+          "end": 1.27,
+          "probability": 0.02
+        },
+        {
+          "word": "sẽ",
+          "start": 1.27,
+          "end": 1.71,
+          "probability": 0.25
+        },
+        {
+          "word": "mấy",
+          "start": 1.71,
+          "end": 1.91,
+          "probability": 0.5
+        },
+        {
+          "word": "cái",
+          "start": 1.91,
+          "end": 2.05,
+          "probability": 0.24
+        },
+        {
+          "word": "nhẹn,",
+          "start": 2.05,
+          "end": 2.47,
+          "probability": 0.53
+        },
+        {
+          "word": "đẹp",
+          "start": 25.32,
+          "end": 25.6,
+          "probability": 0.44
+        },
+        {
+          "word": "tốt",
+          "start": 25.6,
+          "end": 25.78,
+          "probability": 0.44
+        },
+        {
+          "word": "độ.",
+          "start": 25.78,
+          "end": 26.1,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 26.26,
+      "end": 28.18,
+      "text": "Dừng lại mà quan sát ký cả hai vướng.",
+      "words": [
+        {
+          "word": "Dừng",
+          "start": 26.26,
+          "end": 26.42,
+          "probability": 0.68
+        },
+        {
+          "word": "lại",
+          "start": 26.42,
+          "end": 26.62,
+          "probability": 0.96
+        },
+        {
+          "word": "mà",
+          "start": 26.62,
+          "end": 26.78,
+          "probability": 0.62
+        },
+        {
+          "word": "quan",
+          "start": 26.78,
+          "end": 26.98,
+          "probability": 0.61
+        },
+        {
+          "word": "sát",
+          "start": 26.98,
+          "end": 27.18,
+          "probability": 0.82
+        },
+        {
+          "word": "ký",
+          "start": 27.18,
+          "end": 27.38,
+          "probability": 0.36
+        },
+        {
+          "word": "cả",
+          "start": 27.38,
+          "end": 27.56,
+          "probability": 0.63
+        },
+        {
+          "word": "hai",
+          "start": 27.56,
+          "end": 27.84,
+          "probability": 0.6
+        },
+        {
+          "word": "vướng.",
+          "start": 27.84,
+          "end": 28.18,
+          "probability": 0.68
+        }
+      ]
+    }
+  ]
+}

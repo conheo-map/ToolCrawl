@@ -1,0 +1,112 @@
+{
+  "item_id": "tt_7657886387059903765_03",
+  "duration_seconds": 29.54,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 13,
+  "text": "Cảm tâm tình hả? Dạ, dạ, dạ, dạ, dạ, dạ. Nếu các bạn",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.39,
+      "end": 2.57,
+      "text": "Cảm tâm tình hả?",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 1.39,
+          "end": 1.57,
+          "probability": 0.38
+        },
+        {
+          "word": "tâm",
+          "start": 1.57,
+          "end": 1.69,
+          "probability": 0.28
+        },
+        {
+          "word": "tình",
+          "start": 1.69,
+          "end": 1.87,
+          "probability": 0.39
+        },
+        {
+          "word": "hả?",
+          "start": 1.87,
+          "end": 2.57,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.79,
+      "end": 3.31,
+      "text": "Dạ, dạ, dạ, dạ, dạ, dạ.",
+      "words": [
+        {
+          "word": "Dạ,",
+          "start": 2.79,
+          "end": 2.85,
+          "probability": 0.36
+        },
+        {
+          "word": "dạ,",
+          "start": 2.95,
+          "end": 2.95,
+          "probability": 0.45
+        },
+        {
+          "word": "dạ,",
+          "start": 3.03,
+          "end": 3.03,
+          "probability": 0.53
+        },
+        {
+          "word": "dạ,",
+          "start": 3.19,
+          "end": 3.19,
+          "probability": 0.58
+        },
+        {
+          "word": "dạ,",
+          "start": 3.31,
+          "end": 3.31,
+          "probability": 0.67
+        },
+        {
+          "word": "dạ.",
+          "start": 3.31,
+          "end": 3.31,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.76,
+      "end": 8.34,
+      "text": "Nếu các bạn",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 7.76,
+          "end": 8.08,
+          "probability": 0.47
+        },
+        {
+          "word": "các",
+          "start": 8.08,
+          "end": 8.26,
+          "probability": 0.52
+        },
+        {
+          "word": "bạn",
+          "start": 8.26,
+          "end": 8.34,
+          "probability": 0.94
+        }
+      ]
+    }
+  ]
+}

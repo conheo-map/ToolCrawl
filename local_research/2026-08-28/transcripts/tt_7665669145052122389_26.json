@@ -1,0 +1,806 @@
+{
+  "item_id": "tt_7665669145052122389_26",
+  "duration_seconds": 29.33,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 102,
+  "text": "1 năm sấu bẩy tạm Nên a sẽ còn năm kích chọn Bây giờ còn năm kích chọn 4,5 kích chọn Nên bản thúc chúng ta sẽ năm năm Nhi ai nhà này Lấy ví dụ như vậy Nhà Lấy ví dụ như vậy Được chào Tên nếu bà trả sự mà Thay ví dụ như bà sấu bà sấu đi sả Bà sấu thì bằng 2,5,5,5 Búng rồi Bồn như chỉ bà sấu đúng rồi Rồi, tìm thì kê mừng sẽ có lý kinh này nữa mà Hãy để nơi mặt 2 Đúng không thấy thôi Bình thích thôi Được chào",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.68,
+      "text": "1 năm sấu bẩy tạm",
+      "words": [
+        {
+          "word": "1",
+          "start": 0.02,
+          "end": 0.64,
+          "probability": 0.29
+        },
+        {
+          "word": "năm",
+          "start": 0.64,
+          "end": 0.86,
+          "probability": 0.44
+        },
+        {
+          "word": "sấu",
+          "start": 0.86,
+          "end": 1.08,
+          "probability": 0.2
+        },
+        {
+          "word": "bẩy",
+          "start": 1.08,
+          "end": 1.28,
+          "probability": 0.55
+        },
+        {
+          "word": "tạm",
+          "start": 1.28,
+          "end": 1.68,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.68,
+      "end": 3.1,
+      "text": "Nên a sẽ còn năm kích chọn",
+      "words": [
+        {
+          "word": "Nên",
+          "start": 1.68,
+          "end": 1.88,
+          "probability": 0.14
+        },
+        {
+          "word": "a",
+          "start": 1.88,
+          "end": 2.14,
+          "probability": 0.2
+        },
+        {
+          "word": "sẽ",
+          "start": 2.14,
+          "end": 2.32,
+          "probability": 0.84
+        },
+        {
+          "word": "còn",
+          "start": 2.32,
+          "end": 2.44,
+          "probability": 0.85
+        },
+        {
+          "word": "năm",
+          "start": 2.44,
+          "end": 2.58,
+          "probability": 0.44
+        },
+        {
+          "word": "kích",
+          "start": 2.58,
+          "end": 2.78,
+          "probability": 0.34
+        },
+        {
+          "word": "chọn",
+          "start": 2.78,
+          "end": 3.1,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.1,
+      "end": 4.16,
+      "text": "Bây giờ còn năm kích chọn",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 3.1,
+          "end": 3.42,
+          "probability": 0.16
+        },
+        {
+          "word": "giờ",
+          "start": 3.42,
+          "end": 3.5,
+          "probability": 0.91
+        },
+        {
+          "word": "còn",
+          "start": 3.5,
+          "end": 3.68,
+          "probability": 0.88
+        },
+        {
+          "word": "năm",
+          "start": 3.68,
+          "end": 3.78,
+          "probability": 0.99
+        },
+        {
+          "word": "kích",
+          "start": 3.78,
+          "end": 3.94,
+          "probability": 0.94
+        },
+        {
+          "word": "chọn",
+          "start": 3.94,
+          "end": 4.16,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.16,
+      "end": 5.44,
+      "text": "4,5 kích chọn",
+      "words": [
+        {
+          "word": "4",
+          "start": 4.16,
+          "end": 4.42,
+          "probability": 0.26
+        },
+        {
+          "word": ",5",
+          "start": 4.42,
+          "end": 4.68,
+          "probability": 0.23
+        },
+        {
+          "word": "kích",
+          "start": 4.68,
+          "end": 5.12,
+          "probability": 0.54
+        },
+        {
+          "word": "chọn",
+          "start": 5.12,
+          "end": 5.44,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 5.44,
+      "end": 6.84,
+      "text": "Nên bản thúc chúng ta sẽ năm năm",
+      "words": [
+        {
+          "word": "Nên",
+          "start": 5.44,
+          "end": 5.62,
+          "probability": 0.2
+        },
+        {
+          "word": "bản",
+          "start": 5.62,
+          "end": 5.8,
+          "probability": 0.26
+        },
+        {
+          "word": "thúc",
+          "start": 5.8,
+          "end": 5.9,
+          "probability": 0.1
+        },
+        {
+          "word": "chúng",
+          "start": 5.9,
+          "end": 6.12,
+          "probability": 0.2
+        },
+        {
+          "word": "ta",
+          "start": 6.12,
+          "end": 6.12,
+          "probability": 0.96
+        },
+        {
+          "word": "sẽ",
+          "start": 6.12,
+          "end": 6.26,
+          "probability": 0.98
+        },
+        {
+          "word": "năm",
+          "start": 6.26,
+          "end": 6.4,
+          "probability": 0.93
+        },
+        {
+          "word": "năm",
+          "start": 6.4,
+          "end": 6.84,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 6.84,
+      "end": 7.62,
+      "text": "Nhi ai nhà này",
+      "words": [
+        {
+          "word": "Nhi",
+          "start": 6.84,
+          "end": 7.16,
+          "probability": 0.1
+        },
+        {
+          "word": "ai",
+          "start": 7.16,
+          "end": 7.26,
+          "probability": 0.2
+        },
+        {
+          "word": "nhà",
+          "start": 7.26,
+          "end": 7.4,
+          "probability": 0.08
+        },
+        {
+          "word": "này",
+          "start": 7.4,
+          "end": 7.62,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 7.62,
+      "end": 8.5,
+      "text": "Lấy ví dụ như vậy",
+      "words": [
+        {
+          "word": "Lấy",
+          "start": 7.62,
+          "end": 7.86,
+          "probability": 0.12
+        },
+        {
+          "word": "ví",
+          "start": 7.86,
+          "end": 8.04,
+          "probability": 0.3
+        },
+        {
+          "word": "dụ",
+          "start": 8.04,
+          "end": 8.06,
+          "probability": 0.84
+        },
+        {
+          "word": "như",
+          "start": 8.06,
+          "end": 8.2,
+          "probability": 0.27
+        },
+        {
+          "word": "vậy",
+          "start": 8.2,
+          "end": 8.5,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 8.9,
+      "end": 9.26,
+      "text": "Nhà",
+      "words": [
+        {
+          "word": "Nhà",
+          "start": 8.9,
+          "end": 9.26,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 10.6,
+      "end": 11.62,
+      "text": "Lấy ví dụ như vậy",
+      "words": [
+        {
+          "word": "Lấy",
+          "start": 10.6,
+          "end": 11.02,
+          "probability": 0.52
+        },
+        {
+          "word": "ví",
+          "start": 11.02,
+          "end": 11.1,
+          "probability": 0.95
+        },
+        {
+          "word": "dụ",
+          "start": 11.1,
+          "end": 11.12,
+          "probability": 1.0
+        },
+        {
+          "word": "như",
+          "start": 11.12,
+          "end": 11.26,
+          "probability": 1.0
+        },
+        {
+          "word": "vậy",
+          "start": 11.26,
+          "end": 11.62,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 11.62,
+      "end": 12.16,
+      "text": "Được chào",
+      "words": [
+        {
+          "word": "Được",
+          "start": 11.62,
+          "end": 11.8,
+          "probability": 0.14
+        },
+        {
+          "word": "chào",
+          "start": 11.8,
+          "end": 12.16,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 13.92,
+      "end": 14.98,
+      "text": "Tên nếu bà trả sự mà",
+      "words": [
+        {
+          "word": "Tên",
+          "start": 13.92,
+          "end": 14.28,
+          "probability": 0.21
+        },
+        {
+          "word": "nếu",
+          "start": 14.28,
+          "end": 14.44,
+          "probability": 0.52
+        },
+        {
+          "word": "bà",
+          "start": 14.44,
+          "end": 14.54,
+          "probability": 0.42
+        },
+        {
+          "word": "trả",
+          "start": 14.54,
+          "end": 14.68,
+          "probability": 0.26
+        },
+        {
+          "word": "sự",
+          "start": 14.68,
+          "end": 14.76,
+          "probability": 0.43
+        },
+        {
+          "word": "mà",
+          "start": 14.76,
+          "end": 14.98,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 14.98,
+      "end": 16.84,
+      "text": "Thay ví dụ như bà sấu bà sấu đi sả",
+      "words": [
+        {
+          "word": "Thay",
+          "start": 14.98,
+          "end": 15.2,
+          "probability": 0.23
+        },
+        {
+          "word": "ví",
+          "start": 15.2,
+          "end": 15.32,
+          "probability": 0.28
+        },
+        {
+          "word": "dụ",
+          "start": 15.32,
+          "end": 15.36,
+          "probability": 0.98
+        },
+        {
+          "word": "như",
+          "start": 15.36,
+          "end": 15.42,
+          "probability": 0.2
+        },
+        {
+          "word": "bà",
+          "start": 15.42,
+          "end": 15.52,
+          "probability": 0.27
+        },
+        {
+          "word": "sấu",
+          "start": 15.52,
+          "end": 15.66,
+          "probability": 0.51
+        },
+        {
+          "word": "bà",
+          "start": 15.66,
+          "end": 15.82,
+          "probability": 0.48
+        },
+        {
+          "word": "sấu",
+          "start": 15.82,
+          "end": 16.02,
+          "probability": 0.65
+        },
+        {
+          "word": "đi",
+          "start": 16.02,
+          "end": 16.12,
+          "probability": 0.11
+        },
+        {
+          "word": "sả",
+          "start": 16.12,
+          "end": 16.84,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 16.84,
+      "end": 19.16,
+      "text": "Bà sấu thì bằng 2,5,5,5",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 16.84,
+          "end": 17.16,
+          "probability": 0.66
+        },
+        {
+          "word": "sấu",
+          "start": 17.16,
+          "end": 17.36,
+          "probability": 0.93
+        },
+        {
+          "word": "thì",
+          "start": 17.36,
+          "end": 17.52,
+          "probability": 0.74
+        },
+        {
+          "word": "bằng",
+          "start": 17.52,
+          "end": 17.7,
+          "probability": 0.81
+        },
+        {
+          "word": "2",
+          "start": 17.7,
+          "end": 18.0,
+          "probability": 0.8
+        },
+        {
+          "word": ",5",
+          "start": 18.0,
+          "end": 18.4,
+          "probability": 0.36
+        },
+        {
+          "word": ",5",
+          "start": 18.4,
+          "end": 18.7,
+          "probability": 0.24
+        },
+        {
+          "word": ",5",
+          "start": 18.7,
+          "end": 19.16,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 20.64,
+      "end": 21.32,
+      "text": "Búng rồi",
+      "words": [
+        {
+          "word": "Búng",
+          "start": 20.64,
+          "end": 21.0,
+          "probability": 0.17
+        },
+        {
+          "word": "rồi",
+          "start": 21.0,
+          "end": 21.32,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 21.32,
+      "end": 22.86,
+      "text": "Bồn như chỉ bà sấu đúng rồi",
+      "words": [
+        {
+          "word": "Bồn",
+          "start": 21.32,
+          "end": 21.68,
+          "probability": 0.38
+        },
+        {
+          "word": "như",
+          "start": 21.68,
+          "end": 21.74,
+          "probability": 0.52
+        },
+        {
+          "word": "chỉ",
+          "start": 21.74,
+          "end": 21.92,
+          "probability": 0.4
+        },
+        {
+          "word": "bà",
+          "start": 21.92,
+          "end": 21.96,
+          "probability": 0.85
+        },
+        {
+          "word": "sấu",
+          "start": 21.96,
+          "end": 22.14,
+          "probability": 0.95
+        },
+        {
+          "word": "đúng",
+          "start": 22.14,
+          "end": 22.32,
+          "probability": 0.73
+        },
+        {
+          "word": "rồi",
+          "start": 22.32,
+          "end": 22.86,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 22.86,
+      "end": 25.24,
+      "text": "Rồi, tìm thì kê mừng sẽ có lý kinh này nữa mà",
+      "words": [
+        {
+          "word": "Rồi,",
+          "start": 22.86,
+          "end": 23.22,
+          "probability": 0.49
+        },
+        {
+          "word": "tìm",
+          "start": 23.38,
+          "end": 24.18,
+          "probability": 0.12
+        },
+        {
+          "word": "thì",
+          "start": 24.18,
+          "end": 24.18,
+          "probability": 0.21
+        },
+        {
+          "word": "kê",
+          "start": 24.18,
+          "end": 24.36,
+          "probability": 0.24
+        },
+        {
+          "word": "mừng",
+          "start": 24.36,
+          "end": 24.44,
+          "probability": 0.08
+        },
+        {
+          "word": "sẽ",
+          "start": 24.44,
+          "end": 24.58,
+          "probability": 0.93
+        },
+        {
+          "word": "có",
+          "start": 24.58,
+          "end": 24.7,
+          "probability": 0.93
+        },
+        {
+          "word": "lý",
+          "start": 24.7,
+          "end": 24.86,
+          "probability": 0.11
+        },
+        {
+          "word": "kinh",
+          "start": 24.86,
+          "end": 24.9,
+          "probability": 0.26
+        },
+        {
+          "word": "này",
+          "start": 24.9,
+          "end": 24.96,
+          "probability": 0.8
+        },
+        {
+          "word": "nữa",
+          "start": 24.96,
+          "end": 25.12,
+          "probability": 0.18
+        },
+        {
+          "word": "mà",
+          "start": 25.12,
+          "end": 25.24,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 25.24,
+      "end": 26.54,
+      "text": "Hãy để nơi mặt 2",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 25.24,
+          "end": 25.48,
+          "probability": 0.01
+        },
+        {
+          "word": "để",
+          "start": 25.48,
+          "end": 25.6,
+          "probability": 0.03
+        },
+        {
+          "word": "nơi",
+          "start": 25.6,
+          "end": 25.66,
+          "probability": 0.08
+        },
+        {
+          "word": "mặt",
+          "start": 25.66,
+          "end": 25.84,
+          "probability": 0.11
+        },
+        {
+          "word": "2",
+          "start": 25.84,
+          "end": 26.54,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 26.54,
+      "end": 27.52,
+      "text": "Đúng không thấy thôi",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 26.54,
+          "end": 26.88,
+          "probability": 0.83
+        },
+        {
+          "word": "không",
+          "start": 26.88,
+          "end": 27.02,
+          "probability": 0.42
+        },
+        {
+          "word": "thấy",
+          "start": 27.02,
+          "end": 27.1,
+          "probability": 0.22
+        },
+        {
+          "word": "thôi",
+          "start": 27.1,
+          "end": 27.52,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 27.52,
+      "end": 28.52,
+      "text": "Bình thích thôi",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 27.52,
+          "end": 27.82,
+          "probability": 0.14
+        },
+        {
+          "word": "thích",
+          "start": 27.82,
+          "end": 27.96,
+          "probability": 0.49
+        },
+        {
+          "word": "thôi",
+          "start": 27.96,
+          "end": 28.52,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 28.52,
+      "end": 29.02,
+      "text": "Được chào",
+      "words": [
+        {
+          "word": "Được",
+          "start": 28.52,
+          "end": 28.86,
+          "probability": 0.65
+        },
+        {
+          "word": "chào",
+          "start": 28.86,
+          "end": 29.02,
+          "probability": 0.89
+        }
+      ]
+    }
+  ]
+}

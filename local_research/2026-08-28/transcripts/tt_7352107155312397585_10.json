@@ -1,0 +1,60 @@
+{
+  "item_id": "tt_7352107155312397585_10",
+  "duration_seconds": 19.56,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 7,
+  "text": "Vào tất cả, các bạn hẹn gặp.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.16,
+      "text": "Vào tất cả, các bạn hẹn gặp.",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 0.02,
+          "end": 0.7,
+          "probability": 0.19
+        },
+        {
+          "word": "tất",
+          "start": 0.7,
+          "end": 1.0,
+          "probability": 0.12
+        },
+        {
+          "word": "cả,",
+          "start": 1.0,
+          "end": 1.02,
+          "probability": 0.87
+        },
+        {
+          "word": "các",
+          "start": 1.16,
+          "end": 1.16,
+          "probability": 0.06
+        },
+        {
+          "word": "bạn",
+          "start": 1.16,
+          "end": 1.16,
+          "probability": 0.59
+        },
+        {
+          "word": "hẹn",
+          "start": 1.16,
+          "end": 1.16,
+          "probability": 0.27
+        },
+        {
+          "word": "gặp.",
+          "start": 1.16,
+          "end": 1.16,
+          "probability": 0.71
+        }
+      ]
+    }
+  ]
+}

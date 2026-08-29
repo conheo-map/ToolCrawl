@@ -1,0 +1,634 @@
+{
+  "item_id": "tt_7598416882143743233_08",
+  "duration_seconds": 28.86,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 92,
+  "text": "Chuy đi, 2 người, 1 người xấu, 2 người Bệ xa xuất, cần tim, bằng vị, 1 chuy đi, 2 người, 1 người xấu Cộng 2 người, chín Nô người gà, xe ba của 2 người Đó thì các bạn, tính cái này ra thì kèm sẽ tìm con ngay gọi xô Thì, đấy nó bụ cách Bệ nó bụ cách, nó ra thì kèm có thị nằm kế khác Thế, tìm luôn, ngay giả chí để bùng mấy nướng Một chuy đi, 1 người, 2 người, chín, 2 người xíu ba",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 4.36,
+      "text": "Chuy đi, 2 người, 1 người xấu, 2 người",
+      "words": [
+        {
+          "word": "Chuy",
+          "start": 0.08,
+          "end": 0.64,
+          "probability": 0.23
+        },
+        {
+          "word": "đi,",
+          "start": 0.64,
+          "end": 1.24,
+          "probability": 0.82
+        },
+        {
+          "word": "2",
+          "start": 1.52,
+          "end": 2.1,
+          "probability": 0.37
+        },
+        {
+          "word": "người,",
+          "start": 2.1,
+          "end": 2.36,
+          "probability": 0.89
+        },
+        {
+          "word": "1",
+          "start": 2.54,
+          "end": 2.66,
+          "probability": 0.18
+        },
+        {
+          "word": "người",
+          "start": 2.66,
+          "end": 2.82,
+          "probability": 0.58
+        },
+        {
+          "word": "xấu,",
+          "start": 2.82,
+          "end": 3.24,
+          "probability": 0.38
+        },
+        {
+          "word": "2",
+          "start": 3.68,
+          "end": 3.82,
+          "probability": 0.14
+        },
+        {
+          "word": "người",
+          "start": 3.82,
+          "end": 4.36,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.36,
+      "end": 8.66,
+      "text": "Bệ xa xuất, cần tim, bằng vị, 1 chuy đi, 2 người, 1 người xấu",
+      "words": [
+        {
+          "word": "Bệ",
+          "start": 4.36,
+          "end": 4.68,
+          "probability": 0.11
+        },
+        {
+          "word": "xa",
+          "start": 4.68,
+          "end": 4.82,
+          "probability": 0.22
+        },
+        {
+          "word": "xuất,",
+          "start": 4.82,
+          "end": 5.06,
+          "probability": 0.71
+        },
+        {
+          "word": "cần",
+          "start": 5.22,
+          "end": 5.44,
+          "probability": 0.37
+        },
+        {
+          "word": "tim,",
+          "start": 5.44,
+          "end": 5.84,
+          "probability": 0.36
+        },
+        {
+          "word": "bằng",
+          "start": 6.22,
+          "end": 6.22,
+          "probability": 0.25
+        },
+        {
+          "word": "vị,",
+          "start": 6.22,
+          "end": 6.6,
+          "probability": 0.21
+        },
+        {
+          "word": "1",
+          "start": 6.86,
+          "end": 7.02,
+          "probability": 0.77
+        },
+        {
+          "word": "chuy",
+          "start": 7.02,
+          "end": 7.22,
+          "probability": 0.71
+        },
+        {
+          "word": "đi,",
+          "start": 7.22,
+          "end": 7.4,
+          "probability": 1.0
+        },
+        {
+          "word": "2",
+          "start": 7.4,
+          "end": 7.62,
+          "probability": 0.96
+        },
+        {
+          "word": "người,",
+          "start": 7.62,
+          "end": 7.76,
+          "probability": 1.0
+        },
+        {
+          "word": "1",
+          "start": 7.9,
+          "end": 7.98,
+          "probability": 0.52
+        },
+        {
+          "word": "người",
+          "start": 7.98,
+          "end": 8.08,
+          "probability": 0.96
+        },
+        {
+          "word": "xấu",
+          "start": 8.08,
+          "end": 8.66,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.66,
+      "end": 10.42,
+      "text": "Cộng 2 người, chín",
+      "words": [
+        {
+          "word": "Cộng",
+          "start": 8.66,
+          "end": 8.96,
+          "probability": 0.46
+        },
+        {
+          "word": "2",
+          "start": 8.96,
+          "end": 9.18,
+          "probability": 0.54
+        },
+        {
+          "word": "người,",
+          "start": 9.18,
+          "end": 9.5,
+          "probability": 1.0
+        },
+        {
+          "word": "chín",
+          "start": 9.8,
+          "end": 10.42,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.04,
+      "end": 13.54,
+      "text": "Nô người gà, xe ba của 2 người",
+      "words": [
+        {
+          "word": "Nô",
+          "start": 11.04,
+          "end": 11.4,
+          "probability": 0.27
+        },
+        {
+          "word": "người",
+          "start": 11.4,
+          "end": 11.6,
+          "probability": 0.12
+        },
+        {
+          "word": "gà,",
+          "start": 11.6,
+          "end": 11.76,
+          "probability": 0.46
+        },
+        {
+          "word": "xe",
+          "start": 12.2,
+          "end": 12.4,
+          "probability": 0.4
+        },
+        {
+          "word": "ba",
+          "start": 12.4,
+          "end": 12.64,
+          "probability": 0.44
+        },
+        {
+          "word": "của",
+          "start": 12.64,
+          "end": 12.74,
+          "probability": 0.83
+        },
+        {
+          "word": "2",
+          "start": 12.74,
+          "end": 12.92,
+          "probability": 0.7
+        },
+        {
+          "word": "người",
+          "start": 12.92,
+          "end": 13.54,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.54,
+      "end": 15.72,
+      "text": "Đó thì các bạn, tính cái này ra thì kèm sẽ tìm con ngay gọi xô",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 13.54,
+          "end": 13.86,
+          "probability": 0.49
+        },
+        {
+          "word": "thì",
+          "start": 13.86,
+          "end": 13.92,
+          "probability": 0.25
+        },
+        {
+          "word": "các",
+          "start": 13.92,
+          "end": 14.06,
+          "probability": 0.94
+        },
+        {
+          "word": "bạn,",
+          "start": 14.06,
+          "end": 14.16,
+          "probability": 1.0
+        },
+        {
+          "word": "tính",
+          "start": 14.22,
+          "end": 14.32,
+          "probability": 0.4
+        },
+        {
+          "word": "cái",
+          "start": 14.32,
+          "end": 14.36,
+          "probability": 0.16
+        },
+        {
+          "word": "này",
+          "start": 14.36,
+          "end": 14.46,
+          "probability": 0.74
+        },
+        {
+          "word": "ra",
+          "start": 14.46,
+          "end": 14.62,
+          "probability": 0.57
+        },
+        {
+          "word": "thì",
+          "start": 14.62,
+          "end": 14.78,
+          "probability": 0.59
+        },
+        {
+          "word": "kèm",
+          "start": 14.78,
+          "end": 14.88,
+          "probability": 0.45
+        },
+        {
+          "word": "sẽ",
+          "start": 14.88,
+          "end": 15.0,
+          "probability": 0.65
+        },
+        {
+          "word": "tìm",
+          "start": 15.0,
+          "end": 15.12,
+          "probability": 0.76
+        },
+        {
+          "word": "con",
+          "start": 15.12,
+          "end": 15.22,
+          "probability": 0.12
+        },
+        {
+          "word": "ngay",
+          "start": 15.22,
+          "end": 15.3,
+          "probability": 0.56
+        },
+        {
+          "word": "gọi",
+          "start": 15.3,
+          "end": 15.5,
+          "probability": 0.24
+        },
+        {
+          "word": "xô",
+          "start": 15.5,
+          "end": 15.72,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 16.98,
+      "end": 18.54,
+      "text": "Thì, đấy nó bụ cách",
+      "words": [
+        {
+          "word": "Thì,",
+          "start": 16.98,
+          "end": 17.34,
+          "probability": 0.45
+        },
+        {
+          "word": "đấy",
+          "start": 17.34,
+          "end": 17.56,
+          "probability": 0.16
+        },
+        {
+          "word": "nó",
+          "start": 17.56,
+          "end": 17.76,
+          "probability": 0.29
+        },
+        {
+          "word": "bụ",
+          "start": 17.76,
+          "end": 17.9,
+          "probability": 0.2
+        },
+        {
+          "word": "cách",
+          "start": 17.9,
+          "end": 18.54,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.54,
+      "end": 21.24,
+      "text": "Bệ nó bụ cách, nó ra thì kèm có thị nằm kế khác",
+      "words": [
+        {
+          "word": "Bệ",
+          "start": 18.54,
+          "end": 18.86,
+          "probability": 0.27
+        },
+        {
+          "word": "nó",
+          "start": 18.86,
+          "end": 18.96,
+          "probability": 0.47
+        },
+        {
+          "word": "bụ",
+          "start": 18.96,
+          "end": 19.24,
+          "probability": 0.62
+        },
+        {
+          "word": "cách,",
+          "start": 19.24,
+          "end": 19.24,
+          "probability": 0.4
+        },
+        {
+          "word": "nó",
+          "start": 19.34,
+          "end": 19.42,
+          "probability": 0.13
+        },
+        {
+          "word": "ra",
+          "start": 19.42,
+          "end": 19.56,
+          "probability": 0.4
+        },
+        {
+          "word": "thì",
+          "start": 19.56,
+          "end": 19.74,
+          "probability": 0.69
+        },
+        {
+          "word": "kèm",
+          "start": 19.74,
+          "end": 19.88,
+          "probability": 0.85
+        },
+        {
+          "word": "có",
+          "start": 19.88,
+          "end": 20.06,
+          "probability": 0.83
+        },
+        {
+          "word": "thị",
+          "start": 20.06,
+          "end": 20.18,
+          "probability": 0.4
+        },
+        {
+          "word": "nằm",
+          "start": 20.18,
+          "end": 20.38,
+          "probability": 0.66
+        },
+        {
+          "word": "kế",
+          "start": 20.38,
+          "end": 20.56,
+          "probability": 0.73
+        },
+        {
+          "word": "khác",
+          "start": 20.56,
+          "end": 21.24,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 21.84,
+      "end": 24.18,
+      "text": "Thế, tìm luôn, ngay giả chí để bùng mấy nướng",
+      "words": [
+        {
+          "word": "Thế,",
+          "start": 21.84,
+          "end": 22.2,
+          "probability": 0.31
+        },
+        {
+          "word": "tìm",
+          "start": 22.2,
+          "end": 22.56,
+          "probability": 0.41
+        },
+        {
+          "word": "luôn,",
+          "start": 22.56,
+          "end": 22.74,
+          "probability": 0.31
+        },
+        {
+          "word": "ngay",
+          "start": 22.82,
+          "end": 22.98,
+          "probability": 0.62
+        },
+        {
+          "word": "giả",
+          "start": 22.98,
+          "end": 23.02,
+          "probability": 0.54
+        },
+        {
+          "word": "chí",
+          "start": 23.02,
+          "end": 23.12,
+          "probability": 0.35
+        },
+        {
+          "word": "để",
+          "start": 23.12,
+          "end": 23.32,
+          "probability": 0.24
+        },
+        {
+          "word": "bùng",
+          "start": 23.32,
+          "end": 23.36,
+          "probability": 0.37
+        },
+        {
+          "word": "mấy",
+          "start": 23.36,
+          "end": 23.52,
+          "probability": 0.22
+        },
+        {
+          "word": "nướng",
+          "start": 23.52,
+          "end": 24.18,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 24.18,
+      "end": 28.5,
+      "text": "Một chuy đi, 1 người, 2 người, chín, 2 người xíu ba",
+      "words": [
+        {
+          "word": "Một",
+          "start": 24.18,
+          "end": 24.52,
+          "probability": 0.54
+        },
+        {
+          "word": "chuy",
+          "start": 24.52,
+          "end": 24.7,
+          "probability": 0.73
+        },
+        {
+          "word": "đi,",
+          "start": 24.7,
+          "end": 25.28,
+          "probability": 0.99
+        },
+        {
+          "word": "1",
+          "start": 25.34,
+          "end": 25.62,
+          "probability": 0.29
+        },
+        {
+          "word": "người,",
+          "start": 25.62,
+          "end": 25.96,
+          "probability": 0.92
+        },
+        {
+          "word": "2",
+          "start": 26.14,
+          "end": 26.28,
+          "probability": 0.58
+        },
+        {
+          "word": "người,",
+          "start": 26.28,
+          "end": 26.28,
+          "probability": 0.99
+        },
+        {
+          "word": "chín,",
+          "start": 26.48,
+          "end": 26.48,
+          "probability": 0.43
+        },
+        {
+          "word": "2",
+          "start": 27.68,
+          "end": 28.08,
+          "probability": 0.86
+        },
+        {
+          "word": "người",
+          "start": 28.08,
+          "end": 28.16,
+          "probability": 0.99
+        },
+        {
+          "word": "xíu",
+          "start": 28.16,
+          "end": 28.38,
+          "probability": 0.35
+        },
+        {
+          "word": "ba",
+          "start": 28.38,
+          "end": 28.5,
+          "probability": 0.63
+        }
+      ]
+    }
+  ]
+}

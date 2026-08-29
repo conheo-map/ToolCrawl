@@ -1,0 +1,388 @@
+{
+  "item_id": "tt_7663081457887415572_01",
+  "duration_seconds": 26.77,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 55,
+  "text": "Tôi nhận nữ tôi mới nói chói cũng sẽ không cho phép mình nhảy để dì cũng phép yên thì ra bản dòi như người của không không có nươi thì mình tầy sòng không mình nói con chận đây không dù ở dự kính tình khúc và dù kính tầy dệ lời chất em",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.33,
+      "end": 5.31,
+      "text": "Tôi nhận nữ tôi mới nói chói cũng sẽ không cho phép mình nhảy",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 1.33,
+          "end": 1.85,
+          "probability": 0.1
+        },
+        {
+          "word": "nhận",
+          "start": 1.85,
+          "end": 2.05,
+          "probability": 0.67
+        },
+        {
+          "word": "nữ",
+          "start": 2.05,
+          "end": 2.29,
+          "probability": 0.24
+        },
+        {
+          "word": "tôi",
+          "start": 2.29,
+          "end": 2.45,
+          "probability": 0.07
+        },
+        {
+          "word": "mới",
+          "start": 2.45,
+          "end": 2.61,
+          "probability": 0.16
+        },
+        {
+          "word": "nói",
+          "start": 2.61,
+          "end": 2.89,
+          "probability": 0.4
+        },
+        {
+          "word": "chói",
+          "start": 2.89,
+          "end": 3.17,
+          "probability": 0.21
+        },
+        {
+          "word": "cũng",
+          "start": 3.17,
+          "end": 3.29,
+          "probability": 0.07
+        },
+        {
+          "word": "sẽ",
+          "start": 3.29,
+          "end": 3.57,
+          "probability": 0.25
+        },
+        {
+          "word": "không",
+          "start": 3.57,
+          "end": 4.27,
+          "probability": 0.87
+        },
+        {
+          "word": "cho",
+          "start": 4.27,
+          "end": 4.45,
+          "probability": 0.43
+        },
+        {
+          "word": "phép",
+          "start": 4.45,
+          "end": 4.65,
+          "probability": 0.92
+        },
+        {
+          "word": "mình",
+          "start": 4.65,
+          "end": 4.85,
+          "probability": 0.29
+        },
+        {
+          "word": "nhảy",
+          "start": 4.85,
+          "end": 5.31,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.31,
+      "end": 6.51,
+      "text": "để dì cũng phép yên",
+      "words": [
+        {
+          "word": "để",
+          "start": 5.31,
+          "end": 5.57,
+          "probability": 0.11
+        },
+        {
+          "word": "dì",
+          "start": 5.57,
+          "end": 5.77,
+          "probability": 0.19
+        },
+        {
+          "word": "cũng",
+          "start": 5.77,
+          "end": 5.89,
+          "probability": 0.9
+        },
+        {
+          "word": "phép",
+          "start": 5.89,
+          "end": 6.11,
+          "probability": 0.33
+        },
+        {
+          "word": "yên",
+          "start": 6.11,
+          "end": 6.51,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.51,
+      "end": 11.35,
+      "text": "thì ra bản dòi như người của không không có nươi thì mình tầy sòng",
+      "words": [
+        {
+          "word": "thì",
+          "start": 6.51,
+          "end": 6.85,
+          "probability": 0.17
+        },
+        {
+          "word": "ra",
+          "start": 6.85,
+          "end": 7.17,
+          "probability": 0.17
+        },
+        {
+          "word": "bản",
+          "start": 7.17,
+          "end": 7.37,
+          "probability": 0.41
+        },
+        {
+          "word": "dòi",
+          "start": 7.37,
+          "end": 7.75,
+          "probability": 0.29
+        },
+        {
+          "word": "như",
+          "start": 7.75,
+          "end": 7.83,
+          "probability": 0.29
+        },
+        {
+          "word": "người",
+          "start": 7.83,
+          "end": 8.21,
+          "probability": 0.17
+        },
+        {
+          "word": "của",
+          "start": 8.21,
+          "end": 8.57,
+          "probability": 0.12
+        },
+        {
+          "word": "không",
+          "start": 8.57,
+          "end": 8.97,
+          "probability": 0.18
+        },
+        {
+          "word": "không",
+          "start": 8.97,
+          "end": 9.29,
+          "probability": 0.24
+        },
+        {
+          "word": "có",
+          "start": 9.29,
+          "end": 9.43,
+          "probability": 0.12
+        },
+        {
+          "word": "nươi",
+          "start": 9.43,
+          "end": 9.49,
+          "probability": 0.42
+        },
+        {
+          "word": "thì",
+          "start": 9.49,
+          "end": 10.07,
+          "probability": 0.57
+        },
+        {
+          "word": "mình",
+          "start": 10.07,
+          "end": 10.75,
+          "probability": 0.25
+        },
+        {
+          "word": "tầy",
+          "start": 10.75,
+          "end": 11.03,
+          "probability": 0.46
+        },
+        {
+          "word": "sòng",
+          "start": 11.03,
+          "end": 11.35,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.35,
+      "end": 13.19,
+      "text": "không mình nói con chận đây",
+      "words": [
+        {
+          "word": "không",
+          "start": 11.35,
+          "end": 12.09,
+          "probability": 0.67
+        },
+        {
+          "word": "mình",
+          "start": 12.09,
+          "end": 12.19,
+          "probability": 0.17
+        },
+        {
+          "word": "nói",
+          "start": 12.19,
+          "end": 12.39,
+          "probability": 0.19
+        },
+        {
+          "word": "con",
+          "start": 12.39,
+          "end": 12.53,
+          "probability": 0.53
+        },
+        {
+          "word": "chận",
+          "start": 12.53,
+          "end": 12.75,
+          "probability": 0.3
+        },
+        {
+          "word": "đây",
+          "start": 12.75,
+          "end": 13.19,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.19,
+      "end": 16.69,
+      "text": "không dù ở dự kính tình khúc",
+      "words": [
+        {
+          "word": "không",
+          "start": 13.19,
+          "end": 13.67,
+          "probability": 0.73
+        },
+        {
+          "word": "dù",
+          "start": 13.67,
+          "end": 13.99,
+          "probability": 0.52
+        },
+        {
+          "word": "ở",
+          "start": 13.99,
+          "end": 14.25,
+          "probability": 0.09
+        },
+        {
+          "word": "dự",
+          "start": 14.25,
+          "end": 14.75,
+          "probability": 0.58
+        },
+        {
+          "word": "kính",
+          "start": 14.75,
+          "end": 15.97,
+          "probability": 0.21
+        },
+        {
+          "word": "tình",
+          "start": 15.97,
+          "end": 16.23,
+          "probability": 0.7
+        },
+        {
+          "word": "khúc",
+          "start": 16.23,
+          "end": 16.69,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 16.69,
+      "end": 19.21,
+      "text": "và dù kính tầy dệ lời chất em",
+      "words": [
+        {
+          "word": "và",
+          "start": 16.69,
+          "end": 17.03,
+          "probability": 0.32
+        },
+        {
+          "word": "dù",
+          "start": 17.03,
+          "end": 17.61,
+          "probability": 0.45
+        },
+        {
+          "word": "kính",
+          "start": 17.61,
+          "end": 17.75,
+          "probability": 0.65
+        },
+        {
+          "word": "tầy",
+          "start": 17.75,
+          "end": 18.13,
+          "probability": 0.77
+        },
+        {
+          "word": "dệ",
+          "start": 18.13,
+          "end": 18.39,
+          "probability": 0.25
+        },
+        {
+          "word": "lời",
+          "start": 18.39,
+          "end": 18.57,
+          "probability": 0.37
+        },
+        {
+          "word": "chất",
+          "start": 18.57,
+          "end": 18.77,
+          "probability": 0.53
+        },
+        {
+          "word": "em",
+          "start": 18.77,
+          "end": 19.21,
+          "probability": 0.39
+        }
+      ]
+    }
+  ]
+}

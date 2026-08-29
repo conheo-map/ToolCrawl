@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7638111545305599239_12",
+  "duration_seconds": 26.55,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "có người nguyên anh nhé",
+  "segments": [
+    {
+      "id": 1,
+      "start": 24.91,
+      "end": 26.43,
+      "text": "có người nguyên anh nhé",
+      "words": [
+        {
+          "word": "có",
+          "start": 24.91,
+          "end": 25.31,
+          "probability": 0.12
+        },
+        {
+          "word": "người",
+          "start": 25.31,
+          "end": 25.57,
+          "probability": 0.13
+        },
+        {
+          "word": "nguyên",
+          "start": 25.57,
+          "end": 25.79,
+          "probability": 0.36
+        },
+        {
+          "word": "anh",
+          "start": 25.79,
+          "end": 26.07,
+          "probability": 0.34
+        },
+        {
+          "word": "nhé",
+          "start": 26.07,
+          "end": 26.43,
+          "probability": 0.27
+        }
+      ]
+    }
+  ]
+}

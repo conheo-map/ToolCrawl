@@ -1,0 +1,202 @@
+{
+  "item_id": "tt_7243424379932134662_01",
+  "duration_seconds": 11.75,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 28,
+  "text": "Nhà chung bảo tức lo vĩ cựt chiu cho hai cà năm. Phần bôn, hai cà sấu, hai cà bảy nghĩa dần cho quên. Anh hộ, anh hộ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.34,
+      "text": "Nhà chung bảo tức lo vĩ cựt chiu cho hai cà năm.",
+      "words": [
+        {
+          "word": "Nhà",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.14
+        },
+        {
+          "word": "chung",
+          "start": 0.18,
+          "end": 0.36,
+          "probability": 0.62
+        },
+        {
+          "word": "bảo",
+          "start": 0.36,
+          "end": 0.58,
+          "probability": 0.64
+        },
+        {
+          "word": "tức",
+          "start": 0.58,
+          "end": 0.7,
+          "probability": 0.38
+        },
+        {
+          "word": "lo",
+          "start": 0.7,
+          "end": 0.9,
+          "probability": 0.49
+        },
+        {
+          "word": "vĩ",
+          "start": 0.9,
+          "end": 1.06,
+          "probability": 0.14
+        },
+        {
+          "word": "cựt",
+          "start": 1.06,
+          "end": 1.28,
+          "probability": 0.36
+        },
+        {
+          "word": "chiu",
+          "start": 1.28,
+          "end": 1.48,
+          "probability": 0.18
+        },
+        {
+          "word": "cho",
+          "start": 1.48,
+          "end": 1.62,
+          "probability": 0.82
+        },
+        {
+          "word": "hai",
+          "start": 1.62,
+          "end": 1.78,
+          "probability": 0.3
+        },
+        {
+          "word": "cà",
+          "start": 1.78,
+          "end": 1.92,
+          "probability": 0.23
+        },
+        {
+          "word": "năm.",
+          "start": 1.92,
+          "end": 2.34,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.68,
+      "end": 5.48,
+      "text": "Phần bôn, hai cà sấu, hai cà bảy nghĩa dần cho quên.",
+      "words": [
+        {
+          "word": "Phần",
+          "start": 2.68,
+          "end": 2.68,
+          "probability": 0.58
+        },
+        {
+          "word": "bôn,",
+          "start": 2.68,
+          "end": 3.08,
+          "probability": 0.37
+        },
+        {
+          "word": "hai",
+          "start": 3.5,
+          "end": 3.56,
+          "probability": 0.95
+        },
+        {
+          "word": "cà",
+          "start": 3.56,
+          "end": 3.74,
+          "probability": 0.74
+        },
+        {
+          "word": "sấu,",
+          "start": 3.74,
+          "end": 4.02,
+          "probability": 0.39
+        },
+        {
+          "word": "hai",
+          "start": 4.34,
+          "end": 4.4,
+          "probability": 0.98
+        },
+        {
+          "word": "cà",
+          "start": 4.4,
+          "end": 4.54,
+          "probability": 0.95
+        },
+        {
+          "word": "bảy",
+          "start": 4.54,
+          "end": 4.74,
+          "probability": 0.52
+        },
+        {
+          "word": "nghĩa",
+          "start": 4.74,
+          "end": 4.94,
+          "probability": 0.28
+        },
+        {
+          "word": "dần",
+          "start": 4.94,
+          "end": 5.1,
+          "probability": 0.3
+        },
+        {
+          "word": "cho",
+          "start": 5.1,
+          "end": 5.26,
+          "probability": 0.22
+        },
+        {
+          "word": "quên.",
+          "start": 5.26,
+          "end": 5.48,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.16,
+      "end": 11.22,
+      "text": "Anh hộ, anh hộ.",
+      "words": [
+        {
+          "word": "Anh",
+          "start": 7.16,
+          "end": 7.56,
+          "probability": 0.22
+        },
+        {
+          "word": "hộ,",
+          "start": 10.44,
+          "end": 10.84,
+          "probability": 0.14
+        },
+        {
+          "word": "anh",
+          "start": 11.04,
+          "end": 11.16,
+          "probability": 0.83
+        },
+        {
+          "word": "hộ.",
+          "start": 11.16,
+          "end": 11.22,
+          "probability": 0.83
+        }
+      ]
+    }
+  ]
+}

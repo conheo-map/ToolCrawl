@@ -1,0 +1,86 @@
+{
+  "item_id": "tt_7227693227099311366",
+  "duration_seconds": 10.64,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 10,
+  "text": "Cái bảo niệm như thế này? Cái bảo niệm gì?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 2.37,
+      "text": "Cái bảo niệm như thế này?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.11,
+          "end": 0.71,
+          "probability": 0.13
+        },
+        {
+          "word": "bảo",
+          "start": 0.71,
+          "end": 0.95,
+          "probability": 0.21
+        },
+        {
+          "word": "niệm",
+          "start": 0.95,
+          "end": 1.23,
+          "probability": 0.45
+        },
+        {
+          "word": "như",
+          "start": 1.23,
+          "end": 1.45,
+          "probability": 0.08
+        },
+        {
+          "word": "thế",
+          "start": 1.45,
+          "end": 1.99,
+          "probability": 0.5
+        },
+        {
+          "word": "này?",
+          "start": 1.99,
+          "end": 2.37,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.41,
+      "end": 5.35,
+      "text": "Cái bảo niệm gì?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 3.41,
+          "end": 3.53,
+          "probability": 0.52
+        },
+        {
+          "word": "bảo",
+          "start": 3.53,
+          "end": 4.79,
+          "probability": 0.56
+        },
+        {
+          "word": "niệm",
+          "start": 4.79,
+          "end": 4.87,
+          "probability": 0.93
+        },
+        {
+          "word": "gì?",
+          "start": 4.87,
+          "end": 5.35,
+          "probability": 0.11
+        }
+      ]
+    }
+  ]
+}

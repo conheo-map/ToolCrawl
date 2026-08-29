@@ -1,0 +1,618 @@
+{
+  "item_id": "tt_7647092179084659988_54",
+  "duration_seconds": 27.77,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 84,
+  "text": "có tình gọi là chiến mẹ phù và chiến mẹ trong tiến hoài chiến quyền lệ ông nèo của người dịch. chiến mẹ, đầu đen hả? Sinh, chiều bầu của mình không phải đầu đi, nó em làm mê đi. Mê đi. Oh. Tại bớt vì đặt rất đầu đi. Đúng rồi, mắm mắm gì mê đi, mắm. Để mọi nhắc rất gì mình mới nhớ là... Để cũng là một mắm nộ tiến quyền hả? Ờ. Để mắt có hỏi cuối cùng. Lẹ.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 2.33,
+      "text": "có tình gọi là chiến mẹ phù",
+      "words": [
+        {
+          "word": "có",
+          "start": 0.11,
+          "end": 0.47,
+          "probability": 0.13
+        },
+        {
+          "word": "tình",
+          "start": 0.47,
+          "end": 0.65,
+          "probability": 0.47
+        },
+        {
+          "word": "gọi",
+          "start": 0.65,
+          "end": 0.91,
+          "probability": 0.73
+        },
+        {
+          "word": "là",
+          "start": 0.91,
+          "end": 1.25,
+          "probability": 0.62
+        },
+        {
+          "word": "chiến",
+          "start": 1.25,
+          "end": 1.49,
+          "probability": 0.47
+        },
+        {
+          "word": "mẹ",
+          "start": 1.49,
+          "end": 1.73,
+          "probability": 0.59
+        },
+        {
+          "word": "phù",
+          "start": 1.73,
+          "end": 2.33,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.33,
+      "end": 6.37,
+      "text": "và chiến mẹ trong tiến hoài chiến quyền lệ ông nèo của người dịch.",
+      "words": [
+        {
+          "word": "và",
+          "start": 2.33,
+          "end": 3.01,
+          "probability": 0.03
+        },
+        {
+          "word": "chiến",
+          "start": 3.01,
+          "end": 3.63,
+          "probability": 0.97
+        },
+        {
+          "word": "mẹ",
+          "start": 3.63,
+          "end": 3.79,
+          "probability": 0.97
+        },
+        {
+          "word": "trong",
+          "start": 3.79,
+          "end": 3.99,
+          "probability": 0.64
+        },
+        {
+          "word": "tiến",
+          "start": 3.99,
+          "end": 4.21,
+          "probability": 0.51
+        },
+        {
+          "word": "hoài",
+          "start": 4.21,
+          "end": 4.51,
+          "probability": 0.46
+        },
+        {
+          "word": "chiến",
+          "start": 4.51,
+          "end": 4.81,
+          "probability": 0.65
+        },
+        {
+          "word": "quyền",
+          "start": 4.81,
+          "end": 5.01,
+          "probability": 0.44
+        },
+        {
+          "word": "lệ",
+          "start": 5.01,
+          "end": 5.21,
+          "probability": 0.22
+        },
+        {
+          "word": "ông",
+          "start": 5.21,
+          "end": 5.37,
+          "probability": 0.2
+        },
+        {
+          "word": "nèo",
+          "start": 5.37,
+          "end": 5.61,
+          "probability": 0.46
+        },
+        {
+          "word": "của",
+          "start": 5.61,
+          "end": 5.75,
+          "probability": 0.54
+        },
+        {
+          "word": "người",
+          "start": 5.75,
+          "end": 5.95,
+          "probability": 0.71
+        },
+        {
+          "word": "dịch.",
+          "start": 5.95,
+          "end": 6.37,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.83,
+      "end": 8.57,
+      "text": "chiến mẹ, đầu đen hả?",
+      "words": [
+        {
+          "word": "chiến",
+          "start": 6.83,
+          "end": 6.85,
+          "probability": 0.68
+        },
+        {
+          "word": "mẹ,",
+          "start": 6.85,
+          "end": 7.29,
+          "probability": 0.8
+        },
+        {
+          "word": "đầu",
+          "start": 7.53,
+          "end": 7.57,
+          "probability": 0.48
+        },
+        {
+          "word": "đen",
+          "start": 7.57,
+          "end": 7.77,
+          "probability": 0.27
+        },
+        {
+          "word": "hả?",
+          "start": 7.77,
+          "end": 8.57,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.01,
+      "end": 12.75,
+      "text": "Sinh, chiều bầu của mình không phải đầu đi, nó em làm mê đi.",
+      "words": [
+        {
+          "word": "Sinh,",
+          "start": 9.01,
+          "end": 9.39,
+          "probability": 0.3
+        },
+        {
+          "word": "chiều",
+          "start": 9.85,
+          "end": 10.19,
+          "probability": 0.28
+        },
+        {
+          "word": "bầu",
+          "start": 10.19,
+          "end": 10.25,
+          "probability": 0.16
+        },
+        {
+          "word": "của",
+          "start": 10.25,
+          "end": 10.41,
+          "probability": 0.37
+        },
+        {
+          "word": "mình",
+          "start": 10.41,
+          "end": 10.79,
+          "probability": 0.68
+        },
+        {
+          "word": "không",
+          "start": 10.79,
+          "end": 10.99,
+          "probability": 0.94
+        },
+        {
+          "word": "phải",
+          "start": 10.99,
+          "end": 11.13,
+          "probability": 0.99
+        },
+        {
+          "word": "đầu",
+          "start": 11.13,
+          "end": 11.33,
+          "probability": 0.84
+        },
+        {
+          "word": "đi,",
+          "start": 11.33,
+          "end": 11.53,
+          "probability": 0.49
+        },
+        {
+          "word": "nó",
+          "start": 11.71,
+          "end": 11.89,
+          "probability": 0.17
+        },
+        {
+          "word": "em",
+          "start": 11.89,
+          "end": 12.07,
+          "probability": 0.2
+        },
+        {
+          "word": "làm",
+          "start": 12.07,
+          "end": 12.27,
+          "probability": 0.38
+        },
+        {
+          "word": "mê",
+          "start": 12.27,
+          "end": 12.49,
+          "probability": 0.39
+        },
+        {
+          "word": "đi.",
+          "start": 12.49,
+          "end": 12.75,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.17,
+      "end": 13.77,
+      "text": "Mê đi.",
+      "words": [
+        {
+          "word": "Mê",
+          "start": 13.17,
+          "end": 13.43,
+          "probability": 0.66
+        },
+        {
+          "word": "đi.",
+          "start": 13.43,
+          "end": 13.77,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.63,
+      "end": 15.07,
+      "text": "Oh.",
+      "words": [
+        {
+          "word": "Oh.",
+          "start": 14.63,
+          "end": 15.07,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 16.33,
+      "end": 17.67,
+      "text": "Tại bớt vì đặt rất đầu đi.",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 16.33,
+          "end": 16.57,
+          "probability": 0.26
+        },
+        {
+          "word": "bớt",
+          "start": 16.57,
+          "end": 16.65,
+          "probability": 0.64
+        },
+        {
+          "word": "vì",
+          "start": 16.65,
+          "end": 16.83,
+          "probability": 0.36
+        },
+        {
+          "word": "đặt",
+          "start": 16.83,
+          "end": 16.97,
+          "probability": 0.34
+        },
+        {
+          "word": "rất",
+          "start": 16.97,
+          "end": 17.13,
+          "probability": 0.56
+        },
+        {
+          "word": "đầu",
+          "start": 17.13,
+          "end": 17.41,
+          "probability": 0.31
+        },
+        {
+          "word": "đi.",
+          "start": 17.41,
+          "end": 17.67,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 18.81,
+      "end": 20.69,
+      "text": "Đúng rồi, mắm mắm gì mê đi, mắm.",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 18.81,
+          "end": 19.19,
+          "probability": 0.66
+        },
+        {
+          "word": "rồi,",
+          "start": 19.19,
+          "end": 19.37,
+          "probability": 0.67
+        },
+        {
+          "word": "mắm",
+          "start": 19.41,
+          "end": 19.67,
+          "probability": 0.35
+        },
+        {
+          "word": "mắm",
+          "start": 19.67,
+          "end": 19.89,
+          "probability": 0.5
+        },
+        {
+          "word": "gì",
+          "start": 19.89,
+          "end": 19.95,
+          "probability": 0.24
+        },
+        {
+          "word": "mê",
+          "start": 19.95,
+          "end": 20.11,
+          "probability": 0.71
+        },
+        {
+          "word": "đi,",
+          "start": 20.11,
+          "end": 20.29,
+          "probability": 0.98
+        },
+        {
+          "word": "mắm.",
+          "start": 20.43,
+          "end": 20.69,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 20.69,
+      "end": 22.41,
+      "text": "Để mọi nhắc rất gì mình mới nhớ là...",
+      "words": [
+        {
+          "word": "Để",
+          "start": 20.69,
+          "end": 20.71,
+          "probability": 0.38
+        },
+        {
+          "word": "mọi",
+          "start": 20.71,
+          "end": 20.93,
+          "probability": 0.45
+        },
+        {
+          "word": "nhắc",
+          "start": 20.93,
+          "end": 21.17,
+          "probability": 0.42
+        },
+        {
+          "word": "rất",
+          "start": 21.17,
+          "end": 21.39,
+          "probability": 0.12
+        },
+        {
+          "word": "gì",
+          "start": 21.39,
+          "end": 21.51,
+          "probability": 0.37
+        },
+        {
+          "word": "mình",
+          "start": 21.51,
+          "end": 21.61,
+          "probability": 0.76
+        },
+        {
+          "word": "mới",
+          "start": 21.61,
+          "end": 21.77,
+          "probability": 0.24
+        },
+        {
+          "word": "nhớ",
+          "start": 21.77,
+          "end": 21.93,
+          "probability": 0.41
+        },
+        {
+          "word": "là...",
+          "start": 21.93,
+          "end": 22.41,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 22.41,
+      "end": 24.19,
+      "text": "Để cũng là một mắm nộ tiến quyền hả?",
+      "words": [
+        {
+          "word": "Để",
+          "start": 22.41,
+          "end": 22.55,
+          "probability": 0.51
+        },
+        {
+          "word": "cũng",
+          "start": 22.55,
+          "end": 22.67,
+          "probability": 0.33
+        },
+        {
+          "word": "là",
+          "start": 22.67,
+          "end": 22.75,
+          "probability": 0.44
+        },
+        {
+          "word": "một",
+          "start": 22.75,
+          "end": 22.99,
+          "probability": 0.48
+        },
+        {
+          "word": "mắm",
+          "start": 22.99,
+          "end": 23.19,
+          "probability": 0.77
+        },
+        {
+          "word": "nộ",
+          "start": 23.19,
+          "end": 23.43,
+          "probability": 0.33
+        },
+        {
+          "word": "tiến",
+          "start": 23.43,
+          "end": 23.65,
+          "probability": 0.58
+        },
+        {
+          "word": "quyền",
+          "start": 23.65,
+          "end": 23.85,
+          "probability": 0.72
+        },
+        {
+          "word": "hả?",
+          "start": 23.85,
+          "end": 24.19,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 25.25,
+      "end": 25.41,
+      "text": "Ờ.",
+      "words": [
+        {
+          "word": "Ờ.",
+          "start": 25.25,
+          "end": 25.41,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 25.41,
+      "end": 26.85,
+      "text": "Để mắt có hỏi cuối cùng.",
+      "words": [
+        {
+          "word": "Để",
+          "start": 25.41,
+          "end": 25.71,
+          "probability": 0.65
+        },
+        {
+          "word": "mắt",
+          "start": 25.71,
+          "end": 25.87,
+          "probability": 0.32
+        },
+        {
+          "word": "có",
+          "start": 25.87,
+          "end": 25.99,
+          "probability": 0.67
+        },
+        {
+          "word": "hỏi",
+          "start": 25.99,
+          "end": 26.15,
+          "probability": 0.58
+        },
+        {
+          "word": "cuối",
+          "start": 26.15,
+          "end": 26.35,
+          "probability": 0.36
+        },
+        {
+          "word": "cùng.",
+          "start": 26.35,
+          "end": 26.85,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 27.29,
+      "end": 27.49,
+      "text": "Lẹ.",
+      "words": [
+        {
+          "word": "Lẹ.",
+          "start": 27.29,
+          "end": 27.49,
+          "probability": 0.52
+        }
+      ]
+    }
+  ]
+}

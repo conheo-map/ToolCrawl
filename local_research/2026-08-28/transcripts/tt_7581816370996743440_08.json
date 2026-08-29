@@ -1,0 +1,694 @@
+{
+  "item_id": "tt_7581816370996743440_08",
+  "duration_seconds": 29.17,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 98,
+  "text": "Mằng 2, tương tập 1 bằng 1, 1, 2 Nhiều đây là 10 có lúc 1, 1, 1, 1, 1, 1, 1, 2 Để 2 của 2 chỉ đi 1 trên đi Để 1, 2 Để cho 1, 1, 2 Chứ đi nhanh, nhanh chỉ 1, cật từ 1, 2, 2, 2 Mằng gì đây? 3, 2 Để là 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1 Các bạn có bác chứ 2, 1, 2 Các bạn có bác chứ 2, 1, 2 Bác chứ 2, 1, 2, 1, 2, 1, 2, 1, 2, 1",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.92,
+      "text": "Mằng 2, tương tập 1 bằng 1, 1, 2",
+      "words": [
+        {
+          "word": "Mằng",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.15
+        },
+        {
+          "word": "2,",
+          "start": 0.46,
+          "end": 0.82,
+          "probability": 0.73
+        },
+        {
+          "word": "tương",
+          "start": 1.1,
+          "end": 1.16,
+          "probability": 0.2
+        },
+        {
+          "word": "tập",
+          "start": 1.16,
+          "end": 1.24,
+          "probability": 0.06
+        },
+        {
+          "word": "1",
+          "start": 1.24,
+          "end": 1.5,
+          "probability": 0.1
+        },
+        {
+          "word": "bằng",
+          "start": 1.5,
+          "end": 1.86,
+          "probability": 0.47
+        },
+        {
+          "word": "1,",
+          "start": 1.86,
+          "end": 2.0,
+          "probability": 0.44
+        },
+        {
+          "word": "1,",
+          "start": 2.1,
+          "end": 2.1,
+          "probability": 0.34
+        },
+        {
+          "word": "2",
+          "start": 2.1,
+          "end": 2.92,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.92,
+      "end": 6.18,
+      "text": "Nhiều đây là 10 có lúc 1, 1, 1, 1, 1, 1, 1, 2",
+      "words": [
+        {
+          "word": "Nhiều",
+          "start": 2.92,
+          "end": 3.26,
+          "probability": 0.27
+        },
+        {
+          "word": "đây",
+          "start": 3.26,
+          "end": 3.4,
+          "probability": 0.29
+        },
+        {
+          "word": "là",
+          "start": 3.4,
+          "end": 3.52,
+          "probability": 0.21
+        },
+        {
+          "word": "10",
+          "start": 3.52,
+          "end": 3.66,
+          "probability": 0.11
+        },
+        {
+          "word": "có",
+          "start": 3.66,
+          "end": 3.82,
+          "probability": 0.13
+        },
+        {
+          "word": "lúc",
+          "start": 3.82,
+          "end": 4.0,
+          "probability": 0.35
+        },
+        {
+          "word": "1,",
+          "start": 4.0,
+          "end": 4.52,
+          "probability": 0.11
+        },
+        {
+          "word": "1,",
+          "start": 4.74,
+          "end": 4.94,
+          "probability": 0.42
+        },
+        {
+          "word": "1,",
+          "start": 4.94,
+          "end": 5.08,
+          "probability": 0.6
+        },
+        {
+          "word": "1,",
+          "start": 5.18,
+          "end": 5.18,
+          "probability": 0.66
+        },
+        {
+          "word": "1,",
+          "start": 5.28,
+          "end": 5.28,
+          "probability": 0.68
+        },
+        {
+          "word": "1,",
+          "start": 5.42,
+          "end": 5.42,
+          "probability": 0.68
+        },
+        {
+          "word": "1,",
+          "start": 5.62,
+          "end": 5.62,
+          "probability": 0.52
+        },
+        {
+          "word": "2",
+          "start": 5.7,
+          "end": 6.18,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.18,
+      "end": 7.82,
+      "text": "Để 2 của 2 chỉ đi 1 trên đi",
+      "words": [
+        {
+          "word": "Để",
+          "start": 6.18,
+          "end": 6.42,
+          "probability": 0.23
+        },
+        {
+          "word": "2",
+          "start": 6.42,
+          "end": 6.62,
+          "probability": 0.82
+        },
+        {
+          "word": "của",
+          "start": 6.62,
+          "end": 6.74,
+          "probability": 0.59
+        },
+        {
+          "word": "2",
+          "start": 6.74,
+          "end": 7.04,
+          "probability": 0.95
+        },
+        {
+          "word": "chỉ",
+          "start": 7.04,
+          "end": 7.16,
+          "probability": 0.15
+        },
+        {
+          "word": "đi",
+          "start": 7.16,
+          "end": 7.26,
+          "probability": 0.43
+        },
+        {
+          "word": "1",
+          "start": 7.26,
+          "end": 7.38,
+          "probability": 0.88
+        },
+        {
+          "word": "trên",
+          "start": 7.38,
+          "end": 7.52,
+          "probability": 0.25
+        },
+        {
+          "word": "đi",
+          "start": 7.52,
+          "end": 7.82,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.32,
+      "end": 9.9,
+      "text": "Để 1, 2",
+      "words": [
+        {
+          "word": "Để",
+          "start": 8.32,
+          "end": 8.72,
+          "probability": 0.67
+        },
+        {
+          "word": "1,",
+          "start": 8.72,
+          "end": 9.08,
+          "probability": 0.49
+        },
+        {
+          "word": "2",
+          "start": 9.08,
+          "end": 9.9,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.9,
+      "end": 11.96,
+      "text": "Để cho 1, 1, 2",
+      "words": [
+        {
+          "word": "Để",
+          "start": 9.9,
+          "end": 10.12,
+          "probability": 0.64
+        },
+        {
+          "word": "cho",
+          "start": 10.12,
+          "end": 10.28,
+          "probability": 0.11
+        },
+        {
+          "word": "1,",
+          "start": 10.28,
+          "end": 10.7,
+          "probability": 0.25
+        },
+        {
+          "word": "1,",
+          "start": 10.7,
+          "end": 10.84,
+          "probability": 0.28
+        },
+        {
+          "word": "2",
+          "start": 10.84,
+          "end": 11.96,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.96,
+      "end": 15.64,
+      "text": "Chứ đi nhanh, nhanh chỉ 1, cật từ 1, 2, 2, 2",
+      "words": [
+        {
+          "word": "Chứ",
+          "start": 11.96,
+          "end": 12.22,
+          "probability": 0.12
+        },
+        {
+          "word": "đi",
+          "start": 12.22,
+          "end": 12.36,
+          "probability": 0.39
+        },
+        {
+          "word": "nhanh,",
+          "start": 12.36,
+          "end": 12.72,
+          "probability": 0.45
+        },
+        {
+          "word": "nhanh",
+          "start": 13.04,
+          "end": 13.04,
+          "probability": 0.79
+        },
+        {
+          "word": "chỉ",
+          "start": 13.04,
+          "end": 13.14,
+          "probability": 0.32
+        },
+        {
+          "word": "1,",
+          "start": 13.14,
+          "end": 13.44,
+          "probability": 0.44
+        },
+        {
+          "word": "cật",
+          "start": 13.66,
+          "end": 13.76,
+          "probability": 0.15
+        },
+        {
+          "word": "từ",
+          "start": 13.76,
+          "end": 14.04,
+          "probability": 0.4
+        },
+        {
+          "word": "1,",
+          "start": 14.04,
+          "end": 14.14,
+          "probability": 0.97
+        },
+        {
+          "word": "2,",
+          "start": 14.24,
+          "end": 14.52,
+          "probability": 0.82
+        },
+        {
+          "word": "2,",
+          "start": 14.6,
+          "end": 14.88,
+          "probability": 0.49
+        },
+        {
+          "word": "2",
+          "start": 14.88,
+          "end": 15.64,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.64,
+      "end": 16.3,
+      "text": "Mằng gì đây?",
+      "words": [
+        {
+          "word": "Mằng",
+          "start": 15.64,
+          "end": 15.8,
+          "probability": 0.53
+        },
+        {
+          "word": "gì",
+          "start": 15.8,
+          "end": 15.9,
+          "probability": 0.47
+        },
+        {
+          "word": "đây?",
+          "start": 15.9,
+          "end": 16.3,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.88,
+      "end": 17.48,
+      "text": "3, 2",
+      "words": [
+        {
+          "word": "3,",
+          "start": 16.88,
+          "end": 17.22,
+          "probability": 0.27
+        },
+        {
+          "word": "2",
+          "start": 17.34,
+          "end": 17.48,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 19.26,
+      "end": 24.12,
+      "text": "Để là 2, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1",
+      "words": [
+        {
+          "word": "Để",
+          "start": 19.26,
+          "end": 19.66,
+          "probability": 0.49
+        },
+        {
+          "word": "là",
+          "start": 19.66,
+          "end": 20.06,
+          "probability": 0.24
+        },
+        {
+          "word": "2,",
+          "start": 20.06,
+          "end": 21.14,
+          "probability": 0.36
+        },
+        {
+          "word": "2,",
+          "start": 21.24,
+          "end": 21.24,
+          "probability": 0.07
+        },
+        {
+          "word": "1,",
+          "start": 21.32,
+          "end": 22.2,
+          "probability": 0.13
+        },
+        {
+          "word": "2,",
+          "start": 22.28,
+          "end": 22.52,
+          "probability": 0.67
+        },
+        {
+          "word": "1,",
+          "start": 22.54,
+          "end": 22.54,
+          "probability": 0.37
+        },
+        {
+          "word": "2,",
+          "start": 22.76,
+          "end": 22.96,
+          "probability": 0.76
+        },
+        {
+          "word": "1,",
+          "start": 22.96,
+          "end": 23.06,
+          "probability": 0.6
+        },
+        {
+          "word": "2,",
+          "start": 23.06,
+          "end": 23.06,
+          "probability": 0.52
+        },
+        {
+          "word": "1,",
+          "start": 23.06,
+          "end": 23.66,
+          "probability": 0.74
+        },
+        {
+          "word": "2,",
+          "start": 24.12,
+          "end": 24.12,
+          "probability": 0.38
+        },
+        {
+          "word": "1",
+          "start": 24.12,
+          "end": 24.12,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 24.12,
+      "end": 25.18,
+      "text": "Các bạn có bác chứ 2, 1, 2",
+      "words": [
+        {
+          "word": "Các",
+          "start": 24.12,
+          "end": 24.2,
+          "probability": 0.13
+        },
+        {
+          "word": "bạn",
+          "start": 24.2,
+          "end": 24.2,
+          "probability": 0.91
+        },
+        {
+          "word": "có",
+          "start": 24.2,
+          "end": 24.24,
+          "probability": 0.1
+        },
+        {
+          "word": "bác",
+          "start": 24.24,
+          "end": 24.38,
+          "probability": 0.4
+        },
+        {
+          "word": "chứ",
+          "start": 24.38,
+          "end": 24.52,
+          "probability": 0.21
+        },
+        {
+          "word": "2,",
+          "start": 24.52,
+          "end": 24.62,
+          "probability": 0.25
+        },
+        {
+          "word": "1,",
+          "start": 24.7,
+          "end": 25.18,
+          "probability": 0.48
+        },
+        {
+          "word": "2",
+          "start": 25.18,
+          "end": 25.18,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 25.18,
+      "end": 25.64,
+      "text": "Các bạn có bác chứ 2, 1, 2",
+      "words": [
+        {
+          "word": "Các",
+          "start": 25.18,
+          "end": 25.18,
+          "probability": 0.54
+        },
+        {
+          "word": "bạn",
+          "start": 25.18,
+          "end": 25.18,
+          "probability": 0.99
+        },
+        {
+          "word": "có",
+          "start": 25.18,
+          "end": 25.18,
+          "probability": 0.86
+        },
+        {
+          "word": "bác",
+          "start": 25.18,
+          "end": 25.18,
+          "probability": 0.93
+        },
+        {
+          "word": "chứ",
+          "start": 25.18,
+          "end": 25.18,
+          "probability": 0.93
+        },
+        {
+          "word": "2,",
+          "start": 25.18,
+          "end": 25.18,
+          "probability": 0.8
+        },
+        {
+          "word": "1,",
+          "start": 25.22,
+          "end": 25.64,
+          "probability": 0.51
+        },
+        {
+          "word": "2",
+          "start": 25.64,
+          "end": 25.64,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 25.64,
+      "end": 28.0,
+      "text": "Bác chứ 2, 1, 2, 1, 2, 1, 2, 1, 2, 1",
+      "words": [
+        {
+          "word": "Bác",
+          "start": 25.64,
+          "end": 25.76,
+          "probability": 0.21
+        },
+        {
+          "word": "chứ",
+          "start": 25.76,
+          "end": 26.54,
+          "probability": 0.54
+        },
+        {
+          "word": "2,",
+          "start": 26.54,
+          "end": 26.54,
+          "probability": 0.37
+        },
+        {
+          "word": "1,",
+          "start": 26.54,
+          "end": 26.54,
+          "probability": 0.64
+        },
+        {
+          "word": "2,",
+          "start": 26.54,
+          "end": 26.54,
+          "probability": 0.44
+        },
+        {
+          "word": "1,",
+          "start": 26.78,
+          "end": 26.78,
+          "probability": 0.76
+        },
+        {
+          "word": "2,",
+          "start": 26.78,
+          "end": 26.78,
+          "probability": 0.31
+        },
+        {
+          "word": "1,",
+          "start": 26.86,
+          "end": 26.86,
+          "probability": 0.81
+        },
+        {
+          "word": "2,",
+          "start": 27.12,
+          "end": 27.12,
+          "probability": 0.33
+        },
+        {
+          "word": "1,",
+          "start": 27.12,
+          "end": 27.12,
+          "probability": 0.77
+        },
+        {
+          "word": "2,",
+          "start": 27.56,
+          "end": 27.58,
+          "probability": 0.35
+        },
+        {
+          "word": "1",
+          "start": 27.84,
+          "end": 28.0,
+          "probability": 0.73
+        }
+      ]
+    }
+  ]
+}

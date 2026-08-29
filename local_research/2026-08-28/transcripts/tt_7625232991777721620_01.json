@@ -1,0 +1,628 @@
+{
+  "item_id": "tt_7625232991777721620_01",
+  "duration_seconds": 28.11,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 87,
+  "text": "Học thông ơn được ngon tắt ấm Bình có tỏng bày bày nữa Tính ra là còn bày bày nữa Sất thí rồi Học kết tế năm bày tội Chị đang bây năm Học kết tế năm bày tội Bây thì nếu bây giờ em không cố gắng thì bão dở em không? Bây giờ em không cố gắng thì bão dở em không hắng Hẹn gặp em cố gắng dòng Nhưng chắc gì đã bảo được đại học? Chắc gì mình đã bảo được đại học?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.98,
+      "text": "Học thông ơn được ngon tắt ấm",
+      "words": [
+        {
+          "word": "Học",
+          "start": 0.0,
+          "end": 0.64,
+          "probability": 0.44
+        },
+        {
+          "word": "thông",
+          "start": 0.64,
+          "end": 0.8,
+          "probability": 0.23
+        },
+        {
+          "word": "ơn",
+          "start": 0.8,
+          "end": 0.94,
+          "probability": 0.1
+        },
+        {
+          "word": "được",
+          "start": 0.94,
+          "end": 1.06,
+          "probability": 0.39
+        },
+        {
+          "word": "ngon",
+          "start": 1.06,
+          "end": 1.28,
+          "probability": 0.31
+        },
+        {
+          "word": "tắt",
+          "start": 1.28,
+          "end": 1.38,
+          "probability": 0.48
+        },
+        {
+          "word": "ấm",
+          "start": 1.38,
+          "end": 1.98,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.98,
+      "end": 4.16,
+      "text": "Bình có tỏng bày bày nữa",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 1.98,
+          "end": 2.3,
+          "probability": 0.44
+        },
+        {
+          "word": "có",
+          "start": 2.3,
+          "end": 2.74,
+          "probability": 0.36
+        },
+        {
+          "word": "tỏng",
+          "start": 2.74,
+          "end": 2.9,
+          "probability": 0.18
+        },
+        {
+          "word": "bày",
+          "start": 2.9,
+          "end": 3.18,
+          "probability": 0.2
+        },
+        {
+          "word": "bày",
+          "start": 3.18,
+          "end": 3.36,
+          "probability": 0.26
+        },
+        {
+          "word": "nữa",
+          "start": 3.36,
+          "end": 4.16,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.16,
+      "end": 6.24,
+      "text": "Tính ra là còn bày bày nữa",
+      "words": [
+        {
+          "word": "Tính",
+          "start": 4.16,
+          "end": 4.7,
+          "probability": 0.51
+        },
+        {
+          "word": "ra",
+          "start": 4.7,
+          "end": 4.88,
+          "probability": 0.91
+        },
+        {
+          "word": "là",
+          "start": 4.88,
+          "end": 5.08,
+          "probability": 0.16
+        },
+        {
+          "word": "còn",
+          "start": 5.08,
+          "end": 5.12,
+          "probability": 0.22
+        },
+        {
+          "word": "bày",
+          "start": 5.12,
+          "end": 5.34,
+          "probability": 0.44
+        },
+        {
+          "word": "bày",
+          "start": 5.34,
+          "end": 5.58,
+          "probability": 0.9
+        },
+        {
+          "word": "nữa",
+          "start": 5.58,
+          "end": 6.24,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.24,
+      "end": 7.42,
+      "text": "Sất thí rồi",
+      "words": [
+        {
+          "word": "Sất",
+          "start": 6.24,
+          "end": 6.42,
+          "probability": 0.28
+        },
+        {
+          "word": "thí",
+          "start": 6.42,
+          "end": 6.58,
+          "probability": 0.37
+        },
+        {
+          "word": "rồi",
+          "start": 6.58,
+          "end": 7.42,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.8,
+      "end": 10.98,
+      "text": "Học kết tế năm bày tội",
+      "words": [
+        {
+          "word": "Học",
+          "start": 9.8,
+          "end": 10.16,
+          "probability": 0.44
+        },
+        {
+          "word": "kết",
+          "start": 10.16,
+          "end": 10.3,
+          "probability": 0.11
+        },
+        {
+          "word": "tế",
+          "start": 10.3,
+          "end": 10.48,
+          "probability": 0.1
+        },
+        {
+          "word": "năm",
+          "start": 10.48,
+          "end": 10.58,
+          "probability": 0.37
+        },
+        {
+          "word": "bày",
+          "start": 10.58,
+          "end": 10.8,
+          "probability": 0.47
+        },
+        {
+          "word": "tội",
+          "start": 10.8,
+          "end": 10.98,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.54,
+      "end": 12.46,
+      "text": "Chị đang bây năm",
+      "words": [
+        {
+          "word": "Chị",
+          "start": 11.54,
+          "end": 11.9,
+          "probability": 0.05
+        },
+        {
+          "word": "đang",
+          "start": 11.9,
+          "end": 12.02,
+          "probability": 0.35
+        },
+        {
+          "word": "bây",
+          "start": 12.02,
+          "end": 12.16,
+          "probability": 0.28
+        },
+        {
+          "word": "năm",
+          "start": 12.16,
+          "end": 12.46,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.46,
+      "end": 14.58,
+      "text": "Học kết tế năm bày tội",
+      "words": [
+        {
+          "word": "Học",
+          "start": 12.46,
+          "end": 12.92,
+          "probability": 0.58
+        },
+        {
+          "word": "kết",
+          "start": 12.92,
+          "end": 13.14,
+          "probability": 0.96
+        },
+        {
+          "word": "tế",
+          "start": 13.14,
+          "end": 13.3,
+          "probability": 0.75
+        },
+        {
+          "word": "năm",
+          "start": 13.3,
+          "end": 13.92,
+          "probability": 0.99
+        },
+        {
+          "word": "bày",
+          "start": 13.92,
+          "end": 14.46,
+          "probability": 0.7
+        },
+        {
+          "word": "tội",
+          "start": 14.46,
+          "end": 14.58,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.98,
+      "end": 18.56,
+      "text": "Bây thì nếu bây giờ em không cố gắng thì bão dở em không?",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 15.98,
+          "end": 16.34,
+          "probability": 0.14
+        },
+        {
+          "word": "thì",
+          "start": 16.34,
+          "end": 16.34,
+          "probability": 0.0
+        },
+        {
+          "word": "nếu",
+          "start": 16.34,
+          "end": 16.5,
+          "probability": 0.06
+        },
+        {
+          "word": "bây",
+          "start": 16.5,
+          "end": 16.72,
+          "probability": 0.87
+        },
+        {
+          "word": "giờ",
+          "start": 16.72,
+          "end": 16.74,
+          "probability": 0.9
+        },
+        {
+          "word": "em",
+          "start": 16.74,
+          "end": 16.96,
+          "probability": 0.33
+        },
+        {
+          "word": "không",
+          "start": 16.96,
+          "end": 17.12,
+          "probability": 0.36
+        },
+        {
+          "word": "cố",
+          "start": 17.12,
+          "end": 17.26,
+          "probability": 0.3
+        },
+        {
+          "word": "gắng",
+          "start": 17.26,
+          "end": 17.4,
+          "probability": 0.93
+        },
+        {
+          "word": "thì",
+          "start": 17.4,
+          "end": 17.5,
+          "probability": 0.77
+        },
+        {
+          "word": "bão",
+          "start": 17.5,
+          "end": 17.64,
+          "probability": 0.26
+        },
+        {
+          "word": "dở",
+          "start": 17.64,
+          "end": 17.78,
+          "probability": 0.39
+        },
+        {
+          "word": "em",
+          "start": 17.78,
+          "end": 17.9,
+          "probability": 0.54
+        },
+        {
+          "word": "không?",
+          "start": 17.9,
+          "end": 18.56,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 19.56,
+      "end": 21.86,
+      "text": "Bây giờ em không cố gắng thì bão dở em không hắng",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 19.56,
+          "end": 19.92,
+          "probability": 0.77
+        },
+        {
+          "word": "giờ",
+          "start": 19.92,
+          "end": 20.06,
+          "probability": 1.0
+        },
+        {
+          "word": "em",
+          "start": 20.06,
+          "end": 20.2,
+          "probability": 1.0
+        },
+        {
+          "word": "không",
+          "start": 20.2,
+          "end": 20.34,
+          "probability": 1.0
+        },
+        {
+          "word": "cố",
+          "start": 20.34,
+          "end": 20.52,
+          "probability": 0.85
+        },
+        {
+          "word": "gắng",
+          "start": 20.52,
+          "end": 20.64,
+          "probability": 0.99
+        },
+        {
+          "word": "thì",
+          "start": 20.64,
+          "end": 20.78,
+          "probability": 0.97
+        },
+        {
+          "word": "bão",
+          "start": 20.78,
+          "end": 20.96,
+          "probability": 0.88
+        },
+        {
+          "word": "dở",
+          "start": 20.96,
+          "end": 21.12,
+          "probability": 0.98
+        },
+        {
+          "word": "em",
+          "start": 21.12,
+          "end": 21.26,
+          "probability": 0.99
+        },
+        {
+          "word": "không",
+          "start": 21.26,
+          "end": 21.44,
+          "probability": 0.29
+        },
+        {
+          "word": "hắng",
+          "start": 21.44,
+          "end": 21.86,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 21.86,
+      "end": 23.42,
+      "text": "Hẹn gặp em cố gắng dòng",
+      "words": [
+        {
+          "word": "Hẹn",
+          "start": 21.86,
+          "end": 22.1,
+          "probability": 0.53
+        },
+        {
+          "word": "gặp",
+          "start": 22.1,
+          "end": 22.34,
+          "probability": 0.37
+        },
+        {
+          "word": "em",
+          "start": 22.34,
+          "end": 22.7,
+          "probability": 0.19
+        },
+        {
+          "word": "cố",
+          "start": 22.7,
+          "end": 22.84,
+          "probability": 0.62
+        },
+        {
+          "word": "gắng",
+          "start": 22.84,
+          "end": 23.0,
+          "probability": 0.98
+        },
+        {
+          "word": "dòng",
+          "start": 23.0,
+          "end": 23.42,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 23.42,
+      "end": 25.92,
+      "text": "Nhưng chắc gì đã bảo được đại học?",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 23.42,
+          "end": 23.78,
+          "probability": 0.57
+        },
+        {
+          "word": "chắc",
+          "start": 23.78,
+          "end": 23.96,
+          "probability": 0.69
+        },
+        {
+          "word": "gì",
+          "start": 23.96,
+          "end": 24.1,
+          "probability": 0.77
+        },
+        {
+          "word": "đã",
+          "start": 24.1,
+          "end": 24.28,
+          "probability": 0.71
+        },
+        {
+          "word": "bảo",
+          "start": 24.28,
+          "end": 24.36,
+          "probability": 0.43
+        },
+        {
+          "word": "được",
+          "start": 24.36,
+          "end": 24.4,
+          "probability": 0.35
+        },
+        {
+          "word": "đại",
+          "start": 24.4,
+          "end": 24.58,
+          "probability": 0.86
+        },
+        {
+          "word": "học?",
+          "start": 24.58,
+          "end": 25.92,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 26.38,
+      "end": 27.24,
+      "text": "Chắc gì mình đã bảo được đại học?",
+      "words": [
+        {
+          "word": "Chắc",
+          "start": 26.38,
+          "end": 26.38,
+          "probability": 0.83
+        },
+        {
+          "word": "gì",
+          "start": 26.38,
+          "end": 26.56,
+          "probability": 1.0
+        },
+        {
+          "word": "mình",
+          "start": 26.56,
+          "end": 26.74,
+          "probability": 0.54
+        },
+        {
+          "word": "đã",
+          "start": 26.74,
+          "end": 26.84,
+          "probability": 0.96
+        },
+        {
+          "word": "bảo",
+          "start": 26.84,
+          "end": 26.9,
+          "probability": 0.87
+        },
+        {
+          "word": "được",
+          "start": 26.9,
+          "end": 26.98,
+          "probability": 1.0
+        },
+        {
+          "word": "đại",
+          "start": 26.98,
+          "end": 27.12,
+          "probability": 0.99
+        },
+        {
+          "word": "học?",
+          "start": 27.12,
+          "end": 27.24,
+          "probability": 0.91
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "item_id": "tt_7661633923352497429_01",
+  "duration_seconds": 22.64,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 92,
+  "text": "lượng mấy và ý ra 1,2 tháng bấy tiếp tục ăn miếng trả miếng với các cuộc tập cích bằng tin lợi và mấy bây khúc người lãi hàng ngặng. Sọ khi Mỹ tính công thang loạt mục tiêu, tên hình răng tuy bố, đặc tập cích các cơ sở của Mỹ khóc phục vình cũng như đóng cửa yên hòa bất một lần nữa. EWN sẽ vẫn đóng cửa cho đánh khi Mỹ chắc giúp sự các thiệt vào cuối bực này lực lượng về bình chắc bản ý ra nha.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.24,
+      "text": "lượng mấy và ý ra 1,2 tháng bấy tiếp tục ăn miếng trả miếng",
+      "words": [
+        {
+          "word": "lượng",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.17
+        },
+        {
+          "word": "mấy",
+          "start": 0.22,
+          "end": 0.52,
+          "probability": 0.33
+        },
+        {
+          "word": "và",
+          "start": 0.52,
+          "end": 0.74,
+          "probability": 0.64
+        },
+        {
+          "word": "ý",
+          "start": 0.74,
+          "end": 0.96,
+          "probability": 0.29
+        },
+        {
+          "word": "ra",
+          "start": 0.96,
+          "end": 1.0,
+          "probability": 0.28
+        },
+        {
+          "word": "1",
+          "start": 1.0,
+          "end": 1.28,
+          "probability": 0.2
+        },
+        {
+          "word": ",2",
+          "start": 1.28,
+          "end": 1.58,
+          "probability": 0.22
+        },
+        {
+          "word": "tháng",
+          "start": 1.58,
+          "end": 1.72,
+          "probability": 0.59
+        },
+        {
+          "word": "bấy",
+          "start": 1.72,
+          "end": 1.98,
+          "probability": 0.38
+        },
+        {
+          "word": "tiếp",
+          "start": 1.98,
+          "end": 2.2,
+          "probability": 0.36
+        },
+        {
+          "word": "tục",
+          "start": 2.2,
+          "end": 2.32,
+          "probability": 0.91
+        },
+        {
+          "word": "ăn",
+          "start": 2.32,
+          "end": 2.52,
+          "probability": 0.54
+        },
+        {
+          "word": "miếng",
+          "start": 2.52,
+          "end": 2.68,
+          "probability": 0.73
+        },
+        {
+          "word": "trả",
+          "start": 2.68,
+          "end": 2.92,
+          "probability": 0.49
+        },
+        {
+          "word": "miếng",
+          "start": 2.92,
+          "end": 3.24,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.24,
+      "end": 6.82,
+      "text": "với các cuộc tập cích bằng tin lợi và mấy bây khúc người lãi hàng ngặng.",
+      "words": [
+        {
+          "word": "với",
+          "start": 3.24,
+          "end": 3.5,
+          "probability": 0.25
+        },
+        {
+          "word": "các",
+          "start": 3.5,
+          "end": 3.66,
+          "probability": 0.87
+        },
+        {
+          "word": "cuộc",
+          "start": 3.66,
+          "end": 3.86,
+          "probability": 0.83
+        },
+        {
+          "word": "tập",
+          "start": 3.86,
+          "end": 4.06,
+          "probability": 0.97
+        },
+        {
+          "word": "cích",
+          "start": 4.06,
+          "end": 4.32,
+          "probability": 0.21
+        },
+        {
+          "word": "bằng",
+          "start": 4.32,
+          "end": 4.5,
+          "probability": 0.8
+        },
+        {
+          "word": "tin",
+          "start": 4.5,
+          "end": 4.68,
+          "probability": 0.35
+        },
+        {
+          "word": "lợi",
+          "start": 4.68,
+          "end": 5.1,
+          "probability": 0.31
+        },
+        {
+          "word": "và",
+          "start": 5.1,
+          "end": 5.24,
+          "probability": 0.87
+        },
+        {
+          "word": "mấy",
+          "start": 5.24,
+          "end": 5.42,
+          "probability": 0.61
+        },
+        {
+          "word": "bây",
+          "start": 5.42,
+          "end": 5.58,
+          "probability": 0.31
+        },
+        {
+          "word": "khúc",
+          "start": 5.58,
+          "end": 5.74,
+          "probability": 0.31
+        },
+        {
+          "word": "người",
+          "start": 5.74,
+          "end": 5.98,
+          "probability": 0.76
+        },
+        {
+          "word": "lãi",
+          "start": 5.98,
+          "end": 6.2,
+          "probability": 0.65
+        },
+        {
+          "word": "hàng",
+          "start": 6.2,
+          "end": 6.38,
+          "probability": 0.77
+        },
+        {
+          "word": "ngặng.",
+          "start": 6.38,
+          "end": 6.82,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.38,
+      "end": 10.3,
+      "text": "Sọ khi Mỹ tính công thang loạt mục tiêu, tên hình răng tuy bố,",
+      "words": [
+        {
+          "word": "Sọ",
+          "start": 7.38,
+          "end": 7.54,
+          "probability": 0.19
+        },
+        {
+          "word": "khi",
+          "start": 7.54,
+          "end": 7.7,
+          "probability": 0.38
+        },
+        {
+          "word": "Mỹ",
+          "start": 7.7,
+          "end": 7.9,
+          "probability": 0.65
+        },
+        {
+          "word": "tính",
+          "start": 7.9,
+          "end": 8.16,
+          "probability": 0.64
+        },
+        {
+          "word": "công",
+          "start": 8.16,
+          "end": 8.36,
+          "probability": 0.3
+        },
+        {
+          "word": "thang",
+          "start": 8.36,
+          "end": 8.54,
+          "probability": 0.2
+        },
+        {
+          "word": "loạt",
+          "start": 8.54,
+          "end": 8.7,
+          "probability": 0.55
+        },
+        {
+          "word": "mục",
+          "start": 8.7,
+          "end": 8.88,
+          "probability": 0.66
+        },
+        {
+          "word": "tiêu,",
+          "start": 8.88,
+          "end": 9.16,
+          "probability": 0.96
+        },
+        {
+          "word": "tên",
+          "start": 9.32,
+          "end": 9.46,
+          "probability": 0.33
+        },
+        {
+          "word": "hình",
+          "start": 9.46,
+          "end": 9.66,
+          "probability": 0.42
+        },
+        {
+          "word": "răng",
+          "start": 9.66,
+          "end": 9.78,
+          "probability": 0.29
+        },
+        {
+          "word": "tuy",
+          "start": 9.78,
+          "end": 10.02,
+          "probability": 0.59
+        },
+        {
+          "word": "bố,",
+          "start": 10.02,
+          "end": 10.3,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.48,
+      "end": 15.2,
+      "text": "đặc tập cích các cơ sở của Mỹ khóc phục vình cũng như đóng cửa yên hòa bất một lần nữa.",
+      "words": [
+        {
+          "word": "đặc",
+          "start": 10.48,
+          "end": 10.62,
+          "probability": 0.66
+        },
+        {
+          "word": "tập",
+          "start": 10.62,
+          "end": 10.82,
+          "probability": 0.97
+        },
+        {
+          "word": "cích",
+          "start": 10.82,
+          "end": 11.02,
+          "probability": 0.72
+        },
+        {
+          "word": "các",
+          "start": 11.02,
+          "end": 11.18,
+          "probability": 0.81
+        },
+        {
+          "word": "cơ",
+          "start": 11.18,
+          "end": 11.4,
+          "probability": 0.74
+        },
+        {
+          "word": "sở",
+          "start": 11.4,
+          "end": 11.48,
+          "probability": 0.62
+        },
+        {
+          "word": "của",
+          "start": 11.48,
+          "end": 11.68,
+          "probability": 0.92
+        },
+        {
+          "word": "Mỹ",
+          "start": 11.68,
+          "end": 11.9,
+          "probability": 1.0
+        },
+        {
+          "word": "khóc",
+          "start": 11.9,
+          "end": 12.12,
+          "probability": 0.76
+        },
+        {
+          "word": "phục",
+          "start": 12.12,
+          "end": 12.3,
+          "probability": 0.5
+        },
+        {
+          "word": "vình",
+          "start": 12.3,
+          "end": 12.64,
+          "probability": 0.39
+        },
+        {
+          "word": "cũng",
+          "start": 12.64,
+          "end": 13.0,
+          "probability": 0.79
+        },
+        {
+          "word": "như",
+          "start": 13.0,
+          "end": 13.16,
+          "probability": 0.46
+        },
+        {
+          "word": "đóng",
+          "start": 13.16,
+          "end": 13.4,
+          "probability": 0.58
+        },
+        {
+          "word": "cửa",
+          "start": 13.4,
+          "end": 13.68,
+          "probability": 0.75
+        },
+        {
+          "word": "yên",
+          "start": 13.68,
+          "end": 13.88,
+          "probability": 0.15
+        },
+        {
+          "word": "hòa",
+          "start": 13.88,
+          "end": 14.08,
+          "probability": 0.46
+        },
+        {
+          "word": "bất",
+          "start": 14.08,
+          "end": 14.3,
+          "probability": 0.62
+        },
+        {
+          "word": "một",
+          "start": 14.3,
+          "end": 14.6,
+          "probability": 0.59
+        },
+        {
+          "word": "lần",
+          "start": 14.6,
+          "end": 14.74,
+          "probability": 0.65
+        },
+        {
+          "word": "nữa.",
+          "start": 14.74,
+          "end": 15.2,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.58,
+      "end": 20.38,
+      "text": "EWN sẽ vẫn đóng cửa cho đánh khi Mỹ chắc giúp sự các thiệt vào cuối bực này",
+      "words": [
+        {
+          "word": "EWN",
+          "start": 16.58,
+          "end": 16.98,
+          "probability": 0.26
+        },
+        {
+          "word": "sẽ",
+          "start": 16.98,
+          "end": 17.16,
+          "probability": 0.98
+        },
+        {
+          "word": "vẫn",
+          "start": 17.16,
+          "end": 17.36,
+          "probability": 0.47
+        },
+        {
+          "word": "đóng",
+          "start": 17.36,
+          "end": 17.58,
+          "probability": 0.61
+        },
+        {
+          "word": "cửa",
+          "start": 17.58,
+          "end": 17.86,
+          "probability": 0.99
+        },
+        {
+          "word": "cho",
+          "start": 17.86,
+          "end": 18.0,
+          "probability": 0.65
+        },
+        {
+          "word": "đánh",
+          "start": 18.0,
+          "end": 18.16,
+          "probability": 0.44
+        },
+        {
+          "word": "khi",
+          "start": 18.16,
+          "end": 18.4,
+          "probability": 0.87
+        },
+        {
+          "word": "Mỹ",
+          "start": 18.4,
+          "end": 18.64,
+          "probability": 1.0
+        },
+        {
+          "word": "chắc",
+          "start": 18.64,
+          "end": 18.86,
+          "probability": 0.46
+        },
+        {
+          "word": "giúp",
+          "start": 18.86,
+          "end": 19.04,
+          "probability": 0.59
+        },
+        {
+          "word": "sự",
+          "start": 19.04,
+          "end": 19.24,
+          "probability": 0.51
+        },
+        {
+          "word": "các",
+          "start": 19.24,
+          "end": 19.36,
+          "probability": 0.17
+        },
+        {
+          "word": "thiệt",
+          "start": 19.36,
+          "end": 19.62,
+          "probability": 0.52
+        },
+        {
+          "word": "vào",
+          "start": 19.62,
+          "end": 19.78,
+          "probability": 0.47
+        },
+        {
+          "word": "cuối",
+          "start": 19.78,
+          "end": 20.0,
+          "probability": 0.22
+        },
+        {
+          "word": "bực",
+          "start": 20.0,
+          "end": 20.14,
+          "probability": 0.34
+        },
+        {
+          "word": "này",
+          "start": 20.14,
+          "end": 20.38,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 20.38,
+      "end": 22.04,
+      "text": "lực lượng về bình chắc bản ý ra nha.",
+      "words": [
+        {
+          "word": "lực",
+          "start": 20.38,
+          "end": 20.74,
+          "probability": 0.43
+        },
+        {
+          "word": "lượng",
+          "start": 20.74,
+          "end": 20.9,
+          "probability": 0.72
+        },
+        {
+          "word": "về",
+          "start": 20.9,
+          "end": 21.04,
+          "probability": 0.63
+        },
+        {
+          "word": "bình",
+          "start": 21.04,
+          "end": 21.22,
+          "probability": 0.66
+        },
+        {
+          "word": "chắc",
+          "start": 21.22,
+          "end": 21.38,
+          "probability": 0.47
+        },
+        {
+          "word": "bản",
+          "start": 21.38,
+          "end": 21.58,
+          "probability": 0.18
+        },
+        {
+          "word": "ý",
+          "start": 21.58,
+          "end": 21.74,
+          "probability": 0.05
+        },
+        {
+          "word": "ra",
+          "start": 21.74,
+          "end": 21.88,
+          "probability": 0.46
+        },
+        {
+          "word": "nha.",
+          "start": 21.88,
+          "end": 22.04,
+          "probability": 0.08
+        }
+      ]
+    }
+  ]
+}

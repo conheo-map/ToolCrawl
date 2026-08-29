@@ -1,0 +1,834 @@
+{
+  "item_id": "tt_7345432976991243527_03",
+  "duration_seconds": 27.72,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 120,
+  "text": "Hãy bây giờ, anh sẽ có thể đi kìa hỏi đây. Để đi hỏi phần nó. Đó, còn lại có kìa hỏi còn lại đi kìa. Thá đã đưa ra. Thì, anh sẽ đi kìa bún đặt để điểm tối ra. Để kìa bún thấy rất là tập chung. Và theo dõi xác sau được kìa. Kìa kìa kìa, có hỏi như thế hỏi gì? Chúnga có một cái câu hỏi nên quán nên... Dễ hạn, một câu hỏi vì các xúc cậu, một câu hỏi nên quán nên bởi xúc điệu nghiệm nhỏ mấy. Một câu hỏi thì nên quán nên cái quán để xong xong, một câu hỏi thì nên quán để hảm xúc mụ thú gà đi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.98,
+      "text": "Hãy bây giờ, anh sẽ có thể đi kìa hỏi đây.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.16
+        },
+        {
+          "word": "bây",
+          "start": 0.42,
+          "end": 0.52,
+          "probability": 0.08
+        },
+        {
+          "word": "giờ,",
+          "start": 0.52,
+          "end": 0.74,
+          "probability": 0.88
+        },
+        {
+          "word": "anh",
+          "start": 0.94,
+          "end": 0.94,
+          "probability": 0.05
+        },
+        {
+          "word": "sẽ",
+          "start": 0.94,
+          "end": 1.16,
+          "probability": 0.08
+        },
+        {
+          "word": "có",
+          "start": 1.16,
+          "end": 1.96,
+          "probability": 0.1
+        },
+        {
+          "word": "thể",
+          "start": 1.96,
+          "end": 2.38,
+          "probability": 0.16
+        },
+        {
+          "word": "đi",
+          "start": 2.38,
+          "end": 2.5,
+          "probability": 0.04
+        },
+        {
+          "word": "kìa",
+          "start": 2.5,
+          "end": 2.58,
+          "probability": 0.29
+        },
+        {
+          "word": "hỏi",
+          "start": 2.58,
+          "end": 2.66,
+          "probability": 0.52
+        },
+        {
+          "word": "đây.",
+          "start": 2.66,
+          "end": 2.98,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.52,
+      "end": 4.38,
+      "text": "Để đi hỏi phần nó.",
+      "words": [
+        {
+          "word": "Để",
+          "start": 3.52,
+          "end": 3.52,
+          "probability": 0.41
+        },
+        {
+          "word": "đi",
+          "start": 3.52,
+          "end": 3.66,
+          "probability": 0.59
+        },
+        {
+          "word": "hỏi",
+          "start": 3.66,
+          "end": 3.78,
+          "probability": 0.62
+        },
+        {
+          "word": "phần",
+          "start": 3.78,
+          "end": 3.98,
+          "probability": 0.37
+        },
+        {
+          "word": "nó.",
+          "start": 3.98,
+          "end": 4.38,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.6,
+      "end": 6.22,
+      "text": "Đó, còn lại có kìa hỏi còn lại đi kìa.",
+      "words": [
+        {
+          "word": "Đó,",
+          "start": 4.6,
+          "end": 4.84,
+          "probability": 0.5
+        },
+        {
+          "word": "còn",
+          "start": 4.88,
+          "end": 5.02,
+          "probability": 0.4
+        },
+        {
+          "word": "lại",
+          "start": 5.02,
+          "end": 5.18,
+          "probability": 0.66
+        },
+        {
+          "word": "có",
+          "start": 5.18,
+          "end": 5.32,
+          "probability": 0.4
+        },
+        {
+          "word": "kìa",
+          "start": 5.32,
+          "end": 5.62,
+          "probability": 0.92
+        },
+        {
+          "word": "hỏi",
+          "start": 5.62,
+          "end": 5.72,
+          "probability": 0.93
+        },
+        {
+          "word": "còn",
+          "start": 5.72,
+          "end": 5.84,
+          "probability": 0.66
+        },
+        {
+          "word": "lại",
+          "start": 5.84,
+          "end": 5.94,
+          "probability": 0.99
+        },
+        {
+          "word": "đi",
+          "start": 5.94,
+          "end": 6.14,
+          "probability": 0.56
+        },
+        {
+          "word": "kìa.",
+          "start": 6.14,
+          "end": 6.22,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.7,
+      "end": 7.42,
+      "text": "Thá đã đưa ra.",
+      "words": [
+        {
+          "word": "Thá",
+          "start": 6.7,
+          "end": 6.88,
+          "probability": 0.33
+        },
+        {
+          "word": "đã",
+          "start": 6.88,
+          "end": 7.02,
+          "probability": 0.3
+        },
+        {
+          "word": "đưa",
+          "start": 7.02,
+          "end": 7.14,
+          "probability": 0.51
+        },
+        {
+          "word": "ra.",
+          "start": 7.14,
+          "end": 7.42,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.86,
+      "end": 10.12,
+      "text": "Thì, anh sẽ đi kìa bún đặt để điểm tối ra.",
+      "words": [
+        {
+          "word": "Thì,",
+          "start": 7.86,
+          "end": 8.08,
+          "probability": 0.78
+        },
+        {
+          "word": "anh",
+          "start": 8.16,
+          "end": 8.42,
+          "probability": 0.24
+        },
+        {
+          "word": "sẽ",
+          "start": 8.42,
+          "end": 8.6,
+          "probability": 0.45
+        },
+        {
+          "word": "đi",
+          "start": 8.6,
+          "end": 8.86,
+          "probability": 0.29
+        },
+        {
+          "word": "kìa",
+          "start": 8.86,
+          "end": 9.16,
+          "probability": 0.98
+        },
+        {
+          "word": "bún",
+          "start": 9.16,
+          "end": 9.36,
+          "probability": 0.21
+        },
+        {
+          "word": "đặt",
+          "start": 9.36,
+          "end": 9.52,
+          "probability": 0.58
+        },
+        {
+          "word": "để",
+          "start": 9.52,
+          "end": 9.7,
+          "probability": 0.4
+        },
+        {
+          "word": "điểm",
+          "start": 9.7,
+          "end": 9.8,
+          "probability": 0.6
+        },
+        {
+          "word": "tối",
+          "start": 9.8,
+          "end": 9.96,
+          "probability": 0.46
+        },
+        {
+          "word": "ra.",
+          "start": 9.96,
+          "end": 10.12,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.28,
+      "end": 12.02,
+      "text": "Để kìa bún thấy rất là tập chung.",
+      "words": [
+        {
+          "word": "Để",
+          "start": 10.28,
+          "end": 10.28,
+          "probability": 0.39
+        },
+        {
+          "word": "kìa",
+          "start": 10.28,
+          "end": 10.44,
+          "probability": 0.9
+        },
+        {
+          "word": "bún",
+          "start": 10.44,
+          "end": 10.52,
+          "probability": 0.66
+        },
+        {
+          "word": "thấy",
+          "start": 10.52,
+          "end": 10.72,
+          "probability": 0.37
+        },
+        {
+          "word": "rất",
+          "start": 10.72,
+          "end": 10.98,
+          "probability": 0.34
+        },
+        {
+          "word": "là",
+          "start": 10.98,
+          "end": 11.32,
+          "probability": 0.74
+        },
+        {
+          "word": "tập",
+          "start": 11.32,
+          "end": 11.5,
+          "probability": 0.89
+        },
+        {
+          "word": "chung.",
+          "start": 11.5,
+          "end": 12.02,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.34,
+      "end": 15.16,
+      "text": "Và theo dõi xác sau được kìa.",
+      "words": [
+        {
+          "word": "Và",
+          "start": 12.34,
+          "end": 12.74,
+          "probability": 0.33
+        },
+        {
+          "word": "theo",
+          "start": 12.74,
+          "end": 13.24,
+          "probability": 0.78
+        },
+        {
+          "word": "dõi",
+          "start": 13.24,
+          "end": 13.6,
+          "probability": 0.76
+        },
+        {
+          "word": "xác",
+          "start": 13.6,
+          "end": 13.82,
+          "probability": 0.36
+        },
+        {
+          "word": "sau",
+          "start": 13.82,
+          "end": 14.08,
+          "probability": 0.34
+        },
+        {
+          "word": "được",
+          "start": 14.08,
+          "end": 14.34,
+          "probability": 0.31
+        },
+        {
+          "word": "kìa.",
+          "start": 14.34,
+          "end": 15.16,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.16,
+      "end": 17.0,
+      "text": "Kìa kìa kìa, có hỏi như thế hỏi gì?",
+      "words": [
+        {
+          "word": "Kìa",
+          "start": 15.16,
+          "end": 15.54,
+          "probability": 0.1
+        },
+        {
+          "word": "kìa",
+          "start": 15.54,
+          "end": 15.68,
+          "probability": 0.57
+        },
+        {
+          "word": "kìa,",
+          "start": 15.68,
+          "end": 15.84,
+          "probability": 0.69
+        },
+        {
+          "word": "có",
+          "start": 16.0,
+          "end": 16.0,
+          "probability": 0.16
+        },
+        {
+          "word": "hỏi",
+          "start": 16.0,
+          "end": 16.2,
+          "probability": 0.46
+        },
+        {
+          "word": "như",
+          "start": 16.2,
+          "end": 16.38,
+          "probability": 0.2
+        },
+        {
+          "word": "thế",
+          "start": 16.38,
+          "end": 16.38,
+          "probability": 0.19
+        },
+        {
+          "word": "hỏi",
+          "start": 16.38,
+          "end": 16.54,
+          "probability": 0.86
+        },
+        {
+          "word": "gì?",
+          "start": 16.54,
+          "end": 17.0,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 17.24,
+      "end": 18.72,
+      "text": "Chúnga có một cái câu hỏi nên quán nên...",
+      "words": [
+        {
+          "word": "Chúnga",
+          "start": 17.24,
+          "end": 17.36,
+          "probability": 0.28
+        },
+        {
+          "word": "có",
+          "start": 17.36,
+          "end": 17.5,
+          "probability": 0.85
+        },
+        {
+          "word": "một",
+          "start": 17.5,
+          "end": 17.58,
+          "probability": 0.59
+        },
+        {
+          "word": "cái",
+          "start": 17.58,
+          "end": 17.68,
+          "probability": 0.46
+        },
+        {
+          "word": "câu",
+          "start": 17.68,
+          "end": 17.86,
+          "probability": 0.68
+        },
+        {
+          "word": "hỏi",
+          "start": 17.86,
+          "end": 17.98,
+          "probability": 0.99
+        },
+        {
+          "word": "nên",
+          "start": 17.98,
+          "end": 18.14,
+          "probability": 0.34
+        },
+        {
+          "word": "quán",
+          "start": 18.14,
+          "end": 18.26,
+          "probability": 0.29
+        },
+        {
+          "word": "nên...",
+          "start": 18.26,
+          "end": 18.72,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 19.3,
+      "end": 20.94,
+      "text": "Dễ hạn, một câu hỏi vì các xúc cậu,",
+      "words": [
+        {
+          "word": "Dễ",
+          "start": 19.3,
+          "end": 19.62,
+          "probability": 0.16
+        },
+        {
+          "word": "hạn,",
+          "start": 19.62,
+          "end": 19.9,
+          "probability": 0.66
+        },
+        {
+          "word": "một",
+          "start": 20.1,
+          "end": 20.1,
+          "probability": 0.97
+        },
+        {
+          "word": "câu",
+          "start": 20.1,
+          "end": 20.2,
+          "probability": 0.98
+        },
+        {
+          "word": "hỏi",
+          "start": 20.2,
+          "end": 20.38,
+          "probability": 0.99
+        },
+        {
+          "word": "vì",
+          "start": 20.38,
+          "end": 20.46,
+          "probability": 0.48
+        },
+        {
+          "word": "các",
+          "start": 20.46,
+          "end": 20.6,
+          "probability": 0.46
+        },
+        {
+          "word": "xúc",
+          "start": 20.6,
+          "end": 20.76,
+          "probability": 0.56
+        },
+        {
+          "word": "cậu,",
+          "start": 20.76,
+          "end": 20.94,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 21.16,
+      "end": 23.28,
+      "text": "một câu hỏi nên quán nên bởi xúc điệu nghiệm nhỏ mấy.",
+      "words": [
+        {
+          "word": "một",
+          "start": 21.16,
+          "end": 21.18,
+          "probability": 0.92
+        },
+        {
+          "word": "câu",
+          "start": 21.18,
+          "end": 21.36,
+          "probability": 0.99
+        },
+        {
+          "word": "hỏi",
+          "start": 21.36,
+          "end": 21.66,
+          "probability": 0.99
+        },
+        {
+          "word": "nên",
+          "start": 21.66,
+          "end": 21.84,
+          "probability": 0.96
+        },
+        {
+          "word": "quán",
+          "start": 21.84,
+          "end": 22.04,
+          "probability": 0.81
+        },
+        {
+          "word": "nên",
+          "start": 22.04,
+          "end": 22.2,
+          "probability": 0.76
+        },
+        {
+          "word": "bởi",
+          "start": 22.2,
+          "end": 22.32,
+          "probability": 0.72
+        },
+        {
+          "word": "xúc",
+          "start": 22.32,
+          "end": 22.44,
+          "probability": 0.43
+        },
+        {
+          "word": "điệu",
+          "start": 22.44,
+          "end": 22.6,
+          "probability": 0.22
+        },
+        {
+          "word": "nghiệm",
+          "start": 22.6,
+          "end": 22.76,
+          "probability": 0.63
+        },
+        {
+          "word": "nhỏ",
+          "start": 22.76,
+          "end": 22.98,
+          "probability": 0.49
+        },
+        {
+          "word": "mấy.",
+          "start": 22.98,
+          "end": 23.28,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 23.5,
+      "end": 25.84,
+      "text": "Một câu hỏi thì nên quán nên cái quán để xong xong,",
+      "words": [
+        {
+          "word": "Một",
+          "start": 23.5,
+          "end": 23.66,
+          "probability": 0.69
+        },
+        {
+          "word": "câu",
+          "start": 23.66,
+          "end": 23.84,
+          "probability": 1.0
+        },
+        {
+          "word": "hỏi",
+          "start": 23.84,
+          "end": 24.14,
+          "probability": 0.99
+        },
+        {
+          "word": "thì",
+          "start": 24.14,
+          "end": 24.32,
+          "probability": 0.51
+        },
+        {
+          "word": "nên",
+          "start": 24.32,
+          "end": 24.54,
+          "probability": 0.92
+        },
+        {
+          "word": "quán",
+          "start": 24.54,
+          "end": 24.84,
+          "probability": 0.99
+        },
+        {
+          "word": "nên",
+          "start": 24.84,
+          "end": 25.08,
+          "probability": 0.92
+        },
+        {
+          "word": "cái",
+          "start": 25.08,
+          "end": 25.24,
+          "probability": 0.29
+        },
+        {
+          "word": "quán",
+          "start": 25.24,
+          "end": 25.3,
+          "probability": 0.87
+        },
+        {
+          "word": "để",
+          "start": 25.3,
+          "end": 25.44,
+          "probability": 0.38
+        },
+        {
+          "word": "xong",
+          "start": 25.44,
+          "end": 25.6,
+          "probability": 0.67
+        },
+        {
+          "word": "xong,",
+          "start": 25.6,
+          "end": 25.84,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 25.86,
+      "end": 27.4,
+      "text": "một câu hỏi thì nên quán để hảm xúc mụ thú gà đi.",
+      "words": [
+        {
+          "word": "một",
+          "start": 25.86,
+          "end": 26.0,
+          "probability": 0.98
+        },
+        {
+          "word": "câu",
+          "start": 26.0,
+          "end": 26.16,
+          "probability": 1.0
+        },
+        {
+          "word": "hỏi",
+          "start": 26.16,
+          "end": 26.28,
+          "probability": 0.99
+        },
+        {
+          "word": "thì",
+          "start": 26.28,
+          "end": 26.38,
+          "probability": 0.43
+        },
+        {
+          "word": "nên",
+          "start": 26.38,
+          "end": 26.5,
+          "probability": 0.95
+        },
+        {
+          "word": "quán",
+          "start": 26.5,
+          "end": 26.56,
+          "probability": 0.86
+        },
+        {
+          "word": "để",
+          "start": 26.56,
+          "end": 26.66,
+          "probability": 0.5
+        },
+        {
+          "word": "hảm",
+          "start": 26.66,
+          "end": 26.9,
+          "probability": 0.39
+        },
+        {
+          "word": "xúc",
+          "start": 26.9,
+          "end": 26.92,
+          "probability": 0.53
+        },
+        {
+          "word": "mụ",
+          "start": 26.92,
+          "end": 27.08,
+          "probability": 0.18
+        },
+        {
+          "word": "thú",
+          "start": 27.08,
+          "end": 27.14,
+          "probability": 0.25
+        },
+        {
+          "word": "gà",
+          "start": 27.14,
+          "end": 27.24,
+          "probability": 0.42
+        },
+        {
+          "word": "đi.",
+          "start": 27.24,
+          "end": 27.4,
+          "probability": 0.17
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "item_id": "tt_7667554463267294485_05",
+  "duration_seconds": 5.71,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 18,
+  "text": "Nguyên láo đọc sẽ có thêm một ngày nỉ Nơn tổng số ngày nỉ để quý khai ngay",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.92,
+      "text": "Nguyên láo đọc sẽ có thêm một ngày nỉ",
+      "words": [
+        {
+          "word": "Nguyên",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.43
+        },
+        {
+          "word": "láo",
+          "start": 0.42,
+          "end": 0.54,
+          "probability": 0.29
+        },
+        {
+          "word": "đọc",
+          "start": 0.54,
+          "end": 0.74,
+          "probability": 0.36
+        },
+        {
+          "word": "sẽ",
+          "start": 0.74,
+          "end": 0.86,
+          "probability": 0.85
+        },
+        {
+          "word": "có",
+          "start": 0.86,
+          "end": 1.0,
+          "probability": 0.96
+        },
+        {
+          "word": "thêm",
+          "start": 1.0,
+          "end": 1.16,
+          "probability": 0.74
+        },
+        {
+          "word": "một",
+          "start": 1.16,
+          "end": 1.28,
+          "probability": 0.53
+        },
+        {
+          "word": "ngày",
+          "start": 1.28,
+          "end": 1.44,
+          "probability": 0.5
+        },
+        {
+          "word": "nỉ",
+          "start": 1.44,
+          "end": 1.92,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.92,
+      "end": 4.06,
+      "text": "Nơn tổng số ngày nỉ để quý khai ngay",
+      "words": [
+        {
+          "word": "Nơn",
+          "start": 1.92,
+          "end": 2.32,
+          "probability": 0.07
+        },
+        {
+          "word": "tổng",
+          "start": 2.32,
+          "end": 2.7,
+          "probability": 0.79
+        },
+        {
+          "word": "số",
+          "start": 2.7,
+          "end": 2.7,
+          "probability": 0.53
+        },
+        {
+          "word": "ngày",
+          "start": 2.7,
+          "end": 2.88,
+          "probability": 0.98
+        },
+        {
+          "word": "nỉ",
+          "start": 2.88,
+          "end": 3.12,
+          "probability": 0.59
+        },
+        {
+          "word": "để",
+          "start": 3.12,
+          "end": 3.32,
+          "probability": 0.81
+        },
+        {
+          "word": "quý",
+          "start": 3.32,
+          "end": 3.5,
+          "probability": 0.26
+        },
+        {
+          "word": "khai",
+          "start": 3.5,
+          "end": 3.68,
+          "probability": 0.36
+        },
+        {
+          "word": "ngay",
+          "start": 3.68,
+          "end": 4.06,
+          "probability": 0.43
+        }
+      ]
+    }
+  ]
+}

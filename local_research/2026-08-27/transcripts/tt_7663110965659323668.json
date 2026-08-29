@@ -1,0 +1,170 @@
+{
+  "item_id": "tt_7663110965659323668",
+  "duration_seconds": 12.59,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 20,
+  "text": "Uống phà làm gì vậy? Mình dục và đi đó Vì không gì? Vì không gì? Tôi cho to mixer",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.4,
+      "text": "Uống phà làm gì vậy?",
+      "words": [
+        {
+          "word": "Uống",
+          "start": 0.0,
+          "end": 0.2,
+          "probability": 0.19
+        },
+        {
+          "word": "phà",
+          "start": 0.2,
+          "end": 0.3,
+          "probability": 0.02
+        },
+        {
+          "word": "làm",
+          "start": 0.3,
+          "end": 0.52,
+          "probability": 0.52
+        },
+        {
+          "word": "gì",
+          "start": 0.52,
+          "end": 0.74,
+          "probability": 0.92
+        },
+        {
+          "word": "vậy?",
+          "start": 0.74,
+          "end": 1.4,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.78,
+      "end": 2.54,
+      "text": "Mình dục và đi đó",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 1.78,
+          "end": 1.8,
+          "probability": 0.19
+        },
+        {
+          "word": "dục",
+          "start": 1.8,
+          "end": 2.02,
+          "probability": 0.11
+        },
+        {
+          "word": "và",
+          "start": 2.02,
+          "end": 2.24,
+          "probability": 0.01
+        },
+        {
+          "word": "đi",
+          "start": 2.24,
+          "end": 2.38,
+          "probability": 0.3
+        },
+        {
+          "word": "đó",
+          "start": 2.38,
+          "end": 2.54,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.8,
+      "end": 8.08,
+      "text": "Vì không gì?",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 6.8,
+          "end": 7.24,
+          "probability": 0.11
+        },
+        {
+          "word": "không",
+          "start": 7.24,
+          "end": 7.54,
+          "probability": 0.05
+        },
+        {
+          "word": "gì?",
+          "start": 7.54,
+          "end": 8.08,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.28,
+      "end": 9.12,
+      "text": "Vì không gì?",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 8.28,
+          "end": 8.5,
+          "probability": 0.76
+        },
+        {
+          "word": "không",
+          "start": 8.5,
+          "end": 8.74,
+          "probability": 0.65
+        },
+        {
+          "word": "gì?",
+          "start": 8.74,
+          "end": 9.12,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.96,
+      "end": 10.54,
+      "text": "Tôi cho to mixer",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 9.96,
+          "end": 10.08,
+          "probability": 0.03
+        },
+        {
+          "word": "cho",
+          "start": 10.08,
+          "end": 10.24,
+          "probability": 0.09
+        },
+        {
+          "word": "to",
+          "start": 10.24,
+          "end": 10.46,
+          "probability": 0.01
+        },
+        {
+          "word": "mixer",
+          "start": 10.46,
+          "end": 10.54,
+          "probability": 0.0
+        }
+      ]
+    }
+  ]
+}

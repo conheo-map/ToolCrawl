@@ -1,0 +1,118 @@
+{
+  "item_id": "tt_7618810503111986449",
+  "duration_seconds": 19.25,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 14,
+  "text": "Chuy được bà phrait d xuy Yì, yì, yì, yì Bà mi, bà mi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.24,
+      "text": "Chuy được bà phrait d xuy",
+      "words": [
+        {
+          "word": "Chuy",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.22
+        },
+        {
+          "word": "được",
+          "start": 0.4,
+          "end": 0.72,
+          "probability": 0.01
+        },
+        {
+          "word": "bà",
+          "start": 0.72,
+          "end": 1.14,
+          "probability": 0.08
+        },
+        {
+          "word": "phrait",
+          "start": 1.14,
+          "end": 1.56,
+          "probability": 0.01
+        },
+        {
+          "word": "d",
+          "start": 1.56,
+          "end": 1.94,
+          "probability": 0.06
+        },
+        {
+          "word": "xuy",
+          "start": 1.94,
+          "end": 2.24,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.24,
+      "end": 4.2,
+      "text": "Yì, yì, yì, yì",
+      "words": [
+        {
+          "word": "Yì,",
+          "start": 2.24,
+          "end": 3.14,
+          "probability": 0.0
+        },
+        {
+          "word": "yì,",
+          "start": 3.14,
+          "end": 3.4,
+          "probability": 0.54
+        },
+        {
+          "word": "yì,",
+          "start": 3.4,
+          "end": 3.8,
+          "probability": 0.94
+        },
+        {
+          "word": "yì",
+          "start": 3.8,
+          "end": 4.2,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.2,
+      "end": 5.08,
+      "text": "Bà mi, bà mi",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 4.2,
+          "end": 4.48,
+          "probability": 0.01
+        },
+        {
+          "word": "mi,",
+          "start": 4.48,
+          "end": 4.66,
+          "probability": 0.06
+        },
+        {
+          "word": "bà",
+          "start": 4.74,
+          "end": 4.92,
+          "probability": 0.5
+        },
+        {
+          "word": "mi",
+          "start": 4.92,
+          "end": 5.08,
+          "probability": 0.51
+        }
+      ]
+    }
+  ]
+}

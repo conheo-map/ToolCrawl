@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7670507232634686741_13",
+  "duration_seconds": 24.54,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Tình ngoài vì, thường gặp nhé.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.46,
+      "end": 5.07,
+      "text": "Tình ngoài vì, thường gặp nhé.",
+      "words": [
+        {
+          "word": "Tình",
+          "start": 0.46,
+          "end": 0.88,
+          "probability": 0.24
+        },
+        {
+          "word": "ngoài",
+          "start": 3.73,
+          "end": 3.97,
+          "probability": 0.53
+        },
+        {
+          "word": "vì,",
+          "start": 3.97,
+          "end": 4.55,
+          "probability": 0.19
+        },
+        {
+          "word": "thường",
+          "start": 4.61,
+          "end": 4.73,
+          "probability": 0.28
+        },
+        {
+          "word": "gặp",
+          "start": 4.73,
+          "end": 4.91,
+          "probability": 0.66
+        },
+        {
+          "word": "nhé.",
+          "start": 4.91,
+          "end": 5.07,
+          "probability": 0.49
+        }
+      ]
+    }
+  ]
+}

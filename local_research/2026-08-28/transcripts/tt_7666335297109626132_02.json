@@ -1,0 +1,768 @@
+{
+  "item_id": "tt_7666335297109626132_02",
+  "duration_seconds": 29.29,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 117,
+  "text": "Bởi cú vị của thế giới. Bộ xí dừng cho biết phương pháp đò khi thái, đi dành theo chú trên gia tốc tự giòn đã được át dụng nâm tại Việt Nam, và vận được nhiều nước sử dụng để phó khuyện xe phát thái khó mức tường. Thao tác đặc thúc gia thực trước là luyên bàn đặt gà đến hết hành trình trong thời gian ngắn khi xe đứng ngình, không truyền lực tới bánh xe để thích bẩy lấy mỏ khi thái sau đó phái nhà gà. Bộ xí dừng, truyền tạo gia tốc nắng là cân thiết để phó khi mức khó lượng như có thể phát sin tự động gửi dành.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.36,
+      "text": "Bởi cú vị của thế giới.",
+      "words": [
+        {
+          "word": "Bởi",
+          "start": 0.0,
+          "end": 0.38,
+          "probability": 0.39
+        },
+        {
+          "word": "cú",
+          "start": 0.38,
+          "end": 0.44,
+          "probability": 0.33
+        },
+        {
+          "word": "vị",
+          "start": 0.44,
+          "end": 0.68,
+          "probability": 0.89
+        },
+        {
+          "word": "của",
+          "start": 0.68,
+          "end": 0.82,
+          "probability": 0.22
+        },
+        {
+          "word": "thế",
+          "start": 0.82,
+          "end": 1.0,
+          "probability": 0.44
+        },
+        {
+          "word": "giới.",
+          "start": 1.0,
+          "end": 1.36,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.62,
+      "end": 4.36,
+      "text": "Bộ xí dừng cho biết phương pháp đò khi thái,",
+      "words": [
+        {
+          "word": "Bộ",
+          "start": 2.62,
+          "end": 2.76,
+          "probability": 0.5
+        },
+        {
+          "word": "xí",
+          "start": 2.76,
+          "end": 2.86,
+          "probability": 0.23
+        },
+        {
+          "word": "dừng",
+          "start": 2.86,
+          "end": 3.0,
+          "probability": 0.5
+        },
+        {
+          "word": "cho",
+          "start": 3.0,
+          "end": 3.12,
+          "probability": 0.44
+        },
+        {
+          "word": "biết",
+          "start": 3.12,
+          "end": 3.3,
+          "probability": 0.84
+        },
+        {
+          "word": "phương",
+          "start": 3.3,
+          "end": 3.52,
+          "probability": 0.71
+        },
+        {
+          "word": "pháp",
+          "start": 3.52,
+          "end": 3.72,
+          "probability": 0.73
+        },
+        {
+          "word": "đò",
+          "start": 3.72,
+          "end": 3.9,
+          "probability": 0.28
+        },
+        {
+          "word": "khi",
+          "start": 3.9,
+          "end": 4.08,
+          "probability": 0.45
+        },
+        {
+          "word": "thái,",
+          "start": 4.08,
+          "end": 4.36,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.58,
+      "end": 8.72,
+      "text": "đi dành theo chú trên gia tốc tự giòn đã được át dụng nâm tại Việt Nam,",
+      "words": [
+        {
+          "word": "đi",
+          "start": 4.58,
+          "end": 4.62,
+          "probability": 0.4
+        },
+        {
+          "word": "dành",
+          "start": 4.62,
+          "end": 4.96,
+          "probability": 0.31
+        },
+        {
+          "word": "theo",
+          "start": 4.96,
+          "end": 5.3,
+          "probability": 0.67
+        },
+        {
+          "word": "chú",
+          "start": 5.3,
+          "end": 5.5,
+          "probability": 0.49
+        },
+        {
+          "word": "trên",
+          "start": 5.5,
+          "end": 5.66,
+          "probability": 0.38
+        },
+        {
+          "word": "gia",
+          "start": 5.66,
+          "end": 5.94,
+          "probability": 0.67
+        },
+        {
+          "word": "tốc",
+          "start": 5.94,
+          "end": 6.16,
+          "probability": 0.6
+        },
+        {
+          "word": "tự",
+          "start": 6.16,
+          "end": 6.42,
+          "probability": 0.43
+        },
+        {
+          "word": "giòn",
+          "start": 6.42,
+          "end": 6.82,
+          "probability": 0.6
+        },
+        {
+          "word": "đã",
+          "start": 6.82,
+          "end": 7.2,
+          "probability": 0.85
+        },
+        {
+          "word": "được",
+          "start": 7.2,
+          "end": 7.38,
+          "probability": 0.99
+        },
+        {
+          "word": "át",
+          "start": 7.38,
+          "end": 7.56,
+          "probability": 0.7
+        },
+        {
+          "word": "dụng",
+          "start": 7.56,
+          "end": 7.68,
+          "probability": 0.47
+        },
+        {
+          "word": "nâm",
+          "start": 7.68,
+          "end": 8.0,
+          "probability": 0.22
+        },
+        {
+          "word": "tại",
+          "start": 8.0,
+          "end": 8.2,
+          "probability": 0.43
+        },
+        {
+          "word": "Việt",
+          "start": 8.2,
+          "end": 8.38,
+          "probability": 0.91
+        },
+        {
+          "word": "Nam,",
+          "start": 8.38,
+          "end": 8.72,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.98,
+      "end": 12.3,
+      "text": "và vận được nhiều nước sử dụng để phó khuyện xe phát thái khó mức tường.",
+      "words": [
+        {
+          "word": "và",
+          "start": 8.98,
+          "end": 9.06,
+          "probability": 0.44
+        },
+        {
+          "word": "vận",
+          "start": 9.06,
+          "end": 9.28,
+          "probability": 0.39
+        },
+        {
+          "word": "được",
+          "start": 9.28,
+          "end": 9.48,
+          "probability": 0.81
+        },
+        {
+          "word": "nhiều",
+          "start": 9.48,
+          "end": 9.66,
+          "probability": 0.72
+        },
+        {
+          "word": "nước",
+          "start": 9.66,
+          "end": 9.84,
+          "probability": 0.55
+        },
+        {
+          "word": "sử",
+          "start": 9.84,
+          "end": 10.0,
+          "probability": 0.51
+        },
+        {
+          "word": "dụng",
+          "start": 10.0,
+          "end": 10.16,
+          "probability": 0.91
+        },
+        {
+          "word": "để",
+          "start": 10.16,
+          "end": 10.38,
+          "probability": 0.91
+        },
+        {
+          "word": "phó",
+          "start": 10.38,
+          "end": 10.54,
+          "probability": 0.51
+        },
+        {
+          "word": "khuyện",
+          "start": 10.54,
+          "end": 10.8,
+          "probability": 0.38
+        },
+        {
+          "word": "xe",
+          "start": 10.8,
+          "end": 11.04,
+          "probability": 0.67
+        },
+        {
+          "word": "phát",
+          "start": 11.04,
+          "end": 11.3,
+          "probability": 0.82
+        },
+        {
+          "word": "thái",
+          "start": 11.3,
+          "end": 11.56,
+          "probability": 0.77
+        },
+        {
+          "word": "khó",
+          "start": 11.56,
+          "end": 11.76,
+          "probability": 0.72
+        },
+        {
+          "word": "mức",
+          "start": 11.76,
+          "end": 11.9,
+          "probability": 0.45
+        },
+        {
+          "word": "tường.",
+          "start": 11.9,
+          "end": 12.3,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.94,
+      "end": 18.52,
+      "text": "Thao tác đặc thúc gia thực trước là luyên bàn đặt gà đến hết hành trình trong thời gian ngắn khi xe đứng ngình,",
+      "words": [
+        {
+          "word": "Thao",
+          "start": 12.94,
+          "end": 13.06,
+          "probability": 0.55
+        },
+        {
+          "word": "tác",
+          "start": 13.06,
+          "end": 13.3,
+          "probability": 0.84
+        },
+        {
+          "word": "đặc",
+          "start": 13.3,
+          "end": 13.52,
+          "probability": 0.56
+        },
+        {
+          "word": "thúc",
+          "start": 13.52,
+          "end": 13.68,
+          "probability": 0.76
+        },
+        {
+          "word": "gia",
+          "start": 13.68,
+          "end": 13.98,
+          "probability": 0.38
+        },
+        {
+          "word": "thực",
+          "start": 13.98,
+          "end": 14.26,
+          "probability": 0.59
+        },
+        {
+          "word": "trước",
+          "start": 14.26,
+          "end": 14.42,
+          "probability": 0.28
+        },
+        {
+          "word": "là",
+          "start": 14.42,
+          "end": 14.82,
+          "probability": 0.77
+        },
+        {
+          "word": "luyên",
+          "start": 14.82,
+          "end": 15.02,
+          "probability": 0.5
+        },
+        {
+          "word": "bàn",
+          "start": 15.02,
+          "end": 15.22,
+          "probability": 0.39
+        },
+        {
+          "word": "đặt",
+          "start": 15.22,
+          "end": 15.46,
+          "probability": 0.53
+        },
+        {
+          "word": "gà",
+          "start": 15.46,
+          "end": 15.76,
+          "probability": 0.64
+        },
+        {
+          "word": "đến",
+          "start": 15.76,
+          "end": 16.0,
+          "probability": 0.7
+        },
+        {
+          "word": "hết",
+          "start": 16.0,
+          "end": 16.16,
+          "probability": 0.51
+        },
+        {
+          "word": "hành",
+          "start": 16.16,
+          "end": 16.32,
+          "probability": 0.54
+        },
+        {
+          "word": "trình",
+          "start": 16.32,
+          "end": 16.56,
+          "probability": 0.33
+        },
+        {
+          "word": "trong",
+          "start": 16.56,
+          "end": 16.92,
+          "probability": 0.75
+        },
+        {
+          "word": "thời",
+          "start": 16.92,
+          "end": 17.16,
+          "probability": 0.91
+        },
+        {
+          "word": "gian",
+          "start": 17.16,
+          "end": 17.28,
+          "probability": 0.89
+        },
+        {
+          "word": "ngắn",
+          "start": 17.28,
+          "end": 17.56,
+          "probability": 0.58
+        },
+        {
+          "word": "khi",
+          "start": 17.56,
+          "end": 17.76,
+          "probability": 0.81
+        },
+        {
+          "word": "xe",
+          "start": 17.76,
+          "end": 17.88,
+          "probability": 0.6
+        },
+        {
+          "word": "đứng",
+          "start": 17.88,
+          "end": 18.04,
+          "probability": 0.62
+        },
+        {
+          "word": "ngình,",
+          "start": 18.04,
+          "end": 18.52,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 18.8,
+      "end": 23.42,
+      "text": "không truyền lực tới bánh xe để thích bẩy lấy mỏ khi thái sau đó phái nhà gà.",
+      "words": [
+        {
+          "word": "không",
+          "start": 18.8,
+          "end": 18.9,
+          "probability": 0.94
+        },
+        {
+          "word": "truyền",
+          "start": 18.9,
+          "end": 19.14,
+          "probability": 0.68
+        },
+        {
+          "word": "lực",
+          "start": 19.14,
+          "end": 19.38,
+          "probability": 0.74
+        },
+        {
+          "word": "tới",
+          "start": 19.38,
+          "end": 19.56,
+          "probability": 0.84
+        },
+        {
+          "word": "bánh",
+          "start": 19.56,
+          "end": 19.76,
+          "probability": 0.49
+        },
+        {
+          "word": "xe",
+          "start": 19.76,
+          "end": 20.08,
+          "probability": 0.97
+        },
+        {
+          "word": "để",
+          "start": 20.08,
+          "end": 20.44,
+          "probability": 0.85
+        },
+        {
+          "word": "thích",
+          "start": 20.44,
+          "end": 20.62,
+          "probability": 0.61
+        },
+        {
+          "word": "bẩy",
+          "start": 20.62,
+          "end": 20.8,
+          "probability": 0.57
+        },
+        {
+          "word": "lấy",
+          "start": 20.8,
+          "end": 21.04,
+          "probability": 0.9
+        },
+        {
+          "word": "mỏ",
+          "start": 21.04,
+          "end": 21.26,
+          "probability": 0.44
+        },
+        {
+          "word": "khi",
+          "start": 21.26,
+          "end": 21.34,
+          "probability": 0.52
+        },
+        {
+          "word": "thái",
+          "start": 21.34,
+          "end": 21.76,
+          "probability": 0.97
+        },
+        {
+          "word": "sau",
+          "start": 21.76,
+          "end": 22.12,
+          "probability": 0.48
+        },
+        {
+          "word": "đó",
+          "start": 22.12,
+          "end": 22.32,
+          "probability": 0.99
+        },
+        {
+          "word": "phái",
+          "start": 22.32,
+          "end": 22.7,
+          "probability": 0.48
+        },
+        {
+          "word": "nhà",
+          "start": 22.7,
+          "end": 22.96,
+          "probability": 0.61
+        },
+        {
+          "word": "gà.",
+          "start": 22.96,
+          "end": 23.42,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 23.8,
+      "end": 29.04,
+      "text": "Bộ xí dừng, truyền tạo gia tốc nắng là cân thiết để phó khi mức khó lượng như có thể phát sin tự động gửi dành.",
+      "words": [
+        {
+          "word": "Bộ",
+          "start": 23.8,
+          "end": 23.84,
+          "probability": 0.72
+        },
+        {
+          "word": "xí",
+          "start": 23.84,
+          "end": 23.96,
+          "probability": 0.99
+        },
+        {
+          "word": "dừng,",
+          "start": 23.96,
+          "end": 24.2,
+          "probability": 0.95
+        },
+        {
+          "word": "truyền",
+          "start": 24.4,
+          "end": 24.6,
+          "probability": 0.29
+        },
+        {
+          "word": "tạo",
+          "start": 24.6,
+          "end": 24.76,
+          "probability": 0.67
+        },
+        {
+          "word": "gia",
+          "start": 24.76,
+          "end": 24.96,
+          "probability": 0.88
+        },
+        {
+          "word": "tốc",
+          "start": 24.96,
+          "end": 25.1,
+          "probability": 0.98
+        },
+        {
+          "word": "nắng",
+          "start": 25.1,
+          "end": 25.32,
+          "probability": 0.3
+        },
+        {
+          "word": "là",
+          "start": 25.32,
+          "end": 25.54,
+          "probability": 0.88
+        },
+        {
+          "word": "cân",
+          "start": 25.54,
+          "end": 25.7,
+          "probability": 0.35
+        },
+        {
+          "word": "thiết",
+          "start": 25.7,
+          "end": 26.04,
+          "probability": 0.75
+        },
+        {
+          "word": "để",
+          "start": 26.04,
+          "end": 26.26,
+          "probability": 0.75
+        },
+        {
+          "word": "phó",
+          "start": 26.26,
+          "end": 26.38,
+          "probability": 0.99
+        },
+        {
+          "word": "khi",
+          "start": 26.38,
+          "end": 26.52,
+          "probability": 0.56
+        },
+        {
+          "word": "mức",
+          "start": 26.52,
+          "end": 26.72,
+          "probability": 0.47
+        },
+        {
+          "word": "khó",
+          "start": 26.72,
+          "end": 26.94,
+          "probability": 0.94
+        },
+        {
+          "word": "lượng",
+          "start": 26.94,
+          "end": 27.16,
+          "probability": 0.51
+        },
+        {
+          "word": "như",
+          "start": 27.16,
+          "end": 27.36,
+          "probability": 0.31
+        },
+        {
+          "word": "có",
+          "start": 27.36,
+          "end": 27.5,
+          "probability": 0.66
+        },
+        {
+          "word": "thể",
+          "start": 27.5,
+          "end": 27.68,
+          "probability": 0.98
+        },
+        {
+          "word": "phát",
+          "start": 27.68,
+          "end": 27.86,
+          "probability": 0.7
+        },
+        {
+          "word": "sin",
+          "start": 27.86,
+          "end": 28.04,
+          "probability": 0.37
+        },
+        {
+          "word": "tự",
+          "start": 28.04,
+          "end": 28.26,
+          "probability": 0.55
+        },
+        {
+          "word": "động",
+          "start": 28.26,
+          "end": 28.5,
+          "probability": 0.64
+        },
+        {
+          "word": "gửi",
+          "start": 28.5,
+          "end": 28.76,
+          "probability": 0.44
+        },
+        {
+          "word": "dành.",
+          "start": 28.76,
+          "end": 29.04,
+          "probability": 0.65
+        }
+      ]
+    }
+  ]
+}

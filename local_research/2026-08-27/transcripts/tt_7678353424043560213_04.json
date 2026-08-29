@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7678353424043560213_04",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "chưa bây giờ h厭",
+  "segments": [
+    {
+      "id": 1,
+      "start": 5.47,
+      "end": 8.65,
+      "text": "chưa bây giờ h厭",
+      "words": [
+        {
+          "word": "chưa",
+          "start": 5.47,
+          "end": 6.87,
+          "probability": 0.0
+        },
+        {
+          "word": "bây",
+          "start": 6.87,
+          "end": 8.27,
+          "probability": 0.04
+        },
+        {
+          "word": "giờ",
+          "start": 8.27,
+          "end": 8.63,
+          "probability": 0.83
+        },
+        {
+          "word": "h厭",
+          "start": 8.63,
+          "end": 8.65,
+          "probability": 0.05
+        }
+      ]
+    }
+  ]
+}

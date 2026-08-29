@@ -1,0 +1,648 @@
+{
+  "item_id": "tt_7664825692009303317_01",
+  "duration_seconds": 26.35,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 94,
+  "text": "Nó nửa bốc trải giữ sỗi, báo Trung Tuần Bộ phần đầu C khác. Theo thông tin bà đầu, Bộ trẻ sẽ phát sử ra vào khoảng 2 giờ 3,5 mức thẳng bẩy 2,5 cho 2,5 cho 2,5 cho 2,5 cho 2. Và thời điểm này, sẽ phát loại 2,5 cho tài sĩ trình thánh 2, 1 mức tuổi ở khánh hoa, điều khiến theo hướng từ lâm đồng tí thành phố Hồ Chí Minh. khi đến đoạn gần gặp 3,5, sẽ phát lo vào lăn cân lề đường sau đó sẽ bước trái.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.49,
+      "end": 4.67,
+      "text": "Nó nửa bốc trải giữ sỗi, báo Trung Tuần Bộ phần đầu C khác.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 1.49,
+          "end": 2.05,
+          "probability": 0.43
+        },
+        {
+          "word": "nửa",
+          "start": 2.05,
+          "end": 2.27,
+          "probability": 0.51
+        },
+        {
+          "word": "bốc",
+          "start": 2.27,
+          "end": 2.43,
+          "probability": 0.65
+        },
+        {
+          "word": "trải",
+          "start": 2.43,
+          "end": 2.61,
+          "probability": 0.58
+        },
+        {
+          "word": "giữ",
+          "start": 2.61,
+          "end": 2.77,
+          "probability": 0.73
+        },
+        {
+          "word": "sỗi,",
+          "start": 2.77,
+          "end": 3.07,
+          "probability": 0.19
+        },
+        {
+          "word": "báo",
+          "start": 3.35,
+          "end": 3.37,
+          "probability": 0.51
+        },
+        {
+          "word": "Trung",
+          "start": 3.37,
+          "end": 3.57,
+          "probability": 0.08
+        },
+        {
+          "word": "Tuần",
+          "start": 3.57,
+          "end": 3.75,
+          "probability": 0.16
+        },
+        {
+          "word": "Bộ",
+          "start": 3.75,
+          "end": 3.93,
+          "probability": 0.83
+        },
+        {
+          "word": "phần",
+          "start": 3.93,
+          "end": 4.09,
+          "probability": 0.7
+        },
+        {
+          "word": "đầu",
+          "start": 4.09,
+          "end": 4.23,
+          "probability": 0.93
+        },
+        {
+          "word": "C",
+          "start": 4.23,
+          "end": 4.39,
+          "probability": 0.08
+        },
+        {
+          "word": "khác.",
+          "start": 4.39,
+          "end": 4.67,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.37,
+      "end": 11.33,
+      "text": "Theo thông tin bà đầu, Bộ trẻ sẽ phát sử ra vào khoảng 2 giờ 3,5 mức thẳng bẩy 2,5 cho 2,5 cho 2,5 cho 2,5 cho 2.",
+      "words": [
+        {
+          "word": "Theo",
+          "start": 5.37,
+          "end": 5.73,
+          "probability": 0.8
+        },
+        {
+          "word": "thông",
+          "start": 5.73,
+          "end": 5.89,
+          "probability": 0.26
+        },
+        {
+          "word": "tin",
+          "start": 5.89,
+          "end": 6.03,
+          "probability": 0.67
+        },
+        {
+          "word": "bà",
+          "start": 6.03,
+          "end": 6.15,
+          "probability": 0.35
+        },
+        {
+          "word": "đầu,",
+          "start": 6.15,
+          "end": 6.47,
+          "probability": 0.58
+        },
+        {
+          "word": "Bộ",
+          "start": 6.61,
+          "end": 6.69,
+          "probability": 0.62
+        },
+        {
+          "word": "trẻ",
+          "start": 6.69,
+          "end": 6.83,
+          "probability": 0.43
+        },
+        {
+          "word": "sẽ",
+          "start": 6.83,
+          "end": 6.99,
+          "probability": 0.75
+        },
+        {
+          "word": "phát",
+          "start": 6.99,
+          "end": 7.13,
+          "probability": 0.55
+        },
+        {
+          "word": "sử",
+          "start": 7.13,
+          "end": 7.29,
+          "probability": 0.47
+        },
+        {
+          "word": "ra",
+          "start": 7.29,
+          "end": 7.45,
+          "probability": 0.23
+        },
+        {
+          "word": "vào",
+          "start": 7.45,
+          "end": 7.61,
+          "probability": 0.8
+        },
+        {
+          "word": "khoảng",
+          "start": 7.61,
+          "end": 7.85,
+          "probability": 0.89
+        },
+        {
+          "word": "2",
+          "start": 7.85,
+          "end": 8.03,
+          "probability": 0.27
+        },
+        {
+          "word": "giờ",
+          "start": 8.03,
+          "end": 8.19,
+          "probability": 0.42
+        },
+        {
+          "word": "3",
+          "start": 8.19,
+          "end": 8.41,
+          "probability": 0.42
+        },
+        {
+          "word": ",5",
+          "start": 8.41,
+          "end": 8.75,
+          "probability": 0.27
+        },
+        {
+          "word": "mức",
+          "start": 8.75,
+          "end": 8.81,
+          "probability": 0.22
+        },
+        {
+          "word": "thẳng",
+          "start": 8.81,
+          "end": 8.97,
+          "probability": 0.66
+        },
+        {
+          "word": "bẩy",
+          "start": 8.97,
+          "end": 9.15,
+          "probability": 0.6
+        },
+        {
+          "word": "2",
+          "start": 9.15,
+          "end": 9.31,
+          "probability": 0.54
+        },
+        {
+          "word": ",5",
+          "start": 9.31,
+          "end": 9.57,
+          "probability": 0.1
+        },
+        {
+          "word": "cho",
+          "start": 9.57,
+          "end": 9.65,
+          "probability": 0.11
+        },
+        {
+          "word": "2",
+          "start": 9.65,
+          "end": 9.85,
+          "probability": 0.3
+        },
+        {
+          "word": ",5",
+          "start": 9.85,
+          "end": 10.03,
+          "probability": 0.61
+        },
+        {
+          "word": "cho",
+          "start": 10.03,
+          "end": 10.37,
+          "probability": 0.24
+        },
+        {
+          "word": "2",
+          "start": 10.37,
+          "end": 10.37,
+          "probability": 0.48
+        },
+        {
+          "word": ",5",
+          "start": 10.37,
+          "end": 10.49,
+          "probability": 0.63
+        },
+        {
+          "word": "cho",
+          "start": 10.49,
+          "end": 10.49,
+          "probability": 0.58
+        },
+        {
+          "word": "2",
+          "start": 10.49,
+          "end": 10.49,
+          "probability": 0.37
+        },
+        {
+          "word": ",5",
+          "start": 10.49,
+          "end": 10.71,
+          "probability": 0.59
+        },
+        {
+          "word": "cho",
+          "start": 10.71,
+          "end": 10.71,
+          "probability": 0.63
+        },
+        {
+          "word": "2.",
+          "start": 10.71,
+          "end": 11.33,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 14.53,
+      "end": 21.85,
+      "text": "Và thời điểm này, sẽ phát loại 2,5 cho tài sĩ trình thánh 2, 1 mức tuổi ở khánh hoa, điều khiến theo hướng từ lâm đồng tí thành phố Hồ Chí Minh.",
+      "words": [
+        {
+          "word": "Và",
+          "start": 14.53,
+          "end": 14.83,
+          "probability": 0.04
+        },
+        {
+          "word": "thời",
+          "start": 14.83,
+          "end": 15.03,
+          "probability": 0.55
+        },
+        {
+          "word": "điểm",
+          "start": 15.03,
+          "end": 15.13,
+          "probability": 0.86
+        },
+        {
+          "word": "này,",
+          "start": 15.13,
+          "end": 15.53,
+          "probability": 0.9
+        },
+        {
+          "word": "sẽ",
+          "start": 15.55,
+          "end": 15.71,
+          "probability": 0.81
+        },
+        {
+          "word": "phát",
+          "start": 15.71,
+          "end": 15.85,
+          "probability": 0.64
+        },
+        {
+          "word": "loại",
+          "start": 15.85,
+          "end": 16.01,
+          "probability": 0.56
+        },
+        {
+          "word": "2",
+          "start": 16.01,
+          "end": 16.21,
+          "probability": 0.79
+        },
+        {
+          "word": ",5",
+          "start": 16.21,
+          "end": 16.45,
+          "probability": 0.55
+        },
+        {
+          "word": "cho",
+          "start": 16.45,
+          "end": 16.65,
+          "probability": 0.43
+        },
+        {
+          "word": "tài",
+          "start": 16.65,
+          "end": 17.07,
+          "probability": 0.33
+        },
+        {
+          "word": "sĩ",
+          "start": 17.07,
+          "end": 17.29,
+          "probability": 0.64
+        },
+        {
+          "word": "trình",
+          "start": 17.29,
+          "end": 17.49,
+          "probability": 0.41
+        },
+        {
+          "word": "thánh",
+          "start": 17.49,
+          "end": 17.67,
+          "probability": 0.41
+        },
+        {
+          "word": "2,",
+          "start": 17.67,
+          "end": 17.93,
+          "probability": 0.9
+        },
+        {
+          "word": "1",
+          "start": 18.13,
+          "end": 18.13,
+          "probability": 0.26
+        },
+        {
+          "word": "mức",
+          "start": 18.13,
+          "end": 18.39,
+          "probability": 0.77
+        },
+        {
+          "word": "tuổi",
+          "start": 18.39,
+          "end": 18.65,
+          "probability": 0.83
+        },
+        {
+          "word": "ở",
+          "start": 18.65,
+          "end": 18.85,
+          "probability": 0.63
+        },
+        {
+          "word": "khánh",
+          "start": 18.85,
+          "end": 19.03,
+          "probability": 0.53
+        },
+        {
+          "word": "hoa,",
+          "start": 19.03,
+          "end": 19.37,
+          "probability": 0.66
+        },
+        {
+          "word": "điều",
+          "start": 19.55,
+          "end": 19.63,
+          "probability": 0.82
+        },
+        {
+          "word": "khiến",
+          "start": 19.63,
+          "end": 19.85,
+          "probability": 0.51
+        },
+        {
+          "word": "theo",
+          "start": 19.85,
+          "end": 20.05,
+          "probability": 0.84
+        },
+        {
+          "word": "hướng",
+          "start": 20.05,
+          "end": 20.23,
+          "probability": 0.69
+        },
+        {
+          "word": "từ",
+          "start": 20.23,
+          "end": 20.37,
+          "probability": 0.74
+        },
+        {
+          "word": "lâm",
+          "start": 20.37,
+          "end": 20.53,
+          "probability": 0.35
+        },
+        {
+          "word": "đồng",
+          "start": 20.53,
+          "end": 20.73,
+          "probability": 0.71
+        },
+        {
+          "word": "tí",
+          "start": 20.73,
+          "end": 20.91,
+          "probability": 0.31
+        },
+        {
+          "word": "thành",
+          "start": 20.91,
+          "end": 21.05,
+          "probability": 0.64
+        },
+        {
+          "word": "phố",
+          "start": 21.05,
+          "end": 21.19,
+          "probability": 0.76
+        },
+        {
+          "word": "Hồ",
+          "start": 21.19,
+          "end": 21.39,
+          "probability": 0.47
+        },
+        {
+          "word": "Chí",
+          "start": 21.39,
+          "end": 21.47,
+          "probability": 0.34
+        },
+        {
+          "word": "Minh.",
+          "start": 21.47,
+          "end": 21.85,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 22.23,
+      "end": 25.99,
+      "text": "khi đến đoạn gần gặp 3,5, sẽ phát lo vào lăn cân lề đường sau đó sẽ bước trái.",
+      "words": [
+        {
+          "word": "khi",
+          "start": 22.23,
+          "end": 22.33,
+          "probability": 0.31
+        },
+        {
+          "word": "đến",
+          "start": 22.33,
+          "end": 22.49,
+          "probability": 0.96
+        },
+        {
+          "word": "đoạn",
+          "start": 22.49,
+          "end": 22.61,
+          "probability": 0.58
+        },
+        {
+          "word": "gần",
+          "start": 22.61,
+          "end": 22.81,
+          "probability": 0.79
+        },
+        {
+          "word": "gặp",
+          "start": 22.81,
+          "end": 22.95,
+          "probability": 0.8
+        },
+        {
+          "word": "3",
+          "start": 22.95,
+          "end": 23.17,
+          "probability": 0.14
+        },
+        {
+          "word": ",5,",
+          "start": 23.17,
+          "end": 23.55,
+          "probability": 0.51
+        },
+        {
+          "word": "sẽ",
+          "start": 23.75,
+          "end": 23.83,
+          "probability": 0.71
+        },
+        {
+          "word": "phát",
+          "start": 23.83,
+          "end": 23.99,
+          "probability": 0.99
+        },
+        {
+          "word": "lo",
+          "start": 23.99,
+          "end": 24.15,
+          "probability": 0.96
+        },
+        {
+          "word": "vào",
+          "start": 24.15,
+          "end": 24.25,
+          "probability": 0.78
+        },
+        {
+          "word": "lăn",
+          "start": 24.25,
+          "end": 24.45,
+          "probability": 0.29
+        },
+        {
+          "word": "cân",
+          "start": 24.45,
+          "end": 24.61,
+          "probability": 0.23
+        },
+        {
+          "word": "lề",
+          "start": 24.61,
+          "end": 24.77,
+          "probability": 0.18
+        },
+        {
+          "word": "đường",
+          "start": 24.77,
+          "end": 24.99,
+          "probability": 0.86
+        },
+        {
+          "word": "sau",
+          "start": 24.99,
+          "end": 25.29,
+          "probability": 0.52
+        },
+        {
+          "word": "đó",
+          "start": 25.29,
+          "end": 25.53,
+          "probability": 0.98
+        },
+        {
+          "word": "sẽ",
+          "start": 25.53,
+          "end": 25.69,
+          "probability": 0.88
+        },
+        {
+          "word": "bước",
+          "start": 25.69,
+          "end": 25.81,
+          "probability": 0.5
+        },
+        {
+          "word": "trái.",
+          "start": 25.81,
+          "end": 25.99,
+          "probability": 0.45
+        }
+      ]
+    }
+  ]
+}

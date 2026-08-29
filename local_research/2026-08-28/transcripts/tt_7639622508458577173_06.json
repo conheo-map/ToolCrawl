@@ -1,0 +1,538 @@
+{
+  "item_id": "tt_7639622508458577173_06",
+  "duration_seconds": 27.5,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 76,
+  "text": "Cái gì mình cảm giận được? Cảm giận được, các bạn bối quan tay rồi. Cảm giận được tìm xe rồi. Cái gì đó không cảm giận được không cảm giận? Không cảm giận được không cảm giận được không cảm giận. Không cảm giận được không? Bây giờ không phải dở đâu. Không phải dở nhé. Bây giờ lâu không không nào phải dở lại luôn. Chó bị tạo li mà chỉ kiện này mắt.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.66,
+      "end": 2.28,
+      "text": "Cái gì mình cảm giận được?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.66,
+          "end": 1.04,
+          "probability": 0.15
+        },
+        {
+          "word": "gì",
+          "start": 1.04,
+          "end": 1.14,
+          "probability": 0.79
+        },
+        {
+          "word": "mình",
+          "start": 1.14,
+          "end": 1.28,
+          "probability": 0.91
+        },
+        {
+          "word": "cảm",
+          "start": 1.28,
+          "end": 1.42,
+          "probability": 0.92
+        },
+        {
+          "word": "giận",
+          "start": 1.42,
+          "end": 1.58,
+          "probability": 0.33
+        },
+        {
+          "word": "được?",
+          "start": 1.58,
+          "end": 2.28,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.86,
+      "end": 5.68,
+      "text": "Cảm giận được, các bạn bối quan tay rồi.",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 2.86,
+          "end": 2.98,
+          "probability": 0.62
+        },
+        {
+          "word": "giận",
+          "start": 2.98,
+          "end": 3.08,
+          "probability": 0.63
+        },
+        {
+          "word": "được,",
+          "start": 3.08,
+          "end": 3.34,
+          "probability": 0.99
+        },
+        {
+          "word": "các",
+          "start": 3.36,
+          "end": 3.72,
+          "probability": 0.1
+        },
+        {
+          "word": "bạn",
+          "start": 3.72,
+          "end": 3.72,
+          "probability": 0.78
+        },
+        {
+          "word": "bối",
+          "start": 3.72,
+          "end": 4.82,
+          "probability": 0.11
+        },
+        {
+          "word": "quan",
+          "start": 4.82,
+          "end": 5.0,
+          "probability": 0.39
+        },
+        {
+          "word": "tay",
+          "start": 5.0,
+          "end": 5.22,
+          "probability": 0.4
+        },
+        {
+          "word": "rồi.",
+          "start": 5.22,
+          "end": 5.68,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.1,
+      "end": 9.82,
+      "text": "Cảm giận được tìm xe rồi.",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 8.1,
+          "end": 8.48,
+          "probability": 0.79
+        },
+        {
+          "word": "giận",
+          "start": 8.48,
+          "end": 8.56,
+          "probability": 0.99
+        },
+        {
+          "word": "được",
+          "start": 8.56,
+          "end": 8.72,
+          "probability": 0.81
+        },
+        {
+          "word": "tìm",
+          "start": 8.72,
+          "end": 9.02,
+          "probability": 0.26
+        },
+        {
+          "word": "xe",
+          "start": 9.02,
+          "end": 9.02,
+          "probability": 0.69
+        },
+        {
+          "word": "rồi.",
+          "start": 9.02,
+          "end": 9.82,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.08,
+      "end": 12.9,
+      "text": "Cái gì đó không cảm giận được không cảm giận?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 11.08,
+          "end": 11.22,
+          "probability": 0.41
+        },
+        {
+          "word": "gì",
+          "start": 11.22,
+          "end": 11.4,
+          "probability": 0.92
+        },
+        {
+          "word": "đó",
+          "start": 11.4,
+          "end": 11.44,
+          "probability": 0.12
+        },
+        {
+          "word": "không",
+          "start": 11.44,
+          "end": 11.56,
+          "probability": 0.16
+        },
+        {
+          "word": "cảm",
+          "start": 11.56,
+          "end": 11.82,
+          "probability": 0.23
+        },
+        {
+          "word": "giận",
+          "start": 11.82,
+          "end": 12.16,
+          "probability": 0.83
+        },
+        {
+          "word": "được",
+          "start": 12.16,
+          "end": 12.48,
+          "probability": 0.93
+        },
+        {
+          "word": "không",
+          "start": 12.48,
+          "end": 12.64,
+          "probability": 0.85
+        },
+        {
+          "word": "cảm",
+          "start": 12.64,
+          "end": 12.88,
+          "probability": 0.74
+        },
+        {
+          "word": "giận?",
+          "start": 12.88,
+          "end": 12.9,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.6,
+      "end": 14.1,
+      "text": "Không cảm giận được không cảm giận được không cảm giận.",
+      "words": [
+        {
+          "word": "Không",
+          "start": 13.6,
+          "end": 13.74,
+          "probability": 0.25
+        },
+        {
+          "word": "cảm",
+          "start": 13.74,
+          "end": 13.86,
+          "probability": 0.73
+        },
+        {
+          "word": "giận",
+          "start": 13.86,
+          "end": 13.9,
+          "probability": 0.92
+        },
+        {
+          "word": "được",
+          "start": 13.9,
+          "end": 14.0,
+          "probability": 0.62
+        },
+        {
+          "word": "không",
+          "start": 14.0,
+          "end": 14.04,
+          "probability": 0.73
+        },
+        {
+          "word": "cảm",
+          "start": 14.04,
+          "end": 14.04,
+          "probability": 0.79
+        },
+        {
+          "word": "giận",
+          "start": 14.04,
+          "end": 14.04,
+          "probability": 0.88
+        },
+        {
+          "word": "được",
+          "start": 14.04,
+          "end": 14.04,
+          "probability": 0.54
+        },
+        {
+          "word": "không",
+          "start": 14.04,
+          "end": 14.1,
+          "probability": 0.58
+        },
+        {
+          "word": "cảm",
+          "start": 14.1,
+          "end": 14.1,
+          "probability": 0.7
+        },
+        {
+          "word": "giận.",
+          "start": 14.1,
+          "end": 14.1,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.1,
+      "end": 16.0,
+      "text": "Không cảm giận được không?",
+      "words": [
+        {
+          "word": "Không",
+          "start": 14.1,
+          "end": 14.1,
+          "probability": 0.71
+        },
+        {
+          "word": "cảm",
+          "start": 14.1,
+          "end": 14.1,
+          "probability": 0.81
+        },
+        {
+          "word": "giận",
+          "start": 14.1,
+          "end": 14.1,
+          "probability": 0.91
+        },
+        {
+          "word": "được",
+          "start": 14.1,
+          "end": 14.28,
+          "probability": 0.85
+        },
+        {
+          "word": "không?",
+          "start": 14.28,
+          "end": 16.0,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 17.3,
+      "end": 20.3,
+      "text": "Bây giờ không phải dở đâu.",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 17.3,
+          "end": 17.68,
+          "probability": 0.1
+        },
+        {
+          "word": "giờ",
+          "start": 17.68,
+          "end": 17.68,
+          "probability": 0.95
+        },
+        {
+          "word": "không",
+          "start": 17.68,
+          "end": 18.1,
+          "probability": 0.16
+        },
+        {
+          "word": "phải",
+          "start": 18.1,
+          "end": 19.6,
+          "probability": 0.1
+        },
+        {
+          "word": "dở",
+          "start": 19.6,
+          "end": 20.02,
+          "probability": 0.16
+        },
+        {
+          "word": "đâu.",
+          "start": 20.02,
+          "end": 20.3,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 21.04,
+      "end": 24.26,
+      "text": "Không phải dở nhé. Bây giờ lâu không không nào phải dở lại luôn.",
+      "words": [
+        {
+          "word": "Không",
+          "start": 21.04,
+          "end": 21.12,
+          "probability": 0.39
+        },
+        {
+          "word": "phải",
+          "start": 21.12,
+          "end": 21.26,
+          "probability": 0.97
+        },
+        {
+          "word": "dở",
+          "start": 21.26,
+          "end": 21.38,
+          "probability": 0.93
+        },
+        {
+          "word": "nhé.",
+          "start": 21.38,
+          "end": 21.84,
+          "probability": 0.21
+        },
+        {
+          "word": "Bây",
+          "start": 22.48,
+          "end": 22.52,
+          "probability": 0.81
+        },
+        {
+          "word": "giờ",
+          "start": 22.52,
+          "end": 22.66,
+          "probability": 1.0
+        },
+        {
+          "word": "lâu",
+          "start": 22.66,
+          "end": 22.84,
+          "probability": 0.57
+        },
+        {
+          "word": "không",
+          "start": 22.84,
+          "end": 23.02,
+          "probability": 0.51
+        },
+        {
+          "word": "không",
+          "start": 23.02,
+          "end": 23.16,
+          "probability": 0.12
+        },
+        {
+          "word": "nào",
+          "start": 23.16,
+          "end": 23.3,
+          "probability": 0.31
+        },
+        {
+          "word": "phải",
+          "start": 23.3,
+          "end": 23.38,
+          "probability": 0.18
+        },
+        {
+          "word": "dở",
+          "start": 23.38,
+          "end": 23.48,
+          "probability": 0.54
+        },
+        {
+          "word": "lại",
+          "start": 23.48,
+          "end": 23.62,
+          "probability": 0.78
+        },
+        {
+          "word": "luôn.",
+          "start": 23.62,
+          "end": 24.26,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 25.2,
+      "end": 27.46,
+      "text": "Chó bị tạo li mà chỉ kiện này mắt.",
+      "words": [
+        {
+          "word": "Chó",
+          "start": 25.2,
+          "end": 25.36,
+          "probability": 0.18
+        },
+        {
+          "word": "bị",
+          "start": 25.36,
+          "end": 25.8,
+          "probability": 0.09
+        },
+        {
+          "word": "tạo",
+          "start": 25.8,
+          "end": 26.04,
+          "probability": 0.83
+        },
+        {
+          "word": "li",
+          "start": 26.04,
+          "end": 26.3,
+          "probability": 0.24
+        },
+        {
+          "word": "mà",
+          "start": 26.3,
+          "end": 26.5,
+          "probability": 0.36
+        },
+        {
+          "word": "chỉ",
+          "start": 26.5,
+          "end": 26.72,
+          "probability": 0.46
+        },
+        {
+          "word": "kiện",
+          "start": 26.72,
+          "end": 26.92,
+          "probability": 0.36
+        },
+        {
+          "word": "này",
+          "start": 26.92,
+          "end": 27.08,
+          "probability": 0.13
+        },
+        {
+          "word": "mắt.",
+          "start": 27.08,
+          "end": 27.46,
+          "probability": 0.59
+        }
+      ]
+    }
+  ]
+}

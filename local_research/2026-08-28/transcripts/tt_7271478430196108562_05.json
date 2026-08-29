@@ -1,0 +1,468 @@
+{
+  "item_id": "tt_7271478430196108562_05",
+  "duration_seconds": 21.02,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 59,
+  "text": "rồi, các bạn gì? Ê không ổng ở Ê không ổng không Mình điểm kích tìm đi không Gũa Ê biết trên đi Tại vì Ê không ổng không mà Ờ thì bạn điểm kích tìm đi không Gũa Đây chỉ một nè chỉ 2 Dạm, nè, nè, nè, nè, nè, nè, nè, nè và 1 Bây giờ thôi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.14,
+      "end": 1.52,
+      "text": "rồi, các bạn gì?",
+      "words": [
+        {
+          "word": "rồi,",
+          "start": 0.14,
+          "end": 0.78,
+          "probability": 0.06
+        },
+        {
+          "word": "các",
+          "start": 1.02,
+          "end": 1.16,
+          "probability": 0.21
+        },
+        {
+          "word": "bạn",
+          "start": 1.16,
+          "end": 1.24,
+          "probability": 0.92
+        },
+        {
+          "word": "gì?",
+          "start": 1.24,
+          "end": 1.52,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.8,
+      "end": 3.12,
+      "text": "Ê không ổng ở Ê không ổng không",
+      "words": [
+        {
+          "word": "Ê",
+          "start": 1.8,
+          "end": 1.92,
+          "probability": 0.4
+        },
+        {
+          "word": "không",
+          "start": 1.92,
+          "end": 2.04,
+          "probability": 0.72
+        },
+        {
+          "word": "ổng",
+          "start": 2.04,
+          "end": 2.24,
+          "probability": 0.24
+        },
+        {
+          "word": "ở",
+          "start": 2.24,
+          "end": 2.24,
+          "probability": 0.14
+        },
+        {
+          "word": "Ê",
+          "start": 2.24,
+          "end": 2.38,
+          "probability": 0.76
+        },
+        {
+          "word": "không",
+          "start": 2.38,
+          "end": 2.5,
+          "probability": 0.98
+        },
+        {
+          "word": "ổng",
+          "start": 2.5,
+          "end": 3.12,
+          "probability": 0.65
+        },
+        {
+          "word": "không",
+          "start": 3.12,
+          "end": 3.12,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.12,
+      "end": 4.82,
+      "text": "Mình điểm kích tìm đi không",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 3.12,
+          "end": 3.42,
+          "probability": 0.31
+        },
+        {
+          "word": "điểm",
+          "start": 3.42,
+          "end": 3.56,
+          "probability": 0.36
+        },
+        {
+          "word": "kích",
+          "start": 3.56,
+          "end": 3.76,
+          "probability": 0.63
+        },
+        {
+          "word": "tìm",
+          "start": 3.76,
+          "end": 3.9,
+          "probability": 0.38
+        },
+        {
+          "word": "đi",
+          "start": 3.9,
+          "end": 4.0,
+          "probability": 0.29
+        },
+        {
+          "word": "không",
+          "start": 4.0,
+          "end": 4.82,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.82,
+      "end": 5.4,
+      "text": "Gũa",
+      "words": [
+        {
+          "word": "Gũa",
+          "start": 4.82,
+          "end": 5.4,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 5.4,
+      "end": 6.16,
+      "text": "Ê biết trên đi",
+      "words": [
+        {
+          "word": "Ê",
+          "start": 5.4,
+          "end": 5.56,
+          "probability": 0.52
+        },
+        {
+          "word": "biết",
+          "start": 5.56,
+          "end": 5.72,
+          "probability": 0.56
+        },
+        {
+          "word": "trên",
+          "start": 5.72,
+          "end": 5.86,
+          "probability": 0.26
+        },
+        {
+          "word": "đi",
+          "start": 5.86,
+          "end": 6.16,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 6.16,
+      "end": 7.66,
+      "text": "Tại vì Ê không ổng không mà",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 6.16,
+          "end": 6.44,
+          "probability": 0.37
+        },
+        {
+          "word": "vì",
+          "start": 6.44,
+          "end": 6.5,
+          "probability": 0.05
+        },
+        {
+          "word": "Ê",
+          "start": 6.5,
+          "end": 6.62,
+          "probability": 0.76
+        },
+        {
+          "word": "không",
+          "start": 6.62,
+          "end": 6.76,
+          "probability": 1.0
+        },
+        {
+          "word": "ổng",
+          "start": 6.76,
+          "end": 6.88,
+          "probability": 0.75
+        },
+        {
+          "word": "không",
+          "start": 6.88,
+          "end": 7.36,
+          "probability": 0.99
+        },
+        {
+          "word": "mà",
+          "start": 7.36,
+          "end": 7.66,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 8.2,
+      "end": 8.54,
+      "text": "Ờ",
+      "words": [
+        {
+          "word": "Ờ",
+          "start": 8.2,
+          "end": 8.54,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 8.54,
+      "end": 10.42,
+      "text": "thì bạn điểm kích tìm đi không",
+      "words": [
+        {
+          "word": "thì",
+          "start": 8.54,
+          "end": 9.02,
+          "probability": 0.02
+        },
+        {
+          "word": "bạn",
+          "start": 9.02,
+          "end": 9.2,
+          "probability": 0.32
+        },
+        {
+          "word": "điểm",
+          "start": 9.2,
+          "end": 9.44,
+          "probability": 0.94
+        },
+        {
+          "word": "kích",
+          "start": 9.44,
+          "end": 9.62,
+          "probability": 0.99
+        },
+        {
+          "word": "tìm",
+          "start": 9.62,
+          "end": 9.76,
+          "probability": 0.95
+        },
+        {
+          "word": "đi",
+          "start": 9.76,
+          "end": 9.9,
+          "probability": 0.94
+        },
+        {
+          "word": "không",
+          "start": 9.9,
+          "end": 10.42,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 10.96,
+      "end": 11.36,
+      "text": "Gũa",
+      "words": [
+        {
+          "word": "Gũa",
+          "start": 10.96,
+          "end": 11.36,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 11.36,
+      "end": 12.9,
+      "text": "Đây chỉ một nè chỉ 2",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 11.36,
+          "end": 11.6,
+          "probability": 0.05
+        },
+        {
+          "word": "chỉ",
+          "start": 11.6,
+          "end": 11.78,
+          "probability": 0.55
+        },
+        {
+          "word": "một",
+          "start": 11.78,
+          "end": 11.96,
+          "probability": 0.59
+        },
+        {
+          "word": "nè",
+          "start": 11.96,
+          "end": 12.16,
+          "probability": 0.14
+        },
+        {
+          "word": "chỉ",
+          "start": 12.16,
+          "end": 12.32,
+          "probability": 0.23
+        },
+        {
+          "word": "2",
+          "start": 12.32,
+          "end": 12.9,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 12.9,
+      "end": 17.86,
+      "text": "Dạm, nè, nè, nè, nè, nè, nè, nè, nè",
+      "words": [
+        {
+          "word": "Dạm,",
+          "start": 12.9,
+          "end": 13.6,
+          "probability": 0.37
+        },
+        {
+          "word": "nè,",
+          "start": 13.6,
+          "end": 13.7,
+          "probability": 0.16
+        },
+        {
+          "word": "nè,",
+          "start": 13.78,
+          "end": 13.78,
+          "probability": 0.38
+        },
+        {
+          "word": "nè,",
+          "start": 13.92,
+          "end": 13.92,
+          "probability": 0.5
+        },
+        {
+          "word": "nè,",
+          "start": 14.16,
+          "end": 14.52,
+          "probability": 0.61
+        },
+        {
+          "word": "nè,",
+          "start": 15.68,
+          "end": 15.68,
+          "probability": 0.63
+        },
+        {
+          "word": "nè,",
+          "start": 15.84,
+          "end": 16.4,
+          "probability": 0.68
+        },
+        {
+          "word": "nè,",
+          "start": 16.4,
+          "end": 17.52,
+          "probability": 0.73
+        },
+        {
+          "word": "nè",
+          "start": 17.86,
+          "end": 17.86,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 17.86,
+      "end": 18.34,
+      "text": "và 1",
+      "words": [
+        {
+          "word": "và",
+          "start": 17.86,
+          "end": 17.98,
+          "probability": 0.11
+        },
+        {
+          "word": "1",
+          "start": 17.98,
+          "end": 18.34,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 19.56,
+      "end": 20.54,
+      "text": "Bây giờ thôi",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 19.56,
+          "end": 19.96,
+          "probability": 0.12
+        },
+        {
+          "word": "giờ",
+          "start": 19.96,
+          "end": 20.08,
+          "probability": 0.59
+        },
+        {
+          "word": "thôi",
+          "start": 20.08,
+          "end": 20.54,
+          "probability": 0.26
+        }
+      ]
+    }
+  ]
+}

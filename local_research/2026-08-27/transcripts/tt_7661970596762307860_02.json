@@ -1,0 +1,316 @@
+{
+  "item_id": "tt_7661970596762307860_02",
+  "duration_seconds": 28.3,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 43,
+  "text": "Đại ngon ngon kai bố phó kỳ dựa sẽ có thể và đúng không? Rồi chắc thì có thể ngon ngon lắm đúng không? Cái gì này? Nhưng mà có mức được tắc dựa thì dựa sẽ đúng không? Đúng không? Đúng không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.14,
+      "end": 12.03,
+      "text": "Đại ngon ngon kai bố phó kỳ dựa sẽ có thể và đúng không?",
+      "words": [
+        {
+          "word": "Đại",
+          "start": 0.14,
+          "end": 0.68,
+          "probability": 0.06
+        },
+        {
+          "word": "ngon",
+          "start": 0.68,
+          "end": 1.06,
+          "probability": 0.1
+        },
+        {
+          "word": "ngon",
+          "start": 1.06,
+          "end": 1.44,
+          "probability": 0.21
+        },
+        {
+          "word": "kai",
+          "start": 1.44,
+          "end": 1.6,
+          "probability": 0.09
+        },
+        {
+          "word": "bố",
+          "start": 1.6,
+          "end": 1.88,
+          "probability": 0.19
+        },
+        {
+          "word": "phó",
+          "start": 1.88,
+          "end": 2.08,
+          "probability": 0.1
+        },
+        {
+          "word": "kỳ",
+          "start": 2.08,
+          "end": 2.26,
+          "probability": 0.36
+        },
+        {
+          "word": "dựa",
+          "start": 2.26,
+          "end": 2.52,
+          "probability": 0.14
+        },
+        {
+          "word": "sẽ",
+          "start": 2.52,
+          "end": 2.84,
+          "probability": 0.03
+        },
+        {
+          "word": "có",
+          "start": 10.27,
+          "end": 11.45,
+          "probability": 0.01
+        },
+        {
+          "word": "thể",
+          "start": 11.45,
+          "end": 11.45,
+          "probability": 0.12
+        },
+        {
+          "word": "và",
+          "start": 11.45,
+          "end": 11.45,
+          "probability": 0.0
+        },
+        {
+          "word": "đúng",
+          "start": 11.45,
+          "end": 11.79,
+          "probability": 0.07
+        },
+        {
+          "word": "không?",
+          "start": 11.79,
+          "end": 12.03,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 12.89,
+      "end": 14.59,
+      "text": "Rồi chắc thì có thể ngon ngon lắm đúng không?",
+      "words": [
+        {
+          "word": "Rồi",
+          "start": 12.89,
+          "end": 13.65,
+          "probability": 0.31
+        },
+        {
+          "word": "chắc",
+          "start": 13.65,
+          "end": 13.85,
+          "probability": 0.04
+        },
+        {
+          "word": "thì",
+          "start": 13.85,
+          "end": 13.85,
+          "probability": 0.01
+        },
+        {
+          "word": "có",
+          "start": 13.85,
+          "end": 13.85,
+          "probability": 0.04
+        },
+        {
+          "word": "thể",
+          "start": 13.85,
+          "end": 13.85,
+          "probability": 0.55
+        },
+        {
+          "word": "ngon",
+          "start": 13.85,
+          "end": 13.85,
+          "probability": 0.54
+        },
+        {
+          "word": "ngon",
+          "start": 13.85,
+          "end": 14.03,
+          "probability": 0.57
+        },
+        {
+          "word": "lắm",
+          "start": 14.03,
+          "end": 14.17,
+          "probability": 0.03
+        },
+        {
+          "word": "đúng",
+          "start": 14.17,
+          "end": 14.31,
+          "probability": 0.2
+        },
+        {
+          "word": "không?",
+          "start": 14.31,
+          "end": 14.59,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 14.89,
+      "end": 16.21,
+      "text": "Cái gì này?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 14.89,
+          "end": 14.89,
+          "probability": 0.26
+        },
+        {
+          "word": "gì",
+          "start": 14.89,
+          "end": 15.71,
+          "probability": 0.16
+        },
+        {
+          "word": "này?",
+          "start": 15.71,
+          "end": 16.21,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 16.21,
+      "end": 23.65,
+      "text": "Nhưng mà có mức được tắc dựa thì dựa sẽ đúng không?",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 16.21,
+          "end": 16.69,
+          "probability": 0.15
+        },
+        {
+          "word": "mà",
+          "start": 16.69,
+          "end": 17.27,
+          "probability": 0.17
+        },
+        {
+          "word": "có",
+          "start": 17.27,
+          "end": 17.29,
+          "probability": 0.08
+        },
+        {
+          "word": "mức",
+          "start": 17.29,
+          "end": 17.89,
+          "probability": 0.02
+        },
+        {
+          "word": "được",
+          "start": 17.89,
+          "end": 18.85,
+          "probability": 0.04
+        },
+        {
+          "word": "tắc",
+          "start": 18.85,
+          "end": 19.05,
+          "probability": 0.02
+        },
+        {
+          "word": "dựa",
+          "start": 19.05,
+          "end": 19.43,
+          "probability": 0.56
+        },
+        {
+          "word": "thì",
+          "start": 19.43,
+          "end": 19.81,
+          "probability": 0.0
+        },
+        {
+          "word": "dựa",
+          "start": 19.81,
+          "end": 21.53,
+          "probability": 0.58
+        },
+        {
+          "word": "sẽ",
+          "start": 21.53,
+          "end": 21.53,
+          "probability": 0.01
+        },
+        {
+          "word": "đúng",
+          "start": 21.53,
+          "end": 22.55,
+          "probability": 0.35
+        },
+        {
+          "word": "không?",
+          "start": 22.55,
+          "end": 23.65,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 26.29,
+      "end": 26.61,
+      "text": "Đúng không?",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 26.29,
+          "end": 26.61,
+          "probability": 0.51
+        },
+        {
+          "word": "không?",
+          "start": 26.61,
+          "end": 26.61,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 26.61,
+      "end": 28.27,
+      "text": "Đúng không?",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 26.61,
+          "end": 26.61,
+          "probability": 0.65
+        },
+        {
+          "word": "không?",
+          "start": 26.61,
+          "end": 28.27,
+          "probability": 0.89
+        }
+      ]
+    }
+  ]
+}

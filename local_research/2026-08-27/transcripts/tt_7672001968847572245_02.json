@@ -1,0 +1,764 @@
+{
+  "item_id": "tt_7672001968847572245_02",
+  "duration_seconds": 25.76,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 119,
+  "text": "Điện hiểu lúc mời dừa bà mới làm vui nè tàn tháng, kính xa dọ thông kì hình ổ tô đề về gliền kìa và cơ tốc, thành phố chiming lòng thành giấu dây. Hóa, ani vụt sau khi xe đến trạm tu vi lòng vức, kính xa dọ thông dừng phương tệ để kính ra. Nhưu trường giúp khác, cộng được phát hiện theo cách tương tự và chỉ khoảng ani vụt sau khi anh đi bị phạm được kì hình tại nút sau, phương tệ là bị kính xa dọ thông dừng tại trạm tu vi lòng vức. Chứ bỏ kính xa dọ thông cộng lên tục phát hiện các phương tệnh vi giả lối tình tự.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.52,
+      "text": "Điện hiểu lúc mời dừa bà mới làm vui nè tàn tháng, kính xa dọ thông kì hình ổ tô đề về gliền kìa và cơ tốc, thành phố chiming lòng thành giấu dây.",
+      "words": [
+        {
+          "word": "Điện",
+          "start": 0.0,
+          "end": 0.56,
+          "probability": 0.3
+        },
+        {
+          "word": "hiểu",
+          "start": 0.56,
+          "end": 0.82,
+          "probability": 0.18
+        },
+        {
+          "word": "lúc",
+          "start": 0.82,
+          "end": 0.98,
+          "probability": 0.64
+        },
+        {
+          "word": "mời",
+          "start": 0.98,
+          "end": 1.16,
+          "probability": 0.45
+        },
+        {
+          "word": "dừa",
+          "start": 1.16,
+          "end": 1.32,
+          "probability": 0.21
+        },
+        {
+          "word": "bà",
+          "start": 1.32,
+          "end": 1.46,
+          "probability": 0.46
+        },
+        {
+          "word": "mới",
+          "start": 1.46,
+          "end": 1.62,
+          "probability": 0.24
+        },
+        {
+          "word": "làm",
+          "start": 1.62,
+          "end": 1.68,
+          "probability": 0.22
+        },
+        {
+          "word": "vui",
+          "start": 1.68,
+          "end": 1.76,
+          "probability": 0.17
+        },
+        {
+          "word": "nè",
+          "start": 1.76,
+          "end": 1.98,
+          "probability": 0.28
+        },
+        {
+          "word": "tàn",
+          "start": 1.98,
+          "end": 2.12,
+          "probability": 0.39
+        },
+        {
+          "word": "tháng,",
+          "start": 2.12,
+          "end": 2.54,
+          "probability": 0.23
+        },
+        {
+          "word": "kính",
+          "start": 2.96,
+          "end": 3.0,
+          "probability": 0.5
+        },
+        {
+          "word": "xa",
+          "start": 3.0,
+          "end": 3.12,
+          "probability": 0.37
+        },
+        {
+          "word": "dọ",
+          "start": 3.12,
+          "end": 3.28,
+          "probability": 0.15
+        },
+        {
+          "word": "thông",
+          "start": 3.28,
+          "end": 3.5,
+          "probability": 0.67
+        },
+        {
+          "word": "kì",
+          "start": 3.5,
+          "end": 3.66,
+          "probability": 0.29
+        },
+        {
+          "word": "hình",
+          "start": 3.66,
+          "end": 3.92,
+          "probability": 0.83
+        },
+        {
+          "word": "ổ",
+          "start": 3.92,
+          "end": 4.18,
+          "probability": 0.3
+        },
+        {
+          "word": "tô",
+          "start": 4.18,
+          "end": 4.28,
+          "probability": 0.53
+        },
+        {
+          "word": "đề",
+          "start": 4.28,
+          "end": 4.48,
+          "probability": 0.33
+        },
+        {
+          "word": "về",
+          "start": 4.48,
+          "end": 4.66,
+          "probability": 0.6
+        },
+        {
+          "word": "gliền",
+          "start": 4.66,
+          "end": 4.88,
+          "probability": 0.18
+        },
+        {
+          "word": "kìa",
+          "start": 4.88,
+          "end": 5.26,
+          "probability": 0.34
+        },
+        {
+          "word": "và",
+          "start": 5.26,
+          "end": 5.4,
+          "probability": 0.34
+        },
+        {
+          "word": "cơ",
+          "start": 5.4,
+          "end": 5.62,
+          "probability": 0.31
+        },
+        {
+          "word": "tốc,",
+          "start": 5.62,
+          "end": 5.86,
+          "probability": 0.68
+        },
+        {
+          "word": "thành",
+          "start": 6.14,
+          "end": 6.2,
+          "probability": 0.35
+        },
+        {
+          "word": "phố",
+          "start": 6.2,
+          "end": 6.38,
+          "probability": 0.91
+        },
+        {
+          "word": "chiming",
+          "start": 6.38,
+          "end": 6.68,
+          "probability": 0.55
+        },
+        {
+          "word": "lòng",
+          "start": 6.68,
+          "end": 6.88,
+          "probability": 0.73
+        },
+        {
+          "word": "thành",
+          "start": 6.88,
+          "end": 7.06,
+          "probability": 0.22
+        },
+        {
+          "word": "giấu",
+          "start": 7.06,
+          "end": 7.22,
+          "probability": 0.32
+        },
+        {
+          "word": "dây.",
+          "start": 7.22,
+          "end": 7.52,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.9,
+      "end": 12.62,
+      "text": "Hóa, ani vụt sau khi xe đến trạm tu vi lòng vức, kính xa dọ thông dừng phương tệ để kính ra.",
+      "words": [
+        {
+          "word": "Hóa,",
+          "start": 7.9,
+          "end": 8.14,
+          "probability": 0.29
+        },
+        {
+          "word": "ani",
+          "start": 8.16,
+          "end": 8.44,
+          "probability": 0.11
+        },
+        {
+          "word": "vụt",
+          "start": 8.44,
+          "end": 8.62,
+          "probability": 0.2
+        },
+        {
+          "word": "sau",
+          "start": 8.62,
+          "end": 9.02,
+          "probability": 0.37
+        },
+        {
+          "word": "khi",
+          "start": 9.02,
+          "end": 9.42,
+          "probability": 0.61
+        },
+        {
+          "word": "xe",
+          "start": 9.42,
+          "end": 9.56,
+          "probability": 0.65
+        },
+        {
+          "word": "đến",
+          "start": 9.56,
+          "end": 9.76,
+          "probability": 0.68
+        },
+        {
+          "word": "trạm",
+          "start": 9.76,
+          "end": 9.96,
+          "probability": 0.57
+        },
+        {
+          "word": "tu",
+          "start": 9.96,
+          "end": 10.14,
+          "probability": 0.31
+        },
+        {
+          "word": "vi",
+          "start": 10.14,
+          "end": 10.28,
+          "probability": 0.1
+        },
+        {
+          "word": "lòng",
+          "start": 10.28,
+          "end": 10.44,
+          "probability": 0.35
+        },
+        {
+          "word": "vức,",
+          "start": 10.44,
+          "end": 10.72,
+          "probability": 0.62
+        },
+        {
+          "word": "kính",
+          "start": 10.88,
+          "end": 10.96,
+          "probability": 0.83
+        },
+        {
+          "word": "xa",
+          "start": 10.96,
+          "end": 11.06,
+          "probability": 0.99
+        },
+        {
+          "word": "dọ",
+          "start": 11.06,
+          "end": 11.36,
+          "probability": 0.97
+        },
+        {
+          "word": "thông",
+          "start": 11.36,
+          "end": 11.4,
+          "probability": 0.94
+        },
+        {
+          "word": "dừng",
+          "start": 11.4,
+          "end": 11.66,
+          "probability": 0.46
+        },
+        {
+          "word": "phương",
+          "start": 11.66,
+          "end": 11.86,
+          "probability": 0.73
+        },
+        {
+          "word": "tệ",
+          "start": 11.86,
+          "end": 12.0,
+          "probability": 0.76
+        },
+        {
+          "word": "để",
+          "start": 12.0,
+          "end": 12.22,
+          "probability": 0.66
+        },
+        {
+          "word": "kính",
+          "start": 12.22,
+          "end": 12.38,
+          "probability": 0.42
+        },
+        {
+          "word": "ra.",
+          "start": 12.38,
+          "end": 12.62,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.32,
+      "end": 18.62,
+      "text": "Nhưu trường giúp khác, cộng được phát hiện theo cách tương tự và chỉ khoảng ani vụt sau khi anh đi bị phạm được kì hình tại nút sau,",
+      "words": [
+        {
+          "word": "Nhưu",
+          "start": 13.32,
+          "end": 13.62,
+          "probability": 0.38
+        },
+        {
+          "word": "trường",
+          "start": 13.62,
+          "end": 13.62,
+          "probability": 0.27
+        },
+        {
+          "word": "giúp",
+          "start": 13.62,
+          "end": 13.8,
+          "probability": 0.4
+        },
+        {
+          "word": "khác,",
+          "start": 13.8,
+          "end": 14.04,
+          "probability": 0.67
+        },
+        {
+          "word": "cộng",
+          "start": 14.14,
+          "end": 14.24,
+          "probability": 0.36
+        },
+        {
+          "word": "được",
+          "start": 14.24,
+          "end": 14.36,
+          "probability": 0.52
+        },
+        {
+          "word": "phát",
+          "start": 14.36,
+          "end": 14.58,
+          "probability": 0.78
+        },
+        {
+          "word": "hiện",
+          "start": 14.58,
+          "end": 14.72,
+          "probability": 0.96
+        },
+        {
+          "word": "theo",
+          "start": 14.72,
+          "end": 14.9,
+          "probability": 0.5
+        },
+        {
+          "word": "cách",
+          "start": 14.9,
+          "end": 15.06,
+          "probability": 0.57
+        },
+        {
+          "word": "tương",
+          "start": 15.06,
+          "end": 15.28,
+          "probability": 0.36
+        },
+        {
+          "word": "tự",
+          "start": 15.28,
+          "end": 15.4,
+          "probability": 0.79
+        },
+        {
+          "word": "và",
+          "start": 15.4,
+          "end": 15.64,
+          "probability": 0.87
+        },
+        {
+          "word": "chỉ",
+          "start": 15.64,
+          "end": 15.84,
+          "probability": 0.7
+        },
+        {
+          "word": "khoảng",
+          "start": 15.84,
+          "end": 16.04,
+          "probability": 0.82
+        },
+        {
+          "word": "ani",
+          "start": 16.04,
+          "end": 16.3,
+          "probability": 0.68
+        },
+        {
+          "word": "vụt",
+          "start": 16.3,
+          "end": 16.52,
+          "probability": 0.9
+        },
+        {
+          "word": "sau",
+          "start": 16.52,
+          "end": 16.74,
+          "probability": 0.97
+        },
+        {
+          "word": "khi",
+          "start": 16.74,
+          "end": 16.88,
+          "probability": 0.95
+        },
+        {
+          "word": "anh",
+          "start": 16.88,
+          "end": 17.0,
+          "probability": 0.74
+        },
+        {
+          "word": "đi",
+          "start": 17.0,
+          "end": 17.14,
+          "probability": 0.23
+        },
+        {
+          "word": "bị",
+          "start": 17.14,
+          "end": 17.3,
+          "probability": 0.15
+        },
+        {
+          "word": "phạm",
+          "start": 17.3,
+          "end": 17.44,
+          "probability": 0.56
+        },
+        {
+          "word": "được",
+          "start": 17.44,
+          "end": 17.68,
+          "probability": 0.84
+        },
+        {
+          "word": "kì",
+          "start": 17.68,
+          "end": 17.8,
+          "probability": 0.42
+        },
+        {
+          "word": "hình",
+          "start": 17.8,
+          "end": 17.9,
+          "probability": 0.89
+        },
+        {
+          "word": "tại",
+          "start": 17.9,
+          "end": 18.04,
+          "probability": 0.39
+        },
+        {
+          "word": "nút",
+          "start": 18.04,
+          "end": 18.22,
+          "probability": 0.46
+        },
+        {
+          "word": "sau,",
+          "start": 18.22,
+          "end": 18.62,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 18.98,
+      "end": 21.7,
+      "text": "phương tệ là bị kính xa dọ thông dừng tại trạm tu vi lòng vức.",
+      "words": [
+        {
+          "word": "phương",
+          "start": 18.98,
+          "end": 19.0,
+          "probability": 0.95
+        },
+        {
+          "word": "tệ",
+          "start": 19.0,
+          "end": 19.16,
+          "probability": 0.93
+        },
+        {
+          "word": "là",
+          "start": 19.16,
+          "end": 19.38,
+          "probability": 0.39
+        },
+        {
+          "word": "bị",
+          "start": 19.38,
+          "end": 19.54,
+          "probability": 0.47
+        },
+        {
+          "word": "kính",
+          "start": 19.54,
+          "end": 19.66,
+          "probability": 0.84
+        },
+        {
+          "word": "xa",
+          "start": 19.66,
+          "end": 19.76,
+          "probability": 0.99
+        },
+        {
+          "word": "dọ",
+          "start": 19.76,
+          "end": 20.06,
+          "probability": 0.93
+        },
+        {
+          "word": "thông",
+          "start": 20.06,
+          "end": 20.14,
+          "probability": 0.73
+        },
+        {
+          "word": "dừng",
+          "start": 20.14,
+          "end": 20.5,
+          "probability": 0.91
+        },
+        {
+          "word": "tại",
+          "start": 20.5,
+          "end": 20.68,
+          "probability": 0.8
+        },
+        {
+          "word": "trạm",
+          "start": 20.68,
+          "end": 20.86,
+          "probability": 0.99
+        },
+        {
+          "word": "tu",
+          "start": 20.86,
+          "end": 21.04,
+          "probability": 0.99
+        },
+        {
+          "word": "vi",
+          "start": 21.04,
+          "end": 21.22,
+          "probability": 0.94
+        },
+        {
+          "word": "lòng",
+          "start": 21.22,
+          "end": 21.3,
+          "probability": 0.97
+        },
+        {
+          "word": "vức.",
+          "start": 21.3,
+          "end": 21.7,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 21.7,
+      "end": 25.68,
+      "text": "Chứ bỏ kính xa dọ thông cộng lên tục phát hiện các phương tệnh vi giả lối tình tự.",
+      "words": [
+        {
+          "word": "Chứ",
+          "start": 21.7,
+          "end": 22.24,
+          "probability": 0.36
+        },
+        {
+          "word": "bỏ",
+          "start": 22.24,
+          "end": 22.46,
+          "probability": 0.48
+        },
+        {
+          "word": "kính",
+          "start": 22.46,
+          "end": 22.64,
+          "probability": 0.46
+        },
+        {
+          "word": "xa",
+          "start": 22.64,
+          "end": 22.78,
+          "probability": 0.34
+        },
+        {
+          "word": "dọ",
+          "start": 22.78,
+          "end": 22.96,
+          "probability": 0.18
+        },
+        {
+          "word": "thông",
+          "start": 22.96,
+          "end": 23.12,
+          "probability": 0.31
+        },
+        {
+          "word": "cộng",
+          "start": 23.12,
+          "end": 23.32,
+          "probability": 0.6
+        },
+        {
+          "word": "lên",
+          "start": 23.32,
+          "end": 23.46,
+          "probability": 0.93
+        },
+        {
+          "word": "tục",
+          "start": 23.46,
+          "end": 23.62,
+          "probability": 0.79
+        },
+        {
+          "word": "phát",
+          "start": 23.62,
+          "end": 23.82,
+          "probability": 0.89
+        },
+        {
+          "word": "hiện",
+          "start": 23.82,
+          "end": 24.02,
+          "probability": 0.93
+        },
+        {
+          "word": "các",
+          "start": 24.02,
+          "end": 24.26,
+          "probability": 0.71
+        },
+        {
+          "word": "phương",
+          "start": 24.26,
+          "end": 24.44,
+          "probability": 0.79
+        },
+        {
+          "word": "tệnh",
+          "start": 24.44,
+          "end": 24.8,
+          "probability": 0.27
+        },
+        {
+          "word": "vi",
+          "start": 24.8,
+          "end": 24.84,
+          "probability": 0.39
+        },
+        {
+          "word": "giả",
+          "start": 24.84,
+          "end": 25.0,
+          "probability": 0.5
+        },
+        {
+          "word": "lối",
+          "start": 25.0,
+          "end": 25.24,
+          "probability": 0.63
+        },
+        {
+          "word": "tình",
+          "start": 25.24,
+          "end": 25.46,
+          "probability": 0.38
+        },
+        {
+          "word": "tự.",
+          "start": 25.46,
+          "end": 25.68,
+          "probability": 0.4
+        }
+      ]
+    }
+  ]
+}

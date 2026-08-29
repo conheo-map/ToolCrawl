@@ -1,0 +1,786 @@
+{
+  "item_id": "tt_7322401118703701249_04",
+  "duration_seconds": 29.85,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 116,
+  "text": "A và C để mức để choc được thống bây giờ để mức thế này, nó có thể ở đây, thì A và C nó phải là 2 số mà có tổng, nào 1 số chẳng. Được chứ, thì chỉ là 1 số chẳng, nó có tổng, nó có tổng, nó có tổng, nó có tổng. Nhưng vậy thì A và C nó sẽ cùng tính chẳng này. Hồi mà, cơm! Nếu mà, a chẳng thì sẽ chẳng, nó nên ở đây. Nhưng mà, cái chẳng một cái cộn đất nghĩ trưởng như sao? Cái này, chứa có tổng em này ra, tháng 2 cái tổng ở vùng có có số chẳng, và có số nè.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.96,
+      "text": "A và C để mức để choc được thống bây giờ để mức thế này,",
+      "words": [
+        {
+          "word": "A",
+          "start": 0.0,
+          "end": 0.5,
+          "probability": 0.23
+        },
+        {
+          "word": "và",
+          "start": 0.5,
+          "end": 0.66,
+          "probability": 0.55
+        },
+        {
+          "word": "C",
+          "start": 0.66,
+          "end": 0.8,
+          "probability": 0.63
+        },
+        {
+          "word": "để",
+          "start": 0.8,
+          "end": 1.0,
+          "probability": 0.64
+        },
+        {
+          "word": "mức",
+          "start": 1.0,
+          "end": 1.1,
+          "probability": 0.34
+        },
+        {
+          "word": "để",
+          "start": 1.1,
+          "end": 1.3,
+          "probability": 0.28
+        },
+        {
+          "word": "choc",
+          "start": 1.3,
+          "end": 1.54,
+          "probability": 0.17
+        },
+        {
+          "word": "được",
+          "start": 1.54,
+          "end": 1.62,
+          "probability": 0.22
+        },
+        {
+          "word": "thống",
+          "start": 1.62,
+          "end": 1.8,
+          "probability": 0.27
+        },
+        {
+          "word": "bây",
+          "start": 1.8,
+          "end": 2.04,
+          "probability": 0.51
+        },
+        {
+          "word": "giờ",
+          "start": 2.04,
+          "end": 2.2,
+          "probability": 0.33
+        },
+        {
+          "word": "để",
+          "start": 2.2,
+          "end": 2.42,
+          "probability": 0.11
+        },
+        {
+          "word": "mức",
+          "start": 2.42,
+          "end": 2.56,
+          "probability": 0.36
+        },
+        {
+          "word": "thế",
+          "start": 2.56,
+          "end": 2.78,
+          "probability": 0.17
+        },
+        {
+          "word": "này,",
+          "start": 2.78,
+          "end": 2.96,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.12,
+      "end": 6.86,
+      "text": "nó có thể ở đây, thì A và C nó phải là 2 số mà có tổng,",
+      "words": [
+        {
+          "word": "nó",
+          "start": 3.12,
+          "end": 3.12,
+          "probability": 0.2
+        },
+        {
+          "word": "có",
+          "start": 3.12,
+          "end": 3.18,
+          "probability": 0.13
+        },
+        {
+          "word": "thể",
+          "start": 3.18,
+          "end": 3.18,
+          "probability": 0.84
+        },
+        {
+          "word": "ở",
+          "start": 3.18,
+          "end": 3.18,
+          "probability": 0.04
+        },
+        {
+          "word": "đây,",
+          "start": 3.18,
+          "end": 3.32,
+          "probability": 0.12
+        },
+        {
+          "word": "thì",
+          "start": 3.66,
+          "end": 3.86,
+          "probability": 0.15
+        },
+        {
+          "word": "A",
+          "start": 3.86,
+          "end": 4.18,
+          "probability": 0.63
+        },
+        {
+          "word": "và",
+          "start": 4.18,
+          "end": 4.34,
+          "probability": 0.99
+        },
+        {
+          "word": "C",
+          "start": 4.34,
+          "end": 4.58,
+          "probability": 0.99
+        },
+        {
+          "word": "nó",
+          "start": 4.58,
+          "end": 4.74,
+          "probability": 0.24
+        },
+        {
+          "word": "phải",
+          "start": 4.74,
+          "end": 4.86,
+          "probability": 0.98
+        },
+        {
+          "word": "là",
+          "start": 4.86,
+          "end": 4.98,
+          "probability": 0.69
+        },
+        {
+          "word": "2",
+          "start": 4.98,
+          "end": 5.26,
+          "probability": 0.66
+        },
+        {
+          "word": "số",
+          "start": 5.26,
+          "end": 5.78,
+          "probability": 0.4
+        },
+        {
+          "word": "mà",
+          "start": 5.78,
+          "end": 6.28,
+          "probability": 0.57
+        },
+        {
+          "word": "có",
+          "start": 6.28,
+          "end": 6.46,
+          "probability": 0.86
+        },
+        {
+          "word": "tổng,",
+          "start": 6.46,
+          "end": 6.86,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.86,
+      "end": 7.84,
+      "text": "nào 1 số chẳng.",
+      "words": [
+        {
+          "word": "nào",
+          "start": 6.86,
+          "end": 7.06,
+          "probability": 0.12
+        },
+        {
+          "word": "1",
+          "start": 7.06,
+          "end": 7.12,
+          "probability": 0.55
+        },
+        {
+          "word": "số",
+          "start": 7.12,
+          "end": 7.32,
+          "probability": 0.91
+        },
+        {
+          "word": "chẳng.",
+          "start": 7.32,
+          "end": 7.84,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.18,
+      "end": 11.26,
+      "text": "Được chứ, thì chỉ là 1 số chẳng, nó có tổng, nó có tổng, nó có tổng, nó có tổng.",
+      "words": [
+        {
+          "word": "Được",
+          "start": 8.18,
+          "end": 8.3,
+          "probability": 0.32
+        },
+        {
+          "word": "chứ,",
+          "start": 8.3,
+          "end": 8.54,
+          "probability": 0.24
+        },
+        {
+          "word": "thì",
+          "start": 8.7,
+          "end": 8.98,
+          "probability": 0.56
+        },
+        {
+          "word": "chỉ",
+          "start": 8.98,
+          "end": 9.12,
+          "probability": 0.66
+        },
+        {
+          "word": "là",
+          "start": 9.12,
+          "end": 9.18,
+          "probability": 0.41
+        },
+        {
+          "word": "1",
+          "start": 9.18,
+          "end": 9.48,
+          "probability": 0.09
+        },
+        {
+          "word": "số",
+          "start": 9.48,
+          "end": 9.7,
+          "probability": 0.48
+        },
+        {
+          "word": "chẳng,",
+          "start": 9.7,
+          "end": 10.42,
+          "probability": 0.97
+        },
+        {
+          "word": "nó",
+          "start": 10.54,
+          "end": 10.9,
+          "probability": 0.61
+        },
+        {
+          "word": "có",
+          "start": 10.9,
+          "end": 10.9,
+          "probability": 0.31
+        },
+        {
+          "word": "tổng,",
+          "start": 10.9,
+          "end": 11.08,
+          "probability": 0.62
+        },
+        {
+          "word": "nó",
+          "start": 11.26,
+          "end": 11.26,
+          "probability": 0.17
+        },
+        {
+          "word": "có",
+          "start": 11.26,
+          "end": 11.26,
+          "probability": 0.27
+        },
+        {
+          "word": "tổng,",
+          "start": 11.26,
+          "end": 11.26,
+          "probability": 0.85
+        },
+        {
+          "word": "nó",
+          "start": 11.26,
+          "end": 11.26,
+          "probability": 0.42
+        },
+        {
+          "word": "có",
+          "start": 11.26,
+          "end": 11.26,
+          "probability": 0.43
+        },
+        {
+          "word": "tổng,",
+          "start": 11.26,
+          "end": 11.26,
+          "probability": 0.9
+        },
+        {
+          "word": "nó",
+          "start": 11.26,
+          "end": 11.26,
+          "probability": 0.8
+        },
+        {
+          "word": "có",
+          "start": 11.26,
+          "end": 11.26,
+          "probability": 0.69
+        },
+        {
+          "word": "tổng.",
+          "start": 11.26,
+          "end": 11.26,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.8,
+      "end": 16.04,
+      "text": "Nhưng vậy thì A và C nó sẽ cùng tính chẳng này.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 11.8,
+          "end": 12.18,
+          "probability": 0.26
+        },
+        {
+          "word": "vậy",
+          "start": 12.18,
+          "end": 12.3,
+          "probability": 0.33
+        },
+        {
+          "word": "thì",
+          "start": 12.3,
+          "end": 12.48,
+          "probability": 0.39
+        },
+        {
+          "word": "A",
+          "start": 12.48,
+          "end": 12.74,
+          "probability": 0.76
+        },
+        {
+          "word": "và",
+          "start": 12.74,
+          "end": 12.88,
+          "probability": 0.84
+        },
+        {
+          "word": "C",
+          "start": 12.88,
+          "end": 13.1,
+          "probability": 0.99
+        },
+        {
+          "word": "nó",
+          "start": 13.1,
+          "end": 13.4,
+          "probability": 0.22
+        },
+        {
+          "word": "sẽ",
+          "start": 13.4,
+          "end": 13.98,
+          "probability": 0.82
+        },
+        {
+          "word": "cùng",
+          "start": 13.98,
+          "end": 14.42,
+          "probability": 0.3
+        },
+        {
+          "word": "tính",
+          "start": 14.42,
+          "end": 15.22,
+          "probability": 0.59
+        },
+        {
+          "word": "chẳng",
+          "start": 15.22,
+          "end": 15.64,
+          "probability": 0.84
+        },
+        {
+          "word": "này.",
+          "start": 15.64,
+          "end": 16.04,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 16.46,
+      "end": 17.66,
+      "text": "Hồi mà, cơm!",
+      "words": [
+        {
+          "word": "Hồi",
+          "start": 16.46,
+          "end": 16.84,
+          "probability": 0.11
+        },
+        {
+          "word": "mà,",
+          "start": 16.84,
+          "end": 17.02,
+          "probability": 0.09
+        },
+        {
+          "word": "cơm!",
+          "start": 17.12,
+          "end": 17.66,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.96,
+      "end": 21.46,
+      "text": "Nếu mà, a chẳng thì sẽ chẳng, nó nên ở đây.",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 18.96,
+          "end": 19.34,
+          "probability": 0.73
+        },
+        {
+          "word": "mà,",
+          "start": 19.34,
+          "end": 19.72,
+          "probability": 0.97
+        },
+        {
+          "word": "a",
+          "start": 19.98,
+          "end": 19.98,
+          "probability": 0.13
+        },
+        {
+          "word": "chẳng",
+          "start": 19.98,
+          "end": 20.16,
+          "probability": 0.93
+        },
+        {
+          "word": "thì",
+          "start": 20.16,
+          "end": 20.36,
+          "probability": 0.34
+        },
+        {
+          "word": "sẽ",
+          "start": 20.36,
+          "end": 20.54,
+          "probability": 0.17
+        },
+        {
+          "word": "chẳng,",
+          "start": 20.54,
+          "end": 20.78,
+          "probability": 0.98
+        },
+        {
+          "word": "nó",
+          "start": 20.96,
+          "end": 21.0,
+          "probability": 0.26
+        },
+        {
+          "word": "nên",
+          "start": 21.0,
+          "end": 21.1,
+          "probability": 0.07
+        },
+        {
+          "word": "ở",
+          "start": 21.1,
+          "end": 21.24,
+          "probability": 0.29
+        },
+        {
+          "word": "đây.",
+          "start": 21.24,
+          "end": 21.46,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 22.02,
+      "end": 24.18,
+      "text": "Nhưng mà, cái chẳng một cái cộn đất nghĩ trưởng như sao?",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 22.02,
+          "end": 22.16,
+          "probability": 0.55
+        },
+        {
+          "word": "mà,",
+          "start": 22.16,
+          "end": 22.24,
+          "probability": 0.24
+        },
+        {
+          "word": "cái",
+          "start": 22.46,
+          "end": 22.46,
+          "probability": 0.12
+        },
+        {
+          "word": "chẳng",
+          "start": 22.46,
+          "end": 22.46,
+          "probability": 0.75
+        },
+        {
+          "word": "một",
+          "start": 22.46,
+          "end": 22.8,
+          "probability": 0.18
+        },
+        {
+          "word": "cái",
+          "start": 22.8,
+          "end": 22.98,
+          "probability": 0.24
+        },
+        {
+          "word": "cộn",
+          "start": 22.98,
+          "end": 23.28,
+          "probability": 0.13
+        },
+        {
+          "word": "đất",
+          "start": 23.28,
+          "end": 23.44,
+          "probability": 0.42
+        },
+        {
+          "word": "nghĩ",
+          "start": 23.44,
+          "end": 23.62,
+          "probability": 0.11
+        },
+        {
+          "word": "trưởng",
+          "start": 23.62,
+          "end": 23.78,
+          "probability": 0.24
+        },
+        {
+          "word": "như",
+          "start": 23.78,
+          "end": 23.9,
+          "probability": 0.88
+        },
+        {
+          "word": "sao?",
+          "start": 23.9,
+          "end": 24.18,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 24.72,
+      "end": 28.5,
+      "text": "Cái này, chứa có tổng em này ra, tháng 2 cái tổng ở vùng có có số chẳng,",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 24.72,
+          "end": 24.82,
+          "probability": 0.47
+        },
+        {
+          "word": "này,",
+          "start": 24.82,
+          "end": 24.94,
+          "probability": 0.71
+        },
+        {
+          "word": "chứa",
+          "start": 25.06,
+          "end": 25.22,
+          "probability": 0.25
+        },
+        {
+          "word": "có",
+          "start": 25.22,
+          "end": 25.36,
+          "probability": 0.45
+        },
+        {
+          "word": "tổng",
+          "start": 25.36,
+          "end": 25.44,
+          "probability": 0.82
+        },
+        {
+          "word": "em",
+          "start": 25.44,
+          "end": 25.62,
+          "probability": 0.27
+        },
+        {
+          "word": "này",
+          "start": 25.62,
+          "end": 25.76,
+          "probability": 0.63
+        },
+        {
+          "word": "ra,",
+          "start": 25.76,
+          "end": 25.98,
+          "probability": 0.72
+        },
+        {
+          "word": "tháng",
+          "start": 26.06,
+          "end": 26.4,
+          "probability": 0.2
+        },
+        {
+          "word": "2",
+          "start": 26.4,
+          "end": 26.88,
+          "probability": 0.67
+        },
+        {
+          "word": "cái",
+          "start": 26.88,
+          "end": 27.06,
+          "probability": 0.25
+        },
+        {
+          "word": "tổng",
+          "start": 27.06,
+          "end": 27.2,
+          "probability": 0.88
+        },
+        {
+          "word": "ở",
+          "start": 27.2,
+          "end": 27.68,
+          "probability": 0.11
+        },
+        {
+          "word": "vùng",
+          "start": 27.68,
+          "end": 27.82,
+          "probability": 0.12
+        },
+        {
+          "word": "có",
+          "start": 27.82,
+          "end": 27.98,
+          "probability": 0.15
+        },
+        {
+          "word": "có",
+          "start": 27.98,
+          "end": 28.1,
+          "probability": 0.19
+        },
+        {
+          "word": "số",
+          "start": 28.1,
+          "end": 28.24,
+          "probability": 0.55
+        },
+        {
+          "word": "chẳng,",
+          "start": 28.24,
+          "end": 28.5,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 28.5,
+      "end": 29.36,
+      "text": "và có số nè.",
+      "words": [
+        {
+          "word": "và",
+          "start": 28.5,
+          "end": 28.66,
+          "probability": 0.06
+        },
+        {
+          "word": "có",
+          "start": 28.66,
+          "end": 28.76,
+          "probability": 0.07
+        },
+        {
+          "word": "số",
+          "start": 28.76,
+          "end": 28.88,
+          "probability": 0.05
+        },
+        {
+          "word": "nè.",
+          "start": 28.88,
+          "end": 29.36,
+          "probability": 0.33
+        }
+      ]
+    }
+  ]
+}

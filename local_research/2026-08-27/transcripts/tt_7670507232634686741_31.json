@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7670507232634686741_31",
+  "duration_seconds": 28.45,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Ấn Ấn mắt không",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.66,
+      "end": 4.76,
+      "text": "Ấn Ấn mắt không",
+      "words": [
+        {
+          "word": "Ấn",
+          "start": 0.66,
+          "end": 1.04,
+          "probability": 0.37
+        },
+        {
+          "word": "Ấn",
+          "start": 1.04,
+          "end": 1.04,
+          "probability": 0.65
+        },
+        {
+          "word": "mắt",
+          "start": 1.04,
+          "end": 2.46,
+          "probability": 0.02
+        },
+        {
+          "word": "không",
+          "start": 4.76,
+          "end": 4.76,
+          "probability": 0.27
+        }
+      ]
+    }
+  ]
+}

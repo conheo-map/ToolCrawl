@@ -1,0 +1,504 @@
+{
+  "item_id": "tt_7661498208891178261_06",
+  "duration_seconds": 26.42,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 73,
+  "text": "Tạo công bố kia nướng điểm, dành cho các ngon thề chắc chắn mục điểm, chắc chắn trường cũng sẽ vẻ một cái mức điểm sàng cho các chắn nè của tường luôn. Thế chắn trường chắn sẽ năng thông tin chân, các cái phương tình của nhà trường, cho mình phải kết bản con lúc ấy. Trong như thế, mình sẽ không chắc tiếp xúc quái hài hả? Cái phạm tí xynh.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 4.09,
+      "text": "Tạo công bố kia nướng điểm, dành cho các ngon thề chắc chắn mục điểm,",
+      "words": [
+        {
+          "word": "Tạo",
+          "start": 0.05,
+          "end": 0.39,
+          "probability": 0.12
+        },
+        {
+          "word": "công",
+          "start": 0.39,
+          "end": 0.71,
+          "probability": 0.76
+        },
+        {
+          "word": "bố",
+          "start": 0.71,
+          "end": 1.01,
+          "probability": 0.68
+        },
+        {
+          "word": "kia",
+          "start": 1.01,
+          "end": 1.39,
+          "probability": 0.31
+        },
+        {
+          "word": "nướng",
+          "start": 1.39,
+          "end": 1.69,
+          "probability": 0.52
+        },
+        {
+          "word": "điểm,",
+          "start": 1.69,
+          "end": 2.03,
+          "probability": 0.67
+        },
+        {
+          "word": "dành",
+          "start": 2.29,
+          "end": 2.29,
+          "probability": 0.46
+        },
+        {
+          "word": "cho",
+          "start": 2.29,
+          "end": 2.35,
+          "probability": 0.94
+        },
+        {
+          "word": "các",
+          "start": 2.35,
+          "end": 2.57,
+          "probability": 0.62
+        },
+        {
+          "word": "ngon",
+          "start": 2.57,
+          "end": 3.03,
+          "probability": 0.35
+        },
+        {
+          "word": "thề",
+          "start": 3.03,
+          "end": 3.33,
+          "probability": 0.16
+        },
+        {
+          "word": "chắc",
+          "start": 3.33,
+          "end": 3.65,
+          "probability": 0.39
+        },
+        {
+          "word": "chắn",
+          "start": 3.65,
+          "end": 3.71,
+          "probability": 0.86
+        },
+        {
+          "word": "mục",
+          "start": 3.71,
+          "end": 3.89,
+          "probability": 0.67
+        },
+        {
+          "word": "điểm,",
+          "start": 3.89,
+          "end": 4.09,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.29,
+      "end": 8.63,
+      "text": "chắc chắn trường cũng sẽ vẻ một cái mức điểm sàng cho các chắn nè của tường luôn.",
+      "words": [
+        {
+          "word": "chắc",
+          "start": 4.29,
+          "end": 4.49,
+          "probability": 0.55
+        },
+        {
+          "word": "chắn",
+          "start": 4.49,
+          "end": 4.51,
+          "probability": 0.75
+        },
+        {
+          "word": "trường",
+          "start": 4.51,
+          "end": 4.71,
+          "probability": 0.57
+        },
+        {
+          "word": "cũng",
+          "start": 4.71,
+          "end": 4.99,
+          "probability": 0.92
+        },
+        {
+          "word": "sẽ",
+          "start": 4.99,
+          "end": 5.33,
+          "probability": 0.23
+        },
+        {
+          "word": "vẻ",
+          "start": 5.33,
+          "end": 5.75,
+          "probability": 0.15
+        },
+        {
+          "word": "một",
+          "start": 5.75,
+          "end": 5.99,
+          "probability": 0.51
+        },
+        {
+          "word": "cái",
+          "start": 5.99,
+          "end": 6.15,
+          "probability": 0.66
+        },
+        {
+          "word": "mức",
+          "start": 6.15,
+          "end": 6.41,
+          "probability": 0.71
+        },
+        {
+          "word": "điểm",
+          "start": 6.41,
+          "end": 6.63,
+          "probability": 0.68
+        },
+        {
+          "word": "sàng",
+          "start": 6.63,
+          "end": 6.93,
+          "probability": 0.26
+        },
+        {
+          "word": "cho",
+          "start": 6.93,
+          "end": 7.17,
+          "probability": 0.48
+        },
+        {
+          "word": "các",
+          "start": 7.17,
+          "end": 7.41,
+          "probability": 0.95
+        },
+        {
+          "word": "chắn",
+          "start": 7.41,
+          "end": 7.63,
+          "probability": 0.75
+        },
+        {
+          "word": "nè",
+          "start": 7.63,
+          "end": 7.81,
+          "probability": 0.17
+        },
+        {
+          "word": "của",
+          "start": 7.81,
+          "end": 7.97,
+          "probability": 0.2
+        },
+        {
+          "word": "tường",
+          "start": 7.97,
+          "end": 8.19,
+          "probability": 0.2
+        },
+        {
+          "word": "luôn.",
+          "start": 8.19,
+          "end": 8.63,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.11,
+      "end": 13.33,
+      "text": "Thế chắn trường chắn sẽ năng thông tin chân,",
+      "words": [
+        {
+          "word": "Thế",
+          "start": 9.11,
+          "end": 9.13,
+          "probability": 0.56
+        },
+        {
+          "word": "chắn",
+          "start": 9.13,
+          "end": 9.59,
+          "probability": 0.58
+        },
+        {
+          "word": "trường",
+          "start": 9.59,
+          "end": 10.01,
+          "probability": 0.92
+        },
+        {
+          "word": "chắn",
+          "start": 10.01,
+          "end": 10.49,
+          "probability": 0.54
+        },
+        {
+          "word": "sẽ",
+          "start": 10.49,
+          "end": 11.39,
+          "probability": 0.88
+        },
+        {
+          "word": "năng",
+          "start": 11.39,
+          "end": 12.13,
+          "probability": 0.5
+        },
+        {
+          "word": "thông",
+          "start": 12.13,
+          "end": 12.39,
+          "probability": 0.68
+        },
+        {
+          "word": "tin",
+          "start": 12.39,
+          "end": 12.75,
+          "probability": 0.46
+        },
+        {
+          "word": "chân,",
+          "start": 12.75,
+          "end": 13.33,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.49,
+      "end": 15.17,
+      "text": "các cái phương tình của nhà trường,",
+      "words": [
+        {
+          "word": "các",
+          "start": 13.49,
+          "end": 13.71,
+          "probability": 0.4
+        },
+        {
+          "word": "cái",
+          "start": 13.71,
+          "end": 13.89,
+          "probability": 0.25
+        },
+        {
+          "word": "phương",
+          "start": 13.89,
+          "end": 14.05,
+          "probability": 0.55
+        },
+        {
+          "word": "tình",
+          "start": 14.05,
+          "end": 14.23,
+          "probability": 0.47
+        },
+        {
+          "word": "của",
+          "start": 14.23,
+          "end": 14.49,
+          "probability": 0.83
+        },
+        {
+          "word": "nhà",
+          "start": 14.49,
+          "end": 14.71,
+          "probability": 0.95
+        },
+        {
+          "word": "trường,",
+          "start": 14.71,
+          "end": 15.17,
+          "probability": 0.7
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.31,
+      "end": 17.39,
+      "text": "cho mình phải kết bản con lúc ấy.",
+      "words": [
+        {
+          "word": "cho",
+          "start": 15.31,
+          "end": 15.41,
+          "probability": 0.13
+        },
+        {
+          "word": "mình",
+          "start": 15.41,
+          "end": 15.49,
+          "probability": 0.21
+        },
+        {
+          "word": "phải",
+          "start": 15.49,
+          "end": 15.69,
+          "probability": 0.27
+        },
+        {
+          "word": "kết",
+          "start": 15.69,
+          "end": 15.89,
+          "probability": 0.58
+        },
+        {
+          "word": "bản",
+          "start": 15.89,
+          "end": 16.15,
+          "probability": 0.32
+        },
+        {
+          "word": "con",
+          "start": 16.15,
+          "end": 16.43,
+          "probability": 0.28
+        },
+        {
+          "word": "lúc",
+          "start": 16.43,
+          "end": 16.65,
+          "probability": 0.34
+        },
+        {
+          "word": "ấy.",
+          "start": 16.65,
+          "end": 17.39,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 18.13,
+      "end": 22.15,
+      "text": "Trong như thế, mình sẽ không chắc tiếp xúc quái hài hả?",
+      "words": [
+        {
+          "word": "Trong",
+          "start": 18.13,
+          "end": 18.19,
+          "probability": 0.35
+        },
+        {
+          "word": "như",
+          "start": 18.19,
+          "end": 18.33,
+          "probability": 0.11
+        },
+        {
+          "word": "thế,",
+          "start": 18.33,
+          "end": 18.59,
+          "probability": 0.07
+        },
+        {
+          "word": "mình",
+          "start": 19.19,
+          "end": 19.51,
+          "probability": 0.77
+        },
+        {
+          "word": "sẽ",
+          "start": 19.51,
+          "end": 20.45,
+          "probability": 0.21
+        },
+        {
+          "word": "không",
+          "start": 20.45,
+          "end": 20.53,
+          "probability": 0.26
+        },
+        {
+          "word": "chắc",
+          "start": 20.53,
+          "end": 20.65,
+          "probability": 0.4
+        },
+        {
+          "word": "tiếp",
+          "start": 20.65,
+          "end": 20.83,
+          "probability": 0.34
+        },
+        {
+          "word": "xúc",
+          "start": 20.83,
+          "end": 20.93,
+          "probability": 0.53
+        },
+        {
+          "word": "quái",
+          "start": 20.93,
+          "end": 21.15,
+          "probability": 0.23
+        },
+        {
+          "word": "hài",
+          "start": 21.15,
+          "end": 21.89,
+          "probability": 0.42
+        },
+        {
+          "word": "hả?",
+          "start": 21.89,
+          "end": 22.15,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 24.33,
+      "end": 26.35,
+      "text": "Cái phạm tí xynh.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 24.33,
+          "end": 25.17,
+          "probability": 0.12
+        },
+        {
+          "word": "phạm",
+          "start": 25.17,
+          "end": 25.75,
+          "probability": 0.27
+        },
+        {
+          "word": "tí",
+          "start": 25.75,
+          "end": 25.93,
+          "probability": 0.19
+        },
+        {
+          "word": "xynh.",
+          "start": 25.93,
+          "end": 26.35,
+          "probability": 0.4
+        }
+      ]
+    }
+  ]
+}

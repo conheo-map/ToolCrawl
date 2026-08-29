@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7637368367627701521_08",
+  "duration_seconds": 25.86,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Bà T'ay!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.35,
+      "end": 3.09,
+      "text": "Bà T'ay!",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 2.35,
+          "end": 2.65,
+          "probability": 0.21
+        },
+        {
+          "word": "T",
+          "start": 2.65,
+          "end": 2.89,
+          "probability": 0.16
+        },
+        {
+          "word": "'ay!",
+          "start": 2.89,
+          "end": 3.09,
+          "probability": 0.24
+        }
+      ]
+    }
+  ]
+}

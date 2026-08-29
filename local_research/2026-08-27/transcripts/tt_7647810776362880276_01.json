@@ -1,0 +1,570 @@
+{
+  "item_id": "tt_7647810776362880276_01",
+  "duration_seconds": 22.58,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 88,
+  "text": "Xin chào khu biết hắn giá của bắt nhìn thời tiết, mấy ngày này không biết là chỗ khu biết như thế nào. Thưa đây thì chơi cứ nán trở à mù, sống rồi lại mù dầm dễ. Không khí thì ngọt ngạc, quân án phởi ngoài không khô, khính, còn người ta chỉ muốn cũng luôn ở trong nhà. Nhưng có bị có để không, chính cái mù mưa nán ngồn ở này mới là lúc xúc hoán chúng ta, ai ai cũng có xúc hoa sịt.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.67,
+      "end": 6.41,
+      "text": "Xin chào khu biết hắn giá của bắt nhìn thời tiết, mấy ngày này không biết là chỗ khu biết như thế nào.",
+      "words": [
+        {
+          "word": "Xin",
+          "start": 2.67,
+          "end": 3.23,
+          "probability": 0.67
+        },
+        {
+          "word": "chào",
+          "start": 3.23,
+          "end": 3.33,
+          "probability": 0.85
+        },
+        {
+          "word": "khu",
+          "start": 3.33,
+          "end": 3.45,
+          "probability": 0.46
+        },
+        {
+          "word": "biết",
+          "start": 3.45,
+          "end": 3.53,
+          "probability": 0.19
+        },
+        {
+          "word": "hắn",
+          "start": 3.53,
+          "end": 3.71,
+          "probability": 0.22
+        },
+        {
+          "word": "giá",
+          "start": 3.71,
+          "end": 3.85,
+          "probability": 0.41
+        },
+        {
+          "word": "của",
+          "start": 3.85,
+          "end": 3.97,
+          "probability": 0.56
+        },
+        {
+          "word": "bắt",
+          "start": 3.97,
+          "end": 4.09,
+          "probability": 0.7
+        },
+        {
+          "word": "nhìn",
+          "start": 4.09,
+          "end": 4.19,
+          "probability": 0.38
+        },
+        {
+          "word": "thời",
+          "start": 4.19,
+          "end": 4.33,
+          "probability": 0.16
+        },
+        {
+          "word": "tiết,",
+          "start": 4.33,
+          "end": 4.59,
+          "probability": 0.79
+        },
+        {
+          "word": "mấy",
+          "start": 4.71,
+          "end": 4.83,
+          "probability": 0.69
+        },
+        {
+          "word": "ngày",
+          "start": 4.83,
+          "end": 4.95,
+          "probability": 0.81
+        },
+        {
+          "word": "này",
+          "start": 4.95,
+          "end": 5.11,
+          "probability": 0.58
+        },
+        {
+          "word": "không",
+          "start": 5.11,
+          "end": 5.21,
+          "probability": 0.83
+        },
+        {
+          "word": "biết",
+          "start": 5.21,
+          "end": 5.31,
+          "probability": 0.96
+        },
+        {
+          "word": "là",
+          "start": 5.31,
+          "end": 5.45,
+          "probability": 0.8
+        },
+        {
+          "word": "chỗ",
+          "start": 5.45,
+          "end": 5.63,
+          "probability": 0.73
+        },
+        {
+          "word": "khu",
+          "start": 5.63,
+          "end": 5.73,
+          "probability": 0.83
+        },
+        {
+          "word": "biết",
+          "start": 5.73,
+          "end": 5.81,
+          "probability": 0.42
+        },
+        {
+          "word": "như",
+          "start": 5.81,
+          "end": 5.95,
+          "probability": 0.41
+        },
+        {
+          "word": "thế",
+          "start": 5.95,
+          "end": 6.09,
+          "probability": 0.98
+        },
+        {
+          "word": "nào.",
+          "start": 6.09,
+          "end": 6.41,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.61,
+      "end": 10.79,
+      "text": "Thưa đây thì chơi cứ nán trở à mù, sống rồi lại mù dầm dễ.",
+      "words": [
+        {
+          "word": "Thưa",
+          "start": 6.61,
+          "end": 6.75,
+          "probability": 0.42
+        },
+        {
+          "word": "đây",
+          "start": 6.75,
+          "end": 7.01,
+          "probability": 0.64
+        },
+        {
+          "word": "thì",
+          "start": 7.01,
+          "end": 7.37,
+          "probability": 0.53
+        },
+        {
+          "word": "chơi",
+          "start": 7.37,
+          "end": 7.59,
+          "probability": 0.3
+        },
+        {
+          "word": "cứ",
+          "start": 7.59,
+          "end": 7.85,
+          "probability": 0.62
+        },
+        {
+          "word": "nán",
+          "start": 7.85,
+          "end": 8.13,
+          "probability": 0.32
+        },
+        {
+          "word": "trở",
+          "start": 8.13,
+          "end": 8.39,
+          "probability": 0.2
+        },
+        {
+          "word": "à",
+          "start": 8.39,
+          "end": 8.53,
+          "probability": 0.44
+        },
+        {
+          "word": "mù,",
+          "start": 8.53,
+          "end": 8.87,
+          "probability": 0.48
+        },
+        {
+          "word": "sống",
+          "start": 9.05,
+          "end": 9.37,
+          "probability": 0.38
+        },
+        {
+          "word": "rồi",
+          "start": 9.37,
+          "end": 9.79,
+          "probability": 0.42
+        },
+        {
+          "word": "lại",
+          "start": 9.79,
+          "end": 10.05,
+          "probability": 0.97
+        },
+        {
+          "word": "mù",
+          "start": 10.05,
+          "end": 10.19,
+          "probability": 0.48
+        },
+        {
+          "word": "dầm",
+          "start": 10.19,
+          "end": 10.35,
+          "probability": 0.57
+        },
+        {
+          "word": "dễ.",
+          "start": 10.35,
+          "end": 10.79,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.21,
+      "end": 15.83,
+      "text": "Không khí thì ngọt ngạc, quân án phởi ngoài không khô, khính, còn người ta chỉ muốn cũng luôn ở trong nhà.",
+      "words": [
+        {
+          "word": "Không",
+          "start": 11.21,
+          "end": 11.21,
+          "probability": 0.89
+        },
+        {
+          "word": "khí",
+          "start": 11.21,
+          "end": 11.39,
+          "probability": 0.35
+        },
+        {
+          "word": "thì",
+          "start": 11.39,
+          "end": 11.63,
+          "probability": 0.79
+        },
+        {
+          "word": "ngọt",
+          "start": 11.63,
+          "end": 11.83,
+          "probability": 0.62
+        },
+        {
+          "word": "ngạc,",
+          "start": 11.83,
+          "end": 12.27,
+          "probability": 0.55
+        },
+        {
+          "word": "quân",
+          "start": 12.41,
+          "end": 12.45,
+          "probability": 0.25
+        },
+        {
+          "word": "án",
+          "start": 12.45,
+          "end": 12.65,
+          "probability": 0.34
+        },
+        {
+          "word": "phởi",
+          "start": 12.65,
+          "end": 12.97,
+          "probability": 0.37
+        },
+        {
+          "word": "ngoài",
+          "start": 12.97,
+          "end": 13.07,
+          "probability": 0.68
+        },
+        {
+          "word": "không",
+          "start": 13.07,
+          "end": 13.23,
+          "probability": 0.86
+        },
+        {
+          "word": "khô,",
+          "start": 13.23,
+          "end": 13.49,
+          "probability": 0.65
+        },
+        {
+          "word": "khính,",
+          "start": 13.63,
+          "end": 13.87,
+          "probability": 0.43
+        },
+        {
+          "word": "còn",
+          "start": 14.03,
+          "end": 14.17,
+          "probability": 0.56
+        },
+        {
+          "word": "người",
+          "start": 14.17,
+          "end": 14.29,
+          "probability": 0.48
+        },
+        {
+          "word": "ta",
+          "start": 14.29,
+          "end": 14.43,
+          "probability": 0.94
+        },
+        {
+          "word": "chỉ",
+          "start": 14.43,
+          "end": 14.57,
+          "probability": 0.84
+        },
+        {
+          "word": "muốn",
+          "start": 14.57,
+          "end": 14.73,
+          "probability": 0.94
+        },
+        {
+          "word": "cũng",
+          "start": 14.73,
+          "end": 15.05,
+          "probability": 0.18
+        },
+        {
+          "word": "luôn",
+          "start": 15.05,
+          "end": 15.25,
+          "probability": 0.54
+        },
+        {
+          "word": "ở",
+          "start": 15.25,
+          "end": 15.43,
+          "probability": 0.63
+        },
+        {
+          "word": "trong",
+          "start": 15.43,
+          "end": 15.55,
+          "probability": 0.99
+        },
+        {
+          "word": "nhà.",
+          "start": 15.55,
+          "end": 15.83,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 16.67,
+      "end": 22.55,
+      "text": "Nhưng có bị có để không, chính cái mù mưa nán ngồn ở này mới là lúc xúc hoán chúng ta, ai ai cũng có xúc hoa sịt.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 16.67,
+          "end": 16.75,
+          "probability": 0.7
+        },
+        {
+          "word": "có",
+          "start": 16.75,
+          "end": 16.87,
+          "probability": 0.12
+        },
+        {
+          "word": "bị",
+          "start": 16.87,
+          "end": 17.01,
+          "probability": 0.16
+        },
+        {
+          "word": "có",
+          "start": 17.01,
+          "end": 17.09,
+          "probability": 0.44
+        },
+        {
+          "word": "để",
+          "start": 17.09,
+          "end": 17.23,
+          "probability": 0.28
+        },
+        {
+          "word": "không,",
+          "start": 17.23,
+          "end": 17.55,
+          "probability": 0.1
+        },
+        {
+          "word": "chính",
+          "start": 17.77,
+          "end": 17.93,
+          "probability": 0.37
+        },
+        {
+          "word": "cái",
+          "start": 17.93,
+          "end": 18.13,
+          "probability": 0.39
+        },
+        {
+          "word": "mù",
+          "start": 18.13,
+          "end": 18.37,
+          "probability": 0.81
+        },
+        {
+          "word": "mưa",
+          "start": 18.37,
+          "end": 18.61,
+          "probability": 0.51
+        },
+        {
+          "word": "nán",
+          "start": 18.61,
+          "end": 18.81,
+          "probability": 0.67
+        },
+        {
+          "word": "ngồn",
+          "start": 18.81,
+          "end": 19.17,
+          "probability": 0.37
+        },
+        {
+          "word": "ở",
+          "start": 19.17,
+          "end": 19.31,
+          "probability": 0.28
+        },
+        {
+          "word": "này",
+          "start": 19.31,
+          "end": 19.65,
+          "probability": 0.38
+        },
+        {
+          "word": "mới",
+          "start": 19.65,
+          "end": 19.89,
+          "probability": 0.86
+        },
+        {
+          "word": "là",
+          "start": 19.89,
+          "end": 20.03,
+          "probability": 0.97
+        },
+        {
+          "word": "lúc",
+          "start": 20.03,
+          "end": 20.23,
+          "probability": 0.75
+        },
+        {
+          "word": "xúc",
+          "start": 20.23,
+          "end": 20.45,
+          "probability": 0.73
+        },
+        {
+          "word": "hoán",
+          "start": 20.45,
+          "end": 20.65,
+          "probability": 0.16
+        },
+        {
+          "word": "chúng",
+          "start": 20.65,
+          "end": 20.81,
+          "probability": 0.57
+        },
+        {
+          "word": "ta,",
+          "start": 20.81,
+          "end": 21.17,
+          "probability": 1.0
+        },
+        {
+          "word": "ai",
+          "start": 21.21,
+          "end": 21.47,
+          "probability": 0.76
+        },
+        {
+          "word": "ai",
+          "start": 21.47,
+          "end": 21.63,
+          "probability": 0.27
+        },
+        {
+          "word": "cũng",
+          "start": 21.63,
+          "end": 21.81,
+          "probability": 0.92
+        },
+        {
+          "word": "có",
+          "start": 21.81,
+          "end": 22.05,
+          "probability": 0.2
+        },
+        {
+          "word": "xúc",
+          "start": 22.05,
+          "end": 22.15,
+          "probability": 0.56
+        },
+        {
+          "word": "hoa",
+          "start": 22.15,
+          "end": 22.31,
+          "probability": 0.19
+        },
+        {
+          "word": "sịt.",
+          "start": 22.31,
+          "end": 22.55,
+          "probability": 0.32
+        }
+      ]
+    }
+  ]
+}

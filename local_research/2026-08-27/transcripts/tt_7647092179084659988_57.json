@@ -1,0 +1,156 @@
+{
+  "item_id": "tt_7647092179084659988_57",
+  "duration_seconds": 29.9,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 19,
+  "text": "Tối bớn lúc mọi người hình Hãy tụi mình tình như hôm nay Hãy tụi mình Hãy tụi mình",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Tối bớn lúc mọi người hình",
+      "words": [
+        {
+          "word": "Tối",
+          "start": 0.0,
+          "end": 1.12,
+          "probability": 0.13
+        },
+        {
+          "word": "bớn",
+          "start": 1.12,
+          "end": 1.42,
+          "probability": 0.43
+        },
+        {
+          "word": "lúc",
+          "start": 1.42,
+          "end": 1.62,
+          "probability": 0.19
+        },
+        {
+          "word": "mọi",
+          "start": 1.62,
+          "end": 1.76,
+          "probability": 0.25
+        },
+        {
+          "word": "người",
+          "start": 1.76,
+          "end": 1.78,
+          "probability": 0.85
+        },
+        {
+          "word": "hình",
+          "start": 1.78,
+          "end": 2.2,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.2,
+      "end": 4.46,
+      "text": "Hãy tụi mình tình như hôm nay",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 2.2,
+          "end": 2.3,
+          "probability": 0.04
+        },
+        {
+          "word": "tụi",
+          "start": 2.3,
+          "end": 2.42,
+          "probability": 0.45
+        },
+        {
+          "word": "mình",
+          "start": 2.42,
+          "end": 2.82,
+          "probability": 0.06
+        },
+        {
+          "word": "tình",
+          "start": 2.82,
+          "end": 3.58,
+          "probability": 0.13
+        },
+        {
+          "word": "như",
+          "start": 3.58,
+          "end": 3.7,
+          "probability": 0.09
+        },
+        {
+          "word": "hôm",
+          "start": 3.7,
+          "end": 3.84,
+          "probability": 0.31
+        },
+        {
+          "word": "nay",
+          "start": 3.84,
+          "end": 4.46,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 22.19,
+      "end": 23.47,
+      "text": "Hãy tụi mình",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 22.19,
+          "end": 22.49,
+          "probability": 0.26
+        },
+        {
+          "word": "tụi",
+          "start": 22.49,
+          "end": 23.07,
+          "probability": 0.88
+        },
+        {
+          "word": "mình",
+          "start": 23.07,
+          "end": 23.47,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 23.47,
+      "end": 24.11,
+      "text": "Hãy tụi mình",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 23.47,
+          "end": 23.57,
+          "probability": 0.4
+        },
+        {
+          "word": "tụi",
+          "start": 23.57,
+          "end": 23.89,
+          "probability": 0.97
+        },
+        {
+          "word": "mình",
+          "start": 23.89,
+          "end": 24.11,
+          "probability": 0.82
+        }
+      ]
+    }
+  ]
+}

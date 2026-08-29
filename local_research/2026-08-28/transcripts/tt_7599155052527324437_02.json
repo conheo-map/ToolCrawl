@@ -1,0 +1,612 @@
+{
+  "item_id": "tt_7599155052527324437_02",
+  "duration_seconds": 27.32,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 83,
+  "text": "Đời chào, xem đường đi của lộ dài 1 cộng nâng từ R&C, sau theo các đường người và đổi hưởng đúng car lên. Đi ra R&C, giọc theo các đường người và game nhớ đổi hưởng đúng car lên. Ví xúc. Còn nhớ như thế này. 1 cộng nâng từ R&C. Tất cả, ở đây game thấy nó, nếu mà đi muốn đi đã R&C thì game phải đi 3 bên phải. 3 bên phải mới bước, và lên trên, nở bước.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.52,
+      "text": "Đời chào, xem đường đi của lộ dài 1 cộng nâng từ R&C,",
+      "words": [
+        {
+          "word": "Đời",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.09
+        },
+        {
+          "word": "chào,",
+          "start": 0.4,
+          "end": 0.52,
+          "probability": 0.35
+        },
+        {
+          "word": "xem",
+          "start": 0.94,
+          "end": 1.08,
+          "probability": 0.4
+        },
+        {
+          "word": "đường",
+          "start": 1.08,
+          "end": 1.26,
+          "probability": 0.49
+        },
+        {
+          "word": "đi",
+          "start": 1.26,
+          "end": 1.42,
+          "probability": 0.91
+        },
+        {
+          "word": "của",
+          "start": 1.42,
+          "end": 1.5,
+          "probability": 0.63
+        },
+        {
+          "word": "lộ",
+          "start": 1.5,
+          "end": 1.68,
+          "probability": 0.44
+        },
+        {
+          "word": "dài",
+          "start": 1.68,
+          "end": 1.8,
+          "probability": 0.52
+        },
+        {
+          "word": "1",
+          "start": 1.8,
+          "end": 2.04,
+          "probability": 0.41
+        },
+        {
+          "word": "cộng",
+          "start": 2.04,
+          "end": 2.3,
+          "probability": 0.47
+        },
+        {
+          "word": "nâng",
+          "start": 2.3,
+          "end": 2.68,
+          "probability": 0.56
+        },
+        {
+          "word": "từ",
+          "start": 2.68,
+          "end": 2.96,
+          "probability": 0.49
+        },
+        {
+          "word": "R",
+          "start": 2.96,
+          "end": 3.1,
+          "probability": 0.27
+        },
+        {
+          "word": "&C,",
+          "start": 3.1,
+          "end": 3.52,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.76,
+      "end": 6.54,
+      "text": "sau theo các đường người và đổi hưởng đúng car lên.",
+      "words": [
+        {
+          "word": "sau",
+          "start": 3.76,
+          "end": 3.76,
+          "probability": 0.15
+        },
+        {
+          "word": "theo",
+          "start": 3.76,
+          "end": 4.16,
+          "probability": 0.31
+        },
+        {
+          "word": "các",
+          "start": 4.16,
+          "end": 4.36,
+          "probability": 0.69
+        },
+        {
+          "word": "đường",
+          "start": 4.36,
+          "end": 4.54,
+          "probability": 0.86
+        },
+        {
+          "word": "người",
+          "start": 4.54,
+          "end": 4.88,
+          "probability": 0.34
+        },
+        {
+          "word": "và",
+          "start": 4.88,
+          "end": 5.36,
+          "probability": 0.41
+        },
+        {
+          "word": "đổi",
+          "start": 5.36,
+          "end": 5.54,
+          "probability": 0.58
+        },
+        {
+          "word": "hưởng",
+          "start": 5.54,
+          "end": 5.76,
+          "probability": 0.55
+        },
+        {
+          "word": "đúng",
+          "start": 5.76,
+          "end": 5.94,
+          "probability": 0.73
+        },
+        {
+          "word": "car",
+          "start": 5.94,
+          "end": 6.14,
+          "probability": 0.42
+        },
+        {
+          "word": "lên.",
+          "start": 6.14,
+          "end": 6.54,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.74,
+      "end": 10.6,
+      "text": "Đi ra R&C, giọc theo các đường người và game nhớ đổi hưởng đúng car lên.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 6.74,
+          "end": 6.84,
+          "probability": 0.24
+        },
+        {
+          "word": "ra",
+          "start": 6.84,
+          "end": 6.94,
+          "probability": 0.07
+        },
+        {
+          "word": "R",
+          "start": 6.94,
+          "end": 7.16,
+          "probability": 0.6
+        },
+        {
+          "word": "&C,",
+          "start": 7.16,
+          "end": 7.54,
+          "probability": 0.98
+        },
+        {
+          "word": "giọc",
+          "start": 7.82,
+          "end": 7.94,
+          "probability": 0.5
+        },
+        {
+          "word": "theo",
+          "start": 7.94,
+          "end": 8.12,
+          "probability": 0.97
+        },
+        {
+          "word": "các",
+          "start": 8.12,
+          "end": 8.3,
+          "probability": 0.89
+        },
+        {
+          "word": "đường",
+          "start": 8.3,
+          "end": 8.44,
+          "probability": 0.98
+        },
+        {
+          "word": "người",
+          "start": 8.44,
+          "end": 8.76,
+          "probability": 0.95
+        },
+        {
+          "word": "và",
+          "start": 8.76,
+          "end": 9.26,
+          "probability": 0.95
+        },
+        {
+          "word": "game",
+          "start": 9.26,
+          "end": 9.46,
+          "probability": 0.43
+        },
+        {
+          "word": "nhớ",
+          "start": 9.46,
+          "end": 9.64,
+          "probability": 0.58
+        },
+        {
+          "word": "đổi",
+          "start": 9.64,
+          "end": 9.78,
+          "probability": 0.84
+        },
+        {
+          "word": "hưởng",
+          "start": 9.78,
+          "end": 9.98,
+          "probability": 0.95
+        },
+        {
+          "word": "đúng",
+          "start": 9.98,
+          "end": 10.12,
+          "probability": 0.99
+        },
+        {
+          "word": "car",
+          "start": 10.12,
+          "end": 10.32,
+          "probability": 0.96
+        },
+        {
+          "word": "lên.",
+          "start": 10.32,
+          "end": 10.6,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.7,
+      "end": 11.62,
+      "text": "Ví xúc.",
+      "words": [
+        {
+          "word": "Ví",
+          "start": 10.7,
+          "end": 10.72,
+          "probability": 0.56
+        },
+        {
+          "word": "xúc.",
+          "start": 10.72,
+          "end": 11.62,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.08,
+      "end": 14.02,
+      "text": "Còn nhớ như thế này.",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 13.08,
+          "end": 13.16,
+          "probability": 0.66
+        },
+        {
+          "word": "nhớ",
+          "start": 13.16,
+          "end": 13.3,
+          "probability": 0.64
+        },
+        {
+          "word": "như",
+          "start": 13.3,
+          "end": 13.42,
+          "probability": 0.2
+        },
+        {
+          "word": "thế",
+          "start": 13.42,
+          "end": 13.56,
+          "probability": 0.82
+        },
+        {
+          "word": "này.",
+          "start": 13.56,
+          "end": 14.02,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.54,
+      "end": 16.3,
+      "text": "1 cộng nâng từ R&C.",
+      "words": [
+        {
+          "word": "1",
+          "start": 14.54,
+          "end": 14.72,
+          "probability": 0.84
+        },
+        {
+          "word": "cộng",
+          "start": 14.72,
+          "end": 14.98,
+          "probability": 0.97
+        },
+        {
+          "word": "nâng",
+          "start": 14.98,
+          "end": 15.22,
+          "probability": 0.96
+        },
+        {
+          "word": "từ",
+          "start": 15.22,
+          "end": 15.32,
+          "probability": 0.95
+        },
+        {
+          "word": "R",
+          "start": 15.32,
+          "end": 15.6,
+          "probability": 1.0
+        },
+        {
+          "word": "&C.",
+          "start": 15.6,
+          "end": 16.3,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 16.78,
+      "end": 18.58,
+      "text": "Tất cả, ở đây game thấy nó,",
+      "words": [
+        {
+          "word": "Tất",
+          "start": 16.78,
+          "end": 16.88,
+          "probability": 0.54
+        },
+        {
+          "word": "cả,",
+          "start": 16.88,
+          "end": 16.98,
+          "probability": 0.61
+        },
+        {
+          "word": "ở",
+          "start": 17.28,
+          "end": 17.46,
+          "probability": 0.74
+        },
+        {
+          "word": "đây",
+          "start": 17.46,
+          "end": 17.56,
+          "probability": 0.95
+        },
+        {
+          "word": "game",
+          "start": 17.56,
+          "end": 17.8,
+          "probability": 0.87
+        },
+        {
+          "word": "thấy",
+          "start": 17.8,
+          "end": 17.96,
+          "probability": 0.45
+        },
+        {
+          "word": "nó,",
+          "start": 17.96,
+          "end": 18.58,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 18.86,
+      "end": 22.74,
+      "text": "nếu mà đi muốn đi đã R&C thì game phải đi",
+      "words": [
+        {
+          "word": "nếu",
+          "start": 18.86,
+          "end": 19.02,
+          "probability": 0.75
+        },
+        {
+          "word": "mà",
+          "start": 19.02,
+          "end": 19.16,
+          "probability": 0.88
+        },
+        {
+          "word": "đi",
+          "start": 19.16,
+          "end": 19.32,
+          "probability": 0.93
+        },
+        {
+          "word": "muốn",
+          "start": 19.32,
+          "end": 19.52,
+          "probability": 0.64
+        },
+        {
+          "word": "đi",
+          "start": 19.52,
+          "end": 19.68,
+          "probability": 0.99
+        },
+        {
+          "word": "đã",
+          "start": 19.68,
+          "end": 19.88,
+          "probability": 0.11
+        },
+        {
+          "word": "R",
+          "start": 19.88,
+          "end": 20.08,
+          "probability": 0.98
+        },
+        {
+          "word": "&C",
+          "start": 20.08,
+          "end": 20.34,
+          "probability": 0.99
+        },
+        {
+          "word": "thì",
+          "start": 20.34,
+          "end": 20.9,
+          "probability": 0.84
+        },
+        {
+          "word": "game",
+          "start": 20.9,
+          "end": 21.26,
+          "probability": 0.96
+        },
+        {
+          "word": "phải",
+          "start": 21.26,
+          "end": 21.64,
+          "probability": 0.63
+        },
+        {
+          "word": "đi",
+          "start": 21.64,
+          "end": 22.74,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 22.74,
+      "end": 23.78,
+      "text": "3 bên phải.",
+      "words": [
+        {
+          "word": "3",
+          "start": 22.74,
+          "end": 23.28,
+          "probability": 0.2
+        },
+        {
+          "word": "bên",
+          "start": 23.28,
+          "end": 23.48,
+          "probability": 0.38
+        },
+        {
+          "word": "phải.",
+          "start": 23.48,
+          "end": 23.78,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 24.46,
+      "end": 27.12,
+      "text": "3 bên phải mới bước, và lên trên, nở bước.",
+      "words": [
+        {
+          "word": "3",
+          "start": 24.46,
+          "end": 24.84,
+          "probability": 0.66
+        },
+        {
+          "word": "bên",
+          "start": 24.84,
+          "end": 25.02,
+          "probability": 1.0
+        },
+        {
+          "word": "phải",
+          "start": 25.02,
+          "end": 25.14,
+          "probability": 1.0
+        },
+        {
+          "word": "mới",
+          "start": 25.14,
+          "end": 25.28,
+          "probability": 0.6
+        },
+        {
+          "word": "bước,",
+          "start": 25.28,
+          "end": 25.76,
+          "probability": 0.56
+        },
+        {
+          "word": "và",
+          "start": 25.94,
+          "end": 26.0,
+          "probability": 0.55
+        },
+        {
+          "word": "lên",
+          "start": 26.0,
+          "end": 26.18,
+          "probability": 0.45
+        },
+        {
+          "word": "trên,",
+          "start": 26.18,
+          "end": 26.56,
+          "probability": 0.92
+        },
+        {
+          "word": "nở",
+          "start": 26.82,
+          "end": 26.88,
+          "probability": 0.34
+        },
+        {
+          "word": "bước.",
+          "start": 26.88,
+          "end": 27.12,
+          "probability": 0.61
+        }
+      ]
+    }
+  ]
+}

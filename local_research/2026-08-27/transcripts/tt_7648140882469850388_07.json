@@ -1,0 +1,320 @@
+{
+  "item_id": "tt_7648140882469850388_07",
+  "duration_seconds": 29.06,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 45,
+  "text": "Mình tượng nọc Không mong muốn sẽ có gì tưởng không như thế sẽ đà Múng như sẽ với các bạn Cái bạn đừng xem bất cứ phần gốc nèo nó ngàn gạng trái đều Bây giờ, học bán phứng đi vào đẹp của mình",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.12,
+      "text": "Mình tượng nọc",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.37
+        },
+        {
+          "word": "tượng",
+          "start": 0.22,
+          "end": 0.42,
+          "probability": 0.25
+        },
+        {
+          "word": "nọc",
+          "start": 0.42,
+          "end": 1.12,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.6,
+      "end": 3.9,
+      "text": "Không mong muốn sẽ có gì tưởng không như thế sẽ đà",
+      "words": [
+        {
+          "word": "Không",
+          "start": 1.6,
+          "end": 2.02,
+          "probability": 0.0
+        },
+        {
+          "word": "mong",
+          "start": 2.02,
+          "end": 2.28,
+          "probability": 0.56
+        },
+        {
+          "word": "muốn",
+          "start": 2.28,
+          "end": 2.54,
+          "probability": 0.48
+        },
+        {
+          "word": "sẽ",
+          "start": 2.54,
+          "end": 2.68,
+          "probability": 0.86
+        },
+        {
+          "word": "có",
+          "start": 2.68,
+          "end": 2.8,
+          "probability": 0.53
+        },
+        {
+          "word": "gì",
+          "start": 2.8,
+          "end": 2.9,
+          "probability": 0.17
+        },
+        {
+          "word": "tưởng",
+          "start": 2.9,
+          "end": 3.06,
+          "probability": 0.5
+        },
+        {
+          "word": "không",
+          "start": 3.06,
+          "end": 3.24,
+          "probability": 0.21
+        },
+        {
+          "word": "như",
+          "start": 3.24,
+          "end": 3.3,
+          "probability": 0.59
+        },
+        {
+          "word": "thế",
+          "start": 3.3,
+          "end": 3.46,
+          "probability": 0.99
+        },
+        {
+          "word": "sẽ",
+          "start": 3.46,
+          "end": 3.56,
+          "probability": 0.42
+        },
+        {
+          "word": "đà",
+          "start": 3.56,
+          "end": 3.9,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.92,
+      "end": 8.97,
+      "text": "Múng như sẽ với các bạn",
+      "words": [
+        {
+          "word": "Múng",
+          "start": 5.92,
+          "end": 6.34,
+          "probability": 0.03
+        },
+        {
+          "word": "như",
+          "start": 7.97,
+          "end": 8.21,
+          "probability": 0.45
+        },
+        {
+          "word": "sẽ",
+          "start": 8.21,
+          "end": 8.37,
+          "probability": 0.77
+        },
+        {
+          "word": "với",
+          "start": 8.37,
+          "end": 8.53,
+          "probability": 0.44
+        },
+        {
+          "word": "các",
+          "start": 8.53,
+          "end": 8.73,
+          "probability": 0.53
+        },
+        {
+          "word": "bạn",
+          "start": 8.73,
+          "end": 8.97,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.87,
+      "end": 18.27,
+      "text": "Cái bạn đừng xem bất cứ phần gốc nèo nó ngàn gạng trái đều",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 9.87,
+          "end": 10.29,
+          "probability": 0.24
+        },
+        {
+          "word": "bạn",
+          "start": 10.29,
+          "end": 10.55,
+          "probability": 0.92
+        },
+        {
+          "word": "đừng",
+          "start": 10.55,
+          "end": 10.81,
+          "probability": 0.59
+        },
+        {
+          "word": "xem",
+          "start": 10.81,
+          "end": 11.41,
+          "probability": 0.95
+        },
+        {
+          "word": "bất",
+          "start": 11.41,
+          "end": 12.25,
+          "probability": 0.66
+        },
+        {
+          "word": "cứ",
+          "start": 12.25,
+          "end": 12.45,
+          "probability": 0.27
+        },
+        {
+          "word": "phần",
+          "start": 12.45,
+          "end": 12.77,
+          "probability": 0.6
+        },
+        {
+          "word": "gốc",
+          "start": 12.77,
+          "end": 12.95,
+          "probability": 0.23
+        },
+        {
+          "word": "nèo",
+          "start": 12.95,
+          "end": 13.37,
+          "probability": 0.46
+        },
+        {
+          "word": "nó",
+          "start": 13.37,
+          "end": 13.63,
+          "probability": 0.39
+        },
+        {
+          "word": "ngàn",
+          "start": 13.63,
+          "end": 13.97,
+          "probability": 0.29
+        },
+        {
+          "word": "gạng",
+          "start": 17.33,
+          "end": 17.49,
+          "probability": 0.26
+        },
+        {
+          "word": "trái",
+          "start": 17.49,
+          "end": 17.67,
+          "probability": 0.68
+        },
+        {
+          "word": "đều",
+          "start": 17.67,
+          "end": 18.27,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 18.27,
+      "end": 22.43,
+      "text": "Bây giờ, học bán phứng đi vào đẹp của mình",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 18.27,
+          "end": 18.59,
+          "probability": 0.26
+        },
+        {
+          "word": "giờ,",
+          "start": 18.59,
+          "end": 18.85,
+          "probability": 0.23
+        },
+        {
+          "word": "học",
+          "start": 18.89,
+          "end": 19.13,
+          "probability": 0.16
+        },
+        {
+          "word": "bán",
+          "start": 21.31,
+          "end": 21.51,
+          "probability": 0.22
+        },
+        {
+          "word": "phứng",
+          "start": 21.51,
+          "end": 21.73,
+          "probability": 0.26
+        },
+        {
+          "word": "đi",
+          "start": 21.73,
+          "end": 21.89,
+          "probability": 0.54
+        },
+        {
+          "word": "vào",
+          "start": 21.89,
+          "end": 22.03,
+          "probability": 0.81
+        },
+        {
+          "word": "đẹp",
+          "start": 22.03,
+          "end": 22.23,
+          "probability": 0.63
+        },
+        {
+          "word": "của",
+          "start": 22.23,
+          "end": 22.39,
+          "probability": 0.72
+        },
+        {
+          "word": "mình",
+          "start": 22.39,
+          "end": 22.43,
+          "probability": 0.99
+        }
+      ]
+    }
+  ]
+}

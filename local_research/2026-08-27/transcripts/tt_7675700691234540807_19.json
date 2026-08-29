@@ -1,0 +1,172 @@
+{
+  "item_id": "tt_7675700691234540807_19",
+  "duration_seconds": 17.2,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 23,
+  "text": "không thấy có bạn nghĩ là chúng ta đang mở về tốt nữa chỉ là em đã bỏ tốt đi thì thì nó",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.66,
+      "end": 3.52,
+      "text": "không thấy có bạn nghĩ là chúng ta đang mở về tốt nữa",
+      "words": [
+        {
+          "word": "không",
+          "start": 0.66,
+          "end": 0.96,
+          "probability": 0.12
+        },
+        {
+          "word": "thấy",
+          "start": 0.96,
+          "end": 1.28,
+          "probability": 0.58
+        },
+        {
+          "word": "có",
+          "start": 1.28,
+          "end": 1.5,
+          "probability": 0.6
+        },
+        {
+          "word": "bạn",
+          "start": 1.5,
+          "end": 1.8,
+          "probability": 0.35
+        },
+        {
+          "word": "nghĩ",
+          "start": 1.8,
+          "end": 2.04,
+          "probability": 0.78
+        },
+        {
+          "word": "là",
+          "start": 2.04,
+          "end": 2.34,
+          "probability": 0.15
+        },
+        {
+          "word": "chúng",
+          "start": 2.34,
+          "end": 2.5,
+          "probability": 0.13
+        },
+        {
+          "word": "ta",
+          "start": 2.5,
+          "end": 2.6,
+          "probability": 0.88
+        },
+        {
+          "word": "đang",
+          "start": 2.6,
+          "end": 2.76,
+          "probability": 0.79
+        },
+        {
+          "word": "mở",
+          "start": 2.76,
+          "end": 2.9,
+          "probability": 0.59
+        },
+        {
+          "word": "về",
+          "start": 2.9,
+          "end": 3.06,
+          "probability": 0.67
+        },
+        {
+          "word": "tốt",
+          "start": 3.06,
+          "end": 3.24,
+          "probability": 0.67
+        },
+        {
+          "word": "nữa",
+          "start": 3.24,
+          "end": 3.52,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.52,
+      "end": 7.2,
+      "text": "chỉ là em đã bỏ tốt đi thì",
+      "words": [
+        {
+          "word": "chỉ",
+          "start": 3.52,
+          "end": 3.72,
+          "probability": 0.02
+        },
+        {
+          "word": "là",
+          "start": 5.12,
+          "end": 5.22,
+          "probability": 0.41
+        },
+        {
+          "word": "em",
+          "start": 5.22,
+          "end": 5.44,
+          "probability": 0.48
+        },
+        {
+          "word": "đã",
+          "start": 5.44,
+          "end": 5.62,
+          "probability": 0.14
+        },
+        {
+          "word": "bỏ",
+          "start": 5.62,
+          "end": 5.86,
+          "probability": 0.84
+        },
+        {
+          "word": "tốt",
+          "start": 5.86,
+          "end": 6.16,
+          "probability": 0.46
+        },
+        {
+          "word": "đi",
+          "start": 6.16,
+          "end": 6.58,
+          "probability": 0.83
+        },
+        {
+          "word": "thì",
+          "start": 6.58,
+          "end": 7.2,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.71,
+      "end": 9.49,
+      "text": "thì nó",
+      "words": [
+        {
+          "word": "thì",
+          "start": 8.71,
+          "end": 9.01,
+          "probability": 0.09
+        },
+        {
+          "word": "nó",
+          "start": 9.01,
+          "end": 9.49,
+          "probability": 0.36
+        }
+      ]
+    }
+  ]
+}

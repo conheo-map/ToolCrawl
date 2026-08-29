@@ -1,0 +1,720 @@
+{
+  "item_id": "tt_7673826546880171284_03",
+  "duration_seconds": 26.24,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 109,
+  "text": "đến sáng người bột tháng tâm, kết đến vào động nghiệp không thể liên đặt được với nữ viên khu vĩnh này. Một giáo viên ở phòng bất cảnh cho biết sau bữa điên khoang, người này nghe tính kêu pháp xa từ phòng lạnh nhân. Tuy nhiên, kêu thầy đỏ trở gướl ứng, đến không sàng kiểm tra. Đến khoảng chính kia, nghe bị bột tháng tâm, mọi người phát hiện khá phốc xa từ phòng của nữ viên, khi bà kiểm tra họ không thấy nữ viên khu vĩnh này, mà chỉ phát hiện bột có nền trình dường và bột phần tủ cộng áo bị cháy.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.7,
+      "text": "đến sáng người bột tháng tâm, kết đến vào động nghiệp không thể liên đặt được với nữ viên khu vĩnh này.",
+      "words": [
+        {
+          "word": "đến",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.58
+        },
+        {
+          "word": "sáng",
+          "start": 0.44,
+          "end": 0.7,
+          "probability": 0.57
+        },
+        {
+          "word": "người",
+          "start": 0.7,
+          "end": 0.88,
+          "probability": 0.19
+        },
+        {
+          "word": "bột",
+          "start": 0.88,
+          "end": 0.98,
+          "probability": 0.52
+        },
+        {
+          "word": "tháng",
+          "start": 0.98,
+          "end": 1.16,
+          "probability": 0.7
+        },
+        {
+          "word": "tâm,",
+          "start": 1.16,
+          "end": 1.52,
+          "probability": 0.35
+        },
+        {
+          "word": "kết",
+          "start": 1.7,
+          "end": 1.72,
+          "probability": 0.46
+        },
+        {
+          "word": "đến",
+          "start": 1.72,
+          "end": 1.88,
+          "probability": 0.38
+        },
+        {
+          "word": "vào",
+          "start": 1.88,
+          "end": 2.0,
+          "probability": 0.52
+        },
+        {
+          "word": "động",
+          "start": 2.0,
+          "end": 2.2,
+          "probability": 0.36
+        },
+        {
+          "word": "nghiệp",
+          "start": 2.2,
+          "end": 2.34,
+          "probability": 0.75
+        },
+        {
+          "word": "không",
+          "start": 2.34,
+          "end": 2.6,
+          "probability": 0.93
+        },
+        {
+          "word": "thể",
+          "start": 2.6,
+          "end": 2.76,
+          "probability": 0.94
+        },
+        {
+          "word": "liên",
+          "start": 2.76,
+          "end": 2.9,
+          "probability": 0.53
+        },
+        {
+          "word": "đặt",
+          "start": 2.9,
+          "end": 3.1,
+          "probability": 0.56
+        },
+        {
+          "word": "được",
+          "start": 3.1,
+          "end": 3.32,
+          "probability": 0.5
+        },
+        {
+          "word": "với",
+          "start": 3.32,
+          "end": 3.48,
+          "probability": 0.85
+        },
+        {
+          "word": "nữ",
+          "start": 3.48,
+          "end": 3.76,
+          "probability": 0.74
+        },
+        {
+          "word": "viên",
+          "start": 3.76,
+          "end": 4.0,
+          "probability": 0.63
+        },
+        {
+          "word": "khu",
+          "start": 4.0,
+          "end": 4.18,
+          "probability": 0.42
+        },
+        {
+          "word": "vĩnh",
+          "start": 4.18,
+          "end": 4.42,
+          "probability": 0.49
+        },
+        {
+          "word": "này.",
+          "start": 4.42,
+          "end": 4.7,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.18,
+      "end": 7.64,
+      "text": "Một giáo viên ở phòng bất cảnh cho biết sau bữa điên khoang,",
+      "words": [
+        {
+          "word": "Một",
+          "start": 5.18,
+          "end": 5.22,
+          "probability": 0.84
+        },
+        {
+          "word": "giáo",
+          "start": 5.22,
+          "end": 5.38,
+          "probability": 0.35
+        },
+        {
+          "word": "viên",
+          "start": 5.38,
+          "end": 5.58,
+          "probability": 0.95
+        },
+        {
+          "word": "ở",
+          "start": 5.58,
+          "end": 5.8,
+          "probability": 0.61
+        },
+        {
+          "word": "phòng",
+          "start": 5.8,
+          "end": 5.98,
+          "probability": 0.77
+        },
+        {
+          "word": "bất",
+          "start": 5.98,
+          "end": 6.14,
+          "probability": 0.26
+        },
+        {
+          "word": "cảnh",
+          "start": 6.14,
+          "end": 6.4,
+          "probability": 0.86
+        },
+        {
+          "word": "cho",
+          "start": 6.4,
+          "end": 6.54,
+          "probability": 0.71
+        },
+        {
+          "word": "biết",
+          "start": 6.54,
+          "end": 6.82,
+          "probability": 0.92
+        },
+        {
+          "word": "sau",
+          "start": 6.82,
+          "end": 7.06,
+          "probability": 0.39
+        },
+        {
+          "word": "bữa",
+          "start": 7.06,
+          "end": 7.2,
+          "probability": 0.27
+        },
+        {
+          "word": "điên",
+          "start": 7.2,
+          "end": 7.38,
+          "probability": 0.58
+        },
+        {
+          "word": "khoang,",
+          "start": 7.38,
+          "end": 7.64,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.0,
+      "end": 10.74,
+      "text": "người này nghe tính kêu pháp xa từ phòng lạnh nhân.",
+      "words": [
+        {
+          "word": "người",
+          "start": 8.0,
+          "end": 8.08,
+          "probability": 0.83
+        },
+        {
+          "word": "này",
+          "start": 8.08,
+          "end": 8.28,
+          "probability": 0.6
+        },
+        {
+          "word": "nghe",
+          "start": 8.28,
+          "end": 8.6,
+          "probability": 0.41
+        },
+        {
+          "word": "tính",
+          "start": 8.6,
+          "end": 8.86,
+          "probability": 0.68
+        },
+        {
+          "word": "kêu",
+          "start": 8.86,
+          "end": 9.16,
+          "probability": 0.62
+        },
+        {
+          "word": "pháp",
+          "start": 9.16,
+          "end": 9.44,
+          "probability": 0.51
+        },
+        {
+          "word": "xa",
+          "start": 9.44,
+          "end": 9.66,
+          "probability": 0.56
+        },
+        {
+          "word": "từ",
+          "start": 9.66,
+          "end": 9.86,
+          "probability": 0.68
+        },
+        {
+          "word": "phòng",
+          "start": 9.86,
+          "end": 10.08,
+          "probability": 0.68
+        },
+        {
+          "word": "lạnh",
+          "start": 10.08,
+          "end": 10.28,
+          "probability": 0.47
+        },
+        {
+          "word": "nhân.",
+          "start": 10.28,
+          "end": 10.74,
+          "probability": 0.79
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.06,
+      "end": 14.1,
+      "text": "Tuy nhiên, kêu thầy đỏ trở gướl ứng, đến không sàng kiểm tra.",
+      "words": [
+        {
+          "word": "Tuy",
+          "start": 11.06,
+          "end": 11.22,
+          "probability": 0.63
+        },
+        {
+          "word": "nhiên,",
+          "start": 11.22,
+          "end": 11.38,
+          "probability": 0.99
+        },
+        {
+          "word": "kêu",
+          "start": 11.64,
+          "end": 11.7,
+          "probability": 0.69
+        },
+        {
+          "word": "thầy",
+          "start": 11.7,
+          "end": 11.9,
+          "probability": 0.46
+        },
+        {
+          "word": "đỏ",
+          "start": 11.9,
+          "end": 12.18,
+          "probability": 0.3
+        },
+        {
+          "word": "trở",
+          "start": 12.18,
+          "end": 12.48,
+          "probability": 0.64
+        },
+        {
+          "word": "gướl",
+          "start": 12.48,
+          "end": 12.7,
+          "probability": 0.25
+        },
+        {
+          "word": "ứng,",
+          "start": 12.7,
+          "end": 13.0,
+          "probability": 0.5
+        },
+        {
+          "word": "đến",
+          "start": 13.04,
+          "end": 13.24,
+          "probability": 0.32
+        },
+        {
+          "word": "không",
+          "start": 13.24,
+          "end": 13.44,
+          "probability": 0.68
+        },
+        {
+          "word": "sàng",
+          "start": 13.44,
+          "end": 13.64,
+          "probability": 0.39
+        },
+        {
+          "word": "kiểm",
+          "start": 13.64,
+          "end": 13.94,
+          "probability": 0.74
+        },
+        {
+          "word": "tra.",
+          "start": 13.94,
+          "end": 14.1,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.6,
+      "end": 19.4,
+      "text": "Đến khoảng chính kia, nghe bị bột tháng tâm, mọi người phát hiện khá phốc xa từ phòng của nữ viên,",
+      "words": [
+        {
+          "word": "Đến",
+          "start": 14.6,
+          "end": 14.74,
+          "probability": 0.74
+        },
+        {
+          "word": "khoảng",
+          "start": 14.74,
+          "end": 15.08,
+          "probability": 0.93
+        },
+        {
+          "word": "chính",
+          "start": 15.08,
+          "end": 15.36,
+          "probability": 0.68
+        },
+        {
+          "word": "kia,",
+          "start": 15.36,
+          "end": 15.62,
+          "probability": 0.29
+        },
+        {
+          "word": "nghe",
+          "start": 15.78,
+          "end": 15.98,
+          "probability": 0.74
+        },
+        {
+          "word": "bị",
+          "start": 15.98,
+          "end": 16.14,
+          "probability": 0.37
+        },
+        {
+          "word": "bột",
+          "start": 16.14,
+          "end": 16.24,
+          "probability": 0.97
+        },
+        {
+          "word": "tháng",
+          "start": 16.24,
+          "end": 16.4,
+          "probability": 0.99
+        },
+        {
+          "word": "tâm,",
+          "start": 16.4,
+          "end": 16.7,
+          "probability": 0.98
+        },
+        {
+          "word": "mọi",
+          "start": 16.86,
+          "end": 17.06,
+          "probability": 0.7
+        },
+        {
+          "word": "người",
+          "start": 17.06,
+          "end": 17.12,
+          "probability": 0.82
+        },
+        {
+          "word": "phát",
+          "start": 17.12,
+          "end": 17.32,
+          "probability": 0.53
+        },
+        {
+          "word": "hiện",
+          "start": 17.32,
+          "end": 17.48,
+          "probability": 0.96
+        },
+        {
+          "word": "khá",
+          "start": 17.48,
+          "end": 17.68,
+          "probability": 0.48
+        },
+        {
+          "word": "phốc",
+          "start": 17.68,
+          "end": 17.86,
+          "probability": 0.48
+        },
+        {
+          "word": "xa",
+          "start": 17.86,
+          "end": 18.08,
+          "probability": 0.78
+        },
+        {
+          "word": "từ",
+          "start": 18.08,
+          "end": 18.28,
+          "probability": 0.99
+        },
+        {
+          "word": "phòng",
+          "start": 18.28,
+          "end": 18.54,
+          "probability": 0.98
+        },
+        {
+          "word": "của",
+          "start": 18.54,
+          "end": 18.72,
+          "probability": 0.87
+        },
+        {
+          "word": "nữ",
+          "start": 18.72,
+          "end": 18.9,
+          "probability": 0.96
+        },
+        {
+          "word": "viên,",
+          "start": 18.9,
+          "end": 19.4,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 19.66,
+      "end": 22.06,
+      "text": "khi bà kiểm tra họ không thấy nữ viên khu vĩnh này,",
+      "words": [
+        {
+          "word": "khi",
+          "start": 19.66,
+          "end": 19.74,
+          "probability": 0.54
+        },
+        {
+          "word": "bà",
+          "start": 19.74,
+          "end": 19.84,
+          "probability": 0.36
+        },
+        {
+          "word": "kiểm",
+          "start": 19.84,
+          "end": 20.04,
+          "probability": 0.78
+        },
+        {
+          "word": "tra",
+          "start": 20.04,
+          "end": 20.34,
+          "probability": 0.99
+        },
+        {
+          "word": "họ",
+          "start": 20.34,
+          "end": 20.62,
+          "probability": 0.68
+        },
+        {
+          "word": "không",
+          "start": 20.62,
+          "end": 20.78,
+          "probability": 0.99
+        },
+        {
+          "word": "thấy",
+          "start": 20.78,
+          "end": 20.92,
+          "probability": 0.57
+        },
+        {
+          "word": "nữ",
+          "start": 20.92,
+          "end": 21.12,
+          "probability": 0.98
+        },
+        {
+          "word": "viên",
+          "start": 21.12,
+          "end": 21.36,
+          "probability": 0.89
+        },
+        {
+          "word": "khu",
+          "start": 21.36,
+          "end": 21.6,
+          "probability": 0.86
+        },
+        {
+          "word": "vĩnh",
+          "start": 21.6,
+          "end": 21.72,
+          "probability": 0.97
+        },
+        {
+          "word": "này,",
+          "start": 21.72,
+          "end": 22.06,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 22.26,
+      "end": 26.06,
+      "text": "mà chỉ phát hiện bột có nền trình dường và bột phần tủ cộng áo bị cháy.",
+      "words": [
+        {
+          "word": "mà",
+          "start": 22.26,
+          "end": 22.46,
+          "probability": 0.71
+        },
+        {
+          "word": "chỉ",
+          "start": 22.46,
+          "end": 22.62,
+          "probability": 0.91
+        },
+        {
+          "word": "phát",
+          "start": 22.62,
+          "end": 22.82,
+          "probability": 0.97
+        },
+        {
+          "word": "hiện",
+          "start": 22.82,
+          "end": 23.06,
+          "probability": 1.0
+        },
+        {
+          "word": "bột",
+          "start": 23.06,
+          "end": 23.26,
+          "probability": 0.65
+        },
+        {
+          "word": "có",
+          "start": 23.26,
+          "end": 23.5,
+          "probability": 0.28
+        },
+        {
+          "word": "nền",
+          "start": 23.5,
+          "end": 23.68,
+          "probability": 0.47
+        },
+        {
+          "word": "trình",
+          "start": 23.68,
+          "end": 23.92,
+          "probability": 0.56
+        },
+        {
+          "word": "dường",
+          "start": 23.92,
+          "end": 24.22,
+          "probability": 0.69
+        },
+        {
+          "word": "và",
+          "start": 24.22,
+          "end": 24.58,
+          "probability": 0.8
+        },
+        {
+          "word": "bột",
+          "start": 24.58,
+          "end": 24.8,
+          "probability": 0.25
+        },
+        {
+          "word": "phần",
+          "start": 24.8,
+          "end": 25.0,
+          "probability": 0.58
+        },
+        {
+          "word": "tủ",
+          "start": 25.0,
+          "end": 25.14,
+          "probability": 0.64
+        },
+        {
+          "word": "cộng",
+          "start": 25.14,
+          "end": 25.36,
+          "probability": 0.68
+        },
+        {
+          "word": "áo",
+          "start": 25.36,
+          "end": 25.58,
+          "probability": 0.89
+        },
+        {
+          "word": "bị",
+          "start": 25.58,
+          "end": 25.74,
+          "probability": 0.89
+        },
+        {
+          "word": "cháy.",
+          "start": 25.74,
+          "end": 26.06,
+          "probability": 0.42
+        }
+      ]
+    }
+  ]
+}

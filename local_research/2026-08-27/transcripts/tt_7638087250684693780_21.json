@@ -1,0 +1,844 @@
+{
+  "item_id": "tt_7638087250684693780_21",
+  "duration_seconds": 27.84,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 123,
+  "text": "Nhà, cái gì dụng đường dạ. Mọi giá em thấy lấy cái gì dụng khác. Vì dụng như là, mình tà sẽ lấy cái 1 xe xấu 1 năm này đi. Số nó cho nó là xe hết hay. Mọi là xe xấu 1 năm xe 1 hát luôn, xe xấu 1 năm xe 0 hát. Em cộng với thấy 1 hát, mình xe xấu 1 hát. Năm xe hết hay 0 hát đi, chẳng hát đi. Và đứng này, đứng bất là phải đứng tạo buổi. Nà, sít và hổ tụng bứng thôi. Đứng tạo xế là phải đứng thần gịch. Sút tạo em hết cộng và giật đồ nhá. Em chứ tạo xế tạo xế tây xấu 1 hát năm này.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.98,
+      "text": "Nhà, cái gì dụng đường dạ.",
+      "words": [
+        {
+          "word": "Nhà,",
+          "start": 0.0,
+          "end": 0.48,
+          "probability": 0.09
+        },
+        {
+          "word": "cái",
+          "start": 0.92,
+          "end": 0.92,
+          "probability": 0.12
+        },
+        {
+          "word": "gì",
+          "start": 0.92,
+          "end": 1.38,
+          "probability": 0.14
+        },
+        {
+          "word": "dụng",
+          "start": 1.38,
+          "end": 1.56,
+          "probability": 0.36
+        },
+        {
+          "word": "đường",
+          "start": 1.56,
+          "end": 1.76,
+          "probability": 0.45
+        },
+        {
+          "word": "dạ.",
+          "start": 1.76,
+          "end": 1.98,
+          "probability": 0.53
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.14,
+      "end": 3.56,
+      "text": "Mọi giá em thấy lấy cái gì dụng khác.",
+      "words": [
+        {
+          "word": "Mọi",
+          "start": 2.14,
+          "end": 2.22,
+          "probability": 0.36
+        },
+        {
+          "word": "giá",
+          "start": 2.22,
+          "end": 2.4,
+          "probability": 0.27
+        },
+        {
+          "word": "em",
+          "start": 2.4,
+          "end": 2.54,
+          "probability": 0.81
+        },
+        {
+          "word": "thấy",
+          "start": 2.54,
+          "end": 2.68,
+          "probability": 0.27
+        },
+        {
+          "word": "lấy",
+          "start": 2.68,
+          "end": 2.82,
+          "probability": 0.42
+        },
+        {
+          "word": "cái",
+          "start": 2.82,
+          "end": 2.98,
+          "probability": 0.48
+        },
+        {
+          "word": "gì",
+          "start": 2.98,
+          "end": 3.14,
+          "probability": 0.91
+        },
+        {
+          "word": "dụng",
+          "start": 3.14,
+          "end": 3.32,
+          "probability": 0.95
+        },
+        {
+          "word": "khác.",
+          "start": 3.32,
+          "end": 3.56,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.8,
+      "end": 6.96,
+      "text": "Vì dụng như là, mình tà sẽ lấy cái 1 xe xấu 1 năm này đi.",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 3.8,
+          "end": 3.8,
+          "probability": 0.21
+        },
+        {
+          "word": "dụng",
+          "start": 3.8,
+          "end": 3.8,
+          "probability": 0.81
+        },
+        {
+          "word": "như",
+          "start": 3.8,
+          "end": 4.1,
+          "probability": 0.83
+        },
+        {
+          "word": "là,",
+          "start": 4.1,
+          "end": 4.38,
+          "probability": 0.9
+        },
+        {
+          "word": "mình",
+          "start": 4.38,
+          "end": 4.52,
+          "probability": 0.13
+        },
+        {
+          "word": "tà",
+          "start": 4.52,
+          "end": 4.58,
+          "probability": 0.3
+        },
+        {
+          "word": "sẽ",
+          "start": 4.58,
+          "end": 4.7,
+          "probability": 0.88
+        },
+        {
+          "word": "lấy",
+          "start": 4.7,
+          "end": 4.86,
+          "probability": 0.95
+        },
+        {
+          "word": "cái",
+          "start": 4.86,
+          "end": 5.0,
+          "probability": 0.19
+        },
+        {
+          "word": "1",
+          "start": 5.0,
+          "end": 5.12,
+          "probability": 0.38
+        },
+        {
+          "word": "xe",
+          "start": 5.12,
+          "end": 5.78,
+          "probability": 0.29
+        },
+        {
+          "word": "xấu",
+          "start": 5.78,
+          "end": 6.24,
+          "probability": 0.36
+        },
+        {
+          "word": "1",
+          "start": 6.24,
+          "end": 6.52,
+          "probability": 0.42
+        },
+        {
+          "word": "năm",
+          "start": 6.52,
+          "end": 6.68,
+          "probability": 0.51
+        },
+        {
+          "word": "này",
+          "start": 6.68,
+          "end": 6.86,
+          "probability": 0.39
+        },
+        {
+          "word": "đi.",
+          "start": 6.86,
+          "end": 6.96,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.06,
+      "end": 8.42,
+      "text": "Số nó cho nó là xe hết hay.",
+      "words": [
+        {
+          "word": "Số",
+          "start": 7.06,
+          "end": 7.12,
+          "probability": 0.14
+        },
+        {
+          "word": "nó",
+          "start": 7.12,
+          "end": 7.24,
+          "probability": 0.08
+        },
+        {
+          "word": "cho",
+          "start": 7.24,
+          "end": 7.36,
+          "probability": 0.43
+        },
+        {
+          "word": "nó",
+          "start": 7.36,
+          "end": 7.4,
+          "probability": 0.36
+        },
+        {
+          "word": "là",
+          "start": 7.4,
+          "end": 7.56,
+          "probability": 0.19
+        },
+        {
+          "word": "xe",
+          "start": 7.56,
+          "end": 7.74,
+          "probability": 0.74
+        },
+        {
+          "word": "hết",
+          "start": 7.74,
+          "end": 7.96,
+          "probability": 0.14
+        },
+        {
+          "word": "hay.",
+          "start": 7.96,
+          "end": 8.42,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.5,
+      "end": 12.92,
+      "text": "Mọi là xe xấu 1 năm xe 1 hát luôn, xe xấu 1 năm xe 0 hát.",
+      "words": [
+        {
+          "word": "Mọi",
+          "start": 8.5,
+          "end": 8.74,
+          "probability": 0.3
+        },
+        {
+          "word": "là",
+          "start": 8.74,
+          "end": 8.78,
+          "probability": 0.5
+        },
+        {
+          "word": "xe",
+          "start": 8.78,
+          "end": 8.92,
+          "probability": 0.99
+        },
+        {
+          "word": "xấu",
+          "start": 8.92,
+          "end": 9.02,
+          "probability": 0.93
+        },
+        {
+          "word": "1",
+          "start": 9.02,
+          "end": 9.1,
+          "probability": 0.97
+        },
+        {
+          "word": "năm",
+          "start": 9.1,
+          "end": 9.3,
+          "probability": 0.95
+        },
+        {
+          "word": "xe",
+          "start": 9.3,
+          "end": 9.4,
+          "probability": 0.87
+        },
+        {
+          "word": "1",
+          "start": 9.4,
+          "end": 9.54,
+          "probability": 0.33
+        },
+        {
+          "word": "hát",
+          "start": 9.54,
+          "end": 9.68,
+          "probability": 0.61
+        },
+        {
+          "word": "luôn,",
+          "start": 9.68,
+          "end": 9.84,
+          "probability": 0.93
+        },
+        {
+          "word": "xe",
+          "start": 10.02,
+          "end": 10.12,
+          "probability": 0.84
+        },
+        {
+          "word": "xấu",
+          "start": 10.12,
+          "end": 10.28,
+          "probability": 0.98
+        },
+        {
+          "word": "1",
+          "start": 10.28,
+          "end": 10.42,
+          "probability": 0.97
+        },
+        {
+          "word": "năm",
+          "start": 10.42,
+          "end": 10.62,
+          "probability": 0.91
+        },
+        {
+          "word": "xe",
+          "start": 10.62,
+          "end": 11.64,
+          "probability": 0.97
+        },
+        {
+          "word": "0",
+          "start": 11.64,
+          "end": 12.7,
+          "probability": 0.44
+        },
+        {
+          "word": "hát.",
+          "start": 12.7,
+          "end": 12.92,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.36,
+      "end": 16.26,
+      "text": "Em cộng với thấy 1 hát, mình xe xấu 1 hát.",
+      "words": [
+        {
+          "word": "Em",
+          "start": 13.36,
+          "end": 13.7,
+          "probability": 0.33
+        },
+        {
+          "word": "cộng",
+          "start": 13.7,
+          "end": 13.86,
+          "probability": 0.44
+        },
+        {
+          "word": "với",
+          "start": 13.86,
+          "end": 14.0,
+          "probability": 0.11
+        },
+        {
+          "word": "thấy",
+          "start": 14.0,
+          "end": 14.12,
+          "probability": 0.33
+        },
+        {
+          "word": "1",
+          "start": 14.12,
+          "end": 14.28,
+          "probability": 0.96
+        },
+        {
+          "word": "hát,",
+          "start": 14.28,
+          "end": 14.56,
+          "probability": 0.66
+        },
+        {
+          "word": "mình",
+          "start": 15.5,
+          "end": 15.52,
+          "probability": 0.05
+        },
+        {
+          "word": "xe",
+          "start": 15.52,
+          "end": 15.52,
+          "probability": 0.56
+        },
+        {
+          "word": "xấu",
+          "start": 15.52,
+          "end": 15.98,
+          "probability": 0.92
+        },
+        {
+          "word": "1",
+          "start": 15.98,
+          "end": 16.24,
+          "probability": 0.86
+        },
+        {
+          "word": "hát.",
+          "start": 16.24,
+          "end": 16.26,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 16.72,
+      "end": 18.86,
+      "text": "Năm xe hết hay 0 hát đi, chẳng hát đi.",
+      "words": [
+        {
+          "word": "Năm",
+          "start": 16.72,
+          "end": 16.86,
+          "probability": 0.18
+        },
+        {
+          "word": "xe",
+          "start": 16.86,
+          "end": 17.18,
+          "probability": 0.97
+        },
+        {
+          "word": "hết",
+          "start": 17.18,
+          "end": 17.42,
+          "probability": 0.04
+        },
+        {
+          "word": "hay",
+          "start": 17.42,
+          "end": 17.78,
+          "probability": 0.78
+        },
+        {
+          "word": "0",
+          "start": 17.78,
+          "end": 18.02,
+          "probability": 0.14
+        },
+        {
+          "word": "hát",
+          "start": 18.02,
+          "end": 18.12,
+          "probability": 0.95
+        },
+        {
+          "word": "đi,",
+          "start": 18.12,
+          "end": 18.28,
+          "probability": 0.34
+        },
+        {
+          "word": "chẳng",
+          "start": 18.36,
+          "end": 18.36,
+          "probability": 0.59
+        },
+        {
+          "word": "hát",
+          "start": 18.36,
+          "end": 18.66,
+          "probability": 0.77
+        },
+        {
+          "word": "đi.",
+          "start": 18.66,
+          "end": 18.86,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 18.94,
+      "end": 20.32,
+      "text": "Và đứng này, đứng bất là phải đứng tạo buổi.",
+      "words": [
+        {
+          "word": "Và",
+          "start": 18.94,
+          "end": 18.94,
+          "probability": 0.45
+        },
+        {
+          "word": "đứng",
+          "start": 18.94,
+          "end": 19.1,
+          "probability": 0.5
+        },
+        {
+          "word": "này,",
+          "start": 19.1,
+          "end": 19.34,
+          "probability": 0.42
+        },
+        {
+          "word": "đứng",
+          "start": 19.6,
+          "end": 19.6,
+          "probability": 0.65
+        },
+        {
+          "word": "bất",
+          "start": 19.6,
+          "end": 19.74,
+          "probability": 0.46
+        },
+        {
+          "word": "là",
+          "start": 19.74,
+          "end": 19.76,
+          "probability": 0.18
+        },
+        {
+          "word": "phải",
+          "start": 19.76,
+          "end": 19.92,
+          "probability": 0.15
+        },
+        {
+          "word": "đứng",
+          "start": 19.92,
+          "end": 19.98,
+          "probability": 0.9
+        },
+        {
+          "word": "tạo",
+          "start": 19.98,
+          "end": 20.14,
+          "probability": 0.83
+        },
+        {
+          "word": "buổi.",
+          "start": 20.14,
+          "end": 20.32,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 20.48,
+      "end": 21.72,
+      "text": "Nà, sít và hổ tụng bứng thôi.",
+      "words": [
+        {
+          "word": "Nà,",
+          "start": 20.48,
+          "end": 20.54,
+          "probability": 0.22
+        },
+        {
+          "word": "sít",
+          "start": 20.54,
+          "end": 20.7,
+          "probability": 0.16
+        },
+        {
+          "word": "và",
+          "start": 20.7,
+          "end": 20.88,
+          "probability": 0.35
+        },
+        {
+          "word": "hổ",
+          "start": 20.88,
+          "end": 21.06,
+          "probability": 0.11
+        },
+        {
+          "word": "tụng",
+          "start": 21.06,
+          "end": 21.26,
+          "probability": 0.4
+        },
+        {
+          "word": "bứng",
+          "start": 21.26,
+          "end": 21.44,
+          "probability": 0.13
+        },
+        {
+          "word": "thôi.",
+          "start": 21.44,
+          "end": 21.72,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 22.08,
+      "end": 23.64,
+      "text": "Đứng tạo xế là phải đứng thần gịch.",
+      "words": [
+        {
+          "word": "Đứng",
+          "start": 22.08,
+          "end": 22.1,
+          "probability": 0.86
+        },
+        {
+          "word": "tạo",
+          "start": 22.1,
+          "end": 22.4,
+          "probability": 0.48
+        },
+        {
+          "word": "xế",
+          "start": 22.4,
+          "end": 22.54,
+          "probability": 0.28
+        },
+        {
+          "word": "là",
+          "start": 22.54,
+          "end": 22.7,
+          "probability": 0.72
+        },
+        {
+          "word": "phải",
+          "start": 22.7,
+          "end": 22.9,
+          "probability": 0.96
+        },
+        {
+          "word": "đứng",
+          "start": 22.9,
+          "end": 23.04,
+          "probability": 0.99
+        },
+        {
+          "word": "thần",
+          "start": 23.04,
+          "end": 23.26,
+          "probability": 0.35
+        },
+        {
+          "word": "gịch.",
+          "start": 23.26,
+          "end": 23.64,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 23.92,
+      "end": 26.02,
+      "text": "Sút tạo em hết cộng và giật đồ nhá.",
+      "words": [
+        {
+          "word": "Sút",
+          "start": 23.92,
+          "end": 24.08,
+          "probability": 0.25
+        },
+        {
+          "word": "tạo",
+          "start": 24.08,
+          "end": 24.26,
+          "probability": 0.44
+        },
+        {
+          "word": "em",
+          "start": 24.26,
+          "end": 24.44,
+          "probability": 0.95
+        },
+        {
+          "word": "hết",
+          "start": 24.44,
+          "end": 24.68,
+          "probability": 0.11
+        },
+        {
+          "word": "cộng",
+          "start": 24.68,
+          "end": 24.9,
+          "probability": 0.73
+        },
+        {
+          "word": "và",
+          "start": 24.9,
+          "end": 25.26,
+          "probability": 0.76
+        },
+        {
+          "word": "giật",
+          "start": 25.26,
+          "end": 25.4,
+          "probability": 0.35
+        },
+        {
+          "word": "đồ",
+          "start": 25.4,
+          "end": 25.52,
+          "probability": 0.25
+        },
+        {
+          "word": "nhá.",
+          "start": 25.52,
+          "end": 26.02,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 26.02,
+      "end": 27.72,
+      "text": "Em chứ tạo xế tạo xế tây xấu 1 hát năm này.",
+      "words": [
+        {
+          "word": "Em",
+          "start": 26.02,
+          "end": 26.18,
+          "probability": 0.09
+        },
+        {
+          "word": "chứ",
+          "start": 26.18,
+          "end": 26.28,
+          "probability": 0.24
+        },
+        {
+          "word": "tạo",
+          "start": 26.28,
+          "end": 26.4,
+          "probability": 0.47
+        },
+        {
+          "word": "xế",
+          "start": 26.4,
+          "end": 26.66,
+          "probability": 0.0
+        },
+        {
+          "word": "tạo",
+          "start": 26.66,
+          "end": 26.72,
+          "probability": 0.06
+        },
+        {
+          "word": "xế",
+          "start": 26.72,
+          "end": 26.76,
+          "probability": 0.53
+        },
+        {
+          "word": "tây",
+          "start": 26.76,
+          "end": 26.84,
+          "probability": 0.43
+        },
+        {
+          "word": "xấu",
+          "start": 26.84,
+          "end": 27.16,
+          "probability": 0.38
+        },
+        {
+          "word": "1",
+          "start": 27.16,
+          "end": 27.32,
+          "probability": 0.01
+        },
+        {
+          "word": "hát",
+          "start": 27.32,
+          "end": 27.34,
+          "probability": 0.33
+        },
+        {
+          "word": "năm",
+          "start": 27.34,
+          "end": 27.5,
+          "probability": 0.54
+        },
+        {
+          "word": "này.",
+          "start": 27.5,
+          "end": 27.72,
+          "probability": 0.78
+        }
+      ]
+    }
+  ]
+}

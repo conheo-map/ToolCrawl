@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7565761585252289809_02",
+  "duration_seconds": 15.46,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "đúng không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.54,
+      "text": "đúng không?",
+      "words": [
+        {
+          "word": "đúng",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.37
+        },
+        {
+          "word": "không?",
+          "start": 0.32,
+          "end": 0.54,
+          "probability": 0.73
+        }
+      ]
+    }
+  ]
+}

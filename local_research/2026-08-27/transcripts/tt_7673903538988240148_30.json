@@ -1,0 +1,590 @@
+{
+  "item_id": "tt_7673903538988240148_30",
+  "duration_seconds": 29.8,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 86,
+  "text": "Hôm kè, thôi mình đã được phẹn và phải chờ nó tàn đường cho nhạm. Tế phè là tình đẹp nó ngọt, nằm phục đánh hợp ký tất cả. Hôm kè, thôi lên kè tàn đường là mất bích chờ mối mình dấu chạy. Tế mần nó rất, nó mối rồi mình đã giữ chạy. Tế phè là mình đã thay mũm khắc chè dấu chạy. Cái bắt nào mình dây nữa. Nhưng là một chạy. Hồi lên là mình rất, một chạy nữa chạy nhạm.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.7,
+      "text": "Hôm kè, thôi mình đã được phẹn và phải chờ nó tàn đường cho nhạm.",
+      "words": [
+        {
+          "word": "Hôm",
+          "start": 0.0,
+          "end": 0.76,
+          "probability": 0.21
+        },
+        {
+          "word": "kè,",
+          "start": 0.76,
+          "end": 1.24,
+          "probability": 0.21
+        },
+        {
+          "word": "thôi",
+          "start": 1.82,
+          "end": 1.94,
+          "probability": 0.15
+        },
+        {
+          "word": "mình",
+          "start": 1.94,
+          "end": 2.18,
+          "probability": 0.65
+        },
+        {
+          "word": "đã",
+          "start": 2.18,
+          "end": 2.34,
+          "probability": 0.34
+        },
+        {
+          "word": "được",
+          "start": 2.34,
+          "end": 2.64,
+          "probability": 0.79
+        },
+        {
+          "word": "phẹn",
+          "start": 2.64,
+          "end": 3.04,
+          "probability": 0.45
+        },
+        {
+          "word": "và",
+          "start": 3.04,
+          "end": 3.44,
+          "probability": 0.6
+        },
+        {
+          "word": "phải",
+          "start": 3.44,
+          "end": 3.84,
+          "probability": 0.37
+        },
+        {
+          "word": "chờ",
+          "start": 3.84,
+          "end": 4.04,
+          "probability": 0.15
+        },
+        {
+          "word": "nó",
+          "start": 4.04,
+          "end": 4.22,
+          "probability": 0.43
+        },
+        {
+          "word": "tàn",
+          "start": 4.22,
+          "end": 4.5,
+          "probability": 0.24
+        },
+        {
+          "word": "đường",
+          "start": 4.5,
+          "end": 4.88,
+          "probability": 0.56
+        },
+        {
+          "word": "cho",
+          "start": 4.88,
+          "end": 5.34,
+          "probability": 0.37
+        },
+        {
+          "word": "nhạm.",
+          "start": 5.34,
+          "end": 5.7,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.5,
+      "end": 10.9,
+      "text": "Tế phè là tình đẹp nó ngọt, nằm phục đánh hợp ký tất cả.",
+      "words": [
+        {
+          "word": "Tế",
+          "start": 6.5,
+          "end": 6.72,
+          "probability": 0.21
+        },
+        {
+          "word": "phè",
+          "start": 6.72,
+          "end": 6.92,
+          "probability": 0.27
+        },
+        {
+          "word": "là",
+          "start": 6.92,
+          "end": 7.12,
+          "probability": 0.22
+        },
+        {
+          "word": "tình",
+          "start": 7.12,
+          "end": 7.3,
+          "probability": 0.32
+        },
+        {
+          "word": "đẹp",
+          "start": 7.3,
+          "end": 7.46,
+          "probability": 0.25
+        },
+        {
+          "word": "nó",
+          "start": 7.46,
+          "end": 7.68,
+          "probability": 0.49
+        },
+        {
+          "word": "ngọt,",
+          "start": 7.68,
+          "end": 8.04,
+          "probability": 0.33
+        },
+        {
+          "word": "nằm",
+          "start": 8.56,
+          "end": 9.02,
+          "probability": 0.54
+        },
+        {
+          "word": "phục",
+          "start": 9.02,
+          "end": 9.36,
+          "probability": 0.75
+        },
+        {
+          "word": "đánh",
+          "start": 9.36,
+          "end": 9.74,
+          "probability": 0.28
+        },
+        {
+          "word": "hợp",
+          "start": 9.74,
+          "end": 10.04,
+          "probability": 0.45
+        },
+        {
+          "word": "ký",
+          "start": 10.04,
+          "end": 10.2,
+          "probability": 0.32
+        },
+        {
+          "word": "tất",
+          "start": 10.2,
+          "end": 10.42,
+          "probability": 0.45
+        },
+        {
+          "word": "cả.",
+          "start": 10.42,
+          "end": 10.9,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.06,
+      "end": 16.88,
+      "text": "Hôm kè, thôi lên kè tàn đường là mất bích chờ mối mình dấu chạy.",
+      "words": [
+        {
+          "word": "Hôm",
+          "start": 12.06,
+          "end": 12.58,
+          "probability": 0.57
+        },
+        {
+          "word": "kè,",
+          "start": 12.58,
+          "end": 13.1,
+          "probability": 0.98
+        },
+        {
+          "word": "thôi",
+          "start": 13.14,
+          "end": 13.42,
+          "probability": 0.15
+        },
+        {
+          "word": "lên",
+          "start": 13.42,
+          "end": 13.66,
+          "probability": 0.52
+        },
+        {
+          "word": "kè",
+          "start": 13.66,
+          "end": 13.9,
+          "probability": 0.29
+        },
+        {
+          "word": "tàn",
+          "start": 13.9,
+          "end": 14.04,
+          "probability": 0.52
+        },
+        {
+          "word": "đường",
+          "start": 14.04,
+          "end": 14.22,
+          "probability": 0.95
+        },
+        {
+          "word": "là",
+          "start": 14.22,
+          "end": 14.48,
+          "probability": 0.16
+        },
+        {
+          "word": "mất",
+          "start": 14.48,
+          "end": 14.7,
+          "probability": 0.41
+        },
+        {
+          "word": "bích",
+          "start": 14.7,
+          "end": 15.08,
+          "probability": 0.39
+        },
+        {
+          "word": "chờ",
+          "start": 15.08,
+          "end": 15.4,
+          "probability": 0.63
+        },
+        {
+          "word": "mối",
+          "start": 15.4,
+          "end": 15.72,
+          "probability": 0.31
+        },
+        {
+          "word": "mình",
+          "start": 15.72,
+          "end": 16.08,
+          "probability": 0.76
+        },
+        {
+          "word": "dấu",
+          "start": 16.08,
+          "end": 16.5,
+          "probability": 0.39
+        },
+        {
+          "word": "chạy.",
+          "start": 16.5,
+          "end": 16.88,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 17.14,
+      "end": 20.34,
+      "text": "Tế mần nó rất, nó mối rồi mình đã giữ chạy.",
+      "words": [
+        {
+          "word": "Tế",
+          "start": 17.14,
+          "end": 17.28,
+          "probability": 0.74
+        },
+        {
+          "word": "mần",
+          "start": 17.28,
+          "end": 17.66,
+          "probability": 0.07
+        },
+        {
+          "word": "nó",
+          "start": 17.66,
+          "end": 17.88,
+          "probability": 0.62
+        },
+        {
+          "word": "rất,",
+          "start": 17.88,
+          "end": 18.22,
+          "probability": 0.07
+        },
+        {
+          "word": "nó",
+          "start": 18.24,
+          "end": 18.44,
+          "probability": 0.23
+        },
+        {
+          "word": "mối",
+          "start": 18.44,
+          "end": 18.66,
+          "probability": 0.76
+        },
+        {
+          "word": "rồi",
+          "start": 18.66,
+          "end": 18.86,
+          "probability": 0.66
+        },
+        {
+          "word": "mình",
+          "start": 18.86,
+          "end": 19.12,
+          "probability": 0.5
+        },
+        {
+          "word": "đã",
+          "start": 19.12,
+          "end": 19.24,
+          "probability": 0.51
+        },
+        {
+          "word": "giữ",
+          "start": 19.24,
+          "end": 19.6,
+          "probability": 0.48
+        },
+        {
+          "word": "chạy.",
+          "start": 19.6,
+          "end": 20.34,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 20.78,
+      "end": 23.04,
+      "text": "Tế phè là mình đã thay mũm khắc chè dấu chạy.",
+      "words": [
+        {
+          "word": "Tế",
+          "start": 20.78,
+          "end": 20.78,
+          "probability": 0.98
+        },
+        {
+          "word": "phè",
+          "start": 20.78,
+          "end": 20.98,
+          "probability": 0.93
+        },
+        {
+          "word": "là",
+          "start": 20.98,
+          "end": 21.22,
+          "probability": 0.93
+        },
+        {
+          "word": "mình",
+          "start": 21.22,
+          "end": 21.4,
+          "probability": 0.92
+        },
+        {
+          "word": "đã",
+          "start": 21.4,
+          "end": 21.5,
+          "probability": 0.51
+        },
+        {
+          "word": "thay",
+          "start": 21.5,
+          "end": 21.76,
+          "probability": 0.3
+        },
+        {
+          "word": "mũm",
+          "start": 21.76,
+          "end": 21.94,
+          "probability": 0.49
+        },
+        {
+          "word": "khắc",
+          "start": 21.94,
+          "end": 22.24,
+          "probability": 0.28
+        },
+        {
+          "word": "chè",
+          "start": 22.24,
+          "end": 22.44,
+          "probability": 0.41
+        },
+        {
+          "word": "dấu",
+          "start": 22.44,
+          "end": 22.7,
+          "probability": 0.76
+        },
+        {
+          "word": "chạy.",
+          "start": 22.7,
+          "end": 23.04,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.16,
+      "end": 24.6,
+      "text": "Cái bắt nào mình dây nữa.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 23.16,
+          "end": 23.36,
+          "probability": 0.22
+        },
+        {
+          "word": "bắt",
+          "start": 23.36,
+          "end": 23.48,
+          "probability": 0.41
+        },
+        {
+          "word": "nào",
+          "start": 23.48,
+          "end": 23.66,
+          "probability": 0.16
+        },
+        {
+          "word": "mình",
+          "start": 23.66,
+          "end": 23.88,
+          "probability": 0.91
+        },
+        {
+          "word": "dây",
+          "start": 23.88,
+          "end": 24.04,
+          "probability": 0.15
+        },
+        {
+          "word": "nữa.",
+          "start": 24.04,
+          "end": 24.6,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 24.6,
+      "end": 26.2,
+      "text": "Nhưng là một chạy.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 24.6,
+          "end": 25.04,
+          "probability": 0.23
+        },
+        {
+          "word": "là",
+          "start": 25.04,
+          "end": 25.42,
+          "probability": 0.07
+        },
+        {
+          "word": "một",
+          "start": 25.42,
+          "end": 25.7,
+          "probability": 0.39
+        },
+        {
+          "word": "chạy.",
+          "start": 25.7,
+          "end": 26.2,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 26.28,
+      "end": 29.58,
+      "text": "Hồi lên là mình rất, một chạy nữa chạy nhạm.",
+      "words": [
+        {
+          "word": "Hồi",
+          "start": 26.28,
+          "end": 26.48,
+          "probability": 0.12
+        },
+        {
+          "word": "lên",
+          "start": 26.48,
+          "end": 26.68,
+          "probability": 0.13
+        },
+        {
+          "word": "là",
+          "start": 26.68,
+          "end": 26.86,
+          "probability": 0.73
+        },
+        {
+          "word": "mình",
+          "start": 26.86,
+          "end": 27.08,
+          "probability": 0.77
+        },
+        {
+          "word": "rất,",
+          "start": 27.08,
+          "end": 27.46,
+          "probability": 0.13
+        },
+        {
+          "word": "một",
+          "start": 27.7,
+          "end": 27.72,
+          "probability": 0.28
+        },
+        {
+          "word": "chạy",
+          "start": 27.72,
+          "end": 28.08,
+          "probability": 0.94
+        },
+        {
+          "word": "nữa",
+          "start": 28.08,
+          "end": 28.42,
+          "probability": 0.13
+        },
+        {
+          "word": "chạy",
+          "start": 28.42,
+          "end": 29.34,
+          "probability": 0.74
+        },
+        {
+          "word": "nhạm.",
+          "start": 29.34,
+          "end": 29.58,
+          "probability": 0.41
+        }
+      ]
+    }
+  ]
+}

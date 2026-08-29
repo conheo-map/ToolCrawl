@@ -1,0 +1,344 @@
+{
+  "item_id": "tt_7281493139032984840_02",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 41,
+  "text": "Nhi chiên Anh Phuá Đỡ Mà Schröng Xin chiến đánh chút Ta nhất trăm châu Ta châu trà Châu trà dậy Châu trà dậy Tôi con là không, không? Thôi con là không? Châu trà! Châu trà dậy OK, ok, OK",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.37,
+      "end": 3.89,
+      "text": "Nhi chiên Anh Phuá Đỡ Mà Schröng",
+      "words": [
+        {
+          "word": "Nhi",
+          "start": 0.37,
+          "end": 0.79,
+          "probability": 0.09
+        },
+        {
+          "word": "chiên",
+          "start": 0.79,
+          "end": 1.19,
+          "probability": 0.09
+        },
+        {
+          "word": "Anh",
+          "start": 1.19,
+          "end": 1.35,
+          "probability": 0.0
+        },
+        {
+          "word": "Phuá",
+          "start": 1.35,
+          "end": 1.63,
+          "probability": 0.09
+        },
+        {
+          "word": "Đỡ",
+          "start": 1.63,
+          "end": 1.93,
+          "probability": 0.34
+        },
+        {
+          "word": "Mà",
+          "start": 1.93,
+          "end": 2.43,
+          "probability": 0.11
+        },
+        {
+          "word": "Schröng",
+          "start": 2.43,
+          "end": 3.89,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.89,
+      "end": 9.25,
+      "text": "Xin chiến đánh chút",
+      "words": [
+        {
+          "word": "Xin",
+          "start": 3.89,
+          "end": 3.89,
+          "probability": 0.0
+        },
+        {
+          "word": "chiến",
+          "start": 3.89,
+          "end": 4.43,
+          "probability": 0.22
+        },
+        {
+          "word": "đánh",
+          "start": 4.43,
+          "end": 4.75,
+          "probability": 0.29
+        },
+        {
+          "word": "chút",
+          "start": 8.91,
+          "end": 9.25,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.25,
+      "end": 10.21,
+      "text": "Ta nhất trăm châu",
+      "words": [
+        {
+          "word": "Ta",
+          "start": 9.25,
+          "end": 9.47,
+          "probability": 0.0
+        },
+        {
+          "word": "nhất",
+          "start": 9.47,
+          "end": 10.05,
+          "probability": 0.0
+        },
+        {
+          "word": "trăm",
+          "start": 10.05,
+          "end": 10.05,
+          "probability": 0.04
+        },
+        {
+          "word": "châu",
+          "start": 10.05,
+          "end": 10.21,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.21,
+      "end": 11.63,
+      "text": "Ta châu trà",
+      "words": [
+        {
+          "word": "Ta",
+          "start": 10.21,
+          "end": 10.53,
+          "probability": 0.02
+        },
+        {
+          "word": "châu",
+          "start": 10.53,
+          "end": 11.15,
+          "probability": 0.51
+        },
+        {
+          "word": "trà",
+          "start": 11.15,
+          "end": 11.63,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.63,
+      "end": 12.17,
+      "text": "Châu trà dậy",
+      "words": [
+        {
+          "word": "Châu",
+          "start": 11.63,
+          "end": 11.63,
+          "probability": 0.28
+        },
+        {
+          "word": "trà",
+          "start": 11.63,
+          "end": 11.85,
+          "probability": 0.48
+        },
+        {
+          "word": "dậy",
+          "start": 11.85,
+          "end": 12.17,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 12.17,
+      "end": 12.75,
+      "text": "Châu trà dậy",
+      "words": [
+        {
+          "word": "Châu",
+          "start": 12.17,
+          "end": 12.17,
+          "probability": 0.13
+        },
+        {
+          "word": "trà",
+          "start": 12.17,
+          "end": 12.39,
+          "probability": 0.65
+        },
+        {
+          "word": "dậy",
+          "start": 12.39,
+          "end": 12.75,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.75,
+      "end": 13.99,
+      "text": "Tôi con là không, không?",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 12.75,
+          "end": 12.75,
+          "probability": 0.02
+        },
+        {
+          "word": "con",
+          "start": 12.75,
+          "end": 12.75,
+          "probability": 0.0
+        },
+        {
+          "word": "là",
+          "start": 12.75,
+          "end": 12.91,
+          "probability": 0.03
+        },
+        {
+          "word": "không,",
+          "start": 12.91,
+          "end": 13.49,
+          "probability": 0.16
+        },
+        {
+          "word": "không?",
+          "start": 13.49,
+          "end": 13.99,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 14.17,
+      "end": 14.73,
+      "text": "Thôi con là không?",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 14.17,
+          "end": 14.17,
+          "probability": 0.15
+        },
+        {
+          "word": "con",
+          "start": 14.17,
+          "end": 14.17,
+          "probability": 0.59
+        },
+        {
+          "word": "là",
+          "start": 14.17,
+          "end": 14.39,
+          "probability": 0.73
+        },
+        {
+          "word": "không?",
+          "start": 14.39,
+          "end": 14.73,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 15.11,
+      "end": 15.73,
+      "text": "Châu trà!",
+      "words": [
+        {
+          "word": "Châu",
+          "start": 15.11,
+          "end": 15.45,
+          "probability": 0.33
+        },
+        {
+          "word": "trà!",
+          "start": 15.45,
+          "end": 15.73,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 23.67,
+      "end": 24.83,
+      "text": "Châu trà dậy",
+      "words": [
+        {
+          "word": "Châu",
+          "start": 23.67,
+          "end": 23.95,
+          "probability": 0.58
+        },
+        {
+          "word": "trà",
+          "start": 23.95,
+          "end": 24.83,
+          "probability": 0.9
+        },
+        {
+          "word": "dậy",
+          "start": 24.83,
+          "end": 24.83,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 24.83,
+      "end": 26.17,
+      "text": "OK, ok, OK",
+      "words": [
+        {
+          "word": "OK,",
+          "start": 24.83,
+          "end": 26.17,
+          "probability": 0.0
+        },
+        {
+          "word": "ok,",
+          "start": 26.17,
+          "end": 26.17,
+          "probability": 0.0
+        },
+        {
+          "word": "OK",
+          "start": 26.17,
+          "end": 26.17,
+          "probability": 0.05
+        }
+      ]
+    }
+  ]
+}

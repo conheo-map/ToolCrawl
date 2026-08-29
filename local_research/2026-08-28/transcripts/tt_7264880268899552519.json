@@ -1,0 +1,50 @@
+{
+  "item_id": "tt_7264880268899552519",
+  "duration_seconds": 15.69,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Chị không? Chị không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.55,
+      "end": 2.19,
+      "text": "Chị không?",
+      "words": [
+        {
+          "word": "Chị",
+          "start": 1.55,
+          "end": 1.85,
+          "probability": 0.09
+        },
+        {
+          "word": "không?",
+          "start": 1.85,
+          "end": 2.19,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 8.05,
+      "end": 8.45,
+      "text": "Chị không?",
+      "words": [
+        {
+          "word": "Chị",
+          "start": 8.05,
+          "end": 8.29,
+          "probability": 0.65
+        },
+        {
+          "word": "không?",
+          "start": 8.29,
+          "end": 8.45,
+          "probability": 0.84
+        }
+      ]
+    }
+  ]
+}

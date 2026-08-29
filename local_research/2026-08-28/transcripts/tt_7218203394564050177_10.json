@@ -1,0 +1,254 @@
+{
+  "item_id": "tt_7218203394564050177_10",
+  "duration_seconds": 9.63,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 30,
+  "text": "có bún xù đất cả có bệnh toàn khá là hay đúng cái tổ cậu ngà cái em sẽ có bún xù ngà cái chọn á đỡ chí nhờ nhà",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.96,
+      "text": "có bún xù",
+      "words": [
+        {
+          "word": "có",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.05
+        },
+        {
+          "word": "bún",
+          "start": 0.46,
+          "end": 0.66,
+          "probability": 0.51
+        },
+        {
+          "word": "xù",
+          "start": 0.66,
+          "end": 0.96,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 0.96,
+      "end": 1.86,
+      "text": "đất cả",
+      "words": [
+        {
+          "word": "đất",
+          "start": 0.96,
+          "end": 1.26,
+          "probability": 0.52
+        },
+        {
+          "word": "cả",
+          "start": 1.26,
+          "end": 1.86,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 1.86,
+      "end": 3.18,
+      "text": "có bệnh toàn khá là hay",
+      "words": [
+        {
+          "word": "có",
+          "start": 1.86,
+          "end": 2.24,
+          "probability": 0.02
+        },
+        {
+          "word": "bệnh",
+          "start": 2.24,
+          "end": 2.42,
+          "probability": 0.26
+        },
+        {
+          "word": "toàn",
+          "start": 2.42,
+          "end": 2.52,
+          "probability": 0.49
+        },
+        {
+          "word": "khá",
+          "start": 2.52,
+          "end": 2.78,
+          "probability": 0.86
+        },
+        {
+          "word": "là",
+          "start": 2.78,
+          "end": 2.96,
+          "probability": 0.52
+        },
+        {
+          "word": "hay",
+          "start": 2.96,
+          "end": 3.18,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 3.18,
+      "end": 4.08,
+      "text": "đúng cái",
+      "words": [
+        {
+          "word": "đúng",
+          "start": 3.18,
+          "end": 3.38,
+          "probability": 0.51
+        },
+        {
+          "word": "cái",
+          "start": 3.38,
+          "end": 4.08,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 4.08,
+      "end": 6.04,
+      "text": "tổ cậu ngà cái em sẽ có bún xù",
+      "words": [
+        {
+          "word": "tổ",
+          "start": 4.08,
+          "end": 4.7,
+          "probability": 0.31
+        },
+        {
+          "word": "cậu",
+          "start": 4.7,
+          "end": 4.94,
+          "probability": 0.66
+        },
+        {
+          "word": "ngà",
+          "start": 4.94,
+          "end": 5.14,
+          "probability": 0.11
+        },
+        {
+          "word": "cái",
+          "start": 5.14,
+          "end": 5.22,
+          "probability": 0.21
+        },
+        {
+          "word": "em",
+          "start": 5.22,
+          "end": 5.34,
+          "probability": 0.09
+        },
+        {
+          "word": "sẽ",
+          "start": 5.34,
+          "end": 5.38,
+          "probability": 0.63
+        },
+        {
+          "word": "có",
+          "start": 5.38,
+          "end": 5.46,
+          "probability": 0.55
+        },
+        {
+          "word": "bún",
+          "start": 5.46,
+          "end": 5.6,
+          "probability": 0.99
+        },
+        {
+          "word": "xù",
+          "start": 5.6,
+          "end": 6.04,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 6.04,
+      "end": 7.42,
+      "text": "ngà cái chọn á",
+      "words": [
+        {
+          "word": "ngà",
+          "start": 6.04,
+          "end": 6.38,
+          "probability": 0.92
+        },
+        {
+          "word": "cái",
+          "start": 6.38,
+          "end": 6.48,
+          "probability": 0.66
+        },
+        {
+          "word": "chọn",
+          "start": 6.48,
+          "end": 6.64,
+          "probability": 0.14
+        },
+        {
+          "word": "á",
+          "start": 6.64,
+          "end": 7.42,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 7.42,
+      "end": 8.74,
+      "text": "đỡ chí nhờ",
+      "words": [
+        {
+          "word": "đỡ",
+          "start": 7.42,
+          "end": 8.08,
+          "probability": 0.42
+        },
+        {
+          "word": "chí",
+          "start": 8.08,
+          "end": 8.18,
+          "probability": 0.3
+        },
+        {
+          "word": "nhờ",
+          "start": 8.18,
+          "end": 8.74,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 8.74,
+      "end": 9.22,
+      "text": "nhà",
+      "words": [
+        {
+          "word": "nhà",
+          "start": 8.74,
+          "end": 9.22,
+          "probability": 0.31
+        }
+      ]
+    }
+  ]
+}

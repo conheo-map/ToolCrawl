@@ -1,0 +1,952 @@
+{
+  "item_id": "tt_7595539917791300865_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 149,
+  "text": "tỏng trạc, với xa lúc bây giờ đều được ra mắt tại New York Fest năm 2018. Với tính nâng ngày, người dùng chỉ cần mở ấm dụng xa lúc bây giờ chạc điện thoại và máy POS để tự thiện thành tỏng một cách nhìn trong sự kiện xa lúc bây New York Fest năm 2018, là lần đầu tiên xa lúc bây màn tính nâng thành tỏng trạc, ra mắt giọng giải người dùng khoát đồng trạng nghiệm này dễ ra từ người tạm đến mi một tháng một, tại phủ đi bộ mối vệ thành phố hồ chỉ mình. Đự biết, thành tỏng trạc đã được xa lúc bây trên khai cho một nhóm người dùng đu tiên. thành tỏng trạc với xa lúc bây tận dụng hạ tần máy POS có sẵn trên đi trường, vì vậy mở dụng khả năng chắc nhận thành tỏng.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.68,
+      "text": "tỏng trạc, với xa lúc bây giờ đều được ra mắt tại New York Fest năm 2018.",
+      "words": [
+        {
+          "word": "tỏng",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.41
+        },
+        {
+          "word": "trạc,",
+          "start": 0.32,
+          "end": 0.54,
+          "probability": 0.51
+        },
+        {
+          "word": "với",
+          "start": 0.72,
+          "end": 0.84,
+          "probability": 0.45
+        },
+        {
+          "word": "xa",
+          "start": 0.84,
+          "end": 1.0,
+          "probability": 0.4
+        },
+        {
+          "word": "lúc",
+          "start": 1.0,
+          "end": 1.12,
+          "probability": 0.42
+        },
+        {
+          "word": "bây",
+          "start": 1.12,
+          "end": 1.32,
+          "probability": 0.56
+        },
+        {
+          "word": "giờ",
+          "start": 1.32,
+          "end": 1.62,
+          "probability": 0.44
+        },
+        {
+          "word": "đều",
+          "start": 1.62,
+          "end": 1.64,
+          "probability": 0.34
+        },
+        {
+          "word": "được",
+          "start": 1.64,
+          "end": 1.9,
+          "probability": 0.79
+        },
+        {
+          "word": "ra",
+          "start": 1.9,
+          "end": 2.02,
+          "probability": 0.48
+        },
+        {
+          "word": "mắt",
+          "start": 2.02,
+          "end": 2.18,
+          "probability": 0.65
+        },
+        {
+          "word": "tại",
+          "start": 2.18,
+          "end": 2.4,
+          "probability": 0.8
+        },
+        {
+          "word": "New",
+          "start": 2.4,
+          "end": 2.58,
+          "probability": 0.42
+        },
+        {
+          "word": "York",
+          "start": 2.58,
+          "end": 2.7,
+          "probability": 0.39
+        },
+        {
+          "word": "Fest",
+          "start": 2.7,
+          "end": 2.92,
+          "probability": 0.13
+        },
+        {
+          "word": "năm",
+          "start": 2.92,
+          "end": 3.16,
+          "probability": 0.64
+        },
+        {
+          "word": "2018.",
+          "start": 3.16,
+          "end": 3.68,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.58,
+      "end": 9.88,
+      "text": "Với tính nâng ngày, người dùng chỉ cần mở ấm dụng xa lúc bây giờ chạc điện thoại và máy POS để tự thiện thành tỏng một cách nhìn trong",
+      "words": [
+        {
+          "word": "Với",
+          "start": 4.58,
+          "end": 4.7,
+          "probability": 0.86
+        },
+        {
+          "word": "tính",
+          "start": 4.7,
+          "end": 4.84,
+          "probability": 0.73
+        },
+        {
+          "word": "nâng",
+          "start": 4.84,
+          "end": 4.94,
+          "probability": 0.5
+        },
+        {
+          "word": "ngày,",
+          "start": 4.94,
+          "end": 5.22,
+          "probability": 0.64
+        },
+        {
+          "word": "người",
+          "start": 5.34,
+          "end": 5.46,
+          "probability": 0.45
+        },
+        {
+          "word": "dùng",
+          "start": 5.46,
+          "end": 5.64,
+          "probability": 0.76
+        },
+        {
+          "word": "chỉ",
+          "start": 5.64,
+          "end": 5.78,
+          "probability": 0.56
+        },
+        {
+          "word": "cần",
+          "start": 5.78,
+          "end": 5.94,
+          "probability": 0.98
+        },
+        {
+          "word": "mở",
+          "start": 5.94,
+          "end": 6.06,
+          "probability": 0.64
+        },
+        {
+          "word": "ấm",
+          "start": 6.06,
+          "end": 6.22,
+          "probability": 0.5
+        },
+        {
+          "word": "dụng",
+          "start": 6.22,
+          "end": 6.44,
+          "probability": 0.8
+        },
+        {
+          "word": "xa",
+          "start": 6.44,
+          "end": 6.56,
+          "probability": 0.66
+        },
+        {
+          "word": "lúc",
+          "start": 6.56,
+          "end": 6.7,
+          "probability": 0.99
+        },
+        {
+          "word": "bây",
+          "start": 6.7,
+          "end": 6.84,
+          "probability": 0.98
+        },
+        {
+          "word": "giờ",
+          "start": 6.84,
+          "end": 7.12,
+          "probability": 0.75
+        },
+        {
+          "word": "chạc",
+          "start": 7.12,
+          "end": 7.36,
+          "probability": 0.72
+        },
+        {
+          "word": "điện",
+          "start": 7.36,
+          "end": 7.44,
+          "probability": 0.55
+        },
+        {
+          "word": "thoại",
+          "start": 7.44,
+          "end": 7.62,
+          "probability": 0.95
+        },
+        {
+          "word": "và",
+          "start": 7.62,
+          "end": 7.8,
+          "probability": 0.59
+        },
+        {
+          "word": "máy",
+          "start": 7.8,
+          "end": 7.96,
+          "probability": 0.73
+        },
+        {
+          "word": "POS",
+          "start": 7.96,
+          "end": 8.34,
+          "probability": 0.46
+        },
+        {
+          "word": "để",
+          "start": 8.34,
+          "end": 8.64,
+          "probability": 0.5
+        },
+        {
+          "word": "tự",
+          "start": 8.64,
+          "end": 8.8,
+          "probability": 0.45
+        },
+        {
+          "word": "thiện",
+          "start": 8.8,
+          "end": 8.86,
+          "probability": 0.45
+        },
+        {
+          "word": "thành",
+          "start": 8.86,
+          "end": 9.06,
+          "probability": 0.6
+        },
+        {
+          "word": "tỏng",
+          "start": 9.06,
+          "end": 9.14,
+          "probability": 0.57
+        },
+        {
+          "word": "một",
+          "start": 9.14,
+          "end": 9.32,
+          "probability": 0.6
+        },
+        {
+          "word": "cách",
+          "start": 9.32,
+          "end": 9.48,
+          "probability": 0.78
+        },
+        {
+          "word": "nhìn",
+          "start": 9.48,
+          "end": 9.62,
+          "probability": 0.29
+        },
+        {
+          "word": "trong",
+          "start": 9.62,
+          "end": 9.88,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.88,
+      "end": 15.18,
+      "text": "sự kiện xa lúc bây New York Fest năm 2018, là lần đầu tiên xa lúc bây màn tính nâng thành tỏng trạc,",
+      "words": [
+        {
+          "word": "sự",
+          "start": 9.88,
+          "end": 10.22,
+          "probability": 0.57
+        },
+        {
+          "word": "kiện",
+          "start": 10.22,
+          "end": 10.4,
+          "probability": 0.7
+        },
+        {
+          "word": "xa",
+          "start": 10.4,
+          "end": 10.6,
+          "probability": 0.88
+        },
+        {
+          "word": "lúc",
+          "start": 10.6,
+          "end": 10.72,
+          "probability": 0.99
+        },
+        {
+          "word": "bây",
+          "start": 10.72,
+          "end": 10.86,
+          "probability": 0.98
+        },
+        {
+          "word": "New",
+          "start": 10.86,
+          "end": 11.04,
+          "probability": 0.09
+        },
+        {
+          "word": "York",
+          "start": 11.04,
+          "end": 11.2,
+          "probability": 1.0
+        },
+        {
+          "word": "Fest",
+          "start": 11.2,
+          "end": 11.42,
+          "probability": 0.97
+        },
+        {
+          "word": "năm",
+          "start": 11.42,
+          "end": 11.64,
+          "probability": 0.92
+        },
+        {
+          "word": "2018,",
+          "start": 11.64,
+          "end": 12.28,
+          "probability": 0.42
+        },
+        {
+          "word": "là",
+          "start": 12.92,
+          "end": 12.98,
+          "probability": 0.5
+        },
+        {
+          "word": "lần",
+          "start": 12.98,
+          "end": 13.1,
+          "probability": 0.84
+        },
+        {
+          "word": "đầu",
+          "start": 13.1,
+          "end": 13.28,
+          "probability": 0.94
+        },
+        {
+          "word": "tiên",
+          "start": 13.28,
+          "end": 13.48,
+          "probability": 0.96
+        },
+        {
+          "word": "xa",
+          "start": 13.48,
+          "end": 13.7,
+          "probability": 0.69
+        },
+        {
+          "word": "lúc",
+          "start": 13.7,
+          "end": 13.78,
+          "probability": 0.99
+        },
+        {
+          "word": "bây",
+          "start": 13.78,
+          "end": 14.0,
+          "probability": 0.98
+        },
+        {
+          "word": "màn",
+          "start": 14.0,
+          "end": 14.32,
+          "probability": 0.37
+        },
+        {
+          "word": "tính",
+          "start": 14.32,
+          "end": 14.34,
+          "probability": 0.97
+        },
+        {
+          "word": "nâng",
+          "start": 14.34,
+          "end": 14.48,
+          "probability": 0.76
+        },
+        {
+          "word": "thành",
+          "start": 14.48,
+          "end": 14.7,
+          "probability": 0.44
+        },
+        {
+          "word": "tỏng",
+          "start": 14.7,
+          "end": 14.86,
+          "probability": 0.96
+        },
+        {
+          "word": "trạc,",
+          "start": 14.86,
+          "end": 15.18,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.24,
+      "end": 20.94,
+      "text": "ra mắt giọng giải người dùng khoát đồng trạng nghiệm này dễ ra từ người tạm đến mi một tháng một, tại phủ đi bộ mối vệ thành phố hồ chỉ mình.",
+      "words": [
+        {
+          "word": "ra",
+          "start": 15.24,
+          "end": 15.38,
+          "probability": 0.67
+        },
+        {
+          "word": "mắt",
+          "start": 15.38,
+          "end": 15.52,
+          "probability": 0.96
+        },
+        {
+          "word": "giọng",
+          "start": 15.52,
+          "end": 15.66,
+          "probability": 0.47
+        },
+        {
+          "word": "giải",
+          "start": 15.66,
+          "end": 15.9,
+          "probability": 0.7
+        },
+        {
+          "word": "người",
+          "start": 15.9,
+          "end": 16.08,
+          "probability": 0.68
+        },
+        {
+          "word": "dùng",
+          "start": 16.08,
+          "end": 16.28,
+          "probability": 0.86
+        },
+        {
+          "word": "khoát",
+          "start": 16.28,
+          "end": 16.48,
+          "probability": 0.17
+        },
+        {
+          "word": "đồng",
+          "start": 16.48,
+          "end": 16.64,
+          "probability": 0.52
+        },
+        {
+          "word": "trạng",
+          "start": 16.64,
+          "end": 16.8,
+          "probability": 0.5
+        },
+        {
+          "word": "nghiệm",
+          "start": 16.8,
+          "end": 17.0,
+          "probability": 0.62
+        },
+        {
+          "word": "này",
+          "start": 17.0,
+          "end": 17.14,
+          "probability": 0.88
+        },
+        {
+          "word": "dễ",
+          "start": 17.14,
+          "end": 17.32,
+          "probability": 0.47
+        },
+        {
+          "word": "ra",
+          "start": 17.32,
+          "end": 17.46,
+          "probability": 0.45
+        },
+        {
+          "word": "từ",
+          "start": 17.46,
+          "end": 17.6,
+          "probability": 0.79
+        },
+        {
+          "word": "người",
+          "start": 17.6,
+          "end": 17.74,
+          "probability": 0.46
+        },
+        {
+          "word": "tạm",
+          "start": 17.74,
+          "end": 17.96,
+          "probability": 0.49
+        },
+        {
+          "word": "đến",
+          "start": 17.96,
+          "end": 18.18,
+          "probability": 0.53
+        },
+        {
+          "word": "mi",
+          "start": 18.18,
+          "end": 18.4,
+          "probability": 0.19
+        },
+        {
+          "word": "một",
+          "start": 18.4,
+          "end": 18.4,
+          "probability": 0.29
+        },
+        {
+          "word": "tháng",
+          "start": 18.4,
+          "end": 18.6,
+          "probability": 0.75
+        },
+        {
+          "word": "một,",
+          "start": 18.6,
+          "end": 18.84,
+          "probability": 0.36
+        },
+        {
+          "word": "tại",
+          "start": 19.1,
+          "end": 19.2,
+          "probability": 0.81
+        },
+        {
+          "word": "phủ",
+          "start": 19.2,
+          "end": 19.38,
+          "probability": 0.48
+        },
+        {
+          "word": "đi",
+          "start": 19.38,
+          "end": 19.48,
+          "probability": 0.77
+        },
+        {
+          "word": "bộ",
+          "start": 19.48,
+          "end": 19.62,
+          "probability": 0.69
+        },
+        {
+          "word": "mối",
+          "start": 19.62,
+          "end": 19.8,
+          "probability": 0.41
+        },
+        {
+          "word": "vệ",
+          "start": 19.8,
+          "end": 20.02,
+          "probability": 0.39
+        },
+        {
+          "word": "thành",
+          "start": 20.02,
+          "end": 20.24,
+          "probability": 0.55
+        },
+        {
+          "word": "phố",
+          "start": 20.24,
+          "end": 20.36,
+          "probability": 0.91
+        },
+        {
+          "word": "hồ",
+          "start": 20.36,
+          "end": 20.54,
+          "probability": 0.35
+        },
+        {
+          "word": "chỉ",
+          "start": 20.54,
+          "end": 20.64,
+          "probability": 0.06
+        },
+        {
+          "word": "mình.",
+          "start": 20.64,
+          "end": 20.94,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 20.94,
+      "end": 24.46,
+      "text": "Đự biết, thành tỏng trạc đã được xa lúc bây trên khai cho một nhóm người dùng đu tiên.",
+      "words": [
+        {
+          "word": "Đự",
+          "start": 20.94,
+          "end": 21.14,
+          "probability": 0.2
+        },
+        {
+          "word": "biết,",
+          "start": 21.14,
+          "end": 21.42,
+          "probability": 0.38
+        },
+        {
+          "word": "thành",
+          "start": 21.64,
+          "end": 21.7,
+          "probability": 0.95
+        },
+        {
+          "word": "tỏng",
+          "start": 21.7,
+          "end": 21.9,
+          "probability": 0.4
+        },
+        {
+          "word": "trạc",
+          "start": 21.9,
+          "end": 22.18,
+          "probability": 0.44
+        },
+        {
+          "word": "đã",
+          "start": 22.18,
+          "end": 22.28,
+          "probability": 0.49
+        },
+        {
+          "word": "được",
+          "start": 22.28,
+          "end": 22.44,
+          "probability": 0.9
+        },
+        {
+          "word": "xa",
+          "start": 22.44,
+          "end": 22.54,
+          "probability": 0.4
+        },
+        {
+          "word": "lúc",
+          "start": 22.54,
+          "end": 22.7,
+          "probability": 0.52
+        },
+        {
+          "word": "bây",
+          "start": 22.7,
+          "end": 22.8,
+          "probability": 0.33
+        },
+        {
+          "word": "trên",
+          "start": 22.8,
+          "end": 22.96,
+          "probability": 0.16
+        },
+        {
+          "word": "khai",
+          "start": 22.96,
+          "end": 23.24,
+          "probability": 0.89
+        },
+        {
+          "word": "cho",
+          "start": 23.24,
+          "end": 23.36,
+          "probability": 0.62
+        },
+        {
+          "word": "một",
+          "start": 23.36,
+          "end": 23.5,
+          "probability": 0.67
+        },
+        {
+          "word": "nhóm",
+          "start": 23.5,
+          "end": 23.68,
+          "probability": 0.85
+        },
+        {
+          "word": "người",
+          "start": 23.68,
+          "end": 23.84,
+          "probability": 0.39
+        },
+        {
+          "word": "dùng",
+          "start": 23.84,
+          "end": 24.0,
+          "probability": 0.7
+        },
+        {
+          "word": "đu",
+          "start": 24.0,
+          "end": 24.16,
+          "probability": 0.27
+        },
+        {
+          "word": "tiên.",
+          "start": 24.16,
+          "end": 24.46,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 24.64,
+      "end": 29.98,
+      "text": "thành tỏng trạc với xa lúc bây tận dụng hạ tần máy POS có sẵn trên đi trường, vì vậy mở dụng khả năng chắc nhận thành tỏng.",
+      "words": [
+        {
+          "word": "thành",
+          "start": 24.64,
+          "end": 24.72,
+          "probability": 0.41
+        },
+        {
+          "word": "tỏng",
+          "start": 24.72,
+          "end": 24.88,
+          "probability": 0.98
+        },
+        {
+          "word": "trạc",
+          "start": 24.88,
+          "end": 25.14,
+          "probability": 0.99
+        },
+        {
+          "word": "với",
+          "start": 25.14,
+          "end": 25.3,
+          "probability": 0.82
+        },
+        {
+          "word": "xa",
+          "start": 25.3,
+          "end": 25.48,
+          "probability": 0.84
+        },
+        {
+          "word": "lúc",
+          "start": 25.48,
+          "end": 25.62,
+          "probability": 0.99
+        },
+        {
+          "word": "bây",
+          "start": 25.62,
+          "end": 25.82,
+          "probability": 0.99
+        },
+        {
+          "word": "tận",
+          "start": 25.82,
+          "end": 26.0,
+          "probability": 0.59
+        },
+        {
+          "word": "dụng",
+          "start": 26.0,
+          "end": 26.26,
+          "probability": 0.78
+        },
+        {
+          "word": "hạ",
+          "start": 26.26,
+          "end": 26.42,
+          "probability": 0.64
+        },
+        {
+          "word": "tần",
+          "start": 26.42,
+          "end": 26.6,
+          "probability": 0.28
+        },
+        {
+          "word": "máy",
+          "start": 26.6,
+          "end": 26.84,
+          "probability": 0.56
+        },
+        {
+          "word": "POS",
+          "start": 26.84,
+          "end": 27.2,
+          "probability": 0.33
+        },
+        {
+          "word": "có",
+          "start": 27.2,
+          "end": 27.42,
+          "probability": 0.89
+        },
+        {
+          "word": "sẵn",
+          "start": 27.42,
+          "end": 27.64,
+          "probability": 0.8
+        },
+        {
+          "word": "trên",
+          "start": 27.64,
+          "end": 27.78,
+          "probability": 0.96
+        },
+        {
+          "word": "đi",
+          "start": 27.78,
+          "end": 27.9,
+          "probability": 0.17
+        },
+        {
+          "word": "trường,",
+          "start": 27.9,
+          "end": 28.18,
+          "probability": 0.6
+        },
+        {
+          "word": "vì",
+          "start": 28.34,
+          "end": 28.42,
+          "probability": 0.68
+        },
+        {
+          "word": "vậy",
+          "start": 28.42,
+          "end": 28.64,
+          "probability": 0.62
+        },
+        {
+          "word": "mở",
+          "start": 28.64,
+          "end": 28.84,
+          "probability": 0.46
+        },
+        {
+          "word": "dụng",
+          "start": 28.84,
+          "end": 29.12,
+          "probability": 0.4
+        },
+        {
+          "word": "khả",
+          "start": 29.12,
+          "end": 29.22,
+          "probability": 0.75
+        },
+        {
+          "word": "năng",
+          "start": 29.22,
+          "end": 29.36,
+          "probability": 0.91
+        },
+        {
+          "word": "chắc",
+          "start": 29.36,
+          "end": 29.52,
+          "probability": 0.3
+        },
+        {
+          "word": "nhận",
+          "start": 29.52,
+          "end": 29.62,
+          "probability": 0.42
+        },
+        {
+          "word": "thành",
+          "start": 29.62,
+          "end": 29.78,
+          "probability": 0.99
+        },
+        {
+          "word": "tỏng.",
+          "start": 29.78,
+          "end": 29.98,
+          "probability": 0.83
+        }
+      ]
+    }
+  ]
+}

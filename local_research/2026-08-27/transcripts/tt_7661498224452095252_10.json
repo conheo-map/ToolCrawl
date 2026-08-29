@@ -1,0 +1,548 @@
+{
+  "item_id": "tt_7661498224452095252_10",
+  "duration_seconds": 26.91,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 79,
+  "text": "Cái quang rất là thịt hành hạo dễ trong một dịch nơi lên người vào mỏ. Điều mong tốt lâu đẹt, thì chú đánh ngàn nỏ là không bao giờ ngàn mừng tất. Cái qua là mừng không nhạc hả? Yếu phải là ngay từ rao mòn nụ. Tó là ký dịch thịt, là cái gì thế không? Cái dịch thịt, là cái gì dịch. Và là nó rất biết mừng thong đặt. Chắc chắc mừng là cái gì?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.16,
+      "text": "Cái quang rất là thịt hành hạo dễ trong một dịch nơi lên người vào mỏ.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.0,
+          "end": 0.56,
+          "probability": 0.33
+        },
+        {
+          "word": "quang",
+          "start": 0.56,
+          "end": 0.92,
+          "probability": 0.4
+        },
+        {
+          "word": "rất",
+          "start": 0.92,
+          "end": 1.18,
+          "probability": 0.31
+        },
+        {
+          "word": "là",
+          "start": 1.18,
+          "end": 1.38,
+          "probability": 0.9
+        },
+        {
+          "word": "thịt",
+          "start": 1.38,
+          "end": 1.68,
+          "probability": 0.21
+        },
+        {
+          "word": "hành",
+          "start": 1.68,
+          "end": 1.86,
+          "probability": 0.32
+        },
+        {
+          "word": "hạo",
+          "start": 1.86,
+          "end": 2.04,
+          "probability": 0.2
+        },
+        {
+          "word": "dễ",
+          "start": 2.04,
+          "end": 2.3,
+          "probability": 0.34
+        },
+        {
+          "word": "trong",
+          "start": 2.3,
+          "end": 2.5,
+          "probability": 0.3
+        },
+        {
+          "word": "một",
+          "start": 2.5,
+          "end": 2.66,
+          "probability": 0.22
+        },
+        {
+          "word": "dịch",
+          "start": 2.66,
+          "end": 2.8,
+          "probability": 0.15
+        },
+        {
+          "word": "nơi",
+          "start": 2.8,
+          "end": 3.04,
+          "probability": 0.45
+        },
+        {
+          "word": "lên",
+          "start": 3.04,
+          "end": 3.26,
+          "probability": 0.52
+        },
+        {
+          "word": "người",
+          "start": 3.26,
+          "end": 3.44,
+          "probability": 0.23
+        },
+        {
+          "word": "vào",
+          "start": 3.44,
+          "end": 3.52,
+          "probability": 0.15
+        },
+        {
+          "word": "mỏ.",
+          "start": 3.52,
+          "end": 4.16,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.58,
+      "end": 7.7,
+      "text": "Điều mong tốt lâu đẹt, thì chú đánh ngàn nỏ là không bao giờ ngàn mừng tất.",
+      "words": [
+        {
+          "word": "Điều",
+          "start": 4.58,
+          "end": 4.66,
+          "probability": 0.42
+        },
+        {
+          "word": "mong",
+          "start": 4.66,
+          "end": 4.84,
+          "probability": 0.14
+        },
+        {
+          "word": "tốt",
+          "start": 4.84,
+          "end": 4.98,
+          "probability": 0.28
+        },
+        {
+          "word": "lâu",
+          "start": 4.98,
+          "end": 5.24,
+          "probability": 0.35
+        },
+        {
+          "word": "đẹt,",
+          "start": 5.24,
+          "end": 5.58,
+          "probability": 0.35
+        },
+        {
+          "word": "thì",
+          "start": 5.74,
+          "end": 5.74,
+          "probability": 0.1
+        },
+        {
+          "word": "chú",
+          "start": 5.74,
+          "end": 5.9,
+          "probability": 0.2
+        },
+        {
+          "word": "đánh",
+          "start": 5.9,
+          "end": 6.06,
+          "probability": 0.17
+        },
+        {
+          "word": "ngàn",
+          "start": 6.06,
+          "end": 6.32,
+          "probability": 0.33
+        },
+        {
+          "word": "nỏ",
+          "start": 6.32,
+          "end": 6.5,
+          "probability": 0.3
+        },
+        {
+          "word": "là",
+          "start": 6.5,
+          "end": 6.66,
+          "probability": 0.36
+        },
+        {
+          "word": "không",
+          "start": 6.66,
+          "end": 6.84,
+          "probability": 0.76
+        },
+        {
+          "word": "bao",
+          "start": 6.84,
+          "end": 7.04,
+          "probability": 0.27
+        },
+        {
+          "word": "giờ",
+          "start": 7.04,
+          "end": 7.04,
+          "probability": 0.69
+        },
+        {
+          "word": "ngàn",
+          "start": 7.04,
+          "end": 7.26,
+          "probability": 0.46
+        },
+        {
+          "word": "mừng",
+          "start": 7.26,
+          "end": 7.36,
+          "probability": 0.2
+        },
+        {
+          "word": "tất.",
+          "start": 7.36,
+          "end": 7.7,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.0,
+      "end": 9.68,
+      "text": "Cái qua là mừng không nhạc hả?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 8.0,
+          "end": 8.2,
+          "probability": 0.91
+        },
+        {
+          "word": "qua",
+          "start": 8.2,
+          "end": 8.42,
+          "probability": 0.39
+        },
+        {
+          "word": "là",
+          "start": 8.42,
+          "end": 8.56,
+          "probability": 0.69
+        },
+        {
+          "word": "mừng",
+          "start": 8.56,
+          "end": 8.74,
+          "probability": 0.83
+        },
+        {
+          "word": "không",
+          "start": 8.74,
+          "end": 8.98,
+          "probability": 0.93
+        },
+        {
+          "word": "nhạc",
+          "start": 8.98,
+          "end": 9.18,
+          "probability": 0.57
+        },
+        {
+          "word": "hả?",
+          "start": 9.18,
+          "end": 9.68,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.8,
+      "end": 11.52,
+      "text": "Yếu phải là ngay từ rao mòn nụ.",
+      "words": [
+        {
+          "word": "Yếu",
+          "start": 9.8,
+          "end": 9.84,
+          "probability": 0.28
+        },
+        {
+          "word": "phải",
+          "start": 9.84,
+          "end": 10.06,
+          "probability": 0.16
+        },
+        {
+          "word": "là",
+          "start": 10.06,
+          "end": 10.36,
+          "probability": 0.47
+        },
+        {
+          "word": "ngay",
+          "start": 10.36,
+          "end": 10.72,
+          "probability": 0.41
+        },
+        {
+          "word": "từ",
+          "start": 10.72,
+          "end": 10.82,
+          "probability": 0.2
+        },
+        {
+          "word": "rao",
+          "start": 10.82,
+          "end": 11.24,
+          "probability": 0.5
+        },
+        {
+          "word": "mòn",
+          "start": 11.24,
+          "end": 11.3,
+          "probability": 0.14
+        },
+        {
+          "word": "nụ.",
+          "start": 11.3,
+          "end": 11.52,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.07,
+      "end": 17.37,
+      "text": "Tó là ký dịch thịt, là cái gì thế không?",
+      "words": [
+        {
+          "word": "Tó",
+          "start": 15.07,
+          "end": 15.27,
+          "probability": 0.3
+        },
+        {
+          "word": "là",
+          "start": 15.27,
+          "end": 15.53,
+          "probability": 0.79
+        },
+        {
+          "word": "ký",
+          "start": 15.53,
+          "end": 15.91,
+          "probability": 0.23
+        },
+        {
+          "word": "dịch",
+          "start": 15.91,
+          "end": 16.11,
+          "probability": 0.67
+        },
+        {
+          "word": "thịt,",
+          "start": 16.11,
+          "end": 16.39,
+          "probability": 0.74
+        },
+        {
+          "word": "là",
+          "start": 16.57,
+          "end": 16.57,
+          "probability": 0.14
+        },
+        {
+          "word": "cái",
+          "start": 16.57,
+          "end": 16.75,
+          "probability": 0.12
+        },
+        {
+          "word": "gì",
+          "start": 16.75,
+          "end": 16.89,
+          "probability": 0.27
+        },
+        {
+          "word": "thế",
+          "start": 16.89,
+          "end": 17.07,
+          "probability": 0.17
+        },
+        {
+          "word": "không?",
+          "start": 17.07,
+          "end": 17.37,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 18.03,
+      "end": 20.86,
+      "text": "Cái dịch thịt, là cái gì dịch.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 18.03,
+          "end": 18.07,
+          "probability": 0.53
+        },
+        {
+          "word": "dịch",
+          "start": 18.07,
+          "end": 18.43,
+          "probability": 0.77
+        },
+        {
+          "word": "thịt,",
+          "start": 20.06,
+          "end": 20.06,
+          "probability": 0.85
+        },
+        {
+          "word": "là",
+          "start": 20.36,
+          "end": 20.36,
+          "probability": 0.58
+        },
+        {
+          "word": "cái",
+          "start": 20.36,
+          "end": 20.46,
+          "probability": 0.39
+        },
+        {
+          "word": "gì",
+          "start": 20.46,
+          "end": 20.64,
+          "probability": 0.25
+        },
+        {
+          "word": "dịch.",
+          "start": 20.64,
+          "end": 20.86,
+          "probability": 0.35
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 21.44,
+      "end": 23.34,
+      "text": "Và là nó rất biết mừng thong đặt.",
+      "words": [
+        {
+          "word": "Và",
+          "start": 21.44,
+          "end": 21.74,
+          "probability": 0.66
+        },
+        {
+          "word": "là",
+          "start": 21.74,
+          "end": 22.06,
+          "probability": 0.66
+        },
+        {
+          "word": "nó",
+          "start": 22.06,
+          "end": 22.14,
+          "probability": 0.23
+        },
+        {
+          "word": "rất",
+          "start": 22.14,
+          "end": 22.42,
+          "probability": 0.5
+        },
+        {
+          "word": "biết",
+          "start": 22.42,
+          "end": 22.62,
+          "probability": 0.36
+        },
+        {
+          "word": "mừng",
+          "start": 22.62,
+          "end": 22.86,
+          "probability": 0.46
+        },
+        {
+          "word": "thong",
+          "start": 22.86,
+          "end": 23.06,
+          "probability": 0.34
+        },
+        {
+          "word": "đặt.",
+          "start": 23.06,
+          "end": 23.34,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 23.72,
+      "end": 24.82,
+      "text": "Chắc chắc mừng là cái gì?",
+      "words": [
+        {
+          "word": "Chắc",
+          "start": 23.72,
+          "end": 23.9,
+          "probability": 0.34
+        },
+        {
+          "word": "chắc",
+          "start": 23.9,
+          "end": 24.12,
+          "probability": 0.35
+        },
+        {
+          "word": "mừng",
+          "start": 24.12,
+          "end": 24.4,
+          "probability": 0.23
+        },
+        {
+          "word": "là",
+          "start": 24.4,
+          "end": 24.6,
+          "probability": 0.47
+        },
+        {
+          "word": "cái",
+          "start": 24.6,
+          "end": 24.72,
+          "probability": 0.96
+        },
+        {
+          "word": "gì?",
+          "start": 24.72,
+          "end": 24.82,
+          "probability": 0.76
+        }
+      ]
+    }
+  ]
+}

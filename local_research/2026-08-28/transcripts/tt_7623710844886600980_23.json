@@ -1,0 +1,738 @@
+{
+  "item_id": "tt_7623710844886600980_23",
+  "duration_seconds": 29.22,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 108,
+  "text": "thì kênh có bây giờ, mình đi một, còn bây giờ, thì kênh vào kỳ, bây giờ, đau, mình như thế kỳ em. Nhi sao đâu? P' kỳ đau? Cái gì mà kỳ, bây giờ phải đi, bây giờ phải đi. Đi này cho khá nạc khó. Đi này cho khó nguồn, nhưng mà, bây giờ đi, bây giờ phải. Tìa các bạn sẽ có được kỳ em, em, em, em, em, em, em, em, em, em, em. Nhi này mà mấy dứt. Bây giờ, thì đoều bây giờ, bây giờ, bây giờ, bây giờ, thì tỏa em, bây giờ, bây giờ, kỳ em có thể tính được.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.12,
+      "text": "thì kênh có bây giờ, mình đi một, còn bây giờ, thì kênh vào kỳ, bây giờ,",
+      "words": [
+        {
+          "word": "thì",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.53
+        },
+        {
+          "word": "kênh",
+          "start": 0.3,
+          "end": 0.46,
+          "probability": 0.5
+        },
+        {
+          "word": "có",
+          "start": 0.46,
+          "end": 0.62,
+          "probability": 0.76
+        },
+        {
+          "word": "bây",
+          "start": 0.62,
+          "end": 0.82,
+          "probability": 0.23
+        },
+        {
+          "word": "giờ,",
+          "start": 0.82,
+          "end": 0.98,
+          "probability": 0.17
+        },
+        {
+          "word": "mình",
+          "start": 1.08,
+          "end": 1.14,
+          "probability": 0.26
+        },
+        {
+          "word": "đi",
+          "start": 1.14,
+          "end": 1.28,
+          "probability": 0.35
+        },
+        {
+          "word": "một,",
+          "start": 1.28,
+          "end": 2.04,
+          "probability": 0.14
+        },
+        {
+          "word": "còn",
+          "start": 2.2,
+          "end": 2.34,
+          "probability": 0.57
+        },
+        {
+          "word": "bây",
+          "start": 2.34,
+          "end": 2.5,
+          "probability": 0.96
+        },
+        {
+          "word": "giờ,",
+          "start": 2.5,
+          "end": 2.72,
+          "probability": 0.73
+        },
+        {
+          "word": "thì",
+          "start": 3.26,
+          "end": 3.34,
+          "probability": 0.81
+        },
+        {
+          "word": "kênh",
+          "start": 3.34,
+          "end": 3.48,
+          "probability": 0.85
+        },
+        {
+          "word": "vào",
+          "start": 3.48,
+          "end": 3.78,
+          "probability": 0.39
+        },
+        {
+          "word": "kỳ,",
+          "start": 3.78,
+          "end": 4.08,
+          "probability": 0.39
+        },
+        {
+          "word": "bây",
+          "start": 4.74,
+          "end": 5.12,
+          "probability": 0.72
+        },
+        {
+          "word": "giờ,",
+          "start": 5.12,
+          "end": 5.12,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.54,
+      "end": 7.78,
+      "text": "đau, mình như thế kỳ em.",
+      "words": [
+        {
+          "word": "đau,",
+          "start": 5.54,
+          "end": 5.88,
+          "probability": 0.15
+        },
+        {
+          "word": "mình",
+          "start": 6.46,
+          "end": 6.6,
+          "probability": 0.06
+        },
+        {
+          "word": "như",
+          "start": 6.6,
+          "end": 6.74,
+          "probability": 0.06
+        },
+        {
+          "word": "thế",
+          "start": 6.74,
+          "end": 6.88,
+          "probability": 0.48
+        },
+        {
+          "word": "kỳ",
+          "start": 6.88,
+          "end": 7.04,
+          "probability": 0.72
+        },
+        {
+          "word": "em.",
+          "start": 7.04,
+          "end": 7.78,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.06,
+      "end": 8.54,
+      "text": "Nhi sao đâu? P' kỳ đau?",
+      "words": [
+        {
+          "word": "Nhi",
+          "start": 8.06,
+          "end": 8.06,
+          "probability": 0.26
+        },
+        {
+          "word": "sao",
+          "start": 8.06,
+          "end": 8.14,
+          "probability": 0.17
+        },
+        {
+          "word": "đâu?",
+          "start": 8.14,
+          "end": 8.26,
+          "probability": 0.19
+        },
+        {
+          "word": "P'",
+          "start": 8.38,
+          "end": 8.38,
+          "probability": 0.08
+        },
+        {
+          "word": "kỳ",
+          "start": 8.38,
+          "end": 8.38,
+          "probability": 0.57
+        },
+        {
+          "word": "đau?",
+          "start": 8.38,
+          "end": 8.54,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.28,
+      "end": 12.34,
+      "text": "Cái gì mà kỳ, bây giờ phải đi, bây giờ phải đi.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 9.28,
+          "end": 9.62,
+          "probability": 0.25
+        },
+        {
+          "word": "gì",
+          "start": 9.62,
+          "end": 9.78,
+          "probability": 0.39
+        },
+        {
+          "word": "mà",
+          "start": 9.78,
+          "end": 9.8,
+          "probability": 0.06
+        },
+        {
+          "word": "kỳ,",
+          "start": 9.8,
+          "end": 10.12,
+          "probability": 0.88
+        },
+        {
+          "word": "bây",
+          "start": 10.22,
+          "end": 10.5,
+          "probability": 0.93
+        },
+        {
+          "word": "giờ",
+          "start": 10.5,
+          "end": 10.56,
+          "probability": 0.98
+        },
+        {
+          "word": "phải",
+          "start": 10.56,
+          "end": 10.96,
+          "probability": 0.4
+        },
+        {
+          "word": "đi,",
+          "start": 10.96,
+          "end": 11.3,
+          "probability": 0.37
+        },
+        {
+          "word": "bây",
+          "start": 11.48,
+          "end": 11.68,
+          "probability": 0.55
+        },
+        {
+          "word": "giờ",
+          "start": 11.68,
+          "end": 11.68,
+          "probability": 1.0
+        },
+        {
+          "word": "phải",
+          "start": 11.68,
+          "end": 12.34,
+          "probability": 0.13
+        },
+        {
+          "word": "đi.",
+          "start": 12.34,
+          "end": 12.34,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.56,
+      "end": 14.12,
+      "text": "Đi này cho khá nạc khó.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 12.56,
+          "end": 12.7,
+          "probability": 0.48
+        },
+        {
+          "word": "này",
+          "start": 12.7,
+          "end": 12.8,
+          "probability": 0.11
+        },
+        {
+          "word": "cho",
+          "start": 12.8,
+          "end": 13.04,
+          "probability": 0.49
+        },
+        {
+          "word": "khá",
+          "start": 13.04,
+          "end": 13.26,
+          "probability": 0.74
+        },
+        {
+          "word": "nạc",
+          "start": 13.26,
+          "end": 13.42,
+          "probability": 0.32
+        },
+        {
+          "word": "khó.",
+          "start": 13.42,
+          "end": 14.12,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.42,
+      "end": 18.1,
+      "text": "Đi này cho khó nguồn, nhưng mà, bây giờ đi, bây giờ phải.",
+      "words": [
+        {
+          "word": "Đi",
+          "start": 14.42,
+          "end": 14.48,
+          "probability": 0.55
+        },
+        {
+          "word": "này",
+          "start": 14.48,
+          "end": 14.52,
+          "probability": 0.81
+        },
+        {
+          "word": "cho",
+          "start": 14.52,
+          "end": 14.72,
+          "probability": 0.68
+        },
+        {
+          "word": "khó",
+          "start": 14.72,
+          "end": 14.96,
+          "probability": 0.66
+        },
+        {
+          "word": "nguồn,",
+          "start": 14.96,
+          "end": 15.14,
+          "probability": 0.41
+        },
+        {
+          "word": "nhưng",
+          "start": 15.54,
+          "end": 15.9,
+          "probability": 0.12
+        },
+        {
+          "word": "mà,",
+          "start": 15.9,
+          "end": 15.9,
+          "probability": 0.82
+        },
+        {
+          "word": "bây",
+          "start": 15.9,
+          "end": 16.16,
+          "probability": 0.63
+        },
+        {
+          "word": "giờ",
+          "start": 16.16,
+          "end": 16.92,
+          "probability": 0.98
+        },
+        {
+          "word": "đi,",
+          "start": 16.92,
+          "end": 17.1,
+          "probability": 0.35
+        },
+        {
+          "word": "bây",
+          "start": 17.6,
+          "end": 17.6,
+          "probability": 0.87
+        },
+        {
+          "word": "giờ",
+          "start": 17.6,
+          "end": 17.6,
+          "probability": 0.99
+        },
+        {
+          "word": "phải.",
+          "start": 17.6,
+          "end": 18.1,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.92,
+      "end": 22.5,
+      "text": "Tìa các bạn sẽ có được kỳ em, em, em, em, em, em, em, em, em, em, em.",
+      "words": [
+        {
+          "word": "Tìa",
+          "start": 18.92,
+          "end": 19.24,
+          "probability": 0.34
+        },
+        {
+          "word": "các",
+          "start": 19.24,
+          "end": 19.4,
+          "probability": 0.61
+        },
+        {
+          "word": "bạn",
+          "start": 19.4,
+          "end": 19.46,
+          "probability": 0.99
+        },
+        {
+          "word": "sẽ",
+          "start": 19.46,
+          "end": 19.64,
+          "probability": 0.94
+        },
+        {
+          "word": "có",
+          "start": 19.64,
+          "end": 19.8,
+          "probability": 0.89
+        },
+        {
+          "word": "được",
+          "start": 19.8,
+          "end": 19.96,
+          "probability": 0.8
+        },
+        {
+          "word": "kỳ",
+          "start": 19.96,
+          "end": 20.18,
+          "probability": 0.97
+        },
+        {
+          "word": "em,",
+          "start": 20.18,
+          "end": 21.04,
+          "probability": 0.98
+        },
+        {
+          "word": "em,",
+          "start": 21.38,
+          "end": 21.46,
+          "probability": 0.1
+        },
+        {
+          "word": "em,",
+          "start": 21.46,
+          "end": 21.5,
+          "probability": 0.23
+        },
+        {
+          "word": "em,",
+          "start": 21.5,
+          "end": 21.54,
+          "probability": 0.45
+        },
+        {
+          "word": "em,",
+          "start": 21.54,
+          "end": 21.62,
+          "probability": 0.57
+        },
+        {
+          "word": "em,",
+          "start": 21.62,
+          "end": 21.66,
+          "probability": 0.71
+        },
+        {
+          "word": "em,",
+          "start": 21.66,
+          "end": 21.68,
+          "probability": 0.78
+        },
+        {
+          "word": "em,",
+          "start": 21.72,
+          "end": 21.72,
+          "probability": 0.81
+        },
+        {
+          "word": "em,",
+          "start": 21.76,
+          "end": 21.76,
+          "probability": 0.91
+        },
+        {
+          "word": "em,",
+          "start": 21.82,
+          "end": 21.82,
+          "probability": 0.93
+        },
+        {
+          "word": "em.",
+          "start": 22.5,
+          "end": 22.5,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 22.6,
+      "end": 23.94,
+      "text": "Nhi này mà mấy dứt.",
+      "words": [
+        {
+          "word": "Nhi",
+          "start": 22.6,
+          "end": 22.86,
+          "probability": 0.24
+        },
+        {
+          "word": "này",
+          "start": 22.86,
+          "end": 22.86,
+          "probability": 0.16
+        },
+        {
+          "word": "mà",
+          "start": 22.86,
+          "end": 23.0,
+          "probability": 0.89
+        },
+        {
+          "word": "mấy",
+          "start": 23.0,
+          "end": 23.14,
+          "probability": 0.29
+        },
+        {
+          "word": "dứt.",
+          "start": 23.14,
+          "end": 23.94,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 24.14,
+      "end": 27.12,
+      "text": "Bây giờ, thì đoều bây giờ, bây giờ, bây giờ, bây giờ,",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 24.14,
+          "end": 24.24,
+          "probability": 0.24
+        },
+        {
+          "word": "giờ,",
+          "start": 24.24,
+          "end": 24.36,
+          "probability": 1.0
+        },
+        {
+          "word": "thì",
+          "start": 24.92,
+          "end": 25.0,
+          "probability": 0.12
+        },
+        {
+          "word": "đoều",
+          "start": 25.0,
+          "end": 25.26,
+          "probability": 0.06
+        },
+        {
+          "word": "bây",
+          "start": 25.26,
+          "end": 25.74,
+          "probability": 0.67
+        },
+        {
+          "word": "giờ,",
+          "start": 25.74,
+          "end": 26.12,
+          "probability": 0.99
+        },
+        {
+          "word": "bây",
+          "start": 26.3,
+          "end": 26.46,
+          "probability": 0.72
+        },
+        {
+          "word": "giờ,",
+          "start": 26.46,
+          "end": 26.7,
+          "probability": 1.0
+        },
+        {
+          "word": "bây",
+          "start": 26.7,
+          "end": 26.7,
+          "probability": 0.59
+        },
+        {
+          "word": "giờ,",
+          "start": 26.7,
+          "end": 26.9,
+          "probability": 1.0
+        },
+        {
+          "word": "bây",
+          "start": 27.06,
+          "end": 27.12,
+          "probability": 0.55
+        },
+        {
+          "word": "giờ,",
+          "start": 27.12,
+          "end": 27.12,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 27.12,
+      "end": 28.86,
+      "text": "thì tỏa em, bây giờ, bây giờ, kỳ em có thể tính được.",
+      "words": [
+        {
+          "word": "thì",
+          "start": 27.12,
+          "end": 27.2,
+          "probability": 0.54
+        },
+        {
+          "word": "tỏa",
+          "start": 27.2,
+          "end": 27.44,
+          "probability": 0.24
+        },
+        {
+          "word": "em,",
+          "start": 27.44,
+          "end": 27.62,
+          "probability": 0.45
+        },
+        {
+          "word": "bây",
+          "start": 27.64,
+          "end": 27.78,
+          "probability": 0.9
+        },
+        {
+          "word": "giờ,",
+          "start": 27.78,
+          "end": 28.04,
+          "probability": 0.99
+        },
+        {
+          "word": "bây",
+          "start": 28.2,
+          "end": 28.2,
+          "probability": 0.64
+        },
+        {
+          "word": "giờ,",
+          "start": 28.2,
+          "end": 28.2,
+          "probability": 0.99
+        },
+        {
+          "word": "kỳ",
+          "start": 28.2,
+          "end": 28.2,
+          "probability": 0.68
+        },
+        {
+          "word": "em",
+          "start": 28.2,
+          "end": 28.3,
+          "probability": 0.87
+        },
+        {
+          "word": "có",
+          "start": 28.3,
+          "end": 28.44,
+          "probability": 0.85
+        },
+        {
+          "word": "thể",
+          "start": 28.44,
+          "end": 28.58,
+          "probability": 0.73
+        },
+        {
+          "word": "tính",
+          "start": 28.58,
+          "end": 28.72,
+          "probability": 0.59
+        },
+        {
+          "word": "được.",
+          "start": 28.72,
+          "end": 28.86,
+          "probability": 0.85
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "item_id": "tt_7661219407384874248_07",
+  "duration_seconds": 28.81,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 7,
+  "text": "Đó phải vừa rồi! Xin đi, nha!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 9.04,
+      "end": 10.5,
+      "text": "Đó phải vừa rồi!",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 9.04,
+          "end": 9.44,
+          "probability": 0.22
+        },
+        {
+          "word": "phải",
+          "start": 9.44,
+          "end": 9.64,
+          "probability": 0.24
+        },
+        {
+          "word": "vừa",
+          "start": 9.64,
+          "end": 9.98,
+          "probability": 0.21
+        },
+        {
+          "word": "rồi!",
+          "start": 9.98,
+          "end": 10.5,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 10.68,
+      "end": 11.22,
+      "text": "Xin đi, nha!",
+      "words": [
+        {
+          "word": "Xin",
+          "start": 10.68,
+          "end": 10.92,
+          "probability": 0.72
+        },
+        {
+          "word": "đi,",
+          "start": 10.92,
+          "end": 11.08,
+          "probability": 0.09
+        },
+        {
+          "word": "nha!",
+          "start": 11.22,
+          "end": 11.22,
+          "probability": 0.42
+        }
+      ]
+    }
+  ]
+}

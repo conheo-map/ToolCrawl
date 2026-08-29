@@ -1,0 +1,494 @@
+{
+  "item_id": "tt_7664824006310120725_03",
+  "duration_seconds": 28.08,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 70,
+  "text": "có hạt lên mại người kìm chờ bởi vì con trái đứt nó đúng như là thái nó bị chìm giữ lực sau ở nơi lỗi này giờ máo giữ lại tài nơi tài nơi bởi thì nó hãy bỏ chờ mời người như mời nơi nó con anh nhau ra thì nó cứ thể hợp cuốn hả? Nó, cuốn luôn mình sẽ bị xong tiên nước, tuyên sạch văn",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.9,
+      "text": "có hạt lên mại người kìm chờ bởi vì con trái đứt",
+      "words": [
+        {
+          "word": "có",
+          "start": 0.0,
+          "end": 0.62,
+          "probability": 0.43
+        },
+        {
+          "word": "hạt",
+          "start": 0.62,
+          "end": 1.72,
+          "probability": 0.15
+        },
+        {
+          "word": "lên",
+          "start": 1.72,
+          "end": 1.92,
+          "probability": 0.68
+        },
+        {
+          "word": "mại",
+          "start": 1.92,
+          "end": 2.22,
+          "probability": 0.24
+        },
+        {
+          "word": "người",
+          "start": 2.22,
+          "end": 2.48,
+          "probability": 0.14
+        },
+        {
+          "word": "kìm",
+          "start": 2.48,
+          "end": 2.74,
+          "probability": 0.46
+        },
+        {
+          "word": "chờ",
+          "start": 2.74,
+          "end": 2.92,
+          "probability": 0.35
+        },
+        {
+          "word": "bởi",
+          "start": 2.92,
+          "end": 3.32,
+          "probability": 0.46
+        },
+        {
+          "word": "vì",
+          "start": 3.32,
+          "end": 3.68,
+          "probability": 0.16
+        },
+        {
+          "word": "con",
+          "start": 3.68,
+          "end": 5.02,
+          "probability": 0.08
+        },
+        {
+          "word": "trái",
+          "start": 5.02,
+          "end": 5.3,
+          "probability": 0.54
+        },
+        {
+          "word": "đứt",
+          "start": 5.3,
+          "end": 5.9,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.9,
+      "end": 7.52,
+      "text": "nó đúng như là",
+      "words": [
+        {
+          "word": "nó",
+          "start": 5.9,
+          "end": 6.36,
+          "probability": 0.04
+        },
+        {
+          "word": "đúng",
+          "start": 6.36,
+          "end": 6.52,
+          "probability": 0.17
+        },
+        {
+          "word": "như",
+          "start": 6.52,
+          "end": 6.62,
+          "probability": 0.07
+        },
+        {
+          "word": "là",
+          "start": 6.62,
+          "end": 7.52,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.86,
+      "end": 10.32,
+      "text": "thái nó",
+      "words": [
+        {
+          "word": "thái",
+          "start": 8.86,
+          "end": 9.5,
+          "probability": 0.33
+        },
+        {
+          "word": "nó",
+          "start": 9.5,
+          "end": 10.32,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.32,
+      "end": 12.8,
+      "text": "bị chìm giữ lực sau ở nơi lỗi này",
+      "words": [
+        {
+          "word": "bị",
+          "start": 10.32,
+          "end": 11.18,
+          "probability": 0.3
+        },
+        {
+          "word": "chìm",
+          "start": 11.18,
+          "end": 11.48,
+          "probability": 0.58
+        },
+        {
+          "word": "giữ",
+          "start": 11.48,
+          "end": 11.58,
+          "probability": 0.19
+        },
+        {
+          "word": "lực",
+          "start": 11.58,
+          "end": 11.8,
+          "probability": 0.49
+        },
+        {
+          "word": "sau",
+          "start": 11.8,
+          "end": 11.96,
+          "probability": 0.75
+        },
+        {
+          "word": "ở",
+          "start": 11.96,
+          "end": 12.12,
+          "probability": 0.27
+        },
+        {
+          "word": "nơi",
+          "start": 12.12,
+          "end": 12.38,
+          "probability": 0.19
+        },
+        {
+          "word": "lỗi",
+          "start": 12.38,
+          "end": 12.72,
+          "probability": 0.32
+        },
+        {
+          "word": "này",
+          "start": 12.72,
+          "end": 12.8,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.38,
+      "end": 17.1,
+      "text": "giờ máo giữ lại tài nơi tài nơi bởi",
+      "words": [
+        {
+          "word": "giờ",
+          "start": 13.38,
+          "end": 13.9,
+          "probability": 0.01
+        },
+        {
+          "word": "máo",
+          "start": 13.9,
+          "end": 14.28,
+          "probability": 0.18
+        },
+        {
+          "word": "giữ",
+          "start": 14.28,
+          "end": 14.52,
+          "probability": 0.76
+        },
+        {
+          "word": "lại",
+          "start": 14.52,
+          "end": 14.72,
+          "probability": 0.37
+        },
+        {
+          "word": "tài",
+          "start": 14.72,
+          "end": 15.24,
+          "probability": 0.11
+        },
+        {
+          "word": "nơi",
+          "start": 15.24,
+          "end": 15.28,
+          "probability": 0.17
+        },
+        {
+          "word": "tài",
+          "start": 15.28,
+          "end": 15.62,
+          "probability": 0.55
+        },
+        {
+          "word": "nơi",
+          "start": 15.62,
+          "end": 16.3,
+          "probability": 0.47
+        },
+        {
+          "word": "bởi",
+          "start": 16.3,
+          "end": 17.1,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 17.1,
+      "end": 20.2,
+      "text": "thì nó hãy bỏ chờ mời người như mời nơi",
+      "words": [
+        {
+          "word": "thì",
+          "start": 17.1,
+          "end": 17.66,
+          "probability": 0.01
+        },
+        {
+          "word": "nó",
+          "start": 17.66,
+          "end": 17.84,
+          "probability": 0.29
+        },
+        {
+          "word": "hãy",
+          "start": 17.84,
+          "end": 18.2,
+          "probability": 0.13
+        },
+        {
+          "word": "bỏ",
+          "start": 18.2,
+          "end": 18.2,
+          "probability": 0.13
+        },
+        {
+          "word": "chờ",
+          "start": 18.2,
+          "end": 18.4,
+          "probability": 0.35
+        },
+        {
+          "word": "mời",
+          "start": 18.4,
+          "end": 18.64,
+          "probability": 0.42
+        },
+        {
+          "word": "người",
+          "start": 18.64,
+          "end": 18.74,
+          "probability": 0.08
+        },
+        {
+          "word": "như",
+          "start": 18.74,
+          "end": 18.98,
+          "probability": 0.17
+        },
+        {
+          "word": "mời",
+          "start": 18.98,
+          "end": 19.08,
+          "probability": 0.45
+        },
+        {
+          "word": "nơi",
+          "start": 19.08,
+          "end": 20.2,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 20.2,
+      "end": 23.72,
+      "text": "nó con anh nhau ra thì nó cứ thể hợp cuốn hả?",
+      "words": [
+        {
+          "word": "nó",
+          "start": 20.2,
+          "end": 20.2,
+          "probability": 0.01
+        },
+        {
+          "word": "con",
+          "start": 20.2,
+          "end": 20.7,
+          "probability": 0.02
+        },
+        {
+          "word": "anh",
+          "start": 20.7,
+          "end": 20.8,
+          "probability": 0.26
+        },
+        {
+          "word": "nhau",
+          "start": 20.8,
+          "end": 21.04,
+          "probability": 0.53
+        },
+        {
+          "word": "ra",
+          "start": 21.04,
+          "end": 21.4,
+          "probability": 0.42
+        },
+        {
+          "word": "thì",
+          "start": 21.4,
+          "end": 21.74,
+          "probability": 0.12
+        },
+        {
+          "word": "nó",
+          "start": 21.74,
+          "end": 22.26,
+          "probability": 0.37
+        },
+        {
+          "word": "cứ",
+          "start": 22.26,
+          "end": 22.44,
+          "probability": 0.49
+        },
+        {
+          "word": "thể",
+          "start": 22.44,
+          "end": 22.62,
+          "probability": 0.18
+        },
+        {
+          "word": "hợp",
+          "start": 22.62,
+          "end": 22.84,
+          "probability": 0.47
+        },
+        {
+          "word": "cuốn",
+          "start": 22.84,
+          "end": 23.12,
+          "probability": 0.23
+        },
+        {
+          "word": "hả?",
+          "start": 23.12,
+          "end": 23.72,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 24.86,
+      "end": 27.66,
+      "text": "Nó, cuốn luôn mình sẽ bị xong tiên nước, tuyên sạch văn",
+      "words": [
+        {
+          "word": "Nó,",
+          "start": 24.86,
+          "end": 24.92,
+          "probability": 0.1
+        },
+        {
+          "word": "cuốn",
+          "start": 25.12,
+          "end": 25.28,
+          "probability": 0.91
+        },
+        {
+          "word": "luôn",
+          "start": 25.28,
+          "end": 25.48,
+          "probability": 0.41
+        },
+        {
+          "word": "mình",
+          "start": 25.48,
+          "end": 25.76,
+          "probability": 0.45
+        },
+        {
+          "word": "sẽ",
+          "start": 25.76,
+          "end": 25.92,
+          "probability": 0.57
+        },
+        {
+          "word": "bị",
+          "start": 25.92,
+          "end": 26.16,
+          "probability": 0.16
+        },
+        {
+          "word": "xong",
+          "start": 26.16,
+          "end": 26.32,
+          "probability": 0.38
+        },
+        {
+          "word": "tiên",
+          "start": 26.32,
+          "end": 26.5,
+          "probability": 0.13
+        },
+        {
+          "word": "nước,",
+          "start": 26.5,
+          "end": 26.74,
+          "probability": 0.16
+        },
+        {
+          "word": "tuyên",
+          "start": 26.74,
+          "end": 27.0,
+          "probability": 0.25
+        },
+        {
+          "word": "sạch",
+          "start": 27.0,
+          "end": 27.28,
+          "probability": 0.46
+        },
+        {
+          "word": "văn",
+          "start": 27.28,
+          "end": 27.66,
+          "probability": 0.32
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "item_id": "tt_7669386169901272337_05",
+  "duration_seconds": 29.92,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 14,
+  "text": "Vất là nơi hơi nha Em mơm chật anh Vạch mơm mơm kia xa",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 23.82,
+      "text": "Vất là nơi hơi nha",
+      "words": [
+        {
+          "word": "Vất",
+          "start": 0.08,
+          "end": 1.36,
+          "probability": 0.12
+        },
+        {
+          "word": "là",
+          "start": 22.86,
+          "end": 23.0,
+          "probability": 0.23
+        },
+        {
+          "word": "nơi",
+          "start": 23.0,
+          "end": 23.12,
+          "probability": 0.19
+        },
+        {
+          "word": "hơi",
+          "start": 23.12,
+          "end": 23.3,
+          "probability": 0.19
+        },
+        {
+          "word": "nha",
+          "start": 23.3,
+          "end": 23.82,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 23.82,
+      "end": 26.24,
+      "text": "Em mơm chật anh",
+      "words": [
+        {
+          "word": "Em",
+          "start": 23.82,
+          "end": 24.88,
+          "probability": 0.21
+        },
+        {
+          "word": "mơm",
+          "start": 24.88,
+          "end": 25.3,
+          "probability": 0.51
+        },
+        {
+          "word": "chật",
+          "start": 25.3,
+          "end": 25.56,
+          "probability": 0.58
+        },
+        {
+          "word": "anh",
+          "start": 25.56,
+          "end": 26.24,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 26.24,
+      "end": 29.4,
+      "text": "Vạch mơm mơm kia xa",
+      "words": [
+        {
+          "word": "Vạch",
+          "start": 26.24,
+          "end": 27.06,
+          "probability": 0.36
+        },
+        {
+          "word": "mơm",
+          "start": 27.06,
+          "end": 27.98,
+          "probability": 0.61
+        },
+        {
+          "word": "mơm",
+          "start": 27.98,
+          "end": 28.5,
+          "probability": 0.54
+        },
+        {
+          "word": "kia",
+          "start": 28.5,
+          "end": 28.7,
+          "probability": 0.09
+        },
+        {
+          "word": "xa",
+          "start": 28.7,
+          "end": 29.4,
+          "probability": 0.42
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "item_id": "tt_7655553826597915925_20",
+  "duration_seconds": 29.29,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 87,
+  "text": "mà con chắn với người chứng hạn mà hành xin kinh. Còn nó với mẹ là... đây là buc hoa xanh. Mẹ có thất không? Thì rất là chị, chị nhìn vào bất án thì chị nói là rất là thất. Mẹ biết, vừa sao mà con... con thất hoa xanh không? Chị nghĩ mấy hỏi là vừa sao thì con nó là hà xanh. Mặc dụ, nó đứng như bùng. Nè, hồi, nó nhưng mà nó vẫn vụng lần. Để tỏ hư. Làm đẹp cho đời.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.22,
+      "text": "mà con chắn với người chứng hạn mà hành xin kinh.",
+      "words": [
+        {
+          "word": "mà",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.27
+        },
+        {
+          "word": "con",
+          "start": 0.32,
+          "end": 0.5,
+          "probability": 0.24
+        },
+        {
+          "word": "chắn",
+          "start": 0.5,
+          "end": 0.66,
+          "probability": 0.25
+        },
+        {
+          "word": "với",
+          "start": 0.66,
+          "end": 0.82,
+          "probability": 0.11
+        },
+        {
+          "word": "người",
+          "start": 0.82,
+          "end": 1.0,
+          "probability": 0.35
+        },
+        {
+          "word": "chứng",
+          "start": 1.0,
+          "end": 1.18,
+          "probability": 0.55
+        },
+        {
+          "word": "hạn",
+          "start": 1.18,
+          "end": 1.42,
+          "probability": 0.34
+        },
+        {
+          "word": "mà",
+          "start": 1.42,
+          "end": 1.6,
+          "probability": 0.23
+        },
+        {
+          "word": "hành",
+          "start": 1.6,
+          "end": 1.8,
+          "probability": 0.54
+        },
+        {
+          "word": "xin",
+          "start": 1.8,
+          "end": 1.9,
+          "probability": 0.27
+        },
+        {
+          "word": "kinh.",
+          "start": 1.9,
+          "end": 2.22,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.26,
+      "end": 4.04,
+      "text": "Còn nó với mẹ là...",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 2.26,
+          "end": 2.46,
+          "probability": 0.6
+        },
+        {
+          "word": "nó",
+          "start": 2.46,
+          "end": 2.66,
+          "probability": 0.45
+        },
+        {
+          "word": "với",
+          "start": 2.66,
+          "end": 2.82,
+          "probability": 0.35
+        },
+        {
+          "word": "mẹ",
+          "start": 2.82,
+          "end": 3.06,
+          "probability": 0.83
+        },
+        {
+          "word": "là...",
+          "start": 3.06,
+          "end": 4.04,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.04,
+      "end": 5.3,
+      "text": "đây là buc hoa xanh.",
+      "words": [
+        {
+          "word": "đây",
+          "start": 4.04,
+          "end": 4.24,
+          "probability": 0.33
+        },
+        {
+          "word": "là",
+          "start": 4.24,
+          "end": 4.44,
+          "probability": 1.0
+        },
+        {
+          "word": "buc",
+          "start": 4.44,
+          "end": 4.6,
+          "probability": 0.22
+        },
+        {
+          "word": "hoa",
+          "start": 4.6,
+          "end": 4.8,
+          "probability": 0.39
+        },
+        {
+          "word": "xanh.",
+          "start": 4.8,
+          "end": 5.3,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.86,
+      "end": 6.72,
+      "text": "Mẹ có thất không?",
+      "words": [
+        {
+          "word": "Mẹ",
+          "start": 5.86,
+          "end": 6.0,
+          "probability": 0.67
+        },
+        {
+          "word": "có",
+          "start": 6.0,
+          "end": 6.16,
+          "probability": 0.92
+        },
+        {
+          "word": "thất",
+          "start": 6.16,
+          "end": 6.36,
+          "probability": 0.7
+        },
+        {
+          "word": "không?",
+          "start": 6.36,
+          "end": 6.72,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.1,
+      "end": 10.76,
+      "text": "Thì rất là chị, chị nhìn vào bất án thì chị nói là rất là thất.",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 7.1,
+          "end": 7.24,
+          "probability": 0.47
+        },
+        {
+          "word": "rất",
+          "start": 7.24,
+          "end": 7.42,
+          "probability": 0.29
+        },
+        {
+          "word": "là",
+          "start": 7.42,
+          "end": 7.68,
+          "probability": 0.85
+        },
+        {
+          "word": "chị,",
+          "start": 7.68,
+          "end": 7.96,
+          "probability": 0.25
+        },
+        {
+          "word": "chị",
+          "start": 8.1,
+          "end": 8.44,
+          "probability": 0.27
+        },
+        {
+          "word": "nhìn",
+          "start": 8.44,
+          "end": 8.6,
+          "probability": 0.68
+        },
+        {
+          "word": "vào",
+          "start": 8.6,
+          "end": 8.86,
+          "probability": 0.91
+        },
+        {
+          "word": "bất",
+          "start": 8.86,
+          "end": 9.02,
+          "probability": 0.51
+        },
+        {
+          "word": "án",
+          "start": 9.02,
+          "end": 9.22,
+          "probability": 0.49
+        },
+        {
+          "word": "thì",
+          "start": 9.22,
+          "end": 9.38,
+          "probability": 0.81
+        },
+        {
+          "word": "chị",
+          "start": 9.38,
+          "end": 9.56,
+          "probability": 0.58
+        },
+        {
+          "word": "nói",
+          "start": 9.56,
+          "end": 9.76,
+          "probability": 0.78
+        },
+        {
+          "word": "là",
+          "start": 9.76,
+          "end": 9.92,
+          "probability": 0.52
+        },
+        {
+          "word": "rất",
+          "start": 9.92,
+          "end": 10.1,
+          "probability": 0.98
+        },
+        {
+          "word": "là",
+          "start": 10.1,
+          "end": 10.18,
+          "probability": 0.77
+        },
+        {
+          "word": "thất.",
+          "start": 10.18,
+          "end": 10.76,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.32,
+      "end": 13.44,
+      "text": "Mẹ biết, vừa sao mà con...",
+      "words": [
+        {
+          "word": "Mẹ",
+          "start": 11.32,
+          "end": 11.48,
+          "probability": 0.86
+        },
+        {
+          "word": "biết,",
+          "start": 11.48,
+          "end": 11.7,
+          "probability": 0.93
+        },
+        {
+          "word": "vừa",
+          "start": 11.84,
+          "end": 12.14,
+          "probability": 0.12
+        },
+        {
+          "word": "sao",
+          "start": 12.14,
+          "end": 12.48,
+          "probability": 0.4
+        },
+        {
+          "word": "mà",
+          "start": 12.48,
+          "end": 12.84,
+          "probability": 0.91
+        },
+        {
+          "word": "con...",
+          "start": 12.84,
+          "end": 13.44,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 14.2,
+      "end": 15.46,
+      "text": "con thất hoa xanh không?",
+      "words": [
+        {
+          "word": "con",
+          "start": 14.2,
+          "end": 14.36,
+          "probability": 0.82
+        },
+        {
+          "word": "thất",
+          "start": 14.36,
+          "end": 14.52,
+          "probability": 0.9
+        },
+        {
+          "word": "hoa",
+          "start": 14.52,
+          "end": 14.72,
+          "probability": 0.98
+        },
+        {
+          "word": "xanh",
+          "start": 14.72,
+          "end": 14.94,
+          "probability": 0.99
+        },
+        {
+          "word": "không?",
+          "start": 14.94,
+          "end": 15.46,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.84,
+      "end": 18.72,
+      "text": "Chị nghĩ mấy hỏi là vừa sao thì con nó là hà xanh.",
+      "words": [
+        {
+          "word": "Chị",
+          "start": 15.84,
+          "end": 16.02,
+          "probability": 0.45
+        },
+        {
+          "word": "nghĩ",
+          "start": 16.02,
+          "end": 16.26,
+          "probability": 0.14
+        },
+        {
+          "word": "mấy",
+          "start": 16.26,
+          "end": 16.38,
+          "probability": 0.29
+        },
+        {
+          "word": "hỏi",
+          "start": 16.38,
+          "end": 16.56,
+          "probability": 0.77
+        },
+        {
+          "word": "là",
+          "start": 16.56,
+          "end": 16.76,
+          "probability": 0.95
+        },
+        {
+          "word": "vừa",
+          "start": 16.76,
+          "end": 16.92,
+          "probability": 0.64
+        },
+        {
+          "word": "sao",
+          "start": 16.92,
+          "end": 17.18,
+          "probability": 0.99
+        },
+        {
+          "word": "thì",
+          "start": 17.18,
+          "end": 17.38,
+          "probability": 0.8
+        },
+        {
+          "word": "con",
+          "start": 17.38,
+          "end": 17.58,
+          "probability": 0.85
+        },
+        {
+          "word": "nó",
+          "start": 17.58,
+          "end": 17.8,
+          "probability": 0.87
+        },
+        {
+          "word": "là",
+          "start": 17.8,
+          "end": 18.06,
+          "probability": 0.92
+        },
+        {
+          "word": "hà",
+          "start": 18.06,
+          "end": 18.32,
+          "probability": 0.45
+        },
+        {
+          "word": "xanh.",
+          "start": 18.32,
+          "end": 18.72,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 19.34,
+      "end": 22.12,
+      "text": "Mặc dụ, nó đứng như bùng.",
+      "words": [
+        {
+          "word": "Mặc",
+          "start": 19.34,
+          "end": 19.34,
+          "probability": 0.78
+        },
+        {
+          "word": "dụ,",
+          "start": 19.34,
+          "end": 19.62,
+          "probability": 0.63
+        },
+        {
+          "word": "nó",
+          "start": 20.48,
+          "end": 20.9,
+          "probability": 0.26
+        },
+        {
+          "word": "đứng",
+          "start": 20.9,
+          "end": 21.08,
+          "probability": 0.38
+        },
+        {
+          "word": "như",
+          "start": 21.08,
+          "end": 21.24,
+          "probability": 0.3
+        },
+        {
+          "word": "bùng.",
+          "start": 21.24,
+          "end": 22.12,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 22.8,
+      "end": 25.74,
+      "text": "Nè, hồi, nó nhưng mà nó vẫn vụng lần.",
+      "words": [
+        {
+          "word": "Nè,",
+          "start": 22.8,
+          "end": 22.82,
+          "probability": 0.25
+        },
+        {
+          "word": "hồi,",
+          "start": 23.4,
+          "end": 23.92,
+          "probability": 0.45
+        },
+        {
+          "word": "nó",
+          "start": 24.26,
+          "end": 24.42,
+          "probability": 0.19
+        },
+        {
+          "word": "nhưng",
+          "start": 24.42,
+          "end": 24.58,
+          "probability": 0.48
+        },
+        {
+          "word": "mà",
+          "start": 24.58,
+          "end": 24.76,
+          "probability": 0.97
+        },
+        {
+          "word": "nó",
+          "start": 24.76,
+          "end": 24.96,
+          "probability": 0.98
+        },
+        {
+          "word": "vẫn",
+          "start": 24.96,
+          "end": 25.12,
+          "probability": 0.69
+        },
+        {
+          "word": "vụng",
+          "start": 25.12,
+          "end": 25.42,
+          "probability": 0.64
+        },
+        {
+          "word": "lần.",
+          "start": 25.42,
+          "end": 25.74,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 26.4,
+      "end": 27.8,
+      "text": "Để tỏ hư.",
+      "words": [
+        {
+          "word": "Để",
+          "start": 26.4,
+          "end": 26.58,
+          "probability": 0.84
+        },
+        {
+          "word": "tỏ",
+          "start": 26.58,
+          "end": 26.86,
+          "probability": 0.55
+        },
+        {
+          "word": "hư.",
+          "start": 26.86,
+          "end": 27.8,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 28.04,
+      "end": 28.94,
+      "text": "Làm đẹp cho đời.",
+      "words": [
+        {
+          "word": "Làm",
+          "start": 28.04,
+          "end": 28.2,
+          "probability": 0.72
+        },
+        {
+          "word": "đẹp",
+          "start": 28.2,
+          "end": 28.4,
+          "probability": 0.96
+        },
+        {
+          "word": "cho",
+          "start": 28.4,
+          "end": 28.62,
+          "probability": 0.74
+        },
+        {
+          "word": "đời.",
+          "start": 28.62,
+          "end": 28.94,
+          "probability": 0.73
+        }
+      ]
+    }
+  ]
+}

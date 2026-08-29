@@ -1,0 +1,110 @@
+{
+  "item_id": "tt_7264476369994697991",
+  "duration_seconds": 14.15,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 14,
+  "text": "Thấy, thấy, thấy, thấy, thấy, thấy. Dí có đừng trái tủ đàn, nhé, thầy.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.18,
+      "end": 1.62,
+      "text": "Thấy, thấy, thấy, thấy, thấy, thấy.",
+      "words": [
+        {
+          "word": "Thấy,",
+          "start": 0.18,
+          "end": 0.44,
+          "probability": 0.04
+        },
+        {
+          "word": "thấy,",
+          "start": 0.9,
+          "end": 1.48,
+          "probability": 0.37
+        },
+        {
+          "word": "thấy,",
+          "start": 1.5,
+          "end": 1.62,
+          "probability": 0.7
+        },
+        {
+          "word": "thấy,",
+          "start": 1.62,
+          "end": 1.62,
+          "probability": 0.77
+        },
+        {
+          "word": "thấy,",
+          "start": 1.62,
+          "end": 1.62,
+          "probability": 0.83
+        },
+        {
+          "word": "thấy.",
+          "start": 1.62,
+          "end": 1.62,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.62,
+      "end": 3.66,
+      "text": "Dí có đừng trái tủ đàn, nhé, thầy.",
+      "words": [
+        {
+          "word": "Dí",
+          "start": 1.62,
+          "end": 1.66,
+          "probability": 0.05
+        },
+        {
+          "word": "có",
+          "start": 1.66,
+          "end": 1.92,
+          "probability": 0.47
+        },
+        {
+          "word": "đừng",
+          "start": 1.92,
+          "end": 2.18,
+          "probability": 0.39
+        },
+        {
+          "word": "trái",
+          "start": 2.18,
+          "end": 2.48,
+          "probability": 0.5
+        },
+        {
+          "word": "tủ",
+          "start": 2.48,
+          "end": 2.7,
+          "probability": 0.14
+        },
+        {
+          "word": "đàn,",
+          "start": 2.7,
+          "end": 3.04,
+          "probability": 0.3
+        },
+        {
+          "word": "nhé,",
+          "start": 3.16,
+          "end": 3.22,
+          "probability": 0.2
+        },
+        {
+          "word": "thầy.",
+          "start": 3.4,
+          "end": 3.66,
+          "probability": 0.49
+        }
+      ]
+    }
+  ]
+}

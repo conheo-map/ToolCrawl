@@ -1,0 +1,66 @@
+{
+  "item_id": "tt_7640497316226452757_11",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 8,
+  "text": "Lời đỏng thế ông, bản thân gì cả.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Lời đỏng thế ông, bản thân gì cả.",
+      "words": [
+        {
+          "word": "Lời",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.21
+        },
+        {
+          "word": "đỏng",
+          "start": 0.42,
+          "end": 0.72,
+          "probability": 0.26
+        },
+        {
+          "word": "thế",
+          "start": 0.72,
+          "end": 0.88,
+          "probability": 0.36
+        },
+        {
+          "word": "ông,",
+          "start": 0.88,
+          "end": 1.1,
+          "probability": 0.35
+        },
+        {
+          "word": "bản",
+          "start": 1.12,
+          "end": 1.28,
+          "probability": 0.25
+        },
+        {
+          "word": "thân",
+          "start": 1.28,
+          "end": 1.42,
+          "probability": 0.53
+        },
+        {
+          "word": "gì",
+          "start": 1.42,
+          "end": 1.72,
+          "probability": 0.07
+        },
+        {
+          "word": "cả.",
+          "start": 1.72,
+          "end": 2.16,
+          "probability": 0.55
+        }
+      ]
+    }
+  ]
+}

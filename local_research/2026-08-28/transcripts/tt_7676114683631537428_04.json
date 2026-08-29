@@ -1,0 +1,936 @@
+{
+  "item_id": "tt_7676114683631537428_04",
+  "duration_seconds": 29.46,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 137,
+  "text": "Tìm đó thì nói mẹo sòng nhé. Tìm đó thì sẽ nói mẹo để kém tìm được càng ngà mà xin luôn. Nhà, nhưng mà chưa được kém thật ít thì đợp của cuộc thi. Y ra, thí sao, thí sao, thí sao, thì bình được kém như thế, bình được kém như thế. Bình được, nó kém như thế, đúng không? Nhân như thế. Tại vì kém này thì đợp của cuộc này thì đứa của cuộc thì kém như thế. Nhân như thế. Nhưng mà thời khuyên này. Chông như thế này, tuần này kém muốn miếng diền một phát càng ngang cả xin luôn. Chông như bài toán của càng càng tích như thế này. Ghiêm làm cái tìm của cái mẹo như thế này. Tìm nói về mẹo luôn, theo dụng đánh ngang.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.56,
+      "text": "Tìm đó thì nói mẹo sòng nhé.",
+      "words": [
+        {
+          "word": "Tìm",
+          "start": 0.02,
+          "end": 0.64,
+          "probability": 0.4
+        },
+        {
+          "word": "đó",
+          "start": 0.64,
+          "end": 0.64,
+          "probability": 0.11
+        },
+        {
+          "word": "thì",
+          "start": 0.64,
+          "end": 0.78,
+          "probability": 0.36
+        },
+        {
+          "word": "nói",
+          "start": 0.78,
+          "end": 1.0,
+          "probability": 0.66
+        },
+        {
+          "word": "mẹo",
+          "start": 1.0,
+          "end": 1.24,
+          "probability": 0.49
+        },
+        {
+          "word": "sòng",
+          "start": 1.24,
+          "end": 1.34,
+          "probability": 0.22
+        },
+        {
+          "word": "nhé.",
+          "start": 1.34,
+          "end": 1.56,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.84,
+      "end": 4.58,
+      "text": "Tìm đó thì sẽ nói mẹo để kém tìm được càng ngà mà xin luôn.",
+      "words": [
+        {
+          "word": "Tìm",
+          "start": 1.84,
+          "end": 1.98,
+          "probability": 0.73
+        },
+        {
+          "word": "đó",
+          "start": 1.98,
+          "end": 2.02,
+          "probability": 0.85
+        },
+        {
+          "word": "thì",
+          "start": 2.02,
+          "end": 2.2,
+          "probability": 0.69
+        },
+        {
+          "word": "sẽ",
+          "start": 2.2,
+          "end": 2.36,
+          "probability": 0.74
+        },
+        {
+          "word": "nói",
+          "start": 2.36,
+          "end": 2.64,
+          "probability": 0.97
+        },
+        {
+          "word": "mẹo",
+          "start": 2.64,
+          "end": 2.92,
+          "probability": 0.98
+        },
+        {
+          "word": "để",
+          "start": 2.92,
+          "end": 3.1,
+          "probability": 0.84
+        },
+        {
+          "word": "kém",
+          "start": 3.1,
+          "end": 3.24,
+          "probability": 0.35
+        },
+        {
+          "word": "tìm",
+          "start": 3.24,
+          "end": 3.42,
+          "probability": 0.73
+        },
+        {
+          "word": "được",
+          "start": 3.42,
+          "end": 3.6,
+          "probability": 0.92
+        },
+        {
+          "word": "càng",
+          "start": 3.6,
+          "end": 3.76,
+          "probability": 0.42
+        },
+        {
+          "word": "ngà",
+          "start": 3.76,
+          "end": 3.92,
+          "probability": 0.43
+        },
+        {
+          "word": "mà",
+          "start": 3.92,
+          "end": 4.1,
+          "probability": 0.52
+        },
+        {
+          "word": "xin",
+          "start": 4.1,
+          "end": 4.26,
+          "probability": 0.8
+        },
+        {
+          "word": "luôn.",
+          "start": 4.26,
+          "end": 4.58,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.24,
+      "end": 7.26,
+      "text": "Nhà, nhưng mà chưa được kém thật ít thì đợp của cuộc thi.",
+      "words": [
+        {
+          "word": "Nhà,",
+          "start": 5.24,
+          "end": 5.36,
+          "probability": 0.85
+        },
+        {
+          "word": "nhưng",
+          "start": 5.66,
+          "end": 5.7,
+          "probability": 0.82
+        },
+        {
+          "word": "mà",
+          "start": 5.7,
+          "end": 5.8,
+          "probability": 0.97
+        },
+        {
+          "word": "chưa",
+          "start": 5.8,
+          "end": 5.94,
+          "probability": 0.33
+        },
+        {
+          "word": "được",
+          "start": 5.94,
+          "end": 6.14,
+          "probability": 0.19
+        },
+        {
+          "word": "kém",
+          "start": 6.14,
+          "end": 6.26,
+          "probability": 0.61
+        },
+        {
+          "word": "thật",
+          "start": 6.26,
+          "end": 6.42,
+          "probability": 0.34
+        },
+        {
+          "word": "ít",
+          "start": 6.42,
+          "end": 6.56,
+          "probability": 0.26
+        },
+        {
+          "word": "thì",
+          "start": 6.56,
+          "end": 6.68,
+          "probability": 0.46
+        },
+        {
+          "word": "đợp",
+          "start": 6.68,
+          "end": 6.76,
+          "probability": 0.36
+        },
+        {
+          "word": "của",
+          "start": 6.76,
+          "end": 6.88,
+          "probability": 0.36
+        },
+        {
+          "word": "cuộc",
+          "start": 6.88,
+          "end": 7.06,
+          "probability": 0.37
+        },
+        {
+          "word": "thi.",
+          "start": 7.06,
+          "end": 7.26,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.02,
+      "end": 11.96,
+      "text": "Y ra, thí sao, thí sao, thí sao, thì bình được kém như thế, bình được kém như thế.",
+      "words": [
+        {
+          "word": "Y",
+          "start": 8.02,
+          "end": 8.24,
+          "probability": 0.24
+        },
+        {
+          "word": "ra,",
+          "start": 8.24,
+          "end": 8.38,
+          "probability": 0.15
+        },
+        {
+          "word": "thí",
+          "start": 8.84,
+          "end": 9.0,
+          "probability": 0.21
+        },
+        {
+          "word": "sao,",
+          "start": 9.0,
+          "end": 9.2,
+          "probability": 0.42
+        },
+        {
+          "word": "thí",
+          "start": 9.6,
+          "end": 9.72,
+          "probability": 0.86
+        },
+        {
+          "word": "sao,",
+          "start": 9.72,
+          "end": 9.9,
+          "probability": 0.99
+        },
+        {
+          "word": "thí",
+          "start": 10.1,
+          "end": 10.14,
+          "probability": 0.53
+        },
+        {
+          "word": "sao,",
+          "start": 10.14,
+          "end": 10.14,
+          "probability": 0.95
+        },
+        {
+          "word": "thì",
+          "start": 10.14,
+          "end": 10.16,
+          "probability": 0.27
+        },
+        {
+          "word": "bình",
+          "start": 10.16,
+          "end": 10.28,
+          "probability": 0.85
+        },
+        {
+          "word": "được",
+          "start": 10.28,
+          "end": 10.4,
+          "probability": 0.08
+        },
+        {
+          "word": "kém",
+          "start": 10.4,
+          "end": 10.6,
+          "probability": 0.58
+        },
+        {
+          "word": "như",
+          "start": 10.6,
+          "end": 10.72,
+          "probability": 0.12
+        },
+        {
+          "word": "thế,",
+          "start": 10.72,
+          "end": 11.22,
+          "probability": 0.2
+        },
+        {
+          "word": "bình",
+          "start": 11.36,
+          "end": 11.7,
+          "probability": 0.64
+        },
+        {
+          "word": "được",
+          "start": 11.7,
+          "end": 11.8,
+          "probability": 0.8
+        },
+        {
+          "word": "kém",
+          "start": 11.8,
+          "end": 11.96,
+          "probability": 0.43
+        },
+        {
+          "word": "như",
+          "start": 11.96,
+          "end": 11.96,
+          "probability": 0.77
+        },
+        {
+          "word": "thế.",
+          "start": 11.96,
+          "end": 11.96,
+          "probability": 0.93
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.96,
+      "end": 12.9,
+      "text": "Bình được, nó kém như thế, đúng không?",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 11.96,
+          "end": 11.96,
+          "probability": 0.84
+        },
+        {
+          "word": "được,",
+          "start": 11.96,
+          "end": 11.96,
+          "probability": 0.91
+        },
+        {
+          "word": "nó",
+          "start": 11.98,
+          "end": 12.1,
+          "probability": 0.11
+        },
+        {
+          "word": "kém",
+          "start": 12.1,
+          "end": 12.18,
+          "probability": 0.94
+        },
+        {
+          "word": "như",
+          "start": 12.18,
+          "end": 12.28,
+          "probability": 0.75
+        },
+        {
+          "word": "thế,",
+          "start": 12.28,
+          "end": 12.42,
+          "probability": 1.0
+        },
+        {
+          "word": "đúng",
+          "start": 12.62,
+          "end": 12.76,
+          "probability": 0.43
+        },
+        {
+          "word": "không?",
+          "start": 12.76,
+          "end": 12.9,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.26,
+      "end": 13.68,
+      "text": "Nhân như thế.",
+      "words": [
+        {
+          "word": "Nhân",
+          "start": 13.26,
+          "end": 13.4,
+          "probability": 0.44
+        },
+        {
+          "word": "như",
+          "start": 13.4,
+          "end": 13.54,
+          "probability": 0.58
+        },
+        {
+          "word": "thế.",
+          "start": 13.54,
+          "end": 13.68,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 14.38,
+      "end": 16.64,
+      "text": "Tại vì kém này thì đợp của cuộc này thì đứa của cuộc thì kém như thế.",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 14.38,
+          "end": 14.68,
+          "probability": 0.45
+        },
+        {
+          "word": "vì",
+          "start": 14.68,
+          "end": 14.72,
+          "probability": 0.99
+        },
+        {
+          "word": "kém",
+          "start": 14.72,
+          "end": 14.86,
+          "probability": 0.49
+        },
+        {
+          "word": "này",
+          "start": 14.86,
+          "end": 14.94,
+          "probability": 0.86
+        },
+        {
+          "word": "thì",
+          "start": 14.94,
+          "end": 15.04,
+          "probability": 0.42
+        },
+        {
+          "word": "đợp",
+          "start": 15.04,
+          "end": 15.22,
+          "probability": 0.86
+        },
+        {
+          "word": "của",
+          "start": 15.22,
+          "end": 15.38,
+          "probability": 0.93
+        },
+        {
+          "word": "cuộc",
+          "start": 15.38,
+          "end": 15.5,
+          "probability": 0.96
+        },
+        {
+          "word": "này",
+          "start": 15.5,
+          "end": 15.68,
+          "probability": 0.49
+        },
+        {
+          "word": "thì",
+          "start": 15.68,
+          "end": 15.82,
+          "probability": 0.93
+        },
+        {
+          "word": "đứa",
+          "start": 15.82,
+          "end": 15.96,
+          "probability": 0.63
+        },
+        {
+          "word": "của",
+          "start": 15.96,
+          "end": 16.12,
+          "probability": 0.3
+        },
+        {
+          "word": "cuộc",
+          "start": 16.12,
+          "end": 16.26,
+          "probability": 0.98
+        },
+        {
+          "word": "thì",
+          "start": 16.26,
+          "end": 16.36,
+          "probability": 0.28
+        },
+        {
+          "word": "kém",
+          "start": 16.36,
+          "end": 16.48,
+          "probability": 0.93
+        },
+        {
+          "word": "như",
+          "start": 16.48,
+          "end": 16.62,
+          "probability": 0.99
+        },
+        {
+          "word": "thế.",
+          "start": 16.62,
+          "end": 16.64,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 17.32,
+      "end": 18.02,
+      "text": "Nhân như thế.",
+      "words": [
+        {
+          "word": "Nhân",
+          "start": 17.32,
+          "end": 17.5,
+          "probability": 0.81
+        },
+        {
+          "word": "như",
+          "start": 17.5,
+          "end": 17.94,
+          "probability": 0.78
+        },
+        {
+          "word": "thế.",
+          "start": 17.94,
+          "end": 18.02,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 18.14,
+      "end": 19.24,
+      "text": "Nhưng mà thời khuyên này.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 18.14,
+          "end": 18.34,
+          "probability": 0.77
+        },
+        {
+          "word": "mà",
+          "start": 18.34,
+          "end": 18.38,
+          "probability": 0.97
+        },
+        {
+          "word": "thời",
+          "start": 18.38,
+          "end": 18.54,
+          "probability": 0.42
+        },
+        {
+          "word": "khuyên",
+          "start": 18.54,
+          "end": 18.7,
+          "probability": 0.47
+        },
+        {
+          "word": "này.",
+          "start": 18.7,
+          "end": 19.24,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 19.6,
+      "end": 23.32,
+      "text": "Chông như thế này, tuần này kém muốn miếng diền một phát càng ngang cả xin luôn.",
+      "words": [
+        {
+          "word": "Chông",
+          "start": 19.6,
+          "end": 19.8,
+          "probability": 0.3
+        },
+        {
+          "word": "như",
+          "start": 19.8,
+          "end": 20.06,
+          "probability": 0.47
+        },
+        {
+          "word": "thế",
+          "start": 20.06,
+          "end": 20.18,
+          "probability": 0.76
+        },
+        {
+          "word": "này,",
+          "start": 20.18,
+          "end": 20.28,
+          "probability": 0.71
+        },
+        {
+          "word": "tuần",
+          "start": 20.32,
+          "end": 20.4,
+          "probability": 0.4
+        },
+        {
+          "word": "này",
+          "start": 20.4,
+          "end": 20.54,
+          "probability": 0.99
+        },
+        {
+          "word": "kém",
+          "start": 20.54,
+          "end": 20.94,
+          "probability": 0.55
+        },
+        {
+          "word": "muốn",
+          "start": 20.94,
+          "end": 21.18,
+          "probability": 0.8
+        },
+        {
+          "word": "miếng",
+          "start": 21.18,
+          "end": 21.5,
+          "probability": 0.44
+        },
+        {
+          "word": "diền",
+          "start": 21.5,
+          "end": 21.76,
+          "probability": 0.42
+        },
+        {
+          "word": "một",
+          "start": 21.76,
+          "end": 22.02,
+          "probability": 0.74
+        },
+        {
+          "word": "phát",
+          "start": 22.02,
+          "end": 22.3,
+          "probability": 0.95
+        },
+        {
+          "word": "càng",
+          "start": 22.3,
+          "end": 22.58,
+          "probability": 0.71
+        },
+        {
+          "word": "ngang",
+          "start": 22.58,
+          "end": 22.78,
+          "probability": 0.71
+        },
+        {
+          "word": "cả",
+          "start": 22.78,
+          "end": 22.98,
+          "probability": 0.53
+        },
+        {
+          "word": "xin",
+          "start": 22.98,
+          "end": 23.12,
+          "probability": 0.96
+        },
+        {
+          "word": "luôn.",
+          "start": 23.12,
+          "end": 23.32,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 23.56,
+      "end": 25.34,
+      "text": "Chông như bài toán của càng càng tích như thế này.",
+      "words": [
+        {
+          "word": "Chông",
+          "start": 23.56,
+          "end": 23.62,
+          "probability": 0.71
+        },
+        {
+          "word": "như",
+          "start": 23.62,
+          "end": 23.76,
+          "probability": 1.0
+        },
+        {
+          "word": "bài",
+          "start": 23.76,
+          "end": 23.92,
+          "probability": 0.48
+        },
+        {
+          "word": "toán",
+          "start": 23.92,
+          "end": 24.1,
+          "probability": 0.44
+        },
+        {
+          "word": "của",
+          "start": 24.1,
+          "end": 24.26,
+          "probability": 0.38
+        },
+        {
+          "word": "càng",
+          "start": 24.26,
+          "end": 24.48,
+          "probability": 0.11
+        },
+        {
+          "word": "càng",
+          "start": 24.48,
+          "end": 24.66,
+          "probability": 0.35
+        },
+        {
+          "word": "tích",
+          "start": 24.66,
+          "end": 24.8,
+          "probability": 0.59
+        },
+        {
+          "word": "như",
+          "start": 24.8,
+          "end": 24.94,
+          "probability": 0.92
+        },
+        {
+          "word": "thế",
+          "start": 24.94,
+          "end": 25.08,
+          "probability": 0.95
+        },
+        {
+          "word": "này.",
+          "start": 25.08,
+          "end": 25.34,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 25.64,
+      "end": 27.74,
+      "text": "Ghiêm làm cái tìm của cái mẹo như thế này.",
+      "words": [
+        {
+          "word": "Ghiêm",
+          "start": 25.64,
+          "end": 25.88,
+          "probability": 0.07
+        },
+        {
+          "word": "làm",
+          "start": 25.88,
+          "end": 26.02,
+          "probability": 0.38
+        },
+        {
+          "word": "cái",
+          "start": 26.02,
+          "end": 26.16,
+          "probability": 0.35
+        },
+        {
+          "word": "tìm",
+          "start": 26.16,
+          "end": 26.26,
+          "probability": 0.47
+        },
+        {
+          "word": "của",
+          "start": 26.26,
+          "end": 26.36,
+          "probability": 0.14
+        },
+        {
+          "word": "cái",
+          "start": 26.36,
+          "end": 26.46,
+          "probability": 0.15
+        },
+        {
+          "word": "mẹo",
+          "start": 26.46,
+          "end": 26.64,
+          "probability": 0.29
+        },
+        {
+          "word": "như",
+          "start": 26.64,
+          "end": 26.74,
+          "probability": 0.32
+        },
+        {
+          "word": "thế",
+          "start": 26.74,
+          "end": 27.48,
+          "probability": 0.49
+        },
+        {
+          "word": "này.",
+          "start": 27.48,
+          "end": 27.74,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 27.82,
+      "end": 29.08,
+      "text": "Tìm nói về mẹo luôn, theo dụng đánh ngang.",
+      "words": [
+        {
+          "word": "Tìm",
+          "start": 27.82,
+          "end": 27.9,
+          "probability": 0.6
+        },
+        {
+          "word": "nói",
+          "start": 27.9,
+          "end": 28.0,
+          "probability": 0.71
+        },
+        {
+          "word": "về",
+          "start": 28.0,
+          "end": 28.12,
+          "probability": 0.21
+        },
+        {
+          "word": "mẹo",
+          "start": 28.12,
+          "end": 28.34,
+          "probability": 0.74
+        },
+        {
+          "word": "luôn,",
+          "start": 28.34,
+          "end": 28.5,
+          "probability": 0.3
+        },
+        {
+          "word": "theo",
+          "start": 28.56,
+          "end": 28.66,
+          "probability": 0.04
+        },
+        {
+          "word": "dụng",
+          "start": 28.66,
+          "end": 28.78,
+          "probability": 0.37
+        },
+        {
+          "word": "đánh",
+          "start": 28.78,
+          "end": 28.9,
+          "probability": 0.19
+        },
+        {
+          "word": "ngang.",
+          "start": 28.9,
+          "end": 29.08,
+          "probability": 0.08
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "item_id": "tt_7657886396639661332_06",
+  "duration_seconds": 29.74,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 55,
+  "text": "Cái này, đứa năm nay. Này là 1 lý. Năm nay 1 lý. Còn bà mà gít biết bà bái vàng đám được đứa năm nay. Còn kênh năm nỗi thì có kinh lại bà như một đặc. Dù lại năm nay, kích kinh lại, là kỳ. Một lý và một nhiều khu vùng dàng.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.48,
+      "text": "Cái này, đứa năm nay.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.17
+        },
+        {
+          "word": "này,",
+          "start": 0.36,
+          "end": 0.52,
+          "probability": 0.18
+        },
+        {
+          "word": "đứa",
+          "start": 0.62,
+          "end": 0.62,
+          "probability": 0.52
+        },
+        {
+          "word": "năm",
+          "start": 0.62,
+          "end": 0.88,
+          "probability": 0.29
+        },
+        {
+          "word": "nay.",
+          "start": 0.88,
+          "end": 1.48,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.48,
+      "end": 2.38,
+      "text": "Này là 1 lý.",
+      "words": [
+        {
+          "word": "Này",
+          "start": 1.48,
+          "end": 1.72,
+          "probability": 0.12
+        },
+        {
+          "word": "là",
+          "start": 1.72,
+          "end": 1.9,
+          "probability": 0.6
+        },
+        {
+          "word": "1",
+          "start": 1.9,
+          "end": 2.04,
+          "probability": 0.64
+        },
+        {
+          "word": "lý.",
+          "start": 2.04,
+          "end": 2.38,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.64,
+      "end": 3.46,
+      "text": "Năm nay 1 lý.",
+      "words": [
+        {
+          "word": "Năm",
+          "start": 2.64,
+          "end": 2.64,
+          "probability": 0.42
+        },
+        {
+          "word": "nay",
+          "start": 2.64,
+          "end": 2.82,
+          "probability": 0.57
+        },
+        {
+          "word": "1",
+          "start": 2.82,
+          "end": 3.08,
+          "probability": 0.61
+        },
+        {
+          "word": "lý.",
+          "start": 3.08,
+          "end": 3.46,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 3.94,
+      "end": 5.8,
+      "text": "Còn bà mà gít biết bà bái vàng đám được đứa năm nay.",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 3.94,
+          "end": 3.96,
+          "probability": 0.3
+        },
+        {
+          "word": "bà",
+          "start": 3.96,
+          "end": 4.1,
+          "probability": 0.38
+        },
+        {
+          "word": "mà",
+          "start": 4.1,
+          "end": 4.24,
+          "probability": 0.13
+        },
+        {
+          "word": "gít",
+          "start": 4.24,
+          "end": 4.4,
+          "probability": 0.11
+        },
+        {
+          "word": "biết",
+          "start": 4.4,
+          "end": 4.54,
+          "probability": 0.18
+        },
+        {
+          "word": "bà",
+          "start": 4.54,
+          "end": 4.7,
+          "probability": 0.77
+        },
+        {
+          "word": "bái",
+          "start": 4.7,
+          "end": 4.86,
+          "probability": 0.21
+        },
+        {
+          "word": "vàng",
+          "start": 4.86,
+          "end": 5.0,
+          "probability": 0.54
+        },
+        {
+          "word": "đám",
+          "start": 5.0,
+          "end": 5.16,
+          "probability": 0.26
+        },
+        {
+          "word": "được",
+          "start": 5.16,
+          "end": 5.34,
+          "probability": 0.29
+        },
+        {
+          "word": "đứa",
+          "start": 5.34,
+          "end": 5.48,
+          "probability": 0.74
+        },
+        {
+          "word": "năm",
+          "start": 5.48,
+          "end": 5.68,
+          "probability": 0.97
+        },
+        {
+          "word": "nay.",
+          "start": 5.68,
+          "end": 5.8,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 5.98,
+      "end": 7.9,
+      "text": "Còn kênh năm nỗi thì có kinh lại bà như một đặc.",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 5.98,
+          "end": 6.02,
+          "probability": 0.78
+        },
+        {
+          "word": "kênh",
+          "start": 6.02,
+          "end": 6.14,
+          "probability": 0.43
+        },
+        {
+          "word": "năm",
+          "start": 6.14,
+          "end": 6.3,
+          "probability": 0.45
+        },
+        {
+          "word": "nỗi",
+          "start": 6.3,
+          "end": 6.5,
+          "probability": 0.24
+        },
+        {
+          "word": "thì",
+          "start": 6.5,
+          "end": 6.64,
+          "probability": 0.25
+        },
+        {
+          "word": "có",
+          "start": 6.64,
+          "end": 6.8,
+          "probability": 0.75
+        },
+        {
+          "word": "kinh",
+          "start": 6.8,
+          "end": 6.96,
+          "probability": 0.45
+        },
+        {
+          "word": "lại",
+          "start": 6.96,
+          "end": 7.12,
+          "probability": 0.19
+        },
+        {
+          "word": "bà",
+          "start": 7.12,
+          "end": 7.3,
+          "probability": 0.21
+        },
+        {
+          "word": "như",
+          "start": 7.3,
+          "end": 7.44,
+          "probability": 0.06
+        },
+        {
+          "word": "một",
+          "start": 7.44,
+          "end": 7.62,
+          "probability": 0.14
+        },
+        {
+          "word": "đặc.",
+          "start": 7.62,
+          "end": 7.9,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.2,
+      "end": 10.74,
+      "text": "Dù lại năm nay, kích kinh lại, là kỳ.",
+      "words": [
+        {
+          "word": "Dù",
+          "start": 8.2,
+          "end": 8.54,
+          "probability": 0.21
+        },
+        {
+          "word": "lại",
+          "start": 8.54,
+          "end": 8.64,
+          "probability": 0.09
+        },
+        {
+          "word": "năm",
+          "start": 8.64,
+          "end": 8.82,
+          "probability": 0.71
+        },
+        {
+          "word": "nay,",
+          "start": 8.82,
+          "end": 9.32,
+          "probability": 0.98
+        },
+        {
+          "word": "kích",
+          "start": 9.7,
+          "end": 9.7,
+          "probability": 0.25
+        },
+        {
+          "word": "kinh",
+          "start": 9.7,
+          "end": 9.84,
+          "probability": 0.33
+        },
+        {
+          "word": "lại,",
+          "start": 9.84,
+          "end": 10.02,
+          "probability": 0.94
+        },
+        {
+          "word": "là",
+          "start": 10.3,
+          "end": 10.3,
+          "probability": 0.13
+        },
+        {
+          "word": "kỳ.",
+          "start": 10.3,
+          "end": 10.74,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 11.14,
+      "end": 12.38,
+      "text": "Một lý và một nhiều khu vùng dàng.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 11.14,
+          "end": 11.14,
+          "probability": 0.31
+        },
+        {
+          "word": "lý",
+          "start": 11.14,
+          "end": 11.42,
+          "probability": 0.99
+        },
+        {
+          "word": "và",
+          "start": 11.42,
+          "end": 11.62,
+          "probability": 0.48
+        },
+        {
+          "word": "một",
+          "start": 11.62,
+          "end": 11.76,
+          "probability": 0.39
+        },
+        {
+          "word": "nhiều",
+          "start": 11.76,
+          "end": 11.9,
+          "probability": 0.41
+        },
+        {
+          "word": "khu",
+          "start": 11.9,
+          "end": 12.06,
+          "probability": 0.48
+        },
+        {
+          "word": "vùng",
+          "start": 12.06,
+          "end": 12.12,
+          "probability": 0.11
+        },
+        {
+          "word": "dàng.",
+          "start": 12.12,
+          "end": 12.38,
+          "probability": 0.43
+        }
+      ]
+    }
+  ]
+}

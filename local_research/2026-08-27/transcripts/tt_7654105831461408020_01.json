@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7654105831461408020_01",
+  "duration_seconds": 16.21,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Nhưng hạt biệt hơi kìa sáng",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.9,
+      "text": "Nhưng hạt biệt hơi kìa sáng",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.16
+        },
+        {
+          "word": "hạt",
+          "start": 0.16,
+          "end": 1.46,
+          "probability": 0.01
+        },
+        {
+          "word": "biệt",
+          "start": 1.46,
+          "end": 1.94,
+          "probability": 0.46
+        },
+        {
+          "word": "hơi",
+          "start": 1.94,
+          "end": 2.38,
+          "probability": 0.07
+        },
+        {
+          "word": "kìa",
+          "start": 2.38,
+          "end": 2.62,
+          "probability": 0.36
+        },
+        {
+          "word": "sáng",
+          "start": 2.62,
+          "end": 2.9,
+          "probability": 0.18
+        }
+      ]
+    }
+  ]
+}

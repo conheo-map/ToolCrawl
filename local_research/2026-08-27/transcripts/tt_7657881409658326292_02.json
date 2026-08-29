@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7657881409658326292_02",
+  "duration_seconds": 8.64,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Hãy域 hấp dẫn.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.66,
+      "end": 1.32,
+      "text": "Hãy域 hấp dẫn.",
+      "words": [
+        {
+          "word": "Hãy域",
+          "start": 0.66,
+          "end": 0.9,
+          "probability": 0.13
+        },
+        {
+          "word": "hấp",
+          "start": 0.9,
+          "end": 0.9,
+          "probability": 0.14
+        },
+        {
+          "word": "dẫn.",
+          "start": 0.9,
+          "end": 1.32,
+          "probability": 0.6
+        }
+      ]
+    }
+  ]
+}

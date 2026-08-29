@@ -1,0 +1,602 @@
+{
+  "item_id": "tt_7647092179084659988_55",
+  "duration_seconds": 29.88,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 92,
+  "text": "Mày kêu, khai, mày chung thỏ, là món ăn mất đậm văn hóa của người hoa. Fây ăn món mấy này, thực kết cơm một người phát, phủy lối không được làm, để chắn mẹn lại đi in suy sẻ, hành động nó lại gì? Pây chung hỏ, và gái hình động nó là không được để sống bị đất, đúng rồi. Sình chung mầm, hành đẹp của người của người của người phói chói chứ? Nhiều, bãi tiền năng mẽ, chả lâu được không hỏi, không hành, bùi thành hành động.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Mày kêu, khai, mày chung thỏ, là món ăn mất đậm văn hóa của người hoa.",
+      "words": [
+        {
+          "word": "Mày",
+          "start": 0.0,
+          "end": 0.66,
+          "probability": 0.25
+        },
+        {
+          "word": "kêu,",
+          "start": 0.66,
+          "end": 1.06,
+          "probability": 0.58
+        },
+        {
+          "word": "khai,",
+          "start": 1.34,
+          "end": 1.52,
+          "probability": 0.53
+        },
+        {
+          "word": "mày",
+          "start": 1.68,
+          "end": 1.8,
+          "probability": 0.32
+        },
+        {
+          "word": "chung",
+          "start": 1.8,
+          "end": 2.06,
+          "probability": 0.55
+        },
+        {
+          "word": "thỏ,",
+          "start": 2.06,
+          "end": 2.5,
+          "probability": 0.56
+        },
+        {
+          "word": "là",
+          "start": 2.82,
+          "end": 2.98,
+          "probability": 0.6
+        },
+        {
+          "word": "món",
+          "start": 2.98,
+          "end": 3.2,
+          "probability": 0.78
+        },
+        {
+          "word": "ăn",
+          "start": 3.2,
+          "end": 3.42,
+          "probability": 0.92
+        },
+        {
+          "word": "mất",
+          "start": 3.42,
+          "end": 3.58,
+          "probability": 0.3
+        },
+        {
+          "word": "đậm",
+          "start": 3.58,
+          "end": 3.8,
+          "probability": 0.57
+        },
+        {
+          "word": "văn",
+          "start": 3.8,
+          "end": 3.98,
+          "probability": 0.45
+        },
+        {
+          "word": "hóa",
+          "start": 3.98,
+          "end": 4.2,
+          "probability": 0.6
+        },
+        {
+          "word": "của",
+          "start": 4.2,
+          "end": 4.34,
+          "probability": 0.23
+        },
+        {
+          "word": "người",
+          "start": 4.34,
+          "end": 4.54,
+          "probability": 0.42
+        },
+        {
+          "word": "hoa.",
+          "start": 4.54,
+          "end": 5.0,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.62,
+      "end": 13.0,
+      "text": "Fây ăn món mấy này, thực kết cơm một người phát, phủy lối không được làm, để chắn mẹn lại đi in suy sẻ, hành động nó lại gì?",
+      "words": [
+        {
+          "word": "Fây",
+          "start": 5.62,
+          "end": 5.62,
+          "probability": 0.21
+        },
+        {
+          "word": "ăn",
+          "start": 5.62,
+          "end": 5.78,
+          "probability": 0.97
+        },
+        {
+          "word": "món",
+          "start": 5.78,
+          "end": 5.94,
+          "probability": 0.78
+        },
+        {
+          "word": "mấy",
+          "start": 5.94,
+          "end": 6.16,
+          "probability": 0.18
+        },
+        {
+          "word": "này,",
+          "start": 6.16,
+          "end": 6.6,
+          "probability": 0.81
+        },
+        {
+          "word": "thực",
+          "start": 6.78,
+          "end": 6.94,
+          "probability": 0.21
+        },
+        {
+          "word": "kết",
+          "start": 6.94,
+          "end": 7.1,
+          "probability": 0.1
+        },
+        {
+          "word": "cơm",
+          "start": 7.1,
+          "end": 7.32,
+          "probability": 0.42
+        },
+        {
+          "word": "một",
+          "start": 7.32,
+          "end": 7.5,
+          "probability": 0.27
+        },
+        {
+          "word": "người",
+          "start": 7.5,
+          "end": 7.76,
+          "probability": 0.21
+        },
+        {
+          "word": "phát,",
+          "start": 7.76,
+          "end": 8.04,
+          "probability": 0.47
+        },
+        {
+          "word": "phủy",
+          "start": 8.34,
+          "end": 8.42,
+          "probability": 0.37
+        },
+        {
+          "word": "lối",
+          "start": 8.42,
+          "end": 8.64,
+          "probability": 0.54
+        },
+        {
+          "word": "không",
+          "start": 8.64,
+          "end": 8.84,
+          "probability": 0.46
+        },
+        {
+          "word": "được",
+          "start": 8.84,
+          "end": 9.04,
+          "probability": 0.98
+        },
+        {
+          "word": "làm,",
+          "start": 9.04,
+          "end": 9.38,
+          "probability": 0.65
+        },
+        {
+          "word": "để",
+          "start": 9.7,
+          "end": 9.88,
+          "probability": 0.67
+        },
+        {
+          "word": "chắn",
+          "start": 9.88,
+          "end": 10.12,
+          "probability": 0.55
+        },
+        {
+          "word": "mẹn",
+          "start": 10.12,
+          "end": 10.58,
+          "probability": 0.32
+        },
+        {
+          "word": "lại",
+          "start": 10.58,
+          "end": 10.58,
+          "probability": 0.57
+        },
+        {
+          "word": "đi",
+          "start": 10.58,
+          "end": 10.84,
+          "probability": 0.46
+        },
+        {
+          "word": "in",
+          "start": 10.84,
+          "end": 10.9,
+          "probability": 0.06
+        },
+        {
+          "word": "suy",
+          "start": 10.9,
+          "end": 11.1,
+          "probability": 0.59
+        },
+        {
+          "word": "sẻ,",
+          "start": 11.1,
+          "end": 11.32,
+          "probability": 0.6
+        },
+        {
+          "word": "hành",
+          "start": 11.62,
+          "end": 11.84,
+          "probability": 0.43
+        },
+        {
+          "word": "động",
+          "start": 11.84,
+          "end": 12.02,
+          "probability": 0.63
+        },
+        {
+          "word": "nó",
+          "start": 12.02,
+          "end": 12.24,
+          "probability": 0.41
+        },
+        {
+          "word": "lại",
+          "start": 12.24,
+          "end": 12.48,
+          "probability": 0.61
+        },
+        {
+          "word": "gì?",
+          "start": 12.48,
+          "end": 13.0,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.4,
+      "end": 18.88,
+      "text": "Pây chung hỏ, và gái hình động nó là không được để sống bị đất, đúng rồi.",
+      "words": [
+        {
+          "word": "Pây",
+          "start": 13.4,
+          "end": 13.56,
+          "probability": 0.4
+        },
+        {
+          "word": "chung",
+          "start": 13.56,
+          "end": 13.78,
+          "probability": 0.9
+        },
+        {
+          "word": "hỏ,",
+          "start": 13.78,
+          "end": 14.44,
+          "probability": 0.67
+        },
+        {
+          "word": "và",
+          "start": 14.74,
+          "end": 15.22,
+          "probability": 0.86
+        },
+        {
+          "word": "gái",
+          "start": 15.22,
+          "end": 15.56,
+          "probability": 0.32
+        },
+        {
+          "word": "hình",
+          "start": 15.56,
+          "end": 16.02,
+          "probability": 0.33
+        },
+        {
+          "word": "động",
+          "start": 16.02,
+          "end": 16.2,
+          "probability": 0.32
+        },
+        {
+          "word": "nó",
+          "start": 16.2,
+          "end": 16.42,
+          "probability": 0.35
+        },
+        {
+          "word": "là",
+          "start": 16.42,
+          "end": 16.92,
+          "probability": 0.8
+        },
+        {
+          "word": "không",
+          "start": 16.92,
+          "end": 17.2,
+          "probability": 0.79
+        },
+        {
+          "word": "được",
+          "start": 17.2,
+          "end": 17.38,
+          "probability": 0.99
+        },
+        {
+          "word": "để",
+          "start": 17.38,
+          "end": 17.54,
+          "probability": 0.5
+        },
+        {
+          "word": "sống",
+          "start": 17.54,
+          "end": 17.66,
+          "probability": 0.21
+        },
+        {
+          "word": "bị",
+          "start": 17.66,
+          "end": 17.84,
+          "probability": 0.14
+        },
+        {
+          "word": "đất,",
+          "start": 17.84,
+          "end": 18.08,
+          "probability": 0.45
+        },
+        {
+          "word": "đúng",
+          "start": 18.18,
+          "end": 18.3,
+          "probability": 0.81
+        },
+        {
+          "word": "rồi.",
+          "start": 18.3,
+          "end": 18.88,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 19.42,
+      "end": 21.9,
+      "text": "Sình chung mầm, hành đẹp của người của người của người phói chói chứ?",
+      "words": [
+        {
+          "word": "Sình",
+          "start": 19.42,
+          "end": 19.58,
+          "probability": 0.37
+        },
+        {
+          "word": "chung",
+          "start": 19.58,
+          "end": 19.84,
+          "probability": 0.52
+        },
+        {
+          "word": "mầm,",
+          "start": 19.84,
+          "end": 20.06,
+          "probability": 0.54
+        },
+        {
+          "word": "hành",
+          "start": 20.18,
+          "end": 20.32,
+          "probability": 0.7
+        },
+        {
+          "word": "đẹp",
+          "start": 20.32,
+          "end": 20.58,
+          "probability": 0.35
+        },
+        {
+          "word": "của",
+          "start": 20.58,
+          "end": 20.78,
+          "probability": 0.3
+        },
+        {
+          "word": "người",
+          "start": 20.78,
+          "end": 20.94,
+          "probability": 0.1
+        },
+        {
+          "word": "của",
+          "start": 20.94,
+          "end": 20.98,
+          "probability": 0.16
+        },
+        {
+          "word": "người",
+          "start": 20.98,
+          "end": 21.18,
+          "probability": 0.59
+        },
+        {
+          "word": "của",
+          "start": 21.18,
+          "end": 21.18,
+          "probability": 0.19
+        },
+        {
+          "word": "người",
+          "start": 21.18,
+          "end": 21.3,
+          "probability": 0.69
+        },
+        {
+          "word": "phói",
+          "start": 21.3,
+          "end": 21.4,
+          "probability": 0.5
+        },
+        {
+          "word": "chói",
+          "start": 21.4,
+          "end": 21.62,
+          "probability": 0.49
+        },
+        {
+          "word": "chứ?",
+          "start": 21.62,
+          "end": 21.9,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 23.6,
+      "end": 29.77,
+      "text": "Nhiều, bãi tiền năng mẽ, chả lâu được không hỏi, không hành, bùi thành hành động.",
+      "words": [
+        {
+          "word": "Nhiều,",
+          "start": 23.6,
+          "end": 24.02,
+          "probability": 0.26
+        },
+        {
+          "word": "bãi",
+          "start": 24.02,
+          "end": 24.32,
+          "probability": 0.38
+        },
+        {
+          "word": "tiền",
+          "start": 24.32,
+          "end": 24.54,
+          "probability": 0.5
+        },
+        {
+          "word": "năng",
+          "start": 24.54,
+          "end": 24.78,
+          "probability": 0.66
+        },
+        {
+          "word": "mẽ,",
+          "start": 24.78,
+          "end": 25.22,
+          "probability": 0.36
+        },
+        {
+          "word": "chả",
+          "start": 25.32,
+          "end": 25.38,
+          "probability": 0.25
+        },
+        {
+          "word": "lâu",
+          "start": 25.38,
+          "end": 25.52,
+          "probability": 0.65
+        },
+        {
+          "word": "được",
+          "start": 25.52,
+          "end": 25.72,
+          "probability": 0.83
+        },
+        {
+          "word": "không",
+          "start": 25.72,
+          "end": 25.82,
+          "probability": 0.48
+        },
+        {
+          "word": "hỏi,",
+          "start": 25.82,
+          "end": 26.04,
+          "probability": 0.88
+        },
+        {
+          "word": "không",
+          "start": 28.65,
+          "end": 28.69,
+          "probability": 0.19
+        },
+        {
+          "word": "hành,",
+          "start": 28.69,
+          "end": 28.93,
+          "probability": 0.1
+        },
+        {
+          "word": "bùi",
+          "start": 28.95,
+          "end": 29.17,
+          "probability": 0.4
+        },
+        {
+          "word": "thành",
+          "start": 29.17,
+          "end": 29.35,
+          "probability": 0.16
+        },
+        {
+          "word": "hành",
+          "start": 29.35,
+          "end": 29.53,
+          "probability": 0.24
+        },
+        {
+          "word": "động.",
+          "start": 29.53,
+          "end": 29.77,
+          "probability": 0.04
+        }
+      ]
+    }
+  ]
+}

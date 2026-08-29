@@ -1,0 +1,958 @@
+{
+  "item_id": "tt_7582444297186708737_01",
+  "duration_seconds": 29.87,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 146,
+  "text": "hình anh khách tế ông chối đó Việt Nam về nước gây sôi sau. 2. 2. Anh xin, sống ẩn thình phố chiming, xách và li đến nhà ra tế hai, sân bay của tế tật sân nhất để làm tụt thúc trước khi đáp chuyến bài đến nước ngoài. Trong lúc chờ đợi, chàng tra tình cơ nhìn thấy một vị khách tế ông chế chối đó, lại chối này được các gia đình của Việt Nam sử dụt để quết nhà hàng ngày. Nhưng viên mặt đã thủ dẫn anh bọc chế chối lại để người theo hành lý. Sau đó, tôi không hiểu vì sao vị khách quyết định bỏ lại món qua ở quay, anh xin cho biết, lần đầu tiên nhìn thấy hình anh tụ vị, chàng tra trụ bởi đăng tải lên mà, tụi xin cho ý của cộng đồng.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.4,
+      "text": "hình anh khách tế ông chối đó Việt Nam về nước gây sôi sau.",
+      "words": [
+        {
+          "word": "hình",
+          "start": 0.0,
+          "end": 0.1,
+          "probability": 0.23
+        },
+        {
+          "word": "anh",
+          "start": 0.1,
+          "end": 0.24,
+          "probability": 0.16
+        },
+        {
+          "word": "khách",
+          "start": 0.24,
+          "end": 0.42,
+          "probability": 0.72
+        },
+        {
+          "word": "tế",
+          "start": 0.42,
+          "end": 0.56,
+          "probability": 0.35
+        },
+        {
+          "word": "ông",
+          "start": 0.56,
+          "end": 0.72,
+          "probability": 0.8
+        },
+        {
+          "word": "chối",
+          "start": 0.72,
+          "end": 0.9,
+          "probability": 0.27
+        },
+        {
+          "word": "đó",
+          "start": 0.9,
+          "end": 1.06,
+          "probability": 0.89
+        },
+        {
+          "word": "Việt",
+          "start": 1.06,
+          "end": 1.28,
+          "probability": 0.33
+        },
+        {
+          "word": "Nam",
+          "start": 1.28,
+          "end": 1.46,
+          "probability": 0.99
+        },
+        {
+          "word": "về",
+          "start": 1.46,
+          "end": 1.62,
+          "probability": 0.82
+        },
+        {
+          "word": "nước",
+          "start": 1.62,
+          "end": 1.76,
+          "probability": 0.94
+        },
+        {
+          "word": "gây",
+          "start": 1.76,
+          "end": 1.92,
+          "probability": 0.25
+        },
+        {
+          "word": "sôi",
+          "start": 1.92,
+          "end": 2.08,
+          "probability": 0.27
+        },
+        {
+          "word": "sau.",
+          "start": 2.08,
+          "end": 2.4,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.14,
+      "end": 7.22,
+      "text": "2. 2. Anh xin, sống ẩn thình phố chiming, xách và li đến nhà ra tế hai,",
+      "words": [
+        {
+          "word": "2.",
+          "start": 3.14,
+          "end": 3.18,
+          "probability": 0.16
+        },
+        {
+          "word": "2.",
+          "start": 3.42,
+          "end": 3.74,
+          "probability": 0.36
+        },
+        {
+          "word": "Anh",
+          "start": 3.78,
+          "end": 4.1,
+          "probability": 0.69
+        },
+        {
+          "word": "xin,",
+          "start": 4.1,
+          "end": 4.28,
+          "probability": 0.52
+        },
+        {
+          "word": "sống",
+          "start": 4.52,
+          "end": 4.66,
+          "probability": 0.7
+        },
+        {
+          "word": "ẩn",
+          "start": 4.66,
+          "end": 4.88,
+          "probability": 0.56
+        },
+        {
+          "word": "thình",
+          "start": 4.88,
+          "end": 4.98,
+          "probability": 0.57
+        },
+        {
+          "word": "phố",
+          "start": 4.98,
+          "end": 5.18,
+          "probability": 0.44
+        },
+        {
+          "word": "chiming,",
+          "start": 5.18,
+          "end": 5.56,
+          "probability": 0.59
+        },
+        {
+          "word": "xách",
+          "start": 5.88,
+          "end": 5.92,
+          "probability": 0.5
+        },
+        {
+          "word": "và",
+          "start": 5.92,
+          "end": 6.06,
+          "probability": 0.18
+        },
+        {
+          "word": "li",
+          "start": 6.06,
+          "end": 6.22,
+          "probability": 0.27
+        },
+        {
+          "word": "đến",
+          "start": 6.22,
+          "end": 6.36,
+          "probability": 0.48
+        },
+        {
+          "word": "nhà",
+          "start": 6.36,
+          "end": 6.54,
+          "probability": 0.44
+        },
+        {
+          "word": "ra",
+          "start": 6.54,
+          "end": 6.74,
+          "probability": 0.69
+        },
+        {
+          "word": "tế",
+          "start": 6.74,
+          "end": 6.88,
+          "probability": 0.54
+        },
+        {
+          "word": "hai,",
+          "start": 6.88,
+          "end": 7.22,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.46,
+      "end": 10.4,
+      "text": "sân bay của tế tật sân nhất để làm tụt thúc trước khi đáp chuyến bài đến nước ngoài.",
+      "words": [
+        {
+          "word": "sân",
+          "start": 7.46,
+          "end": 7.56,
+          "probability": 0.68
+        },
+        {
+          "word": "bay",
+          "start": 7.56,
+          "end": 7.7,
+          "probability": 0.49
+        },
+        {
+          "word": "của",
+          "start": 7.7,
+          "end": 7.84,
+          "probability": 0.14
+        },
+        {
+          "word": "tế",
+          "start": 7.84,
+          "end": 8.0,
+          "probability": 0.78
+        },
+        {
+          "word": "tật",
+          "start": 8.0,
+          "end": 8.24,
+          "probability": 0.4
+        },
+        {
+          "word": "sân",
+          "start": 8.24,
+          "end": 8.3,
+          "probability": 0.5
+        },
+        {
+          "word": "nhất",
+          "start": 8.3,
+          "end": 8.46,
+          "probability": 0.92
+        },
+        {
+          "word": "để",
+          "start": 8.46,
+          "end": 8.62,
+          "probability": 0.9
+        },
+        {
+          "word": "làm",
+          "start": 8.62,
+          "end": 8.8,
+          "probability": 0.93
+        },
+        {
+          "word": "tụt",
+          "start": 8.8,
+          "end": 8.96,
+          "probability": 0.42
+        },
+        {
+          "word": "thúc",
+          "start": 8.96,
+          "end": 9.12,
+          "probability": 0.46
+        },
+        {
+          "word": "trước",
+          "start": 9.12,
+          "end": 9.26,
+          "probability": 0.37
+        },
+        {
+          "word": "khi",
+          "start": 9.26,
+          "end": 9.38,
+          "probability": 0.89
+        },
+        {
+          "word": "đáp",
+          "start": 9.38,
+          "end": 9.54,
+          "probability": 0.87
+        },
+        {
+          "word": "chuyến",
+          "start": 9.54,
+          "end": 9.72,
+          "probability": 0.63
+        },
+        {
+          "word": "bài",
+          "start": 9.72,
+          "end": 9.86,
+          "probability": 0.25
+        },
+        {
+          "word": "đến",
+          "start": 9.86,
+          "end": 10.02,
+          "probability": 0.46
+        },
+        {
+          "word": "nước",
+          "start": 10.02,
+          "end": 10.12,
+          "probability": 0.75
+        },
+        {
+          "word": "ngoài.",
+          "start": 10.12,
+          "end": 10.4,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.86,
+      "end": 14.16,
+      "text": "Trong lúc chờ đợi, chàng tra tình cơ nhìn thấy một vị khách tế ông chế chối đó,",
+      "words": [
+        {
+          "word": "Trong",
+          "start": 10.86,
+          "end": 11.02,
+          "probability": 0.73
+        },
+        {
+          "word": "lúc",
+          "start": 11.02,
+          "end": 11.16,
+          "probability": 0.85
+        },
+        {
+          "word": "chờ",
+          "start": 11.16,
+          "end": 11.34,
+          "probability": 0.43
+        },
+        {
+          "word": "đợi,",
+          "start": 11.34,
+          "end": 11.6,
+          "probability": 0.65
+        },
+        {
+          "word": "chàng",
+          "start": 11.8,
+          "end": 11.94,
+          "probability": 0.4
+        },
+        {
+          "word": "tra",
+          "start": 11.94,
+          "end": 12.1,
+          "probability": 0.7
+        },
+        {
+          "word": "tình",
+          "start": 12.1,
+          "end": 12.28,
+          "probability": 0.57
+        },
+        {
+          "word": "cơ",
+          "start": 12.28,
+          "end": 12.46,
+          "probability": 0.57
+        },
+        {
+          "word": "nhìn",
+          "start": 12.46,
+          "end": 12.64,
+          "probability": 0.7
+        },
+        {
+          "word": "thấy",
+          "start": 12.64,
+          "end": 12.78,
+          "probability": 0.84
+        },
+        {
+          "word": "một",
+          "start": 12.78,
+          "end": 12.94,
+          "probability": 0.83
+        },
+        {
+          "word": "vị",
+          "start": 12.94,
+          "end": 13.1,
+          "probability": 0.46
+        },
+        {
+          "word": "khách",
+          "start": 13.1,
+          "end": 13.26,
+          "probability": 0.92
+        },
+        {
+          "word": "tế",
+          "start": 13.26,
+          "end": 13.42,
+          "probability": 0.99
+        },
+        {
+          "word": "ông",
+          "start": 13.42,
+          "end": 13.56,
+          "probability": 0.99
+        },
+        {
+          "word": "chế",
+          "start": 13.56,
+          "end": 13.72,
+          "probability": 0.67
+        },
+        {
+          "word": "chối",
+          "start": 13.72,
+          "end": 13.9,
+          "probability": 0.97
+        },
+        {
+          "word": "đó,",
+          "start": 13.9,
+          "end": 14.16,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.58,
+      "end": 17.28,
+      "text": "lại chối này được các gia đình của Việt Nam sử dụt để quết nhà hàng ngày.",
+      "words": [
+        {
+          "word": "lại",
+          "start": 14.58,
+          "end": 14.74,
+          "probability": 0.38
+        },
+        {
+          "word": "chối",
+          "start": 14.74,
+          "end": 14.88,
+          "probability": 0.73
+        },
+        {
+          "word": "này",
+          "start": 14.88,
+          "end": 15.12,
+          "probability": 0.81
+        },
+        {
+          "word": "được",
+          "start": 15.12,
+          "end": 15.28,
+          "probability": 0.94
+        },
+        {
+          "word": "các",
+          "start": 15.28,
+          "end": 15.4,
+          "probability": 0.47
+        },
+        {
+          "word": "gia",
+          "start": 15.4,
+          "end": 15.54,
+          "probability": 0.61
+        },
+        {
+          "word": "đình",
+          "start": 15.54,
+          "end": 15.66,
+          "probability": 0.92
+        },
+        {
+          "word": "của",
+          "start": 15.66,
+          "end": 15.78,
+          "probability": 0.22
+        },
+        {
+          "word": "Việt",
+          "start": 15.78,
+          "end": 15.96,
+          "probability": 0.97
+        },
+        {
+          "word": "Nam",
+          "start": 15.96,
+          "end": 16.14,
+          "probability": 1.0
+        },
+        {
+          "word": "sử",
+          "start": 16.14,
+          "end": 16.4,
+          "probability": 0.56
+        },
+        {
+          "word": "dụt",
+          "start": 16.4,
+          "end": 16.4,
+          "probability": 0.78
+        },
+        {
+          "word": "để",
+          "start": 16.4,
+          "end": 16.64,
+          "probability": 0.51
+        },
+        {
+          "word": "quết",
+          "start": 16.64,
+          "end": 16.72,
+          "probability": 0.3
+        },
+        {
+          "word": "nhà",
+          "start": 16.72,
+          "end": 16.9,
+          "probability": 0.5
+        },
+        {
+          "word": "hàng",
+          "start": 16.9,
+          "end": 17.02,
+          "probability": 0.74
+        },
+        {
+          "word": "ngày.",
+          "start": 17.02,
+          "end": 17.28,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 17.78,
+      "end": 20.32,
+      "text": "Nhưng viên mặt đã thủ dẫn anh bọc chế chối lại để người theo hành lý.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 17.78,
+          "end": 17.86,
+          "probability": 0.81
+        },
+        {
+          "word": "viên",
+          "start": 17.86,
+          "end": 18.02,
+          "probability": 0.57
+        },
+        {
+          "word": "mặt",
+          "start": 18.02,
+          "end": 18.18,
+          "probability": 0.54
+        },
+        {
+          "word": "đã",
+          "start": 18.18,
+          "end": 18.3,
+          "probability": 0.28
+        },
+        {
+          "word": "thủ",
+          "start": 18.3,
+          "end": 18.42,
+          "probability": 0.47
+        },
+        {
+          "word": "dẫn",
+          "start": 18.42,
+          "end": 18.58,
+          "probability": 0.63
+        },
+        {
+          "word": "anh",
+          "start": 18.58,
+          "end": 18.8,
+          "probability": 0.78
+        },
+        {
+          "word": "bọc",
+          "start": 18.8,
+          "end": 18.94,
+          "probability": 0.67
+        },
+        {
+          "word": "chế",
+          "start": 18.94,
+          "end": 19.14,
+          "probability": 0.94
+        },
+        {
+          "word": "chối",
+          "start": 19.14,
+          "end": 19.32,
+          "probability": 0.93
+        },
+        {
+          "word": "lại",
+          "start": 19.32,
+          "end": 19.5,
+          "probability": 0.96
+        },
+        {
+          "word": "để",
+          "start": 19.5,
+          "end": 19.64,
+          "probability": 0.61
+        },
+        {
+          "word": "người",
+          "start": 19.64,
+          "end": 19.78,
+          "probability": 0.23
+        },
+        {
+          "word": "theo",
+          "start": 19.78,
+          "end": 19.92,
+          "probability": 0.8
+        },
+        {
+          "word": "hành",
+          "start": 19.92,
+          "end": 20.1,
+          "probability": 0.53
+        },
+        {
+          "word": "lý.",
+          "start": 20.1,
+          "end": 20.32,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 20.84,
+      "end": 23.78,
+      "text": "Sau đó, tôi không hiểu vì sao vị khách quyết định bỏ lại món qua ở quay,",
+      "words": [
+        {
+          "word": "Sau",
+          "start": 20.84,
+          "end": 20.92,
+          "probability": 0.53
+        },
+        {
+          "word": "đó,",
+          "start": 20.92,
+          "end": 21.2,
+          "probability": 0.99
+        },
+        {
+          "word": "tôi",
+          "start": 21.44,
+          "end": 21.54,
+          "probability": 0.57
+        },
+        {
+          "word": "không",
+          "start": 21.54,
+          "end": 21.66,
+          "probability": 0.96
+        },
+        {
+          "word": "hiểu",
+          "start": 21.66,
+          "end": 21.84,
+          "probability": 0.58
+        },
+        {
+          "word": "vì",
+          "start": 21.84,
+          "end": 22.02,
+          "probability": 0.66
+        },
+        {
+          "word": "sao",
+          "start": 22.02,
+          "end": 22.18,
+          "probability": 0.63
+        },
+        {
+          "word": "vị",
+          "start": 22.18,
+          "end": 22.34,
+          "probability": 0.66
+        },
+        {
+          "word": "khách",
+          "start": 22.34,
+          "end": 22.5,
+          "probability": 0.99
+        },
+        {
+          "word": "quyết",
+          "start": 22.5,
+          "end": 22.64,
+          "probability": 0.57
+        },
+        {
+          "word": "định",
+          "start": 22.64,
+          "end": 22.76,
+          "probability": 0.94
+        },
+        {
+          "word": "bỏ",
+          "start": 22.76,
+          "end": 22.92,
+          "probability": 0.84
+        },
+        {
+          "word": "lại",
+          "start": 22.92,
+          "end": 23.1,
+          "probability": 0.99
+        },
+        {
+          "word": "món",
+          "start": 23.1,
+          "end": 23.26,
+          "probability": 0.32
+        },
+        {
+          "word": "qua",
+          "start": 23.26,
+          "end": 23.38,
+          "probability": 0.19
+        },
+        {
+          "word": "ở",
+          "start": 23.38,
+          "end": 23.54,
+          "probability": 0.93
+        },
+        {
+          "word": "quay,",
+          "start": 23.54,
+          "end": 23.78,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 23.78,
+      "end": 26.74,
+      "text": "anh xin cho biết, lần đầu tiên nhìn thấy hình anh tụ vị,",
+      "words": [
+        {
+          "word": "anh",
+          "start": 23.78,
+          "end": 24.22,
+          "probability": 0.03
+        },
+        {
+          "word": "xin",
+          "start": 24.22,
+          "end": 24.34,
+          "probability": 0.52
+        },
+        {
+          "word": "cho",
+          "start": 24.34,
+          "end": 24.48,
+          "probability": 0.86
+        },
+        {
+          "word": "biết,",
+          "start": 24.48,
+          "end": 24.92,
+          "probability": 0.94
+        },
+        {
+          "word": "lần",
+          "start": 25.3,
+          "end": 25.38,
+          "probability": 0.88
+        },
+        {
+          "word": "đầu",
+          "start": 25.38,
+          "end": 25.54,
+          "probability": 0.97
+        },
+        {
+          "word": "tiên",
+          "start": 25.54,
+          "end": 25.7,
+          "probability": 0.98
+        },
+        {
+          "word": "nhìn",
+          "start": 25.7,
+          "end": 25.9,
+          "probability": 0.72
+        },
+        {
+          "word": "thấy",
+          "start": 25.9,
+          "end": 26.02,
+          "probability": 0.94
+        },
+        {
+          "word": "hình",
+          "start": 26.02,
+          "end": 26.18,
+          "probability": 0.87
+        },
+        {
+          "word": "anh",
+          "start": 26.18,
+          "end": 26.36,
+          "probability": 0.35
+        },
+        {
+          "word": "tụ",
+          "start": 26.36,
+          "end": 26.5,
+          "probability": 0.27
+        },
+        {
+          "word": "vị,",
+          "start": 26.5,
+          "end": 26.74,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 26.98,
+      "end": 29.74,
+      "text": "chàng tra trụ bởi đăng tải lên mà, tụi xin cho ý của cộng đồng.",
+      "words": [
+        {
+          "word": "chàng",
+          "start": 26.98,
+          "end": 27.1,
+          "probability": 0.38
+        },
+        {
+          "word": "tra",
+          "start": 27.1,
+          "end": 27.26,
+          "probability": 0.43
+        },
+        {
+          "word": "trụ",
+          "start": 27.26,
+          "end": 27.46,
+          "probability": 0.27
+        },
+        {
+          "word": "bởi",
+          "start": 27.46,
+          "end": 27.62,
+          "probability": 0.35
+        },
+        {
+          "word": "đăng",
+          "start": 27.62,
+          "end": 27.72,
+          "probability": 0.44
+        },
+        {
+          "word": "tải",
+          "start": 27.72,
+          "end": 27.9,
+          "probability": 0.27
+        },
+        {
+          "word": "lên",
+          "start": 27.9,
+          "end": 28.08,
+          "probability": 0.97
+        },
+        {
+          "word": "mà,",
+          "start": 28.08,
+          "end": 28.32,
+          "probability": 0.71
+        },
+        {
+          "word": "tụi",
+          "start": 28.56,
+          "end": 28.8,
+          "probability": 0.65
+        },
+        {
+          "word": "xin",
+          "start": 28.8,
+          "end": 28.92,
+          "probability": 0.66
+        },
+        {
+          "word": "cho",
+          "start": 28.92,
+          "end": 29.06,
+          "probability": 0.54
+        },
+        {
+          "word": "ý",
+          "start": 29.06,
+          "end": 29.2,
+          "probability": 0.71
+        },
+        {
+          "word": "của",
+          "start": 29.2,
+          "end": 29.32,
+          "probability": 0.58
+        },
+        {
+          "word": "cộng",
+          "start": 29.32,
+          "end": 29.48,
+          "probability": 0.47
+        },
+        {
+          "word": "đồng.",
+          "start": 29.48,
+          "end": 29.74,
+          "probability": 0.69
+        }
+      ]
+    }
+  ]
+}

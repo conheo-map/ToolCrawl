@@ -1,0 +1,518 @@
+{
+  "item_id": "tt_7233025141343636741_04",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 78,
+  "text": "Hẹp lắm nơi đâu hay người hơi, nông này nào biết em là trong mong ngồi xôi trong nơi nói chính vì có tiếp nơi anh qua dài hình. Rồi hơi xin đừng chắc, hay thứ thà lối là. Chó anh được bơi lại bơi em. Rồi xin thay quay bơi bơi, hình này cháy đi mong ngon không còn khó khăn đến nè bao đêm này. Rồi anh biết chào dùng có hơi được công thay thôi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 9.62,
+      "text": "Hẹp lắm nơi đâu hay người hơi, nông này nào biết em là trong mong ngồi xôi trong nơi nói chính vì có tiếp nơi anh qua dài hình.",
+      "words": [
+        {
+          "word": "Hẹp",
+          "start": 0.0,
+          "end": 0.6,
+          "probability": 0.38
+        },
+        {
+          "word": "lắm",
+          "start": 0.6,
+          "end": 0.86,
+          "probability": 0.22
+        },
+        {
+          "word": "nơi",
+          "start": 0.86,
+          "end": 1.22,
+          "probability": 0.54
+        },
+        {
+          "word": "đâu",
+          "start": 1.22,
+          "end": 1.44,
+          "probability": 0.51
+        },
+        {
+          "word": "hay",
+          "start": 1.44,
+          "end": 1.8,
+          "probability": 0.16
+        },
+        {
+          "word": "người",
+          "start": 1.8,
+          "end": 2.1,
+          "probability": 0.51
+        },
+        {
+          "word": "hơi,",
+          "start": 2.1,
+          "end": 2.46,
+          "probability": 0.2
+        },
+        {
+          "word": "nông",
+          "start": 2.58,
+          "end": 2.8,
+          "probability": 0.21
+        },
+        {
+          "word": "này",
+          "start": 2.8,
+          "end": 3.16,
+          "probability": 0.15
+        },
+        {
+          "word": "nào",
+          "start": 3.16,
+          "end": 3.46,
+          "probability": 0.36
+        },
+        {
+          "word": "biết",
+          "start": 3.46,
+          "end": 3.76,
+          "probability": 0.49
+        },
+        {
+          "word": "em",
+          "start": 3.76,
+          "end": 4.06,
+          "probability": 0.95
+        },
+        {
+          "word": "là",
+          "start": 4.06,
+          "end": 4.34,
+          "probability": 0.19
+        },
+        {
+          "word": "trong",
+          "start": 4.34,
+          "end": 4.68,
+          "probability": 0.44
+        },
+        {
+          "word": "mong",
+          "start": 4.68,
+          "end": 5.02,
+          "probability": 0.25
+        },
+        {
+          "word": "ngồi",
+          "start": 5.02,
+          "end": 5.38,
+          "probability": 0.27
+        },
+        {
+          "word": "xôi",
+          "start": 5.38,
+          "end": 5.6,
+          "probability": 0.45
+        },
+        {
+          "word": "trong",
+          "start": 5.6,
+          "end": 5.9,
+          "probability": 0.95
+        },
+        {
+          "word": "nơi",
+          "start": 5.9,
+          "end": 6.24,
+          "probability": 0.54
+        },
+        {
+          "word": "nói",
+          "start": 6.24,
+          "end": 6.66,
+          "probability": 0.6
+        },
+        {
+          "word": "chính",
+          "start": 6.66,
+          "end": 6.86,
+          "probability": 0.33
+        },
+        {
+          "word": "vì",
+          "start": 6.86,
+          "end": 7.1,
+          "probability": 0.19
+        },
+        {
+          "word": "có",
+          "start": 7.1,
+          "end": 7.48,
+          "probability": 0.44
+        },
+        {
+          "word": "tiếp",
+          "start": 7.48,
+          "end": 7.84,
+          "probability": 0.45
+        },
+        {
+          "word": "nơi",
+          "start": 7.84,
+          "end": 8.14,
+          "probability": 0.69
+        },
+        {
+          "word": "anh",
+          "start": 8.14,
+          "end": 8.44,
+          "probability": 0.84
+        },
+        {
+          "word": "qua",
+          "start": 8.44,
+          "end": 8.7,
+          "probability": 0.48
+        },
+        {
+          "word": "dài",
+          "start": 8.7,
+          "end": 9.06,
+          "probability": 0.26
+        },
+        {
+          "word": "hình.",
+          "start": 9.06,
+          "end": 9.62,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 10.6,
+      "end": 14.34,
+      "text": "Rồi hơi xin đừng chắc, hay thứ thà lối là.",
+      "words": [
+        {
+          "word": "Rồi",
+          "start": 10.6,
+          "end": 10.6,
+          "probability": 0.48
+        },
+        {
+          "word": "hơi",
+          "start": 10.6,
+          "end": 11.16,
+          "probability": 0.31
+        },
+        {
+          "word": "xin",
+          "start": 11.16,
+          "end": 11.5,
+          "probability": 0.56
+        },
+        {
+          "word": "đừng",
+          "start": 11.5,
+          "end": 11.82,
+          "probability": 0.56
+        },
+        {
+          "word": "chắc,",
+          "start": 11.82,
+          "end": 12.34,
+          "probability": 0.35
+        },
+        {
+          "word": "hay",
+          "start": 12.76,
+          "end": 12.78,
+          "probability": 0.47
+        },
+        {
+          "word": "thứ",
+          "start": 12.78,
+          "end": 13.04,
+          "probability": 0.78
+        },
+        {
+          "word": "thà",
+          "start": 13.04,
+          "end": 13.42,
+          "probability": 0.51
+        },
+        {
+          "word": "lối",
+          "start": 13.42,
+          "end": 13.68,
+          "probability": 0.43
+        },
+        {
+          "word": "là.",
+          "start": 13.68,
+          "end": 14.34,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 15.06,
+      "end": 17.36,
+      "text": "Chó anh được bơi lại bơi em.",
+      "words": [
+        {
+          "word": "Chó",
+          "start": 15.06,
+          "end": 15.06,
+          "probability": 0.41
+        },
+        {
+          "word": "anh",
+          "start": 15.06,
+          "end": 15.4,
+          "probability": 0.72
+        },
+        {
+          "word": "được",
+          "start": 15.4,
+          "end": 15.68,
+          "probability": 0.54
+        },
+        {
+          "word": "bơi",
+          "start": 15.68,
+          "end": 15.98,
+          "probability": 0.28
+        },
+        {
+          "word": "lại",
+          "start": 15.98,
+          "end": 16.34,
+          "probability": 0.89
+        },
+        {
+          "word": "bơi",
+          "start": 16.34,
+          "end": 16.62,
+          "probability": 0.39
+        },
+        {
+          "word": "em.",
+          "start": 16.62,
+          "end": 17.36,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 17.8,
+      "end": 24.68,
+      "text": "Rồi xin thay quay bơi bơi, hình này cháy đi mong ngon không còn khó khăn đến nè bao đêm này.",
+      "words": [
+        {
+          "word": "Rồi",
+          "start": 17.8,
+          "end": 17.98,
+          "probability": 0.89
+        },
+        {
+          "word": "xin",
+          "start": 17.98,
+          "end": 18.22,
+          "probability": 0.86
+        },
+        {
+          "word": "thay",
+          "start": 18.22,
+          "end": 18.58,
+          "probability": 0.5
+        },
+        {
+          "word": "quay",
+          "start": 18.58,
+          "end": 18.92,
+          "probability": 0.76
+        },
+        {
+          "word": "bơi",
+          "start": 18.92,
+          "end": 19.26,
+          "probability": 0.68
+        },
+        {
+          "word": "bơi,",
+          "start": 19.26,
+          "end": 19.54,
+          "probability": 0.71
+        },
+        {
+          "word": "hình",
+          "start": 19.78,
+          "end": 19.86,
+          "probability": 0.52
+        },
+        {
+          "word": "này",
+          "start": 19.86,
+          "end": 20.12,
+          "probability": 0.39
+        },
+        {
+          "word": "cháy",
+          "start": 20.12,
+          "end": 20.48,
+          "probability": 0.35
+        },
+        {
+          "word": "đi",
+          "start": 20.48,
+          "end": 20.68,
+          "probability": 0.41
+        },
+        {
+          "word": "mong",
+          "start": 20.68,
+          "end": 21.04,
+          "probability": 0.37
+        },
+        {
+          "word": "ngon",
+          "start": 21.04,
+          "end": 21.32,
+          "probability": 0.6
+        },
+        {
+          "word": "không",
+          "start": 21.32,
+          "end": 21.7,
+          "probability": 0.86
+        },
+        {
+          "word": "còn",
+          "start": 21.7,
+          "end": 21.98,
+          "probability": 0.29
+        },
+        {
+          "word": "khó",
+          "start": 21.98,
+          "end": 22.3,
+          "probability": 0.45
+        },
+        {
+          "word": "khăn",
+          "start": 22.3,
+          "end": 22.64,
+          "probability": 0.35
+        },
+        {
+          "word": "đến",
+          "start": 22.64,
+          "end": 22.88,
+          "probability": 0.16
+        },
+        {
+          "word": "nè",
+          "start": 22.88,
+          "end": 23.22,
+          "probability": 0.22
+        },
+        {
+          "word": "bao",
+          "start": 23.22,
+          "end": 23.52,
+          "probability": 0.17
+        },
+        {
+          "word": "đêm",
+          "start": 23.52,
+          "end": 23.82,
+          "probability": 0.28
+        },
+        {
+          "word": "này.",
+          "start": 23.82,
+          "end": 24.68,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 24.68,
+      "end": 29.14,
+      "text": "Rồi anh biết chào dùng có hơi được công thay thôi.",
+      "words": [
+        {
+          "word": "Rồi",
+          "start": 24.68,
+          "end": 25.44,
+          "probability": 0.05
+        },
+        {
+          "word": "anh",
+          "start": 25.44,
+          "end": 25.74,
+          "probability": 0.73
+        },
+        {
+          "word": "biết",
+          "start": 25.74,
+          "end": 26.02,
+          "probability": 0.99
+        },
+        {
+          "word": "chào",
+          "start": 26.02,
+          "end": 26.36,
+          "probability": 0.71
+        },
+        {
+          "word": "dùng",
+          "start": 26.36,
+          "end": 26.72,
+          "probability": 0.47
+        },
+        {
+          "word": "có",
+          "start": 26.72,
+          "end": 27.2,
+          "probability": 0.55
+        },
+        {
+          "word": "hơi",
+          "start": 27.2,
+          "end": 27.72,
+          "probability": 0.11
+        },
+        {
+          "word": "được",
+          "start": 27.72,
+          "end": 28.0,
+          "probability": 0.1
+        },
+        {
+          "word": "công",
+          "start": 28.0,
+          "end": 28.26,
+          "probability": 0.6
+        },
+        {
+          "word": "thay",
+          "start": 28.26,
+          "end": 28.6,
+          "probability": 0.17
+        },
+        {
+          "word": "thôi.",
+          "start": 28.6,
+          "end": 29.14,
+          "probability": 0.43
+        }
+      ]
+    }
+  ]
+}

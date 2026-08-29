@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7676414811273481490_03",
+  "duration_seconds": 5.16,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Thời ơi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.46,
+      "end": 1.7,
+      "text": "Thời ơi",
+      "words": [
+        {
+          "word": "Thời",
+          "start": 0.46,
+          "end": 0.48,
+          "probability": 0.02
+        },
+        {
+          "word": "ơi",
+          "start": 0.48,
+          "end": 1.7,
+          "probability": 0.46
+        }
+      ]
+    }
+  ]
+}

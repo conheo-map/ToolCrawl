@@ -1,0 +1,430 @@
+{
+  "item_id": "tt_7677409320048397586_01",
+  "duration_seconds": 20.46,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 62,
+  "text": "Cái bạn có nhớ như điều này không? Nhao, hay em, em, em, em, em Một bà hết và gần như thế này nào có thân li bị đâm cũng từng nghe qua Nhưng hôm nay tuổi mình không nghĩ lại bản đốc độ mà là Bác sắp khách hoạch phíng bà hành phát mới Giờ chuyến các bạn, tà đã đó",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.6,
+      "text": "Cái bạn có nhớ như điều này không?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.0,
+          "end": 0.08,
+          "probability": 0.19
+        },
+        {
+          "word": "bạn",
+          "start": 0.08,
+          "end": 0.2,
+          "probability": 0.61
+        },
+        {
+          "word": "có",
+          "start": 0.2,
+          "end": 0.34,
+          "probability": 0.72
+        },
+        {
+          "word": "nhớ",
+          "start": 0.34,
+          "end": 0.58,
+          "probability": 0.75
+        },
+        {
+          "word": "như",
+          "start": 0.58,
+          "end": 0.78,
+          "probability": 0.29
+        },
+        {
+          "word": "điều",
+          "start": 0.78,
+          "end": 0.96,
+          "probability": 0.54
+        },
+        {
+          "word": "này",
+          "start": 0.96,
+          "end": 1.06,
+          "probability": 0.37
+        },
+        {
+          "word": "không?",
+          "start": 1.06,
+          "end": 1.6,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.3,
+      "end": 4.3,
+      "text": "Nhao, hay em, em, em, em, em",
+      "words": [
+        {
+          "word": "Nhao,",
+          "start": 2.3,
+          "end": 2.7,
+          "probability": 0.38
+        },
+        {
+          "word": "hay",
+          "start": 2.7,
+          "end": 3.1,
+          "probability": 0.28
+        },
+        {
+          "word": "em,",
+          "start": 3.1,
+          "end": 3.46,
+          "probability": 0.61
+        },
+        {
+          "word": "em,",
+          "start": 3.48,
+          "end": 3.74,
+          "probability": 0.51
+        },
+        {
+          "word": "em,",
+          "start": 3.94,
+          "end": 3.94,
+          "probability": 0.49
+        },
+        {
+          "word": "em,",
+          "start": 3.94,
+          "end": 4.0,
+          "probability": 0.86
+        },
+        {
+          "word": "em",
+          "start": 4.0,
+          "end": 4.3,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.39,
+      "end": 13.31,
+      "text": "Một bà hết và gần như thế này nào có thân li bị đâm cũng từng nghe qua",
+      "words": [
+        {
+          "word": "Một",
+          "start": 9.39,
+          "end": 10.01,
+          "probability": 0.08
+        },
+        {
+          "word": "bà",
+          "start": 10.01,
+          "end": 10.17,
+          "probability": 0.43
+        },
+        {
+          "word": "hết",
+          "start": 10.17,
+          "end": 10.35,
+          "probability": 0.51
+        },
+        {
+          "word": "và",
+          "start": 10.35,
+          "end": 10.55,
+          "probability": 0.32
+        },
+        {
+          "word": "gần",
+          "start": 10.55,
+          "end": 10.77,
+          "probability": 0.56
+        },
+        {
+          "word": "như",
+          "start": 10.77,
+          "end": 10.89,
+          "probability": 0.55
+        },
+        {
+          "word": "thế",
+          "start": 10.89,
+          "end": 11.09,
+          "probability": 0.98
+        },
+        {
+          "word": "này",
+          "start": 11.09,
+          "end": 11.27,
+          "probability": 0.34
+        },
+        {
+          "word": "nào",
+          "start": 11.27,
+          "end": 11.49,
+          "probability": 0.88
+        },
+        {
+          "word": "có",
+          "start": 11.49,
+          "end": 11.63,
+          "probability": 0.34
+        },
+        {
+          "word": "thân",
+          "start": 11.63,
+          "end": 11.77,
+          "probability": 0.42
+        },
+        {
+          "word": "li",
+          "start": 11.77,
+          "end": 11.89,
+          "probability": 0.2
+        },
+        {
+          "word": "bị",
+          "start": 11.89,
+          "end": 12.05,
+          "probability": 0.2
+        },
+        {
+          "word": "đâm",
+          "start": 12.05,
+          "end": 12.35,
+          "probability": 0.36
+        },
+        {
+          "word": "cũng",
+          "start": 12.35,
+          "end": 12.55,
+          "probability": 0.82
+        },
+        {
+          "word": "từng",
+          "start": 12.55,
+          "end": 12.81,
+          "probability": 0.44
+        },
+        {
+          "word": "nghe",
+          "start": 12.81,
+          "end": 12.89,
+          "probability": 0.33
+        },
+        {
+          "word": "qua",
+          "start": 12.89,
+          "end": 13.31,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.31,
+      "end": 16.19,
+      "text": "Nhưng hôm nay tuổi mình không nghĩ lại bản đốc độ mà là",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 13.31,
+          "end": 13.65,
+          "probability": 0.2
+        },
+        {
+          "word": "hôm",
+          "start": 13.65,
+          "end": 13.85,
+          "probability": 0.38
+        },
+        {
+          "word": "nay",
+          "start": 13.85,
+          "end": 13.91,
+          "probability": 0.97
+        },
+        {
+          "word": "tuổi",
+          "start": 13.91,
+          "end": 14.09,
+          "probability": 0.4
+        },
+        {
+          "word": "mình",
+          "start": 14.09,
+          "end": 14.33,
+          "probability": 0.73
+        },
+        {
+          "word": "không",
+          "start": 14.33,
+          "end": 14.63,
+          "probability": 0.99
+        },
+        {
+          "word": "nghĩ",
+          "start": 14.63,
+          "end": 14.89,
+          "probability": 0.68
+        },
+        {
+          "word": "lại",
+          "start": 14.89,
+          "end": 15.07,
+          "probability": 0.77
+        },
+        {
+          "word": "bản",
+          "start": 15.07,
+          "end": 15.25,
+          "probability": 0.61
+        },
+        {
+          "word": "đốc",
+          "start": 15.25,
+          "end": 15.35,
+          "probability": 0.3
+        },
+        {
+          "word": "độ",
+          "start": 15.35,
+          "end": 15.67,
+          "probability": 0.22
+        },
+        {
+          "word": "mà",
+          "start": 15.67,
+          "end": 15.87,
+          "probability": 0.59
+        },
+        {
+          "word": "là",
+          "start": 15.87,
+          "end": 16.19,
+          "probability": 0.89
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.19,
+      "end": 18.77,
+      "text": "Bác sắp khách hoạch phíng bà hành phát mới",
+      "words": [
+        {
+          "word": "Bác",
+          "start": 16.19,
+          "end": 16.49,
+          "probability": 0.06
+        },
+        {
+          "word": "sắp",
+          "start": 16.49,
+          "end": 16.61,
+          "probability": 0.65
+        },
+        {
+          "word": "khách",
+          "start": 16.61,
+          "end": 16.85,
+          "probability": 0.19
+        },
+        {
+          "word": "hoạch",
+          "start": 16.85,
+          "end": 17.29,
+          "probability": 0.42
+        },
+        {
+          "word": "phíng",
+          "start": 17.29,
+          "end": 17.59,
+          "probability": 0.35
+        },
+        {
+          "word": "bà",
+          "start": 17.59,
+          "end": 17.77,
+          "probability": 0.55
+        },
+        {
+          "word": "hành",
+          "start": 17.77,
+          "end": 18.15,
+          "probability": 0.21
+        },
+        {
+          "word": "phát",
+          "start": 18.15,
+          "end": 18.31,
+          "probability": 0.28
+        },
+        {
+          "word": "mới",
+          "start": 18.31,
+          "end": 18.77,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 18.77,
+      "end": 20.33,
+      "text": "Giờ chuyến các bạn, tà đã đó",
+      "words": [
+        {
+          "word": "Giờ",
+          "start": 18.77,
+          "end": 19.11,
+          "probability": 0.18
+        },
+        {
+          "word": "chuyến",
+          "start": 19.11,
+          "end": 19.31,
+          "probability": 0.52
+        },
+        {
+          "word": "các",
+          "start": 19.31,
+          "end": 19.51,
+          "probability": 0.17
+        },
+        {
+          "word": "bạn,",
+          "start": 19.51,
+          "end": 19.77,
+          "probability": 0.61
+        },
+        {
+          "word": "tà",
+          "start": 19.89,
+          "end": 19.97,
+          "probability": 0.22
+        },
+        {
+          "word": "đã",
+          "start": 19.97,
+          "end": 20.11,
+          "probability": 0.55
+        },
+        {
+          "word": "đó",
+          "start": 20.11,
+          "end": 20.33,
+          "probability": 0.64
+        }
+      ]
+    }
+  ]
+}

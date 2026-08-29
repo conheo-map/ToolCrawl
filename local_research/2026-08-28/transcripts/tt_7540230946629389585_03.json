@@ -1,0 +1,856 @@
+{
+  "item_id": "tt_7540230946629389585_03",
+  "duration_seconds": 27.05,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 129,
+  "text": "Chúng ta đặc biểu lượng dùng ngắn, chúng ta kéo biến điện dầu hả? Nên khi mà kéo đặc mùa cái đi bài gài, nó nước tế, kèa phải hết sức tập trung chú ý ở lại toán để kèm phân tích cơ dữ kẹt, giữa kẹt nào quán trọng giữ kẹt nào quán trọng. Nên họ quán tự tế để cho kèm lọc để hiểu để phân tích dữ kẹt, hay phát phá môi, mà bài toán. Và từ đó kèm cũng ràng vệ được cái sức tập trung, tắt từ vĩ sức tập trung để tìm sau này ra chường, các bạn có những cái câu biệt mà nó hỏi chất xám sức tập trung, cái đây nó mùa cái kẹt kẹt kẹm tĩ ngà đen biệt.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.14,
+      "text": "Chúng ta đặc biểu lượng dùng ngắn, chúng ta kéo biến điện dầu hả?",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.48
+        },
+        {
+          "word": "ta",
+          "start": 0.36,
+          "end": 0.48,
+          "probability": 0.86
+        },
+        {
+          "word": "đặc",
+          "start": 0.48,
+          "end": 0.7,
+          "probability": 0.27
+        },
+        {
+          "word": "biểu",
+          "start": 0.7,
+          "end": 0.9,
+          "probability": 0.65
+        },
+        {
+          "word": "lượng",
+          "start": 0.9,
+          "end": 1.12,
+          "probability": 0.46
+        },
+        {
+          "word": "dùng",
+          "start": 1.12,
+          "end": 1.22,
+          "probability": 0.4
+        },
+        {
+          "word": "ngắn,",
+          "start": 1.22,
+          "end": 1.4,
+          "probability": 0.45
+        },
+        {
+          "word": "chúng",
+          "start": 1.56,
+          "end": 1.56,
+          "probability": 0.12
+        },
+        {
+          "word": "ta",
+          "start": 1.56,
+          "end": 1.78,
+          "probability": 0.89
+        },
+        {
+          "word": "kéo",
+          "start": 1.78,
+          "end": 2.1,
+          "probability": 0.3
+        },
+        {
+          "word": "biến",
+          "start": 2.1,
+          "end": 2.32,
+          "probability": 0.73
+        },
+        {
+          "word": "điện",
+          "start": 2.32,
+          "end": 2.54,
+          "probability": 0.46
+        },
+        {
+          "word": "dầu",
+          "start": 2.54,
+          "end": 2.68,
+          "probability": 0.4
+        },
+        {
+          "word": "hả?",
+          "start": 2.68,
+          "end": 3.14,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.36,
+      "end": 9.08,
+      "text": "Nên khi mà kéo đặc mùa cái đi bài gài, nó nước tế, kèa phải hết sức tập trung chú ý ở lại toán để kèm phân tích cơ dữ kẹt,",
+      "words": [
+        {
+          "word": "Nên",
+          "start": 3.36,
+          "end": 3.44,
+          "probability": 0.68
+        },
+        {
+          "word": "khi",
+          "start": 3.44,
+          "end": 3.56,
+          "probability": 0.71
+        },
+        {
+          "word": "mà",
+          "start": 3.56,
+          "end": 3.64,
+          "probability": 0.71
+        },
+        {
+          "word": "kéo",
+          "start": 3.64,
+          "end": 3.78,
+          "probability": 0.45
+        },
+        {
+          "word": "đặc",
+          "start": 3.78,
+          "end": 3.92,
+          "probability": 0.32
+        },
+        {
+          "word": "mùa",
+          "start": 3.92,
+          "end": 4.06,
+          "probability": 0.34
+        },
+        {
+          "word": "cái",
+          "start": 4.06,
+          "end": 4.18,
+          "probability": 0.31
+        },
+        {
+          "word": "đi",
+          "start": 4.18,
+          "end": 4.24,
+          "probability": 0.21
+        },
+        {
+          "word": "bài",
+          "start": 4.24,
+          "end": 4.4,
+          "probability": 0.4
+        },
+        {
+          "word": "gài,",
+          "start": 4.4,
+          "end": 4.68,
+          "probability": 0.65
+        },
+        {
+          "word": "nó",
+          "start": 4.88,
+          "end": 4.88,
+          "probability": 0.39
+        },
+        {
+          "word": "nước",
+          "start": 4.88,
+          "end": 5.02,
+          "probability": 0.12
+        },
+        {
+          "word": "tế,",
+          "start": 5.02,
+          "end": 5.12,
+          "probability": 0.51
+        },
+        {
+          "word": "kèa",
+          "start": 5.3,
+          "end": 5.34,
+          "probability": 0.4
+        },
+        {
+          "word": "phải",
+          "start": 5.34,
+          "end": 5.44,
+          "probability": 0.3
+        },
+        {
+          "word": "hết",
+          "start": 5.44,
+          "end": 5.68,
+          "probability": 0.63
+        },
+        {
+          "word": "sức",
+          "start": 5.68,
+          "end": 5.76,
+          "probability": 0.83
+        },
+        {
+          "word": "tập",
+          "start": 5.76,
+          "end": 5.96,
+          "probability": 0.87
+        },
+        {
+          "word": "trung",
+          "start": 5.96,
+          "end": 6.18,
+          "probability": 0.6
+        },
+        {
+          "word": "chú",
+          "start": 6.18,
+          "end": 6.5,
+          "probability": 0.38
+        },
+        {
+          "word": "ý",
+          "start": 6.5,
+          "end": 6.6,
+          "probability": 0.86
+        },
+        {
+          "word": "ở",
+          "start": 6.6,
+          "end": 6.76,
+          "probability": 0.39
+        },
+        {
+          "word": "lại",
+          "start": 6.76,
+          "end": 6.88,
+          "probability": 0.17
+        },
+        {
+          "word": "toán",
+          "start": 6.88,
+          "end": 7.18,
+          "probability": 0.57
+        },
+        {
+          "word": "để",
+          "start": 7.18,
+          "end": 7.42,
+          "probability": 0.79
+        },
+        {
+          "word": "kèm",
+          "start": 7.42,
+          "end": 7.68,
+          "probability": 0.83
+        },
+        {
+          "word": "phân",
+          "start": 7.68,
+          "end": 7.96,
+          "probability": 0.64
+        },
+        {
+          "word": "tích",
+          "start": 7.96,
+          "end": 8.2,
+          "probability": 0.8
+        },
+        {
+          "word": "cơ",
+          "start": 8.2,
+          "end": 8.44,
+          "probability": 0.54
+        },
+        {
+          "word": "dữ",
+          "start": 8.44,
+          "end": 8.62,
+          "probability": 0.63
+        },
+        {
+          "word": "kẹt,",
+          "start": 8.62,
+          "end": 9.08,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.1,
+      "end": 10.64,
+      "text": "giữa kẹt nào quán trọng giữ kẹt nào quán trọng.",
+      "words": [
+        {
+          "word": "giữa",
+          "start": 9.1,
+          "end": 9.18,
+          "probability": 0.33
+        },
+        {
+          "word": "kẹt",
+          "start": 9.18,
+          "end": 9.34,
+          "probability": 0.96
+        },
+        {
+          "word": "nào",
+          "start": 9.34,
+          "end": 9.48,
+          "probability": 0.36
+        },
+        {
+          "word": "quán",
+          "start": 9.48,
+          "end": 9.62,
+          "probability": 0.44
+        },
+        {
+          "word": "trọng",
+          "start": 9.62,
+          "end": 9.76,
+          "probability": 0.75
+        },
+        {
+          "word": "giữ",
+          "start": 9.76,
+          "end": 10.0,
+          "probability": 0.58
+        },
+        {
+          "word": "kẹt",
+          "start": 10.0,
+          "end": 10.1,
+          "probability": 0.96
+        },
+        {
+          "word": "nào",
+          "start": 10.1,
+          "end": 10.2,
+          "probability": 0.92
+        },
+        {
+          "word": "quán",
+          "start": 10.2,
+          "end": 10.42,
+          "probability": 0.85
+        },
+        {
+          "word": "trọng.",
+          "start": 10.42,
+          "end": 10.64,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.84,
+      "end": 14.94,
+      "text": "Nên họ quán tự tế để cho kèm lọc để hiểu để phân tích dữ kẹt,",
+      "words": [
+        {
+          "word": "Nên",
+          "start": 10.84,
+          "end": 10.96,
+          "probability": 0.66
+        },
+        {
+          "word": "họ",
+          "start": 10.96,
+          "end": 11.16,
+          "probability": 0.57
+        },
+        {
+          "word": "quán",
+          "start": 11.16,
+          "end": 11.38,
+          "probability": 0.58
+        },
+        {
+          "word": "tự",
+          "start": 11.38,
+          "end": 11.62,
+          "probability": 0.35
+        },
+        {
+          "word": "tế",
+          "start": 11.62,
+          "end": 11.88,
+          "probability": 0.93
+        },
+        {
+          "word": "để",
+          "start": 11.88,
+          "end": 12.12,
+          "probability": 0.73
+        },
+        {
+          "word": "cho",
+          "start": 12.12,
+          "end": 12.22,
+          "probability": 0.44
+        },
+        {
+          "word": "kèm",
+          "start": 12.22,
+          "end": 12.48,
+          "probability": 0.99
+        },
+        {
+          "word": "lọc",
+          "start": 12.48,
+          "end": 12.86,
+          "probability": 0.6
+        },
+        {
+          "word": "để",
+          "start": 12.86,
+          "end": 13.22,
+          "probability": 0.51
+        },
+        {
+          "word": "hiểu",
+          "start": 13.22,
+          "end": 13.48,
+          "probability": 0.84
+        },
+        {
+          "word": "để",
+          "start": 13.48,
+          "end": 13.84,
+          "probability": 0.55
+        },
+        {
+          "word": "phân",
+          "start": 13.84,
+          "end": 14.1,
+          "probability": 0.96
+        },
+        {
+          "word": "tích",
+          "start": 14.1,
+          "end": 14.32,
+          "probability": 0.99
+        },
+        {
+          "word": "dữ",
+          "start": 14.32,
+          "end": 14.58,
+          "probability": 0.94
+        },
+        {
+          "word": "kẹt,",
+          "start": 14.58,
+          "end": 14.94,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.06,
+      "end": 17.08,
+      "text": "hay phát phá môi, mà bài toán.",
+      "words": [
+        {
+          "word": "hay",
+          "start": 15.06,
+          "end": 15.22,
+          "probability": 0.31
+        },
+        {
+          "word": "phát",
+          "start": 15.22,
+          "end": 15.4,
+          "probability": 0.35
+        },
+        {
+          "word": "phá",
+          "start": 15.4,
+          "end": 15.72,
+          "probability": 0.55
+        },
+        {
+          "word": "môi,",
+          "start": 15.72,
+          "end": 15.94,
+          "probability": 0.49
+        },
+        {
+          "word": "mà",
+          "start": 16.08,
+          "end": 16.26,
+          "probability": 0.06
+        },
+        {
+          "word": "bài",
+          "start": 16.26,
+          "end": 16.42,
+          "probability": 0.37
+        },
+        {
+          "word": "toán.",
+          "start": 16.42,
+          "end": 17.08,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 17.36,
+      "end": 19.5,
+      "text": "Và từ đó kèm cũng ràng vệ được cái sức tập trung,",
+      "words": [
+        {
+          "word": "Và",
+          "start": 17.36,
+          "end": 17.4,
+          "probability": 0.25
+        },
+        {
+          "word": "từ",
+          "start": 17.4,
+          "end": 17.52,
+          "probability": 0.7
+        },
+        {
+          "word": "đó",
+          "start": 17.52,
+          "end": 17.8,
+          "probability": 0.9
+        },
+        {
+          "word": "kèm",
+          "start": 17.8,
+          "end": 18.08,
+          "probability": 0.87
+        },
+        {
+          "word": "cũng",
+          "start": 18.08,
+          "end": 18.26,
+          "probability": 0.88
+        },
+        {
+          "word": "ràng",
+          "start": 18.26,
+          "end": 18.52,
+          "probability": 0.23
+        },
+        {
+          "word": "vệ",
+          "start": 18.52,
+          "end": 18.72,
+          "probability": 0.14
+        },
+        {
+          "word": "được",
+          "start": 18.72,
+          "end": 18.88,
+          "probability": 0.68
+        },
+        {
+          "word": "cái",
+          "start": 18.88,
+          "end": 19.04,
+          "probability": 0.25
+        },
+        {
+          "word": "sức",
+          "start": 19.04,
+          "end": 19.12,
+          "probability": 0.69
+        },
+        {
+          "word": "tập",
+          "start": 19.12,
+          "end": 19.3,
+          "probability": 0.89
+        },
+        {
+          "word": "trung,",
+          "start": 19.3,
+          "end": 19.5,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 19.7,
+      "end": 21.62,
+      "text": "tắt từ vĩ sức tập trung để tìm sau này ra chường,",
+      "words": [
+        {
+          "word": "tắt",
+          "start": 19.7,
+          "end": 19.72,
+          "probability": 0.48
+        },
+        {
+          "word": "từ",
+          "start": 19.72,
+          "end": 19.9,
+          "probability": 0.33
+        },
+        {
+          "word": "vĩ",
+          "start": 19.9,
+          "end": 20.1,
+          "probability": 0.23
+        },
+        {
+          "word": "sức",
+          "start": 20.1,
+          "end": 20.14,
+          "probability": 0.75
+        },
+        {
+          "word": "tập",
+          "start": 20.14,
+          "end": 20.32,
+          "probability": 0.89
+        },
+        {
+          "word": "trung",
+          "start": 20.32,
+          "end": 20.48,
+          "probability": 0.97
+        },
+        {
+          "word": "để",
+          "start": 20.48,
+          "end": 20.64,
+          "probability": 0.22
+        },
+        {
+          "word": "tìm",
+          "start": 20.64,
+          "end": 20.8,
+          "probability": 0.32
+        },
+        {
+          "word": "sau",
+          "start": 20.8,
+          "end": 20.92,
+          "probability": 0.53
+        },
+        {
+          "word": "này",
+          "start": 20.92,
+          "end": 21.14,
+          "probability": 0.95
+        },
+        {
+          "word": "ra",
+          "start": 21.14,
+          "end": 21.36,
+          "probability": 0.82
+        },
+        {
+          "word": "chường,",
+          "start": 21.36,
+          "end": 21.62,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 21.62,
+      "end": 24.5,
+      "text": "các bạn có những cái câu biệt mà nó hỏi chất xám sức tập trung,",
+      "words": [
+        {
+          "word": "các",
+          "start": 21.62,
+          "end": 22.0,
+          "probability": 0.19
+        },
+        {
+          "word": "bạn",
+          "start": 22.0,
+          "end": 22.2,
+          "probability": 1.0
+        },
+        {
+          "word": "có",
+          "start": 22.2,
+          "end": 22.44,
+          "probability": 0.67
+        },
+        {
+          "word": "những",
+          "start": 22.44,
+          "end": 22.58,
+          "probability": 0.26
+        },
+        {
+          "word": "cái",
+          "start": 22.58,
+          "end": 22.7,
+          "probability": 0.21
+        },
+        {
+          "word": "câu",
+          "start": 22.7,
+          "end": 22.82,
+          "probability": 0.68
+        },
+        {
+          "word": "biệt",
+          "start": 22.82,
+          "end": 23.02,
+          "probability": 0.39
+        },
+        {
+          "word": "mà",
+          "start": 23.02,
+          "end": 23.2,
+          "probability": 0.71
+        },
+        {
+          "word": "nó",
+          "start": 23.2,
+          "end": 23.36,
+          "probability": 0.16
+        },
+        {
+          "word": "hỏi",
+          "start": 23.36,
+          "end": 23.54,
+          "probability": 0.67
+        },
+        {
+          "word": "chất",
+          "start": 23.54,
+          "end": 23.72,
+          "probability": 0.49
+        },
+        {
+          "word": "xám",
+          "start": 23.72,
+          "end": 24.0,
+          "probability": 0.4
+        },
+        {
+          "word": "sức",
+          "start": 24.0,
+          "end": 24.2,
+          "probability": 0.06
+        },
+        {
+          "word": "tập",
+          "start": 24.2,
+          "end": 24.36,
+          "probability": 0.14
+        },
+        {
+          "word": "trung,",
+          "start": 24.36,
+          "end": 24.5,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 25.02,
+      "end": 27.02,
+      "text": "cái đây nó mùa cái kẹt kẹt kẹm tĩ ngà đen biệt.",
+      "words": [
+        {
+          "word": "cái",
+          "start": 25.02,
+          "end": 25.38,
+          "probability": 0.08
+        },
+        {
+          "word": "đây",
+          "start": 25.38,
+          "end": 25.42,
+          "probability": 0.01
+        },
+        {
+          "word": "nó",
+          "start": 25.42,
+          "end": 25.7,
+          "probability": 0.37
+        },
+        {
+          "word": "mùa",
+          "start": 25.7,
+          "end": 25.8,
+          "probability": 0.15
+        },
+        {
+          "word": "cái",
+          "start": 25.8,
+          "end": 25.84,
+          "probability": 0.17
+        },
+        {
+          "word": "kẹt",
+          "start": 25.84,
+          "end": 26.08,
+          "probability": 0.26
+        },
+        {
+          "word": "kẹt",
+          "start": 26.08,
+          "end": 26.28,
+          "probability": 0.58
+        },
+        {
+          "word": "kẹm",
+          "start": 26.28,
+          "end": 26.32,
+          "probability": 0.24
+        },
+        {
+          "word": "tĩ",
+          "start": 26.32,
+          "end": 26.48,
+          "probability": 0.47
+        },
+        {
+          "word": "ngà",
+          "start": 26.48,
+          "end": 26.74,
+          "probability": 0.35
+        },
+        {
+          "word": "đen",
+          "start": 26.74,
+          "end": 26.94,
+          "probability": 0.24
+        },
+        {
+          "word": "biệt.",
+          "start": 26.94,
+          "end": 27.02,
+          "probability": 0.65
+        }
+      ]
+    }
+  ]
+}

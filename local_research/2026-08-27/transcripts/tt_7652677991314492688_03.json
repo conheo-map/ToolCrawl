@@ -1,0 +1,446 @@
+{
+  "item_id": "tt_7652677991314492688_03",
+  "duration_seconds": 28.23,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 66,
+  "text": "Cố bữa tình dưới, ra 2 mèm Gứy ra 2 mèm của Bó và cái học hàng thuốc em, thì cũng hơn em tốt được sử ổng họ từ chá mẹ không có tràn đường, tràn đường, đàn trường để hợp knife, bây giờ hợp tí thô đã đi a sê m à trạc tu ấy, nha ở đây mà sân nha gã nó de mưỡi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.58,
+      "text": "Cố bữa tình dưới, ra 2 mèm",
+      "words": [
+        {
+          "word": "Cố",
+          "start": 0.0,
+          "end": 0.52,
+          "probability": 0.11
+        },
+        {
+          "word": "bữa",
+          "start": 0.52,
+          "end": 0.76,
+          "probability": 0.5
+        },
+        {
+          "word": "tình",
+          "start": 0.76,
+          "end": 0.98,
+          "probability": 0.27
+        },
+        {
+          "word": "dưới,",
+          "start": 0.98,
+          "end": 1.32,
+          "probability": 0.43
+        },
+        {
+          "word": "ra",
+          "start": 1.38,
+          "end": 1.6,
+          "probability": 0.12
+        },
+        {
+          "word": "2",
+          "start": 1.6,
+          "end": 1.88,
+          "probability": 0.52
+        },
+        {
+          "word": "mèm",
+          "start": 1.88,
+          "end": 2.58,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.24,
+      "end": 5.94,
+      "text": "Gứy ra 2 mèm của Bó",
+      "words": [
+        {
+          "word": "Gứy",
+          "start": 4.24,
+          "end": 4.8,
+          "probability": 0.05
+        },
+        {
+          "word": "ra",
+          "start": 4.8,
+          "end": 4.98,
+          "probability": 0.07
+        },
+        {
+          "word": "2",
+          "start": 4.98,
+          "end": 5.18,
+          "probability": 0.56
+        },
+        {
+          "word": "mèm",
+          "start": 5.18,
+          "end": 5.2,
+          "probability": 0.98
+        },
+        {
+          "word": "của",
+          "start": 5.2,
+          "end": 5.42,
+          "probability": 0.5
+        },
+        {
+          "word": "Bó",
+          "start": 5.42,
+          "end": 5.94,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.06,
+      "end": 13.96,
+      "text": "và cái học hàng thuốc em, thì cũng hơn em tốt được sử ổng họ từ chá mẹ",
+      "words": [
+        {
+          "word": "và",
+          "start": 7.06,
+          "end": 7.62,
+          "probability": 0.0
+        },
+        {
+          "word": "cái",
+          "start": 7.62,
+          "end": 8.18,
+          "probability": 0.18
+        },
+        {
+          "word": "học",
+          "start": 8.18,
+          "end": 8.7,
+          "probability": 0.91
+        },
+        {
+          "word": "hàng",
+          "start": 8.7,
+          "end": 8.9,
+          "probability": 0.24
+        },
+        {
+          "word": "thuốc",
+          "start": 8.9,
+          "end": 9.14,
+          "probability": 0.37
+        },
+        {
+          "word": "em,",
+          "start": 9.14,
+          "end": 9.74,
+          "probability": 0.71
+        },
+        {
+          "word": "thì",
+          "start": 10.22,
+          "end": 10.24,
+          "probability": 0.52
+        },
+        {
+          "word": "cũng",
+          "start": 10.24,
+          "end": 10.46,
+          "probability": 0.51
+        },
+        {
+          "word": "hơn",
+          "start": 10.46,
+          "end": 10.88,
+          "probability": 0.04
+        },
+        {
+          "word": "em",
+          "start": 10.88,
+          "end": 11.16,
+          "probability": 0.22
+        },
+        {
+          "word": "tốt",
+          "start": 11.16,
+          "end": 11.56,
+          "probability": 0.6
+        },
+        {
+          "word": "được",
+          "start": 11.56,
+          "end": 11.9,
+          "probability": 0.78
+        },
+        {
+          "word": "sử",
+          "start": 11.9,
+          "end": 12.12,
+          "probability": 0.36
+        },
+        {
+          "word": "ổng",
+          "start": 12.12,
+          "end": 12.18,
+          "probability": 0.28
+        },
+        {
+          "word": "họ",
+          "start": 12.18,
+          "end": 12.54,
+          "probability": 0.38
+        },
+        {
+          "word": "từ",
+          "start": 12.54,
+          "end": 13.12,
+          "probability": 0.37
+        },
+        {
+          "word": "chá",
+          "start": 13.12,
+          "end": 13.34,
+          "probability": 0.22
+        },
+        {
+          "word": "mẹ",
+          "start": 13.34,
+          "end": 13.96,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.96,
+      "end": 23.74,
+      "text": "không có tràn đường, tràn đường, đàn trường để hợp knife, bây giờ hợp tí thô đã đi a sê m",
+      "words": [
+        {
+          "word": "không",
+          "start": 13.96,
+          "end": 14.56,
+          "probability": 0.0
+        },
+        {
+          "word": "có",
+          "start": 14.56,
+          "end": 14.72,
+          "probability": 0.54
+        },
+        {
+          "word": "tràn",
+          "start": 14.72,
+          "end": 15.1,
+          "probability": 0.02
+        },
+        {
+          "word": "đường,",
+          "start": 15.1,
+          "end": 15.36,
+          "probability": 0.24
+        },
+        {
+          "word": "tràn",
+          "start": 15.88,
+          "end": 15.9,
+          "probability": 0.5
+        },
+        {
+          "word": "đường,",
+          "start": 15.9,
+          "end": 16.38,
+          "probability": 0.57
+        },
+        {
+          "word": "đàn",
+          "start": 16.74,
+          "end": 16.96,
+          "probability": 0.33
+        },
+        {
+          "word": "trường",
+          "start": 16.96,
+          "end": 17.38,
+          "probability": 0.33
+        },
+        {
+          "word": "để",
+          "start": 17.38,
+          "end": 17.74,
+          "probability": 0.06
+        },
+        {
+          "word": "hợp",
+          "start": 17.74,
+          "end": 17.92,
+          "probability": 0.45
+        },
+        {
+          "word": "knife,",
+          "start": 17.92,
+          "end": 18.18,
+          "probability": 0.0
+        },
+        {
+          "word": "bây",
+          "start": 18.5,
+          "end": 19.46,
+          "probability": 0.26
+        },
+        {
+          "word": "giờ",
+          "start": 19.46,
+          "end": 20.38,
+          "probability": 0.79
+        },
+        {
+          "word": "hợp",
+          "start": 20.38,
+          "end": 21.16,
+          "probability": 0.43
+        },
+        {
+          "word": "tí",
+          "start": 21.16,
+          "end": 21.68,
+          "probability": 0.19
+        },
+        {
+          "word": "thô",
+          "start": 21.68,
+          "end": 21.92,
+          "probability": 0.17
+        },
+        {
+          "word": "đã",
+          "start": 21.92,
+          "end": 22.2,
+          "probability": 0.14
+        },
+        {
+          "word": "đi",
+          "start": 22.2,
+          "end": 22.9,
+          "probability": 0.03
+        },
+        {
+          "word": "a",
+          "start": 22.9,
+          "end": 22.9,
+          "probability": 0.03
+        },
+        {
+          "word": "sê",
+          "start": 22.9,
+          "end": 23.36,
+          "probability": 0.01
+        },
+        {
+          "word": "m",
+          "start": 23.36,
+          "end": 23.74,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 23.74,
+      "end": 28.2,
+      "text": "à trạc tu ấy, nha ở đây mà sân nha gã nó de mưỡi",
+      "words": [
+        {
+          "word": "à",
+          "start": 23.74,
+          "end": 24.16,
+          "probability": 0.05
+        },
+        {
+          "word": "trạc",
+          "start": 24.16,
+          "end": 24.38,
+          "probability": 0.36
+        },
+        {
+          "word": "tu",
+          "start": 24.38,
+          "end": 24.62,
+          "probability": 0.14
+        },
+        {
+          "word": "ấy,",
+          "start": 24.62,
+          "end": 25.04,
+          "probability": 0.15
+        },
+        {
+          "word": "nha",
+          "start": 25.52,
+          "end": 25.8,
+          "probability": 0.05
+        },
+        {
+          "word": "ở",
+          "start": 25.8,
+          "end": 26.2,
+          "probability": 0.0
+        },
+        {
+          "word": "đây",
+          "start": 26.2,
+          "end": 26.2,
+          "probability": 0.24
+        },
+        {
+          "word": "mà",
+          "start": 26.2,
+          "end": 26.2,
+          "probability": 0.06
+        },
+        {
+          "word": "sân",
+          "start": 26.2,
+          "end": 26.7,
+          "probability": 0.14
+        },
+        {
+          "word": "nha",
+          "start": 26.7,
+          "end": 27.22,
+          "probability": 0.33
+        },
+        {
+          "word": "gã",
+          "start": 27.22,
+          "end": 27.46,
+          "probability": 0.13
+        },
+        {
+          "word": "nó",
+          "start": 27.46,
+          "end": 27.64,
+          "probability": 0.0
+        },
+        {
+          "word": "de",
+          "start": 27.64,
+          "end": 27.76,
+          "probability": 0.0
+        },
+        {
+          "word": "mưỡi",
+          "start": 27.76,
+          "end": 28.2,
+          "probability": 0.54
+        }
+      ]
+    }
+  ]
+}

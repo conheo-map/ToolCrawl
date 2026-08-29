@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7351385845636631826_10",
+  "duration_seconds": 19.56,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Dạc nhé.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.64,
+      "end": 1.06,
+      "text": "Dạc nhé.",
+      "words": [
+        {
+          "word": "Dạc",
+          "start": 0.64,
+          "end": 0.92,
+          "probability": 0.18
+        },
+        {
+          "word": "nhé.",
+          "start": 0.92,
+          "end": 1.06,
+          "probability": 0.06
+        }
+      ]
+    }
+  ]
+}

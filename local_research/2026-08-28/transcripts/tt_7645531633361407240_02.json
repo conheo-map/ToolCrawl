@@ -1,0 +1,636 @@
+{
+  "item_id": "tt_7645531633361407240_02",
+  "duration_seconds": 23.8,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 91,
+  "text": "Chế là nó sẽ có trả được Chế là có trích năng, có trả hỗ trợ OK Nhưng cái là phải có mở sàng đứng ở đâu, mở trảnh cái dòng xe lại Mở mở bấm nục cho nó trảy ra được Chị không phải là bởi vì đề tự động bấm nục từ xa bước của nó trảy ra Cảm ơn anh ngoài quay qua sau Đúng không? Cảm ơn người trảy lại rồi, mở bấm nục cho nó trảy ra được Để không có biết kéo đó hình mắt",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.48,
+      "text": "Chế là nó sẽ có trả được",
+      "words": [
+        {
+          "word": "Chế",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.14
+        },
+        {
+          "word": "là",
+          "start": 0.36,
+          "end": 0.7,
+          "probability": 0.44
+        },
+        {
+          "word": "nó",
+          "start": 0.7,
+          "end": 1.26,
+          "probability": 0.06
+        },
+        {
+          "word": "sẽ",
+          "start": 1.26,
+          "end": 1.54,
+          "probability": 0.25
+        },
+        {
+          "word": "có",
+          "start": 1.54,
+          "end": 1.72,
+          "probability": 0.07
+        },
+        {
+          "word": "trả",
+          "start": 1.72,
+          "end": 1.96,
+          "probability": 0.22
+        },
+        {
+          "word": "được",
+          "start": 1.96,
+          "end": 2.48,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.48,
+      "end": 6.18,
+      "text": "Chế là có trích năng, có trả hỗ trợ",
+      "words": [
+        {
+          "word": "Chế",
+          "start": 2.48,
+          "end": 2.84,
+          "probability": 0.49
+        },
+        {
+          "word": "là",
+          "start": 2.84,
+          "end": 3.18,
+          "probability": 0.71
+        },
+        {
+          "word": "có",
+          "start": 3.18,
+          "end": 4.5,
+          "probability": 0.19
+        },
+        {
+          "word": "trích",
+          "start": 4.5,
+          "end": 4.68,
+          "probability": 0.39
+        },
+        {
+          "word": "năng,",
+          "start": 4.68,
+          "end": 4.92,
+          "probability": 0.8
+        },
+        {
+          "word": "có",
+          "start": 5.24,
+          "end": 5.4,
+          "probability": 0.45
+        },
+        {
+          "word": "trả",
+          "start": 5.4,
+          "end": 5.4,
+          "probability": 0.44
+        },
+        {
+          "word": "hỗ",
+          "start": 5.4,
+          "end": 6.18,
+          "probability": 0.11
+        },
+        {
+          "word": "trợ",
+          "start": 6.18,
+          "end": 6.18,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.18,
+      "end": 6.58,
+      "text": "OK",
+      "words": [
+        {
+          "word": "OK",
+          "start": 6.18,
+          "end": 6.58,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.58,
+      "end": 11.3,
+      "text": "Nhưng cái là phải có mở sàng đứng ở đâu, mở trảnh cái dòng xe lại",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 6.58,
+          "end": 7.12,
+          "probability": 0.14
+        },
+        {
+          "word": "cái",
+          "start": 7.12,
+          "end": 7.3,
+          "probability": 0.24
+        },
+        {
+          "word": "là",
+          "start": 7.3,
+          "end": 7.4,
+          "probability": 0.63
+        },
+        {
+          "word": "phải",
+          "start": 7.4,
+          "end": 7.58,
+          "probability": 0.87
+        },
+        {
+          "word": "có",
+          "start": 7.58,
+          "end": 7.78,
+          "probability": 0.75
+        },
+        {
+          "word": "mở",
+          "start": 7.78,
+          "end": 8.96,
+          "probability": 0.16
+        },
+        {
+          "word": "sàng",
+          "start": 8.96,
+          "end": 9.34,
+          "probability": 0.18
+        },
+        {
+          "word": "đứng",
+          "start": 9.34,
+          "end": 9.88,
+          "probability": 0.44
+        },
+        {
+          "word": "ở",
+          "start": 9.88,
+          "end": 10.18,
+          "probability": 0.15
+        },
+        {
+          "word": "đâu,",
+          "start": 10.18,
+          "end": 10.24,
+          "probability": 0.24
+        },
+        {
+          "word": "mở",
+          "start": 10.28,
+          "end": 10.4,
+          "probability": 0.43
+        },
+        {
+          "word": "trảnh",
+          "start": 10.4,
+          "end": 10.66,
+          "probability": 0.32
+        },
+        {
+          "word": "cái",
+          "start": 10.66,
+          "end": 10.68,
+          "probability": 0.19
+        },
+        {
+          "word": "dòng",
+          "start": 10.68,
+          "end": 10.84,
+          "probability": 0.43
+        },
+        {
+          "word": "xe",
+          "start": 10.84,
+          "end": 11.02,
+          "probability": 0.3
+        },
+        {
+          "word": "lại",
+          "start": 11.02,
+          "end": 11.3,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.3,
+      "end": 13.32,
+      "text": "Mở mở bấm nục cho nó trảy ra được",
+      "words": [
+        {
+          "word": "Mở",
+          "start": 11.3,
+          "end": 11.72,
+          "probability": 0.39
+        },
+        {
+          "word": "mở",
+          "start": 11.72,
+          "end": 11.86,
+          "probability": 0.55
+        },
+        {
+          "word": "bấm",
+          "start": 11.86,
+          "end": 11.98,
+          "probability": 0.52
+        },
+        {
+          "word": "nục",
+          "start": 11.98,
+          "end": 12.14,
+          "probability": 0.49
+        },
+        {
+          "word": "cho",
+          "start": 12.14,
+          "end": 12.28,
+          "probability": 0.32
+        },
+        {
+          "word": "nó",
+          "start": 12.28,
+          "end": 12.36,
+          "probability": 0.21
+        },
+        {
+          "word": "trảy",
+          "start": 12.36,
+          "end": 12.58,
+          "probability": 0.74
+        },
+        {
+          "word": "ra",
+          "start": 12.58,
+          "end": 12.72,
+          "probability": 0.43
+        },
+        {
+          "word": "được",
+          "start": 12.72,
+          "end": 13.32,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 13.32,
+      "end": 16.1,
+      "text": "Chị không phải là bởi vì đề tự động bấm nục từ xa bước của nó trảy ra",
+      "words": [
+        {
+          "word": "Chị",
+          "start": 13.32,
+          "end": 13.64,
+          "probability": 0.18
+        },
+        {
+          "word": "không",
+          "start": 13.64,
+          "end": 13.72,
+          "probability": 0.38
+        },
+        {
+          "word": "phải",
+          "start": 13.72,
+          "end": 13.9,
+          "probability": 0.63
+        },
+        {
+          "word": "là",
+          "start": 13.9,
+          "end": 14.08,
+          "probability": 0.56
+        },
+        {
+          "word": "bởi",
+          "start": 14.08,
+          "end": 14.24,
+          "probability": 0.56
+        },
+        {
+          "word": "vì",
+          "start": 14.24,
+          "end": 14.24,
+          "probability": 0.27
+        },
+        {
+          "word": "đề",
+          "start": 14.24,
+          "end": 14.38,
+          "probability": 0.22
+        },
+        {
+          "word": "tự",
+          "start": 14.38,
+          "end": 14.4,
+          "probability": 0.24
+        },
+        {
+          "word": "động",
+          "start": 14.4,
+          "end": 14.66,
+          "probability": 0.74
+        },
+        {
+          "word": "bấm",
+          "start": 14.66,
+          "end": 15.0,
+          "probability": 0.81
+        },
+        {
+          "word": "nục",
+          "start": 15.0,
+          "end": 15.08,
+          "probability": 0.77
+        },
+        {
+          "word": "từ",
+          "start": 15.08,
+          "end": 15.28,
+          "probability": 0.1
+        },
+        {
+          "word": "xa",
+          "start": 15.28,
+          "end": 15.36,
+          "probability": 0.3
+        },
+        {
+          "word": "bước",
+          "start": 15.36,
+          "end": 15.5,
+          "probability": 0.22
+        },
+        {
+          "word": "của",
+          "start": 15.5,
+          "end": 15.64,
+          "probability": 0.76
+        },
+        {
+          "word": "nó",
+          "start": 15.64,
+          "end": 15.72,
+          "probability": 1.0
+        },
+        {
+          "word": "trảy",
+          "start": 15.72,
+          "end": 15.88,
+          "probability": 0.99
+        },
+        {
+          "word": "ra",
+          "start": 15.88,
+          "end": 16.1,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 16.1,
+      "end": 17.84,
+      "text": "Cảm ơn anh ngoài quay qua sau",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 16.1,
+          "end": 16.44,
+          "probability": 0.14
+        },
+        {
+          "word": "ơn",
+          "start": 16.44,
+          "end": 16.44,
+          "probability": 0.28
+        },
+        {
+          "word": "anh",
+          "start": 16.44,
+          "end": 16.68,
+          "probability": 0.12
+        },
+        {
+          "word": "ngoài",
+          "start": 16.68,
+          "end": 16.82,
+          "probability": 0.52
+        },
+        {
+          "word": "quay",
+          "start": 16.82,
+          "end": 17.02,
+          "probability": 0.4
+        },
+        {
+          "word": "qua",
+          "start": 17.02,
+          "end": 17.2,
+          "probability": 0.29
+        },
+        {
+          "word": "sau",
+          "start": 17.2,
+          "end": 17.84,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 17.84,
+      "end": 18.54,
+      "text": "Đúng không?",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 17.84,
+          "end": 18.16,
+          "probability": 0.63
+        },
+        {
+          "word": "không?",
+          "start": 18.16,
+          "end": 18.54,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 18.64,
+      "end": 21.84,
+      "text": "Cảm ơn người trảy lại rồi, mở bấm nục cho nó trảy ra được",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 18.64,
+          "end": 18.82,
+          "probability": 0.25
+        },
+        {
+          "word": "ơn",
+          "start": 18.82,
+          "end": 18.86,
+          "probability": 0.77
+        },
+        {
+          "word": "người",
+          "start": 18.86,
+          "end": 19.02,
+          "probability": 0.38
+        },
+        {
+          "word": "trảy",
+          "start": 19.02,
+          "end": 19.24,
+          "probability": 0.7
+        },
+        {
+          "word": "lại",
+          "start": 19.24,
+          "end": 19.46,
+          "probability": 0.41
+        },
+        {
+          "word": "rồi,",
+          "start": 19.46,
+          "end": 19.64,
+          "probability": 0.1
+        },
+        {
+          "word": "mở",
+          "start": 20.14,
+          "end": 20.18,
+          "probability": 0.81
+        },
+        {
+          "word": "bấm",
+          "start": 20.18,
+          "end": 20.5,
+          "probability": 0.76
+        },
+        {
+          "word": "nục",
+          "start": 20.5,
+          "end": 20.64,
+          "probability": 0.95
+        },
+        {
+          "word": "cho",
+          "start": 20.64,
+          "end": 20.8,
+          "probability": 0.95
+        },
+        {
+          "word": "nó",
+          "start": 20.8,
+          "end": 20.86,
+          "probability": 0.99
+        },
+        {
+          "word": "trảy",
+          "start": 20.86,
+          "end": 21.0,
+          "probability": 0.98
+        },
+        {
+          "word": "ra",
+          "start": 21.0,
+          "end": 21.14,
+          "probability": 1.0
+        },
+        {
+          "word": "được",
+          "start": 21.14,
+          "end": 21.84,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 21.84,
+      "end": 23.66,
+      "text": "Để không có biết kéo đó hình mắt",
+      "words": [
+        {
+          "word": "Để",
+          "start": 21.84,
+          "end": 22.1,
+          "probability": 0.41
+        },
+        {
+          "word": "không",
+          "start": 22.1,
+          "end": 22.48,
+          "probability": 0.21
+        },
+        {
+          "word": "có",
+          "start": 22.48,
+          "end": 22.6,
+          "probability": 0.13
+        },
+        {
+          "word": "biết",
+          "start": 22.6,
+          "end": 22.9,
+          "probability": 0.13
+        },
+        {
+          "word": "kéo",
+          "start": 22.9,
+          "end": 23.1,
+          "probability": 0.66
+        },
+        {
+          "word": "đó",
+          "start": 23.1,
+          "end": 23.26,
+          "probability": 0.72
+        },
+        {
+          "word": "hình",
+          "start": 23.26,
+          "end": 23.44,
+          "probability": 0.16
+        },
+        {
+          "word": "mắt",
+          "start": 23.44,
+          "end": 23.66,
+          "probability": 0.37
+        }
+      ]
+    }
+  ]
+}

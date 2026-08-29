@@ -1,0 +1,154 @@
+{
+  "item_id": "tt_7662340766362012949_02",
+  "duration_seconds": 13.64,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 16,
+  "text": "Cũng điện Nhưng mà nó bệ體 Xin xin đó không có Cũng là ok Nhà Hình",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.08,
+      "text": "Cũng điện",
+      "words": [
+        {
+          "word": "Cũng",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.46
+        },
+        {
+          "word": "điện",
+          "start": 0.4,
+          "end": 1.08,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.08,
+      "end": 2.72,
+      "text": "Nhưng mà nó bệ體",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 1.08,
+          "end": 1.3,
+          "probability": 0.12
+        },
+        {
+          "word": "mà",
+          "start": 1.3,
+          "end": 1.4,
+          "probability": 0.89
+        },
+        {
+          "word": "nó",
+          "start": 1.4,
+          "end": 1.74,
+          "probability": 0.11
+        },
+        {
+          "word": "bệ體",
+          "start": 1.74,
+          "end": 2.72,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.72,
+      "end": 3.9,
+      "text": "Xin xin đó không có",
+      "words": [
+        {
+          "word": "Xin",
+          "start": 2.72,
+          "end": 3.48,
+          "probability": 0.04
+        },
+        {
+          "word": "xin",
+          "start": 3.48,
+          "end": 3.6,
+          "probability": 0.13
+        },
+        {
+          "word": "đó",
+          "start": 3.6,
+          "end": 3.62,
+          "probability": 0.18
+        },
+        {
+          "word": "không",
+          "start": 3.62,
+          "end": 3.74,
+          "probability": 0.46
+        },
+        {
+          "word": "có",
+          "start": 3.74,
+          "end": 3.9,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.06,
+      "end": 12.04,
+      "text": "Cũng là ok",
+      "words": [
+        {
+          "word": "Cũng",
+          "start": 5.06,
+          "end": 5.72,
+          "probability": 0.48
+        },
+        {
+          "word": "là",
+          "start": 11.06,
+          "end": 11.72,
+          "probability": 0.03
+        },
+        {
+          "word": "ok",
+          "start": 11.72,
+          "end": 12.04,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.04,
+      "end": 12.68,
+      "text": "Nhà",
+      "words": [
+        {
+          "word": "Nhà",
+          "start": 12.04,
+          "end": 12.68,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 12.68,
+      "end": 12.9,
+      "text": "Hình",
+      "words": [
+        {
+          "word": "Hình",
+          "start": 12.68,
+          "end": 12.9,
+          "probability": 0.07
+        }
+      ]
+    }
+  ]
+}

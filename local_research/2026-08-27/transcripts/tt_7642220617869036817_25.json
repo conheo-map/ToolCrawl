@@ -1,0 +1,432 @@
+{
+  "item_id": "tt_7642220617869036817_25",
+  "duration_seconds": 26.84,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 53,
+  "text": "một thứ nhé 2 và 1 Năm 1 2 biến hành cho 2, 2 biến kang nhau Yep, 5 style 1 biến thuy thuy bắt 1 biến thuy bắt 1 biến thuy bắt 1 biến thuy bắt Để không có lý cú diễn Nhiều có lý cú diễn Nhiều có lý cú diễn",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 2.41,
+      "text": "một thứ nhé",
+      "words": [
+        {
+          "word": "một",
+          "start": 0.05,
+          "end": 0.65,
+          "probability": 0.0
+        },
+        {
+          "word": "thứ",
+          "start": 0.65,
+          "end": 2.41,
+          "probability": 0.0
+        },
+        {
+          "word": "nhé",
+          "start": 2.41,
+          "end": 2.41,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.41,
+      "end": 3.43,
+      "text": "2 và 1",
+      "words": [
+        {
+          "word": "2",
+          "start": 2.41,
+          "end": 2.41,
+          "probability": 0.01
+        },
+        {
+          "word": "và",
+          "start": 2.41,
+          "end": 2.97,
+          "probability": 0.01
+        },
+        {
+          "word": "1",
+          "start": 2.97,
+          "end": 3.43,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.97,
+      "end": 4.51,
+      "text": "Năm",
+      "words": [
+        {
+          "word": "Năm",
+          "start": 3.97,
+          "end": 4.51,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.05,
+      "end": 5.91,
+      "text": "1",
+      "words": [
+        {
+          "word": "1",
+          "start": 5.05,
+          "end": 5.91,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 5.91,
+      "end": 7.85,
+      "text": "2 biến hành cho 2, 2 biến kang nhau",
+      "words": [
+        {
+          "word": "2",
+          "start": 5.91,
+          "end": 6.15,
+          "probability": 0.01
+        },
+        {
+          "word": "biến",
+          "start": 6.15,
+          "end": 6.63,
+          "probability": 0.01
+        },
+        {
+          "word": "hành",
+          "start": 6.63,
+          "end": 6.63,
+          "probability": 0.17
+        },
+        {
+          "word": "cho",
+          "start": 6.63,
+          "end": 6.63,
+          "probability": 0.13
+        },
+        {
+          "word": "2,",
+          "start": 6.63,
+          "end": 7.03,
+          "probability": 0.41
+        },
+        {
+          "word": "2",
+          "start": 7.03,
+          "end": 7.11,
+          "probability": 0.28
+        },
+        {
+          "word": "biến",
+          "start": 7.11,
+          "end": 7.35,
+          "probability": 0.51
+        },
+        {
+          "word": "kang",
+          "start": 7.35,
+          "end": 7.53,
+          "probability": 0.01
+        },
+        {
+          "word": "nhau",
+          "start": 7.53,
+          "end": 7.85,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 7.85,
+      "end": 9.53,
+      "text": "Yep, 5 style",
+      "words": [
+        {
+          "word": "Yep,",
+          "start": 7.85,
+          "end": 8.11,
+          "probability": 0.0
+        },
+        {
+          "word": "5",
+          "start": 8.11,
+          "end": 8.63,
+          "probability": 0.01
+        },
+        {
+          "word": "style",
+          "start": 8.63,
+          "end": 9.53,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 9.53,
+      "end": 12.77,
+      "text": "1 biến thuy thuy bắt",
+      "words": [
+        {
+          "word": "1",
+          "start": 9.53,
+          "end": 10.41,
+          "probability": 0.02
+        },
+        {
+          "word": "biến",
+          "start": 10.41,
+          "end": 12.53,
+          "probability": 0.52
+        },
+        {
+          "word": "thuy",
+          "start": 12.53,
+          "end": 12.53,
+          "probability": 0.02
+        },
+        {
+          "word": "thuy",
+          "start": 12.53,
+          "end": 12.69,
+          "probability": 0.22
+        },
+        {
+          "word": "bắt",
+          "start": 12.69,
+          "end": 12.77,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 12.77,
+      "end": 14.61,
+      "text": "1 biến thuy bắt",
+      "words": [
+        {
+          "word": "1",
+          "start": 12.77,
+          "end": 13.41,
+          "probability": 0.02
+        },
+        {
+          "word": "biến",
+          "start": 13.41,
+          "end": 14.61,
+          "probability": 0.67
+        },
+        {
+          "word": "thuy",
+          "start": 14.61,
+          "end": 14.61,
+          "probability": 0.67
+        },
+        {
+          "word": "bắt",
+          "start": 14.61,
+          "end": 14.61,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 14.61,
+      "end": 15.87,
+      "text": "1 biến thuy bắt",
+      "words": [
+        {
+          "word": "1",
+          "start": 14.61,
+          "end": 15.87,
+          "probability": 0.0
+        },
+        {
+          "word": "biến",
+          "start": 15.87,
+          "end": 15.87,
+          "probability": 0.82
+        },
+        {
+          "word": "thuy",
+          "start": 15.87,
+          "end": 15.87,
+          "probability": 0.76
+        },
+        {
+          "word": "bắt",
+          "start": 15.87,
+          "end": 15.87,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 15.87,
+      "end": 18.65,
+      "text": "1 biến thuy bắt",
+      "words": [
+        {
+          "word": "1",
+          "start": 15.87,
+          "end": 16.73,
+          "probability": 0.36
+        },
+        {
+          "word": "biến",
+          "start": 16.73,
+          "end": 18.63,
+          "probability": 0.95
+        },
+        {
+          "word": "thuy",
+          "start": 18.63,
+          "end": 18.65,
+          "probability": 0.9
+        },
+        {
+          "word": "bắt",
+          "start": 18.65,
+          "end": 18.65,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 18.65,
+      "end": 20.13,
+      "text": "Để không có lý cú diễn",
+      "words": [
+        {
+          "word": "Để",
+          "start": 18.65,
+          "end": 18.81,
+          "probability": 0.07
+        },
+        {
+          "word": "không",
+          "start": 18.81,
+          "end": 19.07,
+          "probability": 0.08
+        },
+        {
+          "word": "có",
+          "start": 19.07,
+          "end": 19.07,
+          "probability": 0.07
+        },
+        {
+          "word": "lý",
+          "start": 19.07,
+          "end": 19.07,
+          "probability": 0.11
+        },
+        {
+          "word": "cú",
+          "start": 19.07,
+          "end": 19.27,
+          "probability": 0.14
+        },
+        {
+          "word": "diễn",
+          "start": 19.27,
+          "end": 20.13,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 21.11,
+      "end": 23.71,
+      "text": "Nhiều có lý cú diễn",
+      "words": [
+        {
+          "word": "Nhiều",
+          "start": 21.11,
+          "end": 21.63,
+          "probability": 0.08
+        },
+        {
+          "word": "có",
+          "start": 21.63,
+          "end": 21.85,
+          "probability": 0.09
+        },
+        {
+          "word": "lý",
+          "start": 21.85,
+          "end": 22.07,
+          "probability": 0.55
+        },
+        {
+          "word": "cú",
+          "start": 22.07,
+          "end": 23.57,
+          "probability": 0.95
+        },
+        {
+          "word": "diễn",
+          "start": 23.57,
+          "end": 23.71,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 25.41,
+      "end": 26.81,
+      "text": "Nhiều có lý cú diễn",
+      "words": [
+        {
+          "word": "Nhiều",
+          "start": 25.41,
+          "end": 25.93,
+          "probability": 0.69
+        },
+        {
+          "word": "có",
+          "start": 25.93,
+          "end": 26.23,
+          "probability": 0.84
+        },
+        {
+          "word": "lý",
+          "start": 26.23,
+          "end": 26.35,
+          "probability": 0.9
+        },
+        {
+          "word": "cú",
+          "start": 26.35,
+          "end": 26.35,
+          "probability": 0.98
+        },
+        {
+          "word": "diễn",
+          "start": 26.35,
+          "end": 26.81,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

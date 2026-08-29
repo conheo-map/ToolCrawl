@@ -1,0 +1,60 @@
+{
+  "item_id": "tt_7645271927019425045_01",
+  "duration_seconds": 25.39,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 7,
+  "text": "Bà trói ký, bà tụi mình gửi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.38,
+      "text": "Bà trói ký, bà tụi mình gửi",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 0.0,
+          "end": 0.38,
+          "probability": 0.17
+        },
+        {
+          "word": "trói",
+          "start": 0.38,
+          "end": 0.74,
+          "probability": 0.27
+        },
+        {
+          "word": "ký,",
+          "start": 0.74,
+          "end": 0.82,
+          "probability": 0.17
+        },
+        {
+          "word": "bà",
+          "start": 3.04,
+          "end": 3.48,
+          "probability": 0.52
+        },
+        {
+          "word": "tụi",
+          "start": 3.48,
+          "end": 3.64,
+          "probability": 0.36
+        },
+        {
+          "word": "mình",
+          "start": 3.64,
+          "end": 3.82,
+          "probability": 0.35
+        },
+        {
+          "word": "gửi",
+          "start": 3.82,
+          "end": 4.38,
+          "probability": 0.5
+        }
+      ]
+    }
+  ]
+}

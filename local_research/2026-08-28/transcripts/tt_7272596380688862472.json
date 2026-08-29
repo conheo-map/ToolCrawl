@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7272596380688862472",
+  "duration_seconds": 16.11,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Tại sao saos?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.56,
+      "text": "Tại sao saos?",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.05
+        },
+        {
+          "word": "sao",
+          "start": 0.42,
+          "end": 0.44,
+          "probability": 0.35
+        },
+        {
+          "word": "saos?",
+          "start": 0.44,
+          "end": 0.56,
+          "probability": 0.01
+        }
+      ]
+    }
+  ]
+}

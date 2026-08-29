@@ -1,0 +1,160 @@
+{
+  "item_id": "tt_7533854052220669185_01",
+  "duration_seconds": 21.44,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 21,
+  "text": "đây là nó thấy một khu vực aing mỡ đầy đầy sẽ phân thành mời chú đề mười chung Cảm ơn.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 9.74,
+      "text": "đây là nó thấy một khu vực aing mỡ",
+      "words": [
+        {
+          "word": "đây",
+          "start": 0.0,
+          "end": 2.58,
+          "probability": 0.0
+        },
+        {
+          "word": "là",
+          "start": 2.58,
+          "end": 2.74,
+          "probability": 0.17
+        },
+        {
+          "word": "nó",
+          "start": 2.74,
+          "end": 2.74,
+          "probability": 0.01
+        },
+        {
+          "word": "thấy",
+          "start": 2.74,
+          "end": 2.92,
+          "probability": 0.0
+        },
+        {
+          "word": "một",
+          "start": 2.92,
+          "end": 4.46,
+          "probability": 0.01
+        },
+        {
+          "word": "khu",
+          "start": 4.46,
+          "end": 7.14,
+          "probability": 0.06
+        },
+        {
+          "word": "vực",
+          "start": 7.14,
+          "end": 7.14,
+          "probability": 0.42
+        },
+        {
+          "word": "aing",
+          "start": 7.14,
+          "end": 8.62,
+          "probability": 0.05
+        },
+        {
+          "word": "mỡ",
+          "start": 8.62,
+          "end": 9.74,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 11.22,
+      "end": 21.14,
+      "text": "đầy đầy sẽ phân thành mời chú đề mười chung",
+      "words": [
+        {
+          "word": "đầy",
+          "start": 11.22,
+          "end": 12.62,
+          "probability": 0.37
+        },
+        {
+          "word": "đầy",
+          "start": 12.62,
+          "end": 13.84,
+          "probability": 0.45
+        },
+        {
+          "word": "sẽ",
+          "start": 13.84,
+          "end": 14.14,
+          "probability": 0.01
+        },
+        {
+          "word": "phân",
+          "start": 14.14,
+          "end": 18.72,
+          "probability": 0.39
+        },
+        {
+          "word": "thành",
+          "start": 18.72,
+          "end": 19.18,
+          "probability": 0.81
+        },
+        {
+          "word": "mời",
+          "start": 19.18,
+          "end": 19.5,
+          "probability": 0.32
+        },
+        {
+          "word": "chú",
+          "start": 19.5,
+          "end": 20.28,
+          "probability": 0.33
+        },
+        {
+          "word": "đề",
+          "start": 20.28,
+          "end": 20.54,
+          "probability": 0.44
+        },
+        {
+          "word": "mười",
+          "start": 20.54,
+          "end": 20.9,
+          "probability": 0.4
+        },
+        {
+          "word": "chung",
+          "start": 20.9,
+          "end": 21.14,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 21.14,
+      "end": 21.42,
+      "text": "Cảm ơn.",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 21.14,
+          "end": 21.42,
+          "probability": 0.36
+        },
+        {
+          "word": "ơn.",
+          "start": 21.42,
+          "end": 21.42,
+          "probability": 0.66
+        }
+      ]
+    }
+  ]
+}

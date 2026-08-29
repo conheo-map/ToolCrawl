@@ -1,0 +1,646 @@
+{
+  "item_id": "tt_7661498192437038357_09",
+  "duration_seconds": 24.7,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 90,
+  "text": "cũng có những bạn chúng tính vệnh điểm số rất cao nhưng khi vào học thì lại có quả lại không bằng những bạn như vậy bày thầy điều này cũng sẽ thấy rằng mặc dù điểm sàng là có điểm nhận hồ sơ một cái ngựng giảm bảo trước lượng đầu vào nhưng đầu đó chúng ta cũng sẽ thấy rằng hẹn lắm sẽ có sự vịch chuyện khác nhau điểm sàng các bạn luôn ý mục lần nữa đây chỉ là ngủ đảm bảo trước lượng đầu vào",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 1.66,
+      "text": "cũng có những bạn",
+      "words": [
+        {
+          "word": "cũng",
+          "start": 0.08,
+          "end": 0.62,
+          "probability": 0.05
+        },
+        {
+          "word": "có",
+          "start": 0.62,
+          "end": 0.86,
+          "probability": 0.66
+        },
+        {
+          "word": "những",
+          "start": 0.86,
+          "end": 1.06,
+          "probability": 0.94
+        },
+        {
+          "word": "bạn",
+          "start": 1.06,
+          "end": 1.66,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.66,
+      "end": 4.14,
+      "text": "chúng tính vệnh điểm số rất cao",
+      "words": [
+        {
+          "word": "chúng",
+          "start": 1.66,
+          "end": 2.1,
+          "probability": 0.08
+        },
+        {
+          "word": "tính",
+          "start": 2.1,
+          "end": 2.36,
+          "probability": 0.29
+        },
+        {
+          "word": "vệnh",
+          "start": 2.36,
+          "end": 2.56,
+          "probability": 0.22
+        },
+        {
+          "word": "điểm",
+          "start": 2.56,
+          "end": 2.9,
+          "probability": 0.72
+        },
+        {
+          "word": "số",
+          "start": 2.9,
+          "end": 3.2,
+          "probability": 0.44
+        },
+        {
+          "word": "rất",
+          "start": 3.2,
+          "end": 3.58,
+          "probability": 0.41
+        },
+        {
+          "word": "cao",
+          "start": 3.58,
+          "end": 4.14,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.14,
+      "end": 5.7,
+      "text": "nhưng khi vào học thì lại",
+      "words": [
+        {
+          "word": "nhưng",
+          "start": 4.14,
+          "end": 4.4,
+          "probability": 0.51
+        },
+        {
+          "word": "khi",
+          "start": 4.4,
+          "end": 4.68,
+          "probability": 0.94
+        },
+        {
+          "word": "vào",
+          "start": 4.68,
+          "end": 4.9,
+          "probability": 0.39
+        },
+        {
+          "word": "học",
+          "start": 4.9,
+          "end": 5.2,
+          "probability": 0.78
+        },
+        {
+          "word": "thì",
+          "start": 5.2,
+          "end": 5.4,
+          "probability": 0.36
+        },
+        {
+          "word": "lại",
+          "start": 5.4,
+          "end": 5.7,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.7,
+      "end": 7.84,
+      "text": "có quả lại không bằng những bạn như vậy",
+      "words": [
+        {
+          "word": "có",
+          "start": 5.7,
+          "end": 5.94,
+          "probability": 0.13
+        },
+        {
+          "word": "quả",
+          "start": 5.94,
+          "end": 6.1,
+          "probability": 0.35
+        },
+        {
+          "word": "lại",
+          "start": 6.1,
+          "end": 6.3,
+          "probability": 0.55
+        },
+        {
+          "word": "không",
+          "start": 6.3,
+          "end": 6.54,
+          "probability": 0.89
+        },
+        {
+          "word": "bằng",
+          "start": 6.54,
+          "end": 6.8,
+          "probability": 0.46
+        },
+        {
+          "word": "những",
+          "start": 6.8,
+          "end": 7.04,
+          "probability": 0.91
+        },
+        {
+          "word": "bạn",
+          "start": 7.04,
+          "end": 7.2,
+          "probability": 0.7
+        },
+        {
+          "word": "như",
+          "start": 7.2,
+          "end": 7.38,
+          "probability": 0.83
+        },
+        {
+          "word": "vậy",
+          "start": 7.38,
+          "end": 7.84,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.84,
+      "end": 10.0,
+      "text": "bày thầy điều này cũng sẽ thấy rằng",
+      "words": [
+        {
+          "word": "bày",
+          "start": 7.84,
+          "end": 8.22,
+          "probability": 0.09
+        },
+        {
+          "word": "thầy",
+          "start": 8.22,
+          "end": 8.54,
+          "probability": 0.67
+        },
+        {
+          "word": "điều",
+          "start": 8.54,
+          "end": 8.74,
+          "probability": 0.56
+        },
+        {
+          "word": "này",
+          "start": 8.74,
+          "end": 8.92,
+          "probability": 0.97
+        },
+        {
+          "word": "cũng",
+          "start": 8.92,
+          "end": 9.1,
+          "probability": 0.92
+        },
+        {
+          "word": "sẽ",
+          "start": 9.1,
+          "end": 9.26,
+          "probability": 0.23
+        },
+        {
+          "word": "thấy",
+          "start": 9.26,
+          "end": 9.48,
+          "probability": 0.97
+        },
+        {
+          "word": "rằng",
+          "start": 9.48,
+          "end": 10.0,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.0,
+      "end": 11.5,
+      "text": "mặc dù điểm sàng",
+      "words": [
+        {
+          "word": "mặc",
+          "start": 10.0,
+          "end": 10.68,
+          "probability": 0.43
+        },
+        {
+          "word": "dù",
+          "start": 10.68,
+          "end": 10.9,
+          "probability": 0.34
+        },
+        {
+          "word": "điểm",
+          "start": 10.9,
+          "end": 11.18,
+          "probability": 0.93
+        },
+        {
+          "word": "sàng",
+          "start": 11.18,
+          "end": 11.5,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 11.5,
+      "end": 12.88,
+      "text": "là có điểm nhận hồ sơ",
+      "words": [
+        {
+          "word": "là",
+          "start": 11.5,
+          "end": 11.8,
+          "probability": 0.34
+        },
+        {
+          "word": "có",
+          "start": 11.8,
+          "end": 11.92,
+          "probability": 0.15
+        },
+        {
+          "word": "điểm",
+          "start": 11.92,
+          "end": 12.14,
+          "probability": 0.68
+        },
+        {
+          "word": "nhận",
+          "start": 12.14,
+          "end": 12.38,
+          "probability": 0.6
+        },
+        {
+          "word": "hồ",
+          "start": 12.38,
+          "end": 12.56,
+          "probability": 0.55
+        },
+        {
+          "word": "sơ",
+          "start": 12.56,
+          "end": 12.88,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 12.88,
+      "end": 16.68,
+      "text": "một cái ngựng giảm bảo trước lượng đầu vào nhưng đầu đó chúng ta cũng sẽ thấy rằng",
+      "words": [
+        {
+          "word": "một",
+          "start": 12.88,
+          "end": 13.24,
+          "probability": 0.14
+        },
+        {
+          "word": "cái",
+          "start": 13.24,
+          "end": 13.34,
+          "probability": 0.82
+        },
+        {
+          "word": "ngựng",
+          "start": 13.34,
+          "end": 13.54,
+          "probability": 0.3
+        },
+        {
+          "word": "giảm",
+          "start": 13.54,
+          "end": 13.74,
+          "probability": 0.55
+        },
+        {
+          "word": "bảo",
+          "start": 13.74,
+          "end": 13.84,
+          "probability": 0.69
+        },
+        {
+          "word": "trước",
+          "start": 13.84,
+          "end": 14.04,
+          "probability": 0.94
+        },
+        {
+          "word": "lượng",
+          "start": 14.04,
+          "end": 14.2,
+          "probability": 0.84
+        },
+        {
+          "word": "đầu",
+          "start": 14.2,
+          "end": 14.46,
+          "probability": 0.69
+        },
+        {
+          "word": "vào",
+          "start": 14.46,
+          "end": 14.6,
+          "probability": 0.64
+        },
+        {
+          "word": "nhưng",
+          "start": 14.6,
+          "end": 14.82,
+          "probability": 0.75
+        },
+        {
+          "word": "đầu",
+          "start": 14.82,
+          "end": 15.02,
+          "probability": 0.48
+        },
+        {
+          "word": "đó",
+          "start": 15.02,
+          "end": 15.18,
+          "probability": 0.95
+        },
+        {
+          "word": "chúng",
+          "start": 15.18,
+          "end": 15.42,
+          "probability": 0.9
+        },
+        {
+          "word": "ta",
+          "start": 15.42,
+          "end": 15.52,
+          "probability": 0.95
+        },
+        {
+          "word": "cũng",
+          "start": 15.52,
+          "end": 15.7,
+          "probability": 0.81
+        },
+        {
+          "word": "sẽ",
+          "start": 15.7,
+          "end": 15.84,
+          "probability": 0.99
+        },
+        {
+          "word": "thấy",
+          "start": 15.84,
+          "end": 16.12,
+          "probability": 1.0
+        },
+        {
+          "word": "rằng",
+          "start": 16.12,
+          "end": 16.68,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 16.68,
+      "end": 17.82,
+      "text": "hẹn lắm",
+      "words": [
+        {
+          "word": "hẹn",
+          "start": 16.68,
+          "end": 17.32,
+          "probability": 0.44
+        },
+        {
+          "word": "lắm",
+          "start": 17.32,
+          "end": 17.82,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 17.82,
+      "end": 19.54,
+      "text": "sẽ có sự vịch chuyện khác nhau",
+      "words": [
+        {
+          "word": "sẽ",
+          "start": 17.82,
+          "end": 18.04,
+          "probability": 0.86
+        },
+        {
+          "word": "có",
+          "start": 18.04,
+          "end": 18.2,
+          "probability": 0.99
+        },
+        {
+          "word": "sự",
+          "start": 18.2,
+          "end": 18.32,
+          "probability": 0.7
+        },
+        {
+          "word": "vịch",
+          "start": 18.32,
+          "end": 18.58,
+          "probability": 0.27
+        },
+        {
+          "word": "chuyện",
+          "start": 18.58,
+          "end": 18.76,
+          "probability": 0.62
+        },
+        {
+          "word": "khác",
+          "start": 18.76,
+          "end": 19.02,
+          "probability": 0.94
+        },
+        {
+          "word": "nhau",
+          "start": 19.02,
+          "end": 19.54,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 19.54,
+      "end": 21.9,
+      "text": "điểm sàng các bạn luôn ý mục lần nữa",
+      "words": [
+        {
+          "word": "điểm",
+          "start": 19.54,
+          "end": 20.14,
+          "probability": 0.72
+        },
+        {
+          "word": "sàng",
+          "start": 20.14,
+          "end": 20.38,
+          "probability": 0.99
+        },
+        {
+          "word": "các",
+          "start": 20.38,
+          "end": 20.58,
+          "probability": 0.49
+        },
+        {
+          "word": "bạn",
+          "start": 20.58,
+          "end": 20.66,
+          "probability": 1.0
+        },
+        {
+          "word": "luôn",
+          "start": 20.66,
+          "end": 20.86,
+          "probability": 0.35
+        },
+        {
+          "word": "ý",
+          "start": 20.86,
+          "end": 21.18,
+          "probability": 0.66
+        },
+        {
+          "word": "mục",
+          "start": 21.18,
+          "end": 21.38,
+          "probability": 0.45
+        },
+        {
+          "word": "lần",
+          "start": 21.38,
+          "end": 21.6,
+          "probability": 0.88
+        },
+        {
+          "word": "nữa",
+          "start": 21.6,
+          "end": 21.9,
+          "probability": 0.83
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 21.9,
+      "end": 24.56,
+      "text": "đây chỉ là ngủ đảm bảo trước lượng đầu vào",
+      "words": [
+        {
+          "word": "đây",
+          "start": 21.9,
+          "end": 22.2,
+          "probability": 0.24
+        },
+        {
+          "word": "chỉ",
+          "start": 22.2,
+          "end": 22.5,
+          "probability": 0.8
+        },
+        {
+          "word": "là",
+          "start": 22.5,
+          "end": 22.8,
+          "probability": 0.94
+        },
+        {
+          "word": "ngủ",
+          "start": 22.8,
+          "end": 23.06,
+          "probability": 0.32
+        },
+        {
+          "word": "đảm",
+          "start": 23.06,
+          "end": 23.34,
+          "probability": 0.61
+        },
+        {
+          "word": "bảo",
+          "start": 23.34,
+          "end": 23.56,
+          "probability": 0.98
+        },
+        {
+          "word": "trước",
+          "start": 23.56,
+          "end": 23.84,
+          "probability": 0.99
+        },
+        {
+          "word": "lượng",
+          "start": 23.84,
+          "end": 24.06,
+          "probability": 0.97
+        },
+        {
+          "word": "đầu",
+          "start": 24.06,
+          "end": 24.34,
+          "probability": 0.99
+        },
+        {
+          "word": "vào",
+          "start": 24.34,
+          "end": 24.56,
+          "probability": 0.95
+        }
+      ]
+    }
+  ]
+}

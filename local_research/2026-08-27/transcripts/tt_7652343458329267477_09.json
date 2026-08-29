@@ -1,0 +1,210 @@
+{
+  "item_id": "tt_7652343458329267477_09",
+  "duration_seconds": 29.0,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 28,
+  "text": "Sai đều mà cũng biết là cái gì Thì thấy như những gì mà có cái lại mà thấy mà có người ta đẹp lại thì có gì",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.18,
+      "end": 5.8,
+      "text": "Sai đều mà cũng biết là cái gì",
+      "words": [
+        {
+          "word": "Sai",
+          "start": 0.18,
+          "end": 0.66,
+          "probability": 0.25
+        },
+        {
+          "word": "đều",
+          "start": 0.66,
+          "end": 0.86,
+          "probability": 0.47
+        },
+        {
+          "word": "mà",
+          "start": 0.86,
+          "end": 1.18,
+          "probability": 0.71
+        },
+        {
+          "word": "cũng",
+          "start": 4.28,
+          "end": 4.58,
+          "probability": 0.2
+        },
+        {
+          "word": "biết",
+          "start": 4.58,
+          "end": 4.86,
+          "probability": 0.56
+        },
+        {
+          "word": "là",
+          "start": 4.86,
+          "end": 5.12,
+          "probability": 0.86
+        },
+        {
+          "word": "cái",
+          "start": 5.12,
+          "end": 5.38,
+          "probability": 0.32
+        },
+        {
+          "word": "gì",
+          "start": 5.38,
+          "end": 5.8,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.8,
+      "end": 8.14,
+      "text": "Thì thấy như những gì mà có cái lại",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 5.8,
+          "end": 6.16,
+          "probability": 0.1
+        },
+        {
+          "word": "thấy",
+          "start": 6.16,
+          "end": 6.4,
+          "probability": 0.18
+        },
+        {
+          "word": "như",
+          "start": 6.4,
+          "end": 6.6,
+          "probability": 0.93
+        },
+        {
+          "word": "những",
+          "start": 6.6,
+          "end": 6.84,
+          "probability": 0.85
+        },
+        {
+          "word": "gì",
+          "start": 6.84,
+          "end": 7.1,
+          "probability": 0.97
+        },
+        {
+          "word": "mà",
+          "start": 7.1,
+          "end": 7.32,
+          "probability": 0.99
+        },
+        {
+          "word": "có",
+          "start": 7.32,
+          "end": 7.5,
+          "probability": 0.52
+        },
+        {
+          "word": "cái",
+          "start": 7.5,
+          "end": 7.74,
+          "probability": 0.16
+        },
+        {
+          "word": "lại",
+          "start": 7.74,
+          "end": 8.14,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.31,
+      "end": 12.33,
+      "text": "mà thấy mà",
+      "words": [
+        {
+          "word": "mà",
+          "start": 11.31,
+          "end": 11.69,
+          "probability": 0.8
+        },
+        {
+          "word": "thấy",
+          "start": 11.69,
+          "end": 11.89,
+          "probability": 0.1
+        },
+        {
+          "word": "mà",
+          "start": 11.89,
+          "end": 12.33,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.12,
+      "end": 18.42,
+      "text": "có người ta đẹp lại thì có gì",
+      "words": [
+        {
+          "word": "có",
+          "start": 14.12,
+          "end": 14.34,
+          "probability": 0.4
+        },
+        {
+          "word": "người",
+          "start": 14.34,
+          "end": 14.46,
+          "probability": 0.74
+        },
+        {
+          "word": "ta",
+          "start": 14.46,
+          "end": 14.6,
+          "probability": 0.36
+        },
+        {
+          "word": "đẹp",
+          "start": 14.6,
+          "end": 14.88,
+          "probability": 0.44
+        },
+        {
+          "word": "lại",
+          "start": 14.88,
+          "end": 15.32,
+          "probability": 0.12
+        },
+        {
+          "word": "thì",
+          "start": 17.82,
+          "end": 18.1,
+          "probability": 0.18
+        },
+        {
+          "word": "có",
+          "start": 18.1,
+          "end": 18.42,
+          "probability": 0.41
+        },
+        {
+          "word": "gì",
+          "start": 18.42,
+          "end": 18.42,
+          "probability": 0.21
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7677915777478954261_02",
+  "duration_seconds": 29.18,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Bây giờ, đúng không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.27,
+      "end": 1.25,
+      "text": "Bây giờ, đúng không?",
+      "words": [
+        {
+          "word": "Bây",
+          "start": 0.27,
+          "end": 0.97,
+          "probability": 0.11
+        },
+        {
+          "word": "giờ,",
+          "start": 0.97,
+          "end": 1.25,
+          "probability": 0.75
+        },
+        {
+          "word": "đúng",
+          "start": 1.25,
+          "end": 1.25,
+          "probability": 0.05
+        },
+        {
+          "word": "không?",
+          "start": 1.25,
+          "end": 1.25,
+          "probability": 0.28
+        }
+      ]
+    }
+  ]
+}

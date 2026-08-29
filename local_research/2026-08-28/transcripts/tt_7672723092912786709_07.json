@@ -1,0 +1,934 @@
+{
+  "item_id": "tt_7672723092912786709_07",
+  "duration_seconds": 28.71,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 138,
+  "text": "Năm tiếp dù và bún và sau cũng tiếp dù gà bún và biert năm sau tiếp dù nhá. Cái mù gì đó? Sau tiếp dù của nà bún và năm sau tiếp dù nhá. Vậy kênh yên và năm sau và nhìn kỳ và năm sau. Nhìn kỳ cẩn thận và năm sau chứ rồi. Đù này được. Năm tiếp dù và bún sau tiếp dù và năm sau tiếp dù nhá. Để chá. Và với cái điều này, với cái cái này, thì tên là mình đã có một cái cơ sở để mình có thể tụi mong năm sau. Tên là mình chỉ được quyền dùng 2 màu khác nhau để tụi vào năm sau. Mà không được dùng 3 bún đường, nhưng mà không có bún mong. Mà không được dùng 3 bún đường.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 4.01,
+      "text": "Năm tiếp dù và bún và sau cũng tiếp dù gà bún và biert năm sau tiếp dù nhá.",
+      "words": [
+        {
+          "word": "Năm",
+          "start": 0.11,
+          "end": 0.59,
+          "probability": 0.42
+        },
+        {
+          "word": "tiếp",
+          "start": 0.59,
+          "end": 0.73,
+          "probability": 0.5
+        },
+        {
+          "word": "dù",
+          "start": 0.73,
+          "end": 0.81,
+          "probability": 0.33
+        },
+        {
+          "word": "và",
+          "start": 0.81,
+          "end": 0.99,
+          "probability": 0.3
+        },
+        {
+          "word": "bún",
+          "start": 0.99,
+          "end": 1.25,
+          "probability": 0.44
+        },
+        {
+          "word": "và",
+          "start": 1.25,
+          "end": 1.57,
+          "probability": 0.78
+        },
+        {
+          "word": "sau",
+          "start": 1.57,
+          "end": 1.77,
+          "probability": 0.48
+        },
+        {
+          "word": "cũng",
+          "start": 1.77,
+          "end": 1.89,
+          "probability": 0.51
+        },
+        {
+          "word": "tiếp",
+          "start": 1.89,
+          "end": 2.07,
+          "probability": 0.98
+        },
+        {
+          "word": "dù",
+          "start": 2.07,
+          "end": 2.11,
+          "probability": 0.95
+        },
+        {
+          "word": "gà",
+          "start": 2.11,
+          "end": 2.31,
+          "probability": 0.34
+        },
+        {
+          "word": "bún",
+          "start": 2.31,
+          "end": 2.51,
+          "probability": 0.58
+        },
+        {
+          "word": "và",
+          "start": 2.51,
+          "end": 2.69,
+          "probability": 0.68
+        },
+        {
+          "word": "biert",
+          "start": 2.69,
+          "end": 2.83,
+          "probability": 0.1
+        },
+        {
+          "word": "năm",
+          "start": 2.83,
+          "end": 3.07,
+          "probability": 0.35
+        },
+        {
+          "word": "sau",
+          "start": 3.07,
+          "end": 3.23,
+          "probability": 0.51
+        },
+        {
+          "word": "tiếp",
+          "start": 3.23,
+          "end": 3.33,
+          "probability": 0.96
+        },
+        {
+          "word": "dù",
+          "start": 3.33,
+          "end": 3.41,
+          "probability": 0.92
+        },
+        {
+          "word": "nhá.",
+          "start": 3.41,
+          "end": 4.01,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.35,
+      "end": 7.11,
+      "text": "Cái mù gì đó? Sau tiếp dù của nà bún và năm sau tiếp dù nhá.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 4.35,
+          "end": 4.37,
+          "probability": 0.39
+        },
+        {
+          "word": "mù",
+          "start": 4.37,
+          "end": 4.43,
+          "probability": 0.14
+        },
+        {
+          "word": "gì",
+          "start": 4.43,
+          "end": 4.55,
+          "probability": 0.13
+        },
+        {
+          "word": "đó?",
+          "start": 4.55,
+          "end": 4.79,
+          "probability": 0.48
+        },
+        {
+          "word": "Sau",
+          "start": 5.41,
+          "end": 5.49,
+          "probability": 0.83
+        },
+        {
+          "word": "tiếp",
+          "start": 5.49,
+          "end": 5.67,
+          "probability": 0.99
+        },
+        {
+          "word": "dù",
+          "start": 5.67,
+          "end": 5.73,
+          "probability": 0.98
+        },
+        {
+          "word": "của",
+          "start": 5.73,
+          "end": 5.85,
+          "probability": 0.26
+        },
+        {
+          "word": "nà",
+          "start": 5.85,
+          "end": 6.03,
+          "probability": 0.29
+        },
+        {
+          "word": "bún",
+          "start": 6.03,
+          "end": 6.09,
+          "probability": 0.89
+        },
+        {
+          "word": "và",
+          "start": 6.09,
+          "end": 6.21,
+          "probability": 0.97
+        },
+        {
+          "word": "năm",
+          "start": 6.21,
+          "end": 6.35,
+          "probability": 0.83
+        },
+        {
+          "word": "sau",
+          "start": 6.35,
+          "end": 6.49,
+          "probability": 0.99
+        },
+        {
+          "word": "tiếp",
+          "start": 6.49,
+          "end": 6.59,
+          "probability": 0.93
+        },
+        {
+          "word": "dù",
+          "start": 6.59,
+          "end": 6.65,
+          "probability": 0.99
+        },
+        {
+          "word": "nhá.",
+          "start": 6.65,
+          "end": 7.11,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.43,
+      "end": 9.35,
+      "text": "Vậy kênh yên và năm sau và nhìn kỳ và năm sau.",
+      "words": [
+        {
+          "word": "Vậy",
+          "start": 7.43,
+          "end": 7.47,
+          "probability": 0.69
+        },
+        {
+          "word": "kênh",
+          "start": 7.47,
+          "end": 7.65,
+          "probability": 0.34
+        },
+        {
+          "word": "yên",
+          "start": 7.65,
+          "end": 7.85,
+          "probability": 0.34
+        },
+        {
+          "word": "và",
+          "start": 7.85,
+          "end": 7.89,
+          "probability": 0.82
+        },
+        {
+          "word": "năm",
+          "start": 7.89,
+          "end": 8.03,
+          "probability": 0.99
+        },
+        {
+          "word": "sau",
+          "start": 8.03,
+          "end": 8.17,
+          "probability": 0.99
+        },
+        {
+          "word": "và",
+          "start": 8.17,
+          "end": 8.37,
+          "probability": 0.35
+        },
+        {
+          "word": "nhìn",
+          "start": 8.37,
+          "end": 8.39,
+          "probability": 0.69
+        },
+        {
+          "word": "kỳ",
+          "start": 8.39,
+          "end": 8.69,
+          "probability": 0.49
+        },
+        {
+          "word": "và",
+          "start": 8.69,
+          "end": 8.89,
+          "probability": 0.97
+        },
+        {
+          "word": "năm",
+          "start": 8.89,
+          "end": 8.97,
+          "probability": 0.97
+        },
+        {
+          "word": "sau.",
+          "start": 8.97,
+          "end": 9.35,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.83,
+      "end": 11.25,
+      "text": "Nhìn kỳ cẩn thận và năm sau chứ rồi.",
+      "words": [
+        {
+          "word": "Nhìn",
+          "start": 9.83,
+          "end": 9.83,
+          "probability": 0.67
+        },
+        {
+          "word": "kỳ",
+          "start": 9.83,
+          "end": 9.99,
+          "probability": 0.55
+        },
+        {
+          "word": "cẩn",
+          "start": 9.99,
+          "end": 10.19,
+          "probability": 0.4
+        },
+        {
+          "word": "thận",
+          "start": 10.19,
+          "end": 10.23,
+          "probability": 0.86
+        },
+        {
+          "word": "và",
+          "start": 10.23,
+          "end": 10.45,
+          "probability": 0.34
+        },
+        {
+          "word": "năm",
+          "start": 10.45,
+          "end": 10.45,
+          "probability": 0.98
+        },
+        {
+          "word": "sau",
+          "start": 10.45,
+          "end": 10.59,
+          "probability": 0.99
+        },
+        {
+          "word": "chứ",
+          "start": 10.59,
+          "end": 10.69,
+          "probability": 0.19
+        },
+        {
+          "word": "rồi.",
+          "start": 10.69,
+          "end": 11.25,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.29,
+      "end": 11.71,
+      "text": "Đù này được.",
+      "words": [
+        {
+          "word": "Đù",
+          "start": 11.29,
+          "end": 11.37,
+          "probability": 0.34
+        },
+        {
+          "word": "này",
+          "start": 11.37,
+          "end": 11.55,
+          "probability": 0.5
+        },
+        {
+          "word": "được.",
+          "start": 11.55,
+          "end": 11.71,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 12.43,
+      "end": 14.81,
+      "text": "Năm tiếp dù và bún sau tiếp dù và năm sau tiếp dù nhá.",
+      "words": [
+        {
+          "word": "Năm",
+          "start": 12.43,
+          "end": 12.47,
+          "probability": 0.99
+        },
+        {
+          "word": "tiếp",
+          "start": 12.47,
+          "end": 12.59,
+          "probability": 0.99
+        },
+        {
+          "word": "dù",
+          "start": 12.59,
+          "end": 12.69,
+          "probability": 1.0
+        },
+        {
+          "word": "và",
+          "start": 12.69,
+          "end": 12.83,
+          "probability": 0.96
+        },
+        {
+          "word": "bún",
+          "start": 12.83,
+          "end": 12.97,
+          "probability": 0.72
+        },
+        {
+          "word": "sau",
+          "start": 12.97,
+          "end": 13.15,
+          "probability": 0.8
+        },
+        {
+          "word": "tiếp",
+          "start": 13.15,
+          "end": 13.25,
+          "probability": 0.97
+        },
+        {
+          "word": "dù",
+          "start": 13.25,
+          "end": 13.37,
+          "probability": 0.99
+        },
+        {
+          "word": "và",
+          "start": 13.37,
+          "end": 13.55,
+          "probability": 0.82
+        },
+        {
+          "word": "năm",
+          "start": 13.55,
+          "end": 13.79,
+          "probability": 0.88
+        },
+        {
+          "word": "sau",
+          "start": 13.79,
+          "end": 13.95,
+          "probability": 1.0
+        },
+        {
+          "word": "tiếp",
+          "start": 13.95,
+          "end": 14.03,
+          "probability": 0.98
+        },
+        {
+          "word": "dù",
+          "start": 14.03,
+          "end": 14.09,
+          "probability": 0.98
+        },
+        {
+          "word": "nhá.",
+          "start": 14.09,
+          "end": 14.81,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 15.11,
+      "end": 15.77,
+      "text": "Để chá.",
+      "words": [
+        {
+          "word": "Để",
+          "start": 15.11,
+          "end": 15.19,
+          "probability": 0.4
+        },
+        {
+          "word": "chá.",
+          "start": 15.19,
+          "end": 15.77,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 16.05,
+      "end": 18.53,
+      "text": "Và với cái điều này, với cái cái này,",
+      "words": [
+        {
+          "word": "Và",
+          "start": 16.05,
+          "end": 16.23,
+          "probability": 0.9
+        },
+        {
+          "word": "với",
+          "start": 16.23,
+          "end": 16.45,
+          "probability": 0.87
+        },
+        {
+          "word": "cái",
+          "start": 16.45,
+          "end": 16.55,
+          "probability": 0.5
+        },
+        {
+          "word": "điều",
+          "start": 16.55,
+          "end": 16.75,
+          "probability": 0.89
+        },
+        {
+          "word": "này,",
+          "start": 16.75,
+          "end": 17.31,
+          "probability": 0.87
+        },
+        {
+          "word": "với",
+          "start": 17.31,
+          "end": 17.51,
+          "probability": 0.97
+        },
+        {
+          "word": "cái",
+          "start": 17.51,
+          "end": 17.61,
+          "probability": 0.99
+        },
+        {
+          "word": "cái",
+          "start": 17.61,
+          "end": 17.69,
+          "probability": 0.25
+        },
+        {
+          "word": "này,",
+          "start": 17.69,
+          "end": 18.53,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 18.83,
+      "end": 20.87,
+      "text": "thì tên là mình đã có một cái cơ sở để mình có thể tụi mong năm sau.",
+      "words": [
+        {
+          "word": "thì",
+          "start": 18.83,
+          "end": 18.91,
+          "probability": 0.44
+        },
+        {
+          "word": "tên",
+          "start": 18.91,
+          "end": 19.07,
+          "probability": 0.19
+        },
+        {
+          "word": "là",
+          "start": 19.07,
+          "end": 19.11,
+          "probability": 0.78
+        },
+        {
+          "word": "mình",
+          "start": 19.11,
+          "end": 19.23,
+          "probability": 0.94
+        },
+        {
+          "word": "đã",
+          "start": 19.23,
+          "end": 19.37,
+          "probability": 0.91
+        },
+        {
+          "word": "có",
+          "start": 19.37,
+          "end": 19.49,
+          "probability": 0.98
+        },
+        {
+          "word": "một",
+          "start": 19.49,
+          "end": 19.59,
+          "probability": 0.72
+        },
+        {
+          "word": "cái",
+          "start": 19.59,
+          "end": 19.71,
+          "probability": 0.42
+        },
+        {
+          "word": "cơ",
+          "start": 19.71,
+          "end": 19.87,
+          "probability": 0.79
+        },
+        {
+          "word": "sở",
+          "start": 19.87,
+          "end": 19.93,
+          "probability": 0.59
+        },
+        {
+          "word": "để",
+          "start": 19.93,
+          "end": 20.11,
+          "probability": 0.24
+        },
+        {
+          "word": "mình",
+          "start": 20.11,
+          "end": 20.17,
+          "probability": 0.94
+        },
+        {
+          "word": "có",
+          "start": 20.17,
+          "end": 20.27,
+          "probability": 0.44
+        },
+        {
+          "word": "thể",
+          "start": 20.27,
+          "end": 20.37,
+          "probability": 0.29
+        },
+        {
+          "word": "tụi",
+          "start": 20.37,
+          "end": 20.49,
+          "probability": 0.51
+        },
+        {
+          "word": "mong",
+          "start": 20.49,
+          "end": 20.61,
+          "probability": 0.44
+        },
+        {
+          "word": "năm",
+          "start": 20.61,
+          "end": 20.73,
+          "probability": 0.96
+        },
+        {
+          "word": "sau.",
+          "start": 20.73,
+          "end": 20.87,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 21.57,
+      "end": 24.57,
+      "text": "Tên là mình chỉ được quyền dùng 2 màu khác nhau để tụi vào năm sau.",
+      "words": [
+        {
+          "word": "Tên",
+          "start": 21.57,
+          "end": 21.85,
+          "probability": 0.92
+        },
+        {
+          "word": "là",
+          "start": 21.85,
+          "end": 21.97,
+          "probability": 1.0
+        },
+        {
+          "word": "mình",
+          "start": 21.97,
+          "end": 22.11,
+          "probability": 0.99
+        },
+        {
+          "word": "chỉ",
+          "start": 22.11,
+          "end": 22.25,
+          "probability": 0.94
+        },
+        {
+          "word": "được",
+          "start": 22.25,
+          "end": 22.49,
+          "probability": 0.96
+        },
+        {
+          "word": "quyền",
+          "start": 22.49,
+          "end": 22.69,
+          "probability": 0.92
+        },
+        {
+          "word": "dùng",
+          "start": 22.69,
+          "end": 22.91,
+          "probability": 0.63
+        },
+        {
+          "word": "2",
+          "start": 22.91,
+          "end": 23.11,
+          "probability": 0.4
+        },
+        {
+          "word": "màu",
+          "start": 23.11,
+          "end": 23.31,
+          "probability": 0.56
+        },
+        {
+          "word": "khác",
+          "start": 23.31,
+          "end": 23.45,
+          "probability": 0.68
+        },
+        {
+          "word": "nhau",
+          "start": 23.45,
+          "end": 23.59,
+          "probability": 0.74
+        },
+        {
+          "word": "để",
+          "start": 23.59,
+          "end": 23.79,
+          "probability": 0.17
+        },
+        {
+          "word": "tụi",
+          "start": 23.79,
+          "end": 23.89,
+          "probability": 0.98
+        },
+        {
+          "word": "vào",
+          "start": 23.89,
+          "end": 23.99,
+          "probability": 0.57
+        },
+        {
+          "word": "năm",
+          "start": 23.99,
+          "end": 24.13,
+          "probability": 0.99
+        },
+        {
+          "word": "sau.",
+          "start": 24.13,
+          "end": 24.57,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 25.23,
+      "end": 27.03,
+      "text": "Mà không được dùng 3 bún đường, nhưng mà không có bún mong.",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 25.23,
+          "end": 25.51,
+          "probability": 0.15
+        },
+        {
+          "word": "không",
+          "start": 25.51,
+          "end": 25.61,
+          "probability": 0.57
+        },
+        {
+          "word": "được",
+          "start": 25.61,
+          "end": 25.73,
+          "probability": 0.63
+        },
+        {
+          "word": "dùng",
+          "start": 25.73,
+          "end": 25.87,
+          "probability": 0.39
+        },
+        {
+          "word": "3",
+          "start": 25.87,
+          "end": 26.01,
+          "probability": 0.01
+        },
+        {
+          "word": "bún",
+          "start": 26.01,
+          "end": 26.13,
+          "probability": 0.37
+        },
+        {
+          "word": "đường,",
+          "start": 26.13,
+          "end": 26.27,
+          "probability": 0.14
+        },
+        {
+          "word": "nhưng",
+          "start": 26.41,
+          "end": 26.63,
+          "probability": 0.03
+        },
+        {
+          "word": "mà",
+          "start": 26.63,
+          "end": 26.63,
+          "probability": 0.1
+        },
+        {
+          "word": "không",
+          "start": 26.63,
+          "end": 26.63,
+          "probability": 0.67
+        },
+        {
+          "word": "có",
+          "start": 26.63,
+          "end": 26.63,
+          "probability": 0.3
+        },
+        {
+          "word": "bún",
+          "start": 26.63,
+          "end": 26.83,
+          "probability": 0.73
+        },
+        {
+          "word": "mong.",
+          "start": 26.83,
+          "end": 27.03,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 27.03,
+      "end": 27.77,
+      "text": "Mà không được dùng 3 bún đường.",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 27.03,
+          "end": 27.13,
+          "probability": 0.63
+        },
+        {
+          "word": "không",
+          "start": 27.13,
+          "end": 27.27,
+          "probability": 0.96
+        },
+        {
+          "word": "được",
+          "start": 27.27,
+          "end": 27.33,
+          "probability": 0.79
+        },
+        {
+          "word": "dùng",
+          "start": 27.33,
+          "end": 27.41,
+          "probability": 0.69
+        },
+        {
+          "word": "3",
+          "start": 27.41,
+          "end": 27.53,
+          "probability": 0.54
+        },
+        {
+          "word": "bún",
+          "start": 27.53,
+          "end": 27.77,
+          "probability": 0.97
+        },
+        {
+          "word": "đường.",
+          "start": 27.77,
+          "end": 27.77,
+          "probability": 0.77
+        }
+      ]
+    }
+  ]
+}

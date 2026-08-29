@@ -1,0 +1,124 @@
+{
+  "item_id": "tt_7585882693318102288_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 15,
+  "text": "cái gì mà làm gì thế này nó đừng giang á, này bà như vậy",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.46,
+      "end": 4.08,
+      "text": "cái gì mà làm gì thế này",
+      "words": [
+        {
+          "word": "cái",
+          "start": 0.46,
+          "end": 0.92,
+          "probability": 0.0
+        },
+        {
+          "word": "gì",
+          "start": 0.92,
+          "end": 1.1,
+          "probability": 0.51
+        },
+        {
+          "word": "mà",
+          "start": 1.1,
+          "end": 1.4,
+          "probability": 0.07
+        },
+        {
+          "word": "làm",
+          "start": 1.4,
+          "end": 1.5,
+          "probability": 0.01
+        },
+        {
+          "word": "gì",
+          "start": 1.5,
+          "end": 1.78,
+          "probability": 0.22
+        },
+        {
+          "word": "thế",
+          "start": 3.1,
+          "end": 3.52,
+          "probability": 0.05
+        },
+        {
+          "word": "này",
+          "start": 3.52,
+          "end": 4.08,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.77,
+      "end": 29.49,
+      "text": "nó đừng giang",
+      "words": [
+        {
+          "word": "nó",
+          "start": 5.77,
+          "end": 6.05,
+          "probability": 0.0
+        },
+        {
+          "word": "đừng",
+          "start": 6.05,
+          "end": 6.27,
+          "probability": 0.12
+        },
+        {
+          "word": "giang",
+          "start": 27.97,
+          "end": 29.49,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 29.49,
+      "end": 29.97,
+      "text": "á, này bà như vậy",
+      "words": [
+        {
+          "word": "á,",
+          "start": 29.49,
+          "end": 29.69,
+          "probability": 0.03
+        },
+        {
+          "word": "này",
+          "start": 29.79,
+          "end": 29.81,
+          "probability": 0.13
+        },
+        {
+          "word": "bà",
+          "start": 29.81,
+          "end": 29.93,
+          "probability": 0.34
+        },
+        {
+          "word": "như",
+          "start": 29.93,
+          "end": 29.97,
+          "probability": 0.22
+        },
+        {
+          "word": "vậy",
+          "start": 29.97,
+          "end": 29.97,
+          "probability": 0.26
+        }
+      ]
+    }
+  ]
+}

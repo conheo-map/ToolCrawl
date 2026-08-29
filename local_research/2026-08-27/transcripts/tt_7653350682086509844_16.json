@@ -1,0 +1,666 @@
+{
+  "item_id": "tt_7653350682086509844_16",
+  "duration_seconds": 29.84,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 84,
+  "text": "có vị cắt đón giang bôi bôi bôi môi xô có vị bắt nó cắt em bôi đó ở dưới chang bình hơn 200 m左右 1 cái em bắt gần được 1 xíc viên bôi ra chữa cùng ngay vẫn rất là giọt mở phép chữa 1 vi nhận thích bì hạm lợp bây giờ cắt em đã bì mất lương bình có lợi dụ dụ dụ bộ khác được dụ dụ dụ dụ dụ dụ Dụ dụ dụ dụ dụ dụ dụ dụ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.28,
+      "text": "có vị cắt đón giang",
+      "words": [
+        {
+          "word": "có",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.2
+        },
+        {
+          "word": "vị",
+          "start": 0.34,
+          "end": 0.54,
+          "probability": 0.13
+        },
+        {
+          "word": "cắt",
+          "start": 0.54,
+          "end": 0.76,
+          "probability": 0.37
+        },
+        {
+          "word": "đón",
+          "start": 0.76,
+          "end": 1.04,
+          "probability": 0.1
+        },
+        {
+          "word": "giang",
+          "start": 1.04,
+          "end": 1.28,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.28,
+      "end": 2.82,
+      "text": "bôi bôi bôi môi xô",
+      "words": [
+        {
+          "word": "bôi",
+          "start": 1.28,
+          "end": 1.7,
+          "probability": 0.19
+        },
+        {
+          "word": "bôi",
+          "start": 1.7,
+          "end": 1.96,
+          "probability": 0.23
+        },
+        {
+          "word": "bôi",
+          "start": 1.96,
+          "end": 2.18,
+          "probability": 0.46
+        },
+        {
+          "word": "môi",
+          "start": 2.18,
+          "end": 2.5,
+          "probability": 0.19
+        },
+        {
+          "word": "xô",
+          "start": 2.5,
+          "end": 2.82,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.82,
+      "end": 4.88,
+      "text": "có vị bắt nó cắt em bôi",
+      "words": [
+        {
+          "word": "có",
+          "start": 2.82,
+          "end": 3.26,
+          "probability": 0.03
+        },
+        {
+          "word": "vị",
+          "start": 3.26,
+          "end": 3.58,
+          "probability": 0.4
+        },
+        {
+          "word": "bắt",
+          "start": 3.58,
+          "end": 3.8,
+          "probability": 0.36
+        },
+        {
+          "word": "nó",
+          "start": 3.8,
+          "end": 4.08,
+          "probability": 0.17
+        },
+        {
+          "word": "cắt",
+          "start": 4.08,
+          "end": 4.32,
+          "probability": 0.67
+        },
+        {
+          "word": "em",
+          "start": 4.32,
+          "end": 4.6,
+          "probability": 0.79
+        },
+        {
+          "word": "bôi",
+          "start": 4.6,
+          "end": 4.88,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.88,
+      "end": 5.98,
+      "text": "đó ở dưới chang",
+      "words": [
+        {
+          "word": "đó",
+          "start": 4.88,
+          "end": 5.46,
+          "probability": 0.03
+        },
+        {
+          "word": "ở",
+          "start": 5.46,
+          "end": 5.48,
+          "probability": 0.07
+        },
+        {
+          "word": "dưới",
+          "start": 5.48,
+          "end": 5.48,
+          "probability": 0.42
+        },
+        {
+          "word": "chang",
+          "start": 5.48,
+          "end": 5.98,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 5.98,
+      "end": 8.04,
+      "text": "bình hơn 200 m左右",
+      "words": [
+        {
+          "word": "bình",
+          "start": 5.98,
+          "end": 6.82,
+          "probability": 0.07
+        },
+        {
+          "word": "hơn",
+          "start": 6.82,
+          "end": 6.82,
+          "probability": 0.65
+        },
+        {
+          "word": "200",
+          "start": 6.82,
+          "end": 7.1,
+          "probability": 0.19
+        },
+        {
+          "word": "m左右",
+          "start": 7.1,
+          "end": 8.04,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 8.04,
+      "end": 9.02,
+      "text": "1 cái em",
+      "words": [
+        {
+          "word": "1",
+          "start": 8.04,
+          "end": 8.72,
+          "probability": 0.02
+        },
+        {
+          "word": "cái",
+          "start": 8.72,
+          "end": 8.72,
+          "probability": 0.12
+        },
+        {
+          "word": "em",
+          "start": 8.72,
+          "end": 9.02,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 9.02,
+      "end": 10.78,
+      "text": "bắt gần được 1 xíc viên",
+      "words": [
+        {
+          "word": "bắt",
+          "start": 9.02,
+          "end": 9.3,
+          "probability": 0.36
+        },
+        {
+          "word": "gần",
+          "start": 9.3,
+          "end": 9.6,
+          "probability": 0.27
+        },
+        {
+          "word": "được",
+          "start": 9.6,
+          "end": 9.78,
+          "probability": 0.0
+        },
+        {
+          "word": "1",
+          "start": 9.78,
+          "end": 10.1,
+          "probability": 0.14
+        },
+        {
+          "word": "xíc",
+          "start": 10.1,
+          "end": 10.28,
+          "probability": 0.37
+        },
+        {
+          "word": "viên",
+          "start": 10.28,
+          "end": 10.78,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 10.78,
+      "end": 12.32,
+      "text": "bôi ra chữa",
+      "words": [
+        {
+          "word": "bôi",
+          "start": 10.78,
+          "end": 11.34,
+          "probability": 0.37
+        },
+        {
+          "word": "ra",
+          "start": 11.34,
+          "end": 11.54,
+          "probability": 0.15
+        },
+        {
+          "word": "chữa",
+          "start": 11.54,
+          "end": 12.32,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 12.32,
+      "end": 14.54,
+      "text": "cùng ngay vẫn rất là giọt mở",
+      "words": [
+        {
+          "word": "cùng",
+          "start": 12.32,
+          "end": 12.84,
+          "probability": 0.0
+        },
+        {
+          "word": "ngay",
+          "start": 12.84,
+          "end": 13.2,
+          "probability": 0.28
+        },
+        {
+          "word": "vẫn",
+          "start": 13.2,
+          "end": 13.56,
+          "probability": 0.01
+        },
+        {
+          "word": "rất",
+          "start": 13.56,
+          "end": 13.88,
+          "probability": 0.74
+        },
+        {
+          "word": "là",
+          "start": 13.88,
+          "end": 14.06,
+          "probability": 0.74
+        },
+        {
+          "word": "giọt",
+          "start": 14.06,
+          "end": 14.3,
+          "probability": 0.69
+        },
+        {
+          "word": "mở",
+          "start": 14.3,
+          "end": 14.54,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 14.54,
+      "end": 15.36,
+      "text": "phép chữa",
+      "words": [
+        {
+          "word": "phép",
+          "start": 14.54,
+          "end": 14.76,
+          "probability": 0.14
+        },
+        {
+          "word": "chữa",
+          "start": 14.76,
+          "end": 15.36,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 15.36,
+      "end": 16.72,
+      "text": "1 vi",
+      "words": [
+        {
+          "word": "1",
+          "start": 15.36,
+          "end": 16.02,
+          "probability": 0.02
+        },
+        {
+          "word": "vi",
+          "start": 16.02,
+          "end": 16.72,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 16.72,
+      "end": 17.96,
+      "text": "nhận thích",
+      "words": [
+        {
+          "word": "nhận",
+          "start": 16.72,
+          "end": 17.28,
+          "probability": 0.03
+        },
+        {
+          "word": "thích",
+          "start": 17.28,
+          "end": 17.96,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 17.96,
+      "end": 19.06,
+      "text": "bì hạm lợp",
+      "words": [
+        {
+          "word": "bì",
+          "start": 17.96,
+          "end": 18.46,
+          "probability": 0.03
+        },
+        {
+          "word": "hạm",
+          "start": 18.46,
+          "end": 18.66,
+          "probability": 0.45
+        },
+        {
+          "word": "lợp",
+          "start": 18.66,
+          "end": 19.06,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 19.62,
+      "end": 20.48,
+      "text": "bây giờ",
+      "words": [
+        {
+          "word": "bây",
+          "start": 19.62,
+          "end": 19.8,
+          "probability": 0.18
+        },
+        {
+          "word": "giờ",
+          "start": 19.8,
+          "end": 20.48,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 20.48,
+      "end": 22.16,
+      "text": "cắt em đã bì",
+      "words": [
+        {
+          "word": "cắt",
+          "start": 20.48,
+          "end": 20.7,
+          "probability": 0.54
+        },
+        {
+          "word": "em",
+          "start": 20.7,
+          "end": 20.98,
+          "probability": 0.99
+        },
+        {
+          "word": "đã",
+          "start": 20.98,
+          "end": 21.26,
+          "probability": 0.72
+        },
+        {
+          "word": "bì",
+          "start": 21.26,
+          "end": 22.16,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 22.16,
+      "end": 22.9,
+      "text": "mất lương",
+      "words": [
+        {
+          "word": "mất",
+          "start": 22.16,
+          "end": 22.5,
+          "probability": 0.36
+        },
+        {
+          "word": "lương",
+          "start": 22.5,
+          "end": 22.9,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 22.9,
+      "end": 24.86,
+      "text": "bình có lợi dụ dụ dụ",
+      "words": [
+        {
+          "word": "bình",
+          "start": 22.9,
+          "end": 23.84,
+          "probability": 0.36
+        },
+        {
+          "word": "có",
+          "start": 23.84,
+          "end": 24.08,
+          "probability": 0.01
+        },
+        {
+          "word": "lợi",
+          "start": 24.08,
+          "end": 24.14,
+          "probability": 0.77
+        },
+        {
+          "word": "dụ",
+          "start": 24.14,
+          "end": 24.42,
+          "probability": 0.23
+        },
+        {
+          "word": "dụ",
+          "start": 24.42,
+          "end": 24.54,
+          "probability": 0.31
+        },
+        {
+          "word": "dụ",
+          "start": 24.54,
+          "end": 24.86,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 24.86,
+      "end": 26.8,
+      "text": "bộ khác được dụ dụ dụ dụ dụ dụ",
+      "words": [
+        {
+          "word": "bộ",
+          "start": 24.86,
+          "end": 25.3,
+          "probability": 0.15
+        },
+        {
+          "word": "khác",
+          "start": 25.3,
+          "end": 25.86,
+          "probability": 0.0
+        },
+        {
+          "word": "được",
+          "start": 25.86,
+          "end": 26.04,
+          "probability": 0.12
+        },
+        {
+          "word": "dụ",
+          "start": 26.04,
+          "end": 26.26,
+          "probability": 0.53
+        },
+        {
+          "word": "dụ",
+          "start": 26.26,
+          "end": 26.34,
+          "probability": 0.81
+        },
+        {
+          "word": "dụ",
+          "start": 26.34,
+          "end": 26.54,
+          "probability": 0.79
+        },
+        {
+          "word": "dụ",
+          "start": 26.54,
+          "end": 26.62,
+          "probability": 0.76
+        },
+        {
+          "word": "dụ",
+          "start": 26.62,
+          "end": 26.72,
+          "probability": 0.74
+        },
+        {
+          "word": "dụ",
+          "start": 26.72,
+          "end": 26.8,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 26.8,
+      "end": 29.8,
+      "text": "Dụ dụ dụ dụ dụ dụ dụ dụ",
+      "words": [
+        {
+          "word": "Dụ",
+          "start": 26.8,
+          "end": 27.36,
+          "probability": 0.48
+        },
+        {
+          "word": "dụ",
+          "start": 29.18,
+          "end": 29.18,
+          "probability": 0.83
+        },
+        {
+          "word": "dụ",
+          "start": 29.18,
+          "end": 29.18,
+          "probability": 0.76
+        },
+        {
+          "word": "dụ",
+          "start": 29.18,
+          "end": 29.18,
+          "probability": 0.77
+        },
+        {
+          "word": "dụ",
+          "start": 29.18,
+          "end": 29.18,
+          "probability": 0.8
+        },
+        {
+          "word": "dụ",
+          "start": 29.18,
+          "end": 29.8,
+          "probability": 0.81
+        },
+        {
+          "word": "dụ",
+          "start": 29.8,
+          "end": 29.8,
+          "probability": 0.82
+        },
+        {
+          "word": "dụ",
+          "start": 29.8,
+          "end": 29.8,
+          "probability": 0.82
+        }
+      ]
+    }
+  ]
+}

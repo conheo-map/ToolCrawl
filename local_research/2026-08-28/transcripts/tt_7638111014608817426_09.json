@@ -1,0 +1,72 @@
+{
+  "item_id": "tt_7638111014608817426_09",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "And then the other people will be able to",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.07,
+      "text": "And then the other people will be able to",
+      "words": [
+        {
+          "word": "And",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.11
+        },
+        {
+          "word": "then",
+          "start": 0.36,
+          "end": 0.54,
+          "probability": 0.96
+        },
+        {
+          "word": "the",
+          "start": 0.54,
+          "end": 0.86,
+          "probability": 0.12
+        },
+        {
+          "word": "other",
+          "start": 2.49,
+          "end": 3.55,
+          "probability": 0.04
+        },
+        {
+          "word": "people",
+          "start": 3.55,
+          "end": 3.85,
+          "probability": 0.0
+        },
+        {
+          "word": "will",
+          "start": 3.85,
+          "end": 3.87,
+          "probability": 0.34
+        },
+        {
+          "word": "be",
+          "start": 3.87,
+          "end": 4.39,
+          "probability": 0.16
+        },
+        {
+          "word": "able",
+          "start": 4.39,
+          "end": 4.69,
+          "probability": 0.04
+        },
+        {
+          "word": "to",
+          "start": 4.69,
+          "end": 5.07,
+          "probability": 0.99
+        }
+      ]
+    }
+  ]
+}

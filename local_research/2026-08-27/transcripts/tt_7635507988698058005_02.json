@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7635507988698058005_02",
+  "duration_seconds": 28.9,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Thì sao?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.03,
+      "end": 2.63,
+      "text": "Thì sao?",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 2.03,
+          "end": 2.63,
+          "probability": 0.11
+        },
+        {
+          "word": "sao?",
+          "start": 2.63,
+          "end": 2.63,
+          "probability": 0.02
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7650060679973473543_02",
+  "duration_seconds": 28.9,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Btw, phạm, phạm, phạm.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.03,
+      "end": 2.87,
+      "text": "Btw, phạm, phạm, phạm.",
+      "words": [
+        {
+          "word": "Btw,",
+          "start": 2.03,
+          "end": 2.75,
+          "probability": 0.02
+        },
+        {
+          "word": "phạm,",
+          "start": 2.87,
+          "end": 2.87,
+          "probability": 0.3
+        },
+        {
+          "word": "phạm,",
+          "start": 2.87,
+          "end": 2.87,
+          "probability": 0.63
+        },
+        {
+          "word": "phạm.",
+          "start": 2.87,
+          "end": 2.87,
+          "probability": 0.85
+        }
+      ]
+    }
+  ]
+}

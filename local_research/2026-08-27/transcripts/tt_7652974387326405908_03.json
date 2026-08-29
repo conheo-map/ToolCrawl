@@ -1,0 +1,574 @@
+{
+  "item_id": "tt_7652974387326405908_03",
+  "duration_seconds": 24.6,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 74,
+  "text": "Nhưng bạn ấy mà... cái này thì ở thần ước sần ước gì thành phố ca mình ước gì ở ước gì ở Thêm như mà ước múng của tôi như thế thì từ từ mong người thành phố ca thì từ từ ở đây một cái cơ hồng làm việc để chàng người dân thực tích cẩn như khác chưa lịch tên ngoài nhưng người ta chơi chơi mưởng người dưới mùa hóa",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.86,
+      "text": "Nhưng bạn ấy mà...",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.38
+        },
+        {
+          "word": "bạn",
+          "start": 0.54,
+          "end": 0.68,
+          "probability": 0.66
+        },
+        {
+          "word": "ấy",
+          "start": 0.68,
+          "end": 0.86,
+          "probability": 0.29
+        },
+        {
+          "word": "mà...",
+          "start": 0.86,
+          "end": 1.86,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.86,
+      "end": 2.92,
+      "text": "cái này thì ở thần",
+      "words": [
+        {
+          "word": "cái",
+          "start": 1.86,
+          "end": 1.9,
+          "probability": 0.23
+        },
+        {
+          "word": "này",
+          "start": 1.9,
+          "end": 2.04,
+          "probability": 0.99
+        },
+        {
+          "word": "thì",
+          "start": 2.04,
+          "end": 2.22,
+          "probability": 0.12
+        },
+        {
+          "word": "ở",
+          "start": 2.22,
+          "end": 2.44,
+          "probability": 0.43
+        },
+        {
+          "word": "thần",
+          "start": 2.44,
+          "end": 2.92,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 2.92,
+      "end": 3.9,
+      "text": "ước sần",
+      "words": [
+        {
+          "word": "ước",
+          "start": 2.92,
+          "end": 3.46,
+          "probability": 0.35
+        },
+        {
+          "word": "sần",
+          "start": 3.46,
+          "end": 3.9,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 3.9,
+      "end": 4.62,
+      "text": "ước gì",
+      "words": [
+        {
+          "word": "ước",
+          "start": 3.9,
+          "end": 4.34,
+          "probability": 0.89
+        },
+        {
+          "word": "gì",
+          "start": 4.34,
+          "end": 4.62,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 4.62,
+      "end": 6.0,
+      "text": "thành phố ca mình",
+      "words": [
+        {
+          "word": "thành",
+          "start": 4.62,
+          "end": 4.9,
+          "probability": 0.18
+        },
+        {
+          "word": "phố",
+          "start": 4.9,
+          "end": 5.08,
+          "probability": 0.52
+        },
+        {
+          "word": "ca",
+          "start": 5.08,
+          "end": 5.32,
+          "probability": 0.21
+        },
+        {
+          "word": "mình",
+          "start": 5.32,
+          "end": 6.0,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 6.0,
+      "end": 7.08,
+      "text": "ước gì ở",
+      "words": [
+        {
+          "word": "ước",
+          "start": 6.0,
+          "end": 6.56,
+          "probability": 0.39
+        },
+        {
+          "word": "gì",
+          "start": 6.56,
+          "end": 6.56,
+          "probability": 0.79
+        },
+        {
+          "word": "ở",
+          "start": 6.56,
+          "end": 7.08,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 7.08,
+      "end": 7.32,
+      "text": "ước gì ở",
+      "words": [
+        {
+          "word": "ước",
+          "start": 7.08,
+          "end": 7.32,
+          "probability": 0.51
+        },
+        {
+          "word": "gì",
+          "start": 7.32,
+          "end": 7.32,
+          "probability": 0.01
+        },
+        {
+          "word": "ở",
+          "start": 7.32,
+          "end": 7.32,
+          "probability": 0.02
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 8.34,
+      "end": 10.0,
+      "text": "Thêm như mà ước múng của tôi",
+      "words": [
+        {
+          "word": "Thêm",
+          "start": 8.34,
+          "end": 8.82,
+          "probability": 0.0
+        },
+        {
+          "word": "như",
+          "start": 8.82,
+          "end": 9.12,
+          "probability": 0.53
+        },
+        {
+          "word": "mà",
+          "start": 9.12,
+          "end": 9.28,
+          "probability": 0.69
+        },
+        {
+          "word": "ước",
+          "start": 9.28,
+          "end": 9.54,
+          "probability": 0.98
+        },
+        {
+          "word": "múng",
+          "start": 9.54,
+          "end": 9.66,
+          "probability": 0.17
+        },
+        {
+          "word": "của",
+          "start": 9.66,
+          "end": 9.8,
+          "probability": 0.39
+        },
+        {
+          "word": "tôi",
+          "start": 9.8,
+          "end": 10.0,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 10.0,
+      "end": 12.02,
+      "text": "như thế thì từ từ mong người thành phố ca",
+      "words": [
+        {
+          "word": "như",
+          "start": 10.0,
+          "end": 10.1,
+          "probability": 0.05
+        },
+        {
+          "word": "thế",
+          "start": 10.1,
+          "end": 10.32,
+          "probability": 0.79
+        },
+        {
+          "word": "thì",
+          "start": 10.32,
+          "end": 10.32,
+          "probability": 0.2
+        },
+        {
+          "word": "từ",
+          "start": 10.32,
+          "end": 10.56,
+          "probability": 0.16
+        },
+        {
+          "word": "từ",
+          "start": 10.56,
+          "end": 10.64,
+          "probability": 0.02
+        },
+        {
+          "word": "mong",
+          "start": 10.64,
+          "end": 10.86,
+          "probability": 0.78
+        },
+        {
+          "word": "người",
+          "start": 10.86,
+          "end": 11.04,
+          "probability": 0.55
+        },
+        {
+          "word": "thành",
+          "start": 11.04,
+          "end": 11.18,
+          "probability": 0.93
+        },
+        {
+          "word": "phố",
+          "start": 11.18,
+          "end": 11.42,
+          "probability": 0.99
+        },
+        {
+          "word": "ca",
+          "start": 11.42,
+          "end": 12.02,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 12.02,
+      "end": 13.98,
+      "text": "thì từ từ ở đây một cái cơ hồng",
+      "words": [
+        {
+          "word": "thì",
+          "start": 12.02,
+          "end": 12.3,
+          "probability": 0.26
+        },
+        {
+          "word": "từ",
+          "start": 12.3,
+          "end": 12.46,
+          "probability": 0.5
+        },
+        {
+          "word": "từ",
+          "start": 12.46,
+          "end": 12.48,
+          "probability": 0.7
+        },
+        {
+          "word": "ở",
+          "start": 12.48,
+          "end": 12.68,
+          "probability": 0.42
+        },
+        {
+          "word": "đây",
+          "start": 12.68,
+          "end": 12.82,
+          "probability": 0.93
+        },
+        {
+          "word": "một",
+          "start": 12.82,
+          "end": 13.0,
+          "probability": 0.4
+        },
+        {
+          "word": "cái",
+          "start": 13.0,
+          "end": 13.12,
+          "probability": 0.7
+        },
+        {
+          "word": "cơ",
+          "start": 13.12,
+          "end": 13.38,
+          "probability": 0.65
+        },
+        {
+          "word": "hồng",
+          "start": 13.38,
+          "end": 13.98,
+          "probability": 0.41
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 13.98,
+      "end": 15.02,
+      "text": "làm việc",
+      "words": [
+        {
+          "word": "làm",
+          "start": 13.98,
+          "end": 14.4,
+          "probability": 0.66
+        },
+        {
+          "word": "việc",
+          "start": 14.4,
+          "end": 15.02,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 15.02,
+      "end": 17.18,
+      "text": "để chàng người dân thực tích cẩn như",
+      "words": [
+        {
+          "word": "để",
+          "start": 15.02,
+          "end": 15.34,
+          "probability": 0.16
+        },
+        {
+          "word": "chàng",
+          "start": 15.34,
+          "end": 15.56,
+          "probability": 0.26
+        },
+        {
+          "word": "người",
+          "start": 15.56,
+          "end": 15.78,
+          "probability": 0.25
+        },
+        {
+          "word": "dân",
+          "start": 15.78,
+          "end": 15.94,
+          "probability": 0.72
+        },
+        {
+          "word": "thực",
+          "start": 15.94,
+          "end": 16.18,
+          "probability": 0.23
+        },
+        {
+          "word": "tích",
+          "start": 16.18,
+          "end": 16.34,
+          "probability": 0.5
+        },
+        {
+          "word": "cẩn",
+          "start": 16.34,
+          "end": 16.6,
+          "probability": 0.37
+        },
+        {
+          "word": "như",
+          "start": 16.6,
+          "end": 17.18,
+          "probability": 0.87
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 17.18,
+      "end": 18.58,
+      "text": "khác chưa lịch tên ngoài",
+      "words": [
+        {
+          "word": "khác",
+          "start": 17.18,
+          "end": 17.66,
+          "probability": 0.13
+        },
+        {
+          "word": "chưa",
+          "start": 17.66,
+          "end": 17.82,
+          "probability": 0.2
+        },
+        {
+          "word": "lịch",
+          "start": 17.82,
+          "end": 18.02,
+          "probability": 0.53
+        },
+        {
+          "word": "tên",
+          "start": 18.02,
+          "end": 18.2,
+          "probability": 0.24
+        },
+        {
+          "word": "ngoài",
+          "start": 18.2,
+          "end": 18.58,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 18.58,
+      "end": 19.34,
+      "text": "nhưng người ta",
+      "words": [
+        {
+          "word": "nhưng",
+          "start": 18.58,
+          "end": 18.9,
+          "probability": 0.13
+        },
+        {
+          "word": "người",
+          "start": 18.9,
+          "end": 19.1,
+          "probability": 0.85
+        },
+        {
+          "word": "ta",
+          "start": 19.1,
+          "end": 19.34,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 19.94,
+      "end": 22.18,
+      "text": "chơi chơi mưởng người dưới mùa hóa",
+      "words": [
+        {
+          "word": "chơi",
+          "start": 19.94,
+          "end": 20.18,
+          "probability": 0.12
+        },
+        {
+          "word": "chơi",
+          "start": 20.18,
+          "end": 20.86,
+          "probability": 0.4
+        },
+        {
+          "word": "mưởng",
+          "start": 20.86,
+          "end": 21.14,
+          "probability": 0.21
+        },
+        {
+          "word": "người",
+          "start": 21.14,
+          "end": 21.38,
+          "probability": 0.25
+        },
+        {
+          "word": "dưới",
+          "start": 21.38,
+          "end": 21.52,
+          "probability": 0.63
+        },
+        {
+          "word": "mùa",
+          "start": 21.52,
+          "end": 21.72,
+          "probability": 0.61
+        },
+        {
+          "word": "hóa",
+          "start": 21.72,
+          "end": 22.18,
+          "probability": 0.25
+        }
+      ]
+    }
+  ]
+}

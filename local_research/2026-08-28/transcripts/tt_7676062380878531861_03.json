@@ -1,0 +1,452 @@
+{
+  "item_id": "tt_7676062380878531861_03",
+  "duration_seconds": 15.81,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 62,
+  "text": "Nào chào mừng xô này Rồi Rồi, khó bán như được chị Đo ngon f-e, này thì có bún như được chị Sao mình cái nằm bài, không thể sụ tìm yên và hài chị xô Rồi, khó bán như không thể tham nhạc nhạc nhạc nhạc nhạc nhạc Chính người thì phải Rồi, ok, xô đi được chị, một điện này",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.6,
+      "text": "Nào chào mừng xô này",
+      "words": [
+        {
+          "word": "Nào",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.29
+        },
+        {
+          "word": "chào",
+          "start": 0.42,
+          "end": 0.6,
+          "probability": 0.48
+        },
+        {
+          "word": "mừng",
+          "start": 0.6,
+          "end": 0.76,
+          "probability": 0.19
+        },
+        {
+          "word": "xô",
+          "start": 0.76,
+          "end": 0.86,
+          "probability": 0.12
+        },
+        {
+          "word": "này",
+          "start": 0.86,
+          "end": 1.6,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.98,
+      "end": 3.3,
+      "text": "Rồi",
+      "words": [
+        {
+          "word": "Rồi",
+          "start": 2.98,
+          "end": 3.3,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.88,
+      "end": 5.24,
+      "text": "Rồi, khó bán như được chị",
+      "words": [
+        {
+          "word": "Rồi,",
+          "start": 3.88,
+          "end": 4.2,
+          "probability": 0.5
+        },
+        {
+          "word": "khó",
+          "start": 4.2,
+          "end": 4.52,
+          "probability": 0.5
+        },
+        {
+          "word": "bán",
+          "start": 4.52,
+          "end": 4.64,
+          "probability": 0.41
+        },
+        {
+          "word": "như",
+          "start": 4.64,
+          "end": 4.8,
+          "probability": 0.33
+        },
+        {
+          "word": "được",
+          "start": 4.8,
+          "end": 5.02,
+          "probability": 0.29
+        },
+        {
+          "word": "chị",
+          "start": 5.02,
+          "end": 5.24,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.24,
+      "end": 7.68,
+      "text": "Đo ngon f-e, này thì có bún như được chị",
+      "words": [
+        {
+          "word": "Đo",
+          "start": 5.24,
+          "end": 5.46,
+          "probability": 0.23
+        },
+        {
+          "word": "ngon",
+          "start": 5.46,
+          "end": 5.52,
+          "probability": 0.13
+        },
+        {
+          "word": "f",
+          "start": 5.52,
+          "end": 5.84,
+          "probability": 0.51
+        },
+        {
+          "word": "-e,",
+          "start": 5.84,
+          "end": 6.0,
+          "probability": 0.23
+        },
+        {
+          "word": "này",
+          "start": 6.16,
+          "end": 6.2,
+          "probability": 0.06
+        },
+        {
+          "word": "thì",
+          "start": 6.2,
+          "end": 6.32,
+          "probability": 0.34
+        },
+        {
+          "word": "có",
+          "start": 6.32,
+          "end": 6.66,
+          "probability": 0.81
+        },
+        {
+          "word": "bún",
+          "start": 6.66,
+          "end": 6.96,
+          "probability": 0.3
+        },
+        {
+          "word": "như",
+          "start": 6.96,
+          "end": 7.1,
+          "probability": 0.43
+        },
+        {
+          "word": "được",
+          "start": 7.1,
+          "end": 7.26,
+          "probability": 0.51
+        },
+        {
+          "word": "chị",
+          "start": 7.26,
+          "end": 7.68,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.68,
+      "end": 10.5,
+      "text": "Sao mình cái nằm bài, không thể sụ tìm yên và hài chị xô",
+      "words": [
+        {
+          "word": "Sao",
+          "start": 7.68,
+          "end": 8.04,
+          "probability": 0.67
+        },
+        {
+          "word": "mình",
+          "start": 8.04,
+          "end": 8.14,
+          "probability": 0.79
+        },
+        {
+          "word": "cái",
+          "start": 8.14,
+          "end": 8.28,
+          "probability": 0.1
+        },
+        {
+          "word": "nằm",
+          "start": 8.28,
+          "end": 8.46,
+          "probability": 0.58
+        },
+        {
+          "word": "bài,",
+          "start": 8.46,
+          "end": 8.64,
+          "probability": 0.41
+        },
+        {
+          "word": "không",
+          "start": 8.96,
+          "end": 9.2,
+          "probability": 0.12
+        },
+        {
+          "word": "thể",
+          "start": 9.2,
+          "end": 9.34,
+          "probability": 0.11
+        },
+        {
+          "word": "sụ",
+          "start": 9.34,
+          "end": 9.48,
+          "probability": 0.24
+        },
+        {
+          "word": "tìm",
+          "start": 9.48,
+          "end": 9.62,
+          "probability": 0.46
+        },
+        {
+          "word": "yên",
+          "start": 9.62,
+          "end": 9.76,
+          "probability": 0.54
+        },
+        {
+          "word": "và",
+          "start": 9.76,
+          "end": 9.88,
+          "probability": 0.55
+        },
+        {
+          "word": "hài",
+          "start": 9.88,
+          "end": 10.06,
+          "probability": 0.36
+        },
+        {
+          "word": "chị",
+          "start": 10.06,
+          "end": 10.2,
+          "probability": 0.67
+        },
+        {
+          "word": "xô",
+          "start": 10.2,
+          "end": 10.5,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.5,
+      "end": 12.96,
+      "text": "Rồi, khó bán như không thể tham nhạc nhạc nhạc nhạc nhạc nhạc",
+      "words": [
+        {
+          "word": "Rồi,",
+          "start": 10.5,
+          "end": 10.66,
+          "probability": 0.36
+        },
+        {
+          "word": "khó",
+          "start": 10.68,
+          "end": 11.28,
+          "probability": 0.53
+        },
+        {
+          "word": "bán",
+          "start": 11.28,
+          "end": 11.64,
+          "probability": 0.58
+        },
+        {
+          "word": "như",
+          "start": 11.64,
+          "end": 11.76,
+          "probability": 0.15
+        },
+        {
+          "word": "không",
+          "start": 11.76,
+          "end": 11.92,
+          "probability": 0.2
+        },
+        {
+          "word": "thể",
+          "start": 11.92,
+          "end": 11.96,
+          "probability": 0.19
+        },
+        {
+          "word": "tham",
+          "start": 11.96,
+          "end": 12.22,
+          "probability": 0.12
+        },
+        {
+          "word": "nhạc",
+          "start": 12.22,
+          "end": 12.48,
+          "probability": 0.41
+        },
+        {
+          "word": "nhạc",
+          "start": 12.48,
+          "end": 12.8,
+          "probability": 0.71
+        },
+        {
+          "word": "nhạc",
+          "start": 12.8,
+          "end": 12.86,
+          "probability": 0.82
+        },
+        {
+          "word": "nhạc",
+          "start": 12.86,
+          "end": 12.9,
+          "probability": 0.75
+        },
+        {
+          "word": "nhạc",
+          "start": 12.9,
+          "end": 12.96,
+          "probability": 0.68
+        },
+        {
+          "word": "nhạc",
+          "start": 12.96,
+          "end": 12.96,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.96,
+      "end": 13.88,
+      "text": "Chính người thì phải",
+      "words": [
+        {
+          "word": "Chính",
+          "start": 12.96,
+          "end": 13.04,
+          "probability": 0.31
+        },
+        {
+          "word": "người",
+          "start": 13.04,
+          "end": 13.14,
+          "probability": 0.17
+        },
+        {
+          "word": "thì",
+          "start": 13.14,
+          "end": 13.34,
+          "probability": 0.08
+        },
+        {
+          "word": "phải",
+          "start": 13.34,
+          "end": 13.88,
+          "probability": 0.14
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.88,
+      "end": 15.68,
+      "text": "Rồi, ok, xô đi được chị, một điện này",
+      "words": [
+        {
+          "word": "Rồi,",
+          "start": 13.88,
+          "end": 14.12,
+          "probability": 0.95
+        },
+        {
+          "word": "ok,",
+          "start": 14.14,
+          "end": 14.46,
+          "probability": 0.58
+        },
+        {
+          "word": "xô",
+          "start": 14.56,
+          "end": 14.58,
+          "probability": 0.66
+        },
+        {
+          "word": "đi",
+          "start": 14.58,
+          "end": 14.72,
+          "probability": 0.79
+        },
+        {
+          "word": "được",
+          "start": 14.72,
+          "end": 14.8,
+          "probability": 0.17
+        },
+        {
+          "word": "chị,",
+          "start": 14.8,
+          "end": 15.06,
+          "probability": 0.99
+        },
+        {
+          "word": "một",
+          "start": 15.18,
+          "end": 15.28,
+          "probability": 0.79
+        },
+        {
+          "word": "điện",
+          "start": 15.28,
+          "end": 15.48,
+          "probability": 0.21
+        },
+        {
+          "word": "này",
+          "start": 15.48,
+          "end": 15.68,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

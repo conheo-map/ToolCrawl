@@ -1,0 +1,476 @@
+{
+  "item_id": "tt_7675700691234540807_17",
+  "duration_seconds": 29.89,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 67,
+  "text": "hôm nay không có những gì hết và nghĩ là thúc này không có những gì nữa mà mỏ thuộc tôi cũng hay thường một cái hình ảnh đã mà chỉ phyến các bình dân giải thích bình dân dài xong mình vẫn còn thái uống thuộc dù cơ thêm và con cây xe bình đại rác nó đến nhiều hơn là thúc không ở tính ta",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 1.71,
+      "text": "hôm nay không có những gì hết",
+      "words": [
+        {
+          "word": "hôm",
+          "start": 0.11,
+          "end": 0.49,
+          "probability": 0.41
+        },
+        {
+          "word": "nay",
+          "start": 0.49,
+          "end": 0.63,
+          "probability": 0.4
+        },
+        {
+          "word": "không",
+          "start": 0.63,
+          "end": 0.91,
+          "probability": 0.12
+        },
+        {
+          "word": "có",
+          "start": 0.91,
+          "end": 1.03,
+          "probability": 0.68
+        },
+        {
+          "word": "những",
+          "start": 1.03,
+          "end": 1.03,
+          "probability": 0.16
+        },
+        {
+          "word": "gì",
+          "start": 1.03,
+          "end": 1.03,
+          "probability": 0.25
+        },
+        {
+          "word": "hết",
+          "start": 1.03,
+          "end": 1.71,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.71,
+      "end": 5.43,
+      "text": "và nghĩ là thúc này không có những gì nữa mà mỏ thuộc",
+      "words": [
+        {
+          "word": "và",
+          "start": 1.71,
+          "end": 2.13,
+          "probability": 0.02
+        },
+        {
+          "word": "nghĩ",
+          "start": 2.13,
+          "end": 2.29,
+          "probability": 0.04
+        },
+        {
+          "word": "là",
+          "start": 2.29,
+          "end": 2.93,
+          "probability": 0.1
+        },
+        {
+          "word": "thúc",
+          "start": 2.93,
+          "end": 3.15,
+          "probability": 0.2
+        },
+        {
+          "word": "này",
+          "start": 3.15,
+          "end": 3.29,
+          "probability": 0.78
+        },
+        {
+          "word": "không",
+          "start": 3.29,
+          "end": 3.45,
+          "probability": 0.32
+        },
+        {
+          "word": "có",
+          "start": 3.45,
+          "end": 3.61,
+          "probability": 0.98
+        },
+        {
+          "word": "những",
+          "start": 3.61,
+          "end": 3.77,
+          "probability": 0.53
+        },
+        {
+          "word": "gì",
+          "start": 3.77,
+          "end": 3.93,
+          "probability": 0.27
+        },
+        {
+          "word": "nữa",
+          "start": 3.93,
+          "end": 4.41,
+          "probability": 0.56
+        },
+        {
+          "word": "mà",
+          "start": 4.41,
+          "end": 4.63,
+          "probability": 0.7
+        },
+        {
+          "word": "mỏ",
+          "start": 4.63,
+          "end": 4.93,
+          "probability": 0.37
+        },
+        {
+          "word": "thuộc",
+          "start": 4.93,
+          "end": 5.43,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.43,
+      "end": 10.3,
+      "text": "tôi cũng hay thường một cái hình ảnh",
+      "words": [
+        {
+          "word": "tôi",
+          "start": 5.43,
+          "end": 5.81,
+          "probability": 0.16
+        },
+        {
+          "word": "cũng",
+          "start": 5.81,
+          "end": 5.99,
+          "probability": 0.49
+        },
+        {
+          "word": "hay",
+          "start": 5.99,
+          "end": 6.33,
+          "probability": 0.57
+        },
+        {
+          "word": "thường",
+          "start": 6.33,
+          "end": 7.05,
+          "probability": 0.8
+        },
+        {
+          "word": "một",
+          "start": 8.84,
+          "end": 9.14,
+          "probability": 0.69
+        },
+        {
+          "word": "cái",
+          "start": 9.14,
+          "end": 9.3,
+          "probability": 0.77
+        },
+        {
+          "word": "hình",
+          "start": 9.3,
+          "end": 9.44,
+          "probability": 0.8
+        },
+        {
+          "word": "ảnh",
+          "start": 9.44,
+          "end": 10.3,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.3,
+      "end": 13.38,
+      "text": "đã mà chỉ phyến các bình dân giải thích bình dân dài xong",
+      "words": [
+        {
+          "word": "đã",
+          "start": 10.3,
+          "end": 10.76,
+          "probability": 0.24
+        },
+        {
+          "word": "mà",
+          "start": 10.76,
+          "end": 10.96,
+          "probability": 0.34
+        },
+        {
+          "word": "chỉ",
+          "start": 10.96,
+          "end": 11.2,
+          "probability": 0.18
+        },
+        {
+          "word": "phyến",
+          "start": 11.2,
+          "end": 11.6,
+          "probability": 0.25
+        },
+        {
+          "word": "các",
+          "start": 11.6,
+          "end": 11.8,
+          "probability": 0.71
+        },
+        {
+          "word": "bình",
+          "start": 11.8,
+          "end": 11.96,
+          "probability": 0.42
+        },
+        {
+          "word": "dân",
+          "start": 11.96,
+          "end": 12.24,
+          "probability": 0.56
+        },
+        {
+          "word": "giải",
+          "start": 12.24,
+          "end": 12.52,
+          "probability": 0.27
+        },
+        {
+          "word": "thích",
+          "start": 12.52,
+          "end": 12.6,
+          "probability": 0.66
+        },
+        {
+          "word": "bình",
+          "start": 12.6,
+          "end": 12.74,
+          "probability": 0.9
+        },
+        {
+          "word": "dân",
+          "start": 12.74,
+          "end": 12.88,
+          "probability": 0.71
+        },
+        {
+          "word": "dài",
+          "start": 12.88,
+          "end": 13.14,
+          "probability": 0.11
+        },
+        {
+          "word": "xong",
+          "start": 13.14,
+          "end": 13.38,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.38,
+      "end": 14.84,
+      "text": "mình vẫn còn thái uống thuộc",
+      "words": [
+        {
+          "word": "mình",
+          "start": 13.38,
+          "end": 13.56,
+          "probability": 0.19
+        },
+        {
+          "word": "vẫn",
+          "start": 13.56,
+          "end": 13.72,
+          "probability": 0.9
+        },
+        {
+          "word": "còn",
+          "start": 13.72,
+          "end": 13.98,
+          "probability": 0.95
+        },
+        {
+          "word": "thái",
+          "start": 13.98,
+          "end": 14.16,
+          "probability": 0.23
+        },
+        {
+          "word": "uống",
+          "start": 14.16,
+          "end": 14.34,
+          "probability": 0.56
+        },
+        {
+          "word": "thuộc",
+          "start": 14.34,
+          "end": 14.84,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.84,
+      "end": 18.46,
+      "text": "dù cơ thêm và con cây xe bình đại rác",
+      "words": [
+        {
+          "word": "dù",
+          "start": 14.84,
+          "end": 15.14,
+          "probability": 0.45
+        },
+        {
+          "word": "cơ",
+          "start": 15.14,
+          "end": 15.38,
+          "probability": 0.64
+        },
+        {
+          "word": "thêm",
+          "start": 15.38,
+          "end": 15.54,
+          "probability": 0.39
+        },
+        {
+          "word": "và",
+          "start": 15.54,
+          "end": 15.84,
+          "probability": 0.13
+        },
+        {
+          "word": "con",
+          "start": 17.38,
+          "end": 17.46,
+          "probability": 0.3
+        },
+        {
+          "word": "cây",
+          "start": 17.46,
+          "end": 17.64,
+          "probability": 0.76
+        },
+        {
+          "word": "xe",
+          "start": 17.64,
+          "end": 17.86,
+          "probability": 0.32
+        },
+        {
+          "word": "bình",
+          "start": 17.86,
+          "end": 18.04,
+          "probability": 0.33
+        },
+        {
+          "word": "đại",
+          "start": 18.04,
+          "end": 18.18,
+          "probability": 0.21
+        },
+        {
+          "word": "rác",
+          "start": 18.18,
+          "end": 18.46,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 24.6,
+      "end": 28.92,
+      "text": "nó đến nhiều hơn là thúc không ở",
+      "words": [
+        {
+          "word": "nó",
+          "start": 24.6,
+          "end": 24.86,
+          "probability": 0.29
+        },
+        {
+          "word": "đến",
+          "start": 24.86,
+          "end": 25.08,
+          "probability": 0.36
+        },
+        {
+          "word": "nhiều",
+          "start": 25.08,
+          "end": 25.32,
+          "probability": 0.8
+        },
+        {
+          "word": "hơn",
+          "start": 25.32,
+          "end": 25.72,
+          "probability": 0.9
+        },
+        {
+          "word": "là",
+          "start": 27.32,
+          "end": 27.8,
+          "probability": 0.25
+        },
+        {
+          "word": "thúc",
+          "start": 27.8,
+          "end": 27.92,
+          "probability": 0.47
+        },
+        {
+          "word": "không",
+          "start": 27.92,
+          "end": 28.12,
+          "probability": 0.71
+        },
+        {
+          "word": "ở",
+          "start": 28.12,
+          "end": 28.92,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 28.92,
+      "end": 29.78,
+      "text": "tính ta",
+      "words": [
+        {
+          "word": "tính",
+          "start": 28.92,
+          "end": 29.38,
+          "probability": 0.19
+        },
+        {
+          "word": "ta",
+          "start": 29.38,
+          "end": 29.78,
+          "probability": 0.49
+        }
+      ]
+    }
+  ]
+}

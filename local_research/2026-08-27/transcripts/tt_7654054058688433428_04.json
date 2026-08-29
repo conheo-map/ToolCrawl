@@ -1,0 +1,446 @@
+{
+  "item_id": "tt_7654054058688433428_04",
+  "duration_seconds": 25.36,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 62,
+  "text": "Lướng có thế hoặc mạm mạm. Ở đây. Có nhiều hợn lắm, có con lỗi. Chua nhé là xây cò mơ thì cũng chưa có chết. Có chết. Giãn, tái tạo bơ bắt kinh đôi là 1 trong những chuyện chính trang đủ thì quý mặt lướng của thành phố của chimêng hối tổng mất lụp bệnh hàng và trân tế đồng.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.72,
+      "text": "Lướng có thế hoặc mạm mạm.",
+      "words": [
+        {
+          "word": "Lướng",
+          "start": 0.0,
+          "end": 0.52,
+          "probability": 0.48
+        },
+        {
+          "word": "có",
+          "start": 0.52,
+          "end": 0.72,
+          "probability": 0.68
+        },
+        {
+          "word": "thế",
+          "start": 0.72,
+          "end": 0.78,
+          "probability": 0.05
+        },
+        {
+          "word": "hoặc",
+          "start": 0.78,
+          "end": 1.36,
+          "probability": 0.15
+        },
+        {
+          "word": "mạm",
+          "start": 1.36,
+          "end": 2.86,
+          "probability": 0.31
+        },
+        {
+          "word": "mạm.",
+          "start": 2.86,
+          "end": 3.72,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.72,
+      "end": 5.64,
+      "text": "Ở đây.",
+      "words": [
+        {
+          "word": "Ở",
+          "start": 4.72,
+          "end": 5.18,
+          "probability": 0.24
+        },
+        {
+          "word": "đây.",
+          "start": 5.18,
+          "end": 5.64,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.26,
+      "end": 8.22,
+      "text": "Có nhiều hợn lắm, có con lỗi.",
+      "words": [
+        {
+          "word": "Có",
+          "start": 6.26,
+          "end": 6.48,
+          "probability": 0.03
+        },
+        {
+          "word": "nhiều",
+          "start": 6.48,
+          "end": 6.76,
+          "probability": 0.27
+        },
+        {
+          "word": "hợn",
+          "start": 6.76,
+          "end": 7.1,
+          "probability": 0.14
+        },
+        {
+          "word": "lắm,",
+          "start": 7.1,
+          "end": 7.38,
+          "probability": 0.09
+        },
+        {
+          "word": "có",
+          "start": 7.4,
+          "end": 7.66,
+          "probability": 0.74
+        },
+        {
+          "word": "con",
+          "start": 7.66,
+          "end": 7.98,
+          "probability": 0.02
+        },
+        {
+          "word": "lỗi.",
+          "start": 7.98,
+          "end": 8.22,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.58,
+      "end": 14.56,
+      "text": "Chua nhé là xây cò mơ thì cũng chưa có chết.",
+      "words": [
+        {
+          "word": "Chua",
+          "start": 8.58,
+          "end": 8.96,
+          "probability": 0.03
+        },
+        {
+          "word": "nhé",
+          "start": 8.96,
+          "end": 9.92,
+          "probability": 0.04
+        },
+        {
+          "word": "là",
+          "start": 9.92,
+          "end": 12.6,
+          "probability": 0.41
+        },
+        {
+          "word": "xây",
+          "start": 12.6,
+          "end": 13.0,
+          "probability": 0.23
+        },
+        {
+          "word": "cò",
+          "start": 13.0,
+          "end": 13.18,
+          "probability": 0.3
+        },
+        {
+          "word": "mơ",
+          "start": 13.18,
+          "end": 13.34,
+          "probability": 0.36
+        },
+        {
+          "word": "thì",
+          "start": 13.34,
+          "end": 13.5,
+          "probability": 0.45
+        },
+        {
+          "word": "cũng",
+          "start": 13.5,
+          "end": 13.64,
+          "probability": 0.53
+        },
+        {
+          "word": "chưa",
+          "start": 13.64,
+          "end": 13.84,
+          "probability": 0.14
+        },
+        {
+          "word": "có",
+          "start": 13.84,
+          "end": 14.28,
+          "probability": 0.25
+        },
+        {
+          "word": "chết.",
+          "start": 14.28,
+          "end": 14.56,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 15.04,
+      "end": 15.28,
+      "text": "Có chết.",
+      "words": [
+        {
+          "word": "Có",
+          "start": 15.04,
+          "end": 15.2,
+          "probability": 0.44
+        },
+        {
+          "word": "chết.",
+          "start": 15.2,
+          "end": 15.28,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 17.16,
+      "end": 20.12,
+      "text": "Giãn, tái tạo bơ bắt kinh đôi là 1 trong những chuyện",
+      "words": [
+        {
+          "word": "Giãn,",
+          "start": 17.16,
+          "end": 17.62,
+          "probability": 0.19
+        },
+        {
+          "word": "tái",
+          "start": 17.64,
+          "end": 17.82,
+          "probability": 0.22
+        },
+        {
+          "word": "tạo",
+          "start": 17.82,
+          "end": 18.08,
+          "probability": 0.4
+        },
+        {
+          "word": "bơ",
+          "start": 18.08,
+          "end": 18.26,
+          "probability": 0.44
+        },
+        {
+          "word": "bắt",
+          "start": 18.26,
+          "end": 18.46,
+          "probability": 0.45
+        },
+        {
+          "word": "kinh",
+          "start": 18.46,
+          "end": 18.68,
+          "probability": 0.63
+        },
+        {
+          "word": "đôi",
+          "start": 18.68,
+          "end": 18.88,
+          "probability": 0.79
+        },
+        {
+          "word": "là",
+          "start": 18.88,
+          "end": 19.24,
+          "probability": 0.4
+        },
+        {
+          "word": "1",
+          "start": 19.24,
+          "end": 19.42,
+          "probability": 0.13
+        },
+        {
+          "word": "trong",
+          "start": 19.42,
+          "end": 19.58,
+          "probability": 0.43
+        },
+        {
+          "word": "những",
+          "start": 19.58,
+          "end": 19.78,
+          "probability": 0.96
+        },
+        {
+          "word": "chuyện",
+          "start": 19.78,
+          "end": 20.12,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 20.12,
+      "end": 22.72,
+      "text": "chính trang đủ thì quý mặt lướng của thành phố của chimêng",
+      "words": [
+        {
+          "word": "chính",
+          "start": 20.12,
+          "end": 20.44,
+          "probability": 0.2
+        },
+        {
+          "word": "trang",
+          "start": 20.44,
+          "end": 20.5,
+          "probability": 0.42
+        },
+        {
+          "word": "đủ",
+          "start": 20.5,
+          "end": 20.68,
+          "probability": 0.64
+        },
+        {
+          "word": "thì",
+          "start": 20.68,
+          "end": 20.86,
+          "probability": 0.33
+        },
+        {
+          "word": "quý",
+          "start": 20.86,
+          "end": 21.04,
+          "probability": 0.44
+        },
+        {
+          "word": "mặt",
+          "start": 21.04,
+          "end": 21.22,
+          "probability": 0.16
+        },
+        {
+          "word": "lướng",
+          "start": 21.22,
+          "end": 21.48,
+          "probability": 0.63
+        },
+        {
+          "word": "của",
+          "start": 21.48,
+          "end": 21.66,
+          "probability": 0.91
+        },
+        {
+          "word": "thành",
+          "start": 21.66,
+          "end": 21.86,
+          "probability": 0.82
+        },
+        {
+          "word": "phố",
+          "start": 21.86,
+          "end": 22.0,
+          "probability": 0.91
+        },
+        {
+          "word": "của",
+          "start": 22.0,
+          "end": 22.18,
+          "probability": 0.61
+        },
+        {
+          "word": "chimêng",
+          "start": 22.18,
+          "end": 22.72,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 22.72,
+      "end": 25.2,
+      "text": "hối tổng mất lụp bệnh hàng và trân tế đồng.",
+      "words": [
+        {
+          "word": "hối",
+          "start": 22.72,
+          "end": 22.94,
+          "probability": 0.33
+        },
+        {
+          "word": "tổng",
+          "start": 22.94,
+          "end": 23.2,
+          "probability": 0.64
+        },
+        {
+          "word": "mất",
+          "start": 23.2,
+          "end": 23.24,
+          "probability": 0.29
+        },
+        {
+          "word": "lụp",
+          "start": 23.24,
+          "end": 23.64,
+          "probability": 0.4
+        },
+        {
+          "word": "bệnh",
+          "start": 23.64,
+          "end": 24.26,
+          "probability": 0.38
+        },
+        {
+          "word": "hàng",
+          "start": 24.26,
+          "end": 24.5,
+          "probability": 0.74
+        },
+        {
+          "word": "và",
+          "start": 24.5,
+          "end": 24.66,
+          "probability": 0.22
+        },
+        {
+          "word": "trân",
+          "start": 24.66,
+          "end": 24.8,
+          "probability": 0.5
+        },
+        {
+          "word": "tế",
+          "start": 24.8,
+          "end": 24.96,
+          "probability": 0.39
+        },
+        {
+          "word": "đồng.",
+          "start": 24.96,
+          "end": 25.2,
+          "probability": 0.53
+        }
+      ]
+    }
+  ]
+}

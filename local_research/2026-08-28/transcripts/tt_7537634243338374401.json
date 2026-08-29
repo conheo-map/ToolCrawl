@@ -1,0 +1,308 @@
+{
+  "item_id": "tt_7537634243338374401",
+  "duration_seconds": 23.42,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 43,
+  "text": "Một nộ mà bạn thấy sợ nhất Em sợ nhất một âm nhạc nhưng hợp thay thì em đã từ tình hơn Tại vì rồi xúc bọn nội sợp bọn nhạc nữa OK, sẽ em đã sối lần khi anh chẳng ngày nâu",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.32,
+      "text": "Một nộ mà bạn thấy sợ nhất",
+      "words": [
+        {
+          "word": "Một",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.18
+        },
+        {
+          "word": "nộ",
+          "start": 0.4,
+          "end": 0.8,
+          "probability": 0.09
+        },
+        {
+          "word": "mà",
+          "start": 0.8,
+          "end": 1.2,
+          "probability": 0.16
+        },
+        {
+          "word": "bạn",
+          "start": 1.2,
+          "end": 1.6,
+          "probability": 0.51
+        },
+        {
+          "word": "thấy",
+          "start": 1.6,
+          "end": 1.7,
+          "probability": 0.3
+        },
+        {
+          "word": "sợ",
+          "start": 1.7,
+          "end": 1.86,
+          "probability": 0.46
+        },
+        {
+          "word": "nhất",
+          "start": 1.86,
+          "end": 2.32,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.32,
+      "end": 5.56,
+      "text": "Em sợ nhất một âm nhạc nhưng hợp thay thì em đã từ tình hơn",
+      "words": [
+        {
+          "word": "Em",
+          "start": 2.32,
+          "end": 2.54,
+          "probability": 0.05
+        },
+        {
+          "word": "sợ",
+          "start": 2.54,
+          "end": 2.64,
+          "probability": 0.52
+        },
+        {
+          "word": "nhất",
+          "start": 2.64,
+          "end": 2.76,
+          "probability": 0.77
+        },
+        {
+          "word": "một",
+          "start": 2.76,
+          "end": 2.92,
+          "probability": 0.15
+        },
+        {
+          "word": "âm",
+          "start": 2.92,
+          "end": 3.08,
+          "probability": 0.75
+        },
+        {
+          "word": "nhạc",
+          "start": 3.08,
+          "end": 3.24,
+          "probability": 0.67
+        },
+        {
+          "word": "nhưng",
+          "start": 3.24,
+          "end": 3.5,
+          "probability": 0.22
+        },
+        {
+          "word": "hợp",
+          "start": 3.5,
+          "end": 3.94,
+          "probability": 0.38
+        },
+        {
+          "word": "thay",
+          "start": 3.94,
+          "end": 4.34,
+          "probability": 0.31
+        },
+        {
+          "word": "thì",
+          "start": 4.34,
+          "end": 4.56,
+          "probability": 0.79
+        },
+        {
+          "word": "em",
+          "start": 4.56,
+          "end": 4.8,
+          "probability": 0.76
+        },
+        {
+          "word": "đã",
+          "start": 4.8,
+          "end": 5.04,
+          "probability": 0.92
+        },
+        {
+          "word": "từ",
+          "start": 5.04,
+          "end": 5.2,
+          "probability": 0.54
+        },
+        {
+          "word": "tình",
+          "start": 5.2,
+          "end": 5.38,
+          "probability": 0.25
+        },
+        {
+          "word": "hơn",
+          "start": 5.38,
+          "end": 5.56,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.56,
+      "end": 8.28,
+      "text": "Tại vì rồi xúc bọn nội sợp bọn nhạc nữa",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 5.56,
+          "end": 6.14,
+          "probability": 0.08
+        },
+        {
+          "word": "vì",
+          "start": 6.14,
+          "end": 6.14,
+          "probability": 0.41
+        },
+        {
+          "word": "rồi",
+          "start": 6.14,
+          "end": 6.66,
+          "probability": 0.06
+        },
+        {
+          "word": "xúc",
+          "start": 6.66,
+          "end": 6.82,
+          "probability": 0.11
+        },
+        {
+          "word": "bọn",
+          "start": 6.82,
+          "end": 6.94,
+          "probability": 0.25
+        },
+        {
+          "word": "nội",
+          "start": 6.94,
+          "end": 7.16,
+          "probability": 0.1
+        },
+        {
+          "word": "sợp",
+          "start": 7.16,
+          "end": 7.32,
+          "probability": 0.63
+        },
+        {
+          "word": "bọn",
+          "start": 7.32,
+          "end": 7.42,
+          "probability": 0.2
+        },
+        {
+          "word": "nhạc",
+          "start": 7.42,
+          "end": 7.7,
+          "probability": 0.91
+        },
+        {
+          "word": "nữa",
+          "start": 7.7,
+          "end": 8.28,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.28,
+      "end": 10.28,
+      "text": "OK, sẽ em đã sối lần",
+      "words": [
+        {
+          "word": "OK,",
+          "start": 8.28,
+          "end": 8.64,
+          "probability": 0.13
+        },
+        {
+          "word": "sẽ",
+          "start": 8.76,
+          "end": 8.88,
+          "probability": 0.5
+        },
+        {
+          "word": "em",
+          "start": 8.88,
+          "end": 9.12,
+          "probability": 0.72
+        },
+        {
+          "word": "đã",
+          "start": 9.12,
+          "end": 9.44,
+          "probability": 0.15
+        },
+        {
+          "word": "sối",
+          "start": 9.44,
+          "end": 9.64,
+          "probability": 0.31
+        },
+        {
+          "word": "lần",
+          "start": 9.64,
+          "end": 10.28,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 10.28,
+      "end": 12.1,
+      "text": "khi anh chẳng ngày nâu",
+      "words": [
+        {
+          "word": "khi",
+          "start": 10.28,
+          "end": 10.58,
+          "probability": 0.7
+        },
+        {
+          "word": "anh",
+          "start": 10.58,
+          "end": 11.0,
+          "probability": 0.55
+        },
+        {
+          "word": "chẳng",
+          "start": 11.0,
+          "end": 11.44,
+          "probability": 0.88
+        },
+        {
+          "word": "ngày",
+          "start": 11.44,
+          "end": 11.78,
+          "probability": 0.28
+        },
+        {
+          "word": "nâu",
+          "start": 11.78,
+          "end": 12.1,
+          "probability": 0.17
+        }
+      ]
+    }
+  ]
+}

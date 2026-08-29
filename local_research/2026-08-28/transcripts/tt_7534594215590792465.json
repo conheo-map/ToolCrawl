@@ -1,0 +1,112 @@
+{
+  "item_id": "tt_7534594215590792465",
+  "duration_seconds": 28.7,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 13,
+  "text": "Mình sẽ chí dấu này Mưa ra ông nơi đâu cơ chua Vào",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.26,
+      "text": "Mình sẽ chí dấu này",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.07
+        },
+        {
+          "word": "sẽ",
+          "start": 0.36,
+          "end": 0.38,
+          "probability": 0.18
+        },
+        {
+          "word": "chí",
+          "start": 0.38,
+          "end": 0.54,
+          "probability": 0.11
+        },
+        {
+          "word": "dấu",
+          "start": 0.54,
+          "end": 1.32,
+          "probability": 0.17
+        },
+        {
+          "word": "này",
+          "start": 1.32,
+          "end": 2.26,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.94,
+      "end": 5.98,
+      "text": "Mưa ra ông nơi đâu cơ chua",
+      "words": [
+        {
+          "word": "Mưa",
+          "start": 2.94,
+          "end": 3.36,
+          "probability": 0.26
+        },
+        {
+          "word": "ra",
+          "start": 3.36,
+          "end": 3.6,
+          "probability": 0.3
+        },
+        {
+          "word": "ông",
+          "start": 3.6,
+          "end": 3.86,
+          "probability": 0.24
+        },
+        {
+          "word": "nơi",
+          "start": 3.86,
+          "end": 4.14,
+          "probability": 0.26
+        },
+        {
+          "word": "đâu",
+          "start": 4.14,
+          "end": 4.56,
+          "probability": 0.47
+        },
+        {
+          "word": "cơ",
+          "start": 4.56,
+          "end": 5.04,
+          "probability": 0.36
+        },
+        {
+          "word": "chua",
+          "start": 5.04,
+          "end": 5.98,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.98,
+      "end": 6.92,
+      "text": "Vào",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 5.98,
+          "end": 6.92,
+          "probability": 0.29
+        }
+      ]
+    }
+  ]
+}

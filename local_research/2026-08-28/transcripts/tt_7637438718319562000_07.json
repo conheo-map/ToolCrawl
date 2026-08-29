@@ -1,0 +1,90 @@
+{
+  "item_id": "tt_7637438718319562000_07",
+  "duration_seconds": 6.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "Cào nhớc là bá viê vôm 10 bá viê xong đồ xe.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Cào nhớc là bá viê vôm 10 bá viê xong đồ xe.",
+      "words": [
+        {
+          "word": "Cào",
+          "start": 0.0,
+          "end": 0.38,
+          "probability": 0.29
+        },
+        {
+          "word": "nhớc",
+          "start": 0.38,
+          "end": 0.82,
+          "probability": 0.34
+        },
+        {
+          "word": "là",
+          "start": 0.82,
+          "end": 0.84,
+          "probability": 0.43
+        },
+        {
+          "word": "bá",
+          "start": 0.84,
+          "end": 1.04,
+          "probability": 0.3
+        },
+        {
+          "word": "viê",
+          "start": 1.04,
+          "end": 1.2,
+          "probability": 0.12
+        },
+        {
+          "word": "vôm",
+          "start": 1.2,
+          "end": 1.42,
+          "probability": 0.44
+        },
+        {
+          "word": "10",
+          "start": 1.42,
+          "end": 1.58,
+          "probability": 0.42
+        },
+        {
+          "word": "bá",
+          "start": 1.58,
+          "end": 1.78,
+          "probability": 0.55
+        },
+        {
+          "word": "viê",
+          "start": 1.78,
+          "end": 1.94,
+          "probability": 0.5
+        },
+        {
+          "word": "xong",
+          "start": 1.94,
+          "end": 2.06,
+          "probability": 0.23
+        },
+        {
+          "word": "đồ",
+          "start": 2.06,
+          "end": 2.3,
+          "probability": 0.3
+        },
+        {
+          "word": "xe.",
+          "start": 2.3,
+          "end": 2.6,
+          "probability": 0.43
+        }
+      ]
+    }
+  ]
+}

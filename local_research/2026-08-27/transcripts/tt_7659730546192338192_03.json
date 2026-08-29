@@ -1,0 +1,228 @@
+{
+  "item_id": "tt_7659730546192338192_03",
+  "duration_seconds": 10.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 31,
+  "text": "và điện miếng quay được sất bạn. A phòng đã có phần ghiều lỗi sạm của mình và thành phố Tẹp của Nà cho nên ngủ tiếng Chim Bao Ghi rồi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.86,
+      "text": "và điện miếng quay được sất bạn.",
+      "words": [
+        {
+          "word": "và",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.05
+        },
+        {
+          "word": "điện",
+          "start": 0.14,
+          "end": 0.56,
+          "probability": 0.17
+        },
+        {
+          "word": "miếng",
+          "start": 0.56,
+          "end": 0.76,
+          "probability": 0.46
+        },
+        {
+          "word": "quay",
+          "start": 0.76,
+          "end": 1.0,
+          "probability": 0.32
+        },
+        {
+          "word": "được",
+          "start": 1.0,
+          "end": 1.24,
+          "probability": 0.51
+        },
+        {
+          "word": "sất",
+          "start": 1.24,
+          "end": 1.44,
+          "probability": 0.2
+        },
+        {
+          "word": "bạn.",
+          "start": 1.44,
+          "end": 1.86,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.18,
+      "end": 4.38,
+      "text": "A phòng đã có phần ghiều lỗi sạm của mình",
+      "words": [
+        {
+          "word": "A",
+          "start": 2.18,
+          "end": 2.28,
+          "probability": 0.27
+        },
+        {
+          "word": "phòng",
+          "start": 2.28,
+          "end": 2.46,
+          "probability": 0.67
+        },
+        {
+          "word": "đã",
+          "start": 2.46,
+          "end": 2.76,
+          "probability": 0.43
+        },
+        {
+          "word": "có",
+          "start": 2.76,
+          "end": 2.84,
+          "probability": 0.25
+        },
+        {
+          "word": "phần",
+          "start": 2.84,
+          "end": 3.18,
+          "probability": 0.65
+        },
+        {
+          "word": "ghiều",
+          "start": 3.18,
+          "end": 3.36,
+          "probability": 0.16
+        },
+        {
+          "word": "lỗi",
+          "start": 3.36,
+          "end": 3.64,
+          "probability": 0.5
+        },
+        {
+          "word": "sạm",
+          "start": 3.64,
+          "end": 3.92,
+          "probability": 0.55
+        },
+        {
+          "word": "của",
+          "start": 3.92,
+          "end": 4.06,
+          "probability": 0.33
+        },
+        {
+          "word": "mình",
+          "start": 4.06,
+          "end": 4.38,
+          "probability": 0.88
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.38,
+      "end": 5.8,
+      "text": "và thành phố Tẹp của Nà",
+      "words": [
+        {
+          "word": "và",
+          "start": 4.38,
+          "end": 4.66,
+          "probability": 0.69
+        },
+        {
+          "word": "thành",
+          "start": 4.66,
+          "end": 4.82,
+          "probability": 0.63
+        },
+        {
+          "word": "phố",
+          "start": 4.82,
+          "end": 5.02,
+          "probability": 0.92
+        },
+        {
+          "word": "Tẹp",
+          "start": 5.02,
+          "end": 5.26,
+          "probability": 0.24
+        },
+        {
+          "word": "của",
+          "start": 5.26,
+          "end": 5.38,
+          "probability": 0.13
+        },
+        {
+          "word": "Nà",
+          "start": 5.38,
+          "end": 5.8,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.8,
+      "end": 7.3,
+      "text": "cho nên ngủ tiếng Chim Bao Ghi rồi.",
+      "words": [
+        {
+          "word": "cho",
+          "start": 5.8,
+          "end": 6.02,
+          "probability": 0.06
+        },
+        {
+          "word": "nên",
+          "start": 6.02,
+          "end": 6.18,
+          "probability": 0.98
+        },
+        {
+          "word": "ngủ",
+          "start": 6.18,
+          "end": 6.4,
+          "probability": 0.5
+        },
+        {
+          "word": "tiếng",
+          "start": 6.4,
+          "end": 6.6,
+          "probability": 0.66
+        },
+        {
+          "word": "Chim",
+          "start": 6.6,
+          "end": 6.82,
+          "probability": 0.24
+        },
+        {
+          "word": "Bao",
+          "start": 6.82,
+          "end": 7.12,
+          "probability": 0.15
+        },
+        {
+          "word": "Ghi",
+          "start": 7.12,
+          "end": 7.22,
+          "probability": 0.17
+        },
+        {
+          "word": "rồi.",
+          "start": 7.22,
+          "end": 7.3,
+          "probability": 0.27
+        }
+      ]
+    }
+  ]
+}

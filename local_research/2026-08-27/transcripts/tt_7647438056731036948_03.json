@@ -1,0 +1,336 @@
+{
+  "item_id": "tt_7647438056731036948_03",
+  "duration_seconds": 17.9,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 41,
+  "text": "Mình mấy sự phó Mình dân đau Mình đau nó có thể xong rồi Mình không hãy đẹp đẹp đẹp Đó là tháng 3 đẹp Cô dạ Cái gì? Cái gì? Mình dọng không hãy đẹp Hãy có một bún hát",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.06,
+      "text": "Mình mấy sự phó",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 0.0,
+          "end": 0.62,
+          "probability": 0.14
+        },
+        {
+          "word": "mấy",
+          "start": 0.62,
+          "end": 2.46,
+          "probability": 0.24
+        },
+        {
+          "word": "sự",
+          "start": 2.46,
+          "end": 2.7,
+          "probability": 0.14
+        },
+        {
+          "word": "phó",
+          "start": 2.7,
+          "end": 3.06,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.06,
+      "end": 4.92,
+      "text": "Mình dân đau",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 3.06,
+          "end": 3.5,
+          "probability": 0.41
+        },
+        {
+          "word": "dân",
+          "start": 3.5,
+          "end": 3.7,
+          "probability": 0.2
+        },
+        {
+          "word": "đau",
+          "start": 3.7,
+          "end": 4.92,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.92,
+      "end": 6.74,
+      "text": "Mình đau nó có thể xong rồi",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 4.92,
+          "end": 5.22,
+          "probability": 0.46
+        },
+        {
+          "word": "đau",
+          "start": 5.22,
+          "end": 5.52,
+          "probability": 0.28
+        },
+        {
+          "word": "nó",
+          "start": 5.52,
+          "end": 5.72,
+          "probability": 0.08
+        },
+        {
+          "word": "có",
+          "start": 5.72,
+          "end": 6.34,
+          "probability": 0.05
+        },
+        {
+          "word": "thể",
+          "start": 6.34,
+          "end": 6.34,
+          "probability": 0.05
+        },
+        {
+          "word": "xong",
+          "start": 6.34,
+          "end": 6.6,
+          "probability": 0.54
+        },
+        {
+          "word": "rồi",
+          "start": 6.6,
+          "end": 6.74,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.74,
+      "end": 8.5,
+      "text": "Mình không hãy đẹp đẹp đẹp",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 6.74,
+          "end": 7.24,
+          "probability": 0.42
+        },
+        {
+          "word": "không",
+          "start": 7.24,
+          "end": 7.66,
+          "probability": 0.07
+        },
+        {
+          "word": "hãy",
+          "start": 7.66,
+          "end": 7.86,
+          "probability": 0.24
+        },
+        {
+          "word": "đẹp",
+          "start": 7.86,
+          "end": 8.1,
+          "probability": 0.79
+        },
+        {
+          "word": "đẹp",
+          "start": 8.1,
+          "end": 8.24,
+          "probability": 0.77
+        },
+        {
+          "word": "đẹp",
+          "start": 8.24,
+          "end": 8.5,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.5,
+      "end": 10.62,
+      "text": "Đó là tháng 3 đẹp",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 8.5,
+          "end": 8.82,
+          "probability": 0.09
+        },
+        {
+          "word": "là",
+          "start": 8.82,
+          "end": 8.82,
+          "probability": 0.04
+        },
+        {
+          "word": "tháng",
+          "start": 8.82,
+          "end": 9.28,
+          "probability": 0.03
+        },
+        {
+          "word": "3",
+          "start": 9.28,
+          "end": 9.84,
+          "probability": 0.07
+        },
+        {
+          "word": "đẹp",
+          "start": 9.84,
+          "end": 10.62,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.62,
+      "end": 11.18,
+      "text": "Cô dạ",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 10.62,
+          "end": 10.82,
+          "probability": 0.1
+        },
+        {
+          "word": "dạ",
+          "start": 10.82,
+          "end": 11.18,
+          "probability": 0.09
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 11.18,
+      "end": 11.9,
+      "text": "Cái gì?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 11.18,
+          "end": 11.74,
+          "probability": 0.09
+        },
+        {
+          "word": "gì?",
+          "start": 11.74,
+          "end": 11.9,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 11.9,
+      "end": 12.22,
+      "text": "Cái gì?",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 11.9,
+          "end": 12.04,
+          "probability": 0.39
+        },
+        {
+          "word": "gì?",
+          "start": 12.04,
+          "end": 12.22,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 13.42,
+      "end": 15.54,
+      "text": "Mình dọng không hãy đẹp",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 13.42,
+          "end": 13.42,
+          "probability": 0.49
+        },
+        {
+          "word": "dọng",
+          "start": 13.42,
+          "end": 13.42,
+          "probability": 0.24
+        },
+        {
+          "word": "không",
+          "start": 13.42,
+          "end": 13.62,
+          "probability": 0.03
+        },
+        {
+          "word": "hãy",
+          "start": 13.62,
+          "end": 15.1,
+          "probability": 0.18
+        },
+        {
+          "word": "đẹp",
+          "start": 15.1,
+          "end": 15.54,
+          "probability": 0.71
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 15.54,
+      "end": 17.88,
+      "text": "Hãy có một bún hát",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 15.54,
+          "end": 15.72,
+          "probability": 0.2
+        },
+        {
+          "word": "có",
+          "start": 15.72,
+          "end": 15.72,
+          "probability": 0.05
+        },
+        {
+          "word": "một",
+          "start": 15.72,
+          "end": 17.34,
+          "probability": 0.19
+        },
+        {
+          "word": "bún",
+          "start": 17.34,
+          "end": 17.62,
+          "probability": 0.22
+        },
+        {
+          "word": "hát",
+          "start": 17.62,
+          "end": 17.88,
+          "probability": 0.18
+        }
+      ]
+    }
+  ]
+}

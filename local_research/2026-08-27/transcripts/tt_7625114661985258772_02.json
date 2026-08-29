@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7625114661985258772_02",
+  "duration_seconds": 19.4,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Bà, bà, bà, bà, bà, bà.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Bà, bà, bà, bà, bà, bà.",
+      "words": [
+        {
+          "word": "Bà,",
+          "start": 0.0,
+          "end": 0.88,
+          "probability": 0.04
+        },
+        {
+          "word": "bà,",
+          "start": 0.88,
+          "end": 0.88,
+          "probability": 0.48
+        },
+        {
+          "word": "bà,",
+          "start": 0.88,
+          "end": 0.88,
+          "probability": 0.97
+        },
+        {
+          "word": "bà,",
+          "start": 0.88,
+          "end": 0.88,
+          "probability": 0.98
+        },
+        {
+          "word": "bà,",
+          "start": 0.88,
+          "end": 0.88,
+          "probability": 0.98
+        },
+        {
+          "word": "bà.",
+          "start": 0.88,
+          "end": 0.88,
+          "probability": 0.99
+        }
+      ]
+    }
+  ]
+}

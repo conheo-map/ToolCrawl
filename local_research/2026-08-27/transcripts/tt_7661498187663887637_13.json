@@ -1,0 +1,270 @@
+{
+  "item_id": "tt_7661498187663887637_13",
+  "duration_seconds": 29.77,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 33,
+  "text": "Vào năm yên vọng, vùng chút. Mọi người sẽ nhỏ hấp dẫn, uno không có 1 xa hấp dẫn. Thở giúp dont tính như thế. Hấp dẫn,防 tính như thế. Nó không dứt.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.43,
+      "end": 2.43,
+      "text": "Vào năm yên vọng, vùng chút.",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 0.43,
+          "end": 0.55,
+          "probability": 0.11
+        },
+        {
+          "word": "năm",
+          "start": 0.55,
+          "end": 0.99,
+          "probability": 0.0
+        },
+        {
+          "word": "yên",
+          "start": 0.99,
+          "end": 1.05,
+          "probability": 0.37
+        },
+        {
+          "word": "vọng,",
+          "start": 1.05,
+          "end": 1.53,
+          "probability": 0.22
+        },
+        {
+          "word": "vùng",
+          "start": 2.13,
+          "end": 2.43,
+          "probability": 0.03
+        },
+        {
+          "word": "chút.",
+          "start": 2.43,
+          "end": 2.43,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.43,
+      "end": 3.53,
+      "text": "Mọi người sẽ nhỏ hấp dẫn,",
+      "words": [
+        {
+          "word": "Mọi",
+          "start": 2.43,
+          "end": 2.71,
+          "probability": 0.06
+        },
+        {
+          "word": "người",
+          "start": 2.71,
+          "end": 2.71,
+          "probability": 0.59
+        },
+        {
+          "word": "sẽ",
+          "start": 2.71,
+          "end": 2.71,
+          "probability": 0.1
+        },
+        {
+          "word": "nhỏ",
+          "start": 2.71,
+          "end": 3.53,
+          "probability": 0.07
+        },
+        {
+          "word": "hấp",
+          "start": 3.53,
+          "end": 3.53,
+          "probability": 0.04
+        },
+        {
+          "word": "dẫn,",
+          "start": 3.53,
+          "end": 3.53,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.53,
+      "end": 4.29,
+      "text": "uno không có 1 xa",
+      "words": [
+        {
+          "word": "uno",
+          "start": 3.53,
+          "end": 3.79,
+          "probability": 0.0
+        },
+        {
+          "word": "không",
+          "start": 3.79,
+          "end": 3.79,
+          "probability": 0.07
+        },
+        {
+          "word": "có",
+          "start": 3.79,
+          "end": 3.79,
+          "probability": 0.08
+        },
+        {
+          "word": "1",
+          "start": 3.79,
+          "end": 3.79,
+          "probability": 0.0
+        },
+        {
+          "word": "xa",
+          "start": 3.79,
+          "end": 4.29,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.29,
+      "end": 4.43,
+      "text": "hấp dẫn.",
+      "words": [
+        {
+          "word": "hấp",
+          "start": 4.29,
+          "end": 4.43,
+          "probability": 0.23
+        },
+        {
+          "word": "dẫn.",
+          "start": 4.43,
+          "end": 4.43,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.17,
+      "end": 25.18,
+      "text": "Thở giúp dont tính như thế.",
+      "words": [
+        {
+          "word": "Thở",
+          "start": 9.17,
+          "end": 9.75,
+          "probability": 0.01
+        },
+        {
+          "word": "giúp",
+          "start": 9.75,
+          "end": 9.75,
+          "probability": 0.03
+        },
+        {
+          "word": "dont",
+          "start": 9.75,
+          "end": 11.75,
+          "probability": 0.0
+        },
+        {
+          "word": "tính",
+          "start": 18.25,
+          "end": 18.53,
+          "probability": 0.11
+        },
+        {
+          "word": "như",
+          "start": 18.53,
+          "end": 18.65,
+          "probability": 0.05
+        },
+        {
+          "word": "thế.",
+          "start": 23.8,
+          "end": 25.18,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 28.92,
+      "end": 29.1,
+      "text": "Hấp dẫn,防 tính như thế.",
+      "words": [
+        {
+          "word": "Hấp",
+          "start": 28.92,
+          "end": 29.1,
+          "probability": 0.05
+        },
+        {
+          "word": "dẫn",
+          "start": 29.1,
+          "end": 29.1,
+          "probability": 0.96
+        },
+        {
+          "word": ",防",
+          "start": 29.1,
+          "end": 29.1,
+          "probability": 0.05
+        },
+        {
+          "word": "tính",
+          "start": 29.1,
+          "end": 29.1,
+          "probability": 0.4
+        },
+        {
+          "word": "như",
+          "start": 29.1,
+          "end": 29.1,
+          "probability": 0.97
+        },
+        {
+          "word": "thế.",
+          "start": 29.1,
+          "end": 29.1,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 29.1,
+      "end": 29.4,
+      "text": "Nó không dứt.",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 29.1,
+          "end": 29.1,
+          "probability": 0.16
+        },
+        {
+          "word": "không",
+          "start": 29.1,
+          "end": 29.22,
+          "probability": 0.84
+        },
+        {
+          "word": "dứt.",
+          "start": 29.22,
+          "end": 29.4,
+          "probability": 0.41
+        }
+      ]
+    }
+  ]
+}

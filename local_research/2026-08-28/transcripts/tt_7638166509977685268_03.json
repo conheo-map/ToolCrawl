@@ -1,0 +1,78 @@
+{
+  "item_id": "tt_7638166509977685268_03",
+  "duration_seconds": 8.5,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 10,
+  "text": "Nói có thể làm tỏng như được dưới thế nào?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.02,
+      "text": "Nói có thể làm tỏng như được dưới thế nào?",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.21
+        },
+        {
+          "word": "có",
+          "start": 0.36,
+          "end": 0.46,
+          "probability": 0.19
+        },
+        {
+          "word": "thể",
+          "start": 0.46,
+          "end": 0.62,
+          "probability": 0.78
+        },
+        {
+          "word": "làm",
+          "start": 0.62,
+          "end": 0.82,
+          "probability": 0.13
+        },
+        {
+          "word": "tỏng",
+          "start": 0.82,
+          "end": 1.14,
+          "probability": 0.33
+        },
+        {
+          "word": "như",
+          "start": 1.14,
+          "end": 1.2,
+          "probability": 0.1
+        },
+        {
+          "word": "được",
+          "start": 1.2,
+          "end": 1.36,
+          "probability": 0.22
+        },
+        {
+          "word": "dưới",
+          "start": 1.36,
+          "end": 1.54,
+          "probability": 0.37
+        },
+        {
+          "word": "thế",
+          "start": 1.54,
+          "end": 1.7,
+          "probability": 0.16
+        },
+        {
+          "word": "nào?",
+          "start": 1.7,
+          "end": 2.02,
+          "probability": 0.75
+        }
+      ]
+    }
+  ]
+}

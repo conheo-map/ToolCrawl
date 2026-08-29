@@ -1,0 +1,656 @@
+{
+  "item_id": "tt_7640892714023767303_03",
+  "duration_seconds": 23.44,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 97,
+  "text": "đã cảm ơn chính phủ này dài về nhà, về sự khắp tác trong chính nghiệp này. Nhưng người nên dài về nhà ủng hồ chính nghiệp này. Đối với tôi, tôi muốn có nhiều cuộc tính công như vậy nữa, vì chúng ta cứ nói chính đúng trong này trưởng nghỉ của mốt, mà không thực sự chính đúng chúng của mốt gì cả. Vấn đề của mốt đã trở thành một phấn đề khác, nếu Mỹ có thể giúp chúng ta loại bỏ cất cả những thứ này, tôi thấy không có gì sấu cả.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.98,
+      "text": "đã cảm ơn chính phủ này dài về nhà, về sự khắp tác trong chính nghiệp này.",
+      "words": [
+        {
+          "word": "đã",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.54
+        },
+        {
+          "word": "cảm",
+          "start": 0.42,
+          "end": 0.6,
+          "probability": 0.42
+        },
+        {
+          "word": "ơn",
+          "start": 0.6,
+          "end": 0.74,
+          "probability": 0.57
+        },
+        {
+          "word": "chính",
+          "start": 0.74,
+          "end": 0.98,
+          "probability": 0.51
+        },
+        {
+          "word": "phủ",
+          "start": 0.98,
+          "end": 1.18,
+          "probability": 0.88
+        },
+        {
+          "word": "này",
+          "start": 1.18,
+          "end": 1.42,
+          "probability": 0.28
+        },
+        {
+          "word": "dài",
+          "start": 1.42,
+          "end": 1.6,
+          "probability": 0.13
+        },
+        {
+          "word": "về",
+          "start": 1.6,
+          "end": 1.72,
+          "probability": 0.18
+        },
+        {
+          "word": "nhà,",
+          "start": 1.72,
+          "end": 2.06,
+          "probability": 0.12
+        },
+        {
+          "word": "về",
+          "start": 2.16,
+          "end": 2.2,
+          "probability": 0.41
+        },
+        {
+          "word": "sự",
+          "start": 2.2,
+          "end": 2.34,
+          "probability": 0.76
+        },
+        {
+          "word": "khắp",
+          "start": 2.34,
+          "end": 2.56,
+          "probability": 0.65
+        },
+        {
+          "word": "tác",
+          "start": 2.56,
+          "end": 2.82,
+          "probability": 0.93
+        },
+        {
+          "word": "trong",
+          "start": 2.82,
+          "end": 3.02,
+          "probability": 0.53
+        },
+        {
+          "word": "chính",
+          "start": 3.02,
+          "end": 3.26,
+          "probability": 0.47
+        },
+        {
+          "word": "nghiệp",
+          "start": 3.26,
+          "end": 3.4,
+          "probability": 0.7
+        },
+        {
+          "word": "này.",
+          "start": 3.4,
+          "end": 3.98,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.46,
+      "end": 6.76,
+      "text": "Nhưng người nên dài về nhà ủng hồ chính nghiệp này.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 4.46,
+          "end": 4.56,
+          "probability": 0.45
+        },
+        {
+          "word": "người",
+          "start": 4.56,
+          "end": 4.8,
+          "probability": 0.45
+        },
+        {
+          "word": "nên",
+          "start": 4.8,
+          "end": 4.9,
+          "probability": 0.13
+        },
+        {
+          "word": "dài",
+          "start": 4.9,
+          "end": 5.06,
+          "probability": 0.83
+        },
+        {
+          "word": "về",
+          "start": 5.06,
+          "end": 5.18,
+          "probability": 0.88
+        },
+        {
+          "word": "nhà",
+          "start": 5.18,
+          "end": 5.32,
+          "probability": 0.93
+        },
+        {
+          "word": "ủng",
+          "start": 5.32,
+          "end": 5.54,
+          "probability": 0.71
+        },
+        {
+          "word": "hồ",
+          "start": 5.54,
+          "end": 5.74,
+          "probability": 0.59
+        },
+        {
+          "word": "chính",
+          "start": 5.74,
+          "end": 5.94,
+          "probability": 0.89
+        },
+        {
+          "word": "nghiệp",
+          "start": 5.94,
+          "end": 6.12,
+          "probability": 0.99
+        },
+        {
+          "word": "này.",
+          "start": 6.12,
+          "end": 6.76,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.12,
+      "end": 9.94,
+      "text": "Đối với tôi, tôi muốn có nhiều cuộc tính công như vậy nữa,",
+      "words": [
+        {
+          "word": "Đối",
+          "start": 7.12,
+          "end": 7.28,
+          "probability": 0.58
+        },
+        {
+          "word": "với",
+          "start": 7.28,
+          "end": 7.42,
+          "probability": 0.7
+        },
+        {
+          "word": "tôi,",
+          "start": 7.42,
+          "end": 7.74,
+          "probability": 0.93
+        },
+        {
+          "word": "tôi",
+          "start": 7.86,
+          "end": 8.02,
+          "probability": 0.58
+        },
+        {
+          "word": "muốn",
+          "start": 8.02,
+          "end": 8.2,
+          "probability": 0.97
+        },
+        {
+          "word": "có",
+          "start": 8.2,
+          "end": 8.38,
+          "probability": 0.92
+        },
+        {
+          "word": "nhiều",
+          "start": 8.38,
+          "end": 8.58,
+          "probability": 0.95
+        },
+        {
+          "word": "cuộc",
+          "start": 8.58,
+          "end": 8.82,
+          "probability": 0.85
+        },
+        {
+          "word": "tính",
+          "start": 8.82,
+          "end": 9.0,
+          "probability": 0.61
+        },
+        {
+          "word": "công",
+          "start": 9.0,
+          "end": 9.24,
+          "probability": 0.82
+        },
+        {
+          "word": "như",
+          "start": 9.24,
+          "end": 9.38,
+          "probability": 0.7
+        },
+        {
+          "word": "vậy",
+          "start": 9.38,
+          "end": 9.52,
+          "probability": 0.91
+        },
+        {
+          "word": "nữa,",
+          "start": 9.52,
+          "end": 9.94,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.14,
+      "end": 12.74,
+      "text": "vì chúng ta cứ nói chính đúng trong này trưởng nghỉ của mốt,",
+      "words": [
+        {
+          "word": "vì",
+          "start": 10.14,
+          "end": 10.3,
+          "probability": 0.89
+        },
+        {
+          "word": "chúng",
+          "start": 10.3,
+          "end": 10.48,
+          "probability": 0.94
+        },
+        {
+          "word": "ta",
+          "start": 10.48,
+          "end": 10.7,
+          "probability": 0.98
+        },
+        {
+          "word": "cứ",
+          "start": 10.7,
+          "end": 10.86,
+          "probability": 0.1
+        },
+        {
+          "word": "nói",
+          "start": 10.86,
+          "end": 11.04,
+          "probability": 0.98
+        },
+        {
+          "word": "chính",
+          "start": 11.04,
+          "end": 11.24,
+          "probability": 0.93
+        },
+        {
+          "word": "đúng",
+          "start": 11.24,
+          "end": 11.42,
+          "probability": 0.42
+        },
+        {
+          "word": "trong",
+          "start": 11.42,
+          "end": 11.74,
+          "probability": 0.2
+        },
+        {
+          "word": "này",
+          "start": 11.74,
+          "end": 11.96,
+          "probability": 0.22
+        },
+        {
+          "word": "trưởng",
+          "start": 11.96,
+          "end": 12.08,
+          "probability": 0.18
+        },
+        {
+          "word": "nghỉ",
+          "start": 12.08,
+          "end": 12.24,
+          "probability": 0.24
+        },
+        {
+          "word": "của",
+          "start": 12.24,
+          "end": 12.38,
+          "probability": 0.29
+        },
+        {
+          "word": "mốt,",
+          "start": 12.38,
+          "end": 12.74,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.92,
+      "end": 15.26,
+      "text": "mà không thực sự chính đúng chúng của mốt gì cả.",
+      "words": [
+        {
+          "word": "mà",
+          "start": 12.92,
+          "end": 13.12,
+          "probability": 0.88
+        },
+        {
+          "word": "không",
+          "start": 13.12,
+          "end": 13.32,
+          "probability": 0.98
+        },
+        {
+          "word": "thực",
+          "start": 13.32,
+          "end": 13.5,
+          "probability": 0.79
+        },
+        {
+          "word": "sự",
+          "start": 13.5,
+          "end": 13.62,
+          "probability": 0.99
+        },
+        {
+          "word": "chính",
+          "start": 13.62,
+          "end": 13.84,
+          "probability": 0.71
+        },
+        {
+          "word": "đúng",
+          "start": 13.84,
+          "end": 13.96,
+          "probability": 0.97
+        },
+        {
+          "word": "chúng",
+          "start": 13.96,
+          "end": 14.26,
+          "probability": 0.64
+        },
+        {
+          "word": "của",
+          "start": 14.26,
+          "end": 14.5,
+          "probability": 0.13
+        },
+        {
+          "word": "mốt",
+          "start": 14.5,
+          "end": 14.74,
+          "probability": 0.65
+        },
+        {
+          "word": "gì",
+          "start": 14.74,
+          "end": 14.94,
+          "probability": 0.29
+        },
+        {
+          "word": "cả.",
+          "start": 14.94,
+          "end": 15.26,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.82,
+      "end": 18.04,
+      "text": "Vấn đề của mốt đã trở thành một phấn đề khác,",
+      "words": [
+        {
+          "word": "Vấn",
+          "start": 15.82,
+          "end": 15.96,
+          "probability": 0.62
+        },
+        {
+          "word": "đề",
+          "start": 15.96,
+          "end": 16.14,
+          "probability": 0.85
+        },
+        {
+          "word": "của",
+          "start": 16.14,
+          "end": 16.28,
+          "probability": 0.93
+        },
+        {
+          "word": "mốt",
+          "start": 16.28,
+          "end": 16.5,
+          "probability": 0.91
+        },
+        {
+          "word": "đã",
+          "start": 16.5,
+          "end": 16.72,
+          "probability": 0.81
+        },
+        {
+          "word": "trở",
+          "start": 16.72,
+          "end": 16.8,
+          "probability": 0.69
+        },
+        {
+          "word": "thành",
+          "start": 16.8,
+          "end": 17.02,
+          "probability": 1.0
+        },
+        {
+          "word": "một",
+          "start": 17.02,
+          "end": 17.2,
+          "probability": 0.92
+        },
+        {
+          "word": "phấn",
+          "start": 17.2,
+          "end": 17.4,
+          "probability": 0.58
+        },
+        {
+          "word": "đề",
+          "start": 17.4,
+          "end": 17.58,
+          "probability": 0.91
+        },
+        {
+          "word": "khác,",
+          "start": 17.58,
+          "end": 18.04,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.26,
+      "end": 20.98,
+      "text": "nếu Mỹ có thể giúp chúng ta loại bỏ cất cả những thứ này,",
+      "words": [
+        {
+          "word": "nếu",
+          "start": 18.26,
+          "end": 18.42,
+          "probability": 0.79
+        },
+        {
+          "word": "Mỹ",
+          "start": 18.42,
+          "end": 18.62,
+          "probability": 0.72
+        },
+        {
+          "word": "có",
+          "start": 18.62,
+          "end": 18.76,
+          "probability": 0.95
+        },
+        {
+          "word": "thể",
+          "start": 18.76,
+          "end": 18.88,
+          "probability": 0.99
+        },
+        {
+          "word": "giúp",
+          "start": 18.88,
+          "end": 19.08,
+          "probability": 0.8
+        },
+        {
+          "word": "chúng",
+          "start": 19.08,
+          "end": 19.34,
+          "probability": 0.96
+        },
+        {
+          "word": "ta",
+          "start": 19.34,
+          "end": 19.46,
+          "probability": 1.0
+        },
+        {
+          "word": "loại",
+          "start": 19.46,
+          "end": 19.66,
+          "probability": 0.49
+        },
+        {
+          "word": "bỏ",
+          "start": 19.66,
+          "end": 19.86,
+          "probability": 0.59
+        },
+        {
+          "word": "cất",
+          "start": 19.86,
+          "end": 20.06,
+          "probability": 0.28
+        },
+        {
+          "word": "cả",
+          "start": 20.06,
+          "end": 20.34,
+          "probability": 0.88
+        },
+        {
+          "word": "những",
+          "start": 20.34,
+          "end": 20.48,
+          "probability": 0.9
+        },
+        {
+          "word": "thứ",
+          "start": 20.48,
+          "end": 20.66,
+          "probability": 0.82
+        },
+        {
+          "word": "này,",
+          "start": 20.66,
+          "end": 20.98,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 21.24,
+      "end": 22.56,
+      "text": "tôi thấy không có gì sấu cả.",
+      "words": [
+        {
+          "word": "tôi",
+          "start": 21.24,
+          "end": 21.28,
+          "probability": 0.91
+        },
+        {
+          "word": "thấy",
+          "start": 21.28,
+          "end": 21.56,
+          "probability": 0.83
+        },
+        {
+          "word": "không",
+          "start": 21.56,
+          "end": 21.82,
+          "probability": 0.92
+        },
+        {
+          "word": "có",
+          "start": 21.82,
+          "end": 21.96,
+          "probability": 0.97
+        },
+        {
+          "word": "gì",
+          "start": 21.96,
+          "end": 22.14,
+          "probability": 0.63
+        },
+        {
+          "word": "sấu",
+          "start": 22.14,
+          "end": 22.34,
+          "probability": 0.48
+        },
+        {
+          "word": "cả.",
+          "start": 22.34,
+          "end": 22.56,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

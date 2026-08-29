@@ -1,0 +1,690 @@
+{
+  "item_id": "tt_7636664085429456136_01",
+  "duration_seconds": 23.08,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 104,
+  "text": "Châu ngày năm tháng năm, giờ để phương, tổn bị thư chú tích nữ tổn lắm. Mà đoàn đặc biểu tất cảo về năm đã đến sản vài quân sự và làm, tổn đôi như đời, mắt đầu tham cấp nhảm đức tổn vàa an đổ. Theo lời, mời của tụ thử an đổ, nà vẻ dạm một đi. Đốn tổn bị thư, chú tích nữ tổn lắm, tổn vàa đoàn đặc biểu tất cảo về năm, tài sản vài khó khu khách tổn đổn tổn vàa đổn đi tiền an an dài. Này sửa nâu, ngày Việt Nam sửa in quá trúc xửa.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.7,
+      "text": "Châu ngày năm tháng năm, giờ để phương, tổn bị thư chú tích nữ tổn lắm.",
+      "words": [
+        {
+          "word": "Châu",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.23
+        },
+        {
+          "word": "ngày",
+          "start": 0.14,
+          "end": 0.3,
+          "probability": 0.24
+        },
+        {
+          "word": "năm",
+          "start": 0.3,
+          "end": 0.5,
+          "probability": 0.49
+        },
+        {
+          "word": "tháng",
+          "start": 0.5,
+          "end": 0.66,
+          "probability": 0.55
+        },
+        {
+          "word": "năm,",
+          "start": 0.66,
+          "end": 1.06,
+          "probability": 0.38
+        },
+        {
+          "word": "giờ",
+          "start": 1.22,
+          "end": 1.26,
+          "probability": 0.62
+        },
+        {
+          "word": "để",
+          "start": 1.26,
+          "end": 1.44,
+          "probability": 0.32
+        },
+        {
+          "word": "phương,",
+          "start": 1.44,
+          "end": 1.74,
+          "probability": 0.85
+        },
+        {
+          "word": "tổn",
+          "start": 1.92,
+          "end": 2.04,
+          "probability": 0.48
+        },
+        {
+          "word": "bị",
+          "start": 2.04,
+          "end": 2.24,
+          "probability": 0.61
+        },
+        {
+          "word": "thư",
+          "start": 2.24,
+          "end": 2.56,
+          "probability": 0.59
+        },
+        {
+          "word": "chú",
+          "start": 2.56,
+          "end": 2.86,
+          "probability": 0.32
+        },
+        {
+          "word": "tích",
+          "start": 2.86,
+          "end": 3.0,
+          "probability": 0.45
+        },
+        {
+          "word": "nữ",
+          "start": 3.0,
+          "end": 3.2,
+          "probability": 0.34
+        },
+        {
+          "word": "tổn",
+          "start": 3.2,
+          "end": 3.42,
+          "probability": 0.44
+        },
+        {
+          "word": "lắm.",
+          "start": 3.42,
+          "end": 3.7,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.86,
+      "end": 6.88,
+      "text": "Mà đoàn đặc biểu tất cảo về năm đã đến sản vài quân sự và làm,",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 3.86,
+          "end": 3.96,
+          "probability": 0.43
+        },
+        {
+          "word": "đoàn",
+          "start": 3.96,
+          "end": 4.08,
+          "probability": 0.39
+        },
+        {
+          "word": "đặc",
+          "start": 4.08,
+          "end": 4.28,
+          "probability": 0.23
+        },
+        {
+          "word": "biểu",
+          "start": 4.28,
+          "end": 4.4,
+          "probability": 0.9
+        },
+        {
+          "word": "tất",
+          "start": 4.4,
+          "end": 4.64,
+          "probability": 0.52
+        },
+        {
+          "word": "cảo",
+          "start": 4.64,
+          "end": 4.9,
+          "probability": 0.49
+        },
+        {
+          "word": "về",
+          "start": 4.9,
+          "end": 4.94,
+          "probability": 0.31
+        },
+        {
+          "word": "năm",
+          "start": 4.94,
+          "end": 5.18,
+          "probability": 0.49
+        },
+        {
+          "word": "đã",
+          "start": 5.18,
+          "end": 5.42,
+          "probability": 0.62
+        },
+        {
+          "word": "đến",
+          "start": 5.42,
+          "end": 5.66,
+          "probability": 0.98
+        },
+        {
+          "word": "sản",
+          "start": 5.66,
+          "end": 5.86,
+          "probability": 0.37
+        },
+        {
+          "word": "vài",
+          "start": 5.86,
+          "end": 6.06,
+          "probability": 0.37
+        },
+        {
+          "word": "quân",
+          "start": 6.06,
+          "end": 6.24,
+          "probability": 0.3
+        },
+        {
+          "word": "sự",
+          "start": 6.24,
+          "end": 6.44,
+          "probability": 0.83
+        },
+        {
+          "word": "và",
+          "start": 6.44,
+          "end": 6.6,
+          "probability": 0.27
+        },
+        {
+          "word": "làm,",
+          "start": 6.6,
+          "end": 6.88,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.08,
+      "end": 9.82,
+      "text": "tổn đôi như đời, mắt đầu tham cấp nhảm đức tổn vàa an đổ.",
+      "words": [
+        {
+          "word": "tổn",
+          "start": 7.08,
+          "end": 7.22,
+          "probability": 0.49
+        },
+        {
+          "word": "đôi",
+          "start": 7.22,
+          "end": 7.36,
+          "probability": 0.56
+        },
+        {
+          "word": "như",
+          "start": 7.36,
+          "end": 7.52,
+          "probability": 0.25
+        },
+        {
+          "word": "đời,",
+          "start": 7.52,
+          "end": 7.8,
+          "probability": 0.28
+        },
+        {
+          "word": "mắt",
+          "start": 7.94,
+          "end": 8.12,
+          "probability": 0.81
+        },
+        {
+          "word": "đầu",
+          "start": 8.12,
+          "end": 8.34,
+          "probability": 0.97
+        },
+        {
+          "word": "tham",
+          "start": 8.34,
+          "end": 8.54,
+          "probability": 0.58
+        },
+        {
+          "word": "cấp",
+          "start": 8.54,
+          "end": 8.7,
+          "probability": 0.81
+        },
+        {
+          "word": "nhảm",
+          "start": 8.7,
+          "end": 8.9,
+          "probability": 0.38
+        },
+        {
+          "word": "đức",
+          "start": 8.9,
+          "end": 9.06,
+          "probability": 0.57
+        },
+        {
+          "word": "tổn",
+          "start": 9.06,
+          "end": 9.38,
+          "probability": 0.52
+        },
+        {
+          "word": "vàa",
+          "start": 9.38,
+          "end": 9.6,
+          "probability": 0.46
+        },
+        {
+          "word": "an",
+          "start": 9.6,
+          "end": 9.72,
+          "probability": 0.32
+        },
+        {
+          "word": "đổ.",
+          "start": 9.72,
+          "end": 9.82,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.02,
+      "end": 12.66,
+      "text": "Theo lời, mời của tụ thử an đổ, nà vẻ dạm một đi.",
+      "words": [
+        {
+          "word": "Theo",
+          "start": 10.02,
+          "end": 10.14,
+          "probability": 0.53
+        },
+        {
+          "word": "lời,",
+          "start": 10.14,
+          "end": 10.36,
+          "probability": 0.67
+        },
+        {
+          "word": "mời",
+          "start": 10.44,
+          "end": 10.62,
+          "probability": 0.47
+        },
+        {
+          "word": "của",
+          "start": 10.62,
+          "end": 10.78,
+          "probability": 0.63
+        },
+        {
+          "word": "tụ",
+          "start": 10.78,
+          "end": 10.98,
+          "probability": 0.51
+        },
+        {
+          "word": "thử",
+          "start": 10.98,
+          "end": 11.1,
+          "probability": 0.29
+        },
+        {
+          "word": "an",
+          "start": 11.1,
+          "end": 11.32,
+          "probability": 0.43
+        },
+        {
+          "word": "đổ,",
+          "start": 11.32,
+          "end": 11.46,
+          "probability": 0.66
+        },
+        {
+          "word": "nà",
+          "start": 11.64,
+          "end": 11.8,
+          "probability": 0.25
+        },
+        {
+          "word": "vẻ",
+          "start": 11.8,
+          "end": 11.94,
+          "probability": 0.37
+        },
+        {
+          "word": "dạm",
+          "start": 11.94,
+          "end": 12.26,
+          "probability": 0.38
+        },
+        {
+          "word": "một",
+          "start": 12.26,
+          "end": 12.34,
+          "probability": 0.39
+        },
+        {
+          "word": "đi.",
+          "start": 12.34,
+          "end": 12.66,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.32,
+      "end": 16.76,
+      "text": "Đốn tổn bị thư, chú tích nữ tổn lắm, tổn vàa đoàn đặc biểu tất cảo về năm,",
+      "words": [
+        {
+          "word": "Đốn",
+          "start": 13.32,
+          "end": 13.4,
+          "probability": 0.31
+        },
+        {
+          "word": "tổn",
+          "start": 13.4,
+          "end": 13.6,
+          "probability": 0.97
+        },
+        {
+          "word": "bị",
+          "start": 13.6,
+          "end": 13.8,
+          "probability": 0.85
+        },
+        {
+          "word": "thư,",
+          "start": 13.8,
+          "end": 14.1,
+          "probability": 0.96
+        },
+        {
+          "word": "chú",
+          "start": 14.42,
+          "end": 14.42,
+          "probability": 0.98
+        },
+        {
+          "word": "tích",
+          "start": 14.42,
+          "end": 14.58,
+          "probability": 1.0
+        },
+        {
+          "word": "nữ",
+          "start": 14.58,
+          "end": 14.76,
+          "probability": 0.99
+        },
+        {
+          "word": "tổn",
+          "start": 14.76,
+          "end": 14.94,
+          "probability": 0.99
+        },
+        {
+          "word": "lắm,",
+          "start": 14.94,
+          "end": 15.32,
+          "probability": 0.99
+        },
+        {
+          "word": "tổn",
+          "start": 15.32,
+          "end": 15.52,
+          "probability": 0.74
+        },
+        {
+          "word": "vàa",
+          "start": 15.52,
+          "end": 15.54,
+          "probability": 0.42
+        },
+        {
+          "word": "đoàn",
+          "start": 15.54,
+          "end": 15.64,
+          "probability": 0.85
+        },
+        {
+          "word": "đặc",
+          "start": 15.64,
+          "end": 15.76,
+          "probability": 0.93
+        },
+        {
+          "word": "biểu",
+          "start": 15.76,
+          "end": 15.9,
+          "probability": 1.0
+        },
+        {
+          "word": "tất",
+          "start": 15.9,
+          "end": 16.2,
+          "probability": 0.84
+        },
+        {
+          "word": "cảo",
+          "start": 16.2,
+          "end": 16.28,
+          "probability": 1.0
+        },
+        {
+          "word": "về",
+          "start": 16.28,
+          "end": 16.46,
+          "probability": 0.94
+        },
+        {
+          "word": "năm,",
+          "start": 16.46,
+          "end": 16.76,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 16.76,
+      "end": 19.88,
+      "text": "tài sản vài khó khu khách tổn đổn tổn vàa đổn đi tiền an an dài.",
+      "words": [
+        {
+          "word": "tài",
+          "start": 16.76,
+          "end": 16.96,
+          "probability": 0.33
+        },
+        {
+          "word": "sản",
+          "start": 16.96,
+          "end": 17.12,
+          "probability": 0.92
+        },
+        {
+          "word": "vài",
+          "start": 17.12,
+          "end": 17.32,
+          "probability": 0.89
+        },
+        {
+          "word": "khó",
+          "start": 17.32,
+          "end": 17.76,
+          "probability": 0.33
+        },
+        {
+          "word": "khu",
+          "start": 17.76,
+          "end": 17.98,
+          "probability": 0.53
+        },
+        {
+          "word": "khách",
+          "start": 17.98,
+          "end": 18.12,
+          "probability": 0.56
+        },
+        {
+          "word": "tổn",
+          "start": 18.12,
+          "end": 18.38,
+          "probability": 0.78
+        },
+        {
+          "word": "đổn",
+          "start": 18.38,
+          "end": 18.52,
+          "probability": 0.54
+        },
+        {
+          "word": "tổn",
+          "start": 18.52,
+          "end": 18.76,
+          "probability": 0.6
+        },
+        {
+          "word": "vàa",
+          "start": 18.76,
+          "end": 18.96,
+          "probability": 0.22
+        },
+        {
+          "word": "đổn",
+          "start": 18.96,
+          "end": 19.1,
+          "probability": 0.59
+        },
+        {
+          "word": "đi",
+          "start": 19.1,
+          "end": 19.22,
+          "probability": 0.33
+        },
+        {
+          "word": "tiền",
+          "start": 19.22,
+          "end": 19.42,
+          "probability": 0.16
+        },
+        {
+          "word": "an",
+          "start": 19.42,
+          "end": 19.56,
+          "probability": 0.21
+        },
+        {
+          "word": "an",
+          "start": 19.56,
+          "end": 19.66,
+          "probability": 0.48
+        },
+        {
+          "word": "dài.",
+          "start": 19.66,
+          "end": 19.88,
+          "probability": 0.76
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 19.88,
+      "end": 22.92,
+      "text": "Này sửa nâu, ngày Việt Nam sửa in quá trúc xửa.",
+      "words": [
+        {
+          "word": "Này",
+          "start": 19.88,
+          "end": 20.48,
+          "probability": 0.28
+        },
+        {
+          "word": "sửa",
+          "start": 20.48,
+          "end": 20.78,
+          "probability": 0.52
+        },
+        {
+          "word": "nâu,",
+          "start": 20.78,
+          "end": 21.04,
+          "probability": 0.19
+        },
+        {
+          "word": "ngày",
+          "start": 21.36,
+          "end": 21.36,
+          "probability": 0.11
+        },
+        {
+          "word": "Việt",
+          "start": 21.36,
+          "end": 21.52,
+          "probability": 0.35
+        },
+        {
+          "word": "Nam",
+          "start": 21.52,
+          "end": 21.74,
+          "probability": 0.98
+        },
+        {
+          "word": "sửa",
+          "start": 21.74,
+          "end": 22.06,
+          "probability": 0.53
+        },
+        {
+          "word": "in",
+          "start": 22.06,
+          "end": 22.14,
+          "probability": 0.1
+        },
+        {
+          "word": "quá",
+          "start": 22.14,
+          "end": 22.32,
+          "probability": 0.14
+        },
+        {
+          "word": "trúc",
+          "start": 22.32,
+          "end": 22.5,
+          "probability": 0.41
+        },
+        {
+          "word": "xửa.",
+          "start": 22.5,
+          "end": 22.92,
+          "probability": 0.49
+        }
+      ]
+    }
+  ]
+}

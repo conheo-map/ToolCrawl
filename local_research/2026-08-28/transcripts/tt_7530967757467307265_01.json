@@ -1,0 +1,748 @@
+{
+  "item_id": "tt_7530967757467307265_01",
+  "duration_seconds": 28.26,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 111,
+  "text": "Tên tay thì đây là 2 con sách dành cho xin 2 ca chi nước mềm ut Uuhh Chị à? Chên tay đây là 2 con sách dành cho xin 2 ca chi nước mềm ut Đây là 2 con sách có bộ trong bộ sách hàng chiến chi vực tán mềm ut Cô sẽ này tập hạnh 2, có sẽ này tập mộ Thì nó mềm ut chúng ta có tạm chương đất nặp Đó là, ham số lượng ra vào phí chứng Ấa, dạy số các số cậu có số nhớn Rẽ hạ ham số lưng được vào trong bộ phần, có để xong sòn để đẹp mô tạm",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.9,
+      "text": "Tên tay thì đây là 2 con sách dành cho xin 2 ca chi nước mềm ut",
+      "words": [
+        {
+          "word": "Tên",
+          "start": 0.0,
+          "end": 0.2,
+          "probability": 0.22
+        },
+        {
+          "word": "tay",
+          "start": 0.2,
+          "end": 0.38,
+          "probability": 0.51
+        },
+        {
+          "word": "thì",
+          "start": 0.38,
+          "end": 0.72,
+          "probability": 0.15
+        },
+        {
+          "word": "đây",
+          "start": 0.72,
+          "end": 0.98,
+          "probability": 0.81
+        },
+        {
+          "word": "là",
+          "start": 0.98,
+          "end": 1.12,
+          "probability": 0.24
+        },
+        {
+          "word": "2",
+          "start": 1.12,
+          "end": 1.38,
+          "probability": 0.29
+        },
+        {
+          "word": "con",
+          "start": 1.38,
+          "end": 1.6,
+          "probability": 0.07
+        },
+        {
+          "word": "sách",
+          "start": 1.6,
+          "end": 1.78,
+          "probability": 0.58
+        },
+        {
+          "word": "dành",
+          "start": 1.78,
+          "end": 2.04,
+          "probability": 0.55
+        },
+        {
+          "word": "cho",
+          "start": 2.04,
+          "end": 2.18,
+          "probability": 0.68
+        },
+        {
+          "word": "xin",
+          "start": 2.18,
+          "end": 2.48,
+          "probability": 0.41
+        },
+        {
+          "word": "2",
+          "start": 2.48,
+          "end": 2.74,
+          "probability": 0.86
+        },
+        {
+          "word": "ca",
+          "start": 2.74,
+          "end": 2.98,
+          "probability": 0.14
+        },
+        {
+          "word": "chi",
+          "start": 2.98,
+          "end": 3.08,
+          "probability": 0.28
+        },
+        {
+          "word": "nước",
+          "start": 3.08,
+          "end": 3.2,
+          "probability": 0.29
+        },
+        {
+          "word": "mềm",
+          "start": 3.2,
+          "end": 3.44,
+          "probability": 0.45
+        },
+        {
+          "word": "ut",
+          "start": 3.44,
+          "end": 3.9,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.43,
+      "end": 6.79,
+      "text": "Uuhh",
+      "words": [
+        {
+          "word": "Uuhh",
+          "start": 6.43,
+          "end": 6.79,
+          "probability": 0.08
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.79,
+      "end": 7.55,
+      "text": "Chị à?",
+      "words": [
+        {
+          "word": "Chị",
+          "start": 6.79,
+          "end": 7.29,
+          "probability": 0.08
+        },
+        {
+          "word": "à?",
+          "start": 7.29,
+          "end": 7.55,
+          "probability": 0.05
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.97,
+      "end": 12.79,
+      "text": "Chên tay đây là 2 con sách dành cho xin 2 ca chi nước mềm ut",
+      "words": [
+        {
+          "word": "Chên",
+          "start": 8.97,
+          "end": 9.17,
+          "probability": 0.55
+        },
+        {
+          "word": "tay",
+          "start": 9.17,
+          "end": 9.37,
+          "probability": 1.0
+        },
+        {
+          "word": "đây",
+          "start": 9.37,
+          "end": 9.85,
+          "probability": 0.29
+        },
+        {
+          "word": "là",
+          "start": 9.85,
+          "end": 10.13,
+          "probability": 0.92
+        },
+        {
+          "word": "2",
+          "start": 10.13,
+          "end": 10.35,
+          "probability": 0.85
+        },
+        {
+          "word": "con",
+          "start": 10.35,
+          "end": 10.51,
+          "probability": 1.0
+        },
+        {
+          "word": "sách",
+          "start": 10.51,
+          "end": 10.65,
+          "probability": 0.95
+        },
+        {
+          "word": "dành",
+          "start": 10.65,
+          "end": 10.91,
+          "probability": 0.88
+        },
+        {
+          "word": "cho",
+          "start": 10.91,
+          "end": 11.01,
+          "probability": 1.0
+        },
+        {
+          "word": "xin",
+          "start": 11.01,
+          "end": 11.31,
+          "probability": 0.97
+        },
+        {
+          "word": "2",
+          "start": 11.31,
+          "end": 11.53,
+          "probability": 0.94
+        },
+        {
+          "word": "ca",
+          "start": 11.53,
+          "end": 11.79,
+          "probability": 1.0
+        },
+        {
+          "word": "chi",
+          "start": 11.79,
+          "end": 11.91,
+          "probability": 1.0
+        },
+        {
+          "word": "nước",
+          "start": 11.91,
+          "end": 12.07,
+          "probability": 0.99
+        },
+        {
+          "word": "mềm",
+          "start": 12.07,
+          "end": 12.27,
+          "probability": 0.99
+        },
+        {
+          "word": "ut",
+          "start": 12.27,
+          "end": 12.79,
+          "probability": 0.9
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.79,
+      "end": 16.31,
+      "text": "Đây là 2 con sách có bộ trong bộ sách hàng chiến chi vực tán mềm ut",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 12.79,
+          "end": 13.13,
+          "probability": 0.91
+        },
+        {
+          "word": "là",
+          "start": 13.13,
+          "end": 13.33,
+          "probability": 0.85
+        },
+        {
+          "word": "2",
+          "start": 13.33,
+          "end": 13.53,
+          "probability": 0.27
+        },
+        {
+          "word": "con",
+          "start": 13.53,
+          "end": 13.53,
+          "probability": 0.99
+        },
+        {
+          "word": "sách",
+          "start": 13.53,
+          "end": 13.77,
+          "probability": 0.94
+        },
+        {
+          "word": "có",
+          "start": 13.77,
+          "end": 14.01,
+          "probability": 0.8
+        },
+        {
+          "word": "bộ",
+          "start": 14.01,
+          "end": 14.17,
+          "probability": 0.56
+        },
+        {
+          "word": "trong",
+          "start": 14.17,
+          "end": 14.39,
+          "probability": 0.31
+        },
+        {
+          "word": "bộ",
+          "start": 14.39,
+          "end": 14.59,
+          "probability": 0.94
+        },
+        {
+          "word": "sách",
+          "start": 14.59,
+          "end": 14.73,
+          "probability": 0.96
+        },
+        {
+          "word": "hàng",
+          "start": 14.73,
+          "end": 15.01,
+          "probability": 0.62
+        },
+        {
+          "word": "chiến",
+          "start": 15.01,
+          "end": 15.25,
+          "probability": 0.45
+        },
+        {
+          "word": "chi",
+          "start": 15.25,
+          "end": 15.43,
+          "probability": 0.78
+        },
+        {
+          "word": "vực",
+          "start": 15.43,
+          "end": 15.61,
+          "probability": 0.52
+        },
+        {
+          "word": "tán",
+          "start": 15.61,
+          "end": 15.79,
+          "probability": 0.41
+        },
+        {
+          "word": "mềm",
+          "start": 15.79,
+          "end": 15.97,
+          "probability": 0.96
+        },
+        {
+          "word": "ut",
+          "start": 15.97,
+          "end": 16.31,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 16.31,
+      "end": 18.35,
+      "text": "Cô sẽ này tập hạnh 2, có sẽ này tập mộ",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 16.31,
+          "end": 16.55,
+          "probability": 0.29
+        },
+        {
+          "word": "sẽ",
+          "start": 16.55,
+          "end": 16.61,
+          "probability": 0.26
+        },
+        {
+          "word": "này",
+          "start": 16.61,
+          "end": 16.77,
+          "probability": 0.2
+        },
+        {
+          "word": "tập",
+          "start": 16.77,
+          "end": 16.91,
+          "probability": 0.88
+        },
+        {
+          "word": "hạnh",
+          "start": 16.91,
+          "end": 17.15,
+          "probability": 0.24
+        },
+        {
+          "word": "2,",
+          "start": 17.15,
+          "end": 17.41,
+          "probability": 0.4
+        },
+        {
+          "word": "có",
+          "start": 17.55,
+          "end": 17.57,
+          "probability": 0.29
+        },
+        {
+          "word": "sẽ",
+          "start": 17.57,
+          "end": 17.67,
+          "probability": 0.78
+        },
+        {
+          "word": "này",
+          "start": 17.67,
+          "end": 17.81,
+          "probability": 0.72
+        },
+        {
+          "word": "tập",
+          "start": 17.81,
+          "end": 17.97,
+          "probability": 0.56
+        },
+        {
+          "word": "mộ",
+          "start": 17.97,
+          "end": 18.35,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.35,
+      "end": 21.15,
+      "text": "Thì nó mềm ut chúng ta có tạm chương đất nặp",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 18.35,
+          "end": 19.01,
+          "probability": 0.78
+        },
+        {
+          "word": "nó",
+          "start": 19.01,
+          "end": 19.25,
+          "probability": 0.3
+        },
+        {
+          "word": "mềm",
+          "start": 19.25,
+          "end": 19.39,
+          "probability": 0.78
+        },
+        {
+          "word": "ut",
+          "start": 19.39,
+          "end": 19.55,
+          "probability": 0.85
+        },
+        {
+          "word": "chúng",
+          "start": 19.55,
+          "end": 19.75,
+          "probability": 0.62
+        },
+        {
+          "word": "ta",
+          "start": 19.75,
+          "end": 19.79,
+          "probability": 0.47
+        },
+        {
+          "word": "có",
+          "start": 19.79,
+          "end": 20.13,
+          "probability": 0.95
+        },
+        {
+          "word": "tạm",
+          "start": 20.13,
+          "end": 20.19,
+          "probability": 0.63
+        },
+        {
+          "word": "chương",
+          "start": 20.19,
+          "end": 20.39,
+          "probability": 0.45
+        },
+        {
+          "word": "đất",
+          "start": 20.39,
+          "end": 20.57,
+          "probability": 0.56
+        },
+        {
+          "word": "nặp",
+          "start": 20.57,
+          "end": 21.15,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 21.15,
+      "end": 24.89,
+      "text": "Đó là, ham số lượng ra vào phí chứng Ấa, dạy số các số cậu có số nhớn",
+      "words": [
+        {
+          "word": "Đó",
+          "start": 21.15,
+          "end": 21.27,
+          "probability": 0.59
+        },
+        {
+          "word": "là,",
+          "start": 21.27,
+          "end": 21.61,
+          "probability": 0.66
+        },
+        {
+          "word": "ham",
+          "start": 21.79,
+          "end": 21.93,
+          "probability": 0.12
+        },
+        {
+          "word": "số",
+          "start": 21.93,
+          "end": 22.05,
+          "probability": 0.79
+        },
+        {
+          "word": "lượng",
+          "start": 22.05,
+          "end": 22.17,
+          "probability": 0.37
+        },
+        {
+          "word": "ra",
+          "start": 22.17,
+          "end": 22.37,
+          "probability": 0.42
+        },
+        {
+          "word": "vào",
+          "start": 22.37,
+          "end": 22.51,
+          "probability": 0.27
+        },
+        {
+          "word": "phí",
+          "start": 22.51,
+          "end": 22.63,
+          "probability": 0.49
+        },
+        {
+          "word": "chứng",
+          "start": 22.63,
+          "end": 22.73,
+          "probability": 0.14
+        },
+        {
+          "word": "Ấa,",
+          "start": 22.73,
+          "end": 23.15,
+          "probability": 0.24
+        },
+        {
+          "word": "dạy",
+          "start": 23.21,
+          "end": 23.39,
+          "probability": 0.34
+        },
+        {
+          "word": "số",
+          "start": 23.39,
+          "end": 23.55,
+          "probability": 0.94
+        },
+        {
+          "word": "các",
+          "start": 23.55,
+          "end": 23.71,
+          "probability": 0.29
+        },
+        {
+          "word": "số",
+          "start": 23.71,
+          "end": 23.85,
+          "probability": 0.89
+        },
+        {
+          "word": "cậu",
+          "start": 23.85,
+          "end": 23.97,
+          "probability": 0.54
+        },
+        {
+          "word": "có",
+          "start": 23.97,
+          "end": 24.11,
+          "probability": 0.48
+        },
+        {
+          "word": "số",
+          "start": 24.11,
+          "end": 24.23,
+          "probability": 0.19
+        },
+        {
+          "word": "nhớn",
+          "start": 24.23,
+          "end": 24.89,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 24.89,
+      "end": 28.15,
+      "text": "Rẽ hạ ham số lưng được vào trong bộ phần, có để xong sòn để đẹp mô tạm",
+      "words": [
+        {
+          "word": "Rẽ",
+          "start": 24.89,
+          "end": 25.03,
+          "probability": 0.14
+        },
+        {
+          "word": "hạ",
+          "start": 25.03,
+          "end": 25.19,
+          "probability": 0.45
+        },
+        {
+          "word": "ham",
+          "start": 25.19,
+          "end": 25.35,
+          "probability": 0.51
+        },
+        {
+          "word": "số",
+          "start": 25.35,
+          "end": 25.43,
+          "probability": 0.89
+        },
+        {
+          "word": "lưng",
+          "start": 25.43,
+          "end": 25.55,
+          "probability": 0.11
+        },
+        {
+          "word": "được",
+          "start": 25.55,
+          "end": 25.71,
+          "probability": 0.26
+        },
+        {
+          "word": "vào",
+          "start": 25.71,
+          "end": 25.93,
+          "probability": 0.15
+        },
+        {
+          "word": "trong",
+          "start": 25.93,
+          "end": 26.07,
+          "probability": 0.17
+        },
+        {
+          "word": "bộ",
+          "start": 26.07,
+          "end": 26.23,
+          "probability": 0.25
+        },
+        {
+          "word": "phần,",
+          "start": 26.23,
+          "end": 26.39,
+          "probability": 0.16
+        },
+        {
+          "word": "có",
+          "start": 26.55,
+          "end": 26.61,
+          "probability": 0.26
+        },
+        {
+          "word": "để",
+          "start": 26.61,
+          "end": 26.67,
+          "probability": 0.29
+        },
+        {
+          "word": "xong",
+          "start": 26.67,
+          "end": 26.83,
+          "probability": 0.62
+        },
+        {
+          "word": "sòn",
+          "start": 26.83,
+          "end": 27.07,
+          "probability": 0.21
+        },
+        {
+          "word": "để",
+          "start": 27.07,
+          "end": 27.21,
+          "probability": 0.6
+        },
+        {
+          "word": "đẹp",
+          "start": 27.21,
+          "end": 27.61,
+          "probability": 0.42
+        },
+        {
+          "word": "mô",
+          "start": 27.61,
+          "end": 27.89,
+          "probability": 0.5
+        },
+        {
+          "word": "tạm",
+          "start": 27.89,
+          "end": 28.15,
+          "probability": 0.34
+        }
+      ]
+    }
+  ]
+}

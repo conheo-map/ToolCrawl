@@ -1,0 +1,730 @@
+{
+  "item_id": "tt_7675699306954951954_07",
+  "duration_seconds": 26.34,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 112,
+  "text": "Hắn lấy một gọi mọi thứ giảng nước quý và một gói kétan lìng họ sách từ nước quý lượng, mua cụ quán, đưa đến nhà lế thi dều tại khoảng 2 lễ 1. Nhà số 1 trong là tám sự bún, được có hoàng phương bún của một tân tình bố để rủ dều sẽ dùng thị bị phát hiện. Cơ quan có bán sách đến đây là số 1 tuyên và khán đại đặc mua của quán và gí, còn nghe một thăm hiệu 1 năng hệ khọt hả mi muốn. Mới trọng điều tra có măng tính hạn khám sách hưởng cấp cho ở quý vị thi học nhu.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.68,
+      "text": "Hắn lấy một gọi mọi thứ giảng nước quý và một gói kétan lìng họ sách từ nước quý lượng,",
+      "words": [
+        {
+          "word": "Hắn",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.33
+        },
+        {
+          "word": "lấy",
+          "start": 0.42,
+          "end": 0.64,
+          "probability": 0.78
+        },
+        {
+          "word": "một",
+          "start": 0.64,
+          "end": 0.86,
+          "probability": 0.42
+        },
+        {
+          "word": "gọi",
+          "start": 0.86,
+          "end": 1.02,
+          "probability": 0.36
+        },
+        {
+          "word": "mọi",
+          "start": 1.02,
+          "end": 1.3,
+          "probability": 0.29
+        },
+        {
+          "word": "thứ",
+          "start": 1.3,
+          "end": 1.44,
+          "probability": 0.53
+        },
+        {
+          "word": "giảng",
+          "start": 1.44,
+          "end": 1.74,
+          "probability": 0.36
+        },
+        {
+          "word": "nước",
+          "start": 1.74,
+          "end": 1.98,
+          "probability": 0.9
+        },
+        {
+          "word": "quý",
+          "start": 1.98,
+          "end": 2.22,
+          "probability": 0.29
+        },
+        {
+          "word": "và",
+          "start": 2.22,
+          "end": 2.52,
+          "probability": 0.78
+        },
+        {
+          "word": "một",
+          "start": 2.52,
+          "end": 2.72,
+          "probability": 0.87
+        },
+        {
+          "word": "gói",
+          "start": 2.72,
+          "end": 2.86,
+          "probability": 0.45
+        },
+        {
+          "word": "kétan",
+          "start": 2.86,
+          "end": 3.24,
+          "probability": 0.37
+        },
+        {
+          "word": "lìng",
+          "start": 3.24,
+          "end": 3.62,
+          "probability": 0.36
+        },
+        {
+          "word": "họ",
+          "start": 3.62,
+          "end": 3.66,
+          "probability": 0.22
+        },
+        {
+          "word": "sách",
+          "start": 3.66,
+          "end": 3.82,
+          "probability": 0.37
+        },
+        {
+          "word": "từ",
+          "start": 3.82,
+          "end": 3.98,
+          "probability": 0.27
+        },
+        {
+          "word": "nước",
+          "start": 3.98,
+          "end": 4.18,
+          "probability": 0.32
+        },
+        {
+          "word": "quý",
+          "start": 4.18,
+          "end": 4.28,
+          "probability": 0.64
+        },
+        {
+          "word": "lượng,",
+          "start": 4.28,
+          "end": 4.68,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.9,
+      "end": 8.16,
+      "text": "mua cụ quán, đưa đến nhà lế thi dều tại khoảng 2 lễ 1.",
+      "words": [
+        {
+          "word": "mua",
+          "start": 4.9,
+          "end": 5.1,
+          "probability": 0.53
+        },
+        {
+          "word": "cụ",
+          "start": 5.1,
+          "end": 5.26,
+          "probability": 0.32
+        },
+        {
+          "word": "quán,",
+          "start": 5.26,
+          "end": 5.58,
+          "probability": 0.24
+        },
+        {
+          "word": "đưa",
+          "start": 5.96,
+          "end": 6.1,
+          "probability": 0.83
+        },
+        {
+          "word": "đến",
+          "start": 6.1,
+          "end": 6.32,
+          "probability": 0.62
+        },
+        {
+          "word": "nhà",
+          "start": 6.32,
+          "end": 6.52,
+          "probability": 0.64
+        },
+        {
+          "word": "lế",
+          "start": 6.52,
+          "end": 6.68,
+          "probability": 0.47
+        },
+        {
+          "word": "thi",
+          "start": 6.68,
+          "end": 6.9,
+          "probability": 0.25
+        },
+        {
+          "word": "dều",
+          "start": 6.9,
+          "end": 7.1,
+          "probability": 0.11
+        },
+        {
+          "word": "tại",
+          "start": 7.1,
+          "end": 7.32,
+          "probability": 0.82
+        },
+        {
+          "word": "khoảng",
+          "start": 7.32,
+          "end": 7.58,
+          "probability": 0.51
+        },
+        {
+          "word": "2",
+          "start": 7.58,
+          "end": 7.76,
+          "probability": 0.61
+        },
+        {
+          "word": "lễ",
+          "start": 7.76,
+          "end": 7.94,
+          "probability": 0.45
+        },
+        {
+          "word": "1.",
+          "start": 7.94,
+          "end": 8.16,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.94,
+      "end": 15.66,
+      "text": "Nhà số 1 trong là tám sự bún, được có hoàng phương bún của một tân tình bố để rủ dều sẽ dùng thị bị phát hiện.",
+      "words": [
+        {
+          "word": "Nhà",
+          "start": 8.94,
+          "end": 9.16,
+          "probability": 0.73
+        },
+        {
+          "word": "số",
+          "start": 9.16,
+          "end": 9.38,
+          "probability": 0.92
+        },
+        {
+          "word": "1",
+          "start": 9.38,
+          "end": 9.64,
+          "probability": 0.7
+        },
+        {
+          "word": "trong",
+          "start": 9.64,
+          "end": 9.78,
+          "probability": 0.34
+        },
+        {
+          "word": "là",
+          "start": 9.78,
+          "end": 9.98,
+          "probability": 0.37
+        },
+        {
+          "word": "tám",
+          "start": 9.98,
+          "end": 10.26,
+          "probability": 0.31
+        },
+        {
+          "word": "sự",
+          "start": 10.26,
+          "end": 10.46,
+          "probability": 0.24
+        },
+        {
+          "word": "bún,",
+          "start": 10.46,
+          "end": 10.96,
+          "probability": 0.47
+        },
+        {
+          "word": "được",
+          "start": 11.0,
+          "end": 11.26,
+          "probability": 0.44
+        },
+        {
+          "word": "có",
+          "start": 11.26,
+          "end": 11.44,
+          "probability": 0.33
+        },
+        {
+          "word": "hoàng",
+          "start": 11.44,
+          "end": 11.82,
+          "probability": 0.22
+        },
+        {
+          "word": "phương",
+          "start": 11.82,
+          "end": 12.1,
+          "probability": 0.2
+        },
+        {
+          "word": "bún",
+          "start": 12.1,
+          "end": 12.36,
+          "probability": 0.44
+        },
+        {
+          "word": "của",
+          "start": 12.36,
+          "end": 12.54,
+          "probability": 0.44
+        },
+        {
+          "word": "một",
+          "start": 12.54,
+          "end": 12.7,
+          "probability": 0.21
+        },
+        {
+          "word": "tân",
+          "start": 12.7,
+          "end": 12.76,
+          "probability": 0.57
+        },
+        {
+          "word": "tình",
+          "start": 12.76,
+          "end": 12.98,
+          "probability": 0.29
+        },
+        {
+          "word": "bố",
+          "start": 12.98,
+          "end": 13.3,
+          "probability": 0.56
+        },
+        {
+          "word": "để",
+          "start": 13.3,
+          "end": 13.72,
+          "probability": 0.76
+        },
+        {
+          "word": "rủ",
+          "start": 13.72,
+          "end": 13.98,
+          "probability": 0.38
+        },
+        {
+          "word": "dều",
+          "start": 13.98,
+          "end": 14.22,
+          "probability": 0.69
+        },
+        {
+          "word": "sẽ",
+          "start": 14.22,
+          "end": 14.4,
+          "probability": 0.34
+        },
+        {
+          "word": "dùng",
+          "start": 14.4,
+          "end": 14.72,
+          "probability": 0.38
+        },
+        {
+          "word": "thị",
+          "start": 14.72,
+          "end": 14.98,
+          "probability": 0.47
+        },
+        {
+          "word": "bị",
+          "start": 14.98,
+          "end": 15.04,
+          "probability": 0.52
+        },
+        {
+          "word": "phát",
+          "start": 15.04,
+          "end": 15.2,
+          "probability": 0.61
+        },
+        {
+          "word": "hiện.",
+          "start": 15.2,
+          "end": 15.66,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 16.12,
+      "end": 19.78,
+      "text": "Cơ quan có bán sách đến đây là số 1 tuyên và khán đại đặc mua của quán và gí,",
+      "words": [
+        {
+          "word": "Cơ",
+          "start": 16.12,
+          "end": 16.16,
+          "probability": 0.75
+        },
+        {
+          "word": "quan",
+          "start": 16.16,
+          "end": 16.32,
+          "probability": 0.73
+        },
+        {
+          "word": "có",
+          "start": 16.32,
+          "end": 16.48,
+          "probability": 0.71
+        },
+        {
+          "word": "bán",
+          "start": 16.48,
+          "end": 16.64,
+          "probability": 0.27
+        },
+        {
+          "word": "sách",
+          "start": 16.64,
+          "end": 16.84,
+          "probability": 0.75
+        },
+        {
+          "word": "đến",
+          "start": 16.84,
+          "end": 17.02,
+          "probability": 0.77
+        },
+        {
+          "word": "đây",
+          "start": 17.02,
+          "end": 17.26,
+          "probability": 0.71
+        },
+        {
+          "word": "là",
+          "start": 17.26,
+          "end": 17.4,
+          "probability": 0.64
+        },
+        {
+          "word": "số",
+          "start": 17.4,
+          "end": 17.5,
+          "probability": 0.9
+        },
+        {
+          "word": "1",
+          "start": 17.5,
+          "end": 17.66,
+          "probability": 0.87
+        },
+        {
+          "word": "tuyên",
+          "start": 17.66,
+          "end": 17.86,
+          "probability": 0.52
+        },
+        {
+          "word": "và",
+          "start": 17.86,
+          "end": 18.02,
+          "probability": 0.37
+        },
+        {
+          "word": "khán",
+          "start": 18.02,
+          "end": 18.2,
+          "probability": 0.68
+        },
+        {
+          "word": "đại",
+          "start": 18.2,
+          "end": 18.34,
+          "probability": 0.29
+        },
+        {
+          "word": "đặc",
+          "start": 18.34,
+          "end": 18.6,
+          "probability": 0.6
+        },
+        {
+          "word": "mua",
+          "start": 18.6,
+          "end": 18.66,
+          "probability": 0.71
+        },
+        {
+          "word": "của",
+          "start": 18.66,
+          "end": 18.9,
+          "probability": 0.39
+        },
+        {
+          "word": "quán",
+          "start": 18.9,
+          "end": 19.18,
+          "probability": 0.94
+        },
+        {
+          "word": "và",
+          "start": 19.18,
+          "end": 19.48,
+          "probability": 0.87
+        },
+        {
+          "word": "gí,",
+          "start": 19.48,
+          "end": 19.78,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 19.84,
+      "end": 21.82,
+      "text": "còn nghe một thăm hiệu 1 năng hệ khọt hả mi muốn.",
+      "words": [
+        {
+          "word": "còn",
+          "start": 19.84,
+          "end": 20.04,
+          "probability": 0.15
+        },
+        {
+          "word": "nghe",
+          "start": 20.04,
+          "end": 20.16,
+          "probability": 0.22
+        },
+        {
+          "word": "một",
+          "start": 20.16,
+          "end": 20.34,
+          "probability": 0.32
+        },
+        {
+          "word": "thăm",
+          "start": 20.34,
+          "end": 20.46,
+          "probability": 0.55
+        },
+        {
+          "word": "hiệu",
+          "start": 20.46,
+          "end": 20.6,
+          "probability": 0.15
+        },
+        {
+          "word": "1",
+          "start": 20.6,
+          "end": 20.76,
+          "probability": 0.44
+        },
+        {
+          "word": "năng",
+          "start": 20.76,
+          "end": 20.92,
+          "probability": 0.19
+        },
+        {
+          "word": "hệ",
+          "start": 20.92,
+          "end": 21.06,
+          "probability": 0.47
+        },
+        {
+          "word": "khọt",
+          "start": 21.06,
+          "end": 21.2,
+          "probability": 0.39
+        },
+        {
+          "word": "hả",
+          "start": 21.2,
+          "end": 21.36,
+          "probability": 0.21
+        },
+        {
+          "word": "mi",
+          "start": 21.36,
+          "end": 21.5,
+          "probability": 0.19
+        },
+        {
+          "word": "muốn.",
+          "start": 21.5,
+          "end": 21.82,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 22.52,
+      "end": 26.22,
+      "text": "Mới trọng điều tra có măng tính hạn khám sách hưởng cấp cho ở quý vị thi học nhu.",
+      "words": [
+        {
+          "word": "Mới",
+          "start": 22.52,
+          "end": 22.68,
+          "probability": 0.58
+        },
+        {
+          "word": "trọng",
+          "start": 22.68,
+          "end": 22.86,
+          "probability": 0.62
+        },
+        {
+          "word": "điều",
+          "start": 22.86,
+          "end": 23.06,
+          "probability": 0.95
+        },
+        {
+          "word": "tra",
+          "start": 23.06,
+          "end": 23.32,
+          "probability": 0.71
+        },
+        {
+          "word": "có",
+          "start": 23.32,
+          "end": 23.46,
+          "probability": 0.51
+        },
+        {
+          "word": "măng",
+          "start": 23.46,
+          "end": 23.64,
+          "probability": 0.31
+        },
+        {
+          "word": "tính",
+          "start": 23.64,
+          "end": 23.8,
+          "probability": 0.65
+        },
+        {
+          "word": "hạn",
+          "start": 23.8,
+          "end": 23.98,
+          "probability": 0.54
+        },
+        {
+          "word": "khám",
+          "start": 23.98,
+          "end": 24.2,
+          "probability": 0.6
+        },
+        {
+          "word": "sách",
+          "start": 24.2,
+          "end": 24.38,
+          "probability": 0.47
+        },
+        {
+          "word": "hưởng",
+          "start": 24.38,
+          "end": 24.62,
+          "probability": 0.39
+        },
+        {
+          "word": "cấp",
+          "start": 24.62,
+          "end": 24.82,
+          "probability": 0.66
+        },
+        {
+          "word": "cho",
+          "start": 24.82,
+          "end": 25.04,
+          "probability": 0.54
+        },
+        {
+          "word": "ở",
+          "start": 25.04,
+          "end": 25.2,
+          "probability": 0.62
+        },
+        {
+          "word": "quý",
+          "start": 25.2,
+          "end": 25.46,
+          "probability": 0.49
+        },
+        {
+          "word": "vị",
+          "start": 25.46,
+          "end": 25.6,
+          "probability": 0.22
+        },
+        {
+          "word": "thi",
+          "start": 25.6,
+          "end": 25.8,
+          "probability": 0.64
+        },
+        {
+          "word": "học",
+          "start": 25.8,
+          "end": 25.92,
+          "probability": 0.26
+        },
+        {
+          "word": "nhu.",
+          "start": 25.92,
+          "end": 26.22,
+          "probability": 0.11
+        }
+      ]
+    }
+  ]
+}

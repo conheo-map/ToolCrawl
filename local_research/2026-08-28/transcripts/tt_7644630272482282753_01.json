@@ -1,0 +1,106 @@
+{
+  "item_id": "tt_7644630272482282753_01",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 12,
+  "text": "Thôi rồi Mà có rộn kể kênh Mà có rộn kể kênh",
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.76,
+      "end": 4.28,
+      "text": "Thôi rồi",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 3.76,
+          "end": 4.2,
+          "probability": 0.11
+        },
+        {
+          "word": "rồi",
+          "start": 4.2,
+          "end": 4.28,
+          "probability": 0.04
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.28,
+      "end": 5.58,
+      "text": "Mà có rộn kể kênh",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 4.28,
+          "end": 4.86,
+          "probability": 0.1
+        },
+        {
+          "word": "có",
+          "start": 4.86,
+          "end": 4.9,
+          "probability": 0.09
+        },
+        {
+          "word": "rộn",
+          "start": 4.9,
+          "end": 5.12,
+          "probability": 0.24
+        },
+        {
+          "word": "kể",
+          "start": 5.12,
+          "end": 5.34,
+          "probability": 0.37
+        },
+        {
+          "word": "kênh",
+          "start": 5.34,
+          "end": 5.58,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.26,
+      "end": 29.98,
+      "text": "Mà có rộn kể kênh",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 6.26,
+          "end": 6.48,
+          "probability": 0.67
+        },
+        {
+          "word": "có",
+          "start": 6.48,
+          "end": 6.68,
+          "probability": 0.8
+        },
+        {
+          "word": "rộn",
+          "start": 18.96,
+          "end": 26.9,
+          "probability": 0.68
+        },
+        {
+          "word": "kể",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.84
+        },
+        {
+          "word": "kênh",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.94
+        }
+      ]
+    }
+  ]
+}

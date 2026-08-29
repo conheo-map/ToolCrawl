@@ -1,0 +1,56 @@
+{
+  "item_id": "tt_7671238359490006292_01",
+  "duration_seconds": 28.42,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "She may the Đúng không?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 27.88,
+      "text": "She may the",
+      "words": [
+        {
+          "word": "She",
+          "start": 0.0,
+          "end": 0.1,
+          "probability": 0.0
+        },
+        {
+          "word": "may",
+          "start": 0.1,
+          "end": 12.48,
+          "probability": 0.03
+        },
+        {
+          "word": "the",
+          "start": 12.48,
+          "end": 27.88,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 27.88,
+      "end": 28.2,
+      "text": "Đúng không?",
+      "words": [
+        {
+          "word": "Đúng",
+          "start": 27.88,
+          "end": 28.0,
+          "probability": 0.12
+        },
+        {
+          "word": "không?",
+          "start": 28.0,
+          "end": 28.2,
+          "probability": 0.38
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "item_id": "tt_7652343258768592149_02",
+  "duration_seconds": 26.88,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 86,
+  "text": "Nói chứ bố quên kênh là lần xưa lên nha sợ nhất Còn khai Nói chứ bàn nha Nói chứ bàn nha Nói chứ bàn nha sợ nhất Nói chứ bàn nha ngon lên kỳ Mà sạch Truyền hợp hồ sơ Vậy là cái hệ được kỳ Cái năng lực trị của bạn năng Chênh mình lấy việc về Ai về để hả như vậy Ai về là một kỳ Tạm hệ của người hề gọi là của bạn mấy OK? Si ai về là có",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 2.45,
+      "text": "Nói chứ bố quên kênh là lần xưa lên nha sợ nhất",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 0.05,
+          "end": 0.53,
+          "probability": 0.17
+        },
+        {
+          "word": "chứ",
+          "start": 0.53,
+          "end": 0.53,
+          "probability": 0.1
+        },
+        {
+          "word": "bố",
+          "start": 0.53,
+          "end": 0.69,
+          "probability": 0.14
+        },
+        {
+          "word": "quên",
+          "start": 0.69,
+          "end": 0.89,
+          "probability": 0.22
+        },
+        {
+          "word": "kênh",
+          "start": 0.89,
+          "end": 1.15,
+          "probability": 0.38
+        },
+        {
+          "word": "là",
+          "start": 1.15,
+          "end": 1.41,
+          "probability": 0.11
+        },
+        {
+          "word": "lần",
+          "start": 1.41,
+          "end": 1.61,
+          "probability": 0.39
+        },
+        {
+          "word": "xưa",
+          "start": 1.61,
+          "end": 1.73,
+          "probability": 0.22
+        },
+        {
+          "word": "lên",
+          "start": 1.73,
+          "end": 1.89,
+          "probability": 0.37
+        },
+        {
+          "word": "nha",
+          "start": 1.89,
+          "end": 1.97,
+          "probability": 0.18
+        },
+        {
+          "word": "sợ",
+          "start": 1.97,
+          "end": 2.13,
+          "probability": 0.39
+        },
+        {
+          "word": "nhất",
+          "start": 2.13,
+          "end": 2.45,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.45,
+      "end": 2.93,
+      "text": "Còn khai",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 2.45,
+          "end": 2.93,
+          "probability": 0.11
+        },
+        {
+          "word": "khai",
+          "start": 2.93,
+          "end": 2.93,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.45,
+      "end": 4.69,
+      "text": "Nói chứ bàn nha",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 3.45,
+          "end": 3.89,
+          "probability": 0.37
+        },
+        {
+          "word": "chứ",
+          "start": 3.89,
+          "end": 3.99,
+          "probability": 0.65
+        },
+        {
+          "word": "bàn",
+          "start": 3.99,
+          "end": 4.33,
+          "probability": 0.45
+        },
+        {
+          "word": "nha",
+          "start": 4.33,
+          "end": 4.69,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.22,
+      "end": 9.76,
+      "text": "Nói chứ bàn nha",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 6.22,
+          "end": 6.6,
+          "probability": 0.65
+        },
+        {
+          "word": "chứ",
+          "start": 6.6,
+          "end": 6.6,
+          "probability": 0.9
+        },
+        {
+          "word": "bàn",
+          "start": 6.6,
+          "end": 6.96,
+          "probability": 0.84
+        },
+        {
+          "word": "nha",
+          "start": 9.46,
+          "end": 9.76,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.76,
+      "end": 10.3,
+      "text": "Nói chứ bàn nha sợ nhất",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 9.76,
+          "end": 10.0,
+          "probability": 0.66
+        },
+        {
+          "word": "chứ",
+          "start": 10.0,
+          "end": 10.0,
+          "probability": 0.94
+        },
+        {
+          "word": "bàn",
+          "start": 10.0,
+          "end": 10.0,
+          "probability": 0.88
+        },
+        {
+          "word": "nha",
+          "start": 10.0,
+          "end": 10.0,
+          "probability": 0.79
+        },
+        {
+          "word": "sợ",
+          "start": 10.0,
+          "end": 10.3,
+          "probability": 0.56
+        },
+        {
+          "word": "nhất",
+          "start": 10.3,
+          "end": 10.3,
+          "probability": 0.79
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.3,
+      "end": 12.08,
+      "text": "Nói chứ bàn nha ngon lên kỳ",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 10.3,
+          "end": 10.98,
+          "probability": 0.68
+        },
+        {
+          "word": "chứ",
+          "start": 10.98,
+          "end": 10.98,
+          "probability": 0.96
+        },
+        {
+          "word": "bàn",
+          "start": 10.98,
+          "end": 11.0,
+          "probability": 0.92
+        },
+        {
+          "word": "nha",
+          "start": 11.0,
+          "end": 11.08,
+          "probability": 0.94
+        },
+        {
+          "word": "ngon",
+          "start": 11.08,
+          "end": 11.4,
+          "probability": 0.07
+        },
+        {
+          "word": "lên",
+          "start": 11.4,
+          "end": 11.68,
+          "probability": 0.41
+        },
+        {
+          "word": "kỳ",
+          "start": 11.68,
+          "end": 12.08,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 12.08,
+      "end": 13.02,
+      "text": "Mà sạch",
+      "words": [
+        {
+          "word": "Mà",
+          "start": 12.08,
+          "end": 12.46,
+          "probability": 0.14
+        },
+        {
+          "word": "sạch",
+          "start": 12.46,
+          "end": 13.02,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.02,
+      "end": 13.96,
+      "text": "Truyền hợp hồ sơ",
+      "words": [
+        {
+          "word": "Truyền",
+          "start": 13.02,
+          "end": 13.38,
+          "probability": 0.14
+        },
+        {
+          "word": "hợp",
+          "start": 13.38,
+          "end": 13.54,
+          "probability": 0.35
+        },
+        {
+          "word": "hồ",
+          "start": 13.54,
+          "end": 13.76,
+          "probability": 0.41
+        },
+        {
+          "word": "sơ",
+          "start": 13.76,
+          "end": 13.96,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 13.96,
+      "end": 15.7,
+      "text": "Vậy là cái hệ được kỳ",
+      "words": [
+        {
+          "word": "Vậy",
+          "start": 13.96,
+          "end": 14.7,
+          "probability": 0.03
+        },
+        {
+          "word": "là",
+          "start": 14.7,
+          "end": 14.92,
+          "probability": 0.1
+        },
+        {
+          "word": "cái",
+          "start": 14.92,
+          "end": 14.92,
+          "probability": 0.02
+        },
+        {
+          "word": "hệ",
+          "start": 14.92,
+          "end": 15.14,
+          "probability": 0.44
+        },
+        {
+          "word": "được",
+          "start": 15.14,
+          "end": 15.3,
+          "probability": 0.46
+        },
+        {
+          "word": "kỳ",
+          "start": 15.3,
+          "end": 15.7,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 15.7,
+      "end": 17.38,
+      "text": "Cái năng lực trị của bạn năng",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 15.7,
+          "end": 15.92,
+          "probability": 0.34
+        },
+        {
+          "word": "năng",
+          "start": 15.92,
+          "end": 16.08,
+          "probability": 0.46
+        },
+        {
+          "word": "lực",
+          "start": 16.08,
+          "end": 16.32,
+          "probability": 0.64
+        },
+        {
+          "word": "trị",
+          "start": 16.32,
+          "end": 16.56,
+          "probability": 0.28
+        },
+        {
+          "word": "của",
+          "start": 16.56,
+          "end": 16.72,
+          "probability": 0.59
+        },
+        {
+          "word": "bạn",
+          "start": 16.72,
+          "end": 16.9,
+          "probability": 0.69
+        },
+        {
+          "word": "năng",
+          "start": 16.9,
+          "end": 17.38,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 17.38,
+      "end": 18.56,
+      "text": "Chênh mình lấy việc về",
+      "words": [
+        {
+          "word": "Chênh",
+          "start": 17.38,
+          "end": 17.64,
+          "probability": 0.31
+        },
+        {
+          "word": "mình",
+          "start": 17.64,
+          "end": 17.84,
+          "probability": 0.08
+        },
+        {
+          "word": "lấy",
+          "start": 17.84,
+          "end": 18.0,
+          "probability": 0.76
+        },
+        {
+          "word": "việc",
+          "start": 18.0,
+          "end": 18.22,
+          "probability": 0.15
+        },
+        {
+          "word": "về",
+          "start": 18.22,
+          "end": 18.56,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 18.56,
+      "end": 19.5,
+      "text": "Ai về để hả như vậy",
+      "words": [
+        {
+          "word": "Ai",
+          "start": 18.56,
+          "end": 18.74,
+          "probability": 0.01
+        },
+        {
+          "word": "về",
+          "start": 18.74,
+          "end": 18.84,
+          "probability": 0.01
+        },
+        {
+          "word": "để",
+          "start": 18.84,
+          "end": 19.06,
+          "probability": 0.33
+        },
+        {
+          "word": "hả",
+          "start": 19.06,
+          "end": 19.18,
+          "probability": 0.14
+        },
+        {
+          "word": "như",
+          "start": 19.18,
+          "end": 19.3,
+          "probability": 0.72
+        },
+        {
+          "word": "vậy",
+          "start": 19.3,
+          "end": 19.5,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 19.5,
+      "end": 20.46,
+      "text": "Ai về là một kỳ",
+      "words": [
+        {
+          "word": "Ai",
+          "start": 19.5,
+          "end": 19.72,
+          "probability": 0.81
+        },
+        {
+          "word": "về",
+          "start": 19.72,
+          "end": 19.88,
+          "probability": 0.94
+        },
+        {
+          "word": "là",
+          "start": 19.88,
+          "end": 20.08,
+          "probability": 0.75
+        },
+        {
+          "word": "một",
+          "start": 20.08,
+          "end": 20.26,
+          "probability": 0.76
+        },
+        {
+          "word": "kỳ",
+          "start": 20.26,
+          "end": 20.46,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 20.46,
+      "end": 22.98,
+      "text": "Tạm hệ của người hề gọi là của bạn mấy",
+      "words": [
+        {
+          "word": "Tạm",
+          "start": 20.46,
+          "end": 20.84,
+          "probability": 0.14
+        },
+        {
+          "word": "hệ",
+          "start": 20.84,
+          "end": 21.1,
+          "probability": 0.16
+        },
+        {
+          "word": "của",
+          "start": 21.1,
+          "end": 21.4,
+          "probability": 0.1
+        },
+        {
+          "word": "người",
+          "start": 21.4,
+          "end": 21.62,
+          "probability": 0.15
+        },
+        {
+          "word": "hề",
+          "start": 21.62,
+          "end": 21.74,
+          "probability": 0.29
+        },
+        {
+          "word": "gọi",
+          "start": 21.74,
+          "end": 22.06,
+          "probability": 0.73
+        },
+        {
+          "word": "là",
+          "start": 22.06,
+          "end": 22.38,
+          "probability": 0.56
+        },
+        {
+          "word": "của",
+          "start": 22.38,
+          "end": 22.44,
+          "probability": 0.52
+        },
+        {
+          "word": "bạn",
+          "start": 22.44,
+          "end": 22.6,
+          "probability": 0.22
+        },
+        {
+          "word": "mấy",
+          "start": 22.6,
+          "end": 22.98,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 22.98,
+      "end": 23.52,
+      "text": "OK?",
+      "words": [
+        {
+          "word": "OK?",
+          "start": 22.98,
+          "end": 23.52,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 23.8,
+      "end": 24.6,
+      "text": "Si ai về là có",
+      "words": [
+        {
+          "word": "Si",
+          "start": 23.8,
+          "end": 23.86,
+          "probability": 0.11
+        },
+        {
+          "word": "ai",
+          "start": 23.86,
+          "end": 24.02,
+          "probability": 0.24
+        },
+        {
+          "word": "về",
+          "start": 24.02,
+          "end": 24.16,
+          "probability": 0.97
+        },
+        {
+          "word": "là",
+          "start": 24.16,
+          "end": 24.36,
+          "probability": 0.54
+        },
+        {
+          "word": "có",
+          "start": 24.36,
+          "end": 24.6,
+          "probability": 0.68
+        }
+      ]
+    }
+  ]
+}

@@ -123,10 +123,10 @@ def reconcile_folder(folder_path: Path) -> dict:
     }
 
 
-def reconcile_remote_drive(root_folder_id: str = DEFAULT_ROOT_FOLDER_ID, week_number: int = 2) -> None:
+def reconcile_remote_drive(root_folder_id: str = DEFAULT_ROOT_FOLDER_ID, week_number: int | None = None) -> None:
     """
     Đối soát toàn diện trực tiếp với Google Drive (CUMULATIVE RECONCILER):
-    1. Quét toàn bộ danh sách ngày trên Drive: Week{week_number}/
+    1. Tự động phát hiện và quét toàn bộ các tuần trên Drive: Week2, Week3,...
     2. Lấy danh sách toàn bộ file .wav thực tế trên Drive cho từng ngày.
     3. Hợp nhất metadata từ local và Drive, bổ sung bản ghi cho 100% file .wav thiếu.
     4. Tính toán summary.json chuẩn xác tuyệt đối (items_delivered == audio count).
@@ -136,25 +136,38 @@ def reconcile_remote_drive(root_folder_id: str = DEFAULT_ROOT_FOLDER_ID, week_nu
         print("[RECONCILE] rclone not installed or not in PATH — skipping remote reconciliation.")
         return
 
-    drive_week_path = f"gdrive,root_folder_id={root_folder_id}:Week{week_number}/"
-    print(f"🔍 [REMOTE RECONCILE] Connecting to Google Drive: Week{week_number}...")
+    if week_number is not None:
+        weeks = [week_number]
+    else:
+        # Tự động quét toàn bộ các tuần có trên Google Drive
+        res_weeks = subprocess.run(["rclone", "lsf", f"gdrive,root_folder_id={root_folder_id}:", "--dirs-only"], capture_output=True, text=True, encoding="utf-8")
+        found_weeks = []
+        for line in res_weeks.stdout.splitlines():
+            folder_name = line.strip().rstrip("/")
+            if folder_name.startswith("Week") and folder_name.removeprefix("Week").isdigit():
+                found_weeks.append(int(folder_name.removeprefix("Week")))
+        weeks = sorted(found_weeks) if found_weeks else [3]
 
-    # Lấy danh sách các thư mục ngày trên Drive
-    res = subprocess.run(["rclone", "lsf", drive_week_path, "--dirs-only"], capture_output=True, text=True, encoding="utf-8")
-    if res.returncode != 0:
-        print(f"⚠️ [REMOTE RECONCILE] Cannot list Google Drive: {res.stderr}")
-        return
+    for wk in weeks:
+        drive_week_path = f"gdrive,root_folder_id={root_folder_id}:Week{wk}/"
+        print(f"🔍 [REMOTE RECONCILE] Connecting to Google Drive: Week{wk}...")
 
-    remote_dates = [d.strip().rstrip("/") for d in res.stdout.splitlines() if d.strip()]
-    if not remote_dates:
-        print("[REMOTE RECONCILE] No date folders found on Google Drive.")
-        return
+        # Lấy danh sách các thư mục ngày trên Drive
+        res = subprocess.run(["rclone", "lsf", drive_week_path, "--dirs-only"], capture_output=True, text=True, encoding="utf-8")
+        if res.returncode != 0:
+            print(f"⚠️ [REMOTE RECONCILE] Cannot list Google Drive Week{wk}: {res.stderr}")
+            continue
 
-    print(f"📋 Found {len(remote_dates)} date folder(s) on Google Drive: {', '.join(remote_dates)}")
+        remote_dates = [d.strip().rstrip("/") for d in res.stdout.splitlines() if d.strip()]
+        if not remote_dates:
+            print(f"[REMOTE RECONCILE] No date folders found in Week{wk} on Google Drive.")
+            continue
 
-    for d in sorted(remote_dates):
-        drive_audio_path = f"gdrive,root_folder_id={root_folder_id}:Week{week_number}/{d}/audio/"
-        drive_target = f"gdrive,root_folder_id={root_folder_id}:Week{week_number}/{d}/"
+        print(f"📋 Found {len(remote_dates)} date folder(s) in Week{wk} on Google Drive: {', '.join(remote_dates)}")
+
+        for d in sorted(remote_dates):
+            drive_audio_path = f"gdrive,root_folder_id={root_folder_id}:Week{wk}/{d}/audio/"
+            drive_target = f"gdrive,root_folder_id={root_folder_id}:Week{wk}/{d}/"
 
         # 1. Lấy danh sách tất cả file .wav thực tế trên Google Drive
         res_audio = subprocess.run(["rclone", "lsf", drive_audio_path], capture_output=True, text=True, encoding="utf-8")
@@ -166,7 +179,7 @@ def reconcile_remote_drive(root_folder_id: str = DEFAULT_ROOT_FOLDER_ID, week_nu
             continue
 
         # 2. Đọc metadata từ local hoặc tải từ Drive
-        local_dir = Path(f"Week{week_number}/{d}")
+        local_dir = Path(f"Week{wk}/{d}")
         local_dir.mkdir(parents=True, exist_ok=True)
         local_meta_file = local_dir / "metadata.json"
         local_summary_file = local_dir / "summary.json"

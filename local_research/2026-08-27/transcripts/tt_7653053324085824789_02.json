@@ -1,0 +1,774 @@
+{
+  "item_id": "tt_7653053324085824789_02",
+  "duration_seconds": 28.68,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 118,
+  "text": "Tôi nghĩ là đã chính là bình thích phần lan đứng đầu và sức hãn quốc gia hãn phúc nước thị giới. Tôi nghĩ đối với anh nhìn tôi, tôi là một người lạc quan. Tôi nghĩ ở phần lan lạc quan mà tự có thể phòng phải đúng nha cũng có ra như vậy. Tôi là một người lạc quan và tốt thích quá phải trọng quá thương mình. Tôi nghĩ ở phần lan chúng tôi có sự cần phản rất tốt, việc công việc có cuộc sống. Tôi nghĩ ở sự sống hối là một người tán rất quan trọng. Nhà vậy, mình muốn việc có sống như thì bạn có một mạnh với anh rồi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.61,
+      "end": 5.11,
+      "text": "Tôi nghĩ là đã chính là bình thích phần lan đứng đầu và sức hãn quốc gia hãn phúc nước thị giới.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 0.61,
+          "end": 0.97,
+          "probability": 0.31
+        },
+        {
+          "word": "nghĩ",
+          "start": 0.97,
+          "end": 1.13,
+          "probability": 0.94
+        },
+        {
+          "word": "là",
+          "start": 1.13,
+          "end": 1.37,
+          "probability": 0.96
+        },
+        {
+          "word": "đã",
+          "start": 1.37,
+          "end": 1.67,
+          "probability": 0.81
+        },
+        {
+          "word": "chính",
+          "start": 1.67,
+          "end": 1.83,
+          "probability": 0.76
+        },
+        {
+          "word": "là",
+          "start": 1.83,
+          "end": 1.97,
+          "probability": 0.31
+        },
+        {
+          "word": "bình",
+          "start": 1.97,
+          "end": 2.21,
+          "probability": 0.43
+        },
+        {
+          "word": "thích",
+          "start": 2.21,
+          "end": 2.35,
+          "probability": 0.33
+        },
+        {
+          "word": "phần",
+          "start": 2.35,
+          "end": 2.63,
+          "probability": 0.7
+        },
+        {
+          "word": "lan",
+          "start": 2.63,
+          "end": 2.85,
+          "probability": 0.38
+        },
+        {
+          "word": "đứng",
+          "start": 2.85,
+          "end": 2.97,
+          "probability": 0.55
+        },
+        {
+          "word": "đầu",
+          "start": 2.97,
+          "end": 3.17,
+          "probability": 0.72
+        },
+        {
+          "word": "và",
+          "start": 3.17,
+          "end": 3.35,
+          "probability": 0.53
+        },
+        {
+          "word": "sức",
+          "start": 3.35,
+          "end": 3.51,
+          "probability": 0.35
+        },
+        {
+          "word": "hãn",
+          "start": 3.51,
+          "end": 3.69,
+          "probability": 0.45
+        },
+        {
+          "word": "quốc",
+          "start": 3.69,
+          "end": 3.87,
+          "probability": 0.68
+        },
+        {
+          "word": "gia",
+          "start": 3.87,
+          "end": 4.03,
+          "probability": 0.48
+        },
+        {
+          "word": "hãn",
+          "start": 4.03,
+          "end": 4.23,
+          "probability": 0.68
+        },
+        {
+          "word": "phúc",
+          "start": 4.23,
+          "end": 4.37,
+          "probability": 0.47
+        },
+        {
+          "word": "nước",
+          "start": 4.37,
+          "end": 4.57,
+          "probability": 0.76
+        },
+        {
+          "word": "thị",
+          "start": 4.57,
+          "end": 4.71,
+          "probability": 0.29
+        },
+        {
+          "word": "giới.",
+          "start": 4.71,
+          "end": 5.11,
+          "probability": 0.78
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.19,
+      "end": 8.49,
+      "text": "Tôi nghĩ đối với anh nhìn tôi, tôi là một người lạc quan.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 6.19,
+          "end": 6.29,
+          "probability": 0.99
+        },
+        {
+          "word": "nghĩ",
+          "start": 6.29,
+          "end": 6.47,
+          "probability": 1.0
+        },
+        {
+          "word": "đối",
+          "start": 6.47,
+          "end": 6.69,
+          "probability": 0.56
+        },
+        {
+          "word": "với",
+          "start": 6.69,
+          "end": 6.77,
+          "probability": 0.68
+        },
+        {
+          "word": "anh",
+          "start": 6.77,
+          "end": 7.03,
+          "probability": 0.08
+        },
+        {
+          "word": "nhìn",
+          "start": 7.03,
+          "end": 7.09,
+          "probability": 0.35
+        },
+        {
+          "word": "tôi,",
+          "start": 7.09,
+          "end": 7.27,
+          "probability": 0.91
+        },
+        {
+          "word": "tôi",
+          "start": 7.53,
+          "end": 7.67,
+          "probability": 0.91
+        },
+        {
+          "word": "là",
+          "start": 7.67,
+          "end": 7.79,
+          "probability": 0.95
+        },
+        {
+          "word": "một",
+          "start": 7.79,
+          "end": 7.91,
+          "probability": 0.86
+        },
+        {
+          "word": "người",
+          "start": 7.91,
+          "end": 8.07,
+          "probability": 0.76
+        },
+        {
+          "word": "lạc",
+          "start": 8.07,
+          "end": 8.29,
+          "probability": 0.59
+        },
+        {
+          "word": "quan.",
+          "start": 8.29,
+          "end": 8.49,
+          "probability": 0.81
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.79,
+      "end": 13.73,
+      "text": "Tôi nghĩ ở phần lan lạc quan mà tự có thể phòng phải đúng nha cũng có ra như vậy.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 9.79,
+          "end": 9.97,
+          "probability": 0.98
+        },
+        {
+          "word": "nghĩ",
+          "start": 9.97,
+          "end": 10.09,
+          "probability": 1.0
+        },
+        {
+          "word": "ở",
+          "start": 10.09,
+          "end": 10.27,
+          "probability": 0.51
+        },
+        {
+          "word": "phần",
+          "start": 10.27,
+          "end": 10.43,
+          "probability": 0.52
+        },
+        {
+          "word": "lan",
+          "start": 10.43,
+          "end": 10.63,
+          "probability": 0.99
+        },
+        {
+          "word": "lạc",
+          "start": 10.63,
+          "end": 10.91,
+          "probability": 0.93
+        },
+        {
+          "word": "quan",
+          "start": 10.91,
+          "end": 11.15,
+          "probability": 0.97
+        },
+        {
+          "word": "mà",
+          "start": 11.15,
+          "end": 11.53,
+          "probability": 0.32
+        },
+        {
+          "word": "tự",
+          "start": 11.53,
+          "end": 11.75,
+          "probability": 0.09
+        },
+        {
+          "word": "có",
+          "start": 11.75,
+          "end": 11.93,
+          "probability": 0.43
+        },
+        {
+          "word": "thể",
+          "start": 11.93,
+          "end": 12.13,
+          "probability": 0.9
+        },
+        {
+          "word": "phòng",
+          "start": 12.13,
+          "end": 12.31,
+          "probability": 0.51
+        },
+        {
+          "word": "phải",
+          "start": 12.31,
+          "end": 12.49,
+          "probability": 0.8
+        },
+        {
+          "word": "đúng",
+          "start": 12.49,
+          "end": 12.61,
+          "probability": 0.46
+        },
+        {
+          "word": "nha",
+          "start": 12.61,
+          "end": 12.79,
+          "probability": 0.19
+        },
+        {
+          "word": "cũng",
+          "start": 12.79,
+          "end": 12.99,
+          "probability": 0.85
+        },
+        {
+          "word": "có",
+          "start": 12.99,
+          "end": 13.15,
+          "probability": 0.34
+        },
+        {
+          "word": "ra",
+          "start": 13.15,
+          "end": 13.29,
+          "probability": 0.35
+        },
+        {
+          "word": "như",
+          "start": 13.29,
+          "end": 13.43,
+          "probability": 0.59
+        },
+        {
+          "word": "vậy.",
+          "start": 13.43,
+          "end": 13.73,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.81,
+      "end": 17.63,
+      "text": "Tôi là một người lạc quan và tốt thích quá phải trọng quá thương mình.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 14.81,
+          "end": 14.85,
+          "probability": 0.98
+        },
+        {
+          "word": "là",
+          "start": 14.85,
+          "end": 15.01,
+          "probability": 1.0
+        },
+        {
+          "word": "một",
+          "start": 15.01,
+          "end": 15.15,
+          "probability": 0.96
+        },
+        {
+          "word": "người",
+          "start": 15.15,
+          "end": 15.27,
+          "probability": 0.99
+        },
+        {
+          "word": "lạc",
+          "start": 15.27,
+          "end": 15.49,
+          "probability": 0.98
+        },
+        {
+          "word": "quan",
+          "start": 15.49,
+          "end": 15.73,
+          "probability": 0.99
+        },
+        {
+          "word": "và",
+          "start": 15.73,
+          "end": 15.89,
+          "probability": 0.92
+        },
+        {
+          "word": "tốt",
+          "start": 15.89,
+          "end": 16.05,
+          "probability": 0.65
+        },
+        {
+          "word": "thích",
+          "start": 16.05,
+          "end": 16.19,
+          "probability": 0.09
+        },
+        {
+          "word": "quá",
+          "start": 16.19,
+          "end": 16.39,
+          "probability": 0.24
+        },
+        {
+          "word": "phải",
+          "start": 16.39,
+          "end": 16.59,
+          "probability": 0.14
+        },
+        {
+          "word": "trọng",
+          "start": 16.59,
+          "end": 16.73,
+          "probability": 0.56
+        },
+        {
+          "word": "quá",
+          "start": 16.73,
+          "end": 16.93,
+          "probability": 0.35
+        },
+        {
+          "word": "thương",
+          "start": 16.93,
+          "end": 17.09,
+          "probability": 0.51
+        },
+        {
+          "word": "mình.",
+          "start": 17.09,
+          "end": 17.63,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 18.01,
+      "end": 21.49,
+      "text": "Tôi nghĩ ở phần lan chúng tôi có sự cần phản rất tốt, việc công việc có cuộc sống.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 18.01,
+          "end": 18.17,
+          "probability": 0.99
+        },
+        {
+          "word": "nghĩ",
+          "start": 18.17,
+          "end": 18.33,
+          "probability": 1.0
+        },
+        {
+          "word": "ở",
+          "start": 18.33,
+          "end": 18.51,
+          "probability": 0.49
+        },
+        {
+          "word": "phần",
+          "start": 18.51,
+          "end": 18.67,
+          "probability": 0.96
+        },
+        {
+          "word": "lan",
+          "start": 18.67,
+          "end": 18.85,
+          "probability": 0.99
+        },
+        {
+          "word": "chúng",
+          "start": 18.85,
+          "end": 19.05,
+          "probability": 0.67
+        },
+        {
+          "word": "tôi",
+          "start": 19.05,
+          "end": 19.19,
+          "probability": 0.88
+        },
+        {
+          "word": "có",
+          "start": 19.19,
+          "end": 19.37,
+          "probability": 0.64
+        },
+        {
+          "word": "sự",
+          "start": 19.37,
+          "end": 19.53,
+          "probability": 0.6
+        },
+        {
+          "word": "cần",
+          "start": 19.53,
+          "end": 19.75,
+          "probability": 0.64
+        },
+        {
+          "word": "phản",
+          "start": 19.75,
+          "end": 19.91,
+          "probability": 0.36
+        },
+        {
+          "word": "rất",
+          "start": 19.91,
+          "end": 20.11,
+          "probability": 0.45
+        },
+        {
+          "word": "tốt,",
+          "start": 20.11,
+          "end": 20.29,
+          "probability": 0.89
+        },
+        {
+          "word": "việc",
+          "start": 20.39,
+          "end": 20.51,
+          "probability": 0.13
+        },
+        {
+          "word": "công",
+          "start": 20.51,
+          "end": 20.73,
+          "probability": 0.55
+        },
+        {
+          "word": "việc",
+          "start": 20.73,
+          "end": 20.89,
+          "probability": 0.87
+        },
+        {
+          "word": "có",
+          "start": 20.89,
+          "end": 21.07,
+          "probability": 0.14
+        },
+        {
+          "word": "cuộc",
+          "start": 21.07,
+          "end": 21.21,
+          "probability": 0.87
+        },
+        {
+          "word": "sống.",
+          "start": 21.21,
+          "end": 21.49,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 22.69,
+      "end": 25.13,
+      "text": "Tôi nghĩ ở sự sống hối là một người tán rất quan trọng.",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 22.69,
+          "end": 22.77,
+          "probability": 0.99
+        },
+        {
+          "word": "nghĩ",
+          "start": 22.77,
+          "end": 23.03,
+          "probability": 1.0
+        },
+        {
+          "word": "ở",
+          "start": 23.03,
+          "end": 23.27,
+          "probability": 0.26
+        },
+        {
+          "word": "sự",
+          "start": 23.27,
+          "end": 23.35,
+          "probability": 0.27
+        },
+        {
+          "word": "sống",
+          "start": 23.35,
+          "end": 23.55,
+          "probability": 0.51
+        },
+        {
+          "word": "hối",
+          "start": 23.55,
+          "end": 23.77,
+          "probability": 0.45
+        },
+        {
+          "word": "là",
+          "start": 23.77,
+          "end": 23.97,
+          "probability": 0.91
+        },
+        {
+          "word": "một",
+          "start": 23.97,
+          "end": 24.17,
+          "probability": 0.51
+        },
+        {
+          "word": "người",
+          "start": 24.17,
+          "end": 24.33,
+          "probability": 0.77
+        },
+        {
+          "word": "tán",
+          "start": 24.33,
+          "end": 24.49,
+          "probability": 0.51
+        },
+        {
+          "word": "rất",
+          "start": 24.49,
+          "end": 24.67,
+          "probability": 0.87
+        },
+        {
+          "word": "quan",
+          "start": 24.67,
+          "end": 24.89,
+          "probability": 0.62
+        },
+        {
+          "word": "trọng.",
+          "start": 24.89,
+          "end": 25.13,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 25.47,
+      "end": 28.43,
+      "text": "Nhà vậy, mình muốn việc có sống như thì bạn có một mạnh với anh rồi.",
+      "words": [
+        {
+          "word": "Nhà",
+          "start": 25.47,
+          "end": 25.55,
+          "probability": 0.38
+        },
+        {
+          "word": "vậy,",
+          "start": 25.55,
+          "end": 25.79,
+          "probability": 0.79
+        },
+        {
+          "word": "mình",
+          "start": 25.87,
+          "end": 26.01,
+          "probability": 0.24
+        },
+        {
+          "word": "muốn",
+          "start": 26.01,
+          "end": 26.25,
+          "probability": 0.16
+        },
+        {
+          "word": "việc",
+          "start": 26.25,
+          "end": 26.45,
+          "probability": 0.21
+        },
+        {
+          "word": "có",
+          "start": 26.45,
+          "end": 26.71,
+          "probability": 0.74
+        },
+        {
+          "word": "sống",
+          "start": 26.71,
+          "end": 26.75,
+          "probability": 0.73
+        },
+        {
+          "word": "như",
+          "start": 26.75,
+          "end": 27.03,
+          "probability": 0.23
+        },
+        {
+          "word": "thì",
+          "start": 27.03,
+          "end": 27.23,
+          "probability": 0.46
+        },
+        {
+          "word": "bạn",
+          "start": 27.23,
+          "end": 27.43,
+          "probability": 0.75
+        },
+        {
+          "word": "có",
+          "start": 27.43,
+          "end": 27.61,
+          "probability": 0.89
+        },
+        {
+          "word": "một",
+          "start": 27.61,
+          "end": 27.75,
+          "probability": 0.65
+        },
+        {
+          "word": "mạnh",
+          "start": 27.75,
+          "end": 27.93,
+          "probability": 0.58
+        },
+        {
+          "word": "với",
+          "start": 27.93,
+          "end": 28.09,
+          "probability": 0.07
+        },
+        {
+          "word": "anh",
+          "start": 28.09,
+          "end": 28.33,
+          "probability": 0.91
+        },
+        {
+          "word": "rồi.",
+          "start": 28.33,
+          "end": 28.43,
+          "probability": 0.08
+        }
+      ]
+    }
+  ]
+}

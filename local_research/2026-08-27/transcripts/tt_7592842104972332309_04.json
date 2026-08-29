@@ -1,0 +1,72 @@
+{
+  "item_id": "tt_7592842104972332309_04",
+  "duration_seconds": 5.97,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "Đâm xai vẫn đang tiếp tục lúc không chế.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.24,
+      "end": 2.48,
+      "text": "Đâm xai vẫn đang tiếp tục lúc không chế.",
+      "words": [
+        {
+          "word": "Đâm",
+          "start": 0.24,
+          "end": 0.84,
+          "probability": 0.21
+        },
+        {
+          "word": "xai",
+          "start": 0.84,
+          "end": 1.04,
+          "probability": 0.42
+        },
+        {
+          "word": "vẫn",
+          "start": 1.04,
+          "end": 1.22,
+          "probability": 0.64
+        },
+        {
+          "word": "đang",
+          "start": 1.22,
+          "end": 1.42,
+          "probability": 0.95
+        },
+        {
+          "word": "tiếp",
+          "start": 1.42,
+          "end": 1.6,
+          "probability": 0.76
+        },
+        {
+          "word": "tục",
+          "start": 1.6,
+          "end": 1.76,
+          "probability": 0.9
+        },
+        {
+          "word": "lúc",
+          "start": 1.76,
+          "end": 1.94,
+          "probability": 0.49
+        },
+        {
+          "word": "không",
+          "start": 1.94,
+          "end": 2.06,
+          "probability": 0.58
+        },
+        {
+          "word": "chế.",
+          "start": 2.06,
+          "end": 2.48,
+          "probability": 0.57
+        }
+      ]
+    }
+  ]
+}

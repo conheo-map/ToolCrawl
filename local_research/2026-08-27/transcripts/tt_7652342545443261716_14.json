@@ -1,0 +1,478 @@
+{
+  "item_id": "tt_7652342545443261716_14",
+  "duration_seconds": 27.47,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 66,
+  "text": "Sở đến lớp 1 Sao lớp 1 là chí Mình như cái lớp mà giữa của khó Thì kế nó sẽ có bà cái vòng như là nó phố sơ Bà đơn lực truyền Sau đó thì các bạn sẽ được kế quan kế bà bà thịp Bà thịp, bà thịp thì gặn đất Lần tiên anh mà toán Thì anh mà toán nó sẽ lăm",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.1,
+      "text": "Sở đến lớp 1",
+      "words": [
+        {
+          "word": "Sở",
+          "start": 0.0,
+          "end": 0.84,
+          "probability": 0.05
+        },
+        {
+          "word": "đến",
+          "start": 0.84,
+          "end": 1.06,
+          "probability": 0.16
+        },
+        {
+          "word": "lớp",
+          "start": 1.06,
+          "end": 1.54,
+          "probability": 0.44
+        },
+        {
+          "word": "1",
+          "start": 1.54,
+          "end": 2.1,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.1,
+      "end": 3.52,
+      "text": "Sao lớp 1 là chí",
+      "words": [
+        {
+          "word": "Sao",
+          "start": 2.1,
+          "end": 2.72,
+          "probability": 0.48
+        },
+        {
+          "word": "lớp",
+          "start": 2.72,
+          "end": 2.88,
+          "probability": 0.9
+        },
+        {
+          "word": "1",
+          "start": 2.88,
+          "end": 3.1,
+          "probability": 0.8
+        },
+        {
+          "word": "là",
+          "start": 3.1,
+          "end": 3.18,
+          "probability": 0.22
+        },
+        {
+          "word": "chí",
+          "start": 3.18,
+          "end": 3.52,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.52,
+      "end": 6.02,
+      "text": "Mình như cái lớp mà giữa của khó",
+      "words": [
+        {
+          "word": "Mình",
+          "start": 3.52,
+          "end": 3.82,
+          "probability": 0.36
+        },
+        {
+          "word": "như",
+          "start": 3.82,
+          "end": 3.96,
+          "probability": 0.21
+        },
+        {
+          "word": "cái",
+          "start": 3.96,
+          "end": 4.12,
+          "probability": 0.21
+        },
+        {
+          "word": "lớp",
+          "start": 4.12,
+          "end": 4.42,
+          "probability": 0.98
+        },
+        {
+          "word": "mà",
+          "start": 4.42,
+          "end": 4.66,
+          "probability": 0.52
+        },
+        {
+          "word": "giữa",
+          "start": 4.66,
+          "end": 4.96,
+          "probability": 0.67
+        },
+        {
+          "word": "của",
+          "start": 4.96,
+          "end": 5.2,
+          "probability": 0.09
+        },
+        {
+          "word": "khó",
+          "start": 5.2,
+          "end": 6.02,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.02,
+      "end": 13.18,
+      "text": "Thì kế nó sẽ có bà cái vòng như là nó phố sơ",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 6.02,
+          "end": 6.84,
+          "probability": 0.64
+        },
+        {
+          "word": "kế",
+          "start": 6.84,
+          "end": 9.0,
+          "probability": 0.15
+        },
+        {
+          "word": "nó",
+          "start": 9.0,
+          "end": 9.8,
+          "probability": 0.77
+        },
+        {
+          "word": "sẽ",
+          "start": 9.8,
+          "end": 9.96,
+          "probability": 0.97
+        },
+        {
+          "word": "có",
+          "start": 9.96,
+          "end": 10.12,
+          "probability": 0.94
+        },
+        {
+          "word": "bà",
+          "start": 10.12,
+          "end": 10.42,
+          "probability": 0.46
+        },
+        {
+          "word": "cái",
+          "start": 10.42,
+          "end": 11.2,
+          "probability": 0.36
+        },
+        {
+          "word": "vòng",
+          "start": 11.2,
+          "end": 11.48,
+          "probability": 0.5
+        },
+        {
+          "word": "như",
+          "start": 11.48,
+          "end": 11.76,
+          "probability": 0.19
+        },
+        {
+          "word": "là",
+          "start": 11.76,
+          "end": 12.4,
+          "probability": 0.37
+        },
+        {
+          "word": "nó",
+          "start": 12.4,
+          "end": 12.6,
+          "probability": 0.6
+        },
+        {
+          "word": "phố",
+          "start": 12.6,
+          "end": 12.8,
+          "probability": 0.5
+        },
+        {
+          "word": "sơ",
+          "start": 12.8,
+          "end": 13.18,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.18,
+      "end": 14.92,
+      "text": "Bà đơn lực truyền",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 13.18,
+          "end": 13.94,
+          "probability": 0.02
+        },
+        {
+          "word": "đơn",
+          "start": 13.94,
+          "end": 14.16,
+          "probability": 0.17
+        },
+        {
+          "word": "lực",
+          "start": 14.16,
+          "end": 14.52,
+          "probability": 0.59
+        },
+        {
+          "word": "truyền",
+          "start": 14.52,
+          "end": 14.92,
+          "probability": 0.27
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.92,
+      "end": 20.3,
+      "text": "Sau đó thì các bạn sẽ được kế quan kế bà bà thịp",
+      "words": [
+        {
+          "word": "Sau",
+          "start": 14.92,
+          "end": 15.46,
+          "probability": 0.13
+        },
+        {
+          "word": "đó",
+          "start": 15.46,
+          "end": 15.66,
+          "probability": 0.99
+        },
+        {
+          "word": "thì",
+          "start": 15.66,
+          "end": 15.92,
+          "probability": 0.71
+        },
+        {
+          "word": "các",
+          "start": 15.92,
+          "end": 16.12,
+          "probability": 0.3
+        },
+        {
+          "word": "bạn",
+          "start": 16.12,
+          "end": 16.24,
+          "probability": 0.99
+        },
+        {
+          "word": "sẽ",
+          "start": 16.24,
+          "end": 16.42,
+          "probability": 0.99
+        },
+        {
+          "word": "được",
+          "start": 16.42,
+          "end": 17.16,
+          "probability": 0.96
+        },
+        {
+          "word": "kế",
+          "start": 17.16,
+          "end": 17.8,
+          "probability": 0.18
+        },
+        {
+          "word": "quan",
+          "start": 17.8,
+          "end": 18.02,
+          "probability": 0.2
+        },
+        {
+          "word": "kế",
+          "start": 18.02,
+          "end": 18.24,
+          "probability": 0.62
+        },
+        {
+          "word": "bà",
+          "start": 18.24,
+          "end": 18.6,
+          "probability": 0.37
+        },
+        {
+          "word": "bà",
+          "start": 18.6,
+          "end": 18.98,
+          "probability": 0.32
+        },
+        {
+          "word": "thịp",
+          "start": 18.98,
+          "end": 20.3,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 20.3,
+      "end": 22.46,
+      "text": "Bà thịp, bà thịp thì gặn đất",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 20.3,
+          "end": 20.86,
+          "probability": 0.55
+        },
+        {
+          "word": "thịp,",
+          "start": 20.86,
+          "end": 20.88,
+          "probability": 0.8
+        },
+        {
+          "word": "bà",
+          "start": 20.88,
+          "end": 20.88,
+          "probability": 0.89
+        },
+        {
+          "word": "thịp",
+          "start": 20.88,
+          "end": 21.04,
+          "probability": 0.9
+        },
+        {
+          "word": "thì",
+          "start": 21.04,
+          "end": 21.34,
+          "probability": 0.71
+        },
+        {
+          "word": "gặn",
+          "start": 21.34,
+          "end": 22.0,
+          "probability": 0.3
+        },
+        {
+          "word": "đất",
+          "start": 22.0,
+          "end": 22.46,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 22.9,
+      "end": 24.56,
+      "text": "Lần tiên anh mà toán",
+      "words": [
+        {
+          "word": "Lần",
+          "start": 22.9,
+          "end": 23.2,
+          "probability": 0.16
+        },
+        {
+          "word": "tiên",
+          "start": 23.2,
+          "end": 23.4,
+          "probability": 0.38
+        },
+        {
+          "word": "anh",
+          "start": 23.4,
+          "end": 23.56,
+          "probability": 0.43
+        },
+        {
+          "word": "mà",
+          "start": 23.56,
+          "end": 23.7,
+          "probability": 0.69
+        },
+        {
+          "word": "toán",
+          "start": 23.7,
+          "end": 24.56,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 24.56,
+      "end": 27.36,
+      "text": "Thì anh mà toán nó sẽ lăm",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 24.56,
+          "end": 24.7,
+          "probability": 0.3
+        },
+        {
+          "word": "anh",
+          "start": 24.7,
+          "end": 24.84,
+          "probability": 0.5
+        },
+        {
+          "word": "mà",
+          "start": 24.84,
+          "end": 24.94,
+          "probability": 0.97
+        },
+        {
+          "word": "toán",
+          "start": 24.94,
+          "end": 25.66,
+          "probability": 0.92
+        },
+        {
+          "word": "nó",
+          "start": 25.66,
+          "end": 25.94,
+          "probability": 0.01
+        },
+        {
+          "word": "sẽ",
+          "start": 25.94,
+          "end": 26.28,
+          "probability": 0.97
+        },
+        {
+          "word": "lăm",
+          "start": 26.28,
+          "end": 27.36,
+          "probability": 0.23
+        }
+      ]
+    }
+  ]
+}

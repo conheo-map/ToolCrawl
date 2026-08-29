@@ -1,0 +1,502 @@
+{
+  "item_id": "tt_7662351033112268039_03",
+  "duration_seconds": 27.0,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 74,
+  "text": "Bữa giờ em bữa giờ làm được cái gì vậy? Hãy không có tiền. Lại kênh cứng tắc đã học sinh kể rồi nông. Còn trong trang, sau sinh kể, phải tài miến bản đi ở bạm máo về môi trường. Đây là vườn ở được anh tác hoàn toàn bằng viên bản đi ở. Với chủ của khu vườn này cũng là một người đã tìm giá quân cách dài được trong đất.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Bữa giờ em bữa giờ làm được cái gì vậy?",
+      "words": [
+        {
+          "word": "Bữa",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.25
+        },
+        {
+          "word": "giờ",
+          "start": 0.46,
+          "end": 0.74,
+          "probability": 0.19
+        },
+        {
+          "word": "em",
+          "start": 0.74,
+          "end": 1.24,
+          "probability": 0.35
+        },
+        {
+          "word": "bữa",
+          "start": 1.24,
+          "end": 1.34,
+          "probability": 0.58
+        },
+        {
+          "word": "giờ",
+          "start": 1.34,
+          "end": 1.46,
+          "probability": 0.5
+        },
+        {
+          "word": "làm",
+          "start": 1.46,
+          "end": 1.76,
+          "probability": 0.57
+        },
+        {
+          "word": "được",
+          "start": 1.76,
+          "end": 1.96,
+          "probability": 0.09
+        },
+        {
+          "word": "cái",
+          "start": 1.96,
+          "end": 2.06,
+          "probability": 0.05
+        },
+        {
+          "word": "gì",
+          "start": 2.06,
+          "end": 2.2,
+          "probability": 0.44
+        },
+        {
+          "word": "vậy?",
+          "start": 2.2,
+          "end": 2.5,
+          "probability": 0.39
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.74,
+      "end": 3.34,
+      "text": "Hãy không có tiền.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 2.74,
+          "end": 2.78,
+          "probability": 0.4
+        },
+        {
+          "word": "không",
+          "start": 2.78,
+          "end": 2.94,
+          "probability": 0.9
+        },
+        {
+          "word": "có",
+          "start": 2.94,
+          "end": 3.1,
+          "probability": 0.53
+        },
+        {
+          "word": "tiền.",
+          "start": 3.1,
+          "end": 3.34,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.54,
+      "end": 5.76,
+      "text": "Lại kênh cứng tắc đã học sinh kể rồi nông.",
+      "words": [
+        {
+          "word": "Lại",
+          "start": 3.54,
+          "end": 3.76,
+          "probability": 0.4
+        },
+        {
+          "word": "kênh",
+          "start": 3.76,
+          "end": 3.94,
+          "probability": 0.59
+        },
+        {
+          "word": "cứng",
+          "start": 3.94,
+          "end": 4.18,
+          "probability": 0.11
+        },
+        {
+          "word": "tắc",
+          "start": 4.18,
+          "end": 4.26,
+          "probability": 0.42
+        },
+        {
+          "word": "đã",
+          "start": 4.26,
+          "end": 4.5,
+          "probability": 0.14
+        },
+        {
+          "word": "học",
+          "start": 4.5,
+          "end": 4.66,
+          "probability": 0.58
+        },
+        {
+          "word": "sinh",
+          "start": 4.66,
+          "end": 4.82,
+          "probability": 0.77
+        },
+        {
+          "word": "kể",
+          "start": 4.82,
+          "end": 4.96,
+          "probability": 0.55
+        },
+        {
+          "word": "rồi",
+          "start": 4.96,
+          "end": 5.16,
+          "probability": 0.52
+        },
+        {
+          "word": "nông.",
+          "start": 5.16,
+          "end": 5.76,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.18,
+      "end": 9.72,
+      "text": "Còn trong trang, sau sinh kể, phải tài miến bản đi ở bạm máo về môi trường.",
+      "words": [
+        {
+          "word": "Còn",
+          "start": 6.18,
+          "end": 6.24,
+          "probability": 0.44
+        },
+        {
+          "word": "trong",
+          "start": 6.24,
+          "end": 6.48,
+          "probability": 0.47
+        },
+        {
+          "word": "trang,",
+          "start": 6.48,
+          "end": 6.7,
+          "probability": 0.11
+        },
+        {
+          "word": "sau",
+          "start": 6.94,
+          "end": 7.0,
+          "probability": 0.13
+        },
+        {
+          "word": "sinh",
+          "start": 7.0,
+          "end": 7.18,
+          "probability": 0.69
+        },
+        {
+          "word": "kể,",
+          "start": 7.18,
+          "end": 7.42,
+          "probability": 0.75
+        },
+        {
+          "word": "phải",
+          "start": 7.54,
+          "end": 7.6,
+          "probability": 0.13
+        },
+        {
+          "word": "tài",
+          "start": 7.6,
+          "end": 7.78,
+          "probability": 0.47
+        },
+        {
+          "word": "miến",
+          "start": 7.78,
+          "end": 7.96,
+          "probability": 0.4
+        },
+        {
+          "word": "bản",
+          "start": 7.96,
+          "end": 8.16,
+          "probability": 0.7
+        },
+        {
+          "word": "đi",
+          "start": 8.16,
+          "end": 8.3,
+          "probability": 0.42
+        },
+        {
+          "word": "ở",
+          "start": 8.3,
+          "end": 8.46,
+          "probability": 0.35
+        },
+        {
+          "word": "bạm",
+          "start": 8.46,
+          "end": 8.7,
+          "probability": 0.43
+        },
+        {
+          "word": "máo",
+          "start": 8.7,
+          "end": 8.98,
+          "probability": 0.26
+        },
+        {
+          "word": "về",
+          "start": 8.98,
+          "end": 9.16,
+          "probability": 0.67
+        },
+        {
+          "word": "môi",
+          "start": 9.16,
+          "end": 9.38,
+          "probability": 0.33
+        },
+        {
+          "word": "trường.",
+          "start": 9.38,
+          "end": 9.72,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 18.95,
+      "end": 22.35,
+      "text": "Đây là vườn ở được anh tác hoàn toàn bằng viên bản đi ở.",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 18.95,
+          "end": 19.11,
+          "probability": 0.92
+        },
+        {
+          "word": "là",
+          "start": 19.11,
+          "end": 19.27,
+          "probability": 0.98
+        },
+        {
+          "word": "vườn",
+          "start": 19.27,
+          "end": 19.45,
+          "probability": 0.48
+        },
+        {
+          "word": "ở",
+          "start": 19.45,
+          "end": 19.71,
+          "probability": 0.28
+        },
+        {
+          "word": "được",
+          "start": 19.71,
+          "end": 19.97,
+          "probability": 0.83
+        },
+        {
+          "word": "anh",
+          "start": 19.97,
+          "end": 20.13,
+          "probability": 0.07
+        },
+        {
+          "word": "tác",
+          "start": 20.13,
+          "end": 20.39,
+          "probability": 0.7
+        },
+        {
+          "word": "hoàn",
+          "start": 20.39,
+          "end": 20.61,
+          "probability": 0.59
+        },
+        {
+          "word": "toàn",
+          "start": 20.61,
+          "end": 20.91,
+          "probability": 0.97
+        },
+        {
+          "word": "bằng",
+          "start": 20.91,
+          "end": 21.25,
+          "probability": 0.65
+        },
+        {
+          "word": "viên",
+          "start": 21.25,
+          "end": 21.53,
+          "probability": 0.24
+        },
+        {
+          "word": "bản",
+          "start": 21.53,
+          "end": 21.89,
+          "probability": 0.73
+        },
+        {
+          "word": "đi",
+          "start": 21.89,
+          "end": 22.07,
+          "probability": 0.93
+        },
+        {
+          "word": "ở.",
+          "start": 22.07,
+          "end": 22.35,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 22.63,
+      "end": 26.97,
+      "text": "Với chủ của khu vườn này cũng là một người đã tìm giá quân cách dài được trong đất.",
+      "words": [
+        {
+          "word": "Với",
+          "start": 22.63,
+          "end": 22.69,
+          "probability": 0.58
+        },
+        {
+          "word": "chủ",
+          "start": 22.69,
+          "end": 22.95,
+          "probability": 0.68
+        },
+        {
+          "word": "của",
+          "start": 22.95,
+          "end": 23.19,
+          "probability": 0.86
+        },
+        {
+          "word": "khu",
+          "start": 23.19,
+          "end": 23.43,
+          "probability": 0.52
+        },
+        {
+          "word": "vườn",
+          "start": 23.43,
+          "end": 23.59,
+          "probability": 0.65
+        },
+        {
+          "word": "này",
+          "start": 23.59,
+          "end": 23.91,
+          "probability": 0.89
+        },
+        {
+          "word": "cũng",
+          "start": 23.91,
+          "end": 24.21,
+          "probability": 0.66
+        },
+        {
+          "word": "là",
+          "start": 24.21,
+          "end": 24.35,
+          "probability": 0.97
+        },
+        {
+          "word": "một",
+          "start": 24.35,
+          "end": 24.57,
+          "probability": 0.67
+        },
+        {
+          "word": "người",
+          "start": 24.57,
+          "end": 24.75,
+          "probability": 0.61
+        },
+        {
+          "word": "đã",
+          "start": 24.75,
+          "end": 25.05,
+          "probability": 0.94
+        },
+        {
+          "word": "tìm",
+          "start": 25.05,
+          "end": 25.23,
+          "probability": 0.75
+        },
+        {
+          "word": "giá",
+          "start": 25.23,
+          "end": 25.45,
+          "probability": 0.25
+        },
+        {
+          "word": "quân",
+          "start": 25.45,
+          "end": 25.65,
+          "probability": 0.43
+        },
+        {
+          "word": "cách",
+          "start": 25.65,
+          "end": 25.89,
+          "probability": 0.8
+        },
+        {
+          "word": "dài",
+          "start": 25.89,
+          "end": 26.17,
+          "probability": 0.35
+        },
+        {
+          "word": "được",
+          "start": 26.17,
+          "end": 26.47,
+          "probability": 0.49
+        },
+        {
+          "word": "trong",
+          "start": 26.47,
+          "end": 26.73,
+          "probability": 0.8
+        },
+        {
+          "word": "đất.",
+          "start": 26.73,
+          "end": 26.97,
+          "probability": 0.81
+        }
+      ]
+    }
+  ]
+}

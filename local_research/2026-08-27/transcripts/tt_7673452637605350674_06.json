@@ -1,0 +1,234 @@
+{
+  "item_id": "tt_7673452637605350674_06",
+  "duration_seconds": 10.95,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 28,
+  "text": "Công phòng bà sử cơ tà Tất loy Tất loy Tất loy vọng Cảm ơn người ta bà phủy Cả hoa Để tập tình như chăm sóc mình",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Công phòng bà sử cơ tà",
+      "words": [
+        {
+          "word": "Công",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.13
+        },
+        {
+          "word": "phòng",
+          "start": 0.42,
+          "end": 0.64,
+          "probability": 0.26
+        },
+        {
+          "word": "bà",
+          "start": 0.64,
+          "end": 0.9,
+          "probability": 0.29
+        },
+        {
+          "word": "sử",
+          "start": 0.9,
+          "end": 1.1,
+          "probability": 0.36
+        },
+        {
+          "word": "cơ",
+          "start": 1.1,
+          "end": 1.44,
+          "probability": 0.07
+        },
+        {
+          "word": "tà",
+          "start": 1.44,
+          "end": 1.72,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.26,
+      "end": 3.12,
+      "text": "Tất loy",
+      "words": [
+        {
+          "word": "Tất",
+          "start": 2.26,
+          "end": 2.66,
+          "probability": 0.03
+        },
+        {
+          "word": "loy",
+          "start": 2.66,
+          "end": 3.12,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.72,
+      "end": 4.32,
+      "text": "Tất loy",
+      "words": [
+        {
+          "word": "Tất",
+          "start": 3.72,
+          "end": 4.08,
+          "probability": 0.04
+        },
+        {
+          "word": "loy",
+          "start": 4.08,
+          "end": 4.32,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.32,
+      "end": 4.88,
+      "text": "Tất loy vọng",
+      "words": [
+        {
+          "word": "Tất",
+          "start": 4.32,
+          "end": 4.32,
+          "probability": 0.17
+        },
+        {
+          "word": "loy",
+          "start": 4.32,
+          "end": 4.52,
+          "probability": 0.98
+        },
+        {
+          "word": "vọng",
+          "start": 4.52,
+          "end": 4.88,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 4.88,
+      "end": 6.28,
+      "text": "Cảm ơn người ta bà phủy",
+      "words": [
+        {
+          "word": "Cảm",
+          "start": 4.88,
+          "end": 5.44,
+          "probability": 0.47
+        },
+        {
+          "word": "ơn",
+          "start": 5.44,
+          "end": 5.48,
+          "probability": 0.61
+        },
+        {
+          "word": "người",
+          "start": 5.48,
+          "end": 5.78,
+          "probability": 0.05
+        },
+        {
+          "word": "ta",
+          "start": 5.78,
+          "end": 5.78,
+          "probability": 0.5
+        },
+        {
+          "word": "bà",
+          "start": 5.78,
+          "end": 6.02,
+          "probability": 0.28
+        },
+        {
+          "word": "phủy",
+          "start": 6.02,
+          "end": 6.28,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 6.28,
+      "end": 7.04,
+      "text": "Cả hoa",
+      "words": [
+        {
+          "word": "Cả",
+          "start": 6.28,
+          "end": 6.46,
+          "probability": 0.26
+        },
+        {
+          "word": "hoa",
+          "start": 6.46,
+          "end": 7.04,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 7.04,
+      "end": 9.54,
+      "text": "Để tập tình như chăm sóc mình",
+      "words": [
+        {
+          "word": "Để",
+          "start": 7.04,
+          "end": 7.48,
+          "probability": 0.04
+        },
+        {
+          "word": "tập",
+          "start": 7.48,
+          "end": 7.96,
+          "probability": 0.17
+        },
+        {
+          "word": "tình",
+          "start": 7.96,
+          "end": 8.32,
+          "probability": 0.6
+        },
+        {
+          "word": "như",
+          "start": 8.32,
+          "end": 8.54,
+          "probability": 0.08
+        },
+        {
+          "word": "chăm",
+          "start": 8.54,
+          "end": 8.88,
+          "probability": 0.25
+        },
+        {
+          "word": "sóc",
+          "start": 8.88,
+          "end": 9.14,
+          "probability": 0.89
+        },
+        {
+          "word": "mình",
+          "start": 9.14,
+          "end": 9.54,
+          "probability": 0.25
+        }
+      ]
+    }
+  ]
+}

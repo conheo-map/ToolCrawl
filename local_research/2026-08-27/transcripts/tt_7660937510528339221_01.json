@@ -1,0 +1,286 @@
+{
+  "item_id": "tt_7660937510528339221_01",
+  "duration_seconds": 29.27,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 38,
+  "text": "Nhà em nhé! Nhưng không có sao đó? Thái bọn phải cuối kỳ quá Nó dúng gặp đứa em nhé chưa? Em mới dù ấy thống như ngoài nè Để ngốc nớn chứ mình xin nhé thống nè",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.12,
+      "text": "Nhà em nhé!",
+      "words": [
+        {
+          "word": "Nhà",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.13
+        },
+        {
+          "word": "em",
+          "start": 0.22,
+          "end": 0.6,
+          "probability": 0.25
+        },
+        {
+          "word": "nhé!",
+          "start": 0.6,
+          "end": 1.12,
+          "probability": 0.49
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.84,
+      "end": 8.7,
+      "text": "Nhưng không có sao đó?",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 7.84,
+          "end": 7.92,
+          "probability": 0.25
+        },
+        {
+          "word": "không",
+          "start": 7.92,
+          "end": 8.08,
+          "probability": 0.14
+        },
+        {
+          "word": "có",
+          "start": 8.08,
+          "end": 8.18,
+          "probability": 0.98
+        },
+        {
+          "word": "sao",
+          "start": 8.18,
+          "end": 8.38,
+          "probability": 0.87
+        },
+        {
+          "word": "đó?",
+          "start": 8.38,
+          "end": 8.7,
+          "probability": 0.28
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.2,
+      "end": 10.64,
+      "text": "Thái bọn phải cuối kỳ quá",
+      "words": [
+        {
+          "word": "Thái",
+          "start": 9.2,
+          "end": 9.46,
+          "probability": 0.31
+        },
+        {
+          "word": "bọn",
+          "start": 9.46,
+          "end": 9.84,
+          "probability": 0.49
+        },
+        {
+          "word": "phải",
+          "start": 9.84,
+          "end": 10.02,
+          "probability": 0.25
+        },
+        {
+          "word": "cuối",
+          "start": 10.02,
+          "end": 10.24,
+          "probability": 0.49
+        },
+        {
+          "word": "kỳ",
+          "start": 10.24,
+          "end": 10.42,
+          "probability": 0.56
+        },
+        {
+          "word": "quá",
+          "start": 10.42,
+          "end": 10.64,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.14,
+      "end": 12.5,
+      "text": "Nó dúng gặp đứa em nhé chưa?",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 11.14,
+          "end": 11.58,
+          "probability": 0.24
+        },
+        {
+          "word": "dúng",
+          "start": 11.58,
+          "end": 11.68,
+          "probability": 0.12
+        },
+        {
+          "word": "gặp",
+          "start": 11.68,
+          "end": 11.9,
+          "probability": 0.86
+        },
+        {
+          "word": "đứa",
+          "start": 11.9,
+          "end": 12.06,
+          "probability": 0.61
+        },
+        {
+          "word": "em",
+          "start": 12.06,
+          "end": 12.32,
+          "probability": 0.43
+        },
+        {
+          "word": "nhé",
+          "start": 12.32,
+          "end": 12.32,
+          "probability": 0.2
+        },
+        {
+          "word": "chưa?",
+          "start": 12.32,
+          "end": 12.5,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.48,
+      "end": 15.4,
+      "text": "Em mới dù ấy thống như ngoài nè",
+      "words": [
+        {
+          "word": "Em",
+          "start": 13.48,
+          "end": 13.66,
+          "probability": 0.53
+        },
+        {
+          "word": "mới",
+          "start": 13.66,
+          "end": 13.8,
+          "probability": 0.8
+        },
+        {
+          "word": "dù",
+          "start": 13.8,
+          "end": 14.02,
+          "probability": 0.43
+        },
+        {
+          "word": "ấy",
+          "start": 14.02,
+          "end": 14.14,
+          "probability": 0.05
+        },
+        {
+          "word": "thống",
+          "start": 14.14,
+          "end": 14.32,
+          "probability": 0.3
+        },
+        {
+          "word": "như",
+          "start": 14.32,
+          "end": 14.48,
+          "probability": 0.72
+        },
+        {
+          "word": "ngoài",
+          "start": 14.48,
+          "end": 14.82,
+          "probability": 0.53
+        },
+        {
+          "word": "nè",
+          "start": 14.82,
+          "end": 15.4,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.4,
+      "end": 17.5,
+      "text": "Để ngốc nớn chứ mình xin nhé thống nè",
+      "words": [
+        {
+          "word": "Để",
+          "start": 15.4,
+          "end": 15.98,
+          "probability": 0.38
+        },
+        {
+          "word": "ngốc",
+          "start": 15.98,
+          "end": 16.18,
+          "probability": 0.31
+        },
+        {
+          "word": "nớn",
+          "start": 16.18,
+          "end": 16.48,
+          "probability": 0.52
+        },
+        {
+          "word": "chứ",
+          "start": 16.48,
+          "end": 16.6,
+          "probability": 0.28
+        },
+        {
+          "word": "mình",
+          "start": 16.6,
+          "end": 16.78,
+          "probability": 0.17
+        },
+        {
+          "word": "xin",
+          "start": 16.78,
+          "end": 17.0,
+          "probability": 0.49
+        },
+        {
+          "word": "nhé",
+          "start": 17.0,
+          "end": 17.04,
+          "probability": 0.18
+        },
+        {
+          "word": "thống",
+          "start": 17.04,
+          "end": 17.26,
+          "probability": 0.66
+        },
+        {
+          "word": "nè",
+          "start": 17.26,
+          "end": 17.5,
+          "probability": 0.86
+        }
+      ]
+    }
+  ]
+}

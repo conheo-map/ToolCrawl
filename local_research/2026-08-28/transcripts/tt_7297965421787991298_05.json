@@ -1,0 +1,860 @@
+{
+  "item_id": "tt_7297965421787991298_05",
+  "duration_seconds": 29.52,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 123,
+  "text": "Đây chính là môi, khoảng cách từ trên đường của góc để mắt đi. Đào, khoảng cách từ điểm, á, trởi nó phải á, bị rí xe. Chỉ là bằng á, ca. Nhưng với á, phải... Xin cắt của á, ca, bình, cộng, mùi á, phải đi. Ở đây, bà chứ nó là á, để. Dí á, ca, bằng gì? Á, ca, bằng cắt bà trên 2. Á, phải, gì thì bà cho đây, lắm, trụ điều, tất cả kệ 1 mộng mộng. Á, ca, bằng cắt bà trên 2, đặc biệt tất cả bây giờ. Chỉ cho, ca, bằng 2, bằng tư cận mùi. Đây, ca, bằng trên 2. Bằng cắt bán, trên khẳng, bằng... Trong như nó đi á, ôm gì?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Đây chính là môi, khoảng cách từ trên đường của góc để mắt đi.",
+      "words": [
+        {
+          "word": "Đây",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.18
+        },
+        {
+          "word": "chính",
+          "start": 0.44,
+          "end": 0.6,
+          "probability": 0.64
+        },
+        {
+          "word": "là",
+          "start": 0.6,
+          "end": 0.66,
+          "probability": 0.27
+        },
+        {
+          "word": "môi,",
+          "start": 0.66,
+          "end": 0.82,
+          "probability": 0.64
+        },
+        {
+          "word": "khoảng",
+          "start": 0.94,
+          "end": 1.16,
+          "probability": 0.62
+        },
+        {
+          "word": "cách",
+          "start": 1.16,
+          "end": 1.3,
+          "probability": 0.77
+        },
+        {
+          "word": "từ",
+          "start": 1.3,
+          "end": 1.44,
+          "probability": 0.36
+        },
+        {
+          "word": "trên",
+          "start": 1.44,
+          "end": 1.62,
+          "probability": 0.68
+        },
+        {
+          "word": "đường",
+          "start": 1.62,
+          "end": 1.8,
+          "probability": 0.89
+        },
+        {
+          "word": "của",
+          "start": 1.8,
+          "end": 1.96,
+          "probability": 0.44
+        },
+        {
+          "word": "góc",
+          "start": 1.96,
+          "end": 2.12,
+          "probability": 0.4
+        },
+        {
+          "word": "để",
+          "start": 2.12,
+          "end": 2.24,
+          "probability": 0.46
+        },
+        {
+          "word": "mắt",
+          "start": 2.24,
+          "end": 2.38,
+          "probability": 0.55
+        },
+        {
+          "word": "đi.",
+          "start": 2.38,
+          "end": 2.66,
+          "probability": 0.23
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.04,
+      "end": 5.62,
+      "text": "Đào, khoảng cách từ điểm, á, trởi nó phải á, bị rí xe.",
+      "words": [
+        {
+          "word": "Đào,",
+          "start": 3.04,
+          "end": 3.14,
+          "probability": 0.38
+        },
+        {
+          "word": "khoảng",
+          "start": 3.58,
+          "end": 3.6,
+          "probability": 0.99
+        },
+        {
+          "word": "cách",
+          "start": 3.6,
+          "end": 3.82,
+          "probability": 0.99
+        },
+        {
+          "word": "từ",
+          "start": 3.82,
+          "end": 3.94,
+          "probability": 0.96
+        },
+        {
+          "word": "điểm,",
+          "start": 3.94,
+          "end": 4.16,
+          "probability": 0.62
+        },
+        {
+          "word": "á,",
+          "start": 4.24,
+          "end": 4.38,
+          "probability": 0.04
+        },
+        {
+          "word": "trởi",
+          "start": 4.44,
+          "end": 4.5,
+          "probability": 0.39
+        },
+        {
+          "word": "nó",
+          "start": 4.5,
+          "end": 4.6,
+          "probability": 0.14
+        },
+        {
+          "word": "phải",
+          "start": 4.6,
+          "end": 4.76,
+          "probability": 0.41
+        },
+        {
+          "word": "á,",
+          "start": 4.76,
+          "end": 4.92,
+          "probability": 0.34
+        },
+        {
+          "word": "bị",
+          "start": 4.94,
+          "end": 5.02,
+          "probability": 0.21
+        },
+        {
+          "word": "rí",
+          "start": 5.02,
+          "end": 5.12,
+          "probability": 0.08
+        },
+        {
+          "word": "xe.",
+          "start": 5.12,
+          "end": 5.62,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.94,
+      "end": 6.86,
+      "text": "Chỉ là bằng á, ca.",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 5.94,
+          "end": 5.94,
+          "probability": 0.34
+        },
+        {
+          "word": "là",
+          "start": 5.94,
+          "end": 5.98,
+          "probability": 0.26
+        },
+        {
+          "word": "bằng",
+          "start": 5.98,
+          "end": 6.08,
+          "probability": 0.63
+        },
+        {
+          "word": "á,",
+          "start": 6.08,
+          "end": 6.38,
+          "probability": 0.68
+        },
+        {
+          "word": "ca.",
+          "start": 6.4,
+          "end": 6.86,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.36,
+      "end": 8.86,
+      "text": "Nhưng với á, phải...",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 7.36,
+          "end": 7.4,
+          "probability": 0.52
+        },
+        {
+          "word": "với",
+          "start": 7.4,
+          "end": 7.56,
+          "probability": 0.15
+        },
+        {
+          "word": "á,",
+          "start": 7.56,
+          "end": 7.88,
+          "probability": 0.71
+        },
+        {
+          "word": "phải...",
+          "start": 8.4,
+          "end": 8.86,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.86,
+      "end": 11.96,
+      "text": "Xin cắt của á, ca, bình, cộng, mùi á, phải đi.",
+      "words": [
+        {
+          "word": "Xin",
+          "start": 8.86,
+          "end": 8.98,
+          "probability": 0.15
+        },
+        {
+          "word": "cắt",
+          "start": 8.98,
+          "end": 9.2,
+          "probability": 0.28
+        },
+        {
+          "word": "của",
+          "start": 9.2,
+          "end": 9.46,
+          "probability": 0.73
+        },
+        {
+          "word": "á,",
+          "start": 9.46,
+          "end": 9.88,
+          "probability": 0.64
+        },
+        {
+          "word": "ca,",
+          "start": 10.3,
+          "end": 10.46,
+          "probability": 0.96
+        },
+        {
+          "word": "bình,",
+          "start": 10.7,
+          "end": 10.8,
+          "probability": 0.75
+        },
+        {
+          "word": "cộng,",
+          "start": 11.1,
+          "end": 11.14,
+          "probability": 0.73
+        },
+        {
+          "word": "mùi",
+          "start": 11.3,
+          "end": 11.36,
+          "probability": 0.49
+        },
+        {
+          "word": "á,",
+          "start": 11.36,
+          "end": 11.56,
+          "probability": 0.96
+        },
+        {
+          "word": "phải",
+          "start": 11.62,
+          "end": 11.74,
+          "probability": 0.98
+        },
+        {
+          "word": "đi.",
+          "start": 11.74,
+          "end": 11.96,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 12.12,
+      "end": 13.28,
+      "text": "Ở đây, bà chứ nó là á, để.",
+      "words": [
+        {
+          "word": "Ở",
+          "start": 12.12,
+          "end": 12.28,
+          "probability": 0.86
+        },
+        {
+          "word": "đây,",
+          "start": 12.28,
+          "end": 12.34,
+          "probability": 0.98
+        },
+        {
+          "word": "bà",
+          "start": 12.4,
+          "end": 12.5,
+          "probability": 0.57
+        },
+        {
+          "word": "chứ",
+          "start": 12.5,
+          "end": 12.52,
+          "probability": 0.46
+        },
+        {
+          "word": "nó",
+          "start": 12.52,
+          "end": 12.6,
+          "probability": 0.36
+        },
+        {
+          "word": "là",
+          "start": 12.6,
+          "end": 12.78,
+          "probability": 0.5
+        },
+        {
+          "word": "á,",
+          "start": 12.78,
+          "end": 12.92,
+          "probability": 0.79
+        },
+        {
+          "word": "để.",
+          "start": 13.28,
+          "end": 13.28,
+          "probability": 0.13
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 13.86,
+      "end": 14.72,
+      "text": "Dí á, ca, bằng gì?",
+      "words": [
+        {
+          "word": "Dí",
+          "start": 13.86,
+          "end": 14.04,
+          "probability": 0.29
+        },
+        {
+          "word": "á,",
+          "start": 14.04,
+          "end": 14.14,
+          "probability": 0.99
+        },
+        {
+          "word": "ca,",
+          "start": 14.24,
+          "end": 14.32,
+          "probability": 0.98
+        },
+        {
+          "word": "bằng",
+          "start": 14.42,
+          "end": 14.46,
+          "probability": 0.85
+        },
+        {
+          "word": "gì?",
+          "start": 14.46,
+          "end": 14.72,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.16,
+      "end": 16.08,
+      "text": "Á, ca, bằng cắt bà trên 2.",
+      "words": [
+        {
+          "word": "Á,",
+          "start": 15.16,
+          "end": 15.24,
+          "probability": 0.59
+        },
+        {
+          "word": "ca,",
+          "start": 15.28,
+          "end": 15.36,
+          "probability": 0.91
+        },
+        {
+          "word": "bằng",
+          "start": 15.42,
+          "end": 15.5,
+          "probability": 0.94
+        },
+        {
+          "word": "cắt",
+          "start": 15.5,
+          "end": 15.54,
+          "probability": 0.28
+        },
+        {
+          "word": "bà",
+          "start": 15.54,
+          "end": 15.66,
+          "probability": 0.48
+        },
+        {
+          "word": "trên",
+          "start": 15.66,
+          "end": 15.8,
+          "probability": 0.65
+        },
+        {
+          "word": "2.",
+          "start": 15.8,
+          "end": 16.08,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 16.32,
+      "end": 19.28,
+      "text": "Á, phải, gì thì bà cho đây, lắm, trụ điều, tất cả kệ 1 mộng mộng.",
+      "words": [
+        {
+          "word": "Á,",
+          "start": 16.32,
+          "end": 16.56,
+          "probability": 0.73
+        },
+        {
+          "word": "phải,",
+          "start": 16.56,
+          "end": 16.78,
+          "probability": 0.98
+        },
+        {
+          "word": "gì",
+          "start": 16.88,
+          "end": 16.94,
+          "probability": 0.25
+        },
+        {
+          "word": "thì",
+          "start": 16.94,
+          "end": 16.96,
+          "probability": 0.25
+        },
+        {
+          "word": "bà",
+          "start": 16.96,
+          "end": 17.08,
+          "probability": 0.4
+        },
+        {
+          "word": "cho",
+          "start": 17.08,
+          "end": 17.2,
+          "probability": 0.39
+        },
+        {
+          "word": "đây,",
+          "start": 17.2,
+          "end": 17.36,
+          "probability": 0.32
+        },
+        {
+          "word": "lắm,",
+          "start": 17.5,
+          "end": 17.52,
+          "probability": 0.33
+        },
+        {
+          "word": "trụ",
+          "start": 17.54,
+          "end": 17.68,
+          "probability": 0.41
+        },
+        {
+          "word": "điều,",
+          "start": 17.68,
+          "end": 17.94,
+          "probability": 0.53
+        },
+        {
+          "word": "tất",
+          "start": 18.16,
+          "end": 18.16,
+          "probability": 0.75
+        },
+        {
+          "word": "cả",
+          "start": 18.16,
+          "end": 18.24,
+          "probability": 0.98
+        },
+        {
+          "word": "kệ",
+          "start": 18.24,
+          "end": 18.44,
+          "probability": 0.34
+        },
+        {
+          "word": "1",
+          "start": 18.44,
+          "end": 18.66,
+          "probability": 0.47
+        },
+        {
+          "word": "mộng",
+          "start": 18.66,
+          "end": 18.96,
+          "probability": 0.25
+        },
+        {
+          "word": "mộng.",
+          "start": 18.96,
+          "end": 19.28,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 19.28,
+      "end": 20.68,
+      "text": "Á, ca, bằng cắt bà trên 2, đặc biệt tất cả bây giờ.",
+      "words": [
+        {
+          "word": "Á,",
+          "start": 19.28,
+          "end": 19.6,
+          "probability": 0.0
+        },
+        {
+          "word": "ca,",
+          "start": 19.6,
+          "end": 19.68,
+          "probability": 0.07
+        },
+        {
+          "word": "bằng",
+          "start": 19.76,
+          "end": 19.82,
+          "probability": 0.09
+        },
+        {
+          "word": "cắt",
+          "start": 19.82,
+          "end": 19.94,
+          "probability": 0.01
+        },
+        {
+          "word": "bà",
+          "start": 19.94,
+          "end": 20.0,
+          "probability": 0.2
+        },
+        {
+          "word": "trên",
+          "start": 20.0,
+          "end": 20.1,
+          "probability": 0.32
+        },
+        {
+          "word": "2,",
+          "start": 20.1,
+          "end": 20.2,
+          "probability": 0.07
+        },
+        {
+          "word": "đặc",
+          "start": 20.28,
+          "end": 20.38,
+          "probability": 0.14
+        },
+        {
+          "word": "biệt",
+          "start": 20.38,
+          "end": 20.38,
+          "probability": 0.58
+        },
+        {
+          "word": "tất",
+          "start": 20.38,
+          "end": 20.44,
+          "probability": 0.26
+        },
+        {
+          "word": "cả",
+          "start": 20.44,
+          "end": 20.5,
+          "probability": 0.38
+        },
+        {
+          "word": "bây",
+          "start": 20.5,
+          "end": 20.68,
+          "probability": 0.16
+        },
+        {
+          "word": "giờ.",
+          "start": 20.68,
+          "end": 20.68,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 21.68,
+      "end": 24.32,
+      "text": "Chỉ cho, ca, bằng 2, bằng tư cận mùi.",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 21.68,
+          "end": 21.92,
+          "probability": 0.18
+        },
+        {
+          "word": "cho,",
+          "start": 21.92,
+          "end": 22.06,
+          "probability": 0.23
+        },
+        {
+          "word": "ca,",
+          "start": 22.42,
+          "end": 22.66,
+          "probability": 0.23
+        },
+        {
+          "word": "bằng",
+          "start": 22.74,
+          "end": 22.74,
+          "probability": 0.53
+        },
+        {
+          "word": "2,",
+          "start": 22.74,
+          "end": 22.92,
+          "probability": 0.63
+        },
+        {
+          "word": "bằng",
+          "start": 23.04,
+          "end": 23.16,
+          "probability": 0.46
+        },
+        {
+          "word": "tư",
+          "start": 23.16,
+          "end": 23.66,
+          "probability": 0.35
+        },
+        {
+          "word": "cận",
+          "start": 23.66,
+          "end": 23.92,
+          "probability": 0.37
+        },
+        {
+          "word": "mùi.",
+          "start": 23.92,
+          "end": 24.32,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 24.46,
+      "end": 25.3,
+      "text": "Đây, ca, bằng trên 2.",
+      "words": [
+        {
+          "word": "Đây,",
+          "start": 24.46,
+          "end": 24.48,
+          "probability": 0.11
+        },
+        {
+          "word": "ca,",
+          "start": 24.48,
+          "end": 24.64,
+          "probability": 0.91
+        },
+        {
+          "word": "bằng",
+          "start": 24.7,
+          "end": 24.74,
+          "probability": 0.84
+        },
+        {
+          "word": "trên",
+          "start": 24.74,
+          "end": 24.92,
+          "probability": 0.6
+        },
+        {
+          "word": "2.",
+          "start": 24.92,
+          "end": 25.3,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 25.68,
+      "end": 28.24,
+      "text": "Bằng cắt bán, trên khẳng, bằng...",
+      "words": [
+        {
+          "word": "Bằng",
+          "start": 25.68,
+          "end": 25.76,
+          "probability": 0.37
+        },
+        {
+          "word": "cắt",
+          "start": 25.76,
+          "end": 26.08,
+          "probability": 0.65
+        },
+        {
+          "word": "bán,",
+          "start": 26.08,
+          "end": 26.52,
+          "probability": 0.71
+        },
+        {
+          "word": "trên",
+          "start": 26.64,
+          "end": 26.8,
+          "probability": 0.79
+        },
+        {
+          "word": "khẳng,",
+          "start": 26.8,
+          "end": 27.14,
+          "probability": 0.69
+        },
+        {
+          "word": "bằng...",
+          "start": 27.52,
+          "end": 28.24,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 28.24,
+      "end": 29.26,
+      "text": "Trong như nó đi á, ôm gì?",
+      "words": [
+        {
+          "word": "Trong",
+          "start": 28.24,
+          "end": 28.42,
+          "probability": 0.4
+        },
+        {
+          "word": "như",
+          "start": 28.42,
+          "end": 28.52,
+          "probability": 0.2
+        },
+        {
+          "word": "nó",
+          "start": 28.52,
+          "end": 28.64,
+          "probability": 0.21
+        },
+        {
+          "word": "đi",
+          "start": 28.64,
+          "end": 28.8,
+          "probability": 0.56
+        },
+        {
+          "word": "á,",
+          "start": 28.8,
+          "end": 28.98,
+          "probability": 0.4
+        },
+        {
+          "word": "ôm",
+          "start": 28.98,
+          "end": 29.1,
+          "probability": 0.17
+        },
+        {
+          "word": "gì?",
+          "start": 29.1,
+          "end": 29.26,
+          "probability": 0.32
+        }
+      ]
+    }
+  ]
+}

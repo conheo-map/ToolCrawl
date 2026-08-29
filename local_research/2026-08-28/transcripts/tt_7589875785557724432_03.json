@@ -1,0 +1,654 @@
+{
+  "item_id": "tt_7589875785557724432_03",
+  "duration_seconds": 28.63,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 94,
+  "text": "Cái mẹ rất là chứ rẻ sau, cái bỏ bàn nó sẽ đam ở Tâm đây này, vừa rồi Và tất cả mặt sàn bỏ phạm, phang bà mét Tây là bốn cái mặt sàn phóng bà, cái vị trí nó sẽ đam ở Bà đây này, nó bốn phần, vô? Thì đây, điểm này là đều đủ thiệt Tìm này là kia ở nha gì? Bỏng điện, vông điện Bỏng điện, này chứ, kia ở mình vào đi đi, bỏng điện Bỏng điện này là điểm, kia ở í, nó chà Tô OK?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 3.9,
+      "text": "Cái mẹ rất là chứ rẻ sau, cái bỏ bàn nó sẽ đam ở",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 0.02,
+          "end": 0.56,
+          "probability": 0.35
+        },
+        {
+          "word": "mẹ",
+          "start": 0.56,
+          "end": 0.68,
+          "probability": 0.21
+        },
+        {
+          "word": "rất",
+          "start": 0.68,
+          "end": 0.94,
+          "probability": 0.09
+        },
+        {
+          "word": "là",
+          "start": 0.94,
+          "end": 1.0,
+          "probability": 0.62
+        },
+        {
+          "word": "chứ",
+          "start": 1.0,
+          "end": 1.02,
+          "probability": 0.15
+        },
+        {
+          "word": "rẻ",
+          "start": 1.02,
+          "end": 1.2,
+          "probability": 0.18
+        },
+        {
+          "word": "sau,",
+          "start": 1.2,
+          "end": 1.54,
+          "probability": 0.2
+        },
+        {
+          "word": "cái",
+          "start": 1.78,
+          "end": 1.92,
+          "probability": 0.08
+        },
+        {
+          "word": "bỏ",
+          "start": 1.92,
+          "end": 2.16,
+          "probability": 0.21
+        },
+        {
+          "word": "bàn",
+          "start": 2.16,
+          "end": 2.8,
+          "probability": 0.28
+        },
+        {
+          "word": "nó",
+          "start": 2.8,
+          "end": 3.26,
+          "probability": 0.32
+        },
+        {
+          "word": "sẽ",
+          "start": 3.26,
+          "end": 3.4,
+          "probability": 0.9
+        },
+        {
+          "word": "đam",
+          "start": 3.4,
+          "end": 3.58,
+          "probability": 0.15
+        },
+        {
+          "word": "ở",
+          "start": 3.58,
+          "end": 3.9,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.66,
+      "end": 6.02,
+      "text": "Tâm đây này, vừa rồi",
+      "words": [
+        {
+          "word": "Tâm",
+          "start": 4.66,
+          "end": 5.06,
+          "probability": 0.36
+        },
+        {
+          "word": "đây",
+          "start": 5.06,
+          "end": 5.24,
+          "probability": 0.13
+        },
+        {
+          "word": "này,",
+          "start": 5.24,
+          "end": 5.6,
+          "probability": 0.79
+        },
+        {
+          "word": "vừa",
+          "start": 5.6,
+          "end": 5.78,
+          "probability": 0.25
+        },
+        {
+          "word": "rồi",
+          "start": 5.78,
+          "end": 6.02,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.62,
+      "end": 9.02,
+      "text": "Và tất cả mặt sàn bỏ phạm, phang bà mét",
+      "words": [
+        {
+          "word": "Và",
+          "start": 6.62,
+          "end": 7.02,
+          "probability": 0.04
+        },
+        {
+          "word": "tất",
+          "start": 7.02,
+          "end": 7.18,
+          "probability": 0.39
+        },
+        {
+          "word": "cả",
+          "start": 7.18,
+          "end": 7.26,
+          "probability": 0.52
+        },
+        {
+          "word": "mặt",
+          "start": 7.26,
+          "end": 7.44,
+          "probability": 0.7
+        },
+        {
+          "word": "sàn",
+          "start": 7.44,
+          "end": 7.7,
+          "probability": 0.4
+        },
+        {
+          "word": "bỏ",
+          "start": 7.7,
+          "end": 7.9,
+          "probability": 0.65
+        },
+        {
+          "word": "phạm,",
+          "start": 7.9,
+          "end": 8.22,
+          "probability": 0.62
+        },
+        {
+          "word": "phang",
+          "start": 8.22,
+          "end": 8.46,
+          "probability": 0.29
+        },
+        {
+          "word": "bà",
+          "start": 8.46,
+          "end": 8.66,
+          "probability": 0.69
+        },
+        {
+          "word": "mét",
+          "start": 8.66,
+          "end": 9.02,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 9.02,
+      "end": 12.7,
+      "text": "Tây là bốn cái mặt sàn phóng bà, cái vị trí nó sẽ đam ở",
+      "words": [
+        {
+          "word": "Tây",
+          "start": 9.02,
+          "end": 9.34,
+          "probability": 0.2
+        },
+        {
+          "word": "là",
+          "start": 9.34,
+          "end": 9.42,
+          "probability": 0.87
+        },
+        {
+          "word": "bốn",
+          "start": 9.42,
+          "end": 9.6,
+          "probability": 0.38
+        },
+        {
+          "word": "cái",
+          "start": 9.6,
+          "end": 9.8,
+          "probability": 0.66
+        },
+        {
+          "word": "mặt",
+          "start": 9.8,
+          "end": 10.02,
+          "probability": 0.54
+        },
+        {
+          "word": "sàn",
+          "start": 10.02,
+          "end": 10.06,
+          "probability": 0.66
+        },
+        {
+          "word": "phóng",
+          "start": 10.06,
+          "end": 10.3,
+          "probability": 0.54
+        },
+        {
+          "word": "bà,",
+          "start": 10.3,
+          "end": 10.58,
+          "probability": 0.9
+        },
+        {
+          "word": "cái",
+          "start": 10.66,
+          "end": 11.02,
+          "probability": 0.29
+        },
+        {
+          "word": "vị",
+          "start": 11.02,
+          "end": 11.28,
+          "probability": 0.86
+        },
+        {
+          "word": "trí",
+          "start": 11.28,
+          "end": 11.58,
+          "probability": 0.65
+        },
+        {
+          "word": "nó",
+          "start": 11.58,
+          "end": 11.76,
+          "probability": 0.92
+        },
+        {
+          "word": "sẽ",
+          "start": 11.76,
+          "end": 11.88,
+          "probability": 0.98
+        },
+        {
+          "word": "đam",
+          "start": 11.88,
+          "end": 12.02,
+          "probability": 0.97
+        },
+        {
+          "word": "ở",
+          "start": 12.02,
+          "end": 12.7,
+          "probability": 0.94
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 12.7,
+      "end": 15.22,
+      "text": "Bà đây này, nó bốn phần, vô?",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 12.7,
+          "end": 13.24,
+          "probability": 0.33
+        },
+        {
+          "word": "đây",
+          "start": 13.24,
+          "end": 13.4,
+          "probability": 0.9
+        },
+        {
+          "word": "này,",
+          "start": 13.4,
+          "end": 14.16,
+          "probability": 0.83
+        },
+        {
+          "word": "nó",
+          "start": 14.3,
+          "end": 14.4,
+          "probability": 0.1
+        },
+        {
+          "word": "bốn",
+          "start": 14.4,
+          "end": 14.58,
+          "probability": 0.6
+        },
+        {
+          "word": "phần,",
+          "start": 14.58,
+          "end": 14.78,
+          "probability": 0.57
+        },
+        {
+          "word": "vô?",
+          "start": 14.92,
+          "end": 15.22,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.44,
+      "end": 17.36,
+      "text": "Thì đây, điểm này là đều đủ thiệt",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 15.44,
+          "end": 15.48,
+          "probability": 0.32
+        },
+        {
+          "word": "đây,",
+          "start": 15.48,
+          "end": 15.86,
+          "probability": 0.8
+        },
+        {
+          "word": "điểm",
+          "start": 16.24,
+          "end": 16.24,
+          "probability": 0.53
+        },
+        {
+          "word": "này",
+          "start": 16.24,
+          "end": 16.32,
+          "probability": 0.75
+        },
+        {
+          "word": "là",
+          "start": 16.32,
+          "end": 16.42,
+          "probability": 0.12
+        },
+        {
+          "word": "đều",
+          "start": 16.42,
+          "end": 16.56,
+          "probability": 0.51
+        },
+        {
+          "word": "đủ",
+          "start": 16.56,
+          "end": 16.7,
+          "probability": 0.4
+        },
+        {
+          "word": "thiệt",
+          "start": 16.7,
+          "end": 17.36,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 17.36,
+      "end": 21.1,
+      "text": "Tìm này là kia ở nha gì? Bỏng điện, vông điện",
+      "words": [
+        {
+          "word": "Tìm",
+          "start": 17.36,
+          "end": 17.88,
+          "probability": 0.29
+        },
+        {
+          "word": "này",
+          "start": 17.88,
+          "end": 17.94,
+          "probability": 0.96
+        },
+        {
+          "word": "là",
+          "start": 17.94,
+          "end": 18.12,
+          "probability": 0.69
+        },
+        {
+          "word": "kia",
+          "start": 18.12,
+          "end": 18.36,
+          "probability": 0.3
+        },
+        {
+          "word": "ở",
+          "start": 18.36,
+          "end": 18.5,
+          "probability": 0.53
+        },
+        {
+          "word": "nha",
+          "start": 18.5,
+          "end": 18.68,
+          "probability": 0.09
+        },
+        {
+          "word": "gì?",
+          "start": 18.68,
+          "end": 19.26,
+          "probability": 0.21
+        },
+        {
+          "word": "Bỏng",
+          "start": 19.76,
+          "end": 19.84,
+          "probability": 0.66
+        },
+        {
+          "word": "điện,",
+          "start": 19.84,
+          "end": 20.04,
+          "probability": 0.51
+        },
+        {
+          "word": "vông",
+          "start": 20.16,
+          "end": 20.72,
+          "probability": 0.57
+        },
+        {
+          "word": "điện",
+          "start": 20.72,
+          "end": 21.1,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 21.1,
+      "end": 24.14,
+      "text": "Bỏng điện, này chứ, kia ở mình vào đi đi, bỏng điện",
+      "words": [
+        {
+          "word": "Bỏng",
+          "start": 21.1,
+          "end": 21.76,
+          "probability": 0.67
+        },
+        {
+          "word": "điện,",
+          "start": 21.76,
+          "end": 21.88,
+          "probability": 0.99
+        },
+        {
+          "word": "này",
+          "start": 21.98,
+          "end": 21.98,
+          "probability": 0.0
+        },
+        {
+          "word": "chứ,",
+          "start": 21.98,
+          "end": 22.18,
+          "probability": 0.23
+        },
+        {
+          "word": "kia",
+          "start": 22.28,
+          "end": 22.46,
+          "probability": 0.6
+        },
+        {
+          "word": "ở",
+          "start": 22.46,
+          "end": 22.58,
+          "probability": 0.62
+        },
+        {
+          "word": "mình",
+          "start": 22.58,
+          "end": 22.66,
+          "probability": 0.05
+        },
+        {
+          "word": "vào",
+          "start": 22.66,
+          "end": 22.78,
+          "probability": 0.23
+        },
+        {
+          "word": "đi",
+          "start": 22.78,
+          "end": 23.08,
+          "probability": 0.04
+        },
+        {
+          "word": "đi,",
+          "start": 23.08,
+          "end": 23.46,
+          "probability": 0.55
+        },
+        {
+          "word": "bỏng",
+          "start": 23.56,
+          "end": 23.7,
+          "probability": 0.77
+        },
+        {
+          "word": "điện",
+          "start": 23.7,
+          "end": 24.14,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 24.62,
+      "end": 27.66,
+      "text": "Bỏng điện này là điểm, kia ở í, nó chà",
+      "words": [
+        {
+          "word": "Bỏng",
+          "start": 24.62,
+          "end": 25.02,
+          "probability": 0.66
+        },
+        {
+          "word": "điện",
+          "start": 25.02,
+          "end": 25.14,
+          "probability": 0.99
+        },
+        {
+          "word": "này",
+          "start": 25.14,
+          "end": 25.38,
+          "probability": 0.54
+        },
+        {
+          "word": "là",
+          "start": 25.38,
+          "end": 25.42,
+          "probability": 0.72
+        },
+        {
+          "word": "điểm,",
+          "start": 25.42,
+          "end": 25.8,
+          "probability": 0.44
+        },
+        {
+          "word": "kia",
+          "start": 26.16,
+          "end": 26.16,
+          "probability": 0.55
+        },
+        {
+          "word": "ở",
+          "start": 26.16,
+          "end": 26.76,
+          "probability": 0.51
+        },
+        {
+          "word": "í,",
+          "start": 26.76,
+          "end": 26.76,
+          "probability": 0.11
+        },
+        {
+          "word": "nó",
+          "start": 26.98,
+          "end": 27.06,
+          "probability": 0.1
+        },
+        {
+          "word": "chà",
+          "start": 27.06,
+          "end": 27.66,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 27.66,
+      "end": 28.4,
+      "text": "Tô OK?",
+      "words": [
+        {
+          "word": "Tô",
+          "start": 27.66,
+          "end": 28.14,
+          "probability": 0.2
+        },
+        {
+          "word": "OK?",
+          "start": 28.14,
+          "end": 28.4,
+          "probability": 0.26
+        }
+      ]
+    }
+  ]
+}

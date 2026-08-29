@@ -1,0 +1,708 @@
+{
+  "item_id": "tt_7637435636563070225_05",
+  "duration_seconds": 29.48,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 99,
+  "text": "Mà, mặc chúng ta trong trx dưới chí, trẻ... rất là giỏi trong tuần. Các anh... em đấy, em đấy, em đấy, em đấy, em đấy. Njust mắt... nó giả hông cấp em. Rồi 1 cí báo em so ra giảm tóc, ira nghe tầu từ門 này cứ anh trong 1 cí đ column này. Rồi ăn nắm... 1 cí báo giảm tóc, 1 cóc, 1 cóc. Sai gào tập, a y để a cí báo 1 có, là mình sẽ giảm tóc vào lại nó lạc chứ? Đợi nên nó con quá mà này, v're sẽ giảm tên.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 2.83,
+      "text": "Mà, mặc chúng ta trong trx dưới chí, trẻ...",
+      "words": [
+        {
+          "word": "Mà,",
+          "start": 0.05,
+          "end": 0.71,
+          "probability": 0.39
+        },
+        {
+          "word": "mặc",
+          "start": 0.71,
+          "end": 1.01,
+          "probability": 0.14
+        },
+        {
+          "word": "chúng",
+          "start": 1.01,
+          "end": 1.25,
+          "probability": 0.04
+        },
+        {
+          "word": "ta",
+          "start": 1.25,
+          "end": 1.53,
+          "probability": 0.5
+        },
+        {
+          "word": "trong",
+          "start": 1.53,
+          "end": 1.73,
+          "probability": 0.04
+        },
+        {
+          "word": "trx",
+          "start": 1.73,
+          "end": 1.85,
+          "probability": 0.0
+        },
+        {
+          "word": "dưới",
+          "start": 1.85,
+          "end": 1.99,
+          "probability": 0.39
+        },
+        {
+          "word": "chí,",
+          "start": 1.99,
+          "end": 2.19,
+          "probability": 0.21
+        },
+        {
+          "word": "trẻ...",
+          "start": 2.57,
+          "end": 2.83,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.83,
+      "end": 4.41,
+      "text": "rất là giỏi trong tuần.",
+      "words": [
+        {
+          "word": "rất",
+          "start": 2.83,
+          "end": 2.97,
+          "probability": 0.04
+        },
+        {
+          "word": "là",
+          "start": 2.97,
+          "end": 3.33,
+          "probability": 0.99
+        },
+        {
+          "word": "giỏi",
+          "start": 3.33,
+          "end": 3.67,
+          "probability": 0.01
+        },
+        {
+          "word": "trong",
+          "start": 3.67,
+          "end": 3.93,
+          "probability": 0.02
+        },
+        {
+          "word": "tuần.",
+          "start": 3.93,
+          "end": 4.41,
+          "probability": 0.21
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.43,
+      "end": 5.47,
+      "text": "Các anh...",
+      "words": [
+        {
+          "word": "Các",
+          "start": 4.43,
+          "end": 4.59,
+          "probability": 0.18
+        },
+        {
+          "word": "anh...",
+          "start": 4.59,
+          "end": 5.47,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.09,
+      "end": 9.17,
+      "text": "em đấy, em đấy, em đấy, em đấy, em đấy.",
+      "words": [
+        {
+          "word": "em",
+          "start": 7.09,
+          "end": 7.57,
+          "probability": 0.04
+        },
+        {
+          "word": "đấy,",
+          "start": 7.57,
+          "end": 8.05,
+          "probability": 0.01
+        },
+        {
+          "word": "em",
+          "start": 8.05,
+          "end": 8.39,
+          "probability": 0.08
+        },
+        {
+          "word": "đấy,",
+          "start": 8.39,
+          "end": 8.39,
+          "probability": 0.47
+        },
+        {
+          "word": "em",
+          "start": 8.39,
+          "end": 8.69,
+          "probability": 0.11
+        },
+        {
+          "word": "đấy,",
+          "start": 8.69,
+          "end": 8.77,
+          "probability": 0.45
+        },
+        {
+          "word": "em",
+          "start": 8.95,
+          "end": 8.95,
+          "probability": 0.65
+        },
+        {
+          "word": "đấy,",
+          "start": 8.95,
+          "end": 8.95,
+          "probability": 0.57
+        },
+        {
+          "word": "em",
+          "start": 9.17,
+          "end": 9.17,
+          "probability": 0.88
+        },
+        {
+          "word": "đấy.",
+          "start": 9.17,
+          "end": 9.17,
+          "probability": 0.65
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.17,
+      "end": 9.23,
+      "text": "Njust mắt...",
+      "words": [
+        {
+          "word": "Njust",
+          "start": 9.17,
+          "end": 9.23,
+          "probability": 0.01
+        },
+        {
+          "word": "mắt...",
+          "start": 9.23,
+          "end": 9.23,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 9.23,
+      "end": 10.05,
+      "text": "nó giả hông cấp em.",
+      "words": [
+        {
+          "word": "nó",
+          "start": 9.23,
+          "end": 9.35,
+          "probability": 0.06
+        },
+        {
+          "word": "giả",
+          "start": 9.35,
+          "end": 9.47,
+          "probability": 0.62
+        },
+        {
+          "word": "hông",
+          "start": 9.47,
+          "end": 9.59,
+          "probability": 0.05
+        },
+        {
+          "word": "cấp",
+          "start": 9.59,
+          "end": 9.81,
+          "probability": 0.37
+        },
+        {
+          "word": "em.",
+          "start": 9.81,
+          "end": 10.05,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 10.29,
+      "end": 12.85,
+      "text": "Rồi 1 cí báo em so ra giảm tóc,",
+      "words": [
+        {
+          "word": "Rồi",
+          "start": 10.29,
+          "end": 10.33,
+          "probability": 0.43
+        },
+        {
+          "word": "1",
+          "start": 10.33,
+          "end": 10.57,
+          "probability": 0.05
+        },
+        {
+          "word": "cí",
+          "start": 10.57,
+          "end": 10.77,
+          "probability": 0.0
+        },
+        {
+          "word": "báo",
+          "start": 10.77,
+          "end": 11.57,
+          "probability": 0.19
+        },
+        {
+          "word": "em",
+          "start": 11.57,
+          "end": 12.41,
+          "probability": 0.08
+        },
+        {
+          "word": "so",
+          "start": 12.41,
+          "end": 12.41,
+          "probability": 0.0
+        },
+        {
+          "word": "ra",
+          "start": 12.41,
+          "end": 12.41,
+          "probability": 0.04
+        },
+        {
+          "word": "giảm",
+          "start": 12.41,
+          "end": 12.67,
+          "probability": 0.64
+        },
+        {
+          "word": "tóc,",
+          "start": 12.67,
+          "end": 12.85,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 13.91,
+      "end": 16.17,
+      "text": "ira nghe tầu từ門 này cứ anh trong 1 cí đ column này.",
+      "words": [
+        {
+          "word": "ira",
+          "start": 13.91,
+          "end": 14.07,
+          "probability": 0.39
+        },
+        {
+          "word": "nghe",
+          "start": 14.07,
+          "end": 14.33,
+          "probability": 0.05
+        },
+        {
+          "word": "tầu",
+          "start": 14.33,
+          "end": 14.35,
+          "probability": 0.04
+        },
+        {
+          "word": "từ門",
+          "start": 14.35,
+          "end": 14.75,
+          "probability": 0.01
+        },
+        {
+          "word": "này",
+          "start": 14.75,
+          "end": 14.81,
+          "probability": 0.59
+        },
+        {
+          "word": "cứ",
+          "start": 14.81,
+          "end": 14.99,
+          "probability": 0.16
+        },
+        {
+          "word": "anh",
+          "start": 14.99,
+          "end": 15.19,
+          "probability": 0.0
+        },
+        {
+          "word": "trong",
+          "start": 15.19,
+          "end": 15.35,
+          "probability": 0.03
+        },
+        {
+          "word": "1",
+          "start": 15.35,
+          "end": 15.61,
+          "probability": 0.05
+        },
+        {
+          "word": "cí",
+          "start": 15.61,
+          "end": 15.71,
+          "probability": 0.57
+        },
+        {
+          "word": "đ",
+          "start": 15.71,
+          "end": 15.95,
+          "probability": 0.0
+        },
+        {
+          "word": "column",
+          "start": 15.95,
+          "end": 15.95,
+          "probability": 0.0
+        },
+        {
+          "word": "này.",
+          "start": 15.95,
+          "end": 16.17,
+          "probability": 0.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 16.23,
+      "end": 17.33,
+      "text": "Rồi ăn nắm...",
+      "words": [
+        {
+          "word": "Rồi",
+          "start": 16.23,
+          "end": 16.23,
+          "probability": 0.45
+        },
+        {
+          "word": "ăn",
+          "start": 16.23,
+          "end": 16.23,
+          "probability": 0.0
+        },
+        {
+          "word": "nắm...",
+          "start": 16.23,
+          "end": 17.33,
+          "probability": 0.1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 17.33,
+      "end": 18.57,
+      "text": "1 cí báo giảm tóc, 1 cóc, 1 cóc.",
+      "words": [
+        {
+          "word": "1",
+          "start": 17.33,
+          "end": 17.35,
+          "probability": 0.04
+        },
+        {
+          "word": "cí",
+          "start": 17.35,
+          "end": 17.61,
+          "probability": 0.91
+        },
+        {
+          "word": "báo",
+          "start": 17.61,
+          "end": 17.69,
+          "probability": 0.43
+        },
+        {
+          "word": "giảm",
+          "start": 17.69,
+          "end": 18.01,
+          "probability": 0.85
+        },
+        {
+          "word": "tóc,",
+          "start": 18.01,
+          "end": 18.01,
+          "probability": 0.97
+        },
+        {
+          "word": "1",
+          "start": 18.25,
+          "end": 18.25,
+          "probability": 0.14
+        },
+        {
+          "word": "cóc,",
+          "start": 18.25,
+          "end": 18.25,
+          "probability": 0.45
+        },
+        {
+          "word": "1",
+          "start": 18.57,
+          "end": 18.57,
+          "probability": 0.2
+        },
+        {
+          "word": "cóc.",
+          "start": 18.57,
+          "end": 18.57,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 18.57,
+      "end": 21.01,
+      "text": "Sai gào tập, a y để a cí báo 1 có,",
+      "words": [
+        {
+          "word": "Sai",
+          "start": 18.57,
+          "end": 18.71,
+          "probability": 0.38
+        },
+        {
+          "word": "gào",
+          "start": 18.71,
+          "end": 18.95,
+          "probability": 0.04
+        },
+        {
+          "word": "tập,",
+          "start": 18.95,
+          "end": 19.07,
+          "probability": 0.03
+        },
+        {
+          "word": "a",
+          "start": 19.25,
+          "end": 19.37,
+          "probability": 0.04
+        },
+        {
+          "word": "y",
+          "start": 19.37,
+          "end": 19.45,
+          "probability": 0.01
+        },
+        {
+          "word": "để",
+          "start": 19.45,
+          "end": 19.45,
+          "probability": 0.0
+        },
+        {
+          "word": "a",
+          "start": 19.45,
+          "end": 19.57,
+          "probability": 0.0
+        },
+        {
+          "word": "cí",
+          "start": 19.57,
+          "end": 19.81,
+          "probability": 0.18
+        },
+        {
+          "word": "báo",
+          "start": 19.81,
+          "end": 20.51,
+          "probability": 0.73
+        },
+        {
+          "word": "1",
+          "start": 20.51,
+          "end": 20.77,
+          "probability": 0.07
+        },
+        {
+          "word": "có,",
+          "start": 20.77,
+          "end": 21.01,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 21.41,
+      "end": 24.65,
+      "text": "là mình sẽ giảm tóc vào lại nó lạc chứ?",
+      "words": [
+        {
+          "word": "là",
+          "start": 21.41,
+          "end": 21.75,
+          "probability": 0.03
+        },
+        {
+          "word": "mình",
+          "start": 21.75,
+          "end": 21.93,
+          "probability": 0.02
+        },
+        {
+          "word": "sẽ",
+          "start": 21.93,
+          "end": 22.03,
+          "probability": 0.88
+        },
+        {
+          "word": "giảm",
+          "start": 22.03,
+          "end": 22.29,
+          "probability": 0.81
+        },
+        {
+          "word": "tóc",
+          "start": 22.29,
+          "end": 22.45,
+          "probability": 0.9
+        },
+        {
+          "word": "vào",
+          "start": 22.45,
+          "end": 22.65,
+          "probability": 0.07
+        },
+        {
+          "word": "lại",
+          "start": 22.65,
+          "end": 23.01,
+          "probability": 0.71
+        },
+        {
+          "word": "nó",
+          "start": 23.01,
+          "end": 24.17,
+          "probability": 0.01
+        },
+        {
+          "word": "lạc",
+          "start": 24.17,
+          "end": 24.29,
+          "probability": 0.29
+        },
+        {
+          "word": "chứ?",
+          "start": 24.29,
+          "end": 24.65,
+          "probability": 0.03
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 24.93,
+      "end": 27.13,
+      "text": "Đợi nên nó con quá mà này, v're sẽ giảm tên.",
+      "words": [
+        {
+          "word": "Đợi",
+          "start": 24.93,
+          "end": 25.25,
+          "probability": 0.44
+        },
+        {
+          "word": "nên",
+          "start": 25.25,
+          "end": 25.25,
+          "probability": 0.0
+        },
+        {
+          "word": "nó",
+          "start": 25.25,
+          "end": 25.51,
+          "probability": 0.07
+        },
+        {
+          "word": "con",
+          "start": 25.51,
+          "end": 25.77,
+          "probability": 0.0
+        },
+        {
+          "word": "quá",
+          "start": 25.77,
+          "end": 25.95,
+          "probability": 0.1
+        },
+        {
+          "word": "mà",
+          "start": 25.95,
+          "end": 26.19,
+          "probability": 0.29
+        },
+        {
+          "word": "này,",
+          "start": 26.19,
+          "end": 26.55,
+          "probability": 0.17
+        },
+        {
+          "word": "v're",
+          "start": 26.73,
+          "end": 26.81,
+          "probability": 0.0
+        },
+        {
+          "word": "sẽ",
+          "start": 26.81,
+          "end": 26.81,
+          "probability": 0.15
+        },
+        {
+          "word": "giảm",
+          "start": 26.81,
+          "end": 27.07,
+          "probability": 0.76
+        },
+        {
+          "word": "tên.",
+          "start": 27.07,
+          "end": 27.13,
+          "probability": 0.39
+        }
+      ]
+    }
+  ]
+}

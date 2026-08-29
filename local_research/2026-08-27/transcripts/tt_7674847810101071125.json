@@ -1,0 +1,156 @@
+{
+  "item_id": "tt_7674847810101071125",
+  "duration_seconds": 16.89,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 19,
+  "text": "Sình chỉ là học nguồn này Nấm là mùa này Tôi Nhất là mức đần được nhà cho múng",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.86,
+      "text": "Sình chỉ là học nguồn này",
+      "words": [
+        {
+          "word": "Sình",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.07
+        },
+        {
+          "word": "chỉ",
+          "start": 0.26,
+          "end": 0.48,
+          "probability": 0.22
+        },
+        {
+          "word": "là",
+          "start": 0.48,
+          "end": 0.64,
+          "probability": 0.33
+        },
+        {
+          "word": "học",
+          "start": 0.64,
+          "end": 0.88,
+          "probability": 0.27
+        },
+        {
+          "word": "nguồn",
+          "start": 0.88,
+          "end": 1.3,
+          "probability": 0.23
+        },
+        {
+          "word": "này",
+          "start": 1.3,
+          "end": 1.86,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.86,
+      "end": 4.2,
+      "text": "Nấm là mùa này",
+      "words": [
+        {
+          "word": "Nấm",
+          "start": 1.86,
+          "end": 2.62,
+          "probability": 0.39
+        },
+        {
+          "word": "là",
+          "start": 2.62,
+          "end": 2.82,
+          "probability": 0.28
+        },
+        {
+          "word": "mùa",
+          "start": 2.82,
+          "end": 3.2,
+          "probability": 0.5
+        },
+        {
+          "word": "này",
+          "start": 3.2,
+          "end": 4.2,
+          "probability": 0.84
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.2,
+      "end": 4.64,
+      "text": "Tôi",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 4.2,
+          "end": 4.64,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 4.64,
+      "end": 7.12,
+      "text": "Nhất là mức đần được nhà cho múng",
+      "words": [
+        {
+          "word": "Nhất",
+          "start": 4.64,
+          "end": 5.46,
+          "probability": 0.24
+        },
+        {
+          "word": "là",
+          "start": 5.46,
+          "end": 5.64,
+          "probability": 0.72
+        },
+        {
+          "word": "mức",
+          "start": 5.64,
+          "end": 5.86,
+          "probability": 0.44
+        },
+        {
+          "word": "đần",
+          "start": 5.86,
+          "end": 6.08,
+          "probability": 0.54
+        },
+        {
+          "word": "được",
+          "start": 6.08,
+          "end": 6.28,
+          "probability": 0.2
+        },
+        {
+          "word": "nhà",
+          "start": 6.28,
+          "end": 6.5,
+          "probability": 0.42
+        },
+        {
+          "word": "cho",
+          "start": 6.5,
+          "end": 6.66,
+          "probability": 0.14
+        },
+        {
+          "word": "múng",
+          "start": 6.66,
+          "end": 7.12,
+          "probability": 0.39
+        }
+      ]
+    }
+  ]
+}

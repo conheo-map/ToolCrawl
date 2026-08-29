@@ -1,0 +1,256 @@
+{
+  "item_id": "tt_7652342545443261716_20",
+  "duration_seconds": 29.68,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 33,
+  "text": "Hãy phúc, trì mà gần được khắp với trị dụng. Để để nhớ, thì thì gần khắp xong rồi, để nhớ. Từ, cơ dụng, cơ. Cơ. Trị nhớ. Để lại hãy gặp lại.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.24,
+      "end": 4.22,
+      "text": "Hãy phúc, trì mà gần được khắp với trị dụng.",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 0.24,
+          "end": 0.6,
+          "probability": 0.24
+        },
+        {
+          "word": "phúc,",
+          "start": 0.6,
+          "end": 1.2,
+          "probability": 0.55
+        },
+        {
+          "word": "trì",
+          "start": 1.56,
+          "end": 1.76,
+          "probability": 0.1
+        },
+        {
+          "word": "mà",
+          "start": 1.76,
+          "end": 1.96,
+          "probability": 0.28
+        },
+        {
+          "word": "gần",
+          "start": 1.96,
+          "end": 2.36,
+          "probability": 0.14
+        },
+        {
+          "word": "được",
+          "start": 2.36,
+          "end": 2.56,
+          "probability": 0.45
+        },
+        {
+          "word": "khắp",
+          "start": 2.56,
+          "end": 2.86,
+          "probability": 0.47
+        },
+        {
+          "word": "với",
+          "start": 2.86,
+          "end": 3.16,
+          "probability": 0.44
+        },
+        {
+          "word": "trị",
+          "start": 3.16,
+          "end": 3.4,
+          "probability": 0.27
+        },
+        {
+          "word": "dụng.",
+          "start": 3.4,
+          "end": 4.22,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.46,
+      "end": 7.58,
+      "text": "Để để nhớ, thì thì gần khắp xong rồi, để nhớ.",
+      "words": [
+        {
+          "word": "Để",
+          "start": 4.46,
+          "end": 4.46,
+          "probability": 0.34
+        },
+        {
+          "word": "để",
+          "start": 4.46,
+          "end": 4.66,
+          "probability": 0.06
+        },
+        {
+          "word": "nhớ,",
+          "start": 4.66,
+          "end": 5.16,
+          "probability": 0.25
+        },
+        {
+          "word": "thì",
+          "start": 5.46,
+          "end": 5.54,
+          "probability": 0.12
+        },
+        {
+          "word": "thì",
+          "start": 5.54,
+          "end": 5.68,
+          "probability": 0.15
+        },
+        {
+          "word": "gần",
+          "start": 5.68,
+          "end": 5.94,
+          "probability": 0.43
+        },
+        {
+          "word": "khắp",
+          "start": 5.94,
+          "end": 6.22,
+          "probability": 0.79
+        },
+        {
+          "word": "xong",
+          "start": 6.22,
+          "end": 6.38,
+          "probability": 0.6
+        },
+        {
+          "word": "rồi,",
+          "start": 6.38,
+          "end": 6.58,
+          "probability": 0.41
+        },
+        {
+          "word": "để",
+          "start": 6.68,
+          "end": 6.86,
+          "probability": 0.38
+        },
+        {
+          "word": "nhớ.",
+          "start": 6.86,
+          "end": 7.58,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.84,
+      "end": 10.26,
+      "text": "Từ, cơ dụng, cơ.",
+      "words": [
+        {
+          "word": "Từ,",
+          "start": 7.84,
+          "end": 7.84,
+          "probability": 0.24
+        },
+        {
+          "word": "cơ",
+          "start": 7.86,
+          "end": 8.18,
+          "probability": 0.19
+        },
+        {
+          "word": "dụng,",
+          "start": 9.52,
+          "end": 9.7,
+          "probability": 0.4
+        },
+        {
+          "word": "cơ.",
+          "start": 10.26,
+          "end": 10.26,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.5,
+      "end": 10.8,
+      "text": "Cơ.",
+      "words": [
+        {
+          "word": "Cơ.",
+          "start": 10.5,
+          "end": 10.8,
+          "probability": 0.55
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.18,
+      "end": 11.34,
+      "text": "Trị nhớ.",
+      "words": [
+        {
+          "word": "Trị",
+          "start": 11.18,
+          "end": 11.18,
+          "probability": 0.11
+        },
+        {
+          "word": "nhớ.",
+          "start": 11.18,
+          "end": 11.34,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.64,
+      "end": 26.7,
+      "text": "Để lại hãy gặp lại.",
+      "words": [
+        {
+          "word": "Để",
+          "start": 23.64,
+          "end": 24.14,
+          "probability": 0.55
+        },
+        {
+          "word": "lại",
+          "start": 24.14,
+          "end": 24.64,
+          "probability": 0.23
+        },
+        {
+          "word": "hãy",
+          "start": 24.64,
+          "end": 24.88,
+          "probability": 0.55
+        },
+        {
+          "word": "gặp",
+          "start": 26.32,
+          "end": 26.4,
+          "probability": 0.66
+        },
+        {
+          "word": "lại.",
+          "start": 26.4,
+          "end": 26.7,
+          "probability": 0.16
+        }
+      ]
+    }
+  ]
+}

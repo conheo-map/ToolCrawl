@@ -1,0 +1,36 @@
+{
+  "item_id": "tt_7437506941565357332_10",
+  "duration_seconds": 19.56,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 3,
+  "text": "Nó gì nữa",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.18,
+      "text": "Nó gì nữa",
+      "words": [
+        {
+          "word": "Nó",
+          "start": 0.02,
+          "end": 0.86,
+          "probability": 0.16
+        },
+        {
+          "word": "gì",
+          "start": 0.86,
+          "end": 0.86,
+          "probability": 0.0
+        },
+        {
+          "word": "nữa",
+          "start": 0.86,
+          "end": 1.18,
+          "probability": 0.02
+        }
+      ]
+    }
+  ]
+}

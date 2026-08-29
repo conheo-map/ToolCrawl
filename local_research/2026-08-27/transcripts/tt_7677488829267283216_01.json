@@ -1,0 +1,718 @@
+{
+  "item_id": "tt_7677488829267283216_01",
+  "duration_seconds": 26.7,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 110,
+  "text": "trong tâm dữ báo khi tượng thủy bàn Quốc gia thời tiết trong kỳ nghỉ lễ 2 thành chiến, từ ngày 3 mốt thành tám đến ngày 2 thành chiến năm 2020, có sự phần hoa só sét giữa các bùng biển trên cả nước. Tại mắt bộ và tủ đô hà nội, thời tiết có su hướng chuyển dữ mắt với nền dịch dào đồng từ 2 tám đến 2 đủ 4, bùng nối đêm lạnh dưới 2 đủ 4, sau mưa có khả năng gia tăng từ ngày 3 mốt thành tám đến ngày 2 thành chiến, sất hiện nhiều đêm mưa vừa đến mưa to kẹn dông.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.66,
+      "text": "trong tâm dữ báo khi tượng thủy bàn Quốc gia thời tiết trong kỳ nghỉ lễ 2 thành chiến,",
+      "words": [
+        {
+          "word": "trong",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.12
+        },
+        {
+          "word": "tâm",
+          "start": 0.18,
+          "end": 0.42,
+          "probability": 0.7
+        },
+        {
+          "word": "dữ",
+          "start": 0.42,
+          "end": 0.56,
+          "probability": 0.54
+        },
+        {
+          "word": "báo",
+          "start": 0.56,
+          "end": 0.74,
+          "probability": 0.84
+        },
+        {
+          "word": "khi",
+          "start": 0.74,
+          "end": 0.9,
+          "probability": 0.19
+        },
+        {
+          "word": "tượng",
+          "start": 0.9,
+          "end": 1.06,
+          "probability": 0.67
+        },
+        {
+          "word": "thủy",
+          "start": 1.06,
+          "end": 1.26,
+          "probability": 0.46
+        },
+        {
+          "word": "bàn",
+          "start": 1.26,
+          "end": 1.32,
+          "probability": 0.27
+        },
+        {
+          "word": "Quốc",
+          "start": 1.32,
+          "end": 1.5,
+          "probability": 0.13
+        },
+        {
+          "word": "gia",
+          "start": 1.5,
+          "end": 1.88,
+          "probability": 0.38
+        },
+        {
+          "word": "thời",
+          "start": 1.88,
+          "end": 2.24,
+          "probability": 0.27
+        },
+        {
+          "word": "tiết",
+          "start": 2.24,
+          "end": 2.34,
+          "probability": 0.6
+        },
+        {
+          "word": "trong",
+          "start": 2.34,
+          "end": 2.52,
+          "probability": 0.89
+        },
+        {
+          "word": "kỳ",
+          "start": 2.52,
+          "end": 2.72,
+          "probability": 0.65
+        },
+        {
+          "word": "nghỉ",
+          "start": 2.72,
+          "end": 2.86,
+          "probability": 0.5
+        },
+        {
+          "word": "lễ",
+          "start": 2.86,
+          "end": 3.0,
+          "probability": 0.53
+        },
+        {
+          "word": "2",
+          "start": 3.0,
+          "end": 3.16,
+          "probability": 0.68
+        },
+        {
+          "word": "thành",
+          "start": 3.16,
+          "end": 3.32,
+          "probability": 0.52
+        },
+        {
+          "word": "chiến,",
+          "start": 3.32,
+          "end": 3.66,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.8,
+      "end": 8.42,
+      "text": "từ ngày 3 mốt thành tám đến ngày 2 thành chiến năm 2020, có sự phần hoa só sét",
+      "words": [
+        {
+          "word": "từ",
+          "start": 3.8,
+          "end": 3.92,
+          "probability": 0.88
+        },
+        {
+          "word": "ngày",
+          "start": 3.92,
+          "end": 4.08,
+          "probability": 0.82
+        },
+        {
+          "word": "3",
+          "start": 4.08,
+          "end": 4.28,
+          "probability": 0.47
+        },
+        {
+          "word": "mốt",
+          "start": 4.28,
+          "end": 4.42,
+          "probability": 0.34
+        },
+        {
+          "word": "thành",
+          "start": 4.42,
+          "end": 4.64,
+          "probability": 0.54
+        },
+        {
+          "word": "tám",
+          "start": 4.64,
+          "end": 4.8,
+          "probability": 0.55
+        },
+        {
+          "word": "đến",
+          "start": 4.8,
+          "end": 4.98,
+          "probability": 0.39
+        },
+        {
+          "word": "ngày",
+          "start": 4.98,
+          "end": 5.12,
+          "probability": 0.99
+        },
+        {
+          "word": "2",
+          "start": 5.12,
+          "end": 5.32,
+          "probability": 0.91
+        },
+        {
+          "word": "thành",
+          "start": 5.32,
+          "end": 5.48,
+          "probability": 0.97
+        },
+        {
+          "word": "chiến",
+          "start": 5.48,
+          "end": 5.64,
+          "probability": 0.99
+        },
+        {
+          "word": "năm",
+          "start": 5.64,
+          "end": 5.78,
+          "probability": 0.34
+        },
+        {
+          "word": "2020,",
+          "start": 5.78,
+          "end": 6.2,
+          "probability": 0.29
+        },
+        {
+          "word": "có",
+          "start": 7.38,
+          "end": 7.52,
+          "probability": 0.95
+        },
+        {
+          "word": "sự",
+          "start": 7.52,
+          "end": 7.68,
+          "probability": 0.96
+        },
+        {
+          "word": "phần",
+          "start": 7.68,
+          "end": 7.84,
+          "probability": 0.48
+        },
+        {
+          "word": "hoa",
+          "start": 7.84,
+          "end": 8.02,
+          "probability": 0.72
+        },
+        {
+          "word": "só",
+          "start": 8.02,
+          "end": 8.22,
+          "probability": 0.47
+        },
+        {
+          "word": "sét",
+          "start": 8.22,
+          "end": 8.42,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.42,
+      "end": 10.0,
+      "text": "giữa các bùng biển trên cả nước.",
+      "words": [
+        {
+          "word": "giữa",
+          "start": 8.42,
+          "end": 8.76,
+          "probability": 0.73
+        },
+        {
+          "word": "các",
+          "start": 8.76,
+          "end": 8.9,
+          "probability": 0.97
+        },
+        {
+          "word": "bùng",
+          "start": 8.9,
+          "end": 9.06,
+          "probability": 0.4
+        },
+        {
+          "word": "biển",
+          "start": 9.06,
+          "end": 9.26,
+          "probability": 0.59
+        },
+        {
+          "word": "trên",
+          "start": 9.26,
+          "end": 9.42,
+          "probability": 0.84
+        },
+        {
+          "word": "cả",
+          "start": 9.42,
+          "end": 9.62,
+          "probability": 0.61
+        },
+        {
+          "word": "nước.",
+          "start": 9.62,
+          "end": 10.0,
+          "probability": 0.69
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.36,
+      "end": 14.58,
+      "text": "Tại mắt bộ và tủ đô hà nội, thời tiết có su hướng chuyển dữ mắt với nền dịch dào đồng từ 2 tám đến",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 10.36,
+          "end": 10.36,
+          "probability": 0.7
+        },
+        {
+          "word": "mắt",
+          "start": 10.36,
+          "end": 10.56,
+          "probability": 0.49
+        },
+        {
+          "word": "bộ",
+          "start": 10.56,
+          "end": 10.7,
+          "probability": 0.82
+        },
+        {
+          "word": "và",
+          "start": 10.7,
+          "end": 10.92,
+          "probability": 0.48
+        },
+        {
+          "word": "tủ",
+          "start": 10.92,
+          "end": 11.04,
+          "probability": 0.55
+        },
+        {
+          "word": "đô",
+          "start": 11.04,
+          "end": 11.14,
+          "probability": 0.66
+        },
+        {
+          "word": "hà",
+          "start": 11.14,
+          "end": 11.28,
+          "probability": 0.45
+        },
+        {
+          "word": "nội,",
+          "start": 11.28,
+          "end": 11.54,
+          "probability": 0.74
+        },
+        {
+          "word": "thời",
+          "start": 11.8,
+          "end": 11.96,
+          "probability": 0.99
+        },
+        {
+          "word": "tiết",
+          "start": 11.96,
+          "end": 12.06,
+          "probability": 0.99
+        },
+        {
+          "word": "có",
+          "start": 12.06,
+          "end": 12.24,
+          "probability": 0.99
+        },
+        {
+          "word": "su",
+          "start": 12.24,
+          "end": 12.4,
+          "probability": 0.42
+        },
+        {
+          "word": "hướng",
+          "start": 12.4,
+          "end": 12.52,
+          "probability": 0.6
+        },
+        {
+          "word": "chuyển",
+          "start": 12.52,
+          "end": 12.78,
+          "probability": 0.73
+        },
+        {
+          "word": "dữ",
+          "start": 12.78,
+          "end": 12.96,
+          "probability": 0.39
+        },
+        {
+          "word": "mắt",
+          "start": 12.96,
+          "end": 13.12,
+          "probability": 0.83
+        },
+        {
+          "word": "với",
+          "start": 13.12,
+          "end": 13.3,
+          "probability": 0.69
+        },
+        {
+          "word": "nền",
+          "start": 13.3,
+          "end": 13.48,
+          "probability": 0.8
+        },
+        {
+          "word": "dịch",
+          "start": 13.48,
+          "end": 13.62,
+          "probability": 0.55
+        },
+        {
+          "word": "dào",
+          "start": 13.62,
+          "end": 13.76,
+          "probability": 0.23
+        },
+        {
+          "word": "đồng",
+          "start": 13.76,
+          "end": 13.96,
+          "probability": 0.48
+        },
+        {
+          "word": "từ",
+          "start": 13.96,
+          "end": 14.1,
+          "probability": 0.8
+        },
+        {
+          "word": "2",
+          "start": 14.1,
+          "end": 14.28,
+          "probability": 0.69
+        },
+        {
+          "word": "tám",
+          "start": 14.28,
+          "end": 14.44,
+          "probability": 0.69
+        },
+        {
+          "word": "đến",
+          "start": 14.44,
+          "end": 14.58,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.58,
+      "end": 19.9,
+      "text": "2 đủ 4, bùng nối đêm lạnh dưới 2 đủ 4, sau mưa có khả năng gia tăng từ ngày 3 mốt thành tám đến",
+      "words": [
+        {
+          "word": "2",
+          "start": 14.58,
+          "end": 14.82,
+          "probability": 0.28
+        },
+        {
+          "word": "đủ",
+          "start": 14.82,
+          "end": 15.06,
+          "probability": 0.21
+        },
+        {
+          "word": "4,",
+          "start": 15.06,
+          "end": 15.3,
+          "probability": 0.25
+        },
+        {
+          "word": "bùng",
+          "start": 15.66,
+          "end": 15.8,
+          "probability": 0.59
+        },
+        {
+          "word": "nối",
+          "start": 15.8,
+          "end": 15.96,
+          "probability": 0.42
+        },
+        {
+          "word": "đêm",
+          "start": 15.96,
+          "end": 16.12,
+          "probability": 0.82
+        },
+        {
+          "word": "lạnh",
+          "start": 16.12,
+          "end": 16.3,
+          "probability": 0.59
+        },
+        {
+          "word": "dưới",
+          "start": 16.3,
+          "end": 16.46,
+          "probability": 0.8
+        },
+        {
+          "word": "2",
+          "start": 16.46,
+          "end": 16.68,
+          "probability": 0.86
+        },
+        {
+          "word": "đủ",
+          "start": 16.68,
+          "end": 16.84,
+          "probability": 0.89
+        },
+        {
+          "word": "4,",
+          "start": 16.84,
+          "end": 17.1,
+          "probability": 0.96
+        },
+        {
+          "word": "sau",
+          "start": 17.54,
+          "end": 17.64,
+          "probability": 0.39
+        },
+        {
+          "word": "mưa",
+          "start": 17.64,
+          "end": 17.82,
+          "probability": 0.59
+        },
+        {
+          "word": "có",
+          "start": 17.82,
+          "end": 18.04,
+          "probability": 0.83
+        },
+        {
+          "word": "khả",
+          "start": 18.04,
+          "end": 18.14,
+          "probability": 0.76
+        },
+        {
+          "word": "năng",
+          "start": 18.14,
+          "end": 18.3,
+          "probability": 0.95
+        },
+        {
+          "word": "gia",
+          "start": 18.3,
+          "end": 18.5,
+          "probability": 0.48
+        },
+        {
+          "word": "tăng",
+          "start": 18.5,
+          "end": 18.7,
+          "probability": 0.78
+        },
+        {
+          "word": "từ",
+          "start": 18.7,
+          "end": 18.9,
+          "probability": 0.98
+        },
+        {
+          "word": "ngày",
+          "start": 18.9,
+          "end": 19.04,
+          "probability": 1.0
+        },
+        {
+          "word": "3",
+          "start": 19.04,
+          "end": 19.26,
+          "probability": 0.88
+        },
+        {
+          "word": "mốt",
+          "start": 19.26,
+          "end": 19.36,
+          "probability": 0.95
+        },
+        {
+          "word": "thành",
+          "start": 19.36,
+          "end": 19.54,
+          "probability": 0.98
+        },
+        {
+          "word": "tám",
+          "start": 19.54,
+          "end": 19.74,
+          "probability": 0.97
+        },
+        {
+          "word": "đến",
+          "start": 19.74,
+          "end": 19.9,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 19.9,
+      "end": 23.08,
+      "text": "ngày 2 thành chiến, sất hiện nhiều đêm mưa vừa đến mưa to kẹn dông.",
+      "words": [
+        {
+          "word": "ngày",
+          "start": 19.9,
+          "end": 20.06,
+          "probability": 0.99
+        },
+        {
+          "word": "2",
+          "start": 20.06,
+          "end": 20.3,
+          "probability": 0.95
+        },
+        {
+          "word": "thành",
+          "start": 20.3,
+          "end": 20.44,
+          "probability": 0.98
+        },
+        {
+          "word": "chiến,",
+          "start": 20.44,
+          "end": 20.84,
+          "probability": 1.0
+        },
+        {
+          "word": "sất",
+          "start": 21.0,
+          "end": 21.08,
+          "probability": 0.36
+        },
+        {
+          "word": "hiện",
+          "start": 21.08,
+          "end": 21.26,
+          "probability": 0.96
+        },
+        {
+          "word": "nhiều",
+          "start": 21.26,
+          "end": 21.42,
+          "probability": 0.65
+        },
+        {
+          "word": "đêm",
+          "start": 21.42,
+          "end": 21.62,
+          "probability": 0.51
+        },
+        {
+          "word": "mưa",
+          "start": 21.62,
+          "end": 21.8,
+          "probability": 0.77
+        },
+        {
+          "word": "vừa",
+          "start": 21.8,
+          "end": 22.06,
+          "probability": 0.77
+        },
+        {
+          "word": "đến",
+          "start": 22.06,
+          "end": 22.22,
+          "probability": 0.92
+        },
+        {
+          "word": "mưa",
+          "start": 22.22,
+          "end": 22.44,
+          "probability": 0.73
+        },
+        {
+          "word": "to",
+          "start": 22.44,
+          "end": 22.64,
+          "probability": 0.4
+        },
+        {
+          "word": "kẹn",
+          "start": 22.64,
+          "end": 22.82,
+          "probability": 0.5
+        },
+        {
+          "word": "dông.",
+          "start": 22.82,
+          "end": 23.08,
+          "probability": 0.37
+        }
+      ]
+    }
+  ]
+}

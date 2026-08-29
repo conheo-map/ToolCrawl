@@ -1,0 +1,102 @@
+{
+  "item_id": "tt_7655989236294012181_03",
+  "duration_seconds": 8.61,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 14,
+  "text": "có thể sẵn i VCB như sẵn phát sổ cào, sẵn phó cổ cào.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.62,
+      "text": "có thể sẵn i VCB như sẵn phát sổ cào, sẵn phó cổ cào.",
+      "words": [
+        {
+          "word": "có",
+          "start": 0.0,
+          "end": 0.2,
+          "probability": 0.12
+        },
+        {
+          "word": "thể",
+          "start": 0.2,
+          "end": 0.42,
+          "probability": 0.69
+        },
+        {
+          "word": "sẵn",
+          "start": 0.42,
+          "end": 0.66,
+          "probability": 0.6
+        },
+        {
+          "word": "i",
+          "start": 0.66,
+          "end": 0.82,
+          "probability": 0.19
+        },
+        {
+          "word": "VCB",
+          "start": 0.82,
+          "end": 1.42,
+          "probability": 0.32
+        },
+        {
+          "word": "như",
+          "start": 1.42,
+          "end": 1.68,
+          "probability": 0.32
+        },
+        {
+          "word": "sẵn",
+          "start": 1.68,
+          "end": 1.92,
+          "probability": 0.89
+        },
+        {
+          "word": "phát",
+          "start": 1.92,
+          "end": 2.08,
+          "probability": 0.13
+        },
+        {
+          "word": "sổ",
+          "start": 2.08,
+          "end": 2.22,
+          "probability": 0.13
+        },
+        {
+          "word": "cào,",
+          "start": 2.22,
+          "end": 2.6,
+          "probability": 0.26
+        },
+        {
+          "word": "sẵn",
+          "start": 2.68,
+          "end": 2.9,
+          "probability": 0.92
+        },
+        {
+          "word": "phó",
+          "start": 2.9,
+          "end": 3.08,
+          "probability": 0.45
+        },
+        {
+          "word": "cổ",
+          "start": 3.08,
+          "end": 3.22,
+          "probability": 0.25
+        },
+        {
+          "word": "cào.",
+          "start": 3.22,
+          "end": 3.62,
+          "probability": 0.86
+        }
+      ]
+    }
+  ]
+}

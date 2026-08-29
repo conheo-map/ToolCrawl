@@ -1,0 +1,110 @@
+{
+  "item_id": "tt_7487599992476060935_04",
+  "duration_seconds": 23.37,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 14,
+  "text": "và nhìn bà trời lại cắt bước vỷ mạc nhìn bà trời lại tốt",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.82,
+      "text": "và nhìn bà trời lại cắt bước vỷ mạc",
+      "words": [
+        {
+          "word": "và",
+          "start": 0.0,
+          "end": 0.62,
+          "probability": 0.02
+        },
+        {
+          "word": "nhìn",
+          "start": 0.62,
+          "end": 0.62,
+          "probability": 0.1
+        },
+        {
+          "word": "bà",
+          "start": 0.62,
+          "end": 1.06,
+          "probability": 0.04
+        },
+        {
+          "word": "trời",
+          "start": 1.06,
+          "end": 1.66,
+          "probability": 0.06
+        },
+        {
+          "word": "lại",
+          "start": 1.66,
+          "end": 2.46,
+          "probability": 0.01
+        },
+        {
+          "word": "cắt",
+          "start": 2.46,
+          "end": 2.96,
+          "probability": 0.03
+        },
+        {
+          "word": "bước",
+          "start": 2.96,
+          "end": 2.96,
+          "probability": 0.04
+        },
+        {
+          "word": "vỷ",
+          "start": 2.96,
+          "end": 3.32,
+          "probability": 0.22
+        },
+        {
+          "word": "mạc",
+          "start": 3.32,
+          "end": 3.82,
+          "probability": 0.26
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.82,
+      "end": 5.4,
+      "text": "nhìn bà trời lại tốt",
+      "words": [
+        {
+          "word": "nhìn",
+          "start": 3.82,
+          "end": 4.12,
+          "probability": 0.07
+        },
+        {
+          "word": "bà",
+          "start": 4.12,
+          "end": 4.64,
+          "probability": 0.57
+        },
+        {
+          "word": "trời",
+          "start": 4.64,
+          "end": 5.08,
+          "probability": 0.61
+        },
+        {
+          "word": "lại",
+          "start": 5.08,
+          "end": 5.08,
+          "probability": 0.35
+        },
+        {
+          "word": "tốt",
+          "start": 5.08,
+          "end": 5.4,
+          "probability": 0.05
+        }
+      ]
+    }
+  ]
+}

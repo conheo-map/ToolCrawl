@@ -1,0 +1,796 @@
+{
+  "item_id": "tt_7662651101325298962_01",
+  "duration_seconds": 29.43,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 123,
+  "text": "Vì chỗ bà vàng vừa phát đi thương báo chính thức bà bỏ thông tin đang hành chuyển trên mạng só hội cho rằng nhà chỗ tổ chức giải biết cơm. Thao trong tin từ chỗ bà vàng, thời gian gần đây rất hiện nhiều bài đang trên mạng só hội với nội dung, chỗ bà vàng tổ chức giải biết cơm. Cái mìo đó là hình ảnh một số người mặt pháp phục đăng cầm vừa biết cơm. Vì sau là phông mền vý dòng trước, giải biết cơm bóng chỗ bà vàng mở gộn hành hành cho hai bí xấu. Nhà chỗ trong nhất, nay là những thông tin không lũ sự thật và đang gây dường nằm trong dù lợi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.5,
+      "text": "Vì chỗ bà vàng vừa phát đi thương báo chính thức bà bỏ thông tin đang hành chuyển trên mạng só hội cho rằng nhà chỗ tổ chức giải biết cơm.",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.1
+        },
+        {
+          "word": "chỗ",
+          "start": 0.24,
+          "end": 0.58,
+          "probability": 0.36
+        },
+        {
+          "word": "bà",
+          "start": 0.58,
+          "end": 0.74,
+          "probability": 0.34
+        },
+        {
+          "word": "vàng",
+          "start": 0.74,
+          "end": 1.02,
+          "probability": 0.36
+        },
+        {
+          "word": "vừa",
+          "start": 1.02,
+          "end": 1.2,
+          "probability": 0.66
+        },
+        {
+          "word": "phát",
+          "start": 1.2,
+          "end": 1.42,
+          "probability": 0.94
+        },
+        {
+          "word": "đi",
+          "start": 1.42,
+          "end": 1.58,
+          "probability": 0.48
+        },
+        {
+          "word": "thương",
+          "start": 1.58,
+          "end": 1.78,
+          "probability": 0.69
+        },
+        {
+          "word": "báo",
+          "start": 1.78,
+          "end": 2.0,
+          "probability": 0.62
+        },
+        {
+          "word": "chính",
+          "start": 2.0,
+          "end": 2.18,
+          "probability": 0.86
+        },
+        {
+          "word": "thức",
+          "start": 2.18,
+          "end": 2.3,
+          "probability": 0.71
+        },
+        {
+          "word": "bà",
+          "start": 2.3,
+          "end": 2.52,
+          "probability": 0.56
+        },
+        {
+          "word": "bỏ",
+          "start": 2.52,
+          "end": 2.6,
+          "probability": 0.81
+        },
+        {
+          "word": "thông",
+          "start": 2.6,
+          "end": 2.82,
+          "probability": 0.42
+        },
+        {
+          "word": "tin",
+          "start": 2.82,
+          "end": 2.96,
+          "probability": 0.85
+        },
+        {
+          "word": "đang",
+          "start": 2.96,
+          "end": 3.18,
+          "probability": 0.5
+        },
+        {
+          "word": "hành",
+          "start": 3.18,
+          "end": 3.4,
+          "probability": 0.26
+        },
+        {
+          "word": "chuyển",
+          "start": 3.4,
+          "end": 3.6,
+          "probability": 0.84
+        },
+        {
+          "word": "trên",
+          "start": 3.6,
+          "end": 3.8,
+          "probability": 0.35
+        },
+        {
+          "word": "mạng",
+          "start": 3.8,
+          "end": 4.02,
+          "probability": 0.68
+        },
+        {
+          "word": "só",
+          "start": 4.02,
+          "end": 4.16,
+          "probability": 0.37
+        },
+        {
+          "word": "hội",
+          "start": 4.16,
+          "end": 4.32,
+          "probability": 0.75
+        },
+        {
+          "word": "cho",
+          "start": 4.32,
+          "end": 4.5,
+          "probability": 0.44
+        },
+        {
+          "word": "rằng",
+          "start": 4.5,
+          "end": 4.82,
+          "probability": 0.83
+        },
+        {
+          "word": "nhà",
+          "start": 4.82,
+          "end": 5.18,
+          "probability": 0.31
+        },
+        {
+          "word": "chỗ",
+          "start": 5.18,
+          "end": 5.38,
+          "probability": 0.67
+        },
+        {
+          "word": "tổ",
+          "start": 5.38,
+          "end": 5.62,
+          "probability": 0.85
+        },
+        {
+          "word": "chức",
+          "start": 5.62,
+          "end": 5.86,
+          "probability": 0.63
+        },
+        {
+          "word": "giải",
+          "start": 5.86,
+          "end": 6.08,
+          "probability": 0.72
+        },
+        {
+          "word": "biết",
+          "start": 6.08,
+          "end": 6.32,
+          "probability": 0.11
+        },
+        {
+          "word": "cơm.",
+          "start": 6.32,
+          "end": 6.5,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.1,
+      "end": 11.62,
+      "text": "Thao trong tin từ chỗ bà vàng, thời gian gần đây rất hiện nhiều bài đang trên mạng só hội với nội dung,",
+      "words": [
+        {
+          "word": "Thao",
+          "start": 7.1,
+          "end": 7.38,
+          "probability": 0.52
+        },
+        {
+          "word": "trong",
+          "start": 7.38,
+          "end": 7.58,
+          "probability": 0.37
+        },
+        {
+          "word": "tin",
+          "start": 7.58,
+          "end": 7.82,
+          "probability": 0.95
+        },
+        {
+          "word": "từ",
+          "start": 7.82,
+          "end": 8.04,
+          "probability": 0.74
+        },
+        {
+          "word": "chỗ",
+          "start": 8.04,
+          "end": 8.18,
+          "probability": 0.99
+        },
+        {
+          "word": "bà",
+          "start": 8.18,
+          "end": 8.4,
+          "probability": 0.97
+        },
+        {
+          "word": "vàng,",
+          "start": 8.4,
+          "end": 8.7,
+          "probability": 0.93
+        },
+        {
+          "word": "thời",
+          "start": 8.72,
+          "end": 8.92,
+          "probability": 0.21
+        },
+        {
+          "word": "gian",
+          "start": 8.92,
+          "end": 9.04,
+          "probability": 0.9
+        },
+        {
+          "word": "gần",
+          "start": 9.04,
+          "end": 9.24,
+          "probability": 0.59
+        },
+        {
+          "word": "đây",
+          "start": 9.24,
+          "end": 9.38,
+          "probability": 0.88
+        },
+        {
+          "word": "rất",
+          "start": 9.38,
+          "end": 9.56,
+          "probability": 0.17
+        },
+        {
+          "word": "hiện",
+          "start": 9.56,
+          "end": 9.72,
+          "probability": 0.9
+        },
+        {
+          "word": "nhiều",
+          "start": 9.72,
+          "end": 9.96,
+          "probability": 0.95
+        },
+        {
+          "word": "bài",
+          "start": 9.96,
+          "end": 10.14,
+          "probability": 0.65
+        },
+        {
+          "word": "đang",
+          "start": 10.14,
+          "end": 10.34,
+          "probability": 0.33
+        },
+        {
+          "word": "trên",
+          "start": 10.34,
+          "end": 10.5,
+          "probability": 0.76
+        },
+        {
+          "word": "mạng",
+          "start": 10.5,
+          "end": 10.68,
+          "probability": 0.98
+        },
+        {
+          "word": "só",
+          "start": 10.68,
+          "end": 10.86,
+          "probability": 0.98
+        },
+        {
+          "word": "hội",
+          "start": 10.86,
+          "end": 11.04,
+          "probability": 0.98
+        },
+        {
+          "word": "với",
+          "start": 11.04,
+          "end": 11.16,
+          "probability": 0.78
+        },
+        {
+          "word": "nội",
+          "start": 11.16,
+          "end": 11.34,
+          "probability": 0.36
+        },
+        {
+          "word": "dung,",
+          "start": 11.34,
+          "end": 11.62,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.08,
+      "end": 13.72,
+      "text": "chỗ bà vàng tổ chức giải biết cơm.",
+      "words": [
+        {
+          "word": "chỗ",
+          "start": 12.08,
+          "end": 12.12,
+          "probability": 0.97
+        },
+        {
+          "word": "bà",
+          "start": 12.12,
+          "end": 12.34,
+          "probability": 0.98
+        },
+        {
+          "word": "vàng",
+          "start": 12.34,
+          "end": 12.66,
+          "probability": 0.98
+        },
+        {
+          "word": "tổ",
+          "start": 12.66,
+          "end": 12.88,
+          "probability": 0.91
+        },
+        {
+          "word": "chức",
+          "start": 12.88,
+          "end": 13.08,
+          "probability": 0.99
+        },
+        {
+          "word": "giải",
+          "start": 13.08,
+          "end": 13.34,
+          "probability": 1.0
+        },
+        {
+          "word": "biết",
+          "start": 13.34,
+          "end": 13.62,
+          "probability": 0.97
+        },
+        {
+          "word": "cơm.",
+          "start": 13.62,
+          "end": 13.72,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.32,
+      "end": 18.12,
+      "text": "Cái mìo đó là hình ảnh một số người mặt pháp phục đăng cầm vừa biết cơm.",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 14.32,
+          "end": 14.58,
+          "probability": 0.28
+        },
+        {
+          "word": "mìo",
+          "start": 14.58,
+          "end": 14.8,
+          "probability": 0.09
+        },
+        {
+          "word": "đó",
+          "start": 14.8,
+          "end": 14.94,
+          "probability": 0.68
+        },
+        {
+          "word": "là",
+          "start": 14.94,
+          "end": 15.22,
+          "probability": 0.53
+        },
+        {
+          "word": "hình",
+          "start": 15.22,
+          "end": 15.3,
+          "probability": 0.41
+        },
+        {
+          "word": "ảnh",
+          "start": 15.3,
+          "end": 15.48,
+          "probability": 0.54
+        },
+        {
+          "word": "một",
+          "start": 15.48,
+          "end": 15.68,
+          "probability": 0.84
+        },
+        {
+          "word": "số",
+          "start": 15.68,
+          "end": 15.86,
+          "probability": 0.98
+        },
+        {
+          "word": "người",
+          "start": 15.86,
+          "end": 16.14,
+          "probability": 0.82
+        },
+        {
+          "word": "mặt",
+          "start": 16.14,
+          "end": 16.4,
+          "probability": 0.65
+        },
+        {
+          "word": "pháp",
+          "start": 16.4,
+          "end": 16.66,
+          "probability": 0.74
+        },
+        {
+          "word": "phục",
+          "start": 16.66,
+          "end": 16.94,
+          "probability": 0.89
+        },
+        {
+          "word": "đăng",
+          "start": 16.94,
+          "end": 17.26,
+          "probability": 0.42
+        },
+        {
+          "word": "cầm",
+          "start": 17.26,
+          "end": 17.54,
+          "probability": 0.82
+        },
+        {
+          "word": "vừa",
+          "start": 17.54,
+          "end": 17.74,
+          "probability": 0.78
+        },
+        {
+          "word": "biết",
+          "start": 17.74,
+          "end": 18.04,
+          "probability": 0.59
+        },
+        {
+          "word": "cơm.",
+          "start": 18.04,
+          "end": 18.12,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 18.68,
+      "end": 24.72,
+      "text": "Vì sau là phông mền vý dòng trước, giải biết cơm bóng chỗ bà vàng mở gộn hành hành cho hai bí xấu.",
+      "words": [
+        {
+          "word": "Vì",
+          "start": 18.68,
+          "end": 19.08,
+          "probability": 0.11
+        },
+        {
+          "word": "sau",
+          "start": 19.08,
+          "end": 19.4,
+          "probability": 0.73
+        },
+        {
+          "word": "là",
+          "start": 19.4,
+          "end": 19.74,
+          "probability": 0.91
+        },
+        {
+          "word": "phông",
+          "start": 19.74,
+          "end": 19.98,
+          "probability": 0.28
+        },
+        {
+          "word": "mền",
+          "start": 19.98,
+          "end": 20.24,
+          "probability": 0.21
+        },
+        {
+          "word": "vý",
+          "start": 20.24,
+          "end": 20.46,
+          "probability": 0.36
+        },
+        {
+          "word": "dòng",
+          "start": 20.46,
+          "end": 20.66,
+          "probability": 0.51
+        },
+        {
+          "word": "trước,",
+          "start": 20.66,
+          "end": 21.14,
+          "probability": 0.37
+        },
+        {
+          "word": "giải",
+          "start": 21.4,
+          "end": 21.58,
+          "probability": 0.62
+        },
+        {
+          "word": "biết",
+          "start": 21.58,
+          "end": 21.76,
+          "probability": 0.03
+        },
+        {
+          "word": "cơm",
+          "start": 21.76,
+          "end": 21.96,
+          "probability": 0.36
+        },
+        {
+          "word": "bóng",
+          "start": 21.96,
+          "end": 22.2,
+          "probability": 0.28
+        },
+        {
+          "word": "chỗ",
+          "start": 22.2,
+          "end": 22.4,
+          "probability": 0.42
+        },
+        {
+          "word": "bà",
+          "start": 22.4,
+          "end": 22.58,
+          "probability": 0.14
+        },
+        {
+          "word": "vàng",
+          "start": 22.58,
+          "end": 22.84,
+          "probability": 0.16
+        },
+        {
+          "word": "mở",
+          "start": 22.84,
+          "end": 23.02,
+          "probability": 0.37
+        },
+        {
+          "word": "gộn",
+          "start": 23.02,
+          "end": 23.46,
+          "probability": 0.64
+        },
+        {
+          "word": "hành",
+          "start": 23.46,
+          "end": 23.52,
+          "probability": 0.13
+        },
+        {
+          "word": "hành",
+          "start": 23.52,
+          "end": 23.74,
+          "probability": 0.41
+        },
+        {
+          "word": "cho",
+          "start": 23.74,
+          "end": 23.88,
+          "probability": 0.62
+        },
+        {
+          "word": "hai",
+          "start": 23.88,
+          "end": 24.04,
+          "probability": 0.05
+        },
+        {
+          "word": "bí",
+          "start": 24.04,
+          "end": 24.16,
+          "probability": 0.11
+        },
+        {
+          "word": "xấu.",
+          "start": 24.16,
+          "end": 24.72,
+          "probability": 0.38
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 25.02,
+      "end": 29.14,
+      "text": "Nhà chỗ trong nhất, nay là những thông tin không lũ sự thật và đang gây dường nằm trong dù lợi.",
+      "words": [
+        {
+          "word": "Nhà",
+          "start": 25.02,
+          "end": 25.12,
+          "probability": 0.66
+        },
+        {
+          "word": "chỗ",
+          "start": 25.12,
+          "end": 25.26,
+          "probability": 0.78
+        },
+        {
+          "word": "trong",
+          "start": 25.26,
+          "end": 25.44,
+          "probability": 0.41
+        },
+        {
+          "word": "nhất,",
+          "start": 25.44,
+          "end": 25.7,
+          "probability": 0.13
+        },
+        {
+          "word": "nay",
+          "start": 25.76,
+          "end": 25.94,
+          "probability": 0.18
+        },
+        {
+          "word": "là",
+          "start": 25.94,
+          "end": 26.08,
+          "probability": 0.69
+        },
+        {
+          "word": "những",
+          "start": 26.08,
+          "end": 26.22,
+          "probability": 0.97
+        },
+        {
+          "word": "thông",
+          "start": 26.22,
+          "end": 26.42,
+          "probability": 0.63
+        },
+        {
+          "word": "tin",
+          "start": 26.42,
+          "end": 26.62,
+          "probability": 0.99
+        },
+        {
+          "word": "không",
+          "start": 26.62,
+          "end": 26.92,
+          "probability": 0.92
+        },
+        {
+          "word": "lũ",
+          "start": 26.92,
+          "end": 27.08,
+          "probability": 0.45
+        },
+        {
+          "word": "sự",
+          "start": 27.08,
+          "end": 27.3,
+          "probability": 0.25
+        },
+        {
+          "word": "thật",
+          "start": 27.3,
+          "end": 27.56,
+          "probability": 0.84
+        },
+        {
+          "word": "và",
+          "start": 27.56,
+          "end": 27.74,
+          "probability": 0.91
+        },
+        {
+          "word": "đang",
+          "start": 27.74,
+          "end": 27.98,
+          "probability": 0.5
+        },
+        {
+          "word": "gây",
+          "start": 27.98,
+          "end": 28.2,
+          "probability": 0.49
+        },
+        {
+          "word": "dường",
+          "start": 28.2,
+          "end": 28.36,
+          "probability": 0.31
+        },
+        {
+          "word": "nằm",
+          "start": 28.36,
+          "end": 28.6,
+          "probability": 0.42
+        },
+        {
+          "word": "trong",
+          "start": 28.6,
+          "end": 28.78,
+          "probability": 0.66
+        },
+        {
+          "word": "dù",
+          "start": 28.78,
+          "end": 28.92,
+          "probability": 0.26
+        },
+        {
+          "word": "lợi.",
+          "start": 28.92,
+          "end": 29.14,
+          "probability": 0.63
+        }
+      ]
+    }
+  ]
+}

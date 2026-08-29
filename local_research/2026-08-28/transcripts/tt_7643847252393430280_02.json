@@ -1,0 +1,348 @@
+{
+  "item_id": "tt_7643847252393430280_02",
+  "duration_seconds": 17.48,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 47,
+  "text": "Một lâu quá rồi Có người đã đi đống nhau rồi Chúng không phải là ai mà mà nó mưa Một quá thì ở mưa tòo Vào mấy đừng người này như đồ phố mà Mặc đều quá của mình rồi Hãy em mưa mà anh ấy",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.98,
+      "text": "Một lâu quá rồi",
+      "words": [
+        {
+          "word": "Một",
+          "start": 0.02,
+          "end": 0.86,
+          "probability": 0.25
+        },
+        {
+          "word": "lâu",
+          "start": 0.86,
+          "end": 1.2,
+          "probability": 0.45
+        },
+        {
+          "word": "quá",
+          "start": 1.2,
+          "end": 1.44,
+          "probability": 0.31
+        },
+        {
+          "word": "rồi",
+          "start": 1.44,
+          "end": 1.98,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.98,
+      "end": 4.02,
+      "text": "Có người đã đi đống nhau rồi",
+      "words": [
+        {
+          "word": "Có",
+          "start": 1.98,
+          "end": 2.74,
+          "probability": 0.0
+        },
+        {
+          "word": "người",
+          "start": 2.74,
+          "end": 2.98,
+          "probability": 0.07
+        },
+        {
+          "word": "đã",
+          "start": 2.98,
+          "end": 3.08,
+          "probability": 0.08
+        },
+        {
+          "word": "đi",
+          "start": 3.08,
+          "end": 3.24,
+          "probability": 0.8
+        },
+        {
+          "word": "đống",
+          "start": 3.24,
+          "end": 3.44,
+          "probability": 0.15
+        },
+        {
+          "word": "nhau",
+          "start": 3.44,
+          "end": 3.76,
+          "probability": 0.42
+        },
+        {
+          "word": "rồi",
+          "start": 3.76,
+          "end": 4.02,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.02,
+      "end": 6.18,
+      "text": "Chúng không phải là ai mà mà nó mưa",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 4.02,
+          "end": 4.26,
+          "probability": 0.27
+        },
+        {
+          "word": "không",
+          "start": 4.26,
+          "end": 4.4,
+          "probability": 0.14
+        },
+        {
+          "word": "phải",
+          "start": 4.4,
+          "end": 4.6,
+          "probability": 0.92
+        },
+        {
+          "word": "là",
+          "start": 4.6,
+          "end": 4.96,
+          "probability": 0.04
+        },
+        {
+          "word": "ai",
+          "start": 4.96,
+          "end": 5.18,
+          "probability": 0.08
+        },
+        {
+          "word": "mà",
+          "start": 5.18,
+          "end": 5.4,
+          "probability": 0.46
+        },
+        {
+          "word": "mà",
+          "start": 5.4,
+          "end": 5.8,
+          "probability": 0.48
+        },
+        {
+          "word": "nó",
+          "start": 5.8,
+          "end": 5.92,
+          "probability": 0.13
+        },
+        {
+          "word": "mưa",
+          "start": 5.92,
+          "end": 6.18,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.18,
+      "end": 7.76,
+      "text": "Một quá thì ở mưa tòo",
+      "words": [
+        {
+          "word": "Một",
+          "start": 6.18,
+          "end": 6.48,
+          "probability": 0.52
+        },
+        {
+          "word": "quá",
+          "start": 6.48,
+          "end": 6.78,
+          "probability": 0.07
+        },
+        {
+          "word": "thì",
+          "start": 6.78,
+          "end": 6.98,
+          "probability": 0.08
+        },
+        {
+          "word": "ở",
+          "start": 6.98,
+          "end": 7.12,
+          "probability": 0.23
+        },
+        {
+          "word": "mưa",
+          "start": 7.12,
+          "end": 7.32,
+          "probability": 0.4
+        },
+        {
+          "word": "tòo",
+          "start": 7.32,
+          "end": 7.76,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.76,
+      "end": 9.26,
+      "text": "Vào mấy đừng người này như đồ phố mà",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 7.76,
+          "end": 7.78,
+          "probability": 0.04
+        },
+        {
+          "word": "mấy",
+          "start": 7.78,
+          "end": 7.96,
+          "probability": 0.14
+        },
+        {
+          "word": "đừng",
+          "start": 7.96,
+          "end": 8.08,
+          "probability": 0.29
+        },
+        {
+          "word": "người",
+          "start": 8.08,
+          "end": 8.28,
+          "probability": 0.27
+        },
+        {
+          "word": "này",
+          "start": 8.28,
+          "end": 8.48,
+          "probability": 0.5
+        },
+        {
+          "word": "như",
+          "start": 8.48,
+          "end": 8.72,
+          "probability": 0.14
+        },
+        {
+          "word": "đồ",
+          "start": 8.72,
+          "end": 8.86,
+          "probability": 0.15
+        },
+        {
+          "word": "phố",
+          "start": 8.86,
+          "end": 9.06,
+          "probability": 0.19
+        },
+        {
+          "word": "mà",
+          "start": 9.06,
+          "end": 9.26,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 9.26,
+      "end": 10.62,
+      "text": "Mặc đều quá của mình rồi",
+      "words": [
+        {
+          "word": "Mặc",
+          "start": 9.26,
+          "end": 9.36,
+          "probability": 0.12
+        },
+        {
+          "word": "đều",
+          "start": 9.36,
+          "end": 9.44,
+          "probability": 0.26
+        },
+        {
+          "word": "quá",
+          "start": 9.44,
+          "end": 9.72,
+          "probability": 0.24
+        },
+        {
+          "word": "của",
+          "start": 9.72,
+          "end": 9.96,
+          "probability": 0.22
+        },
+        {
+          "word": "mình",
+          "start": 9.96,
+          "end": 10.14,
+          "probability": 0.2
+        },
+        {
+          "word": "rồi",
+          "start": 10.14,
+          "end": 10.62,
+          "probability": 0.36
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 10.62,
+      "end": 11.68,
+      "text": "Hãy em mưa mà anh ấy",
+      "words": [
+        {
+          "word": "Hãy",
+          "start": 10.62,
+          "end": 11.06,
+          "probability": 0.28
+        },
+        {
+          "word": "em",
+          "start": 11.06,
+          "end": 11.32,
+          "probability": 0.09
+        },
+        {
+          "word": "mưa",
+          "start": 11.32,
+          "end": 11.44,
+          "probability": 0.43
+        },
+        {
+          "word": "mà",
+          "start": 11.44,
+          "end": 11.58,
+          "probability": 0.13
+        },
+        {
+          "word": "anh",
+          "start": 11.58,
+          "end": 11.68,
+          "probability": 0.1
+        },
+        {
+          "word": "ấy",
+          "start": 11.68,
+          "end": 11.68,
+          "probability": 0.07
+        }
+      ]
+    }
+  ]
+}

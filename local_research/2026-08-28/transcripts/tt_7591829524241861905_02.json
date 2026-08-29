@@ -1,0 +1,42 @@
+{
+  "item_id": "tt_7591829524241861905_02",
+  "duration_seconds": 25.67,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 4,
+  "text": "Vào các bạn ạ!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 12.82,
+      "text": "Vào các bạn ạ!",
+      "words": [
+        {
+          "word": "Vào",
+          "start": 0.02,
+          "end": 1.38,
+          "probability": 0.11
+        },
+        {
+          "word": "các",
+          "start": 1.38,
+          "end": 4.02,
+          "probability": 0.17
+        },
+        {
+          "word": "bạn",
+          "start": 4.02,
+          "end": 9.08,
+          "probability": 0.72
+        },
+        {
+          "word": "ạ!",
+          "start": 9.08,
+          "end": 12.82,
+          "probability": 0.31
+        }
+      ]
+    }
+  ]
+}

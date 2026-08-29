@@ -1,0 +1,190 @@
+{
+  "item_id": "tt_7306855325259369730_05",
+  "duration_seconds": 6.07,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 26,
+  "text": "Cô này là câu mà game rất rất dễ nửi cả biệt dạ chị 1, 2, 2, không được Bài gió nó 2 không được Nhà",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.48,
+      "text": "Cô này là câu mà game rất rất dễ nửi cả biệt dạ chị 1, 2, 2, không được",
+      "words": [
+        {
+          "word": "Cô",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.45
+        },
+        {
+          "word": "này",
+          "start": 0.34,
+          "end": 0.46,
+          "probability": 0.92
+        },
+        {
+          "word": "là",
+          "start": 0.46,
+          "end": 0.64,
+          "probability": 0.2
+        },
+        {
+          "word": "câu",
+          "start": 0.64,
+          "end": 0.78,
+          "probability": 0.76
+        },
+        {
+          "word": "mà",
+          "start": 0.78,
+          "end": 0.9,
+          "probability": 0.67
+        },
+        {
+          "word": "game",
+          "start": 0.9,
+          "end": 1.12,
+          "probability": 0.13
+        },
+        {
+          "word": "rất",
+          "start": 1.12,
+          "end": 1.48,
+          "probability": 0.9
+        },
+        {
+          "word": "rất",
+          "start": 1.48,
+          "end": 1.64,
+          "probability": 0.62
+        },
+        {
+          "word": "dễ",
+          "start": 1.64,
+          "end": 1.9,
+          "probability": 0.61
+        },
+        {
+          "word": "nửi",
+          "start": 1.9,
+          "end": 2.18,
+          "probability": 0.34
+        },
+        {
+          "word": "cả",
+          "start": 2.18,
+          "end": 2.26,
+          "probability": 0.41
+        },
+        {
+          "word": "biệt",
+          "start": 2.26,
+          "end": 2.44,
+          "probability": 0.36
+        },
+        {
+          "word": "dạ",
+          "start": 2.44,
+          "end": 2.5,
+          "probability": 0.33
+        },
+        {
+          "word": "chị",
+          "start": 2.5,
+          "end": 2.64,
+          "probability": 0.32
+        },
+        {
+          "word": "1,",
+          "start": 2.64,
+          "end": 2.86,
+          "probability": 0.18
+        },
+        {
+          "word": "2,",
+          "start": 2.9,
+          "end": 3.28,
+          "probability": 0.68
+        },
+        {
+          "word": "2,",
+          "start": 3.44,
+          "end": 3.68,
+          "probability": 0.21
+        },
+        {
+          "word": "không",
+          "start": 3.68,
+          "end": 3.96,
+          "probability": 0.29
+        },
+        {
+          "word": "được",
+          "start": 3.96,
+          "end": 4.48,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.48,
+      "end": 5.74,
+      "text": "Bài gió nó 2 không được",
+      "words": [
+        {
+          "word": "Bài",
+          "start": 4.48,
+          "end": 4.88,
+          "probability": 0.15
+        },
+        {
+          "word": "gió",
+          "start": 4.88,
+          "end": 5.0,
+          "probability": 0.61
+        },
+        {
+          "word": "nó",
+          "start": 5.0,
+          "end": 5.12,
+          "probability": 0.15
+        },
+        {
+          "word": "2",
+          "start": 5.12,
+          "end": 5.24,
+          "probability": 0.74
+        },
+        {
+          "word": "không",
+          "start": 5.24,
+          "end": 5.36,
+          "probability": 0.65
+        },
+        {
+          "word": "được",
+          "start": 5.36,
+          "end": 5.74,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.74,
+      "end": 5.96,
+      "text": "Nhà",
+      "words": [
+        {
+          "word": "Nhà",
+          "start": 5.74,
+          "end": 5.96,
+          "probability": 0.42
+        }
+      ]
+    }
+  ]
+}

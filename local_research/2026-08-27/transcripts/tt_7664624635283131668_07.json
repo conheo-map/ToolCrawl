@@ -1,0 +1,654 @@
+{
+  "item_id": "tt_7664624635283131668_07",
+  "duration_seconds": 29.27,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 94,
+  "text": "Đại vì là đồng nhà đảng nghiệp chính thái là mọi người trở, là đế chương mọi nôn, hình yên này. Thá cứ xa đừng lên cạnh trở. Thông thuy nào, đừng để hình thái... Về... vui. Dưới khúc cắn tăng qua a số thêm thái, khởi ra những người thở lại mấy xuống. Những tự quyền lắm lên bộn đất vẫn bị mại làm việc. Đà rất thật biệt vừa thích thần cho người dân vui thang. Những hành động lặng thầm này không chỉ có phở khóc phục hộ quá thêm thái.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.38,
+      "text": "Đại vì là đồng nhà đảng nghiệp chính thái là mọi người trở,",
+      "words": [
+        {
+          "word": "Đại",
+          "start": 0.0,
+          "end": 0.5,
+          "probability": 0.14
+        },
+        {
+          "word": "vì",
+          "start": 0.5,
+          "end": 0.54,
+          "probability": 0.07
+        },
+        {
+          "word": "là",
+          "start": 0.54,
+          "end": 0.62,
+          "probability": 0.06
+        },
+        {
+          "word": "đồng",
+          "start": 0.62,
+          "end": 0.62,
+          "probability": 0.39
+        },
+        {
+          "word": "nhà",
+          "start": 0.62,
+          "end": 0.8,
+          "probability": 0.16
+        },
+        {
+          "word": "đảng",
+          "start": 0.8,
+          "end": 1.08,
+          "probability": 0.46
+        },
+        {
+          "word": "nghiệp",
+          "start": 1.08,
+          "end": 1.32,
+          "probability": 0.55
+        },
+        {
+          "word": "chính",
+          "start": 1.32,
+          "end": 1.64,
+          "probability": 0.17
+        },
+        {
+          "word": "thái",
+          "start": 1.64,
+          "end": 1.78,
+          "probability": 0.7
+        },
+        {
+          "word": "là",
+          "start": 1.78,
+          "end": 2.06,
+          "probability": 0.49
+        },
+        {
+          "word": "mọi",
+          "start": 2.06,
+          "end": 2.34,
+          "probability": 0.07
+        },
+        {
+          "word": "người",
+          "start": 2.34,
+          "end": 2.34,
+          "probability": 0.33
+        },
+        {
+          "word": "trở,",
+          "start": 2.34,
+          "end": 2.38,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.48,
+      "end": 5.62,
+      "text": "là đế chương mọi nôn, hình yên này.",
+      "words": [
+        {
+          "word": "là",
+          "start": 2.48,
+          "end": 2.76,
+          "probability": 0.06
+        },
+        {
+          "word": "đế",
+          "start": 2.76,
+          "end": 3.16,
+          "probability": 0.21
+        },
+        {
+          "word": "chương",
+          "start": 3.16,
+          "end": 3.46,
+          "probability": 0.19
+        },
+        {
+          "word": "mọi",
+          "start": 3.46,
+          "end": 3.96,
+          "probability": 0.24
+        },
+        {
+          "word": "nôn,",
+          "start": 3.96,
+          "end": 4.2,
+          "probability": 0.23
+        },
+        {
+          "word": "hình",
+          "start": 4.72,
+          "end": 4.74,
+          "probability": 0.41
+        },
+        {
+          "word": "yên",
+          "start": 4.74,
+          "end": 4.96,
+          "probability": 0.51
+        },
+        {
+          "word": "này.",
+          "start": 4.96,
+          "end": 5.62,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.18,
+      "end": 7.88,
+      "text": "Thá cứ xa đừng lên cạnh trở.",
+      "words": [
+        {
+          "word": "Thá",
+          "start": 6.18,
+          "end": 6.62,
+          "probability": 0.07
+        },
+        {
+          "word": "cứ",
+          "start": 6.62,
+          "end": 6.72,
+          "probability": 0.11
+        },
+        {
+          "word": "xa",
+          "start": 6.72,
+          "end": 6.88,
+          "probability": 0.29
+        },
+        {
+          "word": "đừng",
+          "start": 6.88,
+          "end": 7.02,
+          "probability": 0.59
+        },
+        {
+          "word": "lên",
+          "start": 7.02,
+          "end": 7.2,
+          "probability": 0.24
+        },
+        {
+          "word": "cạnh",
+          "start": 7.2,
+          "end": 7.46,
+          "probability": 0.52
+        },
+        {
+          "word": "trở.",
+          "start": 7.46,
+          "end": 7.88,
+          "probability": 0.56
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 8.92,
+      "end": 11.88,
+      "text": "Thông thuy nào, đừng để hình thái...",
+      "words": [
+        {
+          "word": "Thông",
+          "start": 8.92,
+          "end": 9.24,
+          "probability": 0.25
+        },
+        {
+          "word": "thuy",
+          "start": 9.24,
+          "end": 9.44,
+          "probability": 0.18
+        },
+        {
+          "word": "nào,",
+          "start": 9.44,
+          "end": 9.64,
+          "probability": 0.32
+        },
+        {
+          "word": "đừng",
+          "start": 9.84,
+          "end": 10.0,
+          "probability": 0.29
+        },
+        {
+          "word": "để",
+          "start": 10.0,
+          "end": 10.32,
+          "probability": 0.21
+        },
+        {
+          "word": "hình",
+          "start": 10.32,
+          "end": 10.98,
+          "probability": 0.21
+        },
+        {
+          "word": "thái...",
+          "start": 10.98,
+          "end": 11.88,
+          "probability": 0.72
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.84,
+      "end": 14.4,
+      "text": "Về... vui.",
+      "words": [
+        {
+          "word": "Về...",
+          "start": 13.84,
+          "end": 14.28,
+          "probability": 0.3
+        },
+        {
+          "word": "vui.",
+          "start": 14.28,
+          "end": 14.4,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.62,
+      "end": 17.54,
+      "text": "Dưới khúc cắn tăng qua a số thêm thái,",
+      "words": [
+        {
+          "word": "Dưới",
+          "start": 15.62,
+          "end": 16.04,
+          "probability": 0.5
+        },
+        {
+          "word": "khúc",
+          "start": 16.04,
+          "end": 16.22,
+          "probability": 0.62
+        },
+        {
+          "word": "cắn",
+          "start": 16.22,
+          "end": 16.44,
+          "probability": 0.28
+        },
+        {
+          "word": "tăng",
+          "start": 16.44,
+          "end": 16.64,
+          "probability": 0.64
+        },
+        {
+          "word": "qua",
+          "start": 16.64,
+          "end": 16.82,
+          "probability": 0.35
+        },
+        {
+          "word": "a",
+          "start": 16.82,
+          "end": 16.98,
+          "probability": 0.1
+        },
+        {
+          "word": "số",
+          "start": 16.98,
+          "end": 17.04,
+          "probability": 0.29
+        },
+        {
+          "word": "thêm",
+          "start": 17.04,
+          "end": 17.24,
+          "probability": 0.36
+        },
+        {
+          "word": "thái,",
+          "start": 17.24,
+          "end": 17.54,
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 17.82,
+      "end": 19.42,
+      "text": "khởi ra những người thở lại mấy xuống.",
+      "words": [
+        {
+          "word": "khởi",
+          "start": 17.82,
+          "end": 17.9,
+          "probability": 0.29
+        },
+        {
+          "word": "ra",
+          "start": 17.9,
+          "end": 18.04,
+          "probability": 0.1
+        },
+        {
+          "word": "những",
+          "start": 18.04,
+          "end": 18.22,
+          "probability": 0.96
+        },
+        {
+          "word": "người",
+          "start": 18.22,
+          "end": 18.38,
+          "probability": 0.93
+        },
+        {
+          "word": "thở",
+          "start": 18.38,
+          "end": 18.6,
+          "probability": 0.56
+        },
+        {
+          "word": "lại",
+          "start": 18.6,
+          "end": 18.84,
+          "probability": 0.59
+        },
+        {
+          "word": "mấy",
+          "start": 18.84,
+          "end": 19.02,
+          "probability": 0.41
+        },
+        {
+          "word": "xuống.",
+          "start": 19.02,
+          "end": 19.42,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 19.66,
+      "end": 22.7,
+      "text": "Những tự quyền lắm lên bộn đất vẫn bị mại làm việc.",
+      "words": [
+        {
+          "word": "Những",
+          "start": 19.66,
+          "end": 19.84,
+          "probability": 0.66
+        },
+        {
+          "word": "tự",
+          "start": 19.84,
+          "end": 20.04,
+          "probability": 0.62
+        },
+        {
+          "word": "quyền",
+          "start": 20.04,
+          "end": 20.22,
+          "probability": 0.49
+        },
+        {
+          "word": "lắm",
+          "start": 20.22,
+          "end": 20.6,
+          "probability": 0.47
+        },
+        {
+          "word": "lên",
+          "start": 20.6,
+          "end": 20.92,
+          "probability": 0.34
+        },
+        {
+          "word": "bộn",
+          "start": 20.92,
+          "end": 21.4,
+          "probability": 0.44
+        },
+        {
+          "word": "đất",
+          "start": 21.4,
+          "end": 21.4,
+          "probability": 0.54
+        },
+        {
+          "word": "vẫn",
+          "start": 21.4,
+          "end": 21.7,
+          "probability": 0.33
+        },
+        {
+          "word": "bị",
+          "start": 21.7,
+          "end": 21.88,
+          "probability": 0.25
+        },
+        {
+          "word": "mại",
+          "start": 21.88,
+          "end": 22.14,
+          "probability": 0.26
+        },
+        {
+          "word": "làm",
+          "start": 22.14,
+          "end": 22.36,
+          "probability": 0.85
+        },
+        {
+          "word": "việc.",
+          "start": 22.36,
+          "end": 22.7,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 22.94,
+      "end": 25.14,
+      "text": "Đà rất thật biệt vừa thích thần cho người dân vui thang.",
+      "words": [
+        {
+          "word": "Đà",
+          "start": 22.94,
+          "end": 23.1,
+          "probability": 0.54
+        },
+        {
+          "word": "rất",
+          "start": 23.1,
+          "end": 23.3,
+          "probability": 0.57
+        },
+        {
+          "word": "thật",
+          "start": 23.3,
+          "end": 23.48,
+          "probability": 0.76
+        },
+        {
+          "word": "biệt",
+          "start": 23.48,
+          "end": 23.64,
+          "probability": 0.38
+        },
+        {
+          "word": "vừa",
+          "start": 23.64,
+          "end": 23.82,
+          "probability": 0.3
+        },
+        {
+          "word": "thích",
+          "start": 23.82,
+          "end": 23.98,
+          "probability": 0.43
+        },
+        {
+          "word": "thần",
+          "start": 23.98,
+          "end": 24.16,
+          "probability": 0.62
+        },
+        {
+          "word": "cho",
+          "start": 24.16,
+          "end": 24.36,
+          "probability": 0.25
+        },
+        {
+          "word": "người",
+          "start": 24.36,
+          "end": 24.48,
+          "probability": 0.93
+        },
+        {
+          "word": "dân",
+          "start": 24.48,
+          "end": 24.64,
+          "probability": 0.83
+        },
+        {
+          "word": "vui",
+          "start": 24.64,
+          "end": 24.84,
+          "probability": 0.31
+        },
+        {
+          "word": "thang.",
+          "start": 24.84,
+          "end": 25.14,
+          "probability": 0.58
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 25.8,
+      "end": 29.12,
+      "text": "Những hành động lặng thầm này không chỉ có phở khóc phục hộ quá thêm thái.",
+      "words": [
+        {
+          "word": "Những",
+          "start": 25.8,
+          "end": 25.9,
+          "probability": 0.8
+        },
+        {
+          "word": "hành",
+          "start": 25.9,
+          "end": 26.08,
+          "probability": 0.71
+        },
+        {
+          "word": "động",
+          "start": 26.08,
+          "end": 26.26,
+          "probability": 1.0
+        },
+        {
+          "word": "lặng",
+          "start": 26.26,
+          "end": 26.52,
+          "probability": 0.4
+        },
+        {
+          "word": "thầm",
+          "start": 26.52,
+          "end": 26.78,
+          "probability": 0.82
+        },
+        {
+          "word": "này",
+          "start": 26.78,
+          "end": 27.06,
+          "probability": 0.53
+        },
+        {
+          "word": "không",
+          "start": 27.06,
+          "end": 27.28,
+          "probability": 0.86
+        },
+        {
+          "word": "chỉ",
+          "start": 27.28,
+          "end": 27.54,
+          "probability": 0.66
+        },
+        {
+          "word": "có",
+          "start": 27.54,
+          "end": 27.76,
+          "probability": 0.92
+        },
+        {
+          "word": "phở",
+          "start": 27.76,
+          "end": 27.94,
+          "probability": 0.76
+        },
+        {
+          "word": "khóc",
+          "start": 27.94,
+          "end": 28.16,
+          "probability": 0.62
+        },
+        {
+          "word": "phục",
+          "start": 28.16,
+          "end": 28.3,
+          "probability": 0.73
+        },
+        {
+          "word": "hộ",
+          "start": 28.3,
+          "end": 28.5,
+          "probability": 0.48
+        },
+        {
+          "word": "quá",
+          "start": 28.5,
+          "end": 28.68,
+          "probability": 0.26
+        },
+        {
+          "word": "thêm",
+          "start": 28.68,
+          "end": 28.9,
+          "probability": 0.91
+        },
+        {
+          "word": "thái.",
+          "start": 28.9,
+          "end": 29.12,
+          "probability": 0.98
+        }
+      ]
+    }
+  ]
+}

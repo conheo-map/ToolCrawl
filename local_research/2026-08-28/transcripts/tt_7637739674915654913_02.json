@@ -1,0 +1,794 @@
+{
+  "item_id": "tt_7637739674915654913_02",
+  "duration_seconds": 28.43,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 120,
+  "text": "Như lời ở phút thò và thành phóa có người vừa, mưa to, có người mưa rất to. Tại phút thò, lương mưa ở thăm là máy mưa phải tâm mi lì mệt. Ờ thân lưng là bố người bảy phải sống mi lì mệt. Tại thành phóa, lương mưa ở phút giò, là một trăm lệ chính mi lì mệt. Ờ gấm thời là máy mưa bà phải hay mi lì mệt. Mùa n度 ăn đất chờ thấy một số khu vực ở tính phút thò và thành phóa trên. Đã gần báo ở trên, tâm của nằm phần trăm hoặc đặt thái báo hoạc. Sáng đi tâm đầm, hát đầy phút thò, thành phóa tiếp tục có mưa.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.98,
+      "text": "Như lời ở phút thò và thành phóa có người vừa, mưa to, có người mưa rất to.",
+      "words": [
+        {
+          "word": "Như",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.65
+        },
+        {
+          "word": "lời",
+          "start": 0.44,
+          "end": 0.62,
+          "probability": 0.46
+        },
+        {
+          "word": "ở",
+          "start": 0.62,
+          "end": 0.8,
+          "probability": 0.53
+        },
+        {
+          "word": "phút",
+          "start": 0.8,
+          "end": 0.96,
+          "probability": 0.61
+        },
+        {
+          "word": "thò",
+          "start": 0.96,
+          "end": 1.12,
+          "probability": 0.27
+        },
+        {
+          "word": "và",
+          "start": 1.12,
+          "end": 1.3,
+          "probability": 0.85
+        },
+        {
+          "word": "thành",
+          "start": 1.3,
+          "end": 1.48,
+          "probability": 0.69
+        },
+        {
+          "word": "phóa",
+          "start": 1.48,
+          "end": 1.68,
+          "probability": 0.39
+        },
+        {
+          "word": "có",
+          "start": 1.68,
+          "end": 1.86,
+          "probability": 0.68
+        },
+        {
+          "word": "người",
+          "start": 1.86,
+          "end": 2.04,
+          "probability": 0.15
+        },
+        {
+          "word": "vừa,",
+          "start": 2.04,
+          "end": 2.38,
+          "probability": 0.34
+        },
+        {
+          "word": "mưa",
+          "start": 2.4,
+          "end": 2.56,
+          "probability": 0.48
+        },
+        {
+          "word": "to,",
+          "start": 2.56,
+          "end": 2.84,
+          "probability": 0.51
+        },
+        {
+          "word": "có",
+          "start": 2.98,
+          "end": 3.16,
+          "probability": 0.48
+        },
+        {
+          "word": "người",
+          "start": 3.16,
+          "end": 3.3,
+          "probability": 0.48
+        },
+        {
+          "word": "mưa",
+          "start": 3.3,
+          "end": 3.36,
+          "probability": 0.82
+        },
+        {
+          "word": "rất",
+          "start": 3.36,
+          "end": 3.56,
+          "probability": 0.21
+        },
+        {
+          "word": "to.",
+          "start": 3.56,
+          "end": 3.98,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.68,
+      "end": 8.06,
+      "text": "Tại phút thò, lương mưa ở thăm là máy mưa phải tâm mi lì mệt.",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 4.68,
+          "end": 4.7,
+          "probability": 0.6
+        },
+        {
+          "word": "phút",
+          "start": 4.7,
+          "end": 4.9,
+          "probability": 0.75
+        },
+        {
+          "word": "thò,",
+          "start": 4.9,
+          "end": 5.28,
+          "probability": 0.99
+        },
+        {
+          "word": "lương",
+          "start": 5.62,
+          "end": 5.62,
+          "probability": 0.46
+        },
+        {
+          "word": "mưa",
+          "start": 5.62,
+          "end": 5.78,
+          "probability": 0.69
+        },
+        {
+          "word": "ở",
+          "start": 5.78,
+          "end": 6.0,
+          "probability": 0.93
+        },
+        {
+          "word": "thăm",
+          "start": 6.0,
+          "end": 6.28,
+          "probability": 0.45
+        },
+        {
+          "word": "là",
+          "start": 6.28,
+          "end": 6.7,
+          "probability": 0.76
+        },
+        {
+          "word": "máy",
+          "start": 6.7,
+          "end": 6.88,
+          "probability": 0.59
+        },
+        {
+          "word": "mưa",
+          "start": 6.88,
+          "end": 7.06,
+          "probability": 0.69
+        },
+        {
+          "word": "phải",
+          "start": 7.06,
+          "end": 7.3,
+          "probability": 0.67
+        },
+        {
+          "word": "tâm",
+          "start": 7.3,
+          "end": 7.46,
+          "probability": 0.46
+        },
+        {
+          "word": "mi",
+          "start": 7.46,
+          "end": 7.72,
+          "probability": 0.22
+        },
+        {
+          "word": "lì",
+          "start": 7.72,
+          "end": 7.72,
+          "probability": 0.29
+        },
+        {
+          "word": "mệt.",
+          "start": 7.72,
+          "end": 8.06,
+          "probability": 0.32
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.54,
+      "end": 10.52,
+      "text": "Ờ thân lưng là bố người bảy phải sống mi lì mệt.",
+      "words": [
+        {
+          "word": "Ờ",
+          "start": 8.54,
+          "end": 8.56,
+          "probability": 0.41
+        },
+        {
+          "word": "thân",
+          "start": 8.56,
+          "end": 8.68,
+          "probability": 0.42
+        },
+        {
+          "word": "lưng",
+          "start": 8.68,
+          "end": 8.82,
+          "probability": 0.46
+        },
+        {
+          "word": "là",
+          "start": 8.82,
+          "end": 8.98,
+          "probability": 0.88
+        },
+        {
+          "word": "bố",
+          "start": 8.98,
+          "end": 9.1,
+          "probability": 0.24
+        },
+        {
+          "word": "người",
+          "start": 9.1,
+          "end": 9.28,
+          "probability": 0.18
+        },
+        {
+          "word": "bảy",
+          "start": 9.28,
+          "end": 9.42,
+          "probability": 0.53
+        },
+        {
+          "word": "phải",
+          "start": 9.42,
+          "end": 9.7,
+          "probability": 0.53
+        },
+        {
+          "word": "sống",
+          "start": 9.7,
+          "end": 9.88,
+          "probability": 0.48
+        },
+        {
+          "word": "mi",
+          "start": 9.88,
+          "end": 10.04,
+          "probability": 0.84
+        },
+        {
+          "word": "lì",
+          "start": 10.04,
+          "end": 10.12,
+          "probability": 0.95
+        },
+        {
+          "word": "mệt.",
+          "start": 10.12,
+          "end": 10.52,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.98,
+      "end": 14.16,
+      "text": "Tại thành phóa, lương mưa ở phút giò, là một trăm lệ chính mi lì mệt.",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 10.98,
+          "end": 11.02,
+          "probability": 0.69
+        },
+        {
+          "word": "thành",
+          "start": 11.02,
+          "end": 11.18,
+          "probability": 0.99
+        },
+        {
+          "word": "phóa,",
+          "start": 11.18,
+          "end": 11.48,
+          "probability": 0.97
+        },
+        {
+          "word": "lương",
+          "start": 11.72,
+          "end": 11.76,
+          "probability": 0.65
+        },
+        {
+          "word": "mưa",
+          "start": 11.76,
+          "end": 11.98,
+          "probability": 0.99
+        },
+        {
+          "word": "ở",
+          "start": 11.98,
+          "end": 12.22,
+          "probability": 0.96
+        },
+        {
+          "word": "phút",
+          "start": 12.22,
+          "end": 12.32,
+          "probability": 0.96
+        },
+        {
+          "word": "giò,",
+          "start": 12.32,
+          "end": 12.64,
+          "probability": 0.27
+        },
+        {
+          "word": "là",
+          "start": 12.78,
+          "end": 12.86,
+          "probability": 0.58
+        },
+        {
+          "word": "một",
+          "start": 12.86,
+          "end": 13.0,
+          "probability": 0.75
+        },
+        {
+          "word": "trăm",
+          "start": 13.0,
+          "end": 13.12,
+          "probability": 0.52
+        },
+        {
+          "word": "lệ",
+          "start": 13.12,
+          "end": 13.34,
+          "probability": 0.28
+        },
+        {
+          "word": "chính",
+          "start": 13.34,
+          "end": 13.48,
+          "probability": 0.45
+        },
+        {
+          "word": "mi",
+          "start": 13.48,
+          "end": 13.68,
+          "probability": 0.83
+        },
+        {
+          "word": "lì",
+          "start": 13.68,
+          "end": 13.74,
+          "probability": 0.97
+        },
+        {
+          "word": "mệt.",
+          "start": 13.74,
+          "end": 14.16,
+          "probability": 0.8
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.62,
+      "end": 16.58,
+      "text": "Ờ gấm thời là máy mưa bà phải hay mi lì mệt.",
+      "words": [
+        {
+          "word": "Ờ",
+          "start": 14.62,
+          "end": 14.62,
+          "probability": 0.92
+        },
+        {
+          "word": "gấm",
+          "start": 14.62,
+          "end": 14.74,
+          "probability": 0.6
+        },
+        {
+          "word": "thời",
+          "start": 14.74,
+          "end": 14.9,
+          "probability": 0.43
+        },
+        {
+          "word": "là",
+          "start": 14.9,
+          "end": 15.14,
+          "probability": 0.25
+        },
+        {
+          "word": "máy",
+          "start": 15.14,
+          "end": 15.3,
+          "probability": 1.0
+        },
+        {
+          "word": "mưa",
+          "start": 15.3,
+          "end": 15.44,
+          "probability": 0.74
+        },
+        {
+          "word": "bà",
+          "start": 15.44,
+          "end": 15.66,
+          "probability": 0.78
+        },
+        {
+          "word": "phải",
+          "start": 15.66,
+          "end": 15.84,
+          "probability": 0.94
+        },
+        {
+          "word": "hay",
+          "start": 15.84,
+          "end": 15.98,
+          "probability": 0.29
+        },
+        {
+          "word": "mi",
+          "start": 15.98,
+          "end": 16.14,
+          "probability": 0.75
+        },
+        {
+          "word": "lì",
+          "start": 16.14,
+          "end": 16.2,
+          "probability": 0.98
+        },
+        {
+          "word": "mệt.",
+          "start": 16.2,
+          "end": 16.58,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 17.88,
+      "end": 21.46,
+      "text": "Mùa n度 ăn đất chờ thấy một số khu vực ở tính phút thò và thành phóa trên.",
+      "words": [
+        {
+          "word": "Mùa",
+          "start": 17.88,
+          "end": 18.04,
+          "probability": 0.52
+        },
+        {
+          "word": "n度",
+          "start": 18.04,
+          "end": 18.22,
+          "probability": 0.24
+        },
+        {
+          "word": "ăn",
+          "start": 18.22,
+          "end": 18.38,
+          "probability": 0.26
+        },
+        {
+          "word": "đất",
+          "start": 18.38,
+          "end": 18.52,
+          "probability": 0.48
+        },
+        {
+          "word": "chờ",
+          "start": 18.52,
+          "end": 18.68,
+          "probability": 0.49
+        },
+        {
+          "word": "thấy",
+          "start": 18.68,
+          "end": 18.88,
+          "probability": 0.82
+        },
+        {
+          "word": "một",
+          "start": 18.88,
+          "end": 19.08,
+          "probability": 0.82
+        },
+        {
+          "word": "số",
+          "start": 19.08,
+          "end": 19.3,
+          "probability": 0.98
+        },
+        {
+          "word": "khu",
+          "start": 19.3,
+          "end": 19.52,
+          "probability": 0.77
+        },
+        {
+          "word": "vực",
+          "start": 19.52,
+          "end": 19.68,
+          "probability": 0.65
+        },
+        {
+          "word": "ở",
+          "start": 19.68,
+          "end": 19.98,
+          "probability": 0.91
+        },
+        {
+          "word": "tính",
+          "start": 19.98,
+          "end": 20.12,
+          "probability": 0.47
+        },
+        {
+          "word": "phút",
+          "start": 20.12,
+          "end": 20.32,
+          "probability": 0.98
+        },
+        {
+          "word": "thò",
+          "start": 20.32,
+          "end": 20.5,
+          "probability": 0.99
+        },
+        {
+          "word": "và",
+          "start": 20.5,
+          "end": 20.72,
+          "probability": 0.99
+        },
+        {
+          "word": "thành",
+          "start": 20.72,
+          "end": 20.92,
+          "probability": 0.88
+        },
+        {
+          "word": "phóa",
+          "start": 20.92,
+          "end": 21.18,
+          "probability": 0.9
+        },
+        {
+          "word": "trên.",
+          "start": 21.18,
+          "end": 21.46,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 21.86,
+      "end": 25.04,
+      "text": "Đã gần báo ở trên, tâm của nằm phần trăm hoặc đặt thái báo hoạc.",
+      "words": [
+        {
+          "word": "Đã",
+          "start": 21.86,
+          "end": 21.88,
+          "probability": 0.53
+        },
+        {
+          "word": "gần",
+          "start": 21.88,
+          "end": 22.12,
+          "probability": 0.84
+        },
+        {
+          "word": "báo",
+          "start": 22.12,
+          "end": 22.3,
+          "probability": 0.63
+        },
+        {
+          "word": "ở",
+          "start": 22.3,
+          "end": 22.52,
+          "probability": 0.15
+        },
+        {
+          "word": "trên,",
+          "start": 22.52,
+          "end": 22.76,
+          "probability": 0.94
+        },
+        {
+          "word": "tâm",
+          "start": 22.92,
+          "end": 22.92,
+          "probability": 0.59
+        },
+        {
+          "word": "của",
+          "start": 22.92,
+          "end": 23.0,
+          "probability": 0.06
+        },
+        {
+          "word": "nằm",
+          "start": 23.0,
+          "end": 23.14,
+          "probability": 0.58
+        },
+        {
+          "word": "phần",
+          "start": 23.14,
+          "end": 23.26,
+          "probability": 0.33
+        },
+        {
+          "word": "trăm",
+          "start": 23.26,
+          "end": 23.44,
+          "probability": 0.44
+        },
+        {
+          "word": "hoặc",
+          "start": 23.44,
+          "end": 23.94,
+          "probability": 0.67
+        },
+        {
+          "word": "đặt",
+          "start": 23.94,
+          "end": 24.18,
+          "probability": 0.65
+        },
+        {
+          "word": "thái",
+          "start": 24.18,
+          "end": 24.44,
+          "probability": 0.16
+        },
+        {
+          "word": "báo",
+          "start": 24.44,
+          "end": 24.58,
+          "probability": 0.85
+        },
+        {
+          "word": "hoạc.",
+          "start": 24.58,
+          "end": 25.04,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 25.42,
+      "end": 28.26,
+      "text": "Sáng đi tâm đầm, hát đầy phút thò, thành phóa tiếp tục có mưa.",
+      "words": [
+        {
+          "word": "Sáng",
+          "start": 25.42,
+          "end": 25.74,
+          "probability": 0.27
+        },
+        {
+          "word": "đi",
+          "start": 25.74,
+          "end": 25.88,
+          "probability": 0.07
+        },
+        {
+          "word": "tâm",
+          "start": 25.88,
+          "end": 26.06,
+          "probability": 0.07
+        },
+        {
+          "word": "đầm,",
+          "start": 26.06,
+          "end": 26.44,
+          "probability": 0.3
+        },
+        {
+          "word": "hát",
+          "start": 26.46,
+          "end": 26.58,
+          "probability": 0.35
+        },
+        {
+          "word": "đầy",
+          "start": 26.58,
+          "end": 26.66,
+          "probability": 0.43
+        },
+        {
+          "word": "phút",
+          "start": 26.66,
+          "end": 26.82,
+          "probability": 0.9
+        },
+        {
+          "word": "thò,",
+          "start": 26.82,
+          "end": 27.06,
+          "probability": 0.05
+        },
+        {
+          "word": "thành",
+          "start": 27.26,
+          "end": 27.32,
+          "probability": 0.26
+        },
+        {
+          "word": "phóa",
+          "start": 27.32,
+          "end": 27.58,
+          "probability": 0.42
+        },
+        {
+          "word": "tiếp",
+          "start": 27.58,
+          "end": 27.72,
+          "probability": 0.84
+        },
+        {
+          "word": "tục",
+          "start": 27.72,
+          "end": 27.88,
+          "probability": 0.88
+        },
+        {
+          "word": "có",
+          "start": 27.88,
+          "end": 28.06,
+          "probability": 0.64
+        },
+        {
+          "word": "mưa.",
+          "start": 28.06,
+          "end": 28.26,
+          "probability": 0.55
+        }
+      ]
+    }
+  ]
+}

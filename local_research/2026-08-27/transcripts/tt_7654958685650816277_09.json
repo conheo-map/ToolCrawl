@@ -1,0 +1,428 @@
+{
+  "item_id": "tt_7654958685650816277_09",
+  "duration_seconds": 26.98,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 59,
+  "text": "Thật em đã ăn vì mất lương vì lời dụ dụng, bộ khác đối tượng trụ biểu, đường về bộ trực, lời rạng, với vài tròn đồng phạm. Giú sức. Thật em đã được phân công mà hảo khác đế vỷ chi, từ bản lý, từ bản pháp lý, tên lệ xe, lìa, lìa hạc, bản bản. Giang rồi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.42,
+      "text": "Thật em đã ăn vì mất lương vì lời dụ dụng,",
+      "words": [
+        {
+          "word": "Thật",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.31
+        },
+        {
+          "word": "em",
+          "start": 0.46,
+          "end": 0.7,
+          "probability": 0.67
+        },
+        {
+          "word": "đã",
+          "start": 0.7,
+          "end": 1.0,
+          "probability": 0.46
+        },
+        {
+          "word": "ăn",
+          "start": 1.0,
+          "end": 1.44,
+          "probability": 0.12
+        },
+        {
+          "word": "vì",
+          "start": 1.44,
+          "end": 1.9,
+          "probability": 0.2
+        },
+        {
+          "word": "mất",
+          "start": 1.9,
+          "end": 2.34,
+          "probability": 0.64
+        },
+        {
+          "word": "lương",
+          "start": 2.34,
+          "end": 2.74,
+          "probability": 0.27
+        },
+        {
+          "word": "vì",
+          "start": 2.74,
+          "end": 3.54,
+          "probability": 0.6
+        },
+        {
+          "word": "lời",
+          "start": 3.54,
+          "end": 3.98,
+          "probability": 0.56
+        },
+        {
+          "word": "dụ",
+          "start": 3.98,
+          "end": 4.26,
+          "probability": 0.44
+        },
+        {
+          "word": "dụng,",
+          "start": 4.26,
+          "end": 4.42,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.14,
+      "end": 9.97,
+      "text": "bộ khác đối tượng trụ biểu, đường về bộ trực,",
+      "words": [
+        {
+          "word": "bộ",
+          "start": 5.14,
+          "end": 5.54,
+          "probability": 0.45
+        },
+        {
+          "word": "khác",
+          "start": 5.54,
+          "end": 5.72,
+          "probability": 0.17
+        },
+        {
+          "word": "đối",
+          "start": 5.72,
+          "end": 6.02,
+          "probability": 0.43
+        },
+        {
+          "word": "tượng",
+          "start": 6.02,
+          "end": 6.32,
+          "probability": 0.49
+        },
+        {
+          "word": "trụ",
+          "start": 6.32,
+          "end": 6.56,
+          "probability": 0.37
+        },
+        {
+          "word": "biểu,",
+          "start": 6.56,
+          "end": 7.1,
+          "probability": 0.21
+        },
+        {
+          "word": "đường",
+          "start": 8.59,
+          "end": 8.85,
+          "probability": 0.52
+        },
+        {
+          "word": "về",
+          "start": 8.85,
+          "end": 9.09,
+          "probability": 0.2
+        },
+        {
+          "word": "bộ",
+          "start": 9.09,
+          "end": 9.39,
+          "probability": 0.33
+        },
+        {
+          "word": "trực,",
+          "start": 9.39,
+          "end": 9.97,
+          "probability": 0.73
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 10.25,
+      "end": 12.27,
+      "text": "lời rạng, với vài tròn đồng phạm.",
+      "words": [
+        {
+          "word": "lời",
+          "start": 10.25,
+          "end": 10.33,
+          "probability": 0.64
+        },
+        {
+          "word": "rạng,",
+          "start": 10.33,
+          "end": 10.87,
+          "probability": 0.27
+        },
+        {
+          "word": "với",
+          "start": 11.01,
+          "end": 11.07,
+          "probability": 0.46
+        },
+        {
+          "word": "vài",
+          "start": 11.07,
+          "end": 11.37,
+          "probability": 0.26
+        },
+        {
+          "word": "tròn",
+          "start": 11.37,
+          "end": 11.69,
+          "probability": 0.53
+        },
+        {
+          "word": "đồng",
+          "start": 11.69,
+          "end": 11.97,
+          "probability": 0.34
+        },
+        {
+          "word": "phạm.",
+          "start": 11.97,
+          "end": 12.27,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.51,
+      "end": 12.93,
+      "text": "Giú sức.",
+      "words": [
+        {
+          "word": "Giú",
+          "start": 12.51,
+          "end": 12.51,
+          "probability": 0.19
+        },
+        {
+          "word": "sức.",
+          "start": 12.51,
+          "end": 12.93,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.43,
+      "end": 16.51,
+      "text": "Thật em đã được phân công mà hảo khác đế vỷ chi,",
+      "words": [
+        {
+          "word": "Thật",
+          "start": 13.43,
+          "end": 13.63,
+          "probability": 0.28
+        },
+        {
+          "word": "em",
+          "start": 13.63,
+          "end": 13.75,
+          "probability": 0.97
+        },
+        {
+          "word": "đã",
+          "start": 13.75,
+          "end": 13.93,
+          "probability": 0.91
+        },
+        {
+          "word": "được",
+          "start": 13.93,
+          "end": 14.05,
+          "probability": 0.45
+        },
+        {
+          "word": "phân",
+          "start": 14.05,
+          "end": 14.25,
+          "probability": 0.6
+        },
+        {
+          "word": "công",
+          "start": 14.25,
+          "end": 14.59,
+          "probability": 0.87
+        },
+        {
+          "word": "mà",
+          "start": 14.59,
+          "end": 14.93,
+          "probability": 0.22
+        },
+        {
+          "word": "hảo",
+          "start": 14.93,
+          "end": 15.13,
+          "probability": 0.11
+        },
+        {
+          "word": "khác",
+          "start": 15.13,
+          "end": 15.39,
+          "probability": 0.6
+        },
+        {
+          "word": "đế",
+          "start": 15.39,
+          "end": 15.65,
+          "probability": 0.29
+        },
+        {
+          "word": "vỷ",
+          "start": 15.65,
+          "end": 15.97,
+          "probability": 0.33
+        },
+        {
+          "word": "chi,",
+          "start": 15.97,
+          "end": 16.51,
+          "probability": 0.47
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 17.03,
+      "end": 19.45,
+      "text": "từ bản lý, từ bản pháp lý,",
+      "words": [
+        {
+          "word": "từ",
+          "start": 17.03,
+          "end": 17.31,
+          "probability": 0.51
+        },
+        {
+          "word": "bản",
+          "start": 17.31,
+          "end": 17.65,
+          "probability": 0.22
+        },
+        {
+          "word": "lý,",
+          "start": 17.65,
+          "end": 17.99,
+          "probability": 0.59
+        },
+        {
+          "word": "từ",
+          "start": 18.39,
+          "end": 18.55,
+          "probability": 0.98
+        },
+        {
+          "word": "bản",
+          "start": 18.55,
+          "end": 18.79,
+          "probability": 0.63
+        },
+        {
+          "word": "pháp",
+          "start": 18.79,
+          "end": 19.01,
+          "probability": 0.68
+        },
+        {
+          "word": "lý,",
+          "start": 19.01,
+          "end": 19.45,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 20.15,
+      "end": 24.33,
+      "text": "tên lệ xe, lìa, lìa hạc, bản bản.",
+      "words": [
+        {
+          "word": "tên",
+          "start": 20.15,
+          "end": 20.23,
+          "probability": 0.31
+        },
+        {
+          "word": "lệ",
+          "start": 20.23,
+          "end": 20.39,
+          "probability": 0.39
+        },
+        {
+          "word": "xe,",
+          "start": 20.39,
+          "end": 20.75,
+          "probability": 0.37
+        },
+        {
+          "word": "lìa,",
+          "start": 21.57,
+          "end": 21.91,
+          "probability": 0.37
+        },
+        {
+          "word": "lìa",
+          "start": 22.45,
+          "end": 22.69,
+          "probability": 0.66
+        },
+        {
+          "word": "hạc,",
+          "start": 22.69,
+          "end": 23.73,
+          "probability": 0.35
+        },
+        {
+          "word": "bản",
+          "start": 23.81,
+          "end": 23.93,
+          "probability": 0.31
+        },
+        {
+          "word": "bản.",
+          "start": 23.93,
+          "end": 24.33,
+          "probability": 0.48
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 25.97,
+      "end": 26.55,
+      "text": "Giang rồi.",
+      "words": [
+        {
+          "word": "Giang",
+          "start": 25.97,
+          "end": 26.27,
+          "probability": 0.37
+        },
+        {
+          "word": "rồi.",
+          "start": 26.27,
+          "end": 26.55,
+          "probability": 0.57
+        }
+      ]
+    }
+  ]
+}

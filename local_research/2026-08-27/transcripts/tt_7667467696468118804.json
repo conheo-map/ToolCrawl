@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7667467696468118804",
+  "duration_seconds": 16.89,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Cái này",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.2,
+      "end": 2.02,
+      "text": "Cái này",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 1.2,
+          "end": 1.7,
+          "probability": 0.24
+        },
+        {
+          "word": "này",
+          "start": 1.7,
+          "end": 2.02,
+          "probability": 0.14
+        }
+      ]
+    }
+  ]
+}

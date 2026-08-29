@@ -1,0 +1,786 @@
+{
+  "item_id": "tt_7642384159792467220_02",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 120,
+  "text": "Theo phần anh, lận sối gần của bộ một cao lòng hẹp như nước tất hồ trải, khi nước phát trận và từng sên tràn lên mặt đường một khi mưa lớn. Nhận của phòng viên trân chi cho thấy vụ vực nghiệp là có độ giốc cao, mặt đường của gây, dòng nước trạng sét trên mặt nguy hiệp trong người tham trà rau thông. Tình trạng nước tràn đường kéo dài hơn bà dờ của mấy trạng vân. Ngoài ra điểm giật lợi bên phủy chiếc, thương đục trân chi phần anh chút đó, tiếp tục khách dầu vào động nước lớn. Ngoài ra điểm giật lần, nguy hiệp như vụ vực nghiệp trong người tham trà rau.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.21,
+      "end": 7.85,
+      "text": "Theo phần anh, lận sối gần của bộ một cao lòng hẹp như nước tất hồ trải, khi nước phát trận và từng sên tràn lên mặt đường một khi mưa lớn.",
+      "words": [
+        {
+          "word": "Theo",
+          "start": 0.21,
+          "end": 0.77,
+          "probability": 0.33
+        },
+        {
+          "word": "phần",
+          "start": 0.77,
+          "end": 0.93,
+          "probability": 0.43
+        },
+        {
+          "word": "anh,",
+          "start": 0.93,
+          "end": 1.25,
+          "probability": 0.2
+        },
+        {
+          "word": "lận",
+          "start": 1.57,
+          "end": 1.65,
+          "probability": 0.12
+        },
+        {
+          "word": "sối",
+          "start": 1.65,
+          "end": 1.81,
+          "probability": 0.36
+        },
+        {
+          "word": "gần",
+          "start": 1.81,
+          "end": 2.01,
+          "probability": 0.66
+        },
+        {
+          "word": "của",
+          "start": 2.01,
+          "end": 2.13,
+          "probability": 0.3
+        },
+        {
+          "word": "bộ",
+          "start": 2.13,
+          "end": 2.37,
+          "probability": 0.34
+        },
+        {
+          "word": "một",
+          "start": 2.37,
+          "end": 2.57,
+          "probability": 0.47
+        },
+        {
+          "word": "cao",
+          "start": 2.57,
+          "end": 2.87,
+          "probability": 0.48
+        },
+        {
+          "word": "lòng",
+          "start": 2.87,
+          "end": 3.05,
+          "probability": 0.64
+        },
+        {
+          "word": "hẹp",
+          "start": 3.05,
+          "end": 3.39,
+          "probability": 0.63
+        },
+        {
+          "word": "như",
+          "start": 3.39,
+          "end": 3.55,
+          "probability": 0.66
+        },
+        {
+          "word": "nước",
+          "start": 3.55,
+          "end": 3.75,
+          "probability": 0.3
+        },
+        {
+          "word": "tất",
+          "start": 3.75,
+          "end": 3.89,
+          "probability": 0.47
+        },
+        {
+          "word": "hồ",
+          "start": 3.89,
+          "end": 4.05,
+          "probability": 0.21
+        },
+        {
+          "word": "trải,",
+          "start": 4.05,
+          "end": 4.49,
+          "probability": 0.47
+        },
+        {
+          "word": "khi",
+          "start": 4.67,
+          "end": 4.81,
+          "probability": 0.62
+        },
+        {
+          "word": "nước",
+          "start": 4.81,
+          "end": 4.97,
+          "probability": 0.97
+        },
+        {
+          "word": "phát",
+          "start": 4.97,
+          "end": 5.17,
+          "probability": 0.56
+        },
+        {
+          "word": "trận",
+          "start": 5.17,
+          "end": 5.41,
+          "probability": 0.5
+        },
+        {
+          "word": "và",
+          "start": 5.41,
+          "end": 5.57,
+          "probability": 0.89
+        },
+        {
+          "word": "từng",
+          "start": 5.57,
+          "end": 5.95,
+          "probability": 0.32
+        },
+        {
+          "word": "sên",
+          "start": 5.95,
+          "end": 5.95,
+          "probability": 0.42
+        },
+        {
+          "word": "tràn",
+          "start": 5.95,
+          "end": 6.19,
+          "probability": 0.43
+        },
+        {
+          "word": "lên",
+          "start": 6.19,
+          "end": 6.33,
+          "probability": 0.51
+        },
+        {
+          "word": "mặt",
+          "start": 6.33,
+          "end": 6.55,
+          "probability": 0.6
+        },
+        {
+          "word": "đường",
+          "start": 6.55,
+          "end": 6.65,
+          "probability": 0.93
+        },
+        {
+          "word": "một",
+          "start": 6.65,
+          "end": 6.95,
+          "probability": 0.3
+        },
+        {
+          "word": "khi",
+          "start": 6.95,
+          "end": 7.05,
+          "probability": 0.82
+        },
+        {
+          "word": "mưa",
+          "start": 7.05,
+          "end": 7.21,
+          "probability": 0.39
+        },
+        {
+          "word": "lớn.",
+          "start": 7.21,
+          "end": 7.85,
+          "probability": 0.77
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 8.45,
+      "end": 12.75,
+      "text": "Nhận của phòng viên trân chi cho thấy vụ vực nghiệp là có độ giốc cao, mặt đường của gây,",
+      "words": [
+        {
+          "word": "Nhận",
+          "start": 8.45,
+          "end": 8.67,
+          "probability": 0.15
+        },
+        {
+          "word": "của",
+          "start": 8.67,
+          "end": 8.85,
+          "probability": 0.79
+        },
+        {
+          "word": "phòng",
+          "start": 8.85,
+          "end": 9.03,
+          "probability": 0.5
+        },
+        {
+          "word": "viên",
+          "start": 9.03,
+          "end": 9.19,
+          "probability": 0.71
+        },
+        {
+          "word": "trân",
+          "start": 9.19,
+          "end": 9.39,
+          "probability": 0.45
+        },
+        {
+          "word": "chi",
+          "start": 9.39,
+          "end": 9.55,
+          "probability": 0.17
+        },
+        {
+          "word": "cho",
+          "start": 9.55,
+          "end": 9.73,
+          "probability": 0.36
+        },
+        {
+          "word": "thấy",
+          "start": 9.73,
+          "end": 10.09,
+          "probability": 0.93
+        },
+        {
+          "word": "vụ",
+          "start": 10.09,
+          "end": 10.31,
+          "probability": 0.23
+        },
+        {
+          "word": "vực",
+          "start": 10.31,
+          "end": 10.45,
+          "probability": 0.71
+        },
+        {
+          "word": "nghiệp",
+          "start": 10.45,
+          "end": 10.65,
+          "probability": 0.55
+        },
+        {
+          "word": "là",
+          "start": 10.65,
+          "end": 10.81,
+          "probability": 0.57
+        },
+        {
+          "word": "có",
+          "start": 10.81,
+          "end": 10.97,
+          "probability": 0.12
+        },
+        {
+          "word": "độ",
+          "start": 10.97,
+          "end": 11.13,
+          "probability": 0.62
+        },
+        {
+          "word": "giốc",
+          "start": 11.13,
+          "end": 11.33,
+          "probability": 0.44
+        },
+        {
+          "word": "cao,",
+          "start": 11.33,
+          "end": 11.69,
+          "probability": 0.72
+        },
+        {
+          "word": "mặt",
+          "start": 11.95,
+          "end": 12.05,
+          "probability": 0.81
+        },
+        {
+          "word": "đường",
+          "start": 12.05,
+          "end": 12.19,
+          "probability": 0.97
+        },
+        {
+          "word": "của",
+          "start": 12.19,
+          "end": 12.35,
+          "probability": 0.35
+        },
+        {
+          "word": "gây,",
+          "start": 12.35,
+          "end": 12.75,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.97,
+      "end": 15.77,
+      "text": "dòng nước trạng sét trên mặt nguy hiệp trong người tham trà rau thông.",
+      "words": [
+        {
+          "word": "dòng",
+          "start": 12.97,
+          "end": 13.07,
+          "probability": 0.31
+        },
+        {
+          "word": "nước",
+          "start": 13.07,
+          "end": 13.29,
+          "probability": 0.99
+        },
+        {
+          "word": "trạng",
+          "start": 13.29,
+          "end": 13.47,
+          "probability": 0.57
+        },
+        {
+          "word": "sét",
+          "start": 13.47,
+          "end": 13.69,
+          "probability": 0.29
+        },
+        {
+          "word": "trên",
+          "start": 13.69,
+          "end": 13.93,
+          "probability": 0.07
+        },
+        {
+          "word": "mặt",
+          "start": 13.93,
+          "end": 14.09,
+          "probability": 0.37
+        },
+        {
+          "word": "nguy",
+          "start": 14.09,
+          "end": 14.33,
+          "probability": 0.4
+        },
+        {
+          "word": "hiệp",
+          "start": 14.33,
+          "end": 14.47,
+          "probability": 0.46
+        },
+        {
+          "word": "trong",
+          "start": 14.47,
+          "end": 14.67,
+          "probability": 0.5
+        },
+        {
+          "word": "người",
+          "start": 14.67,
+          "end": 14.83,
+          "probability": 0.5
+        },
+        {
+          "word": "tham",
+          "start": 14.83,
+          "end": 14.99,
+          "probability": 0.45
+        },
+        {
+          "word": "trà",
+          "start": 14.99,
+          "end": 15.13,
+          "probability": 0.54
+        },
+        {
+          "word": "rau",
+          "start": 15.13,
+          "end": 15.31,
+          "probability": 0.25
+        },
+        {
+          "word": "thông.",
+          "start": 15.31,
+          "end": 15.77,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 16.15,
+      "end": 18.73,
+      "text": "Tình trạng nước tràn đường kéo dài hơn bà dờ của mấy trạng vân.",
+      "words": [
+        {
+          "word": "Tình",
+          "start": 16.15,
+          "end": 16.15,
+          "probability": 0.57
+        },
+        {
+          "word": "trạng",
+          "start": 16.15,
+          "end": 16.33,
+          "probability": 0.77
+        },
+        {
+          "word": "nước",
+          "start": 16.33,
+          "end": 16.55,
+          "probability": 1.0
+        },
+        {
+          "word": "tràn",
+          "start": 16.55,
+          "end": 16.73,
+          "probability": 0.82
+        },
+        {
+          "word": "đường",
+          "start": 16.73,
+          "end": 16.93,
+          "probability": 0.96
+        },
+        {
+          "word": "kéo",
+          "start": 16.93,
+          "end": 17.17,
+          "probability": 0.54
+        },
+        {
+          "word": "dài",
+          "start": 17.17,
+          "end": 17.35,
+          "probability": 0.47
+        },
+        {
+          "word": "hơn",
+          "start": 17.35,
+          "end": 17.55,
+          "probability": 0.64
+        },
+        {
+          "word": "bà",
+          "start": 17.55,
+          "end": 17.75,
+          "probability": 0.6
+        },
+        {
+          "word": "dờ",
+          "start": 17.75,
+          "end": 17.97,
+          "probability": 0.36
+        },
+        {
+          "word": "của",
+          "start": 17.97,
+          "end": 18.19,
+          "probability": 0.35
+        },
+        {
+          "word": "mấy",
+          "start": 18.19,
+          "end": 18.35,
+          "probability": 0.63
+        },
+        {
+          "word": "trạng",
+          "start": 18.35,
+          "end": 18.47,
+          "probability": 0.59
+        },
+        {
+          "word": "vân.",
+          "start": 18.47,
+          "end": 18.73,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 19.51,
+      "end": 23.43,
+      "text": "Ngoài ra điểm giật lợi bên phủy chiếc, thương đục trân chi phần anh chút đó,",
+      "words": [
+        {
+          "word": "Ngoài",
+          "start": 19.51,
+          "end": 19.85,
+          "probability": 0.63
+        },
+        {
+          "word": "ra",
+          "start": 19.85,
+          "end": 20.11,
+          "probability": 0.74
+        },
+        {
+          "word": "điểm",
+          "start": 20.11,
+          "end": 20.59,
+          "probability": 0.65
+        },
+        {
+          "word": "giật",
+          "start": 20.59,
+          "end": 20.75,
+          "probability": 0.33
+        },
+        {
+          "word": "lợi",
+          "start": 20.75,
+          "end": 21.01,
+          "probability": 0.63
+        },
+        {
+          "word": "bên",
+          "start": 21.01,
+          "end": 21.17,
+          "probability": 0.59
+        },
+        {
+          "word": "phủy",
+          "start": 21.17,
+          "end": 21.49,
+          "probability": 0.45
+        },
+        {
+          "word": "chiếc,",
+          "start": 21.49,
+          "end": 21.59,
+          "probability": 0.35
+        },
+        {
+          "word": "thương",
+          "start": 21.89,
+          "end": 21.93,
+          "probability": 0.66
+        },
+        {
+          "word": "đục",
+          "start": 21.93,
+          "end": 22.09,
+          "probability": 0.6
+        },
+        {
+          "word": "trân",
+          "start": 22.09,
+          "end": 22.23,
+          "probability": 0.73
+        },
+        {
+          "word": "chi",
+          "start": 22.23,
+          "end": 22.39,
+          "probability": 0.96
+        },
+        {
+          "word": "phần",
+          "start": 22.39,
+          "end": 22.59,
+          "probability": 0.43
+        },
+        {
+          "word": "anh",
+          "start": 22.59,
+          "end": 22.81,
+          "probability": 0.9
+        },
+        {
+          "word": "chút",
+          "start": 22.81,
+          "end": 22.97,
+          "probability": 0.44
+        },
+        {
+          "word": "đó,",
+          "start": 22.97,
+          "end": 23.43,
+          "probability": 0.63
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.51,
+      "end": 25.47,
+      "text": "tiếp tục khách dầu vào động nước lớn.",
+      "words": [
+        {
+          "word": "tiếp",
+          "start": 23.51,
+          "end": 23.71,
+          "probability": 0.28
+        },
+        {
+          "word": "tục",
+          "start": 23.71,
+          "end": 23.87,
+          "probability": 0.89
+        },
+        {
+          "word": "khách",
+          "start": 23.87,
+          "end": 24.21,
+          "probability": 0.44
+        },
+        {
+          "word": "dầu",
+          "start": 24.21,
+          "end": 24.45,
+          "probability": 0.48
+        },
+        {
+          "word": "vào",
+          "start": 24.45,
+          "end": 24.65,
+          "probability": 0.57
+        },
+        {
+          "word": "động",
+          "start": 24.65,
+          "end": 24.83,
+          "probability": 0.41
+        },
+        {
+          "word": "nước",
+          "start": 24.83,
+          "end": 24.95,
+          "probability": 0.54
+        },
+        {
+          "word": "lớn.",
+          "start": 24.95,
+          "end": 25.47,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 25.47,
+      "end": 28.71,
+      "text": "Ngoài ra điểm giật lần, nguy hiệp như vụ vực nghiệp trong người tham trà rau.",
+      "words": [
+        {
+          "word": "Ngoài",
+          "start": 25.47,
+          "end": 25.91,
+          "probability": 0.17
+        },
+        {
+          "word": "ra",
+          "start": 25.91,
+          "end": 25.99,
+          "probability": 0.01
+        },
+        {
+          "word": "điểm",
+          "start": 25.99,
+          "end": 26.11,
+          "probability": 0.01
+        },
+        {
+          "word": "giật",
+          "start": 26.11,
+          "end": 26.11,
+          "probability": 0.01
+        },
+        {
+          "word": "lần,",
+          "start": 26.11,
+          "end": 26.35,
+          "probability": 0.27
+        },
+        {
+          "word": "nguy",
+          "start": 26.91,
+          "end": 26.91,
+          "probability": 0.02
+        },
+        {
+          "word": "hiệp",
+          "start": 26.91,
+          "end": 27.31,
+          "probability": 0.14
+        },
+        {
+          "word": "như",
+          "start": 27.31,
+          "end": 27.61,
+          "probability": 0.0
+        },
+        {
+          "word": "vụ",
+          "start": 27.61,
+          "end": 27.97,
+          "probability": 0.06
+        },
+        {
+          "word": "vực",
+          "start": 27.97,
+          "end": 28.03,
+          "probability": 0.02
+        },
+        {
+          "word": "nghiệp",
+          "start": 28.03,
+          "end": 28.51,
+          "probability": 0.53
+        },
+        {
+          "word": "trong",
+          "start": 28.51,
+          "end": 28.51,
+          "probability": 0.0
+        },
+        {
+          "word": "người",
+          "start": 28.51,
+          "end": 28.51,
+          "probability": 0.01
+        },
+        {
+          "word": "tham",
+          "start": 28.51,
+          "end": 28.51,
+          "probability": 0.01
+        },
+        {
+          "word": "trà",
+          "start": 28.51,
+          "end": 28.71,
+          "probability": 0.01
+        },
+        {
+          "word": "rau.",
+          "start": 28.71,
+          "end": 28.71,
+          "probability": 0.0
+        }
+      ]
+    }
+  ]
+}

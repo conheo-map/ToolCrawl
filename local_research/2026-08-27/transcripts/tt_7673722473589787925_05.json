@@ -1,0 +1,234 @@
+{
+  "item_id": "tt_7673722473589787925_05",
+  "duration_seconds": 28.68,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 32,
+  "text": "Nói, nè, nó dây chơi đi nó không có Nè, nó dây đổ Nè, mẹ, mẹ, mẹ, mẹ, mẹ, mẹ, mẹ, mẹ Tổ chơi đi nó dây chơi đi nó dây đổ",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.98,
+      "text": "Nói, nè, nó dây chơi đi nó không có",
+      "words": [
+        {
+          "word": "Nói,",
+          "start": 0.0,
+          "end": 0.66,
+          "probability": 0.12
+        },
+        {
+          "word": "nè,",
+          "start": 0.66,
+          "end": 0.8,
+          "probability": 0.18
+        },
+        {
+          "word": "nó",
+          "start": 0.92,
+          "end": 0.92,
+          "probability": 0.12
+        },
+        {
+          "word": "dây",
+          "start": 0.92,
+          "end": 1.58,
+          "probability": 0.05
+        },
+        {
+          "word": "chơi",
+          "start": 1.58,
+          "end": 1.9,
+          "probability": 0.6
+        },
+        {
+          "word": "đi",
+          "start": 1.9,
+          "end": 2.12,
+          "probability": 0.09
+        },
+        {
+          "word": "nó",
+          "start": 2.12,
+          "end": 2.3,
+          "probability": 0.13
+        },
+        {
+          "word": "không",
+          "start": 2.3,
+          "end": 2.52,
+          "probability": 0.29
+        },
+        {
+          "word": "có",
+          "start": 2.52,
+          "end": 2.98,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.98,
+      "end": 4.68,
+      "text": "Nè, nó dây đổ",
+      "words": [
+        {
+          "word": "Nè,",
+          "start": 2.98,
+          "end": 3.3,
+          "probability": 0.05
+        },
+        {
+          "word": "nó",
+          "start": 3.46,
+          "end": 3.46,
+          "probability": 0.54
+        },
+        {
+          "word": "dây",
+          "start": 3.46,
+          "end": 3.88,
+          "probability": 0.38
+        },
+        {
+          "word": "đổ",
+          "start": 3.88,
+          "end": 4.68,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.0,
+      "end": 13.45,
+      "text": "Nè, mẹ, mẹ, mẹ, mẹ, mẹ, mẹ, mẹ, mẹ",
+      "words": [
+        {
+          "word": "Nè,",
+          "start": 9.0,
+          "end": 9.66,
+          "probability": 0.4
+        },
+        {
+          "word": "mẹ,",
+          "start": 9.86,
+          "end": 9.96,
+          "probability": 0.33
+        },
+        {
+          "word": "mẹ,",
+          "start": 10.18,
+          "end": 10.36,
+          "probability": 0.77
+        },
+        {
+          "word": "mẹ,",
+          "start": 10.48,
+          "end": 10.48,
+          "probability": 0.67
+        },
+        {
+          "word": "mẹ,",
+          "start": 10.58,
+          "end": 10.6,
+          "probability": 0.59
+        },
+        {
+          "word": "mẹ,",
+          "start": 10.6,
+          "end": 10.72,
+          "probability": 0.58
+        },
+        {
+          "word": "mẹ,",
+          "start": 10.72,
+          "end": 10.88,
+          "probability": 0.57
+        },
+        {
+          "word": "mẹ,",
+          "start": 10.88,
+          "end": 10.96,
+          "probability": 0.6
+        },
+        {
+          "word": "mẹ",
+          "start": 13.45,
+          "end": 13.45,
+          "probability": 0.67
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.45,
+      "end": 25.43,
+      "text": "Tổ chơi đi nó dây chơi đi nó dây đổ",
+      "words": [
+        {
+          "word": "Tổ",
+          "start": 13.45,
+          "end": 13.61,
+          "probability": 0.14
+        },
+        {
+          "word": "chơi",
+          "start": 13.61,
+          "end": 13.91,
+          "probability": 0.36
+        },
+        {
+          "word": "đi",
+          "start": 13.91,
+          "end": 14.57,
+          "probability": 0.66
+        },
+        {
+          "word": "nó",
+          "start": 14.57,
+          "end": 14.71,
+          "probability": 0.56
+        },
+        {
+          "word": "dây",
+          "start": 25.01,
+          "end": 25.17,
+          "probability": 0.26
+        },
+        {
+          "word": "chơi",
+          "start": 25.17,
+          "end": 25.17,
+          "probability": 0.77
+        },
+        {
+          "word": "đi",
+          "start": 25.17,
+          "end": 25.17,
+          "probability": 0.21
+        },
+        {
+          "word": "nó",
+          "start": 25.17,
+          "end": 25.17,
+          "probability": 0.67
+        },
+        {
+          "word": "dây",
+          "start": 25.17,
+          "end": 25.41,
+          "probability": 0.39
+        },
+        {
+          "word": "đổ",
+          "start": 25.41,
+          "end": 25.43,
+          "probability": 0.46
+        }
+      ]
+    }
+  ]
+}

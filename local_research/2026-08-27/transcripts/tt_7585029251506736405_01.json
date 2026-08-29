@@ -1,0 +1,974 @@
+{
+  "item_id": "tt_7585029251506736405_01",
+  "duration_seconds": 29.86,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 150,
+  "text": "sức ăn bản chú bố mấy người đồng bị tốt chỉ vài vinh thiệt, chương học mọi gì. Ngay mề bẩy tháng 12, mạo sở hội lan chuyên những ăn sức ăn bản chú bối chưa được cho là của chương hoặc phố thông chương vương. Phương xe gòn, kinh phố chí mình, với giá bố mấy người đồng. Mại đang nhìn trong tụi hút được hàng nghỉ lợt tương tác, phải lớn bị lượng đánh ra món ăn mạnh quả yên sò với giá thành. Chà lời phong viên giân chỉ tối cùng ngày, bà lơ biết nha, phó hiệu chương chương chương hoặc phố thông chương vương. Sau dạ nhìn ăn sức ăn nói chết là bữa chương con người của chương, như không đề đủ thụi. Bà cho biết sức ăn có giá bà mấy tám nhìn đồng, không phải bố mấy người đồng vyu phản ăn.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.2,
+      "text": "sức ăn bản chú bố mấy người đồng bị tốt chỉ vài vinh thiệt, chương học mọi gì.",
+      "words": [
+        {
+          "word": "sức",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.42
+        },
+        {
+          "word": "ăn",
+          "start": 0.14,
+          "end": 0.38,
+          "probability": 0.54
+        },
+        {
+          "word": "bản",
+          "start": 0.38,
+          "end": 0.5,
+          "probability": 0.6
+        },
+        {
+          "word": "chú",
+          "start": 0.5,
+          "end": 0.64,
+          "probability": 0.48
+        },
+        {
+          "word": "bố",
+          "start": 0.64,
+          "end": 0.82,
+          "probability": 0.5
+        },
+        {
+          "word": "mấy",
+          "start": 0.82,
+          "end": 0.94,
+          "probability": 0.19
+        },
+        {
+          "word": "người",
+          "start": 0.94,
+          "end": 1.08,
+          "probability": 0.17
+        },
+        {
+          "word": "đồng",
+          "start": 1.08,
+          "end": 1.18,
+          "probability": 0.62
+        },
+        {
+          "word": "bị",
+          "start": 1.18,
+          "end": 1.32,
+          "probability": 0.57
+        },
+        {
+          "word": "tốt",
+          "start": 1.32,
+          "end": 1.48,
+          "probability": 0.75
+        },
+        {
+          "word": "chỉ",
+          "start": 1.48,
+          "end": 1.66,
+          "probability": 0.45
+        },
+        {
+          "word": "vài",
+          "start": 1.66,
+          "end": 1.86,
+          "probability": 0.6
+        },
+        {
+          "word": "vinh",
+          "start": 1.86,
+          "end": 2.0,
+          "probability": 0.38
+        },
+        {
+          "word": "thiệt,",
+          "start": 2.0,
+          "end": 2.38,
+          "probability": 0.55
+        },
+        {
+          "word": "chương",
+          "start": 2.46,
+          "end": 2.6,
+          "probability": 0.56
+        },
+        {
+          "word": "học",
+          "start": 2.6,
+          "end": 2.76,
+          "probability": 0.84
+        },
+        {
+          "word": "mọi",
+          "start": 2.76,
+          "end": 2.92,
+          "probability": 0.26
+        },
+        {
+          "word": "gì.",
+          "start": 2.92,
+          "end": 3.2,
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 4.06,
+      "end": 9.14,
+      "text": "Ngay mề bẩy tháng 12, mạo sở hội lan chuyên những ăn sức ăn bản chú bối chưa được cho là của chương hoặc phố thông chương vương.",
+      "words": [
+        {
+          "word": "Ngay",
+          "start": 4.06,
+          "end": 4.24,
+          "probability": 0.59
+        },
+        {
+          "word": "mề",
+          "start": 4.24,
+          "end": 4.32,
+          "probability": 0.37
+        },
+        {
+          "word": "bẩy",
+          "start": 4.32,
+          "end": 4.46,
+          "probability": 0.66
+        },
+        {
+          "word": "tháng",
+          "start": 4.46,
+          "end": 4.62,
+          "probability": 0.61
+        },
+        {
+          "word": "12,",
+          "start": 4.62,
+          "end": 4.94,
+          "probability": 0.49
+        },
+        {
+          "word": "mạo",
+          "start": 5.34,
+          "end": 5.46,
+          "probability": 0.49
+        },
+        {
+          "word": "sở",
+          "start": 5.46,
+          "end": 5.56,
+          "probability": 0.27
+        },
+        {
+          "word": "hội",
+          "start": 5.56,
+          "end": 5.68,
+          "probability": 0.67
+        },
+        {
+          "word": "lan",
+          "start": 5.68,
+          "end": 5.96,
+          "probability": 0.4
+        },
+        {
+          "word": "chuyên",
+          "start": 5.96,
+          "end": 5.96,
+          "probability": 0.31
+        },
+        {
+          "word": "những",
+          "start": 5.96,
+          "end": 6.18,
+          "probability": 0.15
+        },
+        {
+          "word": "ăn",
+          "start": 6.18,
+          "end": 6.4,
+          "probability": 0.27
+        },
+        {
+          "word": "sức",
+          "start": 6.4,
+          "end": 6.48,
+          "probability": 0.82
+        },
+        {
+          "word": "ăn",
+          "start": 6.48,
+          "end": 6.72,
+          "probability": 0.99
+        },
+        {
+          "word": "bản",
+          "start": 6.72,
+          "end": 6.94,
+          "probability": 0.98
+        },
+        {
+          "word": "chú",
+          "start": 6.94,
+          "end": 7.0,
+          "probability": 0.99
+        },
+        {
+          "word": "bối",
+          "start": 7.0,
+          "end": 7.2,
+          "probability": 0.53
+        },
+        {
+          "word": "chưa",
+          "start": 7.2,
+          "end": 7.32,
+          "probability": 0.34
+        },
+        {
+          "word": "được",
+          "start": 7.32,
+          "end": 7.54,
+          "probability": 0.91
+        },
+        {
+          "word": "cho",
+          "start": 7.54,
+          "end": 7.62,
+          "probability": 0.89
+        },
+        {
+          "word": "là",
+          "start": 7.62,
+          "end": 7.78,
+          "probability": 0.39
+        },
+        {
+          "word": "của",
+          "start": 7.78,
+          "end": 7.9,
+          "probability": 0.31
+        },
+        {
+          "word": "chương",
+          "start": 7.9,
+          "end": 8.08,
+          "probability": 0.47
+        },
+        {
+          "word": "hoặc",
+          "start": 8.08,
+          "end": 8.36,
+          "probability": 0.47
+        },
+        {
+          "word": "phố",
+          "start": 8.36,
+          "end": 8.52,
+          "probability": 0.43
+        },
+        {
+          "word": "thông",
+          "start": 8.52,
+          "end": 8.66,
+          "probability": 0.61
+        },
+        {
+          "word": "chương",
+          "start": 8.66,
+          "end": 8.84,
+          "probability": 0.71
+        },
+        {
+          "word": "vương.",
+          "start": 8.84,
+          "end": 9.14,
+          "probability": 0.52
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.28,
+      "end": 12.08,
+      "text": "Phương xe gòn, kinh phố chí mình, với giá bố mấy người đồng.",
+      "words": [
+        {
+          "word": "Phương",
+          "start": 9.28,
+          "end": 9.44,
+          "probability": 0.63
+        },
+        {
+          "word": "xe",
+          "start": 9.44,
+          "end": 9.58,
+          "probability": 0.62
+        },
+        {
+          "word": "gòn,",
+          "start": 9.58,
+          "end": 9.92,
+          "probability": 0.48
+        },
+        {
+          "word": "kinh",
+          "start": 10.12,
+          "end": 10.22,
+          "probability": 0.39
+        },
+        {
+          "word": "phố",
+          "start": 10.22,
+          "end": 10.32,
+          "probability": 0.97
+        },
+        {
+          "word": "chí",
+          "start": 10.32,
+          "end": 10.56,
+          "probability": 0.4
+        },
+        {
+          "word": "mình,",
+          "start": 10.56,
+          "end": 10.84,
+          "probability": 0.42
+        },
+        {
+          "word": "với",
+          "start": 10.96,
+          "end": 11.1,
+          "probability": 0.39
+        },
+        {
+          "word": "giá",
+          "start": 11.1,
+          "end": 11.28,
+          "probability": 0.43
+        },
+        {
+          "word": "bố",
+          "start": 11.28,
+          "end": 11.42,
+          "probability": 0.96
+        },
+        {
+          "word": "mấy",
+          "start": 11.42,
+          "end": 11.56,
+          "probability": 0.8
+        },
+        {
+          "word": "người",
+          "start": 11.56,
+          "end": 11.68,
+          "probability": 0.99
+        },
+        {
+          "word": "đồng.",
+          "start": 11.68,
+          "end": 12.08,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.56,
+      "end": 14.52,
+      "text": "Mại đang nhìn trong tụi hút được hàng nghỉ lợt tương tác,",
+      "words": [
+        {
+          "word": "Mại",
+          "start": 12.56,
+          "end": 12.58,
+          "probability": 0.45
+        },
+        {
+          "word": "đang",
+          "start": 12.58,
+          "end": 12.74,
+          "probability": 0.5
+        },
+        {
+          "word": "nhìn",
+          "start": 12.74,
+          "end": 12.9,
+          "probability": 0.34
+        },
+        {
+          "word": "trong",
+          "start": 12.9,
+          "end": 13.08,
+          "probability": 0.83
+        },
+        {
+          "word": "tụi",
+          "start": 13.08,
+          "end": 13.22,
+          "probability": 0.37
+        },
+        {
+          "word": "hút",
+          "start": 13.22,
+          "end": 13.36,
+          "probability": 0.59
+        },
+        {
+          "word": "được",
+          "start": 13.36,
+          "end": 13.56,
+          "probability": 0.96
+        },
+        {
+          "word": "hàng",
+          "start": 13.56,
+          "end": 13.66,
+          "probability": 0.75
+        },
+        {
+          "word": "nghỉ",
+          "start": 13.66,
+          "end": 13.84,
+          "probability": 0.29
+        },
+        {
+          "word": "lợt",
+          "start": 13.84,
+          "end": 13.92,
+          "probability": 0.5
+        },
+        {
+          "word": "tương",
+          "start": 13.92,
+          "end": 14.08,
+          "probability": 0.82
+        },
+        {
+          "word": "tác,",
+          "start": 14.08,
+          "end": 14.52,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.6,
+      "end": 17.08,
+      "text": "phải lớn bị lượng đánh ra món ăn mạnh quả yên sò với giá thành.",
+      "words": [
+        {
+          "word": "phải",
+          "start": 14.6,
+          "end": 14.66,
+          "probability": 0.18
+        },
+        {
+          "word": "lớn",
+          "start": 14.66,
+          "end": 14.84,
+          "probability": 0.92
+        },
+        {
+          "word": "bị",
+          "start": 14.84,
+          "end": 14.98,
+          "probability": 0.53
+        },
+        {
+          "word": "lượng",
+          "start": 14.98,
+          "end": 15.12,
+          "probability": 0.63
+        },
+        {
+          "word": "đánh",
+          "start": 15.12,
+          "end": 15.28,
+          "probability": 0.66
+        },
+        {
+          "word": "ra",
+          "start": 15.28,
+          "end": 15.46,
+          "probability": 0.55
+        },
+        {
+          "word": "món",
+          "start": 15.46,
+          "end": 15.62,
+          "probability": 0.42
+        },
+        {
+          "word": "ăn",
+          "start": 15.62,
+          "end": 15.8,
+          "probability": 0.99
+        },
+        {
+          "word": "mạnh",
+          "start": 15.8,
+          "end": 16.0,
+          "probability": 0.58
+        },
+        {
+          "word": "quả",
+          "start": 16.0,
+          "end": 16.12,
+          "probability": 0.47
+        },
+        {
+          "word": "yên",
+          "start": 16.12,
+          "end": 16.32,
+          "probability": 0.19
+        },
+        {
+          "word": "sò",
+          "start": 16.32,
+          "end": 16.4,
+          "probability": 0.53
+        },
+        {
+          "word": "với",
+          "start": 16.4,
+          "end": 16.52,
+          "probability": 0.55
+        },
+        {
+          "word": "giá",
+          "start": 16.52,
+          "end": 16.7,
+          "probability": 0.99
+        },
+        {
+          "word": "thành.",
+          "start": 16.7,
+          "end": 17.08,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 17.38,
+      "end": 21.7,
+      "text": "Chà lời phong viên giân chỉ tối cùng ngày, bà lơ biết nha, phó hiệu chương chương chương hoặc phố thông chương vương.",
+      "words": [
+        {
+          "word": "Chà",
+          "start": 17.38,
+          "end": 17.52,
+          "probability": 0.31
+        },
+        {
+          "word": "lời",
+          "start": 17.52,
+          "end": 17.64,
+          "probability": 0.86
+        },
+        {
+          "word": "phong",
+          "start": 17.64,
+          "end": 17.8,
+          "probability": 0.68
+        },
+        {
+          "word": "viên",
+          "start": 17.8,
+          "end": 17.96,
+          "probability": 0.78
+        },
+        {
+          "word": "giân",
+          "start": 17.96,
+          "end": 18.12,
+          "probability": 0.19
+        },
+        {
+          "word": "chỉ",
+          "start": 18.12,
+          "end": 18.3,
+          "probability": 0.49
+        },
+        {
+          "word": "tối",
+          "start": 18.3,
+          "end": 18.46,
+          "probability": 0.76
+        },
+        {
+          "word": "cùng",
+          "start": 18.46,
+          "end": 18.64,
+          "probability": 0.92
+        },
+        {
+          "word": "ngày,",
+          "start": 18.64,
+          "end": 18.86,
+          "probability": 0.3
+        },
+        {
+          "word": "bà",
+          "start": 19.18,
+          "end": 19.24,
+          "probability": 0.55
+        },
+        {
+          "word": "lơ",
+          "start": 19.24,
+          "end": 19.36,
+          "probability": 0.43
+        },
+        {
+          "word": "biết",
+          "start": 19.36,
+          "end": 19.5,
+          "probability": 0.28
+        },
+        {
+          "word": "nha,",
+          "start": 19.5,
+          "end": 19.86,
+          "probability": 0.29
+        },
+        {
+          "word": "phó",
+          "start": 20.04,
+          "end": 20.14,
+          "probability": 0.88
+        },
+        {
+          "word": "hiệu",
+          "start": 20.14,
+          "end": 20.26,
+          "probability": 0.52
+        },
+        {
+          "word": "chương",
+          "start": 20.26,
+          "end": 20.52,
+          "probability": 0.46
+        },
+        {
+          "word": "chương",
+          "start": 20.52,
+          "end": 20.6,
+          "probability": 0.69
+        },
+        {
+          "word": "chương",
+          "start": 20.6,
+          "end": 20.66,
+          "probability": 0.65
+        },
+        {
+          "word": "hoặc",
+          "start": 20.66,
+          "end": 20.92,
+          "probability": 0.77
+        },
+        {
+          "word": "phố",
+          "start": 20.92,
+          "end": 21.08,
+          "probability": 0.96
+        },
+        {
+          "word": "thông",
+          "start": 21.08,
+          "end": 21.2,
+          "probability": 0.99
+        },
+        {
+          "word": "chương",
+          "start": 21.2,
+          "end": 21.42,
+          "probability": 0.97
+        },
+        {
+          "word": "vương.",
+          "start": 21.42,
+          "end": 21.7,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 21.7,
+      "end": 25.3,
+      "text": "Sau dạ nhìn ăn sức ăn nói chết là bữa chương con người của chương, như không đề đủ thụi.",
+      "words": [
+        {
+          "word": "Sau",
+          "start": 21.7,
+          "end": 22.0,
+          "probability": 0.4
+        },
+        {
+          "word": "dạ",
+          "start": 22.0,
+          "end": 22.14,
+          "probability": 0.13
+        },
+        {
+          "word": "nhìn",
+          "start": 22.14,
+          "end": 22.26,
+          "probability": 0.28
+        },
+        {
+          "word": "ăn",
+          "start": 22.26,
+          "end": 22.48,
+          "probability": 0.04
+        },
+        {
+          "word": "sức",
+          "start": 22.48,
+          "end": 22.62,
+          "probability": 0.64
+        },
+        {
+          "word": "ăn",
+          "start": 22.62,
+          "end": 22.82,
+          "probability": 0.52
+        },
+        {
+          "word": "nói",
+          "start": 22.82,
+          "end": 22.96,
+          "probability": 0.72
+        },
+        {
+          "word": "chết",
+          "start": 22.96,
+          "end": 23.14,
+          "probability": 0.24
+        },
+        {
+          "word": "là",
+          "start": 23.14,
+          "end": 23.26,
+          "probability": 0.96
+        },
+        {
+          "word": "bữa",
+          "start": 23.26,
+          "end": 23.42,
+          "probability": 0.7
+        },
+        {
+          "word": "chương",
+          "start": 23.42,
+          "end": 23.6,
+          "probability": 0.35
+        },
+        {
+          "word": "con",
+          "start": 23.6,
+          "end": 23.74,
+          "probability": 0.12
+        },
+        {
+          "word": "người",
+          "start": 23.74,
+          "end": 23.86,
+          "probability": 0.48
+        },
+        {
+          "word": "của",
+          "start": 23.86,
+          "end": 24.0,
+          "probability": 0.83
+        },
+        {
+          "word": "chương,",
+          "start": 24.0,
+          "end": 24.3,
+          "probability": 0.76
+        },
+        {
+          "word": "như",
+          "start": 24.52,
+          "end": 24.64,
+          "probability": 0.4
+        },
+        {
+          "word": "không",
+          "start": 24.64,
+          "end": 24.78,
+          "probability": 0.95
+        },
+        {
+          "word": "đề",
+          "start": 24.78,
+          "end": 24.9,
+          "probability": 0.5
+        },
+        {
+          "word": "đủ",
+          "start": 24.9,
+          "end": 25.06,
+          "probability": 0.89
+        },
+        {
+          "word": "thụi.",
+          "start": 25.06,
+          "end": 25.3,
+          "probability": 0.17
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 25.84,
+      "end": 29.56,
+      "text": "Bà cho biết sức ăn có giá bà mấy tám nhìn đồng, không phải bố mấy người đồng vyu phản ăn.",
+      "words": [
+        {
+          "word": "Bà",
+          "start": 25.84,
+          "end": 26.16,
+          "probability": 0.48
+        },
+        {
+          "word": "cho",
+          "start": 26.16,
+          "end": 26.26,
+          "probability": 0.67
+        },
+        {
+          "word": "biết",
+          "start": 26.26,
+          "end": 26.42,
+          "probability": 0.83
+        },
+        {
+          "word": "sức",
+          "start": 26.42,
+          "end": 26.6,
+          "probability": 0.76
+        },
+        {
+          "word": "ăn",
+          "start": 26.6,
+          "end": 26.76,
+          "probability": 0.99
+        },
+        {
+          "word": "có",
+          "start": 26.76,
+          "end": 26.9,
+          "probability": 0.72
+        },
+        {
+          "word": "giá",
+          "start": 26.9,
+          "end": 27.06,
+          "probability": 0.58
+        },
+        {
+          "word": "bà",
+          "start": 27.06,
+          "end": 27.24,
+          "probability": 0.38
+        },
+        {
+          "word": "mấy",
+          "start": 27.24,
+          "end": 27.38,
+          "probability": 0.1
+        },
+        {
+          "word": "tám",
+          "start": 27.38,
+          "end": 27.54,
+          "probability": 0.45
+        },
+        {
+          "word": "nhìn",
+          "start": 27.54,
+          "end": 27.7,
+          "probability": 0.53
+        },
+        {
+          "word": "đồng,",
+          "start": 27.7,
+          "end": 28.04,
+          "probability": 0.65
+        },
+        {
+          "word": "không",
+          "start": 28.24,
+          "end": 28.34,
+          "probability": 0.89
+        },
+        {
+          "word": "phải",
+          "start": 28.34,
+          "end": 28.5,
+          "probability": 0.99
+        },
+        {
+          "word": "bố",
+          "start": 28.5,
+          "end": 28.64,
+          "probability": 0.37
+        },
+        {
+          "word": "mấy",
+          "start": 28.64,
+          "end": 28.78,
+          "probability": 0.41
+        },
+        {
+          "word": "người",
+          "start": 28.78,
+          "end": 28.92,
+          "probability": 0.06
+        },
+        {
+          "word": "đồng",
+          "start": 28.92,
+          "end": 29.04,
+          "probability": 0.65
+        },
+        {
+          "word": "vyu",
+          "start": 29.04,
+          "end": 29.24,
+          "probability": 0.15
+        },
+        {
+          "word": "phản",
+          "start": 29.24,
+          "end": 29.38,
+          "probability": 0.64
+        },
+        {
+          "word": "ăn.",
+          "start": 29.38,
+          "end": 29.56,
+          "probability": 0.1
+        }
+      ]
+    }
+  ]
+}

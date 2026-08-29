@@ -1,0 +1,708 @@
+{
+  "item_id": "tt_7640455831602875664_65",
+  "duration_seconds": 29.73,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 99,
+  "text": "Nè xà cũng có 1 thơm Nè xà cũng em đi thấy 1 thơm Nè xà cũng có 1 thơm Nè xà cũng có 1 thơm đặc trưng Nè thì kè có thể gây ở chỗ thấy nhé Nè xà cũng đàn là sẽ 1 xô nữa Nè là 1 xô em xà đặc biệt Có 1 lượng với tựa nhỏ 1 lượng với tựa nhỏ Nè có thể gây ở chỗ thấy 1 lượng Nè xà cũng có 1 lượng với tựa nhỏ Nè xà cũng có 1 lượng với tựa nhỏ Nè có 1 lượng với tựa",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.08,
+      "text": "Nè xà cũng có 1 thơm",
+      "words": [
+        {
+          "word": "Nè",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.06
+        },
+        {
+          "word": "xà",
+          "start": 0.42,
+          "end": 0.6,
+          "probability": 0.14
+        },
+        {
+          "word": "cũng",
+          "start": 0.6,
+          "end": 0.7,
+          "probability": 0.12
+        },
+        {
+          "word": "có",
+          "start": 0.7,
+          "end": 0.92,
+          "probability": 0.24
+        },
+        {
+          "word": "1",
+          "start": 0.92,
+          "end": 1.02,
+          "probability": 0.28
+        },
+        {
+          "word": "thơm",
+          "start": 1.02,
+          "end": 2.08,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.08,
+      "end": 4.14,
+      "text": "Nè xà cũng em đi thấy 1 thơm",
+      "words": [
+        {
+          "word": "Nè",
+          "start": 2.08,
+          "end": 2.7,
+          "probability": 0.49
+        },
+        {
+          "word": "xà",
+          "start": 2.7,
+          "end": 3.04,
+          "probability": 0.79
+        },
+        {
+          "word": "cũng",
+          "start": 3.04,
+          "end": 3.26,
+          "probability": 0.39
+        },
+        {
+          "word": "em",
+          "start": 3.26,
+          "end": 3.66,
+          "probability": 0.07
+        },
+        {
+          "word": "đi",
+          "start": 3.66,
+          "end": 3.72,
+          "probability": 0.09
+        },
+        {
+          "word": "thấy",
+          "start": 3.72,
+          "end": 3.88,
+          "probability": 0.12
+        },
+        {
+          "word": "1",
+          "start": 3.88,
+          "end": 3.98,
+          "probability": 0.07
+        },
+        {
+          "word": "thơm",
+          "start": 3.98,
+          "end": 4.14,
+          "probability": 0.86
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.44,
+      "end": 7.42,
+      "text": "Nè xà cũng có 1 thơm",
+      "words": [
+        {
+          "word": "Nè",
+          "start": 5.44,
+          "end": 5.88,
+          "probability": 0.54
+        },
+        {
+          "word": "xà",
+          "start": 5.88,
+          "end": 6.32,
+          "probability": 0.9
+        },
+        {
+          "word": "cũng",
+          "start": 6.32,
+          "end": 6.58,
+          "probability": 0.63
+        },
+        {
+          "word": "có",
+          "start": 6.58,
+          "end": 6.8,
+          "probability": 0.14
+        },
+        {
+          "word": "1",
+          "start": 6.8,
+          "end": 7.42,
+          "probability": 0.93
+        },
+        {
+          "word": "thơm",
+          "start": 7.42,
+          "end": 7.42,
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 7.42,
+      "end": 9.32,
+      "text": "Nè xà cũng có 1 thơm đặc trưng",
+      "words": [
+        {
+          "word": "Nè",
+          "start": 7.42,
+          "end": 7.44,
+          "probability": 0.53
+        },
+        {
+          "word": "xà",
+          "start": 7.44,
+          "end": 7.76,
+          "probability": 0.78
+        },
+        {
+          "word": "cũng",
+          "start": 7.76,
+          "end": 7.78,
+          "probability": 0.87
+        },
+        {
+          "word": "có",
+          "start": 7.78,
+          "end": 8.12,
+          "probability": 0.06
+        },
+        {
+          "word": "1",
+          "start": 8.12,
+          "end": 8.26,
+          "probability": 0.94
+        },
+        {
+          "word": "thơm",
+          "start": 8.26,
+          "end": 8.42,
+          "probability": 0.96
+        },
+        {
+          "word": "đặc",
+          "start": 8.42,
+          "end": 8.66,
+          "probability": 0.52
+        },
+        {
+          "word": "trưng",
+          "start": 8.66,
+          "end": 9.32,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 9.32,
+      "end": 11.56,
+      "text": "Nè thì kè có thể gây ở chỗ thấy nhé",
+      "words": [
+        {
+          "word": "Nè",
+          "start": 9.32,
+          "end": 9.82,
+          "probability": 0.51
+        },
+        {
+          "word": "thì",
+          "start": 9.82,
+          "end": 10.02,
+          "probability": 0.27
+        },
+        {
+          "word": "kè",
+          "start": 10.02,
+          "end": 10.16,
+          "probability": 0.5
+        },
+        {
+          "word": "có",
+          "start": 10.16,
+          "end": 10.24,
+          "probability": 0.33
+        },
+        {
+          "word": "thể",
+          "start": 10.24,
+          "end": 10.38,
+          "probability": 0.63
+        },
+        {
+          "word": "gây",
+          "start": 10.38,
+          "end": 10.5,
+          "probability": 0.21
+        },
+        {
+          "word": "ở",
+          "start": 10.5,
+          "end": 10.64,
+          "probability": 0.44
+        },
+        {
+          "word": "chỗ",
+          "start": 10.64,
+          "end": 10.76,
+          "probability": 0.5
+        },
+        {
+          "word": "thấy",
+          "start": 10.76,
+          "end": 10.92,
+          "probability": 0.43
+        },
+        {
+          "word": "nhé",
+          "start": 10.92,
+          "end": 11.56,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.56,
+      "end": 13.62,
+      "text": "Nè xà cũng đàn là sẽ 1 xô nữa",
+      "words": [
+        {
+          "word": "Nè",
+          "start": 11.56,
+          "end": 11.8,
+          "probability": 0.67
+        },
+        {
+          "word": "xà",
+          "start": 11.8,
+          "end": 12.04,
+          "probability": 0.52
+        },
+        {
+          "word": "cũng",
+          "start": 12.04,
+          "end": 12.28,
+          "probability": 0.86
+        },
+        {
+          "word": "đàn",
+          "start": 12.28,
+          "end": 12.44,
+          "probability": 0.3
+        },
+        {
+          "word": "là",
+          "start": 12.44,
+          "end": 12.56,
+          "probability": 0.21
+        },
+        {
+          "word": "sẽ",
+          "start": 12.56,
+          "end": 12.68,
+          "probability": 0.72
+        },
+        {
+          "word": "1",
+          "start": 12.68,
+          "end": 12.82,
+          "probability": 0.95
+        },
+        {
+          "word": "xô",
+          "start": 12.82,
+          "end": 13.04,
+          "probability": 0.45
+        },
+        {
+          "word": "nữa",
+          "start": 13.04,
+          "end": 13.62,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 13.62,
+      "end": 15.8,
+      "text": "Nè là 1 xô em xà đặc biệt",
+      "words": [
+        {
+          "word": "Nè",
+          "start": 13.62,
+          "end": 13.82,
+          "probability": 0.12
+        },
+        {
+          "word": "là",
+          "start": 13.82,
+          "end": 14.46,
+          "probability": 0.61
+        },
+        {
+          "word": "1",
+          "start": 14.46,
+          "end": 14.6,
+          "probability": 0.43
+        },
+        {
+          "word": "xô",
+          "start": 14.6,
+          "end": 14.74,
+          "probability": 0.95
+        },
+        {
+          "word": "em",
+          "start": 14.74,
+          "end": 14.96,
+          "probability": 0.19
+        },
+        {
+          "word": "xà",
+          "start": 14.96,
+          "end": 15.2,
+          "probability": 0.59
+        },
+        {
+          "word": "đặc",
+          "start": 15.2,
+          "end": 15.38,
+          "probability": 0.52
+        },
+        {
+          "word": "biệt",
+          "start": 15.38,
+          "end": 15.8,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 15.8,
+      "end": 17.02,
+      "text": "Có 1 lượng với tựa nhỏ",
+      "words": [
+        {
+          "word": "Có",
+          "start": 15.8,
+          "end": 16.22,
+          "probability": 0.01
+        },
+        {
+          "word": "1",
+          "start": 16.22,
+          "end": 16.32,
+          "probability": 0.4
+        },
+        {
+          "word": "lượng",
+          "start": 16.32,
+          "end": 16.38,
+          "probability": 0.43
+        },
+        {
+          "word": "với",
+          "start": 16.38,
+          "end": 16.52,
+          "probability": 0.05
+        },
+        {
+          "word": "tựa",
+          "start": 16.52,
+          "end": 16.7,
+          "probability": 0.37
+        },
+        {
+          "word": "nhỏ",
+          "start": 16.7,
+          "end": 17.02,
+          "probability": 0.74
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 17.02,
+      "end": 18.08,
+      "text": "1 lượng với tựa nhỏ",
+      "words": [
+        {
+          "word": "1",
+          "start": 17.02,
+          "end": 17.3,
+          "probability": 0.01
+        },
+        {
+          "word": "lượng",
+          "start": 17.3,
+          "end": 17.38,
+          "probability": 0.7
+        },
+        {
+          "word": "với",
+          "start": 17.38,
+          "end": 18.08,
+          "probability": 0.19
+        },
+        {
+          "word": "tựa",
+          "start": 18.08,
+          "end": 18.08,
+          "probability": 0.98
+        },
+        {
+          "word": "nhỏ",
+          "start": 18.08,
+          "end": 18.08,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 18.08,
+      "end": 20.54,
+      "text": "Nè có thể gây ở chỗ thấy 1 lượng",
+      "words": [
+        {
+          "word": "Nè",
+          "start": 18.08,
+          "end": 18.36,
+          "probability": 0.08
+        },
+        {
+          "word": "có",
+          "start": 18.36,
+          "end": 18.36,
+          "probability": 0.03
+        },
+        {
+          "word": "thể",
+          "start": 18.36,
+          "end": 19.18,
+          "probability": 0.0
+        },
+        {
+          "word": "gây",
+          "start": 19.18,
+          "end": 19.6,
+          "probability": 0.98
+        },
+        {
+          "word": "ở",
+          "start": 19.6,
+          "end": 19.72,
+          "probability": 0.17
+        },
+        {
+          "word": "chỗ",
+          "start": 19.72,
+          "end": 19.82,
+          "probability": 0.63
+        },
+        {
+          "word": "thấy",
+          "start": 19.82,
+          "end": 19.82,
+          "probability": 0.03
+        },
+        {
+          "word": "1",
+          "start": 19.82,
+          "end": 20.3,
+          "probability": 0.24
+        },
+        {
+          "word": "lượng",
+          "start": 20.3,
+          "end": 20.54,
+          "probability": 0.85
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 20.54,
+      "end": 24.72,
+      "text": "Nè xà cũng có 1 lượng với tựa nhỏ",
+      "words": [
+        {
+          "word": "Nè",
+          "start": 20.54,
+          "end": 20.88,
+          "probability": 0.44
+        },
+        {
+          "word": "xà",
+          "start": 20.88,
+          "end": 21.86,
+          "probability": 0.55
+        },
+        {
+          "word": "cũng",
+          "start": 21.86,
+          "end": 23.3,
+          "probability": 0.19
+        },
+        {
+          "word": "có",
+          "start": 23.3,
+          "end": 23.38,
+          "probability": 0.79
+        },
+        {
+          "word": "1",
+          "start": 23.38,
+          "end": 23.7,
+          "probability": 0.71
+        },
+        {
+          "word": "lượng",
+          "start": 23.7,
+          "end": 23.96,
+          "probability": 0.98
+        },
+        {
+          "word": "với",
+          "start": 23.96,
+          "end": 24.58,
+          "probability": 0.9
+        },
+        {
+          "word": "tựa",
+          "start": 24.58,
+          "end": 24.58,
+          "probability": 0.99
+        },
+        {
+          "word": "nhỏ",
+          "start": 24.58,
+          "end": 24.72,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 24.72,
+      "end": 28.48,
+      "text": "Nè xà cũng có 1 lượng với tựa nhỏ",
+      "words": [
+        {
+          "word": "Nè",
+          "start": 24.72,
+          "end": 24.72,
+          "probability": 0.58
+        },
+        {
+          "word": "xà",
+          "start": 24.72,
+          "end": 25.98,
+          "probability": 0.48
+        },
+        {
+          "word": "cũng",
+          "start": 25.98,
+          "end": 27.46,
+          "probability": 0.88
+        },
+        {
+          "word": "có",
+          "start": 27.46,
+          "end": 27.46,
+          "probability": 0.74
+        },
+        {
+          "word": "1",
+          "start": 27.46,
+          "end": 27.68,
+          "probability": 0.87
+        },
+        {
+          "word": "lượng",
+          "start": 27.68,
+          "end": 27.7,
+          "probability": 1.0
+        },
+        {
+          "word": "với",
+          "start": 27.7,
+          "end": 27.86,
+          "probability": 0.91
+        },
+        {
+          "word": "tựa",
+          "start": 27.86,
+          "end": 28.06,
+          "probability": 0.99
+        },
+        {
+          "word": "nhỏ",
+          "start": 28.06,
+          "end": 28.48,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 28.48,
+      "end": 29.54,
+      "text": "Nè có 1 lượng với tựa",
+      "words": [
+        {
+          "word": "Nè",
+          "start": 28.48,
+          "end": 28.74,
+          "probability": 0.0
+        },
+        {
+          "word": "có",
+          "start": 28.74,
+          "end": 28.74,
+          "probability": 0.01
+        },
+        {
+          "word": "1",
+          "start": 28.74,
+          "end": 28.96,
+          "probability": 0.02
+        },
+        {
+          "word": "lượng",
+          "start": 28.96,
+          "end": 28.96,
+          "probability": 0.02
+        },
+        {
+          "word": "với",
+          "start": 28.96,
+          "end": 29.38,
+          "probability": 0.0
+        },
+        {
+          "word": "tựa",
+          "start": 29.38,
+          "end": 29.54,
+          "probability": 0.06
+        }
+      ]
+    }
+  ]
+}

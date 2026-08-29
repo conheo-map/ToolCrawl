@@ -1,0 +1,858 @@
+{
+  "item_id": "tt_7215239711114202370_01",
+  "duration_seconds": 28.21,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 128,
+  "text": "có sao? Chó ba điểm, đẹp a điểm bê và điểm bê Có đẹp đường hậm đi qua điểm bê, bung có bửa bê Rê game có được đi qua điểm bê, bung có bè thì các mừng hoặc ok cả, tọng thời dừng lại cái giả thích đã cách mừng hoặc ngon, cho nó cảm thấy tự tượng Để đây là đường hậm đi qua bê, bung có bè bê trước đi qua điểm bê, mà lại còn bung có với cả bê, kém để ý này khi mà kém có mức đường hậm đi qua bê, bê có bê bê thì kém tươi mình đi đây, ở đây, ở đây ở đây, giống như cái bê quan tay cái này điểm bê đây thì bạn đây",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.48,
+      "text": "có sao? Chó ba điểm, đẹp a điểm bê và điểm bê",
+      "words": [
+        {
+          "word": "có",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.08
+        },
+        {
+          "word": "sao?",
+          "start": 0.12,
+          "end": 0.26,
+          "probability": 0.03
+        },
+        {
+          "word": "Chó",
+          "start": 0.48,
+          "end": 0.84,
+          "probability": 0.12
+        },
+        {
+          "word": "ba",
+          "start": 0.84,
+          "end": 0.98,
+          "probability": 0.26
+        },
+        {
+          "word": "điểm,",
+          "start": 0.98,
+          "end": 1.24,
+          "probability": 0.91
+        },
+        {
+          "word": "đẹp",
+          "start": 1.58,
+          "end": 1.66,
+          "probability": 0.51
+        },
+        {
+          "word": "a",
+          "start": 1.66,
+          "end": 1.8,
+          "probability": 0.14
+        },
+        {
+          "word": "điểm",
+          "start": 1.8,
+          "end": 2.04,
+          "probability": 0.63
+        },
+        {
+          "word": "bê",
+          "start": 2.04,
+          "end": 2.26,
+          "probability": 0.47
+        },
+        {
+          "word": "và",
+          "start": 2.26,
+          "end": 2.4,
+          "probability": 0.73
+        },
+        {
+          "word": "điểm",
+          "start": 2.4,
+          "end": 2.8,
+          "probability": 0.99
+        },
+        {
+          "word": "bê",
+          "start": 2.8,
+          "end": 3.48,
+          "probability": 0.62
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.48,
+      "end": 6.86,
+      "text": "Có đẹp đường hậm đi qua điểm bê, bung có bửa bê",
+      "words": [
+        {
+          "word": "Có",
+          "start": 3.48,
+          "end": 4.04,
+          "probability": 0.02
+        },
+        {
+          "word": "đẹp",
+          "start": 4.04,
+          "end": 4.32,
+          "probability": 0.4
+        },
+        {
+          "word": "đường",
+          "start": 4.32,
+          "end": 4.38,
+          "probability": 0.09
+        },
+        {
+          "word": "hậm",
+          "start": 4.38,
+          "end": 4.72,
+          "probability": 0.55
+        },
+        {
+          "word": "đi",
+          "start": 4.72,
+          "end": 4.82,
+          "probability": 0.49
+        },
+        {
+          "word": "qua",
+          "start": 4.82,
+          "end": 4.96,
+          "probability": 0.61
+        },
+        {
+          "word": "điểm",
+          "start": 4.96,
+          "end": 5.2,
+          "probability": 0.96
+        },
+        {
+          "word": "bê,",
+          "start": 5.2,
+          "end": 5.42,
+          "probability": 0.99
+        },
+        {
+          "word": "bung",
+          "start": 5.62,
+          "end": 5.74,
+          "probability": 0.16
+        },
+        {
+          "word": "có",
+          "start": 5.74,
+          "end": 6.02,
+          "probability": 0.8
+        },
+        {
+          "word": "bửa",
+          "start": 6.02,
+          "end": 6.48,
+          "probability": 0.3
+        },
+        {
+          "word": "bê",
+          "start": 6.48,
+          "end": 6.86,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 6.86,
+      "end": 8.86,
+      "text": "Rê game có được đi qua điểm bê, bung có bè",
+      "words": [
+        {
+          "word": "Rê",
+          "start": 6.86,
+          "end": 7.04,
+          "probability": 0.05
+        },
+        {
+          "word": "game",
+          "start": 7.04,
+          "end": 7.22,
+          "probability": 0.67
+        },
+        {
+          "word": "có",
+          "start": 7.22,
+          "end": 7.42,
+          "probability": 0.99
+        },
+        {
+          "word": "được",
+          "start": 7.42,
+          "end": 7.62,
+          "probability": 0.71
+        },
+        {
+          "word": "đi",
+          "start": 7.62,
+          "end": 7.82,
+          "probability": 0.35
+        },
+        {
+          "word": "qua",
+          "start": 7.82,
+          "end": 8.02,
+          "probability": 1.0
+        },
+        {
+          "word": "điểm",
+          "start": 8.02,
+          "end": 8.22,
+          "probability": 0.99
+        },
+        {
+          "word": "bê,",
+          "start": 8.22,
+          "end": 8.42,
+          "probability": 1.0
+        },
+        {
+          "word": "bung",
+          "start": 8.56,
+          "end": 8.56,
+          "probability": 0.53
+        },
+        {
+          "word": "có",
+          "start": 8.56,
+          "end": 8.68,
+          "probability": 0.89
+        },
+        {
+          "word": "bè",
+          "start": 8.68,
+          "end": 8.86,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.36,
+      "end": 13.0,
+      "text": "thì các mừng hoặc ok cả, tọng thời dừng lại cái giả thích",
+      "words": [
+        {
+          "word": "thì",
+          "start": 10.36,
+          "end": 10.72,
+          "probability": 0.39
+        },
+        {
+          "word": "các",
+          "start": 10.72,
+          "end": 11.08,
+          "probability": 0.15
+        },
+        {
+          "word": "mừng",
+          "start": 11.08,
+          "end": 11.28,
+          "probability": 0.36
+        },
+        {
+          "word": "hoặc",
+          "start": 11.28,
+          "end": 11.6,
+          "probability": 0.36
+        },
+        {
+          "word": "ok",
+          "start": 11.6,
+          "end": 11.76,
+          "probability": 0.34
+        },
+        {
+          "word": "cả,",
+          "start": 11.76,
+          "end": 11.96,
+          "probability": 0.36
+        },
+        {
+          "word": "tọng",
+          "start": 11.96,
+          "end": 12.12,
+          "probability": 0.32
+        },
+        {
+          "word": "thời",
+          "start": 12.12,
+          "end": 12.28,
+          "probability": 0.29
+        },
+        {
+          "word": "dừng",
+          "start": 12.28,
+          "end": 12.42,
+          "probability": 0.42
+        },
+        {
+          "word": "lại",
+          "start": 12.42,
+          "end": 12.64,
+          "probability": 0.53
+        },
+        {
+          "word": "cái",
+          "start": 12.64,
+          "end": 12.8,
+          "probability": 0.45
+        },
+        {
+          "word": "giả",
+          "start": 12.8,
+          "end": 12.84,
+          "probability": 0.24
+        },
+        {
+          "word": "thích",
+          "start": 12.84,
+          "end": 13.0,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 13.0,
+      "end": 14.58,
+      "text": "đã cách mừng hoặc ngon, cho nó cảm thấy tự tượng",
+      "words": [
+        {
+          "word": "đã",
+          "start": 13.0,
+          "end": 13.26,
+          "probability": 0.12
+        },
+        {
+          "word": "cách",
+          "start": 13.26,
+          "end": 13.3,
+          "probability": 0.28
+        },
+        {
+          "word": "mừng",
+          "start": 13.3,
+          "end": 13.44,
+          "probability": 0.47
+        },
+        {
+          "word": "hoặc",
+          "start": 13.44,
+          "end": 13.68,
+          "probability": 0.74
+        },
+        {
+          "word": "ngon,",
+          "start": 13.68,
+          "end": 13.76,
+          "probability": 0.61
+        },
+        {
+          "word": "cho",
+          "start": 13.76,
+          "end": 13.96,
+          "probability": 0.21
+        },
+        {
+          "word": "nó",
+          "start": 13.96,
+          "end": 13.96,
+          "probability": 0.17
+        },
+        {
+          "word": "cảm",
+          "start": 13.96,
+          "end": 14.14,
+          "probability": 0.55
+        },
+        {
+          "word": "thấy",
+          "start": 14.14,
+          "end": 14.22,
+          "probability": 0.44
+        },
+        {
+          "word": "tự",
+          "start": 14.22,
+          "end": 14.44,
+          "probability": 0.29
+        },
+        {
+          "word": "tượng",
+          "start": 14.44,
+          "end": 14.58,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.58,
+      "end": 16.92,
+      "text": "Để đây là đường hậm đi qua bê, bung có bè bê trước",
+      "words": [
+        {
+          "word": "Để",
+          "start": 14.58,
+          "end": 15.0,
+          "probability": 0.16
+        },
+        {
+          "word": "đây",
+          "start": 15.0,
+          "end": 15.16,
+          "probability": 0.11
+        },
+        {
+          "word": "là",
+          "start": 15.16,
+          "end": 15.32,
+          "probability": 0.41
+        },
+        {
+          "word": "đường",
+          "start": 15.32,
+          "end": 15.38,
+          "probability": 0.72
+        },
+        {
+          "word": "hậm",
+          "start": 15.38,
+          "end": 15.56,
+          "probability": 0.95
+        },
+        {
+          "word": "đi",
+          "start": 15.56,
+          "end": 15.64,
+          "probability": 0.96
+        },
+        {
+          "word": "qua",
+          "start": 15.64,
+          "end": 15.8,
+          "probability": 1.0
+        },
+        {
+          "word": "bê,",
+          "start": 15.8,
+          "end": 16.0,
+          "probability": 0.99
+        },
+        {
+          "word": "bung",
+          "start": 16.12,
+          "end": 16.12,
+          "probability": 0.89
+        },
+        {
+          "word": "có",
+          "start": 16.12,
+          "end": 16.26,
+          "probability": 0.99
+        },
+        {
+          "word": "bè",
+          "start": 16.26,
+          "end": 16.36,
+          "probability": 0.9
+        },
+        {
+          "word": "bê",
+          "start": 16.36,
+          "end": 16.62,
+          "probability": 0.51
+        },
+        {
+          "word": "trước",
+          "start": 16.62,
+          "end": 16.92,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 16.92,
+      "end": 21.08,
+      "text": "đi qua điểm bê, mà lại còn bung có với cả bê, kém để ý này",
+      "words": [
+        {
+          "word": "đi",
+          "start": 16.92,
+          "end": 17.32,
+          "probability": 0.8
+        },
+        {
+          "word": "qua",
+          "start": 17.32,
+          "end": 17.52,
+          "probability": 1.0
+        },
+        {
+          "word": "điểm",
+          "start": 17.52,
+          "end": 17.78,
+          "probability": 0.99
+        },
+        {
+          "word": "bê,",
+          "start": 17.78,
+          "end": 18.12,
+          "probability": 1.0
+        },
+        {
+          "word": "mà",
+          "start": 18.28,
+          "end": 18.3,
+          "probability": 0.71
+        },
+        {
+          "word": "lại",
+          "start": 18.3,
+          "end": 18.4,
+          "probability": 0.43
+        },
+        {
+          "word": "còn",
+          "start": 18.4,
+          "end": 18.56,
+          "probability": 0.94
+        },
+        {
+          "word": "bung",
+          "start": 18.56,
+          "end": 18.78,
+          "probability": 0.69
+        },
+        {
+          "word": "có",
+          "start": 18.78,
+          "end": 19.06,
+          "probability": 0.96
+        },
+        {
+          "word": "với",
+          "start": 19.06,
+          "end": 19.2,
+          "probability": 0.23
+        },
+        {
+          "word": "cả",
+          "start": 19.2,
+          "end": 19.42,
+          "probability": 0.71
+        },
+        {
+          "word": "bê,",
+          "start": 19.42,
+          "end": 19.9,
+          "probability": 0.73
+        },
+        {
+          "word": "kém",
+          "start": 20.12,
+          "end": 20.12,
+          "probability": 0.21
+        },
+        {
+          "word": "để",
+          "start": 20.12,
+          "end": 20.24,
+          "probability": 0.64
+        },
+        {
+          "word": "ý",
+          "start": 20.24,
+          "end": 20.58,
+          "probability": 0.47
+        },
+        {
+          "word": "này",
+          "start": 20.58,
+          "end": 21.08,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 21.08,
+      "end": 23.16,
+      "text": "khi mà kém có mức đường hậm đi qua bê, bê có bê bê",
+      "words": [
+        {
+          "word": "khi",
+          "start": 21.08,
+          "end": 21.4,
+          "probability": 0.27
+        },
+        {
+          "word": "mà",
+          "start": 21.4,
+          "end": 21.52,
+          "probability": 0.61
+        },
+        {
+          "word": "kém",
+          "start": 21.52,
+          "end": 21.64,
+          "probability": 0.84
+        },
+        {
+          "word": "có",
+          "start": 21.64,
+          "end": 21.74,
+          "probability": 0.9
+        },
+        {
+          "word": "mức",
+          "start": 21.74,
+          "end": 21.88,
+          "probability": 0.49
+        },
+        {
+          "word": "đường",
+          "start": 21.88,
+          "end": 22.02,
+          "probability": 0.75
+        },
+        {
+          "word": "hậm",
+          "start": 22.02,
+          "end": 22.22,
+          "probability": 0.91
+        },
+        {
+          "word": "đi",
+          "start": 22.22,
+          "end": 22.36,
+          "probability": 0.93
+        },
+        {
+          "word": "qua",
+          "start": 22.36,
+          "end": 22.44,
+          "probability": 0.99
+        },
+        {
+          "word": "bê,",
+          "start": 22.44,
+          "end": 22.58,
+          "probability": 1.0
+        },
+        {
+          "word": "bê",
+          "start": 22.7,
+          "end": 22.74,
+          "probability": 0.47
+        },
+        {
+          "word": "có",
+          "start": 22.74,
+          "end": 22.74,
+          "probability": 0.7
+        },
+        {
+          "word": "bê",
+          "start": 22.74,
+          "end": 22.86,
+          "probability": 0.86
+        },
+        {
+          "word": "bê",
+          "start": 22.86,
+          "end": 23.16,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 23.16,
+      "end": 26.92,
+      "text": "thì kém tươi mình đi đây, ở đây, ở đây ở đây, giống như cái bê quan tay cái này",
+      "words": [
+        {
+          "word": "thì",
+          "start": 23.16,
+          "end": 23.82,
+          "probability": 0.12
+        },
+        {
+          "word": "kém",
+          "start": 23.82,
+          "end": 24.04,
+          "probability": 0.67
+        },
+        {
+          "word": "tươi",
+          "start": 24.04,
+          "end": 24.3,
+          "probability": 0.22
+        },
+        {
+          "word": "mình",
+          "start": 24.3,
+          "end": 24.44,
+          "probability": 0.13
+        },
+        {
+          "word": "đi",
+          "start": 24.44,
+          "end": 24.54,
+          "probability": 0.22
+        },
+        {
+          "word": "đây,",
+          "start": 24.54,
+          "end": 24.78,
+          "probability": 0.43
+        },
+        {
+          "word": "ở",
+          "start": 25.08,
+          "end": 25.1,
+          "probability": 0.23
+        },
+        {
+          "word": "đây,",
+          "start": 25.1,
+          "end": 25.22,
+          "probability": 0.93
+        },
+        {
+          "word": "ở",
+          "start": 25.3,
+          "end": 25.3,
+          "probability": 0.42
+        },
+        {
+          "word": "đây",
+          "start": 25.3,
+          "end": 25.32,
+          "probability": 0.82
+        },
+        {
+          "word": "ở",
+          "start": 25.32,
+          "end": 25.32,
+          "probability": 0.44
+        },
+        {
+          "word": "đây,",
+          "start": 25.32,
+          "end": 25.6,
+          "probability": 0.82
+        },
+        {
+          "word": "giống",
+          "start": 25.84,
+          "end": 25.84,
+          "probability": 0.52
+        },
+        {
+          "word": "như",
+          "start": 25.84,
+          "end": 25.94,
+          "probability": 0.88
+        },
+        {
+          "word": "cái",
+          "start": 25.94,
+          "end": 26.06,
+          "probability": 0.28
+        },
+        {
+          "word": "bê",
+          "start": 26.06,
+          "end": 26.2,
+          "probability": 0.38
+        },
+        {
+          "word": "quan",
+          "start": 26.2,
+          "end": 26.36,
+          "probability": 0.17
+        },
+        {
+          "word": "tay",
+          "start": 26.36,
+          "end": 26.46,
+          "probability": 0.47
+        },
+        {
+          "word": "cái",
+          "start": 26.46,
+          "end": 26.62,
+          "probability": 0.1
+        },
+        {
+          "word": "này",
+          "start": 26.62,
+          "end": 26.92,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 26.92,
+      "end": 28.18,
+      "text": "điểm bê đây thì bạn đây",
+      "words": [
+        {
+          "word": "điểm",
+          "start": 26.92,
+          "end": 27.32,
+          "probability": 0.28
+        },
+        {
+          "word": "bê",
+          "start": 27.32,
+          "end": 27.48,
+          "probability": 0.28
+        },
+        {
+          "word": "đây",
+          "start": 27.48,
+          "end": 27.62,
+          "probability": 0.39
+        },
+        {
+          "word": "thì",
+          "start": 27.62,
+          "end": 27.72,
+          "probability": 0.46
+        },
+        {
+          "word": "bạn",
+          "start": 27.72,
+          "end": 27.88,
+          "probability": 0.29
+        },
+        {
+          "word": "đây",
+          "start": 27.88,
+          "end": 28.18,
+          "probability": 0.38
+        }
+      ]
+    }
+  ]
+}

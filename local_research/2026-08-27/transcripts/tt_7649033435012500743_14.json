@@ -1,0 +1,72 @@
+{
+  "item_id": "tt_7649033435012500743_14",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "Chúng tôi đã làm vấn đề và vấn đề.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.62,
+      "end": 2.66,
+      "text": "Chúng tôi đã làm vấn đề và vấn đề.",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 0.62,
+          "end": 1.16,
+          "probability": 0.13
+        },
+        {
+          "word": "tôi",
+          "start": 1.16,
+          "end": 1.26,
+          "probability": 0.11
+        },
+        {
+          "word": "đã",
+          "start": 1.26,
+          "end": 1.44,
+          "probability": 0.09
+        },
+        {
+          "word": "làm",
+          "start": 1.44,
+          "end": 1.62,
+          "probability": 0.03
+        },
+        {
+          "word": "vấn",
+          "start": 1.62,
+          "end": 1.8,
+          "probability": 0.03
+        },
+        {
+          "word": "đề",
+          "start": 1.8,
+          "end": 2.04,
+          "probability": 0.44
+        },
+        {
+          "word": "và",
+          "start": 2.04,
+          "end": 2.32,
+          "probability": 0.02
+        },
+        {
+          "word": "vấn",
+          "start": 2.32,
+          "end": 2.64,
+          "probability": 0.33
+        },
+        {
+          "word": "đề.",
+          "start": 2.64,
+          "end": 2.66,
+          "probability": 0.94
+        }
+      ]
+    }
+  ]
+}

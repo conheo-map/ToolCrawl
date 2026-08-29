@@ -1,0 +1,48 @@
+{
+  "item_id": "tt_7670507232634686741_32",
+  "duration_seconds": 28.01,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 5,
+  "text": "Ok, giã sĩn nhận được.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.74,
+      "end": 25.49,
+      "text": "Ok, giã sĩn nhận được.",
+      "words": [
+        {
+          "word": "Ok,",
+          "start": 1.74,
+          "end": 2.2,
+          "probability": 0.05
+        },
+        {
+          "word": "giã",
+          "start": 24.63,
+          "end": 24.81,
+          "probability": 0.1
+        },
+        {
+          "word": "sĩn",
+          "start": 24.81,
+          "end": 25.19,
+          "probability": 0.19
+        },
+        {
+          "word": "nhận",
+          "start": 25.19,
+          "end": 25.23,
+          "probability": 0.17
+        },
+        {
+          "word": "được.",
+          "start": 25.23,
+          "end": 25.49,
+          "probability": 0.37
+        }
+      ]
+    }
+  ]
+}

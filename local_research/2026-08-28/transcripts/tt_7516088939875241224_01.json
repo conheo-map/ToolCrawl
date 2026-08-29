@@ -1,0 +1,70 @@
+{
+  "item_id": "tt_7516088939875241224_01",
+  "duration_seconds": 22.78,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Nhữu 2 Nhữu 1 Nhữu 2",
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.51,
+      "end": 3.77,
+      "text": "Nhữu 2",
+      "words": [
+        {
+          "word": "Nhữu",
+          "start": 2.51,
+          "end": 3.77,
+          "probability": 0.05
+        },
+        {
+          "word": "2",
+          "start": 3.77,
+          "end": 3.77,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.77,
+      "end": 5.71,
+      "text": "Nhữu 1",
+      "words": [
+        {
+          "word": "Nhữu",
+          "start": 3.77,
+          "end": 4.99,
+          "probability": 0.61
+        },
+        {
+          "word": "1",
+          "start": 4.99,
+          "end": 5.71,
+          "probability": 0.06
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.71,
+      "end": 10.33,
+      "text": "Nhữu 2",
+      "words": [
+        {
+          "word": "Nhữu",
+          "start": 5.71,
+          "end": 6.09,
+          "probability": 0.92
+        },
+        {
+          "word": "2",
+          "start": 6.09,
+          "end": 10.33,
+          "probability": 0.42
+        }
+      ]
+    }
+  ]
+}

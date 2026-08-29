@@ -1,0 +1,556 @@
+{
+  "item_id": "tt_7678619688284196114_04",
+  "duration_seconds": 27.05,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 79,
+  "text": "thì đồ ăn thì cái cướng rất là oky thì cái giả thì là đá sẽ cái giả khánh rất dễ nó không có bắt đẹp dưới thì nó đồ ăn dưới rất là mong và các thịt rất là rạng yếu và dự giá Chu còn bánh này là bà chân thị lạng, xuống như tuổi sau khi đổi tiếng, vi lượng khách đi rất đồng đi tử dưới và ngay đứt tay luôn chân chân cưỡ kênh",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 2.11,
+      "text": "thì đồ ăn thì cái cướng rất là oky",
+      "words": [
+        {
+          "word": "thì",
+          "start": 0.11,
+          "end": 0.67,
+          "probability": 0.21
+        },
+        {
+          "word": "đồ",
+          "start": 0.67,
+          "end": 0.89,
+          "probability": 0.57
+        },
+        {
+          "word": "ăn",
+          "start": 0.89,
+          "end": 1.03,
+          "probability": 0.97
+        },
+        {
+          "word": "thì",
+          "start": 1.03,
+          "end": 1.21,
+          "probability": 0.3
+        },
+        {
+          "word": "cái",
+          "start": 1.21,
+          "end": 1.49,
+          "probability": 0.13
+        },
+        {
+          "word": "cướng",
+          "start": 1.49,
+          "end": 1.57,
+          "probability": 0.36
+        },
+        {
+          "word": "rất",
+          "start": 1.57,
+          "end": 1.83,
+          "probability": 0.7
+        },
+        {
+          "word": "là",
+          "start": 1.83,
+          "end": 1.83,
+          "probability": 0.75
+        },
+        {
+          "word": "oky",
+          "start": 1.83,
+          "end": 2.11,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.81,
+      "end": 3.93,
+      "text": "thì cái giả",
+      "words": [
+        {
+          "word": "thì",
+          "start": 2.81,
+          "end": 3.29,
+          "probability": 0.06
+        },
+        {
+          "word": "cái",
+          "start": 3.29,
+          "end": 3.45,
+          "probability": 0.83
+        },
+        {
+          "word": "giả",
+          "start": 3.45,
+          "end": 3.93,
+          "probability": 0.43
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.93,
+      "end": 6.39,
+      "text": "thì là đá sẽ cái giả khánh rất dễ",
+      "words": [
+        {
+          "word": "thì",
+          "start": 3.93,
+          "end": 4.67,
+          "probability": 0.14
+        },
+        {
+          "word": "là",
+          "start": 4.67,
+          "end": 4.85,
+          "probability": 0.56
+        },
+        {
+          "word": "đá",
+          "start": 4.85,
+          "end": 5.13,
+          "probability": 0.35
+        },
+        {
+          "word": "sẽ",
+          "start": 5.13,
+          "end": 5.37,
+          "probability": 0.21
+        },
+        {
+          "word": "cái",
+          "start": 5.37,
+          "end": 5.43,
+          "probability": 0.17
+        },
+        {
+          "word": "giả",
+          "start": 5.43,
+          "end": 5.55,
+          "probability": 0.74
+        },
+        {
+          "word": "khánh",
+          "start": 5.55,
+          "end": 5.71,
+          "probability": 0.18
+        },
+        {
+          "word": "rất",
+          "start": 5.71,
+          "end": 5.91,
+          "probability": 0.83
+        },
+        {
+          "word": "dễ",
+          "start": 5.91,
+          "end": 6.39,
+          "probability": 0.34
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.39,
+      "end": 11.87,
+      "text": "nó không có bắt đẹp dưới",
+      "words": [
+        {
+          "word": "nó",
+          "start": 6.39,
+          "end": 6.79,
+          "probability": 0.01
+        },
+        {
+          "word": "không",
+          "start": 6.79,
+          "end": 7.51,
+          "probability": 0.01
+        },
+        {
+          "word": "có",
+          "start": 7.51,
+          "end": 9.71,
+          "probability": 0.05
+        },
+        {
+          "word": "bắt",
+          "start": 9.71,
+          "end": 11.37,
+          "probability": 0.11
+        },
+        {
+          "word": "đẹp",
+          "start": 11.37,
+          "end": 11.69,
+          "probability": 0.44
+        },
+        {
+          "word": "dưới",
+          "start": 11.69,
+          "end": 11.87,
+          "probability": 0.51
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.87,
+      "end": 14.15,
+      "text": "thì nó đồ ăn dưới rất là mong",
+      "words": [
+        {
+          "word": "thì",
+          "start": 11.87,
+          "end": 12.01,
+          "probability": 0.01
+        },
+        {
+          "word": "nó",
+          "start": 12.01,
+          "end": 12.31,
+          "probability": 0.02
+        },
+        {
+          "word": "đồ",
+          "start": 12.31,
+          "end": 13.09,
+          "probability": 0.51
+        },
+        {
+          "word": "ăn",
+          "start": 13.09,
+          "end": 13.29,
+          "probability": 0.99
+        },
+        {
+          "word": "dưới",
+          "start": 13.29,
+          "end": 13.41,
+          "probability": 0.72
+        },
+        {
+          "word": "rất",
+          "start": 13.41,
+          "end": 13.61,
+          "probability": 0.43
+        },
+        {
+          "word": "là",
+          "start": 13.61,
+          "end": 13.69,
+          "probability": 0.75
+        },
+        {
+          "word": "mong",
+          "start": 13.69,
+          "end": 14.15,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 14.83,
+      "end": 17.41,
+      "text": "và các thịt rất là rạng yếu và dự giá",
+      "words": [
+        {
+          "word": "và",
+          "start": 14.83,
+          "end": 15.31,
+          "probability": 0.01
+        },
+        {
+          "word": "các",
+          "start": 15.31,
+          "end": 15.63,
+          "probability": 0.0
+        },
+        {
+          "word": "thịt",
+          "start": 15.63,
+          "end": 15.79,
+          "probability": 0.24
+        },
+        {
+          "word": "rất",
+          "start": 15.79,
+          "end": 16.05,
+          "probability": 0.27
+        },
+        {
+          "word": "là",
+          "start": 16.05,
+          "end": 16.43,
+          "probability": 0.96
+        },
+        {
+          "word": "rạng",
+          "start": 16.43,
+          "end": 16.69,
+          "probability": 0.2
+        },
+        {
+          "word": "yếu",
+          "start": 16.69,
+          "end": 16.83,
+          "probability": 0.33
+        },
+        {
+          "word": "và",
+          "start": 16.83,
+          "end": 16.99,
+          "probability": 0.16
+        },
+        {
+          "word": "dự",
+          "start": 16.99,
+          "end": 17.17,
+          "probability": 0.64
+        },
+        {
+          "word": "giá",
+          "start": 17.17,
+          "end": 17.41,
+          "probability": 0.25
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.75,
+      "end": 21.57,
+      "text": "Chu còn bánh này là bà chân thị lạng, xuống như tuổi",
+      "words": [
+        {
+          "word": "Chu",
+          "start": 18.75,
+          "end": 19.23,
+          "probability": 0.03
+        },
+        {
+          "word": "còn",
+          "start": 19.23,
+          "end": 19.41,
+          "probability": 0.13
+        },
+        {
+          "word": "bánh",
+          "start": 19.41,
+          "end": 19.57,
+          "probability": 0.46
+        },
+        {
+          "word": "này",
+          "start": 19.57,
+          "end": 19.73,
+          "probability": 0.48
+        },
+        {
+          "word": "là",
+          "start": 19.73,
+          "end": 19.97,
+          "probability": 0.91
+        },
+        {
+          "word": "bà",
+          "start": 19.97,
+          "end": 20.15,
+          "probability": 0.35
+        },
+        {
+          "word": "chân",
+          "start": 20.15,
+          "end": 20.25,
+          "probability": 0.24
+        },
+        {
+          "word": "thị",
+          "start": 20.25,
+          "end": 20.51,
+          "probability": 0.41
+        },
+        {
+          "word": "lạng,",
+          "start": 20.51,
+          "end": 20.77,
+          "probability": 0.35
+        },
+        {
+          "word": "xuống",
+          "start": 20.93,
+          "end": 20.93,
+          "probability": 0.57
+        },
+        {
+          "word": "như",
+          "start": 20.93,
+          "end": 21.09,
+          "probability": 0.44
+        },
+        {
+          "word": "tuổi",
+          "start": 21.09,
+          "end": 21.57,
+          "probability": 0.66
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 21.57,
+      "end": 24.75,
+      "text": "sau khi đổi tiếng, vi lượng khách đi rất đồng đi tử dưới",
+      "words": [
+        {
+          "word": "sau",
+          "start": 21.57,
+          "end": 21.87,
+          "probability": 0.18
+        },
+        {
+          "word": "khi",
+          "start": 21.87,
+          "end": 21.99,
+          "probability": 0.98
+        },
+        {
+          "word": "đổi",
+          "start": 21.99,
+          "end": 22.17,
+          "probability": 0.62
+        },
+        {
+          "word": "tiếng,",
+          "start": 22.17,
+          "end": 22.69,
+          "probability": 0.65
+        },
+        {
+          "word": "vi",
+          "start": 22.85,
+          "end": 22.91,
+          "probability": 0.12
+        },
+        {
+          "word": "lượng",
+          "start": 22.91,
+          "end": 22.99,
+          "probability": 0.64
+        },
+        {
+          "word": "khách",
+          "start": 22.99,
+          "end": 23.25,
+          "probability": 0.78
+        },
+        {
+          "word": "đi",
+          "start": 23.25,
+          "end": 23.43,
+          "probability": 0.26
+        },
+        {
+          "word": "rất",
+          "start": 23.43,
+          "end": 23.59,
+          "probability": 0.09
+        },
+        {
+          "word": "đồng",
+          "start": 23.59,
+          "end": 23.91,
+          "probability": 0.63
+        },
+        {
+          "word": "đi",
+          "start": 23.91,
+          "end": 24.23,
+          "probability": 0.63
+        },
+        {
+          "word": "tử",
+          "start": 24.23,
+          "end": 24.45,
+          "probability": 0.39
+        },
+        {
+          "word": "dưới",
+          "start": 24.45,
+          "end": 24.75,
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 24.75,
+      "end": 26.79,
+      "text": "và ngay đứt tay luôn chân chân cưỡ kênh",
+      "words": [
+        {
+          "word": "và",
+          "start": 24.75,
+          "end": 24.99,
+          "probability": 0.04
+        },
+        {
+          "word": "ngay",
+          "start": 24.99,
+          "end": 25.23,
+          "probability": 0.29
+        },
+        {
+          "word": "đứt",
+          "start": 25.23,
+          "end": 25.45,
+          "probability": 0.33
+        },
+        {
+          "word": "tay",
+          "start": 25.45,
+          "end": 25.71,
+          "probability": 0.72
+        },
+        {
+          "word": "luôn",
+          "start": 25.71,
+          "end": 25.91,
+          "probability": 0.95
+        },
+        {
+          "word": "chân",
+          "start": 25.91,
+          "end": 26.15,
+          "probability": 0.41
+        },
+        {
+          "word": "chân",
+          "start": 26.15,
+          "end": 26.43,
+          "probability": 0.15
+        },
+        {
+          "word": "cưỡ",
+          "start": 26.43,
+          "end": 26.73,
+          "probability": 0.16
+        },
+        {
+          "word": "kênh",
+          "start": 26.73,
+          "end": 26.79,
+          "probability": 0.34
+        }
+      ]
+    }
+  ]
+}

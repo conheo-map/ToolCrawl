@@ -1,0 +1,86 @@
+{
+  "item_id": "tt_7670082646080261397_05",
+  "duration_seconds": 28.66,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 10,
+  "text": "Nói mọi người mọi người mọi người Nói mọi người",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 2.19,
+      "text": "Nói mọi người mọi người mọi người",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 0.05,
+          "end": 0.59,
+          "probability": 0.36
+        },
+        {
+          "word": "mọi",
+          "start": 0.59,
+          "end": 0.79,
+          "probability": 0.26
+        },
+        {
+          "word": "người",
+          "start": 0.79,
+          "end": 0.97,
+          "probability": 0.3
+        },
+        {
+          "word": "mọi",
+          "start": 0.97,
+          "end": 1.33,
+          "probability": 0.14
+        },
+        {
+          "word": "người",
+          "start": 1.33,
+          "end": 1.33,
+          "probability": 0.85
+        },
+        {
+          "word": "mọi",
+          "start": 1.33,
+          "end": 2.19,
+          "probability": 0.32
+        },
+        {
+          "word": "người",
+          "start": 2.19,
+          "end": 2.19,
+          "probability": 0.96
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 26.81,
+      "end": 28.63,
+      "text": "Nói mọi người",
+      "words": [
+        {
+          "word": "Nói",
+          "start": 26.81,
+          "end": 27.71,
+          "probability": 0.64
+        },
+        {
+          "word": "mọi",
+          "start": 27.71,
+          "end": 28.61,
+          "probability": 0.9
+        },
+        {
+          "word": "người",
+          "start": 28.61,
+          "end": 28.63,
+          "probability": 1.0
+        }
+      ]
+    }
+  ]
+}

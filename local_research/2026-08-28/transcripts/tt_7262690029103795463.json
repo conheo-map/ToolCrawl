@@ -1,0 +1,142 @@
+{
+  "item_id": "tt_7262690029103795463",
+  "duration_seconds": 15.88,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 18,
+  "text": "Một hôm nay, Một hôm nay nè. Một hôm nay, Một hôm nay nè. Một hôm nay nè.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.98,
+      "end": 3.46,
+      "text": "Một hôm nay, Một hôm nay nè.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 0.98,
+          "end": 1.52,
+          "probability": 0.26
+        },
+        {
+          "word": "hôm",
+          "start": 1.52,
+          "end": 1.86,
+          "probability": 0.08
+        },
+        {
+          "word": "nay,",
+          "start": 1.86,
+          "end": 2.78,
+          "probability": 0.25
+        },
+        {
+          "word": "Một",
+          "start": 2.84,
+          "end": 3.06,
+          "probability": 0.5
+        },
+        {
+          "word": "hôm",
+          "start": 3.06,
+          "end": 3.18,
+          "probability": 0.65
+        },
+        {
+          "word": "nay",
+          "start": 3.18,
+          "end": 3.18,
+          "probability": 0.88
+        },
+        {
+          "word": "nè.",
+          "start": 3.18,
+          "end": 3.46,
+          "probability": 0.19
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.78,
+      "end": 5.42,
+      "text": "Một hôm nay, Một hôm nay nè.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 3.78,
+          "end": 4.2,
+          "probability": 0.94
+        },
+        {
+          "word": "hôm",
+          "start": 4.2,
+          "end": 4.46,
+          "probability": 0.42
+        },
+        {
+          "word": "nay,",
+          "start": 4.46,
+          "end": 4.46,
+          "probability": 0.94
+        },
+        {
+          "word": "Một",
+          "start": 4.54,
+          "end": 4.54,
+          "probability": 0.89
+        },
+        {
+          "word": "hôm",
+          "start": 4.54,
+          "end": 4.54,
+          "probability": 0.72
+        },
+        {
+          "word": "nay",
+          "start": 4.54,
+          "end": 4.8,
+          "probability": 0.97
+        },
+        {
+          "word": "nè.",
+          "start": 4.8,
+          "end": 5.42,
+          "probability": 0.59
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 5.42,
+      "end": 5.5,
+      "text": "Một hôm nay nè.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 5.42,
+          "end": 5.5,
+          "probability": 0.95
+        },
+        {
+          "word": "hôm",
+          "start": 5.5,
+          "end": 5.5,
+          "probability": 0.68
+        },
+        {
+          "word": "nay",
+          "start": 5.5,
+          "end": 5.5,
+          "probability": 0.97
+        },
+        {
+          "word": "nè.",
+          "start": 5.5,
+          "end": 5.5,
+          "probability": 0.74
+        }
+      ]
+    }
+  ]
+}

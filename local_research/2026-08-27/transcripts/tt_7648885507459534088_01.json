@@ -1,0 +1,68 @@
+{
+  "item_id": "tt_7648885507459534088_01",
+  "duration_seconds": 16.51,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 7,
+  "text": "Well, are you ready? Here we go!",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.12,
+      "text": "Well, are you ready?",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.0
+        },
+        {
+          "word": "are",
+          "start": 0.96,
+          "end": 1.0,
+          "probability": 0.34
+        },
+        {
+          "word": "you",
+          "start": 1.0,
+          "end": 1.36,
+          "probability": 0.99
+        },
+        {
+          "word": "ready?",
+          "start": 1.36,
+          "end": 2.12,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.06,
+      "end": 4.06,
+      "text": "Here we go!",
+      "words": [
+        {
+          "word": "Here",
+          "start": 3.06,
+          "end": 3.28,
+          "probability": 0.87
+        },
+        {
+          "word": "we",
+          "start": 3.28,
+          "end": 3.52,
+          "probability": 1.0
+        },
+        {
+          "word": "go!",
+          "start": 3.52,
+          "end": 4.06,
+          "probability": 1.0
+        }
+      ]
+    }
+  ]
+}

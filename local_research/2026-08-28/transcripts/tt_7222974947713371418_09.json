@@ -1,0 +1,798 @@
+{
+  "item_id": "tt_7222974947713371418_09",
+  "duration_seconds": 25.64,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 118,
+  "text": "Tại sao? Để có đầy của khu vì khóa Chúng ta nói cái giai cho được hẳn nề thì mà xe đi thuộc đường thẳng đi Dạ bà dưới đây, thuộc đi Đưới nếu dầu kèng dìm, có có thể trọng rbcd để đi làm được thử thôi Đối dưới năng, ít mạnh hai, mình không rất bởi mạo Mong ngàn hội, a chúng ngon, mình mới muốn nữa, để gạo xe đi thuộc Đối dưới đi, có ngon, kên có cầu ăn đúng luôn rồi Nếu mình để chặt trường đi nữa có số mẹ năm trong mọi khoảng thứ khó lý xuống cùng đi động hàng quan số lệ 1 và 1 của em là gì?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.24,
+      "end": 0.84,
+      "text": "Tại sao?",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 0.24,
+          "end": 0.7,
+          "probability": 0.08
+        },
+        {
+          "word": "sao?",
+          "start": 0.7,
+          "end": 0.84,
+          "probability": 0.37
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.6,
+      "end": 3.94,
+      "text": "Để có đầy của khu vì khóa",
+      "words": [
+        {
+          "word": "Để",
+          "start": 2.6,
+          "end": 2.92,
+          "probability": 0.17
+        },
+        {
+          "word": "có",
+          "start": 2.92,
+          "end": 3.0,
+          "probability": 0.22
+        },
+        {
+          "word": "đầy",
+          "start": 3.0,
+          "end": 3.14,
+          "probability": 0.46
+        },
+        {
+          "word": "của",
+          "start": 3.14,
+          "end": 3.22,
+          "probability": 0.53
+        },
+        {
+          "word": "khu",
+          "start": 3.22,
+          "end": 3.42,
+          "probability": 0.27
+        },
+        {
+          "word": "vì",
+          "start": 3.42,
+          "end": 3.46,
+          "probability": 0.15
+        },
+        {
+          "word": "khóa",
+          "start": 3.46,
+          "end": 3.94,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.94,
+      "end": 6.72,
+      "text": "Chúng ta nói cái giai cho được hẳn nề thì mà xe đi thuộc đường thẳng đi",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 3.94,
+          "end": 4.22,
+          "probability": 0.29
+        },
+        {
+          "word": "ta",
+          "start": 4.22,
+          "end": 4.3,
+          "probability": 0.26
+        },
+        {
+          "word": "nói",
+          "start": 4.3,
+          "end": 4.42,
+          "probability": 0.18
+        },
+        {
+          "word": "cái",
+          "start": 4.42,
+          "end": 4.5,
+          "probability": 0.11
+        },
+        {
+          "word": "giai",
+          "start": 4.5,
+          "end": 4.58,
+          "probability": 0.32
+        },
+        {
+          "word": "cho",
+          "start": 4.58,
+          "end": 4.7,
+          "probability": 0.61
+        },
+        {
+          "word": "được",
+          "start": 4.7,
+          "end": 4.86,
+          "probability": 0.3
+        },
+        {
+          "word": "hẳn",
+          "start": 4.86,
+          "end": 4.92,
+          "probability": 0.47
+        },
+        {
+          "word": "nề",
+          "start": 4.92,
+          "end": 5.06,
+          "probability": 0.15
+        },
+        {
+          "word": "thì",
+          "start": 5.06,
+          "end": 5.22,
+          "probability": 0.11
+        },
+        {
+          "word": "mà",
+          "start": 5.22,
+          "end": 5.34,
+          "probability": 0.33
+        },
+        {
+          "word": "xe",
+          "start": 5.34,
+          "end": 5.44,
+          "probability": 0.11
+        },
+        {
+          "word": "đi",
+          "start": 5.44,
+          "end": 5.56,
+          "probability": 0.12
+        },
+        {
+          "word": "thuộc",
+          "start": 5.56,
+          "end": 5.9,
+          "probability": 0.7
+        },
+        {
+          "word": "đường",
+          "start": 5.9,
+          "end": 6.14,
+          "probability": 0.75
+        },
+        {
+          "word": "thẳng",
+          "start": 6.14,
+          "end": 6.42,
+          "probability": 0.57
+        },
+        {
+          "word": "đi",
+          "start": 6.42,
+          "end": 6.72,
+          "probability": 0.22
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.72,
+      "end": 7.88,
+      "text": "Dạ bà dưới đây, thuộc đi",
+      "words": [
+        {
+          "word": "Dạ",
+          "start": 6.72,
+          "end": 6.96,
+          "probability": 0.09
+        },
+        {
+          "word": "bà",
+          "start": 6.96,
+          "end": 6.98,
+          "probability": 0.2
+        },
+        {
+          "word": "dưới",
+          "start": 6.98,
+          "end": 7.16,
+          "probability": 0.54
+        },
+        {
+          "word": "đây,",
+          "start": 7.16,
+          "end": 7.34,
+          "probability": 0.31
+        },
+        {
+          "word": "thuộc",
+          "start": 7.44,
+          "end": 7.56,
+          "probability": 0.94
+        },
+        {
+          "word": "đi",
+          "start": 7.56,
+          "end": 7.88,
+          "probability": 0.75
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 7.88,
+      "end": 10.58,
+      "text": "Đưới nếu dầu kèng dìm, có có thể trọng rbcd để đi làm được thử thôi",
+      "words": [
+        {
+          "word": "Đưới",
+          "start": 7.88,
+          "end": 8.18,
+          "probability": 0.33
+        },
+        {
+          "word": "nếu",
+          "start": 8.18,
+          "end": 8.24,
+          "probability": 0.17
+        },
+        {
+          "word": "dầu",
+          "start": 8.24,
+          "end": 8.4,
+          "probability": 0.18
+        },
+        {
+          "word": "kèng",
+          "start": 8.4,
+          "end": 8.64,
+          "probability": 0.24
+        },
+        {
+          "word": "dìm,",
+          "start": 8.64,
+          "end": 8.84,
+          "probability": 0.27
+        },
+        {
+          "word": "có",
+          "start": 8.86,
+          "end": 8.92,
+          "probability": 0.26
+        },
+        {
+          "word": "có",
+          "start": 8.92,
+          "end": 9.06,
+          "probability": 0.19
+        },
+        {
+          "word": "thể",
+          "start": 9.06,
+          "end": 9.12,
+          "probability": 0.55
+        },
+        {
+          "word": "trọng",
+          "start": 9.12,
+          "end": 9.3,
+          "probability": 0.5
+        },
+        {
+          "word": "rbcd",
+          "start": 9.3,
+          "end": 9.82,
+          "probability": 0.18
+        },
+        {
+          "word": "để",
+          "start": 9.82,
+          "end": 9.98,
+          "probability": 0.42
+        },
+        {
+          "word": "đi",
+          "start": 9.98,
+          "end": 10.0,
+          "probability": 0.06
+        },
+        {
+          "word": "làm",
+          "start": 10.0,
+          "end": 10.0,
+          "probability": 0.05
+        },
+        {
+          "word": "được",
+          "start": 10.0,
+          "end": 10.16,
+          "probability": 0.12
+        },
+        {
+          "word": "thử",
+          "start": 10.16,
+          "end": 10.26,
+          "probability": 0.64
+        },
+        {
+          "word": "thôi",
+          "start": 10.26,
+          "end": 10.58,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 10.58,
+      "end": 13.28,
+      "text": "Đối dưới năng, ít mạnh hai, mình không rất bởi mạo",
+      "words": [
+        {
+          "word": "Đối",
+          "start": 10.58,
+          "end": 10.84,
+          "probability": 0.61
+        },
+        {
+          "word": "dưới",
+          "start": 10.84,
+          "end": 10.9,
+          "probability": 0.54
+        },
+        {
+          "word": "năng,",
+          "start": 10.9,
+          "end": 11.28,
+          "probability": 0.28
+        },
+        {
+          "word": "ít",
+          "start": 11.52,
+          "end": 11.58,
+          "probability": 0.37
+        },
+        {
+          "word": "mạnh",
+          "start": 11.58,
+          "end": 11.8,
+          "probability": 0.33
+        },
+        {
+          "word": "hai,",
+          "start": 11.8,
+          "end": 12.1,
+          "probability": 0.35
+        },
+        {
+          "word": "mình",
+          "start": 12.22,
+          "end": 12.28,
+          "probability": 0.25
+        },
+        {
+          "word": "không",
+          "start": 12.28,
+          "end": 12.46,
+          "probability": 0.9
+        },
+        {
+          "word": "rất",
+          "start": 12.46,
+          "end": 12.66,
+          "probability": 0.51
+        },
+        {
+          "word": "bởi",
+          "start": 12.66,
+          "end": 12.8,
+          "probability": 0.55
+        },
+        {
+          "word": "mạo",
+          "start": 12.8,
+          "end": 13.28,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 13.68,
+      "end": 17.26,
+      "text": "Mong ngàn hội, a chúng ngon, mình mới muốn nữa, để gạo xe đi thuộc",
+      "words": [
+        {
+          "word": "Mong",
+          "start": 13.68,
+          "end": 14.0,
+          "probability": 0.28
+        },
+        {
+          "word": "ngàn",
+          "start": 14.0,
+          "end": 14.1,
+          "probability": 0.21
+        },
+        {
+          "word": "hội,",
+          "start": 14.1,
+          "end": 14.52,
+          "probability": 0.25
+        },
+        {
+          "word": "a",
+          "start": 14.76,
+          "end": 14.82,
+          "probability": 0.21
+        },
+        {
+          "word": "chúng",
+          "start": 14.82,
+          "end": 14.98,
+          "probability": 0.56
+        },
+        {
+          "word": "ngon,",
+          "start": 14.98,
+          "end": 15.34,
+          "probability": 0.18
+        },
+        {
+          "word": "mình",
+          "start": 15.58,
+          "end": 15.58,
+          "probability": 0.15
+        },
+        {
+          "word": "mới",
+          "start": 15.58,
+          "end": 15.74,
+          "probability": 0.23
+        },
+        {
+          "word": "muốn",
+          "start": 15.74,
+          "end": 15.8,
+          "probability": 0.43
+        },
+        {
+          "word": "nữa,",
+          "start": 15.8,
+          "end": 16.06,
+          "probability": 0.13
+        },
+        {
+          "word": "để",
+          "start": 16.12,
+          "end": 16.26,
+          "probability": 0.12
+        },
+        {
+          "word": "gạo",
+          "start": 16.26,
+          "end": 16.38,
+          "probability": 0.29
+        },
+        {
+          "word": "xe",
+          "start": 16.38,
+          "end": 16.48,
+          "probability": 0.83
+        },
+        {
+          "word": "đi",
+          "start": 16.48,
+          "end": 16.62,
+          "probability": 0.93
+        },
+        {
+          "word": "thuộc",
+          "start": 16.62,
+          "end": 17.26,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 17.26,
+      "end": 19.8,
+      "text": "Đối dưới đi, có ngon, kên có cầu ăn đúng luôn rồi",
+      "words": [
+        {
+          "word": "Đối",
+          "start": 17.26,
+          "end": 17.62,
+          "probability": 0.38
+        },
+        {
+          "word": "dưới",
+          "start": 17.62,
+          "end": 17.62,
+          "probability": 0.84
+        },
+        {
+          "word": "đi,",
+          "start": 17.62,
+          "end": 17.82,
+          "probability": 0.1
+        },
+        {
+          "word": "có",
+          "start": 18.12,
+          "end": 18.3,
+          "probability": 0.23
+        },
+        {
+          "word": "ngon,",
+          "start": 18.3,
+          "end": 18.3,
+          "probability": 0.29
+        },
+        {
+          "word": "kên",
+          "start": 18.3,
+          "end": 18.5,
+          "probability": 0.46
+        },
+        {
+          "word": "có",
+          "start": 18.5,
+          "end": 18.64,
+          "probability": 0.14
+        },
+        {
+          "word": "cầu",
+          "start": 18.64,
+          "end": 18.92,
+          "probability": 0.22
+        },
+        {
+          "word": "ăn",
+          "start": 18.92,
+          "end": 19.04,
+          "probability": 0.61
+        },
+        {
+          "word": "đúng",
+          "start": 19.04,
+          "end": 19.3,
+          "probability": 0.57
+        },
+        {
+          "word": "luôn",
+          "start": 19.3,
+          "end": 19.46,
+          "probability": 0.14
+        },
+        {
+          "word": "rồi",
+          "start": 19.46,
+          "end": 19.8,
+          "probability": 0.64
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 19.8,
+      "end": 21.42,
+      "text": "Nếu mình để chặt trường đi nữa",
+      "words": [
+        {
+          "word": "Nếu",
+          "start": 19.8,
+          "end": 20.08,
+          "probability": 0.1
+        },
+        {
+          "word": "mình",
+          "start": 20.08,
+          "end": 20.24,
+          "probability": 0.29
+        },
+        {
+          "word": "để",
+          "start": 20.24,
+          "end": 20.42,
+          "probability": 0.24
+        },
+        {
+          "word": "chặt",
+          "start": 20.42,
+          "end": 20.52,
+          "probability": 0.36
+        },
+        {
+          "word": "trường",
+          "start": 20.52,
+          "end": 20.66,
+          "probability": 0.31
+        },
+        {
+          "word": "đi",
+          "start": 20.66,
+          "end": 20.8,
+          "probability": 0.92
+        },
+        {
+          "word": "nữa",
+          "start": 20.8,
+          "end": 21.42,
+          "probability": 0.24
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 21.42,
+      "end": 25.54,
+      "text": "có số mẹ năm trong mọi khoảng thứ khó lý xuống cùng đi động hàng quan số lệ 1 và 1 của em là gì?",
+      "words": [
+        {
+          "word": "có",
+          "start": 21.42,
+          "end": 21.64,
+          "probability": 0.25
+        },
+        {
+          "word": "số",
+          "start": 21.64,
+          "end": 21.74,
+          "probability": 0.21
+        },
+        {
+          "word": "mẹ",
+          "start": 21.74,
+          "end": 21.82,
+          "probability": 0.21
+        },
+        {
+          "word": "năm",
+          "start": 21.82,
+          "end": 22.08,
+          "probability": 0.2
+        },
+        {
+          "word": "trong",
+          "start": 22.08,
+          "end": 22.58,
+          "probability": 0.67
+        },
+        {
+          "word": "mọi",
+          "start": 22.58,
+          "end": 22.88,
+          "probability": 0.34
+        },
+        {
+          "word": "khoảng",
+          "start": 22.88,
+          "end": 23.02,
+          "probability": 0.55
+        },
+        {
+          "word": "thứ",
+          "start": 23.02,
+          "end": 23.16,
+          "probability": 0.21
+        },
+        {
+          "word": "khó",
+          "start": 23.16,
+          "end": 23.22,
+          "probability": 0.69
+        },
+        {
+          "word": "lý",
+          "start": 23.22,
+          "end": 23.3,
+          "probability": 0.24
+        },
+        {
+          "word": "xuống",
+          "start": 23.3,
+          "end": 23.44,
+          "probability": 0.51
+        },
+        {
+          "word": "cùng",
+          "start": 23.44,
+          "end": 23.56,
+          "probability": 0.27
+        },
+        {
+          "word": "đi",
+          "start": 23.56,
+          "end": 23.72,
+          "probability": 0.41
+        },
+        {
+          "word": "động",
+          "start": 23.72,
+          "end": 23.84,
+          "probability": 0.25
+        },
+        {
+          "word": "hàng",
+          "start": 23.84,
+          "end": 24.02,
+          "probability": 0.74
+        },
+        {
+          "word": "quan",
+          "start": 24.02,
+          "end": 24.24,
+          "probability": 0.48
+        },
+        {
+          "word": "số",
+          "start": 24.24,
+          "end": 24.32,
+          "probability": 0.29
+        },
+        {
+          "word": "lệ",
+          "start": 24.32,
+          "end": 24.48,
+          "probability": 0.65
+        },
+        {
+          "word": "1",
+          "start": 24.48,
+          "end": 24.62,
+          "probability": 0.36
+        },
+        {
+          "word": "và",
+          "start": 24.62,
+          "end": 24.72,
+          "probability": 0.48
+        },
+        {
+          "word": "1",
+          "start": 24.72,
+          "end": 24.88,
+          "probability": 0.33
+        },
+        {
+          "word": "của",
+          "start": 24.88,
+          "end": 25.02,
+          "probability": 0.46
+        },
+        {
+          "word": "em",
+          "start": 25.02,
+          "end": 25.18,
+          "probability": 0.4
+        },
+        {
+          "word": "là",
+          "start": 25.18,
+          "end": 25.3,
+          "probability": 0.59
+        },
+        {
+          "word": "gì?",
+          "start": 25.3,
+          "end": 25.54,
+          "probability": 0.91
+        }
+      ]
+    }
+  ]
+}

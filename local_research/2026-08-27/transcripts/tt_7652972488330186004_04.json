@@ -1,0 +1,72 @@
+{
+  "item_id": "tt_7652972488330186004_04",
+  "duration_seconds": 26.15,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 9,
+  "text": "Đóng ngon, giới, giới, càng hả tâm của anh?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.92,
+      "text": "Đóng ngon, giới, giới, càng hả tâm của anh?",
+      "words": [
+        {
+          "word": "Đóng",
+          "start": 0.0,
+          "end": 0.5,
+          "probability": 0.21
+        },
+        {
+          "word": "ngon,",
+          "start": 0.5,
+          "end": 0.82,
+          "probability": 0.22
+        },
+        {
+          "word": "giới,",
+          "start": 0.92,
+          "end": 1.28,
+          "probability": 0.51
+        },
+        {
+          "word": "giới,",
+          "start": 1.38,
+          "end": 1.86,
+          "probability": 0.61
+        },
+        {
+          "word": "càng",
+          "start": 1.92,
+          "end": 2.18,
+          "probability": 0.17
+        },
+        {
+          "word": "hả",
+          "start": 2.18,
+          "end": 2.26,
+          "probability": 0.25
+        },
+        {
+          "word": "tâm",
+          "start": 2.26,
+          "end": 2.46,
+          "probability": 0.5
+        },
+        {
+          "word": "của",
+          "start": 2.46,
+          "end": 2.62,
+          "probability": 0.17
+        },
+        {
+          "word": "anh?",
+          "start": 2.62,
+          "end": 2.92,
+          "probability": 0.36
+        }
+      ]
+    }
+  ]
+}

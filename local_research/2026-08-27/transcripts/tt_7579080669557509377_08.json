@@ -1,0 +1,30 @@
+{
+  "item_id": "tt_7579080669557509377_08",
+  "duration_seconds": 29.55,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "Thôi thôi.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.56,
+      "text": "Thôi thôi.",
+      "words": [
+        {
+          "word": "Thôi",
+          "start": 0.0,
+          "end": 0.4,
+          "probability": 0.1
+        },
+        {
+          "word": "thôi.",
+          "start": 0.4,
+          "end": 0.56,
+          "probability": 0.05
+        }
+      ]
+    }
+  ]
+}

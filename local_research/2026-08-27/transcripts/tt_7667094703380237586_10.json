@@ -1,0 +1,658 @@
+{
+  "item_id": "tt_7667094703380237586_10",
+  "duration_seconds": 28.46,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 100,
+  "text": "Một thái cấp 3, tìm mê nó sẽ nở bởi ngỏa thì sao? Không chỉ mất một chi màu mới, một chiên khó mất chiên một giá trị là sự đặc biệt. Trường được đặt theo tên lửa lịch sĩ, anh hôm được lương bú trách nhật dân dân dân dân. Bạn giá bị trời màu muốn được kịch nỗi cối hơn dân dân của được đân hục để triệu. Trúc hư sinh phép dục từ qua trong khu vinh cửa. A dự kiến sắp có tìm đàn trọng có tìm biểu thì cũng đàn là dân anh hợi làm.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.72,
+      "end": 5.12,
+      "text": "Một thái cấp 3, tìm mê nó sẽ nở bởi ngỏa thì sao?",
+      "words": [
+        {
+          "word": "Một",
+          "start": 0.72,
+          "end": 1.16,
+          "probability": 0.42
+        },
+        {
+          "word": "thái",
+          "start": 1.16,
+          "end": 1.48,
+          "probability": 0.02
+        },
+        {
+          "word": "cấp",
+          "start": 1.48,
+          "end": 1.72,
+          "probability": 0.27
+        },
+        {
+          "word": "3,",
+          "start": 1.72,
+          "end": 2.04,
+          "probability": 0.24
+        },
+        {
+          "word": "tìm",
+          "start": 2.52,
+          "end": 2.76,
+          "probability": 0.31
+        },
+        {
+          "word": "mê",
+          "start": 2.76,
+          "end": 2.9,
+          "probability": 0.46
+        },
+        {
+          "word": "nó",
+          "start": 2.9,
+          "end": 3.2,
+          "probability": 0.27
+        },
+        {
+          "word": "sẽ",
+          "start": 3.2,
+          "end": 3.32,
+          "probability": 0.41
+        },
+        {
+          "word": "nở",
+          "start": 3.32,
+          "end": 3.58,
+          "probability": 0.25
+        },
+        {
+          "word": "bởi",
+          "start": 3.58,
+          "end": 3.84,
+          "probability": 0.65
+        },
+        {
+          "word": "ngỏa",
+          "start": 3.84,
+          "end": 4.22,
+          "probability": 0.13
+        },
+        {
+          "word": "thì",
+          "start": 4.22,
+          "end": 4.32,
+          "probability": 0.15
+        },
+        {
+          "word": "sao?",
+          "start": 4.32,
+          "end": 5.12,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.32,
+      "end": 10.76,
+      "text": "Không chỉ mất một chi màu mới, một chiên khó mất chiên một giá trị là sự đặc biệt.",
+      "words": [
+        {
+          "word": "Không",
+          "start": 6.32,
+          "end": 6.54,
+          "probability": 0.51
+        },
+        {
+          "word": "chỉ",
+          "start": 6.54,
+          "end": 6.76,
+          "probability": 0.56
+        },
+        {
+          "word": "mất",
+          "start": 6.76,
+          "end": 7.0,
+          "probability": 0.26
+        },
+        {
+          "word": "một",
+          "start": 7.0,
+          "end": 7.24,
+          "probability": 0.61
+        },
+        {
+          "word": "chi",
+          "start": 7.24,
+          "end": 7.34,
+          "probability": 0.26
+        },
+        {
+          "word": "màu",
+          "start": 7.34,
+          "end": 7.58,
+          "probability": 0.8
+        },
+        {
+          "word": "mới,",
+          "start": 7.58,
+          "end": 7.98,
+          "probability": 0.65
+        },
+        {
+          "word": "một",
+          "start": 8.32,
+          "end": 8.34,
+          "probability": 0.39
+        },
+        {
+          "word": "chiên",
+          "start": 8.34,
+          "end": 8.54,
+          "probability": 0.3
+        },
+        {
+          "word": "khó",
+          "start": 8.54,
+          "end": 8.8,
+          "probability": 0.53
+        },
+        {
+          "word": "mất",
+          "start": 8.8,
+          "end": 9.0,
+          "probability": 0.42
+        },
+        {
+          "word": "chiên",
+          "start": 9.0,
+          "end": 9.18,
+          "probability": 0.66
+        },
+        {
+          "word": "một",
+          "start": 9.18,
+          "end": 9.36,
+          "probability": 0.39
+        },
+        {
+          "word": "giá",
+          "start": 9.36,
+          "end": 9.56,
+          "probability": 0.26
+        },
+        {
+          "word": "trị",
+          "start": 9.56,
+          "end": 9.68,
+          "probability": 0.4
+        },
+        {
+          "word": "là",
+          "start": 9.68,
+          "end": 9.84,
+          "probability": 0.74
+        },
+        {
+          "word": "sự",
+          "start": 9.84,
+          "end": 9.96,
+          "probability": 0.41
+        },
+        {
+          "word": "đặc",
+          "start": 9.96,
+          "end": 10.14,
+          "probability": 0.71
+        },
+        {
+          "word": "biệt.",
+          "start": 10.14,
+          "end": 10.76,
+          "probability": 0.82
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.14,
+      "end": 14.56,
+      "text": "Trường được đặt theo tên lửa lịch sĩ, anh hôm được lương bú trách nhật dân dân dân dân.",
+      "words": [
+        {
+          "word": "Trường",
+          "start": 11.14,
+          "end": 11.3,
+          "probability": 0.52
+        },
+        {
+          "word": "được",
+          "start": 11.3,
+          "end": 11.5,
+          "probability": 0.68
+        },
+        {
+          "word": "đặt",
+          "start": 11.5,
+          "end": 11.68,
+          "probability": 0.64
+        },
+        {
+          "word": "theo",
+          "start": 11.68,
+          "end": 11.9,
+          "probability": 0.7
+        },
+        {
+          "word": "tên",
+          "start": 11.9,
+          "end": 12.04,
+          "probability": 0.68
+        },
+        {
+          "word": "lửa",
+          "start": 12.04,
+          "end": 12.2,
+          "probability": 0.59
+        },
+        {
+          "word": "lịch",
+          "start": 12.2,
+          "end": 12.42,
+          "probability": 0.64
+        },
+        {
+          "word": "sĩ,",
+          "start": 12.42,
+          "end": 12.72,
+          "probability": 0.47
+        },
+        {
+          "word": "anh",
+          "start": 13.02,
+          "end": 13.04,
+          "probability": 0.37
+        },
+        {
+          "word": "hôm",
+          "start": 13.04,
+          "end": 13.18,
+          "probability": 0.38
+        },
+        {
+          "word": "được",
+          "start": 13.18,
+          "end": 13.34,
+          "probability": 0.77
+        },
+        {
+          "word": "lương",
+          "start": 13.34,
+          "end": 13.54,
+          "probability": 0.39
+        },
+        {
+          "word": "bú",
+          "start": 13.54,
+          "end": 13.7,
+          "probability": 0.35
+        },
+        {
+          "word": "trách",
+          "start": 13.7,
+          "end": 13.82,
+          "probability": 0.37
+        },
+        {
+          "word": "nhật",
+          "start": 13.82,
+          "end": 14.02,
+          "probability": 0.18
+        },
+        {
+          "word": "dân",
+          "start": 14.02,
+          "end": 14.24,
+          "probability": 0.29
+        },
+        {
+          "word": "dân",
+          "start": 14.24,
+          "end": 14.28,
+          "probability": 0.35
+        },
+        {
+          "word": "dân",
+          "start": 14.28,
+          "end": 14.5,
+          "probability": 0.2
+        },
+        {
+          "word": "dân.",
+          "start": 14.5,
+          "end": 14.56,
+          "probability": 0.42
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.4,
+      "end": 19.5,
+      "text": "Bạn giá bị trời màu muốn được kịch nỗi cối hơn dân dân của được đân hục để triệu.",
+      "words": [
+        {
+          "word": "Bạn",
+          "start": 15.4,
+          "end": 15.84,
+          "probability": 0.46
+        },
+        {
+          "word": "giá",
+          "start": 15.84,
+          "end": 16.02,
+          "probability": 0.18
+        },
+        {
+          "word": "bị",
+          "start": 16.02,
+          "end": 16.12,
+          "probability": 0.21
+        },
+        {
+          "word": "trời",
+          "start": 16.12,
+          "end": 16.34,
+          "probability": 0.16
+        },
+        {
+          "word": "màu",
+          "start": 16.34,
+          "end": 16.76,
+          "probability": 0.58
+        },
+        {
+          "word": "muốn",
+          "start": 16.76,
+          "end": 16.98,
+          "probability": 0.71
+        },
+        {
+          "word": "được",
+          "start": 16.98,
+          "end": 17.18,
+          "probability": 0.96
+        },
+        {
+          "word": "kịch",
+          "start": 17.18,
+          "end": 17.26,
+          "probability": 0.26
+        },
+        {
+          "word": "nỗi",
+          "start": 17.26,
+          "end": 17.5,
+          "probability": 0.32
+        },
+        {
+          "word": "cối",
+          "start": 17.5,
+          "end": 17.82,
+          "probability": 0.25
+        },
+        {
+          "word": "hơn",
+          "start": 17.82,
+          "end": 18.02,
+          "probability": 0.29
+        },
+        {
+          "word": "dân",
+          "start": 18.02,
+          "end": 18.28,
+          "probability": 0.43
+        },
+        {
+          "word": "dân",
+          "start": 18.28,
+          "end": 18.28,
+          "probability": 0.67
+        },
+        {
+          "word": "của",
+          "start": 18.28,
+          "end": 18.38,
+          "probability": 0.32
+        },
+        {
+          "word": "được",
+          "start": 18.38,
+          "end": 18.58,
+          "probability": 0.72
+        },
+        {
+          "word": "đân",
+          "start": 18.58,
+          "end": 18.64,
+          "probability": 0.14
+        },
+        {
+          "word": "hục",
+          "start": 18.64,
+          "end": 18.96,
+          "probability": 0.29
+        },
+        {
+          "word": "để",
+          "start": 18.96,
+          "end": 19.18,
+          "probability": 0.52
+        },
+        {
+          "word": "triệu.",
+          "start": 19.18,
+          "end": 19.5,
+          "probability": 0.18
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 19.5,
+      "end": 22.78,
+      "text": "Trúc hư sinh phép dục từ qua trong khu vinh cửa.",
+      "words": [
+        {
+          "word": "Trúc",
+          "start": 19.5,
+          "end": 20.34,
+          "probability": 0.21
+        },
+        {
+          "word": "hư",
+          "start": 20.34,
+          "end": 20.52,
+          "probability": 0.26
+        },
+        {
+          "word": "sinh",
+          "start": 20.52,
+          "end": 20.7,
+          "probability": 0.58
+        },
+        {
+          "word": "phép",
+          "start": 20.7,
+          "end": 20.88,
+          "probability": 0.53
+        },
+        {
+          "word": "dục",
+          "start": 20.88,
+          "end": 21.1,
+          "probability": 0.31
+        },
+        {
+          "word": "từ",
+          "start": 21.1,
+          "end": 21.32,
+          "probability": 0.41
+        },
+        {
+          "word": "qua",
+          "start": 21.32,
+          "end": 21.74,
+          "probability": 0.28
+        },
+        {
+          "word": "trong",
+          "start": 21.74,
+          "end": 22.04,
+          "probability": 0.24
+        },
+        {
+          "word": "khu",
+          "start": 22.04,
+          "end": 22.26,
+          "probability": 0.79
+        },
+        {
+          "word": "vinh",
+          "start": 22.26,
+          "end": 22.42,
+          "probability": 0.3
+        },
+        {
+          "word": "cửa.",
+          "start": 22.42,
+          "end": 22.78,
+          "probability": 0.46
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.5,
+      "end": 28.3,
+      "text": "A dự kiến sắp có tìm đàn trọng có tìm biểu thì cũng đàn là dân anh hợi làm.",
+      "words": [
+        {
+          "word": "A",
+          "start": 23.5,
+          "end": 23.64,
+          "probability": 0.18
+        },
+        {
+          "word": "dự",
+          "start": 23.64,
+          "end": 23.76,
+          "probability": 0.23
+        },
+        {
+          "word": "kiến",
+          "start": 23.76,
+          "end": 23.94,
+          "probability": 0.65
+        },
+        {
+          "word": "sắp",
+          "start": 23.94,
+          "end": 24.16,
+          "probability": 0.74
+        },
+        {
+          "word": "có",
+          "start": 24.16,
+          "end": 24.38,
+          "probability": 0.06
+        },
+        {
+          "word": "tìm",
+          "start": 24.38,
+          "end": 25.4,
+          "probability": 0.37
+        },
+        {
+          "word": "đàn",
+          "start": 25.4,
+          "end": 25.5,
+          "probability": 0.4
+        },
+        {
+          "word": "trọng",
+          "start": 25.5,
+          "end": 25.74,
+          "probability": 0.54
+        },
+        {
+          "word": "có",
+          "start": 25.74,
+          "end": 25.86,
+          "probability": 0.54
+        },
+        {
+          "word": "tìm",
+          "start": 25.86,
+          "end": 26.06,
+          "probability": 0.79
+        },
+        {
+          "word": "biểu",
+          "start": 26.06,
+          "end": 26.48,
+          "probability": 0.47
+        },
+        {
+          "word": "thì",
+          "start": 26.48,
+          "end": 26.68,
+          "probability": 0.28
+        },
+        {
+          "word": "cũng",
+          "start": 26.68,
+          "end": 26.84,
+          "probability": 0.96
+        },
+        {
+          "word": "đàn",
+          "start": 26.84,
+          "end": 27.08,
+          "probability": 0.86
+        },
+        {
+          "word": "là",
+          "start": 27.08,
+          "end": 27.28,
+          "probability": 0.44
+        },
+        {
+          "word": "dân",
+          "start": 27.28,
+          "end": 27.5,
+          "probability": 0.2
+        },
+        {
+          "word": "anh",
+          "start": 27.5,
+          "end": 27.74,
+          "probability": 0.19
+        },
+        {
+          "word": "hợi",
+          "start": 27.74,
+          "end": 27.9,
+          "probability": 0.45
+        },
+        {
+          "word": "làm.",
+          "start": 27.9,
+          "end": 28.3,
+          "probability": 0.81
+        }
+      ]
+    }
+  ]
+}

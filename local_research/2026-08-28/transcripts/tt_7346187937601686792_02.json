@@ -1,0 +1,38 @@
+{
+  "item_id": "tt_7346187937601686792_02",
+  "duration_seconds": 30.0,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 2,
+  "text": "1. 1.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.98,
+      "end": 1.2,
+      "text": "1.",
+      "words": [
+        {
+          "word": "1.",
+          "start": 0.98,
+          "end": 1.2,
+          "probability": 0.01
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.26,
+      "end": 1.34,
+      "text": "1.",
+      "words": [
+        {
+          "word": "1.",
+          "start": 1.26,
+          "end": 1.34,
+          "probability": 0.03
+        }
+      ]
+    }
+  ]
+}

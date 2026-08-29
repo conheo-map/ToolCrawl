@@ -1,4 +1,4 @@
-﻿"""
+"""
 utils/cookie_manager.py — Quản lý và xoay vòng nhiều file Cookies (Cookie Rotation).
 Hỗ trợ nạp đơn file hoặc toàn bộ thư mục cookies/ (Round-Robin).
 """
@@ -36,11 +36,11 @@ class CookieManager:
                 return
             elif p.is_dir():
                 paths_to_check.append(p)
-
-        # Default paths to check
-        default_dir = Path("cookies")
-        if default_dir.is_dir() and default_dir not in paths_to_check:
-            paths_to_check.append(default_dir)
+        else:
+            # Default paths to check
+            default_dir = Path("cookies")
+            if default_dir.is_dir():
+                paths_to_check.append(default_dir)
 
         for folder in paths_to_check:
             txt_files = list(folder.glob("*.txt"))

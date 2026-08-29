@@ -1,0 +1,54 @@
+{
+  "item_id": "tt_7670507232634686741_37",
+  "duration_seconds": 29.9,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 6,
+  "text": "Bình bệnh giải thêm hội phục.",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.69,
+      "end": 12.86,
+      "text": "Bình bệnh giải thêm hội phục.",
+      "words": [
+        {
+          "word": "Bình",
+          "start": 0.69,
+          "end": 1.27,
+          "probability": 0.32
+        },
+        {
+          "word": "bệnh",
+          "start": 1.27,
+          "end": 1.59,
+          "probability": 0.4
+        },
+        {
+          "word": "giải",
+          "start": 11.7,
+          "end": 12.28,
+          "probability": 0.37
+        },
+        {
+          "word": "thêm",
+          "start": 12.28,
+          "end": 12.52,
+          "probability": 0.28
+        },
+        {
+          "word": "hội",
+          "start": 12.52,
+          "end": 12.74,
+          "probability": 0.4
+        },
+        {
+          "word": "phục.",
+          "start": 12.74,
+          "end": 12.86,
+          "probability": 0.46
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "item_id": "tt_7652342980434513172_19",
+  "duration_seconds": 28.72,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 95,
+  "text": "Tôi rất là hay nghe Tất là Cái này là có trời khóc Các bạn sẽ nói là cái này có trời khóc Nhưng mà các bạn học sinh mà Tại các bạn có những cái khó học của Einstein Thì để một lúc mà bỏ sẽ phung nói cái câu đúng không? Thì có thể có thể có thể không chào lời rừng nghe Nhưng mà sẽ phung bỏ là nói cái câu là cái này có thể có thể xuy nghĩ Cái này này thì lúc nào mà học sinh Thì này là",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 1.8,
+      "text": "Tôi rất là hay nghe",
+      "words": [
+        {
+          "word": "Tôi",
+          "start": 0.02,
+          "end": 0.6,
+          "probability": 0.06
+        },
+        {
+          "word": "rất",
+          "start": 0.6,
+          "end": 0.78,
+          "probability": 0.92
+        },
+        {
+          "word": "là",
+          "start": 0.78,
+          "end": 0.92,
+          "probability": 0.98
+        },
+        {
+          "word": "hay",
+          "start": 0.92,
+          "end": 1.1,
+          "probability": 0.42
+        },
+        {
+          "word": "nghe",
+          "start": 1.1,
+          "end": 1.8,
+          "probability": 0.12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.8,
+      "end": 2.48,
+      "text": "Tất là",
+      "words": [
+        {
+          "word": "Tất",
+          "start": 1.8,
+          "end": 2.18,
+          "probability": 0.1
+        },
+        {
+          "word": "là",
+          "start": 2.18,
+          "end": 2.48,
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 3.62,
+      "end": 5.3,
+      "text": "Cái này là có trời khóc",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 3.62,
+          "end": 4.02,
+          "probability": 0.36
+        },
+        {
+          "word": "này",
+          "start": 4.02,
+          "end": 4.14,
+          "probability": 0.92
+        },
+        {
+          "word": "là",
+          "start": 4.14,
+          "end": 4.34,
+          "probability": 0.41
+        },
+        {
+          "word": "có",
+          "start": 4.34,
+          "end": 4.42,
+          "probability": 0.5
+        },
+        {
+          "word": "trời",
+          "start": 4.42,
+          "end": 4.56,
+          "probability": 0.35
+        },
+        {
+          "word": "khóc",
+          "start": 4.56,
+          "end": 5.3,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.3,
+      "end": 8.24,
+      "text": "Các bạn sẽ nói là cái này có trời khóc",
+      "words": [
+        {
+          "word": "Các",
+          "start": 5.3,
+          "end": 6.1,
+          "probability": 0.44
+        },
+        {
+          "word": "bạn",
+          "start": 6.1,
+          "end": 6.26,
+          "probability": 0.97
+        },
+        {
+          "word": "sẽ",
+          "start": 6.26,
+          "end": 6.46,
+          "probability": 0.97
+        },
+        {
+          "word": "nói",
+          "start": 6.46,
+          "end": 6.72,
+          "probability": 0.51
+        },
+        {
+          "word": "là",
+          "start": 6.72,
+          "end": 6.88,
+          "probability": 0.59
+        },
+        {
+          "word": "cái",
+          "start": 6.88,
+          "end": 6.94,
+          "probability": 0.79
+        },
+        {
+          "word": "này",
+          "start": 6.94,
+          "end": 7.06,
+          "probability": 0.99
+        },
+        {
+          "word": "có",
+          "start": 7.06,
+          "end": 7.22,
+          "probability": 0.92
+        },
+        {
+          "word": "trời",
+          "start": 7.22,
+          "end": 7.4,
+          "probability": 0.99
+        },
+        {
+          "word": "khóc",
+          "start": 7.4,
+          "end": 8.24,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.24,
+      "end": 11.1,
+      "text": "Nhưng mà các bạn học sinh mà",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 8.24,
+          "end": 8.32,
+          "probability": 0.47
+        },
+        {
+          "word": "mà",
+          "start": 8.32,
+          "end": 9.2,
+          "probability": 0.59
+        },
+        {
+          "word": "các",
+          "start": 9.2,
+          "end": 9.52,
+          "probability": 0.6
+        },
+        {
+          "word": "bạn",
+          "start": 9.52,
+          "end": 9.64,
+          "probability": 1.0
+        },
+        {
+          "word": "học",
+          "start": 9.64,
+          "end": 9.84,
+          "probability": 0.6
+        },
+        {
+          "word": "sinh",
+          "start": 9.84,
+          "end": 10.34,
+          "probability": 0.7
+        },
+        {
+          "word": "mà",
+          "start": 10.34,
+          "end": 11.1,
+          "probability": 0.68
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 11.1,
+      "end": 13.5,
+      "text": "Tại các bạn có những cái khó học của Einstein",
+      "words": [
+        {
+          "word": "Tại",
+          "start": 11.1,
+          "end": 11.42,
+          "probability": 0.22
+        },
+        {
+          "word": "các",
+          "start": 11.42,
+          "end": 11.5,
+          "probability": 0.08
+        },
+        {
+          "word": "bạn",
+          "start": 11.5,
+          "end": 11.72,
+          "probability": 0.58
+        },
+        {
+          "word": "có",
+          "start": 11.72,
+          "end": 11.72,
+          "probability": 0.22
+        },
+        {
+          "word": "những",
+          "start": 11.72,
+          "end": 11.94,
+          "probability": 0.22
+        },
+        {
+          "word": "cái",
+          "start": 11.94,
+          "end": 12.24,
+          "probability": 0.54
+        },
+        {
+          "word": "khó",
+          "start": 12.24,
+          "end": 12.36,
+          "probability": 0.79
+        },
+        {
+          "word": "học",
+          "start": 12.36,
+          "end": 12.8,
+          "probability": 0.64
+        },
+        {
+          "word": "của",
+          "start": 12.8,
+          "end": 13.06,
+          "probability": 0.88
+        },
+        {
+          "word": "Einstein",
+          "start": 13.06,
+          "end": 13.5,
+          "probability": 0.57
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 14.02,
+      "end": 17.14,
+      "text": "Thì để một lúc mà bỏ sẽ phung nói cái câu đúng không?",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 14.02,
+          "end": 14.24,
+          "probability": 0.42
+        },
+        {
+          "word": "để",
+          "start": 14.24,
+          "end": 14.36,
+          "probability": 0.32
+        },
+        {
+          "word": "một",
+          "start": 14.36,
+          "end": 14.48,
+          "probability": 0.32
+        },
+        {
+          "word": "lúc",
+          "start": 14.48,
+          "end": 14.6,
+          "probability": 0.83
+        },
+        {
+          "word": "mà",
+          "start": 14.6,
+          "end": 14.8,
+          "probability": 0.29
+        },
+        {
+          "word": "bỏ",
+          "start": 14.8,
+          "end": 15.18,
+          "probability": 0.63
+        },
+        {
+          "word": "sẽ",
+          "start": 15.18,
+          "end": 15.46,
+          "probability": 0.06
+        },
+        {
+          "word": "phung",
+          "start": 15.46,
+          "end": 15.66,
+          "probability": 0.47
+        },
+        {
+          "word": "nói",
+          "start": 15.66,
+          "end": 15.86,
+          "probability": 0.72
+        },
+        {
+          "word": "cái",
+          "start": 15.86,
+          "end": 16.08,
+          "probability": 0.25
+        },
+        {
+          "word": "câu",
+          "start": 16.08,
+          "end": 16.18,
+          "probability": 0.94
+        },
+        {
+          "word": "đúng",
+          "start": 16.18,
+          "end": 16.36,
+          "probability": 0.39
+        },
+        {
+          "word": "không?",
+          "start": 16.36,
+          "end": 17.14,
+          "probability": 0.31
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 17.42,
+      "end": 20.92,
+      "text": "Thì có thể có thể có thể không chào lời rừng nghe",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 17.42,
+          "end": 17.82,
+          "probability": 0.35
+        },
+        {
+          "word": "có",
+          "start": 17.82,
+          "end": 18.94,
+          "probability": 0.06
+        },
+        {
+          "word": "thể",
+          "start": 18.94,
+          "end": 19.28,
+          "probability": 0.25
+        },
+        {
+          "word": "có",
+          "start": 19.28,
+          "end": 19.28,
+          "probability": 0.13
+        },
+        {
+          "word": "thể",
+          "start": 19.28,
+          "end": 19.96,
+          "probability": 0.69
+        },
+        {
+          "word": "có",
+          "start": 19.96,
+          "end": 20.22,
+          "probability": 0.1
+        },
+        {
+          "word": "thể",
+          "start": 20.22,
+          "end": 20.34,
+          "probability": 0.23
+        },
+        {
+          "word": "không",
+          "start": 20.34,
+          "end": 20.38,
+          "probability": 0.06
+        },
+        {
+          "word": "chào",
+          "start": 20.38,
+          "end": 20.38,
+          "probability": 0.34
+        },
+        {
+          "word": "lời",
+          "start": 20.38,
+          "end": 20.48,
+          "probability": 0.61
+        },
+        {
+          "word": "rừng",
+          "start": 20.48,
+          "end": 20.64,
+          "probability": 0.34
+        },
+        {
+          "word": "nghe",
+          "start": 20.64,
+          "end": 20.92,
+          "probability": 0.54
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 20.92,
+      "end": 24.56,
+      "text": "Nhưng mà sẽ phung bỏ là nói cái câu là cái này có thể có thể xuy nghĩ",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 20.92,
+          "end": 21.16,
+          "probability": 0.56
+        },
+        {
+          "word": "mà",
+          "start": 21.16,
+          "end": 21.24,
+          "probability": 0.92
+        },
+        {
+          "word": "sẽ",
+          "start": 21.24,
+          "end": 21.5,
+          "probability": 0.64
+        },
+        {
+          "word": "phung",
+          "start": 21.5,
+          "end": 21.52,
+          "probability": 0.99
+        },
+        {
+          "word": "bỏ",
+          "start": 21.52,
+          "end": 21.64,
+          "probability": 0.26
+        },
+        {
+          "word": "là",
+          "start": 21.64,
+          "end": 21.76,
+          "probability": 0.15
+        },
+        {
+          "word": "nói",
+          "start": 21.76,
+          "end": 22.02,
+          "probability": 0.55
+        },
+        {
+          "word": "cái",
+          "start": 22.02,
+          "end": 22.1,
+          "probability": 0.98
+        },
+        {
+          "word": "câu",
+          "start": 22.1,
+          "end": 22.26,
+          "probability": 1.0
+        },
+        {
+          "word": "là",
+          "start": 22.26,
+          "end": 22.4,
+          "probability": 0.34
+        },
+        {
+          "word": "cái",
+          "start": 22.4,
+          "end": 22.5,
+          "probability": 0.95
+        },
+        {
+          "word": "này",
+          "start": 22.5,
+          "end": 22.58,
+          "probability": 1.0
+        },
+        {
+          "word": "có",
+          "start": 22.58,
+          "end": 22.74,
+          "probability": 0.9
+        },
+        {
+          "word": "thể",
+          "start": 22.74,
+          "end": 22.88,
+          "probability": 0.12
+        },
+        {
+          "word": "có",
+          "start": 22.88,
+          "end": 23.84,
+          "probability": 0.37
+        },
+        {
+          "word": "thể",
+          "start": 23.84,
+          "end": 24.08,
+          "probability": 0.06
+        },
+        {
+          "word": "xuy",
+          "start": 24.08,
+          "end": 24.14,
+          "probability": 0.11
+        },
+        {
+          "word": "nghĩ",
+          "start": 24.14,
+          "end": 24.56,
+          "probability": 0.15
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 24.56,
+      "end": 27.02,
+      "text": "Cái này này thì lúc nào mà học sinh",
+      "words": [
+        {
+          "word": "Cái",
+          "start": 24.56,
+          "end": 24.9,
+          "probability": 0.59
+        },
+        {
+          "word": "này",
+          "start": 24.9,
+          "end": 25.04,
+          "probability": 1.0
+        },
+        {
+          "word": "này",
+          "start": 25.04,
+          "end": 25.4,
+          "probability": 0.6
+        },
+        {
+          "word": "thì",
+          "start": 25.4,
+          "end": 25.74,
+          "probability": 0.64
+        },
+        {
+          "word": "lúc",
+          "start": 25.74,
+          "end": 26.24,
+          "probability": 0.63
+        },
+        {
+          "word": "nào",
+          "start": 26.24,
+          "end": 26.44,
+          "probability": 0.95
+        },
+        {
+          "word": "mà",
+          "start": 26.44,
+          "end": 26.58,
+          "probability": 0.92
+        },
+        {
+          "word": "học",
+          "start": 26.58,
+          "end": 26.78,
+          "probability": 0.99
+        },
+        {
+          "word": "sinh",
+          "start": 26.78,
+          "end": 27.02,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 27.7,
+      "end": 28.7,
+      "text": "Thì này là",
+      "words": [
+        {
+          "word": "Thì",
+          "start": 27.7,
+          "end": 27.96,
+          "probability": 0.29
+        },
+        {
+          "word": "này",
+          "start": 27.96,
+          "end": 28.3,
+          "probability": 0.15
+        },
+        {
+          "word": "là",
+          "start": 28.3,
+          "end": 28.7,
+          "probability": 0.76
+        }
+      ]
+    }
+  ]
+}

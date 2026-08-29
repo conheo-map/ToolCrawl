@@ -1,0 +1,84 @@
+{
+  "item_id": "tt_7522361382763777298_03",
+  "duration_seconds": 13.45,
+  "language": "vi",
+  "speaker_type": "monologue",
+  "word_count": 11,
+  "text": "hảm học lưng gạo hợi dài rộn tạm ở chiến nha?",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.36,
+      "text": "hảm học lưng gạo hợi dài rộn tạm ở chiến nha?",
+      "words": [
+        {
+          "word": "hảm",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.14
+        },
+        {
+          "word": "học",
+          "start": 0.22,
+          "end": 0.48,
+          "probability": 0.42
+        },
+        {
+          "word": "lưng",
+          "start": 0.48,
+          "end": 0.64,
+          "probability": 0.42
+        },
+        {
+          "word": "gạo",
+          "start": 0.64,
+          "end": 0.9,
+          "probability": 0.37
+        },
+        {
+          "word": "hợi",
+          "start": 0.9,
+          "end": 1.12,
+          "probability": 0.21
+        },
+        {
+          "word": "dài",
+          "start": 1.12,
+          "end": 1.2,
+          "probability": 0.17
+        },
+        {
+          "word": "rộn",
+          "start": 1.2,
+          "end": 1.44,
+          "probability": 0.5
+        },
+        {
+          "word": "tạm",
+          "start": 1.44,
+          "end": 1.7,
+          "probability": 0.5
+        },
+        {
+          "word": "ở",
+          "start": 1.7,
+          "end": 1.78,
+          "probability": 0.04
+        },
+        {
+          "word": "chiến",
+          "start": 1.78,
+          "end": 2.06,
+          "probability": 0.53
+        },
+        {
+          "word": "nha?",
+          "start": 2.06,
+          "end": 2.36,
+          "probability": 0.35
+        }
+      ]
+    }
+  ]
+}

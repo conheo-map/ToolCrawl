@@ -1,0 +1,368 @@
+{
+  "item_id": "tt_7650539518386326805_06",
+  "duration_seconds": 28.08,
+  "language": "vi",
+  "speaker_type": "dialogue",
+  "word_count": 45,
+  "text": "và thức là một cái thức trang có nên ra điểm đúng không? Tìm ở đâu rồi có hoa tụi mẹ tụi mẹ tụi mẹ trong cái sử dụt từ là tụi mẹ không có thể vui xí bến có những tụi tụi tụi tụi",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.02,
+      "text": "và thức là một cái thức trang",
+      "words": [
+        {
+          "word": "và",
+          "start": 0.0,
+          "end": 0.46,
+          "probability": 0.14
+        },
+        {
+          "word": "thức",
+          "start": 0.46,
+          "end": 0.68,
+          "probability": 0.15
+        },
+        {
+          "word": "là",
+          "start": 0.68,
+          "end": 0.88,
+          "probability": 0.52
+        },
+        {
+          "word": "một",
+          "start": 0.88,
+          "end": 1.08,
+          "probability": 0.25
+        },
+        {
+          "word": "cái",
+          "start": 1.08,
+          "end": 1.2,
+          "probability": 0.47
+        },
+        {
+          "word": "thức",
+          "start": 1.2,
+          "end": 1.52,
+          "probability": 0.31
+        },
+        {
+          "word": "trang",
+          "start": 1.52,
+          "end": 3.02,
+          "probability": 0.33
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.02,
+      "end": 4.44,
+      "text": "có nên ra điểm",
+      "words": [
+        {
+          "word": "có",
+          "start": 3.02,
+          "end": 3.72,
+          "probability": 0.27
+        },
+        {
+          "word": "nên",
+          "start": 3.72,
+          "end": 3.86,
+          "probability": 0.06
+        },
+        {
+          "word": "ra",
+          "start": 3.86,
+          "end": 4.04,
+          "probability": 0.35
+        },
+        {
+          "word": "điểm",
+          "start": 4.04,
+          "end": 4.44,
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.44,
+      "end": 5.06,
+      "text": "đúng không?",
+      "words": [
+        {
+          "word": "đúng",
+          "start": 4.44,
+          "end": 4.82,
+          "probability": 0.27
+        },
+        {
+          "word": "không?",
+          "start": 4.82,
+          "end": 5.06,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 5.5,
+      "end": 8.24,
+      "text": "Tìm ở đâu rồi",
+      "words": [
+        {
+          "word": "Tìm",
+          "start": 5.5,
+          "end": 6.04,
+          "probability": 0.39
+        },
+        {
+          "word": "ở",
+          "start": 6.04,
+          "end": 6.18,
+          "probability": 0.49
+        },
+        {
+          "word": "đâu",
+          "start": 7.84,
+          "end": 8.08,
+          "probability": 0.45
+        },
+        {
+          "word": "rồi",
+          "start": 8.08,
+          "end": 8.24,
+          "probability": 0.07
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 8.24,
+      "end": 8.76,
+      "text": "có hoa",
+      "words": [
+        {
+          "word": "có",
+          "start": 8.24,
+          "end": 8.48,
+          "probability": 0.03
+        },
+        {
+          "word": "hoa",
+          "start": 8.48,
+          "end": 8.76,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 17.23,
+      "end": 18.28,
+      "text": "tụi mẹ",
+      "words": [
+        {
+          "word": "tụi",
+          "start": 17.23,
+          "end": 17.5,
+          "probability": 0.25
+        },
+        {
+          "word": "mẹ",
+          "start": 17.5,
+          "end": 18.28,
+          "probability": 0.29
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 18.28,
+      "end": 19.04,
+      "text": "tụi mẹ",
+      "words": [
+        {
+          "word": "tụi",
+          "start": 18.28,
+          "end": 18.62,
+          "probability": 0.69
+        },
+        {
+          "word": "mẹ",
+          "start": 18.62,
+          "end": 19.04,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 19.04,
+      "end": 19.5,
+      "text": "tụi mẹ",
+      "words": [
+        {
+          "word": "tụi",
+          "start": 19.04,
+          "end": 19.38,
+          "probability": 0.81
+        },
+        {
+          "word": "mẹ",
+          "start": 19.38,
+          "end": 19.5,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 22.03,
+      "end": 24.95,
+      "text": "trong cái sử dụt từ",
+      "words": [
+        {
+          "word": "trong",
+          "start": 22.03,
+          "end": 22.87,
+          "probability": 0.0
+        },
+        {
+          "word": "cái",
+          "start": 22.87,
+          "end": 23.95,
+          "probability": 0.11
+        },
+        {
+          "word": "sử",
+          "start": 23.95,
+          "end": 24.45,
+          "probability": 0.27
+        },
+        {
+          "word": "dụt",
+          "start": 24.45,
+          "end": 24.61,
+          "probability": 0.69
+        },
+        {
+          "word": "từ",
+          "start": 24.61,
+          "end": 24.95,
+          "probability": 0.11
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 24.95,
+      "end": 26.49,
+      "text": "là tụi mẹ không có thể vui xí bến",
+      "words": [
+        {
+          "word": "là",
+          "start": 24.95,
+          "end": 25.25,
+          "probability": 0.05
+        },
+        {
+          "word": "tụi",
+          "start": 25.25,
+          "end": 25.29,
+          "probability": 0.61
+        },
+        {
+          "word": "mẹ",
+          "start": 25.29,
+          "end": 25.69,
+          "probability": 0.77
+        },
+        {
+          "word": "không",
+          "start": 25.69,
+          "end": 25.89,
+          "probability": 0.01
+        },
+        {
+          "word": "có",
+          "start": 25.89,
+          "end": 25.89,
+          "probability": 0.07
+        },
+        {
+          "word": "thể",
+          "start": 25.89,
+          "end": 25.89,
+          "probability": 0.05
+        },
+        {
+          "word": "vui",
+          "start": 25.89,
+          "end": 25.99,
+          "probability": 0.13
+        },
+        {
+          "word": "xí",
+          "start": 25.99,
+          "end": 26.19,
+          "probability": 0.43
+        },
+        {
+          "word": "bến",
+          "start": 26.19,
+          "end": 26.49,
+          "probability": 0.16
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 26.49,
+      "end": 27.87,
+      "text": "có những tụi tụi tụi tụi",
+      "words": [
+        {
+          "word": "có",
+          "start": 26.49,
+          "end": 26.91,
+          "probability": 0.09
+        },
+        {
+          "word": "những",
+          "start": 26.91,
+          "end": 27.09,
+          "probability": 0.07
+        },
+        {
+          "word": "tụi",
+          "start": 27.09,
+          "end": 27.33,
+          "probability": 0.64
+        },
+        {
+          "word": "tụi",
+          "start": 27.33,
+          "end": 27.47,
+          "probability": 0.72
+        },
+        {
+          "word": "tụi",
+          "start": 27.47,
+          "end": 27.81,
+          "probability": 0.6
+        },
+        {
+          "word": "tụi",
+          "start": 27.81,
+          "end": 27.87,
+          "probability": 0.6
+        }
+      ]
+    }
+  ]
+}
