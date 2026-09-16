@@ -19,6 +19,13 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
+try:
+    import demucs
+except ImportError:
+    print("[*] Đang tự động cài đặt thư viện 'demucs' và 'torchaudio'...", flush=True)
+    subprocess.run([sys.executable, "-m", "pip", "install", "demucs", "torchaudio", "-q"], check=True)
+    import demucs
+
 import torch
 import soundfile as sf
 import numpy as np
