@@ -101,8 +101,8 @@ def run_demucs_separate_task(task_tuple: tuple) -> tuple:
         return (False, item_id, str(exc))
 
 
-# ── Step 1: Fast Parallel Audio Downloader (TikTok Native Mobile API + TikWM Fallback) ──
-def download_single_audio(url: str, raw_dir: Path) -> dict | None:
+# ── Step 1: Fast Parallel Audio Downloader (TikTok Native Mobile API + Cookie Auth + TikWM Fallback) ──
+def download_single_audio(url: str, raw_dir: Path, cookie_file: Path | None = None) -> dict | None:
     # Tuyệt đối bỏ qua link ảnh/slideshow và link thư viện nhạc rời
     if "/photo/" in url or "/music/" in url:
         return None
@@ -116,7 +116,7 @@ def download_single_audio(url: str, raw_dir: Path) -> dict | None:
     if out_raw.exists() and out_raw.stat().st_size > 1000:
         return {"item_id": item_id, "url": url, "raw_path": out_raw}
 
-    # 1. Native TikTok Mobile API (Tốc độ 20MB/s, 0 rate limit, vượt 100% anti-bot)
+    # 1. Native TikTok Mobile API + Cookie Auth (Tốc độ 20MB/s, 0 rate limit, bypass 100% anti-bot)
     ydl_opts = {
         "format": "bestaudio/best",
         "outtmpl": str(raw_dir / f"{item_id}.%(ext)s"),
@@ -144,6 +144,9 @@ def download_single_audio(url: str, raw_dir: Path) -> dict | None:
         "no_warnings": True,
         "ignoreerrors": True,
     }
+
+    if cookie_file and cookie_file.exists():
+        ydl_opts["cookiefile"] = str(cookie_file)
 
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
@@ -181,6 +184,7 @@ def main():
     parser = argparse.ArgumentParser(description="Guaranteed 100% Demucs AI URL Pipeline")
     parser.add_argument("--file", type=str, default="urls.txt", help="Path to urls.txt")
     parser.add_argument("--out-dir", type=str, default=f"dataset_{TODAY_STR}", help="Output directory name")
+    parser.add_argument("--cookies", type=str, default="cookies_tiktok.txt", help="Path to TikTok cookies file")
     parser.add_argument("--dl-workers", type=int, default=16, help="Download threads")
     parser.add_argument("--gpu-workers", type=int, default=8, help="GPU Demucs worker processes")
     parser.add_argument("--batch-size", type=int, default=300, help="Batch size for GPU processing")
@@ -192,8 +196,12 @@ def main():
         print(f"[-] File không tồn tại: {urls_path}")
         return
 
+    cookie_path = ROOT / args.cookies if not Path(args.cookies).is_absolute() else Path(args.cookies)
+    if not cookie_path.exists():
+        cookie_path = None
+
     raw_urls = [line.strip() for line in urls_path.read_text(encoding="utf-8-sig").splitlines() if line.strip() and not line.strip().startswith("#")]
-    urls = [u for u in raw_urls if "/photo/" not in u]
+    urls = [u for u in raw_urls if "/photo/" not in u and "/music/" not in u]
     if args.limit > 0:
         urls = urls[:args.limit]
 
@@ -207,6 +215,10 @@ def main():
     print("🚀 BẮT ĐẦU CÀO URLS & BẮT BUỘC 100% QUA DEMUCS AI VOCAL SEPARATOR")
     print(f"File nguồn: {urls_path.name} | Tổng số URL: {len(urls):,} URLs")
     print(f"Thư mục xuất: {output_root.name} | GPU Demucs Workers: {args.gpu_workers}")
+    if cookie_path and cookie_path.exists():
+        print(f"🍪 Cookie xác thực: {cookie_path.name} (Active)")
+    else:
+        print("🍪 Cookie xác thực: Chạy ở chế độ Mobile API Public")
     print("=" * 85 + "\n", flush=True)
 
     # ── GIAI ĐOẠN 1: TẢI AUDIO HÀNG LOẠT ──
@@ -215,7 +227,7 @@ def main():
     t0 = time.time()
     
     with ThreadPoolExecutor(max_workers=args.dl_workers) as executor:
-        futures = {executor.submit(download_single_audio, u, raw_dir): u for u in urls}
+        futures = {executor.submit(download_single_audio, u, raw_dir, cookie_path): u for u in urls}
         done_cnt = 0
         for fut in as_completed(futures):
             done_cnt += 1
