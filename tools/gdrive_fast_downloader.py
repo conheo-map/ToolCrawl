@@ -1,6 +1,5 @@
 ﻿"""
-tools/gdrive_fast_downloader.py — High-Speed Resilient Google Drive Downloader using Official API v3.
-Bypasses Rclone 429 blocks by using Direct OAuth2 Stream with Exponential Backoff.
+tools/gdrive_fast_downloader.py — Resilient Google Drive Downloader with Auto Rate-Limit Recovery.
 """
 
 from __future__ import annotations
@@ -22,7 +21,6 @@ ROOT = Path(__file__).resolve().parent.parent
 
 
 def get_gdrive_credentials() -> tuple[str, str]:
-    """Extracts access_token and root_folder_id from rclone.conf."""
     rclone_conf = Path("/root/.config/rclone/rclone.conf")
     if not rclone_conf.exists():
         rclone_conf = Path.home() / "AppData" / "Roaming" / "rclone" / "rclone.conf"
@@ -30,7 +28,7 @@ def get_gdrive_credentials() -> tuple[str, str]:
         rclone_conf = Path.home() / ".config" / "rclone" / "rclone.conf"
 
     if not rclone_conf.exists():
-        raise FileNotFoundError(f"Không tìm thấy file rclone.conf tại: {rclone_conf}")
+        raise FileNotFoundError(f"Không tìm thấy rclone.conf tại: {rclone_conf}")
 
     config = configparser.ConfigParser()
     config.read(rclone_conf, encoding="utf-8")
@@ -60,18 +58,23 @@ def list_files_in_folder(access_token: str, folder_id: str) -> list[dict]:
         if page_token:
             params["pageToken"] = page_token
 
-        for attempt in range(5):
-            resp = requests.get(url, headers=headers, params=params, timeout=30)
-            if resp.status_code == 200:
-                data = resp.json()
-                items.extend(data.get("files", []))
-                page_token = data.get("nextPageToken")
-                break
-            elif resp.status_code in (429, 500, 503):
-                time.sleep(2 ** attempt)
-            else:
-                print(f"[-] Lỗi list folder {folder_id}: {resp.status_code} - {resp.text[:100]}")
-                break
+        for attempt in range(8):
+            try:
+                resp = requests.get(url, headers=headers, params=params, timeout=30)
+                if resp.status_code == 200:
+                    data = resp.json()
+                    items.extend(data.get("files", []))
+                    page_token = data.get("nextPageToken")
+                    time.sleep(0.1)  # Gentle pacing
+                    break
+                elif resp.status_code in (403, 429, 500, 503):
+                    wait_sec = 2 * (attempt + 1)
+                    # print(f"[*] Đang đợi {wait_sec}s để vượt qua hạn ngạch Google...")
+                    time.sleep(wait_sec)
+                else:
+                    break
+            except Exception:
+                time.sleep(2.0)
 
         if not page_token:
             break
@@ -88,7 +91,7 @@ def download_single_file(access_token: str, file_id: str, dst_path: Path) -> boo
     url = f"https://www.googleapis.com/drive/v3/files/{file_id}?alt=media"
 
     tmp_path = dst_path.with_suffix(".tmp")
-    for attempt in range(5):
+    for attempt in range(8):
         try:
             with requests.get(url, headers=headers, stream=True, timeout=60) as r:
                 if r.status_code == 200:
@@ -98,23 +101,22 @@ def download_single_file(access_token: str, file_id: str, dst_path: Path) -> boo
                                 f.write(chunk)
                     tmp_path.rename(dst_path)
                     return True
-                elif r.status_code in (429, 500, 503):
-                    time.sleep(1.5 ** attempt)
+                elif r.status_code in (403, 429, 500, 503):
+                    time.sleep(2 * (attempt + 1))
                 else:
                     return False
         except Exception:
-            time.sleep(1.0)
+            time.sleep(2.0)
 
     if tmp_path.exists():
         tmp_path.unlink(missing_ok=True)
     return False
 
 
-def sync_week_from_drive(target_week: str, workers: int = 24):
+def sync_week_from_drive(target_week: str, workers: int = 16):
     access_token, root_id = get_gdrive_credentials()
-    print(f"[*] Đang quét danh mục trên Google Drive cho {target_week} (Root ID: {root_id})...")
+    print(f"[*] Đang quét danh mục trên Google Drive cho {target_week}...")
 
-    # 1. Find target week folder
     root_items = list_files_in_folder(access_token, root_id)
     week_folder = next((it for it in root_items if it["name"] == target_week and it["mimeType"] == "application/vnd.google-apps.folder"), None)
 
@@ -122,8 +124,7 @@ def sync_week_from_drive(target_week: str, workers: int = 24):
         print(f"[-] Không tìm thấy folder {target_week} trên Drive!")
         return
 
-    # 2. Find date subfolders
-    print(f"[+] Đã tìm thấy {target_week} (ID: {week_folder['id']}). Đang quét các ngày...")
+    print(f"[+] Đã tìm thấy {target_week}. Đang quét các ngày...")
     date_folders = list_files_in_folder(access_token, week_folder["id"])
 
     all_download_tasks = []
@@ -133,9 +134,9 @@ def sync_week_from_drive(target_week: str, workers: int = 24):
         if d_folder["mimeType"] != "application/vnd.google-apps.folder":
             continue
         day_str = d_folder["name"]
+        print(f"  - Đang quét ngày {day_str}...")
         day_items = list_files_in_folder(access_token, d_folder["id"])
 
-        # Check audio subfolder or direct files
         for it in day_items:
             if it["mimeType"] == "application/vnd.google-apps.folder" and it["name"] == "audio":
                 audio_files = list_files_in_folder(access_token, it["id"])
@@ -155,7 +156,6 @@ def sync_week_from_drive(target_week: str, workers: int = 24):
         print(f"🎉 {target_week} ĐÃ ĐẦY ĐỦ 100% TRÊN MÁY!")
         return
 
-    # 3. Parallel Download
     t0 = time.time()
     done_count = 0
     with ThreadPoolExecutor(max_workers=workers) as executor:
@@ -166,11 +166,12 @@ def sync_week_from_drive(target_week: str, workers: int = 24):
             ok = fut.result()
             if done_count % 100 == 0 or done_count == len(to_download):
                 speed = done_count / max(0.1, time.time() - t0)
-                print(f"[{done_count}/{len(to_download)}] Đang tải {target_week} ({speed:.1f} file/s)...", flush=True)
+                pct = (done_count / len(to_download)) * 100
+                print(f"[{done_count}/{len(to_download)}] ({pct:.1f}%) Đang tải {target_week} ({speed:.1f} file/s)...", flush=True)
 
     print(f"\n🎉 HOÀN TẤT TẢI {target_week} TRONG {(time.time()-t0)/60:.2f} PHÚT!")
 
 
 if __name__ == "__main__":
     w_arg = sys.argv[1] if len(sys.argv) > 1 else "Week2"
-    sync_week_from_drive(w_arg, workers=24)
+    sync_week_from_drive(w_arg, workers=16)
