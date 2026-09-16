@@ -53,10 +53,10 @@ def sync_all_weeks_to_drive(target_weeks: list[str] = None):
             str(src_path), f"gdrive:{w}",
             "--update",
             "--drive-upload-cutoff", "15M",
-            "--transfers", "12",
-            "--checkers", "12",
-            "--drive-pacer-min-sleep", "10ms",
-            "--drive-pacer-burst", "100",
+            "--transfers", "4",
+            "--checkers", "4",
+            "--tpslimit", "4",
+            "--drive-pacer-min-sleep", "50ms",
             "-P",
         ]
         subprocess.run(cmd)
