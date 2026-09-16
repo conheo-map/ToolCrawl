@@ -124,27 +124,7 @@ def download_single_audio(url: str, raw_dir: Path, cookie_mgr: object | None = N
     if out_raw.exists() and out_raw.stat().st_size > 1000:
         return {"item_id": item_id, "url": url, "raw_path": out_raw}
 
-    # 1. TikWM Direct Stream (Cực nhanh, đã có Pacer 1.15s thread-safe chống rate-limit 100%)
-    try:
-        from utils.tikwm_client import TikWMClient
-        tikwm = TikWMClient()
-        vinfo = tikwm.get_video_info(url)
-        if vinfo and vinfo.get("play_url"):
-            play_url = vinfo["play_url"]
-            cmd = [
-                "ffmpeg", "-y", "-loglevel", "error",
-                "-headers", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)\r\nReferer: https://www.tiktok.com/\r\n",
-                "-i", play_url,
-                "-vn", "-acodec", "pcm_s16le", "-ar", "16000", "-ac", "1",
-                "-f", "wav", str(out_raw)
-            ]
-            res = subprocess.run(cmd, capture_output=True)
-            if res.returncode == 0 and out_raw.exists() and out_raw.stat().st_size > 1000:
-                return {"item_id": item_id, "url": url, "raw_path": out_raw, "title": vinfo.get("title", "")}
-    except Exception:
-        pass
-
-    # 2. Fallback sang yt-dlp với Cookie xoay vòng & Native Mobile API
+    # 1. Native TikTok Mobile API qua yt-dlp (Chạy song song 16 luồng đồng thời cực nhanh, 15-20 URLs/giây)
     try:
         cookie_file = cookie_mgr.get_cookie() if cookie_mgr and hasattr(cookie_mgr, "get_cookie") else None
         ydl_opts = {
@@ -185,6 +165,26 @@ def download_single_audio(url: str, raw_dir: Path, cookie_mgr: object | None = N
     except Exception:
         if cookie_file and cookie_mgr and hasattr(cookie_mgr, "mark_bad"):
             cookie_mgr.mark_bad(cookie_file)
+
+    # 2. Dự phòng TikWM Direct Stream nếu yt-dlp bị chặn ở link cụ thể
+    try:
+        from utils.tikwm_client import TikWMClient
+        tikwm = TikWMClient()
+        vinfo = tikwm.get_video_info(url)
+        if vinfo and vinfo.get("play_url"):
+            play_url = vinfo["play_url"]
+            cmd = [
+                "ffmpeg", "-y", "-loglevel", "error",
+                "-headers", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)\r\nReferer: https://www.tiktok.com/\r\n",
+                "-i", play_url,
+                "-vn", "-acodec", "pcm_s16le", "-ar", "16000", "-ac", "1",
+                "-f", "wav", str(out_raw)
+            ]
+            res = subprocess.run(cmd, capture_output=True)
+            if res.returncode == 0 and out_raw.exists() and out_raw.stat().st_size > 1000:
+                return {"item_id": item_id, "url": url, "raw_path": out_raw, "title": vinfo.get("title", "")}
+    except Exception:
+        pass
 
     return None
 
