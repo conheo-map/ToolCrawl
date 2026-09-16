@@ -48,22 +48,27 @@ class TikWMClient:
             - author: Tên tác giả
         Trả về None nếu thất bại.
         """
-        api_url = f"{TIKWM_ENDPOINT}?url={urllib.request.quote(tiktok_url, safe=':/?=&')}"
+        post_data = urllib.parse.urlencode({"url": tiktok_url, "hd": 1}).encode("utf-8")
 
         for attempt in range(1, TIKWM_MAX_RETRIES + 1):
             try:
                 req = urllib.request.Request(
-                    api_url,
-                    headers={"User-Agent": self._get_ua(), "Accept": "application/json"}
+                    TIKWM_ENDPOINT,
+                    data=post_data,
+                    headers={
+                        "User-Agent": self._get_ua(),
+                        "Accept": "application/json",
+                        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+                    }
                 )
                 with urllib.request.urlopen(req, timeout=TIKWM_TIMEOUT) as resp:
                     raw = resp.read().decode("utf-8")
                     data = json.loads(raw)
 
                 if data.get("code") != 0:
-                    logger.warning(f"[TikWM] API returned code={data.get('code')} (attempt {attempt}/{TIKWM_MAX_RETRIES}) for {tiktok_url}")
+                    logger.warning(f"[TikWM] API returned code={data.get('code')} msg={data.get('msg')} (attempt {attempt}/{TIKWM_MAX_RETRIES}) for {tiktok_url}")
                     if attempt < TIKWM_MAX_RETRIES:
-                        time.sleep(2 * attempt)
+                        time.sleep(1.5 * attempt)
                         continue
                     return None
 

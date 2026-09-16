@@ -118,6 +118,8 @@ def download_single_audio(url: str, raw_dir: Path) -> dict | None:
 
     # 1. TikWM Direct Stream (Cực nhanh, vượt hoàn toàn lỗi chặn bot TikTok, không tải video rác)
     try:
+        import random
+        time.sleep(random.uniform(0.05, 0.25))
         from utils.tikwm_client import TikWMClient
         tikwm = TikWMClient()
         vinfo = tikwm.get_video_info(url)
