@@ -101,6 +101,8 @@ def run_demucs_separate_task(task_tuple: tuple) -> tuple:
         sf.write(str(dst_path), vocals_16k, 16000, subtype="PCM_16")
 
         del wav, sources, vocals
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
         return (dst_path.exists() and dst_path.stat().st_size > 1000, item_id, "")
 
     except Exception as exc:
@@ -303,26 +305,26 @@ def main():
     # ── GIAI ĐOẠN 3: SILERO VAD AUDIO SLICER (CẮT ĐOẠN ASR 5s - 30s TẠI ĐIỂM LẶNG THẬT) ──
     print("\n" + "=" * 85)
     print("✂️ [GIAI ĐOẠN 3/4] SILERO VAD AUDIO SLICER — CẮT ĐOẠN ASR (5s - 30s) TẠI ĐIỂM LẶNG")
-    print(f"Chạy song song 16 luồng VAD...")
     print("=" * 85 + "\n", flush=True)
 
     from processors.vad_slicer import VadSlicer
     vad_slicer = VadSlicer()
 
     clean_vocal_files = list(vocal_dir.glob("*.wav"))
-    print(f"[*] Đang thực hiện VAD Slicing song song 16 luồng trên {len(clean_vocal_files):,} file vocal sạch...", flush=True)
+    print(f"[*] Đang thực hiện VAD Slicing trên {len(clean_vocal_files):,} file vocal sạch...", flush=True)
 
     all_segments = []
-    with ThreadPoolExecutor(max_workers=16) as executor:
-        futs = {executor.submit(vad_slicer.slice_audio, vf, vf.stem, audio_dir): vf for vf in clean_vocal_files}
-        done_vad = 0
-        for fut in as_completed(futs):
-            done_vad += 1
-            segs = fut.result()
+    total_vf = len(clean_vocal_files)
+    for done_vad, vf in enumerate(clean_vocal_files, start=1):
+        try:
+            segs = vad_slicer.slice_audio(vf, vf.stem, audio_dir)
             if segs:
                 all_segments.extend(segs)
-            if done_vad % 200 == 0 or done_vad == len(clean_vocal_files):
-                print(f"  - VAD Progress: {done_vad:,}/{len(clean_vocal_files):,} files -> {len(all_segments):,} segments ASR...", flush=True)
+        except Exception as exc:
+            print(f"  [-] Lỗi VAD {vf.name}: {exc}", flush=True)
+
+        if done_vad % 100 == 0 or done_vad == total_vf:
+            print(f"  - VAD Progress: {done_vad:,}/{total_vf:,} files -> {len(all_segments):,} segments ASR...", flush=True)
 
     # ── GIAI ĐOẠN 4: TẠO METADATA.JSON & SUMMARY.JSON ──
     print("\n" + "=" * 85)
