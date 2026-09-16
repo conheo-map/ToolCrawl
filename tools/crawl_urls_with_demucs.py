@@ -301,22 +301,26 @@ def main():
     # ── GIAI ĐOẠN 3: SILERO VAD AUDIO SLICER (CẮT ĐOẠN ASR 5s - 30s TẠI ĐIỂM LẶNG THẬT) ──
     print("\n" + "=" * 85)
     print("✂️ [GIAI ĐOẠN 3/4] SILERO VAD AUDIO SLICER — CẮT ĐOẠN ASR (5s - 30s) TẠI ĐIỂM LẶNG")
+    print(f"Chạy song song 16 luồng VAD...")
     print("=" * 85 + "\n", flush=True)
 
     from processors.vad_slicer import VadSlicer
     vad_slicer = VadSlicer()
 
     clean_vocal_files = list(vocal_dir.glob("*.wav"))
-    print(f"[*] Đang thực hiện VAD Slicing trên {len(clean_vocal_files):,} file vocal sạch...", flush=True)
+    print(f"[*] Đang thực hiện VAD Slicing song song 16 luồng trên {len(clean_vocal_files):,} file vocal sạch...", flush=True)
 
     all_segments = []
-    for idx, vf in enumerate(clean_vocal_files, start=1):
-        item_id = vf.stem
-        # Slice bằng VadSlicer (Silero VAD)
-        segs = vad_slicer.slice_audio(vf, item_id, audio_dir)
-        all_segments.extend(segs)
-        if idx % 200 == 0 or idx == len(clean_vocal_files):
-            print(f"  - VAD Progress: {idx:,}/{len(clean_vocal_files):,} files -> {len(all_segments):,} segments ASR...", flush=True)
+    with ThreadPoolExecutor(max_workers=16) as executor:
+        futs = {executor.submit(vad_slicer.slice_audio, vf, vf.stem, audio_dir): vf for vf in clean_vocal_files}
+        done_vad = 0
+        for fut in as_completed(futs):
+            done_vad += 1
+            segs = fut.result()
+            if segs:
+                all_segments.extend(segs)
+            if done_vad % 200 == 0 or done_vad == len(clean_vocal_files):
+                print(f"  - VAD Progress: {done_vad:,}/{len(clean_vocal_files):,} files -> {len(all_segments):,} segments ASR...", flush=True)
 
     # ── GIAI ĐOẠN 4: TẠO METADATA.JSON & SUMMARY.JSON ──
     print("\n" + "=" * 85)
