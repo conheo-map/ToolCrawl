@@ -67,7 +67,13 @@ def run_demucs_separate_task(task_tuple: tuple) -> tuple:
         import torchaudio
         from demucs.apply import apply_model
 
-        wav, sr = torchaudio.load(str(raw_path))
+        # Đọc trực tiếp qua soundfile (tránh lỗi TorchCodec trên torchaudio 2.5+)
+        data, sr = sf.read(str(raw_path), dtype="float32")
+        if data.ndim == 1:
+            wav = torch.from_numpy(data).unsqueeze(0)
+        else:
+            wav = torch.from_numpy(data.T)
+
         device = next(_demucs_model.parameters()).device
 
         if sr != 44100:
