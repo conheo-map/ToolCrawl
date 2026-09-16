@@ -1,4 +1,4 @@
-﻿"""
+"""
 tools/cloud_turbo_separator.py — High-Throughput Parallel Vocal Separator for Cloud GPUs (RTX 4090 / A100).
 
 Features:
@@ -104,9 +104,13 @@ class CloudTurboEngine:
 
             for out_f in ro_files:
                 p_out = self.tmp_dir / out_f if (self.tmp_dir / out_f).exists() else Path(out_f)
-                out_name_lower = str(p_out).lower()
-                # Check for vocal stems
-                if "(vocals)" in out_name_lower or "_vocals" in out_name_lower or "vocal" in out_name_lower:
+                out_name_lower = p_out.name.lower()
+                
+                # Exclude instrumental/other stems explicitly
+                is_other_stem = "(other)" in out_name_lower or "(instrumental)" in out_name_lower or "(inst)" in out_name_lower
+                is_vocal_stem = "(vocals)" in out_name_lower or "(lead_vocals)" in out_name_lower or ("(vocal)" in out_name_lower) or (not is_other_stem and "vocal" in out_name_lower and "(other)" not in out_name_lower)
+                
+                if is_vocal_stem and not is_other_stem:
                     cmd = [
                         "ffmpeg", "-y", "-i", str(p_out),
                         "-acodec", "pcm_s16le", "-ar", "16000", "-ac", "1",
