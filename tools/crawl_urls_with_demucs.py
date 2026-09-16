@@ -251,8 +251,11 @@ def main():
         return
 
     # ── GIAI ĐOẠN 2: 100% FILE BẮT BUỘC ĐI QUA DEMUCS AI ──
+    vocal_dir = output_root / "vocal_clean"
+    vocal_dir.mkdir(parents=True, exist_ok=True)
+
     print("=" * 85)
-    print("🤖 [GIAI ĐOẠN 2/3] BẮT BUỘC 100% FILE CHẠY QUA DEMUCS AI ĐỂ TÁCH NHẠC")
+    print("🤖 [GIAI ĐOẠN 2/4] BẮT BUỘC 100% FILE CHẠY QUA DEMUCS AI ĐỂ TÁCH NHẠC")
     print(f"Model: Meta AI Demucs (htdemucs) | {args.gpu_workers} GPU Workers độc lập")
     print("=" * 85 + "\n", flush=True)
 
@@ -263,7 +266,7 @@ def main():
 
     tasks = []
     for it in downloaded_items:
-        dst_f = audio_dir / f"{it['item_id']}.wav"
+        dst_f = vocal_dir / f"{it['item_id']}.wav"
         if not (dst_f.exists() and dst_f.stat().st_size > 1000):
             tasks.append((str(it["raw_path"]), str(dst_f), it["item_id"]))
 
@@ -295,9 +298,29 @@ def main():
                         total_failed += 1
                         print(f"[{b_done}/{len(b_tasks)}] {iid} -> LỖI ❌ {err}", flush=True)
 
-    # ── GIAI ĐOẠN 3: TẠO METADATA.JSON & SUMMARY.JSON ──
+    # ── GIAI ĐOẠN 3: SILERO VAD AUDIO SLICER (CẮT ĐOẠN ASR 5s - 30s TẠI ĐIỂM LẶNG THẬT) ──
     print("\n" + "=" * 85)
-    print("📝 [GIAI ĐOẠN 3/3] TỰ ĐỘNG CHUẨN HÓA METADATA.JSON & SUMMARY.JSON")
+    print("✂️ [GIAI ĐOẠN 3/4] SILERO VAD AUDIO SLICER — CẮT ĐOẠN ASR (5s - 30s) TẠI ĐIỂM LẶNG")
+    print("=" * 85 + "\n", flush=True)
+
+    from processors.vad_slicer import VadSlicer
+    vad_slicer = VadSlicer()
+
+    clean_vocal_files = list(vocal_dir.glob("*.wav"))
+    print(f"[*] Đang thực hiện VAD Slicing trên {len(clean_vocal_files):,} file vocal sạch...", flush=True)
+
+    all_segments = []
+    for idx, vf in enumerate(clean_vocal_files, start=1):
+        item_id = vf.stem
+        # Slice bằng VadSlicer (Silero VAD)
+        segs = vad_slicer.slice_audio(vf, item_id, audio_dir)
+        all_segments.extend(segs)
+        if idx % 200 == 0 or idx == len(clean_vocal_files):
+            print(f"  - VAD Progress: {idx:,}/{len(clean_vocal_files):,} files -> {len(all_segments):,} segments ASR...", flush=True)
+
+    # ── GIAI ĐOẠN 4: TẠO METADATA.JSON & SUMMARY.JSON ──
+    print("\n" + "=" * 85)
+    print("📝 [GIAI ĐOẠN 4/4] TỰ ĐỘNG CHUẨN HÓA METADATA.JSON & SUMMARY.JSON")
     print("=" * 85 + "\n", flush=True)
 
     final_wavs = list(audio_dir.glob("*.wav"))
@@ -323,6 +346,7 @@ def main():
             "duration_seconds": round(dur, 3),
             "vocal_separated": True,
             "separator_model": "demucs_htdemucs",
+            "vad_method": "silero",
             "music_prob": 0.05,
             "is_music": False,
         })
@@ -344,6 +368,7 @@ def main():
         "unique_item_ids": len(final_wavs),
         "total_hours": tot_hours,
         "vocal_separated_count": len(final_wavs),
+        "vad_sliced_count": len(final_wavs),
         "quarantined_count": 0,
         "error_count": 0,
     }
@@ -352,12 +377,14 @@ def main():
 
     if raw_dir.exists():
         shutil.rmtree(raw_dir, ignore_errors=True)
+    if vocal_dir.exists():
+        shutil.rmtree(vocal_dir, ignore_errors=True)
 
     t_total_min = (time.time() - t0) / 60
     print(f"🎉 HOÀN TẤT TRỌN GÓI TOÀN BỘ PIPELINE TRONG {t_total_min:.1f} PHÚT!")
-    print(f"  - Tổng số file âm thanh sạch: {len(final_wavs):,} files")
+    print(f"  - Tổng số file phân đoạn ASR (5s-30s): {len(final_wavs):,} files")
     print(f"  - Tổng thời lượng: {tot_hours:.2f} giờ")
-    print(f"  - 100% file đã đi qua Demucs AI: {len(final_wavs):,} files")
+    print(f"  - 100% file đã đi qua Demucs AI & Silero VAD: {len(final_wavs):,} files")
     print(f"  - Metadata & Summary: Đã lưu tại {output_root}")
     print("=" * 85 + "\n", flush=True)
 
