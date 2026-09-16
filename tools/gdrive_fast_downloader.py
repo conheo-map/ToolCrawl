@@ -1,4 +1,4 @@
-﻿"""
+"""
 tools/gdrive_fast_downloader.py — High-Speed Resilient Google Drive Downloader with Live Progress.
 """
 
@@ -112,9 +112,20 @@ def download_single_file(access_token: str, file_id: str, dst_path: Path) -> boo
     return False
 
 
-def sync_week_from_drive(target_week: str, workers: int = 16):
+def sync_week_from_drive(target_week: str, filter_group: str = "all", workers: int = 16):
     access_token, root_id = get_gdrive_credentials()
-    print(f"[*] Đang quét danh mục trên Google Drive cho {target_week}...", flush=True)
+    w_num = target_week.replace("Week", "").replace("week", "")
+    audit_file = ROOT / "local_research" / f"audit_week{w_num}_full.json"
+    
+    rec_map = {}
+    if audit_file.exists():
+        try:
+            audit = json.loads(audit_file.read_text(encoding="utf-8"))
+            rec_map = {r["item_id"]: str(r.get("group", "")).lower() for r in audit.get("records", [])}
+        except Exception:
+            pass
+
+    print(f"[*] Đang quét danh mục trên Google Drive cho {target_week} (Nhóm: {filter_group.upper()})...", flush=True)
 
     root_items = list_files_in_folder(access_token, root_id)
     week_folder = next((it for it in root_items if it["name"] == target_week and it["mimeType"] == "application/vnd.google-apps.folder"), None)
@@ -139,16 +150,25 @@ def sync_week_from_drive(target_week: str, workers: int = 16):
         for it in day_items:
             if it["mimeType"] == "application/vnd.google-apps.folder" and it["name"] == "audio":
                 audio_files = list_files_in_folder(access_token, it["id"])
-                print(f"    -> Ngày {day_str}: Tìm thấy {len(audio_files)} files audio", flush=True)
                 for af in audio_files:
                     if af["name"].endswith(".wav"):
+                        item_id = af["name"][:-4]
+                        raw_grp = rec_map.get(item_id, "")
+                        is_3b = "3b" in raw_grp or "heavy" in raw_grp
+                        is_3a = "3a" in raw_grp or "moderate" in raw_grp
+
+                        if filter_group == "3b" and not is_3b and rec_map:
+                            continue
+                        if filter_group == "3a" and not is_3a and rec_map:
+                            continue
+
                         dst_file = dst_root / day_str / "audio" / af["name"]
                         all_download_tasks.append((af["id"], dst_file, af["name"]))
             elif it["name"] in ("metadata.json", "summary.json"):
                 dst_file = dst_root / day_str / it["name"]
                 all_download_tasks.append((it["id"], dst_file, it["name"]))
 
-    print(f"\n[+] Tổng số file cần tải cho {target_week}: {len(all_download_tasks):,} files", flush=True)
+    print(f"\n[+] Tổng số file cần tải cho {target_week} (Nhóm {filter_group.upper()}): {len(all_download_tasks):,} files", flush=True)
     to_download = [t for t in all_download_tasks if not (t[1].exists() and t[1].stat().st_size > 1000)]
     print(f"[*] Đã có sẵn: {len(all_download_tasks) - len(to_download):,} files -> Cần tải mới: {len(to_download):,} files\n", flush=True)
 
@@ -173,5 +193,13 @@ def sync_week_from_drive(target_week: str, workers: int = 16):
 
 
 if __name__ == "__main__":
-    w_arg = sys.argv[1] if len(sys.argv) > 1 else "Week2"
-    sync_week_from_drive(w_arg, workers=16)
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("week", type=str, default="Week2", nargs="?", help="Week name e.g. Week2, Week3, Week4, all")
+    parser.add_argument("--group", choices=["3a", "3b", "all"], default="all", help="Filter group")
+    parser.add_argument("--workers", type=int, default=16, help="Parallel download workers")
+    args = parser.parse_args()
+
+    target_weeks = ["Week1", "Week2", "Week3", "Week4"] if args.week == "all" else [args.week]
+    for w in target_weeks:
+        sync_week_from_drive(w, filter_group=args.group, workers=args.workers)

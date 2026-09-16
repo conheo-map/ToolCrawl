@@ -261,13 +261,17 @@ def load_all_dataset_items(target_weeks: list[str], filter_date: str = "", filte
                 for wav_file in audio_dir.glob("*.wav"):
                     item_id = wav_file.stem
                     rec = rec_map.get(item_id, {})
-                    grp = rec.get("group", "3a").lower()
+                    raw_grp = str(rec.get("group", "")).lower()
+                    
+                    is_3b = "3b" in raw_grp or "heavy" in raw_grp
+                    is_3a = "3a" in raw_grp or "moderate" in raw_grp or (not is_3b and raw_grp != "nhom_1_clean")
 
-                    if filter_group == "3a" and grp != "3a":
+                    if filter_group == "3a" and not is_3a:
                         continue
-                    if filter_group == "3b" and grp != "3b":
+                    if filter_group == "3b" and not is_3b:
                         continue
 
+                    grp_tag = "3B" if is_3b else ("3A" if is_3a else "CLEAN")
                     dst_file = dst_week / day_str / "audio" / f"{item_id}.wav"
                     date_dir = dst_week / day_str
 
@@ -275,7 +279,7 @@ def load_all_dataset_items(target_weeks: list[str], filter_date: str = "", filte
                         "item_id": item_id,
                         "week": w_name,
                         "date": day_str,
-                        "group": grp.upper(),
+                        "group": grp_tag,
                         "src_path": wav_file,
                         "dst_path": dst_file,
                         "date_dir": date_dir,
