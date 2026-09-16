@@ -1,5 +1,5 @@
 ﻿"""
-tools/gdrive_fast_downloader.py — Resilient Google Drive Downloader with Auto Rate-Limit Recovery.
+tools/gdrive_fast_downloader.py — High-Speed Resilient Google Drive Downloader with Live Progress.
 """
 
 from __future__ import annotations
@@ -65,11 +65,10 @@ def list_files_in_folder(access_token: str, folder_id: str) -> list[dict]:
                     data = resp.json()
                     items.extend(data.get("files", []))
                     page_token = data.get("nextPageToken")
-                    time.sleep(0.1)  # Gentle pacing
+                    time.sleep(0.1)
                     break
                 elif resp.status_code in (403, 429, 500, 503):
                     wait_sec = 2 * (attempt + 1)
-                    # print(f"[*] Đang đợi {wait_sec}s để vượt qua hạn ngạch Google...")
                     time.sleep(wait_sec)
                 else:
                     break
@@ -115,16 +114,16 @@ def download_single_file(access_token: str, file_id: str, dst_path: Path) -> boo
 
 def sync_week_from_drive(target_week: str, workers: int = 16):
     access_token, root_id = get_gdrive_credentials()
-    print(f"[*] Đang quét danh mục trên Google Drive cho {target_week}...")
+    print(f"[*] Đang quét danh mục trên Google Drive cho {target_week}...", flush=True)
 
     root_items = list_files_in_folder(access_token, root_id)
     week_folder = next((it for it in root_items if it["name"] == target_week and it["mimeType"] == "application/vnd.google-apps.folder"), None)
 
     if not week_folder:
-        print(f"[-] Không tìm thấy folder {target_week} trên Drive!")
+        print(f"[-] Không tìm thấy folder {target_week} trên Drive!", flush=True)
         return
 
-    print(f"[+] Đã tìm thấy {target_week}. Đang quét các ngày...")
+    print(f"[+] Đã tìm thấy {target_week}. Đang quét các ngày...", flush=True)
     date_folders = list_files_in_folder(access_token, week_folder["id"])
 
     all_download_tasks = []
@@ -134,12 +133,13 @@ def sync_week_from_drive(target_week: str, workers: int = 16):
         if d_folder["mimeType"] != "application/vnd.google-apps.folder":
             continue
         day_str = d_folder["name"]
-        print(f"  - Đang quét ngày {day_str}...")
+        print(f"  - Đang quét ngày {day_str}...", flush=True)
         day_items = list_files_in_folder(access_token, d_folder["id"])
 
         for it in day_items:
             if it["mimeType"] == "application/vnd.google-apps.folder" and it["name"] == "audio":
                 audio_files = list_files_in_folder(access_token, it["id"])
+                print(f"    -> Ngày {day_str}: Tìm thấy {len(audio_files)} files audio", flush=True)
                 for af in audio_files:
                     if af["name"].endswith(".wav"):
                         dst_file = dst_root / day_str / "audio" / af["name"]
@@ -148,12 +148,12 @@ def sync_week_from_drive(target_week: str, workers: int = 16):
                 dst_file = dst_root / day_str / it["name"]
                 all_download_tasks.append((it["id"], dst_file, it["name"]))
 
-    print(f"\n[+] Tổng số file cần tải cho {target_week}: {len(all_download_tasks):,} files")
+    print(f"\n[+] Tổng số file cần tải cho {target_week}: {len(all_download_tasks):,} files", flush=True)
     to_download = [t for t in all_download_tasks if not (t[1].exists() and t[1].stat().st_size > 1000)]
-    print(f"[*] Đã có sẵn: {len(all_download_tasks) - len(to_download):,} files -> Cần tải mới: {len(to_download):,} files\n")
+    print(f"[*] Đã có sẵn: {len(all_download_tasks) - len(to_download):,} files -> Cần tải mới: {len(to_download):,} files\n", flush=True)
 
     if not to_download:
-        print(f"🎉 {target_week} ĐÃ ĐẦY ĐỦ 100% TRÊN MÁY!")
+        print(f"🎉 {target_week} ĐÃ ĐẦY ĐỦ 100% TRÊN MÁY!", flush=True)
         return
 
     t0 = time.time()
@@ -164,12 +164,12 @@ def sync_week_from_drive(target_week: str, workers: int = 16):
             t = futures[fut]
             done_count += 1
             ok = fut.result()
-            if done_count % 100 == 0 or done_count == len(to_download):
+            if done_count % 50 == 0 or done_count == len(to_download):
                 speed = done_count / max(0.1, time.time() - t0)
                 pct = (done_count / len(to_download)) * 100
                 print(f"[{done_count}/{len(to_download)}] ({pct:.1f}%) Đang tải {target_week} ({speed:.1f} file/s)...", flush=True)
 
-    print(f"\n🎉 HOÀN TẤT TẢI {target_week} TRONG {(time.time()-t0)/60:.2f} PHÚT!")
+    print(f"\n🎉 HOÀN TẤT TẢI {target_week} TRONG {(time.time()-t0)/60:.2f} PHÚT!", flush=True)
 
 
 if __name__ == "__main__":
