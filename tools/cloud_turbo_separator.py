@@ -145,6 +145,7 @@ def separate_audio_separator_native(src_path: Path, dst_path: Path) -> bool:
             is_vocal_stem = "(vocals)" in out_name_lower or "(lead_vocals)" in out_name_lower or ("(vocal)" in out_name_lower) or (not is_other_stem and "vocal" in out_name_lower and "(other)" not in out_name_lower)
 
             if is_vocal_stem and not is_other_stem:
+                dst_path.parent.mkdir(parents=True, exist_ok=True)
                 cmd = [
                     "ffmpeg", "-y", "-i", str(p_out),
                     "-acodec", "pcm_s16le", "-ar", "16000", "-ac", "1",
@@ -153,10 +154,14 @@ def separate_audio_separator_native(src_path: Path, dst_path: Path) -> bool:
                 res = subprocess.run(cmd, capture_output=True)
                 if dst_path.exists() and dst_path.stat().st_size > 1000:
                     success = True
+                else:
+                    if res.stderr:
+                        print(f"[-] ffmpeg error {src_path.name}: {res.stderr.decode('utf-8', errors='ignore')[:200]}", flush=True)
             p_out.unlink(missing_ok=True)
 
         return success
-    except Exception:
+    except Exception as exc:
+        print(f"[-] RoFormer Error {src_path.name}: {exc}", flush=True)
         return False
     finally:
         if local_in.exists():
