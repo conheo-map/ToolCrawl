@@ -1,12 +1,6 @@
-"""
-tools/cloud_turbo_separator.py — High-Throughput Multi-Process Parallel GPU Separator for Cloud GPUs.
-
-Architecture:
-  - True Multi-Processing (ProcessPoolExecutor with spawn): N independent GPU processes.
-  - SOTA Model: Mel-Band RoFormer (vocals_mel_band_roformer.ckpt).
-  - Isolated Memory: Each process has its own Separator instance + isolated tmp directory.
-  - Standard ASR Output: 16kHz Mono 16-bit PCM WAV.
-  - Auto-Update: Synchronizes metadata.json and summary.json per date.
+﻿"""
+tools/cloud_turbo_separator.py — High-Throughput Multi-Process Parallel GPU Separator.
+Supports: Demucs (Meta AI htdemucs — Ultra-Fast & Stable Volume) & Mel-Band RoFormer (SOTA).
 """
 
 from __future__ import annotations
@@ -40,57 +34,93 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
 MODEL_MAP = {
+    "demucs": "htdemucs",
     "roformer": "vocals_mel_band_roformer.ckpt",
     "mdx23c": "MDX23C-8KFFT-InstVoc_HQ.ckpt",
     "kim_vocal": "Kim_Vocal_2.onnx",
 }
 
-# Process-local state
-_worker_separator = None
+_worker_engine = None
 _worker_tmp_dir = None
+_worker_model_type = None
 
 
-def init_worker(model_name: str):
-    global _worker_separator, _worker_tmp_dir
-    import torch
-    _orig_load = torch.load
-    def _custom_load(*a, **kw):
-        kw["weights_only"] = False
-        return _orig_load(*a, **kw)
-    torch.load = _custom_load
-
+def init_worker(model_key: str):
+    global _worker_engine, _worker_tmp_dir, _worker_model_type
+    _worker_model_type = model_key
     pid = os.getpid()
     _worker_tmp_dir = Path(tempfile.gettempdir()) / f"turbo_worker_{pid}"
     _worker_tmp_dir.mkdir(parents=True, exist_ok=True)
 
-    from audio_separator.separator import Separator
-    _worker_separator = Separator(
-        output_dir=str(_worker_tmp_dir),
-        output_format="WAV",
-        log_level=40,
-        use_autocast=True,
-        mdxc_params={"batch_size": 8, "segment_size": 256},
-    )
-    _worker_separator.load_model(model_name)
+    if model_key == "demucs":
+        from demucs.pretrained import get_model
+        model = get_model("htdemucs")
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        model.to(device)
+        model.eval()
+        _worker_engine = model
+    else:
+        from audio_separator.separator import Separator
+        model_name = MODEL_MAP.get(model_key, "vocals_mel_band_roformer.ckpt")
+        _worker_engine = Separator(
+            output_dir=str(_worker_tmp_dir),
+            output_format="WAV",
+            log_level=40,
+            use_autocast=True,
+            mdxc_params={"batch_size": 8, "segment_size": 256} if model_key == "roformer" else {},
+        )
+        _worker_engine.load_model(model_name)
 
 
-def worker_separate_task(item_tuple: tuple) -> tuple:
-    global _worker_separator, _worker_tmp_dir
-    src_str, dst_str, item_id, week, date_str, group = item_tuple
-    src_path = Path(src_str)
-    dst_path = Path(dst_str)
+def separate_demucs_native(src_path: Path, dst_path: Path) -> bool:
+    global _worker_engine
+    try:
+        import torchaudio
+        from demucs.apply import apply_model
 
-    if not src_path.exists():
-        return (False, item_id, week, date_str, group, "File source không tồn tại")
+        wav, sr = torchaudio.load(str(src_path))
+        device = next(_worker_engine.parameters()).device
 
-    dst_path.parent.mkdir(parents=True, exist_ok=True)
+        # Resample to 44100 if needed for Demucs
+        if sr != 44100:
+            resampler = torchaudio.transforms.Resample(sr, 44100)
+            wav = resampler(wav)
+            sr = 44100
+
+        if wav.ndim == 1:
+            wav = wav.unsqueeze(0).repeat(2, 1)
+        elif wav.shape[0] == 1:
+            wav = wav.repeat(2, 1)
+
+        wav = wav.unsqueeze(0).to(device)  # [1, 2, time]
+
+        with torch.no_grad():
+            sources = apply_model(_worker_engine, wav, shifts=1, split=True, overlap=0.25, progress=False)
+
+        # sources shape: [1, 4, 2, time] -> stems: (drums, bass, other, vocals)
+        vocals = sources[0, 3].mean(dim=0).cpu()  # Mono
+
+        # Resample to 16000Hz PCM
+        resample_16k = torchaudio.transforms.Resample(44100, 16000)
+        vocals_16k = resample_16k(vocals).numpy()
+
+        dst_path.parent.mkdir(parents=True, exist_ok=True)
+        sf.write(str(dst_path), vocals_16k, 16000, subtype="PCM_16")
+        return dst_path.exists() and dst_path.stat().st_size > 1000
+    except Exception as exc:
+        print(f"[-] Demucs Error {src_path.name}: {exc}", flush=True)
+        return False
+
+
+def separate_audio_separator_native(src_path: Path, dst_path: Path) -> bool:
+    global _worker_engine, _worker_tmp_dir
     local_in = _worker_tmp_dir / f"in_{src_path.name}"
     try:
         shutil.copyfile(str(src_path), str(local_in))
-        ro_files = _worker_separator.separate(str(local_in))
+        ro_files = _worker_engine.separate(str(local_in))
 
         if not ro_files:
-            return (False, item_id, week, date_str, group, "Separator không trả về output")
+            return False
 
         success = False
         for out_f in ro_files:
@@ -113,12 +143,29 @@ def worker_separate_task(item_tuple: tuple) -> tuple:
                     success = True
             p_out.unlink(missing_ok=True)
 
-        return (success, item_id, week, date_str, group, "")
-    except Exception as exc:
-        return (False, item_id, week, date_str, group, str(exc))
+        return success
+    except Exception:
+        return False
     finally:
         if local_in.exists():
             local_in.unlink(missing_ok=True)
+
+
+def worker_separate_task(item_tuple: tuple) -> tuple:
+    global _worker_model_type
+    src_str, dst_str, item_id, week, date_str, group = item_tuple
+    src_path = Path(src_str)
+    dst_path = Path(dst_str)
+
+    if not src_path.exists():
+        return (False, item_id, week, date_str, group, "File source không tồn tại")
+
+    if _worker_model_type == "demucs":
+        ok = separate_demucs_native(src_path, dst_path)
+    else:
+        ok = separate_audio_separator_native(src_path, dst_path)
+
+    return (ok, item_id, week, date_str, group, "")
 
 
 def update_metadata_and_summary(date_dir: Path):
@@ -231,22 +278,21 @@ def load_all_dataset_items(target_weeks: list[str], filter_date: str = "", filte
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Multi-Process True Parallel GPU Vocal Separator")
+    parser = argparse.ArgumentParser(description="Multi-Process Turbo GPU Vocal Separator")
     parser.add_argument("--week", choices=["1", "2", "3", "4", "all"], default="all", help="Target Week(s)")
     parser.add_argument("--date", type=str, default="", help="Filter specific date")
     parser.add_argument("--group", choices=["3a", "3b", "all"], default="all", help="Target BGM group")
-    parser.add_argument("--model", choices=["roformer", "mdx23c", "kim_vocal"], default="roformer", help="AI Model")
-    parser.add_argument("--workers", type=int, default=8, help="Number of parallel GPU worker processes")
+    parser.add_argument("--model", choices=["demucs", "roformer", "mdx23c", "kim_vocal"], default="demucs", help="AI Model")
+    parser.add_argument("--workers", type=int, default=16, help="Number of parallel GPU worker processes")
     parser.add_argument("--batch-size", type=int, default=500, help="Batch size")
     parser.add_argument("--limit", type=int, default=0, help="Limit total files")
     args = parser.parse_args()
 
     target_weeks = ["1", "2", "3", "4"] if args.week == "all" else [args.week]
-    model_name = MODEL_MAP.get(args.model, "vocals_mel_band_roformer.ckpt")
 
     print("=" * 85)
     print("🚀 BẮT ĐẦU CLOUD TURBO MULTI-PROCESS GPU VOCAL SEPARATOR")
-    print(f"Tuần: {args.week} | Nhóm: {args.group.upper()} | Model: {args.model.upper()} ({model_name}) | GPU Processes: {args.workers}")
+    print(f"Tuần: {args.week} | Nhóm: {args.group.upper()} | Model: {args.model.upper()} | GPU Processes: {args.workers}")
     print("=" * 85, flush=True)
 
     all_items = load_all_dataset_items(target_weeks, filter_date=args.date, filter_group=args.group)
@@ -271,7 +317,6 @@ def main():
             update_metadata_and_summary(d)
         return
 
-    # Prepare tuples for multi-processing
     task_tuples = [
         (str(it["src_path"]), str(it["dst_path"]), it["item_id"], it["week"], it["date"], it["group"])
         for it in to_process
@@ -285,12 +330,11 @@ def main():
     batch_size = args.batch_size
     num_batches = (len(task_tuples) + batch_size - 1) // batch_size
 
-    # Launch True Multi-Processing Pool
     import torch.multiprocessing as mp
     mp.set_start_method("spawn", force=True)
 
-    print(f"[+] Đang khởi tạo {args.workers} GPU Processes độc lập trên VRAM...")
-    with ProcessPoolExecutor(max_workers=args.workers, initializer=init_worker, initargs=(model_name,)) as executor:
+    print(f"[+] Đang khởi tạo {args.workers} GPU Processes độc lập ({args.model.upper()})...")
+    with ProcessPoolExecutor(max_workers=args.workers, initializer=init_worker, initargs=(args.model,)) as executor:
         for b_idx in range(num_batches):
             b_tasks = task_tuples[b_idx * batch_size : (b_idx + 1) * batch_size]
             print(f"\n==================== BATCH {b_idx+1}/{num_batches} ({len(b_tasks)} files) ====================")

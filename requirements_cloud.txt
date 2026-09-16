@@ -2,11 +2,11 @@
 # SaydiTool — RunPod Cloud GPU Fast Requirements
 # =====================================================================
 
-# Audio Separation & Deep Learning
+demucs>=4.0.0
+torchaudio>=2.0.0
 audio-separator>=0.47.0
 onnxruntime-gpu>=1.18.0
 
-# Audio Processing & I/O
 soundfile>=0.12.1
 librosa>=0.10.0
 scipy>=1.11.0
@@ -14,7 +14,6 @@ pyyaml>=6.0.1
 tqdm>=4.66.0
 gdown>=5.1.0
 
-# Google Drive & Tools
 requests>=2.31.0
 google-api-python-client>=2.100.0
 google-auth-oauthlib>=1.0.0
