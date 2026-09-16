@@ -128,13 +128,17 @@ def sync_week_from_drive(target_week: str, filter_group: str = "all", workers: i
     print(f"[*] Đang quét danh mục trên Google Drive cho {target_week} (Nhóm: {filter_group.upper()})...", flush=True)
 
     root_items = list_files_in_folder(access_token, root_id)
-    week_folder = next((it for it in root_items if it["name"] == target_week and it["mimeType"] == "application/vnd.google-apps.folder"), None)
+    folders = [it for it in root_items if it["mimeType"] == "application/vnd.google-apps.folder"]
+    
+    target_clean = target_week.lower().replace(" ", "").replace("_", "")
+    week_folder = next((it for it in folders if it["name"].lower().replace(" ", "").replace("_", "") == target_clean), None)
 
     if not week_folder:
-        print(f"[-] Không tìm thấy folder {target_week} trên Drive!", flush=True)
+        print(f"[-] Không tìm thấy folder khớp với '{target_week}' trên Drive!", flush=True)
+        print(f"[*] Các folder đang có trên Drive: {[it['name'] for it in folders]}", flush=True)
         return
 
-    print(f"[+] Đã tìm thấy {target_week}. Đang quét các ngày...", flush=True)
+    print(f"[+] Đã tìm thấy '{week_folder['name']}' (ID: {week_folder['id']}). Đang quét các ngày...", flush=True)
     date_folders = list_files_in_folder(access_token, week_folder["id"])
 
     all_download_tasks = []
