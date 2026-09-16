@@ -21,6 +21,12 @@ TIKWM_TIMEOUT = 20
 TIKWM_MAX_RETRIES = 3
 
 
+import threading
+
+_tikwm_pacer_lock = threading.Lock()
+_tikwm_last_request_ts = 0.0
+
+
 class TikWMClient:
     """
     Client đơn giản tích hợp TikWM API để lấy URL video gốc từ TikTok.
@@ -39,6 +45,15 @@ class TikWMClient:
     def _get_ua(self) -> str:
         return random.choice(self._user_agents)
 
+    def _pace_request(self) -> None:
+        """Đảm bảo giãn cách tối thiểu 1.15s giữa các yêu cầu API từ tất cả các luồng."""
+        global _tikwm_last_request_ts
+        with _tikwm_pacer_lock:
+            elapsed = time.time() - _tikwm_last_request_ts
+            if elapsed < 1.15:
+                time.sleep(1.15 - elapsed)
+            _tikwm_last_request_ts = time.time()
+
     def get_video_info(self, tiktok_url: str) -> dict | None:
         """
         Gọi TikWM API và trả về dict chứa:
@@ -52,6 +67,7 @@ class TikWMClient:
 
         for attempt in range(1, TIKWM_MAX_RETRIES + 1):
             try:
+                self._pace_request()
                 req = urllib.request.Request(
                     TIKWM_ENDPOINT,
                     data=post_data,
@@ -66,15 +82,20 @@ class TikWMClient:
                     data = json.loads(raw)
 
                 if data.get("code") != 0:
-                    logger.warning(f"[TikWM] API returned code={data.get('code')} msg={data.get('msg')} (attempt {attempt}/{TIKWM_MAX_RETRIES}) for {tiktok_url}")
+                    wait_sec = 2.0 * attempt + random.uniform(0.5, 1.5)
+                    logger.debug(f"[TikWM] Code={data.get('code')} msg={data.get('msg')} -> retry in {wait_sec:.1f}s")
                     if attempt < TIKWM_MAX_RETRIES:
-                        time.sleep(1.5 * attempt)
+                        time.sleep(wait_sec)
                         continue
                     return None
 
                 d = data.get("data", {})
+                play_url = d.get("play") or d.get("hdplay")
+                if not play_url:
+                    return None
+
                 return {
-                    "play_url": d.get("play"),
+                    "play_url": play_url,
                     "hdplay_url": d.get("hdplay"),
                     "music_url": d.get("music"),
                     "title": d.get("title", ""),
@@ -83,11 +104,9 @@ class TikWMClient:
                 }
 
             except urllib.error.URLError as exc:
-                logger.warning(f"[TikWM] Network error (attempt {attempt}/{TIKWM_MAX_RETRIES}): {exc}")
-                time.sleep(2 ** attempt)
+                time.sleep(2.0 * attempt + random.uniform(0.5, 1.0))
             except Exception as exc:
-                logger.warning(f"[TikWM] Error (attempt {attempt}/{TIKWM_MAX_RETRIES}): {exc}")
-                time.sleep(1)
+                time.sleep(1.0)
 
         return None
 

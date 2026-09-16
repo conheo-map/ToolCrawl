@@ -116,52 +116,7 @@ def download_single_audio(url: str, raw_dir: Path, cookie_mgr: object | None = N
     if out_raw.exists() and out_raw.stat().st_size > 1000:
         return {"item_id": item_id, "url": url, "raw_path": out_raw}
 
-    # Lấy cookie xoay vòng (Round-Robin) nếu có
-    cookie_file = cookie_mgr.get_cookie() if cookie_mgr and hasattr(cookie_mgr, "get_cookie") else None
-
-    # 1. Native TikTok Mobile API + Cookie Auth
-    ydl_opts = {
-        "format": "bestaudio/best",
-        "outtmpl": str(raw_dir / f"{item_id}.%(ext)s"),
-        "extractor_args": {
-            "tiktok": {
-                "api_hostname": [
-                    "api16-normal-c-useast1a.tiktokv.com",
-                    "api16-va.tiktokv.com",
-                    "api22-normal-c-useast1a.tiktokv.com",
-                    "api.tiktokv.com",
-                ]
-            }
-        },
-        "postprocessors": [{
-            "key": "FFmpegExtractAudio",
-            "preferredcodec": "wav",
-            "preferredquality": "192",
-        }],
-        "postprocessor_args": [
-            "-ar", "16000",
-            "-ac", "1",
-            "-acodec", "pcm_s16le",
-        ],
-        "quiet": True,
-        "no_warnings": True,
-        "ignoreerrors": True,
-    }
-
-    if cookie_file and cookie_file.exists():
-        ydl_opts["cookiefile"] = str(cookie_file)
-
-    try:
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            ydl.download([url])
-
-        if out_raw.exists() and out_raw.stat().st_size > 1000:
-            return {"item_id": item_id, "url": url, "raw_path": out_raw}
-    except Exception:
-        if cookie_file and cookie_mgr and hasattr(cookie_mgr, "mark_bad"):
-            cookie_mgr.mark_bad(cookie_file)
-
-    # 2. TikWM Fallback (nếu TikTok đổi endpoint)
+    # 1. TikWM Direct Stream (Cực nhanh, đã có Pacer 1.15s thread-safe chống rate-limit 100%)
     try:
         from utils.tikwm_client import TikWMClient
         tikwm = TikWMClient()
@@ -180,6 +135,48 @@ def download_single_audio(url: str, raw_dir: Path, cookie_mgr: object | None = N
                 return {"item_id": item_id, "url": url, "raw_path": out_raw, "title": vinfo.get("title", "")}
     except Exception:
         pass
+
+    # 2. Fallback sang yt-dlp với Cookie xoay vòng & Native Mobile API
+    try:
+        cookie_file = cookie_mgr.get_cookie() if cookie_mgr and hasattr(cookie_mgr, "get_cookie") else None
+        ydl_opts = {
+            "format": "bestaudio/best",
+            "outtmpl": str(raw_dir / f"{item_id}.%(ext)s"),
+            "extractor_args": {
+                "tiktok": {
+                    "api_hostname": [
+                        "api16-normal-c-useast1a.tiktokv.com",
+                        "api16-va.tiktokv.com",
+                        "api22-normal-c-useast1a.tiktokv.com",
+                        "api.tiktokv.com",
+                    ]
+                }
+            },
+            "postprocessors": [{
+                "key": "FFmpegExtractAudio",
+                "preferredcodec": "wav",
+                "preferredquality": "192",
+            }],
+            "postprocessor_args": [
+                "-ar", "16000",
+                "-ac", "1",
+                "-acodec", "pcm_s16le",
+            ],
+            "quiet": True,
+            "no_warnings": True,
+            "ignoreerrors": True,
+        }
+        if cookie_file and cookie_file.exists():
+            ydl_opts["cookiefile"] = str(cookie_file)
+
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            ydl.download([url])
+
+        if out_raw.exists() and out_raw.stat().st_size > 1000:
+            return {"item_id": item_id, "url": url, "raw_path": out_raw}
+    except Exception:
+        if cookie_file and cookie_mgr and hasattr(cookie_mgr, "mark_bad"):
+            cookie_mgr.mark_bad(cookie_file)
 
     return None
 
