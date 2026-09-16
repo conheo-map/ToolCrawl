@@ -70,6 +70,8 @@ MODEL_MAP = {
 }
 
 
+import threading
+
 class CloudTurboEngine:
     def __init__(self, model_key: str = "roformer", device: str = "cuda"):
         self.device = device if (torch.cuda.is_available() and device == "cuda") else "cpu"
@@ -78,6 +80,7 @@ class CloudTurboEngine:
         self.tmp_dir = Path(tempfile.gettempdir()) / "cloud_turbo_tmp"
         self.tmp_dir.mkdir(parents=True, exist_ok=True)
         self.separator = None
+        self._lock = threading.Lock()
 
     def load_model(self):
         t0 = time.time()
@@ -87,6 +90,7 @@ class CloudTurboEngine:
             output_dir=str(self.tmp_dir),
             output_format="WAV",
             log_level=40,  # Suppress internal spam
+            mdxc_params={"batch_size": 4, "segment_size": 256} if self.model_key == "roformer" else {},
         )
         self.separator.load_model(self.model_name)
         print(f"  -> Model {self.model_name} đã sẵn sàng trong {time.time()-t0:.2f}s!\n")
@@ -96,13 +100,21 @@ class CloudTurboEngine:
             return False
 
         dst_path.parent.mkdir(parents=True, exist_ok=True)
-        local_in = self.tmp_dir / f"in_{src_path.name}"
+        tid = threading.get_ident()
+        local_in = self.tmp_dir / f"in_{tid}_{src_path.name}"
         try:
             shutil.copyfile(str(src_path), str(local_in))
-            ro_files = self.separator.separate(str(local_in))
-            success = False
+            
+            with self._lock:
+                ro_files = self.separator.separate(str(local_in))
+                
+            if not ro_files:
+                return False
 
+            success = False
             for out_f in ro_files:
+                if not out_f:
+                    continue
                 p_out = self.tmp_dir / out_f if (self.tmp_dir / out_f).exists() else Path(out_f)
                 out_name_lower = p_out.name.lower()
                 
