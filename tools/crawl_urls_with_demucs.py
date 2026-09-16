@@ -228,10 +228,10 @@ def main():
     downloaded_items = []
     t0 = time.time()
 
-    # Kiểm tra nếu người dùng chọn bỏ qua tải hoặc thư mục raw_audio đã có sẵn file
+    # Kiểm tra nếu người dùng chọn bỏ qua tải (--skip-download)
     existing_raw = list(raw_dir.glob("*.wav"))
-    if args.skip_download or len(existing_raw) > 500:
-        print(f"⏩ [BỎ QUA GIAI ĐOẠN 1] Tìm thấy {len(existing_raw):,} file audio thô có sẵn trong {raw_dir.name}!")
+    if args.skip_download:
+        print(f"⏩ [BỎ QUA GIAI ĐOẠN 1] Dùng {len(existing_raw):,} file audio thô có sẵn trong {raw_dir.name}!")
         downloaded_items = [{"item_id": f.stem, "raw_path": f, "url": ""} for f in existing_raw]
     else:
         # ── GIAI ĐOẠN 1: TẢI AUDIO HÀNG LOẠT ──
@@ -383,10 +383,7 @@ def main():
     sum_file = output_root / "summary.json"
     sum_file.write_text(json.dumps(summary_data, indent=2, ensure_ascii=False), encoding="utf-8")
 
-    if raw_dir.exists():
-        shutil.rmtree(raw_dir, ignore_errors=True)
-    if vocal_dir.exists():
-        shutil.rmtree(vocal_dir, ignore_errors=True)
+    # Giữ nguyên raw_audio và vocal_clean trên ổ cứng để bảo toàn dữ liệu
 
     t_total_min = (time.time() - t0) / 60
     print(f"🎉 HOÀN TẤT TRỌN GÓI TOÀN BỘ PIPELINE TRONG {t_total_min:.1f} PHÚT!")
