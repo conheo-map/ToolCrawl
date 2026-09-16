@@ -103,7 +103,8 @@ def run_demucs_separate_task(task_tuple: tuple) -> tuple:
 
 # ── Step 1: Fast Parallel Audio Downloader (TikWM Direct Stream + yt-dlp Fallback) ──
 def download_single_audio(url: str, raw_dir: Path) -> dict | None:
-    if "/photo/" in url:
+    # Tuyệt đối bỏ qua link ảnh/slideshow và link thư viện nhạc rời
+    if "/photo/" in url or "/music/" in url:
         return None
 
     import re
