@@ -1,10 +1,13 @@
 """
 processors/vocal_separator.py — Bóc tách và làm sạch giọng nói từ audio có nhạc nền.
 
-Hỗ trợ 2 chế độ tự động:
+Pipeline chính thức đã chốt:
   🏠 LOCAL mode  (CLOUD_MODE không được set):
-     → Engine 3 tầng siêu mạnh: HPSS + SpectralGating (97%) + High-pass Filter 80Hz
-     → Chất lượng cực cao, tách hoàn toàn nhạc nền, phù hợp cho dataset ASR chuẩn
+     → Cascade 2 Tầng SOTA:
+         Tầng 1: Demucs AI (htdemucs) — Triệt tiêu Bass, Trống, Sub-bass (giảm -80-93%)
+         Tầng 2: Mel-Band RoFormer — Khử tàn dư dải cao, synth, sóng hài
+     → Fallback: Nếu RoFormer lỗi → giữ kết quả Demucs tầng 1
+     → Fallback 2: Nếu Demucs lỗi → HPSS + SpectralGating 3 tầng
 
   ☁️  CLOUD mode (set CLOUD_MODE=1 trong môi trường):
      → Engine 1 tầng siêu tốc: SpectralGating (90%) + High-pass Filter 80Hz
@@ -20,7 +23,7 @@ from utils.logger import get_logger
 
 logger = get_logger("vocal_separator")
 
-DEFAULT_MODEL = "htdemucs_ft"
+DEFAULT_MODEL = "htdemucs"
 FALLBACK_MODEL = "htdemucs"
 
 # Tự động phát hiện môi trường chạy
@@ -28,11 +31,16 @@ IS_CLOUD = os.environ.get("CLOUD_MODE", "0") == "1"
 
 
 def is_demucs_available() -> bool:
+    import sys
     try:
-        result = subprocess.run(["demucs", "--version"], capture_output=True, timeout=5)
+        result = subprocess.run([sys.executable, "-m", "demucs", "--help"], capture_output=True, timeout=10)
         return result.returncode == 0
-    except (FileNotFoundError, subprocess.TimeoutExpired):
-        return False
+    except Exception:
+        try:
+            result = subprocess.run(["demucs", "--version"], capture_output=True, timeout=5)
+            return result.returncode == 0
+        except Exception:
+            return False
 
 
 def is_noisereduce_available() -> bool:
@@ -69,7 +77,7 @@ class VocalSeparator:
     def available(self) -> bool:
         return self._has_demucs or self._has_spectral
 
-    def separate(self, audio_path: Path, timeout: int = 300) -> bool:
+    def separate(self, audio_path: Path, timeout: int = 900) -> bool:
         """
         Bóc tách giọng nói khỏi nhạc nền và ghi đè lại file audio.
         Tự động chọn engine Local (cao) hoặc Cloud (nhanh).
@@ -102,45 +110,87 @@ class VocalSeparator:
 
 
     # ─────────────────────────────────────────
-    # Engine 1: Demucs AI
+    # Engine 1: Cascade 2 Tầng (Demucs -> Mel-Band RoFormer) SOTA
     # ─────────────────────────────────────────
 
     def _separate_demucs(self, audio_path: Path, timeout: int) -> bool:
+        """
+        [CHÍNH THỨC] Quy trình 2 tầng bóc tách nhạc nền TikTok:
+          - Tầng 1: Demucs AI (htdemucs) — Triệt tiêu Bass và Trống
+          - Tầng 2: Mel-Band RoFormer SOTA — Khử sạch tàn dư dải cao, synth và sóng hài
+        """
         with tempfile.TemporaryDirectory() as tmp_dir:
             tmp_path = Path(tmp_dir)
-            output_dir = tmp_path / "output"
-            output_dir.mkdir()
+            demucs_out_dir = tmp_path / "demucs_out"
+            demucs_out_dir.mkdir(parents=True, exist_ok=True)
 
-            logger.info(f"[Demucs AI] Separating vocals: {audio_path.name} ...")
+            logger.info(f"[Cascade Tầng 1/2: Demucs AI] Triệt tiêu trống & bass: {audio_path.name} ...")
+            import sys
             cmd = [
+                sys.executable,
+                "-m",
                 "demucs",
-                "--model", self._model,
+                "-n", self._model,
                 "--two-stems", "vocals",
                 "--shifts", "2",
                 "--overlap", "0.25",
-                "--out", str(output_dir),
+                "--out", str(demucs_out_dir),
                 str(audio_path),
             ]
 
             result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
             if result.returncode != 0:
                 logger.warning(f"[Demucs AI] Primary model failed, trying fallback: {FALLBACK_MODEL}")
-                cmd[2] = FALLBACK_MODEL
+                cmd[4] = FALLBACK_MODEL
                 result = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
                 if result.returncode != 0:
                     return False
 
-            vocals_file = None
+            demucs_vocals = None
             for ext in ["wav", "mp3"]:
-                matches = list(output_dir.rglob(f"vocals.{ext}"))
+                matches = list(demucs_out_dir.rglob(f"vocals.{ext}"))
                 if matches:
-                    vocals_file = matches[0]
+                    demucs_vocals = matches[0]
                     break
 
-            if not vocals_file:
+            if not demucs_vocals:
                 return False
 
-            return self._convert_to_wav(src=vocals_file, dst=audio_path)
+            # Tầng 2: Mel-Band RoFormer
+            final_vocal = demucs_vocals
+            try:
+                import torch
+                # Ensure PyTorch 2.6+ compatibility
+                _orig_load = torch.load
+                def _safe_load(*a, **kw):
+                    kw["weights_only"] = False
+                    return _orig_load(*a, **kw)
+                torch.load = _safe_load
+
+                from audio_separator.separator import Separator
+                roformer_out_dir = tmp_path / "roformer_out"
+                roformer_out_dir.mkdir(parents=True, exist_ok=True)
+
+                logger.info(f"[Cascade Tầng 2/2: MelBand RoFormer] Khử tàn dư dải cao: {audio_path.name} ...")
+                sep = Separator(
+                    output_dir=str(roformer_out_dir),
+                    output_format="WAV",
+                    log_level=30
+                )
+                sep.load_model("vocals_mel_band_roformer.ckpt")
+                roformer_outputs = sep.separate(str(demucs_vocals))
+                
+                # Tìm output vocal của RoFormer
+                for ro_f in roformer_outputs:
+                    if "(vocals)" in str(ro_f).lower() or "vocals" in Path(ro_f).stem.lower():
+                        final_vocal = Path(ro_f)
+                        logger.info(f"[Cascade 2 Tầng] Hoàn tất bóc tách tinh khiết cho {audio_path.name}")
+                        break
+            except Exception as ro_exc:
+                logger.warning(f"[Cascade] MelBand RoFormer tầng 2 gặp lỗi ({ro_exc}), sử dụng kết quả tầng 1 (Demucs).")
+                final_vocal = demucs_vocals
+
+            return self._convert_to_wav(src=final_vocal, dst=audio_path)
 
     # ─────────────────────────────────────────
     # Engine 0: Cloud Fast (1 tầng, ~1s/file)

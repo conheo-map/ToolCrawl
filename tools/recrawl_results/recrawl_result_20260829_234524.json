@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-08-29T23:45:24+07:00",
+  "dry_run": true,
+  "total": 5,
+  "success": 0,
+  "failed": 5,
+  "by_status": {
+    "SKIP_NO_WAV": 5
+  },
+  "results": [
+    {
+      "item_id": "tt_7675751722584689940",
+      "status": "SKIP_NO_WAV",
+      "audio_dir": "Week2\\2026-08-19\\audio",
+      "new_logprob": null,
+      "new_quality": null,
+      "stages": [],
+      "files_replaced": [],
+      "error": "No WAV files matching tt_7675751722584689940*.wav",
+      "old_status": "CORRUPT_OR_MISSING"
+    },
+    {
+      "item_id": "fb_25446115848405783",
+      "status": "SKIP_NO_WAV",
+      "audio_dir": "Week2\\2026-08-20\\audio",
+      "new_logprob": null,
+      "new_quality": null,
+      "stages": [],
+      "files_replaced": [],
+      "error": "No WAV files matching fb_25446115848405783*.wav",
+      "old_status": "CORRUPT_OR_MISSING"
+    },
+    {
+      "item_id": "fb_2634223596998034",
+      "status": "SKIP_NO_WAV",
+      "audio_dir": "Week2\\2026-08-20\\audio",
+      "new_logprob": null,
+      "new_quality": null,
+      "stages": [],
+      "files_replaced": [],
+      "error": "No WAV files matching fb_2634223596998034*.wav",
+      "old_status": "CORRUPT_OR_MISSING"
+    },
+    {
+      "item_id": "tt_7238464584992951554",
+      "status": "SKIP_NO_WAV",
+      "audio_dir": "Week2\\2026-08-20\\audio",
+      "new_logprob": null,
+      "new_quality": null,
+      "stages": [],
+      "files_replaced": [],
+      "error": "No WAV files matching tt_7238464584992951554*.wav",
+      "old_status": "CORRUPT_OR_MISSING"
+    },
+    {
+      "item_id": "tt_7392832598269103376",
+      "status": "SKIP_NO_WAV",
+      "audio_dir": "Week2\\2026-08-20\\audio",
+      "new_logprob": null,
+      "new_quality": null,
+      "stages": [],
+      "files_replaced": [],
+      "error": "No WAV files matching tt_7392832598269103376*.wav",
+      "old_status": "CORRUPT_OR_MISSING"
+    }
+  ]
+}

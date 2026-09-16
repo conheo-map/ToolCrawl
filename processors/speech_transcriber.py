@@ -50,6 +50,42 @@ class SpeechTranscriber:
         if not audio_path.exists():
             return {"text": "", "word_count": 0, "speaker_type": "monologue"}
 
+        # ─── Ưu tiên 1: Cloud AI API (Groq / Gemini / OpenAI) ───
+        try:
+            from processors.cloud_speech_api import CloudSpeechAPI
+            cloud_client = CloudSpeechAPI()
+            if cloud_client.active_provider != "local":
+                c_res = cloud_client.transcribe(audio_path, language="vi")
+                if c_res.get("success") and c_res.get("text"):
+                    full_text = c_res["text"].strip()
+                    word_count = len(full_text.split())
+                    if output_dir:
+                        output_dir.mkdir(parents=True, exist_ok=True)
+                        (output_dir / f"{audio_path.stem}.txt").write_text(full_text, encoding="utf-8")
+                        (output_dir / f"{audio_path.stem}.json").write_text(
+                            json.dumps({
+                                "item_id": audio_path.stem,
+                                "language": "vi",
+                                "provider": c_res.get("provider"),
+                                "model": c_res.get("model"),
+                                "duration_ms": c_res.get("duration_ms"),
+                                "word_count": word_count,
+                                "text": full_text,
+                            }, ensure_ascii=False, indent=2),
+                            encoding="utf-8"
+                        )
+                    logger.info(f"[SpeechTranscriber] Cloud AI ({c_res.get('provider')}) transcribed {audio_path.name}: {word_count} words ({c_res.get('duration_ms', 0)}ms)")
+                    return {
+                        "text": full_text,
+                        "word_count": word_count,
+                        "speaker_type": "monologue",
+                        "provider": c_res.get("provider"),
+                        "segments": [],
+                    }
+        except Exception as c_exc:
+            logger.debug(f"[SpeechTranscriber] Cloud API skipped ({c_exc}), falling back to local...")
+
+        # ─── Ưu tiên 2: Fallback Local faster-whisper ───
         model = self._get_model()
         if not model or model is False:
             return {"text": "", "word_count": 0, "speaker_type": "monologue"}

@@ -15,9 +15,28 @@ PROJECT_ROOT = Path(__file__).parent.resolve()
 # ─────────────────────────────────────────────
 # Tuần & Ngày crawl (Theo chuẩn Giờ Việt Nam GMT+7)
 # ─────────────────────────────────────────────
-WEEK_NUMBER: int = 3
 VN_TZ = datetime.timezone(datetime.timedelta(hours=7))
 CRAWL_DATE: str = datetime.datetime.now(VN_TZ).date().isoformat()
+
+def get_current_week(dt: datetime.date | str | None = None) -> int:
+    """
+    Tự động tính số tuần chuẩn:
+    - Week 1: trước 24/08/2026 (20/8 - 23/8)
+    - Week 2: 24/08 - 30/08/2026
+    - Week 3: 31/08 - 06/09/2026
+    - Week 4: 07/09 - 13/09/2026
+    - Cứ tiếp tục mỗi 7 ngày tăng 1 tuần.
+    """
+    if dt is None:
+        dt = datetime.datetime.now(VN_TZ).date()
+    elif isinstance(dt, str):
+        dt = datetime.date.fromisoformat(dt)
+    anchor_week2 = datetime.date(2026, 8, 24)
+    if dt < anchor_week2:
+        return 1
+    return 2 + ((dt - anchor_week2).days // 7)
+
+WEEK_NUMBER: int = get_current_week()
 
 # ─────────────────────────────────────────────
 # Thư mục output (theo spec)
@@ -25,12 +44,30 @@ CRAWL_DATE: str = datetime.datetime.now(VN_TZ).date().isoformat()
 BASE_OUTPUT_DIR: Path = PROJECT_ROOT / f"Week{WEEK_NUMBER}" / CRAWL_DATE
 AUDIO_DIR:       Path = BASE_OUTPUT_DIR / "audio"
 ERRORS_DIR:      Path = PROJECT_ROOT / "errors"
-QUARANTINE_DIR:  Path = BASE_OUTPUT_DIR / "quarantine"
+QUARANTINE_DIR:  Path = BASE_OUTPUT_DIR / "quarantine"  # Default: ngày crawl hiện tại
 CHECKPOINT_DIR:  Path = PROJECT_ROOT / ".checkpoints"
 
 METADATA_FILE:   Path = BASE_OUTPUT_DIR / "metadata.json"
 SUMMARY_FILE:    Path = BASE_OUTPUT_DIR / "summary.json"
 SEEN_IDS_FILE:   Path = PROJECT_ROOT / ".checkpoints" / "seen_ids.json"
+
+
+def get_quarantine_dir(crawl_date: str | None = None) -> Path:
+    """
+    [FIX 1.1] Trả về đúng thư mục quarantine theo ngày crawl GỐC của file,
+    thay vì dùng ngày hôm nay (CRAWL_DATE).
+
+    Lý do: Bug cũ ghi quarantine theo ngày runtime → khi retry/reprocess file
+    cũ, quarantined_count trong summary.json bị inflated sai (vd: 24-25/08 có
+    quarantined_count > items_delivered).
+
+    Sử dụng:
+        quarantine_dir = get_quarantine_dir(record.get("crawl_date") or CRAWL_DATE)
+        quarantine_dir.mkdir(parents=True, exist_ok=True)
+    """
+    date = crawl_date or CRAWL_DATE
+    week = get_current_week(date)
+    return PROJECT_ROOT / f"Week{week}" / date / "quarantine"
 
 # ─────────────────────────────────────────────
 # Thông số Audio (chuẩn đầu ra)
@@ -86,14 +123,52 @@ MUSIC_REJECT_RATIO: float = 0.60
 MUSIC_ANALYSIS_SAMPLE_SEC: float = 30.0
 MUSIC_QUARANTINE_INSTEAD_OF_DELETE: bool = True
 
+# [UPGRADE 2.2] Music Probability thresholds — thay thế binary True/False
+# Dùng với _check_signal_multiwindow() trả về music_prob float 0.0–1.0
+MUSIC_PROB_REJECT:   float = 0.70   # > 70% → QUARANTINE (hard reject)
+MUSIC_PROB_SEPARATE: float = 0.30   # 30–70% → VocalSeparator
+MUSIC_PROB_AUGMENT:  float = 0.15   # 15–30% → Giữ lại, tag 'augment_bgm'
+# < 15%                             → Clean path, no action
+
+# [UPGRADE 2.2] HPSS signal thresholds — hạ xuống để bắt BGM nhẹ hơn
+HPSS_HARM_RATIO_THRESHOLD: float = 0.45   # Từ 0.60 → 0.45
+HPSS_CONTRAST_THRESHOLD:   float = 20.0   # Từ 22.0 → 20.0
+HPSS_FLATNESS_THRESHOLD:   float = 0.015  # Giữ nguyên
+
+# [FIX 1.3] SNR Hard-Reject gate — nâng từ 8.0 dB → 10.0 dB
+# Đóng khoảng gap 4dB giữa min_snr (12dB) và gate cũ (8dB)
+MUSIC_SNR_HARD_REJECT_DB: float = 10.0
+
 # ─────────────────────────────────────────────
-# Smart Audio Slicer (ASR Standard 5s - 30s)
+# Synthetic Speech Detection (SSD)            [MỚI — Điểm Nghẽn #7]
+# ─────────────────────────────────────────────
+SSD_ENABLED: bool = True
+SSD_PROB_REJECT:  float = 0.70   # > 70% → QUARANTINE (tag: tts_generated)
+SSD_PROB_FLAG:    float = 0.30   # 30–70% → FLAG (tag: possibly_synthetic)
+# < 30%                          → PASS (real human speech)
+
+# Ngưỡng feature heuristic Tầng 1 (không cần GPU)
+SSD_F0_JITTER_THRESHOLD:    float = 0.008   # < 0.008 → nghi ngờ TTS
+SSD_MFCC_VAR_THRESHOLD:     float = 15.0    # < 15.0  → nghi ngờ TTS
+SSD_SPECTRAL_FLUX_THRESHOLD: float = 0.002  # < 0.002 → vocoder smoothing
+
+# ─────────────────────────────────────────────
+# Smart Audio Slicer & Acoustic Padding Guard
 # ─────────────────────────────────────────────
 AUDIO_SLICER_ENABLED: bool = True
-MAX_ASR_SEGMENT_SEC: float = 30.0
-MIN_ASR_SEGMENT_SEC: float = 5.0
+ASR_TARGET_MODEL: str = os.getenv("ASR_TARGET_MODEL", "balanced")  # "whisper" (30s) | "conformer" (15s) | "balanced" (20s)
+MAX_ASR_SEGMENT_SEC: float = 30.0 if ASR_TARGET_MODEL == "whisper" else (15.0 if ASR_TARGET_MODEL == "conformer" else 20.0)
+MIN_ASR_SEGMENT_SEC: float = 3.0
 SILENCE_THRESHOLD_DB: float = -32.0
 MIN_SILENCE_DURATION_SEC: float = 0.35
+PRE_SPEECH_PADDING_SEC: float = 0.20   # Dem khoang lang 0.20s o dau cau chong nuot phu am
+POST_SPEECH_PADDING_SEC: float = 0.25  # Dem khoang lang 0.25s o cuoi cau chong mat mut am
+TRUE_PEAK_MAX_DBFS: float = -1.0       # Nguong tran Headroom chong clipping
+
+# [UPGRADE 2.3] Silero VAD constants cho VadSlicer
+SILERO_VAD_THRESHOLD:  float = 0.50   # Nguong speech/non-speech (0.0-1.0)
+SILERO_MIN_SPEECH_MS:  int   = 250    # Doan noi toi thieu (ms) de tinh la speech
+SILERO_MIN_SILENCE_MS: int   = 100    # Khoang lang toi thieu (ms) giua 2 doan noi
 
 
 # ─────────────────────────────────────────────
@@ -110,6 +185,15 @@ AUTO_CRAWL_KEYWORDS: list[str] = [
     "kể chuyện đêm khuya",
 ]
 
+
+# ─────────────────────────────────────────────
+# Cloud Speech AI API (Groq / Gemini / OpenAI)
+# ─────────────────────────────────────────────
+CLOUD_SPEECH_ENABLED: bool = True
+CLOUD_SPEECH_PROVIDER: str = os.getenv("CLOUD_SPEECH_PROVIDER", "auto")  # "groq" | "gemini" | "openai" | "local" | "auto"
+GROQ_API_KEY: str = os.getenv("GROQ_API_KEY", "")
+GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY", os.getenv("GOOGLE_API_KEY", ""))
+OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY", "")
 
 # ─────────────────────────────────────────────
 # Telegram Bot Configuration

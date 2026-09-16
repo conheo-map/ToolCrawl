@@ -1,23 +1,81 @@
-# Python
+# =====================================================================
+# SaydiTool Production .gitignore — Audio ML & MSS Pipeline Standard
+# =====================================================================
+
+# --- Python Environment & Bytecode ---
 __pycache__/
 *.py[cod]
+*$py.class
 *.egg-info/
 .venv/
 venv/
+ENV/
+env/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg
 
-# Data output (too large for git)
+# --- Model Checkpoints & Large Binaries (Strict Exclusion) ---
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.bin
+*.safetensors
+*.tar
+*.gz
+*.zip
+*.7z
+*.tmp
+audio-separator-models/
+/tmp/
+
+# --- Audio Dataset & Processed Media Outputs ---
 Week*/
+test_evaluation*/
+asr_export/
+scratch/
 errors/
 logs/
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.aac
+*.opus
+*.ogg
+*.webm
+*.mp4
 
-# Sensitive
+# --- Sensitive Credentials & Browser Sessions ---
 cookies/
 *cookies*.txt
 proxies.txt
+.env
+.env.*
+secrets.json
 
-# Checkpoints (regenerable)
+# --- Checkpoints & Research Scratchpads ---
 .checkpoints/
+local_research/2026-*/
+*.log
 
-# OS
+# --- IDE & OS Metadata ---
+.idea/
+.vscode/
+*.swp
+*.swo
 .DS_Store
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+.pytest_cache/

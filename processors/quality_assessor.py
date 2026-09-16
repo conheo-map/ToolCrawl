@@ -1,4 +1,4 @@
-﻿"""
+"""
 processors/quality_assessor.py — Thẩm định & chấm điểm chất lượng âm thanh giọng nói ASR.
 
 Đo lường các chỉ số âm học chuyên sâu:
@@ -146,14 +146,18 @@ class QualityAssessor:
 
         except Exception as exc:
             logger.warning(f"[QualityAssessor] Assessment failed for {audio_path.name}: {exc}")
-            return self._fallback_stats()
+            return self._fallback_stats(reason=str(exc))
 
-    def _fallback_stats(self) -> dict:
+    def _fallback_stats(self, reason: str = "unknown") -> dict:
+        """FIX: Fallback trả về FAIL (is_clean=False) thay vì PASS.
+        Audio lỗi/hỏng không thể đánh giá được phải bị từ chối, không phải chấp nhận."""
+        logger.warning(f"[QualityAssessor] Assessment fallback triggered: {reason}")
         return {
-            "snr_db": 15.0,
-            "speech_ratio": 0.50,
-            "peak_dbfs": -1.0,
-            "rms_dbfs": -18.0,
-            "quality_score": 0.75,
-            "is_clean": True,
+            "snr_db": 0.0,
+            "speech_ratio": 0.0,
+            "peak_dbfs": -99.0,
+            "rms_dbfs": -99.0,
+            "quality_score": 0.0,
+            "is_clean": False,   # ← FAIL: audio không đánh giá được = không đạt
+            "fallback_reason": reason,
         }

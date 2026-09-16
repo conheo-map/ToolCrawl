@@ -57,14 +57,46 @@ class DedupStore:
                 pass
 
     def is_seen(self, item_id: str) -> bool:
-        """Kiểm tra item_id đã crawl chưa."""
+        """Kiểm tra item_id đã được xử lý chưa. Hỗ trợ 3 dạng lookup."""
         with self._lock:
-            return item_id in self._seen
+            if item_id in self._seen:
+                return True
+
+            # Tầng 2: Base ID (bỏ suffix _01)
+            parts = item_id.rsplit("_", 1)
+            if len(parts) == 2 and parts[1].isdigit() and len(parts[1]) <= 3:
+                if parts[0] in self._seen:
+                    return True
+
+            # Tầng 3: Platform-specific raw ID (cách ly hoàn toàn TikTok và Facebook)
+            if item_id.startswith("tt_") or item_id.startswith("fb_"):
+                prefix = item_id[:3]
+                raw_id = item_id[3:].split("_")[0]
+                if raw_id.isdigit() and f"{prefix}{raw_id}" in self._seen:
+                    return True
+            elif item_id.isdigit():
+                if f"tt_{item_id}" in self._seen or f"fb_{item_id}" in self._seen:
+                    return True
+
+            return False
 
     def mark_seen(self, item_id: str) -> None:
-        """Đánh dấu item_id đã xử lý xong và tự động lưu tức thì xuống đĩa."""
+        """Đánh dấu item_id đã xử lý. Lưu đủ các dạng cùng platform để is_seen() nhận diện chính xác."""
         with self._lock:
-            self._seen.add(item_id)
+            self._seen.add(item_id)  # Dạng đầy đủ: tt_7638091585464421652_01
+
+            # Dạng base (bỏ suffix _01, _02, ...)
+            parts = item_id.rsplit("_", 1)
+            if len(parts) == 2 and parts[1].isdigit() and len(parts[1]) <= 3:
+                base_id = parts[0]  # tt_7638091585464421652
+                self._seen.add(base_id)
+
+            # Dạng platform + raw id (giữ đúng platform prefix)
+            prefix = "tt_" if item_id.startswith("tt_") else ("fb_" if item_id.startswith("fb_") else "")
+            raw_id = item_id.removeprefix("tt_").removeprefix("fb_").split("_")[0]
+            if raw_id.isdigit():
+                self._seen.add(f"{prefix}{raw_id}")
+
             self._save_unlocked()
 
     def _save_unlocked(self) -> None:

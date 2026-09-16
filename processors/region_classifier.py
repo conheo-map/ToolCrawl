@@ -124,20 +124,19 @@ class RegionClassifier:
     kết hợp Channel Mapping + Weighted Lexicon + Whisper AI Speech Transcription.
     """
 
-    _whisper_model = None
-
     @classmethod
     def _get_whisper_model(cls):
-        """Khởi tạo WhisperModel một lần duy nhất (lazy loading)."""
-        if cls._whisper_model is None:
-            try:
-                from faster_whisper import WhisperModel
-                cls._whisper_model = WhisperModel("tiny", device="cpu", compute_type="int8")
-                logger.info("[RegionClassifier] faster-whisper tiny model initialized for acoustic verification")
-            except Exception as exc:
-                logger.debug(f"[RegionClassifier] faster-whisper not available: {exc}")
-                cls._whisper_model = False
-        return cls._whisper_model
+        """Khởi tạo WhisperModel một lần duy nhất qua ModelRegistry thread-safe."""
+        from utils.model_registry import ModelRegistry
+        def _loader():
+            from faster_whisper import WhisperModel
+            logger.info("[RegionClassifier] faster-whisper tiny model initialized for acoustic verification")
+            return WhisperModel("tiny", device="cpu", compute_type="int8")
+        try:
+            return ModelRegistry.get("whisper_tiny", _loader)
+        except Exception as exc:
+            logger.debug(f"[RegionClassifier] faster-whisper not available: {exc}")
+            return None
 
     @classmethod
     def classify(
@@ -155,9 +154,28 @@ class RegionClassifier:
         if forced_region and forced_region.lower() in {"northern", "southern", "central", "mixed"}:
             return forced_region.lower()
 
+        # 2. Cloud AI Dialect Recognition (Gemini Multimodal nghe audio / Groq LLaMA 3.3 phân tích ngữ cảnh)
+        try:
+            from processors.cloud_speech_api import CloudSpeechAPI
+            cloud_client = CloudSpeechAPI()
+            if cloud_client.active_provider != "local":
+                ai_res = cloud_client.classify_region(
+                    audio_path=Path(audio_path) if audio_path else None,
+                    transcript=f"{title} {description}",
+                    metadata={"channel": channel_name, "title": title}
+                )
+                if ai_res.get("success") and ai_res.get("region") in {"northern", "southern", "central", "mixed"}:
+                    logger.info(
+                        f"[RegionClassifier] AI ({ai_res.get('provider')}) nhận diện vùng miền: "
+                        f"'{ai_res['region']}' (conf={ai_res.get('confidence', 1.0):.2f}) | Lý do: {ai_res.get('reason')}"
+                    )
+                    return ai_res["region"]
+        except Exception as exc:
+            logger.debug(f"[RegionClassifier] Cloud AI dialect check skipped ({exc}), fallback local rules...")
+
         scores = {"northern": 0.0, "southern": 0.0, "central": 0.0}
 
-        # 2. Tri thức Kênh Nguồn (Đóng vai trò Prior Bias +3.0 điểm, không khóa cứng tuyệt đối)
+        # 3. Tri thức Kênh Nguồn (Đóng vai trò Prior Bias +3.0 điểm, không khóa cứng tuyệt đối)
         ch_clean = _normalize(channel_name).strip()
         for k_channel, k_region in KNOWN_CHANNELS.items():
             if k_channel in ch_clean or ch_clean.startswith(k_channel.lstrip("@")):
@@ -221,7 +239,7 @@ class RegionClassifier:
     @classmethod
     def _transcribe_audio_snippet(cls, audio_path: Path) -> str:
         model = cls._get_whisper_model()
-        if not model or model is False:
+        if not model:
             return ""
 
         try:
@@ -230,6 +248,7 @@ class RegionClassifier:
                 language="vi",
                 vad_filter=True,
                 max_new_tokens=40,
+                clip_timestamps=[[0, 15.0]],
             )
             text = " ".join([seg.text for seg in segments])
             return text

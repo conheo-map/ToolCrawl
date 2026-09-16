@@ -35,16 +35,21 @@ class RateLimiter:
         self._last_request_time: float = 0.0
 
     def wait(self) -> None:
-        """Sleep ngẫu nhiên trong [min, max] giây, đảm bảo thread-safe."""
+        """Sleep đủ thời gian để đạt rate limit, nhưng KHÔNG giữ lock khi ngủ.
+        Mỗi thread tính toán slot của mình và sleep độc lập — không block nhau."""
         delay = random.uniform(self._min, self._max)
+        sleep_time = 0.0
         with self._lock:
             now = time.monotonic()
             elapsed = now - self._last_request_time
             if elapsed < delay:
                 sleep_time = delay - elapsed
-                logger.debug(f"Rate limit: sleeping {sleep_time:.2f}s")
-                time.sleep(sleep_time)
-            self._last_request_time = time.monotonic()
+            # Đặt trước thời điểm request tiếp theo ngay trong lock
+            self._last_request_time = time.monotonic() + sleep_time
+        # Sleep NGOÀI lock: các thread khác có thể check lock của họ song song
+        if sleep_time > 0:
+            logger.debug(f"Rate limit: sleeping {sleep_time:.2f}s")
+            time.sleep(sleep_time)
 
     @staticmethod
     def backoff(attempt: int) -> None:

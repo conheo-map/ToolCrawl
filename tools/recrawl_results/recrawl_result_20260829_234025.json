@@ -1,0 +1,239 @@
+{
+  "generated_at": "2026-08-29T23:40:25+07:00",
+  "dry_run": true,
+  "total": 20,
+  "success": 0,
+  "failed": 20,
+  "by_status": {
+    "TIKWM_FAILED": 3,
+    "SPEECH_MASTER_REJECT:no_speech_detected (no_speech_prob=0.70)": 1,
+    "SPEECH_MASTER_REJECT:no_speech (prob=0.52)": 1,
+    "SPEECH_MASTER_REJECT:low_quality (avg_logprob=-0.624 < -0.5)": 1,
+    "EXCEPTION:Invalid format specifier '.3f if result['new_logprob'] else '?'' for object of type 'float'": 5,
+    "SPEECH_MASTER_REJECT:no_speech_detected (no_speech_prob=1.00)": 1,
+    "SPEECH_MASTER_REJECT:low_quality (avg_logprob=-1.177 < -0.5)": 1,
+    "SPEECH_MASTER_REJECT:no_speech (prob=0.74)": 1,
+    "EXCEPTION:Command '['C:\\\\HocC\\\\SaydiTool\\\\.venv\\\\Scripts\\\\python.exe', '-m', 'demucs', '--two-stems=vocals', '--out', 'C:\\\\Users\\\\Cuong\\\\AppData\\\\Local\\\\Temp\\\\tmpog1_465i\\\\demucs_out', '--filename', '{stem}.{ext}', '-n', 'htdemucs', 'C:\\\\Users\\\\Cuong\\\\AppData\\\\Local\\\\Temp\\\\tmpdenvnz5a\\\\tt_7208855402836970779_raw.wav']' timed out after 300 seconds": 1,
+    "EXCEPTION:Command '['C:\\\\HocC\\\\SaydiTool\\\\.venv\\\\Scripts\\\\python.exe', '-m', 'demucs', '--two-stems=vocals', '--out', 'C:\\\\Users\\\\Cuong\\\\AppData\\\\Local\\\\Temp\\\\tmpvrgtxfo6\\\\demucs_out', '--filename', '{stem}.{ext}', '-n', 'htdemucs', 'C:\\\\Users\\\\Cuong\\\\AppData\\\\Local\\\\Temp\\\\tmpppq2y92k\\\\tt_7638111015649037575_raw.wav']' timed out after 300 seconds": 1,
+    "SPEECH_MASTER_REJECT:no_speech_detected (no_speech_prob=0.79)": 1,
+    "SPEECH_MASTER_REJECT:no_speech (prob=0.88)": 1,
+    "SPEECH_MASTER_REJECT:low_quality (avg_logprob=-0.614 < -0.5)": 1,
+    "EXCEPTION:Command '['C:\\\\HocC\\\\SaydiTool\\\\.venv\\\\Scripts\\\\python.exe', '-m', 'demucs', '--two-stems=vocals', '--out', 'C:\\\\Users\\\\Cuong\\\\AppData\\\\Local\\\\Temp\\\\tmpxjex090s\\\\demucs_out', '--filename', '{stem}.{ext}', '-n', 'htdemucs', 'C:\\\\Users\\\\Cuong\\\\AppData\\\\Local\\\\Temp\\\\tmpiv3zod11\\\\tt_7599155052527324437_raw.wav']' timed out after 300 seconds": 1
+  },
+  "results": [
+    {
+      "item_id": "tt_7598046652372471057_09",
+      "status": "TIKWM_FAILED",
+      "audio_dir": "Week3\\2026-08-28\\audio",
+      "new_logprob": null,
+      "new_quality": null,
+      "stages": [],
+      "files_replaced": [],
+      "error": "TikWM API returned no play_url for https://www.tiktok.com/@thayductoan/video/7598046652372471057",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7616694338294140161_02",
+      "status": "TIKWM_FAILED",
+      "audio_dir": "Week3\\2026-08-28\\audio",
+      "new_logprob": null,
+      "new_quality": null,
+      "stages": [],
+      "files_replaced": [],
+      "error": "TikWM API returned no play_url for https://www.tiktok.com/@thayductoan/video/7616694338294140161",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7289394928013020434_03",
+      "status": "TIKWM_FAILED",
+      "audio_dir": "Week3\\2026-08-28\\audio",
+      "new_logprob": null,
+      "new_quality": null,
+      "stages": [],
+      "files_replaced": [],
+      "error": "TikWM API returned no play_url for https://www.tiktok.com/@thayductoan/video/7289394928013020434",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7612613211174538513_24",
+      "status": "SPEECH_MASTER_REJECT:no_speech_detected (no_speech_prob=0.70)",
+      "audio_dir": "Week3\\2026-08-28\\audio",
+      "new_logprob": -0.493,
+      "new_quality": "none",
+      "stages": [
+        "pre_gate(quality=none,lp=-0.493)"
+      ],
+      "files_replaced": [],
+      "error": "no_speech_detected (no_speech_prob=0.70)",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7645000265581481233_03",
+      "status": "SPEECH_MASTER_REJECT:no_speech (prob=0.52)",
+      "audio_dir": "Week3\\2026-08-28\\audio",
+      "new_logprob": -0.7180590362758692,
+      "new_quality": "degraded",
+      "stages": [
+        "pre_gate(quality=degraded,lp=-0.350)",
+        "demucs_v4",
+        "ffmpeg_full_denoise",
+        "ebu_r128_twopass",
+        "whisper_gate(FAIL)"
+      ],
+      "files_replaced": [],
+      "error": "no_speech (prob=0.52)",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7551289004805590288_01",
+      "status": "SPEECH_MASTER_REJECT:low_quality (avg_logprob=-0.624 < -0.5)",
+      "audio_dir": "Week3\\2026-08-28\\audio",
+      "new_logprob": -0.6236157305731072,
+      "new_quality": "degraded",
+      "stages": [
+        "pre_gate(quality=degraded,lp=-1.730)",
+        "demucs_v4",
+        "ffmpeg_full_denoise",
+        "ebu_r128_twopass",
+        "whisper_gate(FAIL)"
+      ],
+      "files_replaced": [],
+      "error": "low_quality (avg_logprob=-0.624 < -0.5)",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7640750256866905364_05",
+      "status": "EXCEPTION:Invalid format specifier '.3f if result['new_logprob'] else '?'' for object of type 'float'",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7646021836207131912_01",
+      "status": "SPEECH_MASTER_REJECT:no_speech_detected (no_speech_prob=1.00)",
+      "audio_dir": "Week3\\2026-08-28\\audio",
+      "new_logprob": -1.0,
+      "new_quality": "none",
+      "stages": [
+        "pre_gate(quality=none,lp=-1.000)"
+      ],
+      "files_replaced": [],
+      "error": "no_speech_detected (no_speech_prob=1.00)",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7402839135293066514_01",
+      "status": "EXCEPTION:Invalid format specifier '.3f if result['new_logprob'] else '?'' for object of type 'float'",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7316145945027136776_02",
+      "status": "SPEECH_MASTER_REJECT:low_quality (avg_logprob=-1.177 < -0.5)",
+      "audio_dir": "Week3\\2026-08-28\\audio",
+      "new_logprob": -1.1774278399017122,
+      "new_quality": "degraded",
+      "stages": [
+        "pre_gate(quality=degraded,lp=-0.946)",
+        "demucs_v4",
+        "ffmpeg_full_denoise",
+        "ebu_r128_twopass",
+        "whisper_gate(FAIL)"
+      ],
+      "files_replaced": [],
+      "error": "low_quality (avg_logprob=-1.177 < -0.5)",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7499813357617302792_05",
+      "status": "SPEECH_MASTER_REJECT:no_speech (prob=0.74)",
+      "audio_dir": "Week3\\2026-08-28\\audio",
+      "new_logprob": -0.5730008204552605,
+      "new_quality": "degraded",
+      "stages": [
+        "pre_gate(quality=degraded,lp=-0.474)",
+        "demucs_v4",
+        "ffmpeg_full_denoise",
+        "ebu_r128_twopass",
+        "whisper_gate(FAIL)"
+      ],
+      "files_replaced": [],
+      "error": "no_speech (prob=0.74)",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7208855402836970779_04",
+      "status": "EXCEPTION:Command '['C:\\\\HocC\\\\SaydiTool\\\\.venv\\\\Scripts\\\\python.exe', '-m', 'demucs', '--two-stems=vocals', '--out', 'C:\\\\Users\\\\Cuong\\\\AppData\\\\Local\\\\Temp\\\\tmpog1_465i\\\\demucs_out', '--filename', '{stem}.{ext}', '-n', 'htdemucs', 'C:\\\\Users\\\\Cuong\\\\AppData\\\\Local\\\\Temp\\\\tmpdenvnz5a\\\\tt_7208855402836970779_raw.wav']' timed out after 300 seconds",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7463445012974554369_01",
+      "status": "EXCEPTION:Invalid format specifier '.3f if result['new_logprob'] else '?'' for object of type 'float'",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7638111015649037575_03",
+      "status": "EXCEPTION:Command '['C:\\\\HocC\\\\SaydiTool\\\\.venv\\\\Scripts\\\\python.exe', '-m', 'demucs', '--two-stems=vocals', '--out', 'C:\\\\Users\\\\Cuong\\\\AppData\\\\Local\\\\Temp\\\\tmpvrgtxfo6\\\\demucs_out', '--filename', '{stem}.{ext}', '-n', 'htdemucs', 'C:\\\\Users\\\\Cuong\\\\AppData\\\\Local\\\\Temp\\\\tmpppq2y92k\\\\tt_7638111015649037575_raw.wav']' timed out after 300 seconds",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7546450460501101841_05",
+      "status": "SPEECH_MASTER_REJECT:no_speech_detected (no_speech_prob=0.79)",
+      "audio_dir": "Week3\\2026-08-28\\audio",
+      "new_logprob": -0.47,
+      "new_quality": "none",
+      "stages": [
+        "pre_gate(quality=none,lp=-0.470)"
+      ],
+      "files_replaced": [],
+      "error": "no_speech_detected (no_speech_prob=0.79)",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7641863248907652372_02",
+      "status": "EXCEPTION:Invalid format specifier '.3f if result['new_logprob'] else '?'' for object of type 'float'",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7643413744420146453_01",
+      "status": "EXCEPTION:Invalid format specifier '.3f if result['new_logprob'] else '?'' for object of type 'float'",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7575415032893213973_05",
+      "status": "SPEECH_MASTER_REJECT:no_speech (prob=0.88)",
+      "audio_dir": "Week3\\2026-08-28\\audio",
+      "new_logprob": -0.9041828313371637,
+      "new_quality": "degraded",
+      "stages": [
+        "pre_gate(quality=degraded,lp=-0.516)",
+        "demucs_v4",
+        "ffmpeg_full_denoise",
+        "ebu_r128_twopass",
+        "whisper_gate(FAIL)"
+      ],
+      "files_replaced": [],
+      "error": "no_speech (prob=0.88)",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7487927363431320833_04",
+      "status": "SPEECH_MASTER_REJECT:low_quality (avg_logprob=-0.614 < -0.5)",
+      "audio_dir": "Week3\\2026-08-28\\audio",
+      "new_logprob": -0.6142333117012629,
+      "new_quality": "degraded",
+      "stages": [
+        "pre_gate(quality=degraded,lp=-0.658)",
+        "demucs_v4",
+        "ffmpeg_full_denoise",
+        "ebu_r128_twopass",
+        "whisper_gate(FAIL)"
+      ],
+      "files_replaced": [],
+      "error": "low_quality (avg_logprob=-0.614 < -0.5)",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7599155052527324437_16",
+      "status": "EXCEPTION:Command '['C:\\\\HocC\\\\SaydiTool\\\\.venv\\\\Scripts\\\\python.exe', '-m', 'demucs', '--two-stems=vocals', '--out', 'C:\\\\Users\\\\Cuong\\\\AppData\\\\Local\\\\Temp\\\\tmpxjex090s\\\\demucs_out', '--filename', '{stem}.{ext}', '-n', 'htdemucs', 'C:\\\\Users\\\\Cuong\\\\AppData\\\\Local\\\\Temp\\\\tmpiv3zod11\\\\tt_7599155052527324437_raw.wav']' timed out after 300 seconds",
+      "old_status": "unknown"
+    }
+  ]
+}

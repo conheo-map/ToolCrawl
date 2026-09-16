@@ -1,22 +1,36 @@
-# Core downloader with browser impersonation support
+# =====================================================================
+# SaydiTool — Official Production Dependencies
+# Pipeline: Crawler -> VAD Slicer -> 2-Pass MSS (Demucs -> Mel-Band RoFormer) -> ASR
+# =====================================================================
+
+# --- Media Downloader & Browser Impersonation ---
 yt-dlp[curl-cffi,default]>=2026.7.4
 curl-cffi>=0.15.0
+requests>=2.31.0
 
-# Audio processing (FFmpeg binary must be in PATH separately)
+# --- Core Audio DSP & Signal Processing ---
 librosa>=0.10.0
 soundfile>=0.12.1
-numpy>=1.24.0
+scipy>=1.11.0
+numpy>=1.24.0,<2.0.0
+pyyaml>=6.0.1
 
-# AI Vocal Separator — Demucs (Meta AI) + Spectral Vocal Cleaner
+# --- PyTorch Core ---
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# --- Official 2-Pass Separation Engines ---
+# Tầng 1: Demucs AI (Meta AI) — Triệt tiêu Bass & Trống
 demucs>=4.0.0
-noisereduce>=3.0.3
 
-# AI Regional Dialect Speech Recognizer
+# Tầng 2: Mel-Band RoFormer (Rotary Transformer SOTA) — Khử sạch tàn dư dải cao
+audio-separator>=0.47.0
+
+# --- Audio Slicing & Voice Activity Detection ---
+silero-vad>=4.0.0
+
+# --- Speech Recognition & Evaluation ---
 faster-whisper>=1.0.0
 
-# Progress bar
+# --- Utilities ---
 tqdm>=4.66.0
-
-# Note: FFmpeg binary must be installed separately:
-#   Windows: winget install FFmpeg
-#   Or download from https://ffmpeg.org/download.html

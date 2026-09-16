@@ -56,7 +56,7 @@ def convert_to_wav(input_path: Path, output_path: Path) -> float:
         cmd,
         capture_output=True,
         text=True,
-        timeout=300,  # 5 phút tối đa
+        timeout=1200,  # 20 phút tối đa cho video dài tới 2 tiếng
     )
 
     if result.returncode != 0:

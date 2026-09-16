@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-08-29T23:08:41+07:00",
+  "dry_run": true,
+  "total": 3,
+  "success": 0,
+  "failed": 3,
+  "by_status": {
+    "SPEECH_MASTER_REJECT:no_speech (prob=0.51)": 1,
+    "SPEECH_MASTER_REJECT:no_speech_detected (no_speech_prob=1.00)": 2
+  },
+  "results": [
+    {
+      "item_id": "tt_7420635062129003784",
+      "status": "SPEECH_MASTER_REJECT:no_speech (prob=0.51)",
+      "audio_dir": "Week2\\2026-08-21\\audio",
+      "new_logprob": -0.8908366816384452,
+      "new_quality": "degraded",
+      "stages": [
+        "pre_gate(quality=degraded,lp=-0.887)",
+        "demucs_v4",
+        "ffmpeg_full_denoise",
+        "ebu_r128_twopass",
+        "whisper_gate(FAIL)"
+      ],
+      "files_replaced": [],
+      "error": "no_speech (prob=0.51)",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7426343561215364370",
+      "status": "SPEECH_MASTER_REJECT:no_speech_detected (no_speech_prob=1.00)",
+      "audio_dir": "Week2\\2026-08-21\\audio",
+      "new_logprob": -1.0,
+      "new_quality": "none",
+      "stages": [
+        "pre_gate(quality=none,lp=-1.000)"
+      ],
+      "files_replaced": [],
+      "error": "no_speech_detected (no_speech_prob=1.00)",
+      "old_status": "unknown"
+    },
+    {
+      "item_id": "tt_7430686794653404423",
+      "status": "SPEECH_MASTER_REJECT:no_speech_detected (no_speech_prob=1.00)",
+      "audio_dir": "Week2\\2026-08-21\\audio",
+      "new_logprob": -1.0,
+      "new_quality": "none",
+      "stages": [
+        "pre_gate(quality=none,lp=-1.000)"
+      ],
+      "files_replaced": [],
+      "error": "no_speech_detected (no_speech_prob=1.00)",
+      "old_status": "unknown"
+    }
+  ]
+}

@@ -133,6 +133,12 @@ class MetadataWriter:
                 if item_id not in existing_ids:
                     platform = "tiktok" if item_id.startswith("tt_") else "facebook"
                     raw_id = item_id.split("_", 1)[1] if "_" in item_id else item_id
+                    try:
+                        import soundfile as sf
+                        act_dur = round(sf.info(str(wav_file)).duration, 2)
+                    except Exception:
+                        act_dur = round(wav_file.stat().st_size / 32000.0, 2)
+
                     rec = {
                         "item_id": item_id,
                         "platform": platform,
@@ -143,7 +149,7 @@ class MetadataWriter:
                         "posted_at": datetime.now(VN_TZ).isoformat(timespec="seconds"),
                         "language_raw": "vi",
                         "audio_path": f"audio/{CRAWL_DATE}/{wav_file.name}",
-                        "duration_seconds": 45.0,
+                        "duration_seconds": act_dur,
                         "crawl_batch": f"{'tt' if platform == 'tiktok' else 'fb'}_{CRAWL_DATE.replace('-', '')}_01",
                         "crawled_at": datetime.now(VN_TZ).isoformat(timespec="seconds"),
                         "platform_meta": {
@@ -202,8 +208,17 @@ class MetadataWriter:
             total_attempted = len(self._records) + self._error_count
             yield_rate = round((len(self._records) / total_attempted * 100), 1) if total_attempted > 0 else 0.0
             
+            week_val = 2
+            try:
+                for part in self._meta_path.parts:
+                    if part.startswith("Week") and part[4:].isdigit():
+                        week_val = int(part[4:])
+                        break
+            except Exception:
+                pass
+
             funnel = {
-                "pilot_week": 3,
+                "pilot_week": week_val,
                 "metric_name": "Tỷ lệ Audio Dùng Được Trước Khi Mở Rộng (Yield Funnel)",
                 "total_crawled_attempted": total_attempted,
                 "clear_speech_passed": len(self._records),

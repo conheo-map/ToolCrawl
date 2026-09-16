@@ -1,0 +1,67 @@
+{
+  "generated_at": "2026-08-29T23:49:54+07:00",
+  "dry_run": true,
+  "total": 3,
+  "success": 1,
+  "failed": 2,
+  "by_status": {
+    "DRY_RUN_OK": 1,
+    "SPEECH_MASTER_REJECT:low_quality (avg_logprob=-1.345 < -0.5)": 1,
+    "SPEECH_MASTER_REJECT:low_quality (avg_logprob=-1.351 < -0.5)": 1
+  },
+  "results": [
+    {
+      "item_id": "tt_7675751722584689940",
+      "status": "DRY_RUN_OK",
+      "audio_dir": "Week2\\2026-08-19\\audio",
+      "new_logprob": -0.438,
+      "new_quality": "good",
+      "stages": [
+        "pre_gate(quality=good,lp=-0.438)",
+        "vocal_sep_SKIPPED(already_clean)",
+        "denoise_skipped",
+        "ebu_r128_twopass",
+        "whisper_gate(REUSE_PREGATE)"
+      ],
+      "files_replaced": [
+        "Week2\\2026-08-19\\audio\\tt_7675751722584689940.wav"
+      ],
+      "error": null,
+      "old_status": "CORRUPT_OR_MISSING"
+    },
+    {
+      "item_id": "fb_25446115848405783",
+      "status": "SPEECH_MASTER_REJECT:low_quality (avg_logprob=-1.345 < -0.5)",
+      "audio_dir": "Week2\\2026-08-20\\audio",
+      "new_logprob": -1.3451570442744665,
+      "new_quality": "degraded",
+      "stages": [
+        "pre_gate(quality=degraded,lp=-0.854)",
+        "demucs_v4",
+        "ffmpeg_full_denoise",
+        "ebu_r128_twopass",
+        "whisper_gate(FAIL)"
+      ],
+      "files_replaced": [],
+      "error": "low_quality (avg_logprob=-1.345 < -0.5)",
+      "old_status": "CORRUPT_OR_MISSING"
+    },
+    {
+      "item_id": "fb_2634223596998034",
+      "status": "SPEECH_MASTER_REJECT:low_quality (avg_logprob=-1.351 < -0.5)",
+      "audio_dir": "Week2\\2026-08-20\\audio",
+      "new_logprob": -1.3505688048306412,
+      "new_quality": "degraded",
+      "stages": [
+        "pre_gate(quality=degraded,lp=-0.623)",
+        "demucs_v4",
+        "ffmpeg_full_denoise",
+        "ebu_r128_twopass",
+        "whisper_gate(FAIL)"
+      ],
+      "files_replaced": [],
+      "error": "low_quality (avg_logprob=-1.351 < -0.5)",
+      "old_status": "CORRUPT_OR_MISSING"
+    }
+  ]
+}

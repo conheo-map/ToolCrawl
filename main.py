@@ -25,6 +25,8 @@ from processors.audio_enhancer import SpeechEnhancer
 from processors.speech_transcriber import SpeechTranscriber
 from processors.quality_assessor import QualityAssessor
 from processors.audio_slicer import AudioSlicer
+from processors.content_guard import ContentGuard
+from processors.synthetic_speech_detector import SyntheticSpeechDetector  # [MOI - Diem Nghen #7]
 from storage.dedup import DedupStore
 from storage.metadata_writer import MetadataWriter
 from storage.state_manager import StateManager
@@ -89,8 +91,8 @@ def parse_args() -> argparse.Namespace:
         help="Tắt bộ lọc nhạc (crawl tất cả video)",
     )
     parser.add_argument(
-        "--skip-drive-sync", action="store_true",
-        help="Bỏ qua bước tự động đồng bộ Google Drive sau khi cào",
+        "--sync-drive", action="store_true",
+        help="Đồng bộ dữ liệu lên Google Drive sau khi cào (mặc định: TẮT)",
     )
     parser.add_argument(
         "--dry-run", action="store_true",
@@ -114,6 +116,7 @@ def process_url(
     speech_transcriber: SpeechTranscriber | None = None,
     quality_assessor: QualityAssessor | None = None,
     audio_slicer: AudioSlicer | None = None,
+    content_guard: ContentGuard | None = None,
 ) -> str:
     """
     Xử lý một URL qua Pipeline Hybrid 3 Tầng & Speech Enhancement:
@@ -143,9 +146,8 @@ def process_url(
         # Crawl URL
         record = crawler.crawl_url(url, batch_num=batch_num)
         if not record:
-            writer.increment_error()
-            state.add_failed(url, "crawl_url returned None")
-            return "error"
+            state.mark_done(url)
+            return "rejected"
 
         item_id = record["item_id"]
 
@@ -162,40 +164,81 @@ def process_url(
             return "skipped"
 
         audio_path = cfg.AUDIO_DIR / f"{item_id}.wav"
+        _crawl_date = (record.get("crawled_at") or cfg.CRAWL_DATE)[:10]
 
-        # ─── Pipeline Hybrid 3 Tầng ──────────────────────
-        music_status = music_detector.process(audio_path=audio_path, metadata=record)
+        # ─── Pipeline Hybrid 3 Tang ──────────────────────
+        # [UPGRADE 2.2] process() gio tra ve (status, music_prob) tuple
+        music_status, music_prob = music_detector.process(audio_path=audio_path, metadata=record)
+        record["music_prob"] = round(music_prob, 4)  # Ghi vao metadata
 
         if music_status == "clean":
-            # Tầng 1: Audio sạch — lưu thẳng, không xử lý gì thêm
+            # Tang 1: Audio sach — luu thang, khong xu ly gi them
             record["vocal_separated"] = False
             record["clean_method"] = "original"
-            logger.info(f"[Tầng 1] Clean audio: {item_id}")
+            logger.info(f"[Tang 1] Clean audio (music_prob={music_prob:.3f}): {item_id}")
 
         elif music_status == "music":
             if vocal_separator.available:
-                # Tầng 2: Có nhạc → chạy AI Demucs tách giọng
-                logger.info(f"[Tầng 2] Music detected, running Demucs AI: {item_id}")
+                # Tang 2: Co nhac -> chay AI Demucs tach giong
+                logger.info(f"[Tang 2] Music detected (prob={music_prob:.3f}), running Demucs AI: {item_id}")
                 success = vocal_separator.separate(audio_path)
                 if success:
+                    # ─── [SMART GATE] Tái kiểm tra độ sạch sau khi tách ───
+                    post_is_music, post_music_prob = music_detector.analyze(audio_path)
+                    if post_music_prob > 0.20:
+                        logger.warning(
+                            f"[Post-Separation Gate] Tàn dư BGM sau khi tách vẫn quá lớn "
+                            f"(prob={post_music_prob:.3f} > 0.20) -> Loại bỏ vào Quarantine: {item_id}"
+                        )
+                        music_detector.quarantine(audio_path, crawl_date=_crawl_date)
+                        dedup.mark_seen(item_id)
+                        state.mark_done(url)
+                        return "rejected"
+
                     record["vocal_separated"] = True
                     record["clean_method"] = "demucs_ai"
-                    logger.info(f"[Tầng 2] Vocal separation successful: {item_id}")
+                    record["post_separation_music_prob"] = round(post_music_prob, 4)
+                    logger.info(f"[Tang 2] Vocal separation verified CLEAN (residual prob={post_music_prob:.3f}): {item_id}")
                 else:
-                    # Demucs thất bại → quarantine để tránh dữ liệu kém chất lượng
-                    logger.warning(f"[Tầng 2] Demucs failed, quarantining: {item_id}")
-                    music_detector.quarantine(audio_path)
+                    # Demucs that bai -> quarantine
+                    logger.warning(f"[Tang 2] Demucs failed, quarantining: {item_id}")
+                    music_detector.quarantine(audio_path, crawl_date=_crawl_date)  # [FIX 1.1]
                     dedup.mark_seen(item_id)
                     state.mark_done(url)
                     return "rejected"
             else:
-                # Tầng 3: Không có Demucs → quarantine
-                logger.warning(f"[Tầng 3] No separator available, quarantining: {item_id}")
-                music_detector.quarantine(audio_path)
+                # Tang 3: Khong co Demucs -> quarantine
+                logger.warning(f"[Tang 3] No separator available, quarantining: {item_id}")
+                music_detector.quarantine(audio_path, crawl_date=_crawl_date)  # [FIX 1.1]
                 dedup.mark_seen(item_id)
                 state.mark_done(url)
                 return "rejected"
-        # ─────────────────────────────────────────────────
+
+        # ─── [MOI - Diem Nghen #7] Synthetic Speech Detection ──────────
+        if cfg.SSD_ENABLED:
+            _ssd = SyntheticSpeechDetector()
+            synthetic_prob, synth_tag = _ssd.analyze(audio_path)
+            record["synthetic_prob"] = round(synthetic_prob, 4)
+            record["synth_method"]   = synth_tag
+
+            if synthetic_prob > cfg.SSD_PROB_REJECT:
+                logger.warning(
+                    f"[SSD] TTS/Synthetic detected (prob={synthetic_prob:.3f}) "
+                    f"-> Quarantining: {item_id}"
+                )
+                _ssd.quarantine(audio_path, crawl_date=_crawl_date)
+                writer.increment_quarantine()
+                dedup.mark_seen(item_id)
+                state.mark_done(url)
+                return "rejected"
+            elif synthetic_prob > cfg.SSD_PROB_FLAG:
+                logger.warning(
+                    f"[SSD] Possibly synthetic (prob={synthetic_prob:.3f}) "
+                    f"-> Flagged but kept: {item_id}"
+                )
+                # Giu lai nhung danh dau de human review
+        # ──────────────────────────────────────────────────────────────
+
 
         # ─── Tăng cường âm thanh ASR: Làm rõ chữ, lọc tạp âm & cân bằng âm lượng to/nhỏ ───
         if speech_enhancer:
@@ -241,11 +284,23 @@ def process_url(
                 extended_data["speech_ratio"] = q_stats["speech_ratio"]
                 extended_data["peak_dbfs"] = q_stats["peak_dbfs"]
 
-                if not q_stats["is_clean"] and q_stats["snr_db"] < 8.0:
-                    logger.warning(f"[Quality Guard] Audio degraded (SNR={q_stats['snr_db']}dB < 8dB) -> Quarantining: {seg_item_id}")
-                    music_detector.quarantine(seg_audio_path)
+                if not q_stats["is_clean"] and q_stats["snr_db"] < cfg.MUSIC_SNR_HARD_REJECT_DB:
+                    logger.warning(
+                        f"[Quality Guard] Audio degraded "
+                        f"(SNR={q_stats['snr_db']}dB < {cfg.MUSIC_SNR_HARD_REJECT_DB}dB) "
+                        f"-> Quarantining: {seg_item_id}"
+                    )
+                    # [FIX 1.1] Dùng get_quarantine_dir với ngày crawl gốc
+                    music_detector.quarantine(seg_audio_path, crawl_date=_crawl_date)
                     dedup.mark_seen(seg_item_id)
                     continue
+
+            # ─── BỘ LỌC ÂM HỌC TỪNG PHÂN ĐOẠN (Post-Slice Acoustic Gate) ───
+            if music_detector and music_detector.is_music(seg_audio_path):
+                logger.warning(f"[Post-Slice Gate] Music/Outro detected in slice -> Quarantining: {seg_item_id}")
+                music_detector.quarantine(seg_audio_path, crawl_date=_crawl_date)
+                dedup.mark_seen(seg_item_id)
+                continue
 
             # Sinh Transcript Nháp Tiếng Việt (Chỉ lưu trên Local)
             if speech_transcriber:
@@ -253,9 +308,40 @@ def process_url(
                     seg_audio_path,
                     output_dir=Path("local_research") / cfg.CRAWL_DATE / "transcripts"
                 )
-                if trans_info.get("text"):
-                    extended_data["transcript_raw"] = trans_info["text"]
-                    extended_data["transcript_word_count"] = trans_info["word_count"]
+                text_content = (trans_info.get("text") or "").strip()
+                wc = trans_info.get("word_count", len(text_content.split()))
+                no_speech_prob = trans_info.get("no_speech_prob", 0.0)
+
+                # ─── HARD ASR GATE: Chặn triệt để file rỗng / outro không lời / tạp âm ───
+                if wc < 3 or no_speech_prob > 0.50:
+                    logger.warning(
+                        f"[Hard ASR Gate] Non-speech / empty slice (words={wc}, no_speech={no_speech_prob:.2f}) -> Quarantining: {seg_item_id}"
+                    )
+                    music_detector.quarantine(seg_audio_path, crawl_date=_crawl_date)
+                    dedup.mark_seen(seg_item_id)
+                    continue
+
+                if text_content:
+                    extended_data["transcript_raw"] = text_content
+                    extended_data["transcript_word_count"] = wc
+
+                    # ─── BỘ LỌC NỘI DUNG THÔNG MINH (ContentGuard) ───
+                    if content_guard:
+                        c_decision = content_guard.classify(text_content, metadata=seg_record)
+                        extended_data["content_category"] = c_decision.category
+                        extended_data["content_decision"] = c_decision.action
+                        if c_decision.action == "REJECT":
+                            logger.warning(
+                                f"[ContentGuard REJECT] {seg_item_id}: {c_decision.reason} -> Quarantining"
+                            )
+                            music_detector.quarantine(seg_audio_path, crawl_date=_crawl_date)
+                            dedup.mark_seen(seg_item_id)
+                            continue
+
+            # Ghi nhận các trường phân tích nâng cao vào extended metadata
+            extended_data["music_prob"] = record.get("music_prob", 0.0)
+            extended_data["synthetic_prob"] = record.get("synthetic_prob", 0.0)
+            extended_data["synth_method"] = record.get("synth_method", "real")
 
             # Ghi metadata — metadata.json (chuẩn 14 trường Drive) và metadata_extended.json (Local)
             seg_record.pop("_track", None)
@@ -340,7 +426,14 @@ def main() -> None:
     speech_enhancer = SpeechEnhancer()
     speech_transcriber = SpeechTranscriber()
     quality_assessor = QualityAssessor()
-    audio_slicer = AudioSlicer()
+    try:
+        from processors.vad_slicer import VadSlicer
+        audio_slicer = VadSlicer()
+    except Exception as e:
+        logger.warning(f"Could not load VadSlicer ({e}), falling back to AudioSlicer")
+        audio_slicer = AudioSlicer()
+    content_guard = ContentGuard()
+    synthetic_detector = SyntheticSpeechDetector()  # [MOI - Diem Nghen #7]
 
     if vocal_separator.available:
         logger.info("Hybrid Pipeline: Demucs AI vocal separator ENABLED")
@@ -350,9 +443,14 @@ def main() -> None:
             "Install with: pip install demucs"
         )
     logger.info("ASR Speech Enhancer: Studio DSP filter & EBU R128 (-16 LUFS) ACTIVE")
-    logger.info("Smart Audio Slicer: Natural pause-based ASR segmenter (5s - 30s) ACTIVE")
+    logger.info(f"Smart Audio Slicer: Natural pause-based ASR segmenter (5s - 30s) ACTIVE [{'Silero VAD' if getattr(audio_slicer, 'available', False) else 'FFmpeg Silence'}]")
     logger.info("Quality Assessor: Industrial ASR SNR & Speech Quality Verifier ACTIVE")
     logger.info("Speech Transcriber: Automated draft Vietnamese transcription (Step 05) ACTIVE")
+    logger.info("Content Guard: Industrial Domain Classifier (News/Law/Education Rejector) ACTIVE")
+    logger.info(
+        f"Synthetic Speech Detector: TTS/VoiceClone detection (Diem Nghen #7) "
+        f"{'ACTIVE' if cfg.SSD_ENABLED else 'DISABLED'}"
+    )
 
     # ─────────────────────────────────────────────
     # Step 1: Search
@@ -389,7 +487,7 @@ def main() -> None:
                 process_url,
                 url, crawler, dedup, state, writer, music_detector, vocal_separator,
                 args.batch_num, False, args.region, speech_enhancer, speech_transcriber,
-                quality_assessor, audio_slicer,
+                quality_assessor, audio_slicer, content_guard,
             ): url
             for url in urls
         }
@@ -399,7 +497,13 @@ def main() -> None:
                 executor.shutdown(wait=False, cancel_futures=True)
                 break
 
-            result = future.result()
+            try:
+                result = future.result()
+            except Exception as exc:
+                url = future_to_url.get(future, "unknown")
+                logger.error(f"Worker exception for {url}: {exc}")
+                result = "error"
+
             if result in stats:
                 stats[result] += 1
 
@@ -427,12 +531,12 @@ def main() -> None:
     )
 
     # ─────────────────────────────────────────────
-    # Step 4: Tự động đồng bộ lên Google Drive
+    # Step 4: Đồng bộ lên Google Drive (Mặc định: TẮT)
     # ─────────────────────────────────────────────
-    if not args.skip_drive_sync:
+    if getattr(args, "sync_drive", False):
         sync_to_gdrive(args.week)
     else:
-        logger.info("ℹ️ Bỏ qua bước đồng bộ Google Drive (--skip-drive-sync).")
+        logger.info("ℹ️ Tự động đồng bộ Google Drive đang TẮT. Để đồng bộ, thêm cờ --sync-drive.")
 
 
 def sync_to_gdrive(week_number: int) -> None:
@@ -460,7 +564,7 @@ def sync_to_gdrive(week_number: int) -> None:
     logger.info(f"📤 Đang đồng bộ toàn bộ {week_dir.name} ({total_wav_count} audio files) lên Google Drive (8 luồng song song, timeout {dynamic_timeout // 60} phút)...")
 
     try:
-        # Chạy rclone đa luồng với chunk lớn, tự retry khi mạng chập chờn và timeout co giãn
+        # Chạy rclone đa luồng an toàn với rate-limit pacer chống lỗi Google 403 Quota Exceeded
         cmd = [
             "rclone", "copy", str(week_dir), gdrive_target,
             "--exclude", "transcripts/**",
@@ -469,11 +573,13 @@ def sync_to_gdrive(week_number: int) -> None:
             "--exclude", "quarantine/**",
             "--transfers", "8",
             "--checkers", "16",
+            "--tpslimit", "8",
+            "--drive-pacer-min-sleep", "100ms",
+            "--drive-pacer-burst", "50",
             "--retries", "5",
             "--low-level-retries", "10",
             "--drive-chunk-size", "32M",
-            "--fast-list",
-            "--stats", "10s",
+            "--stats", "15s",
         ]
         res = subprocess.run(
             cmd,

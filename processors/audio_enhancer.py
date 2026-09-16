@@ -38,23 +38,20 @@ class SpeechEnhancer:
 
         tmp_out = audio_path.with_suffix(".enhanced.tmp.wav")
 
-        # Chuỗi bộ lọc DSP 7 tầng chuẩn studio cho Voice / ASR:
-        # 1. Highpass + Lowpass: Cắt bỏ dải tần siêu trầm (<80Hz) & dải tần xì xào (>7.6kHz)
-        # 2. FFT Adaptive Denoise (afftdn): Khử tiếng ồn quạt, gió, tạp âm mic nền
-        # 3. Silence Trimmer (silenceremove): Cắt bỏ 100% các đoạn câm lặng ở đầu, đuôi và khoảng lặng dài
-        # 4. De-mud (300Hz EQ): Khử tiếng đục, dội âm phòng
-        # 5. Presence Boost (3kHz EQ): Tăng độ sắc nét của phụ âm tiếng Việt
-        # 6. Dynamic Normalizer (dynaudnorm): Cân bằng tự động đoạn nói to / nói nhỏ
-        # 7. EBU R128 Loudnorm: Chuẩn hóa âm lượng đầu ra -16 LUFS
+        # Chuỗi bộ lọc DSP ASR Master Grade bảo toàn thanh điệu tiếng Việt:
+        # 1. Highpass (75Hz): Cắt rung mic nhưng bảo toàn F0 thanh Huyền (80Hz - 120Hz)
+        # 2. Lowpass (7600Hz): Khử tiếng xì hiss, bảo toàn phụ âm gió s, x, tr, ch
+        # 3. Transparent Denoise (afftdn nf=-35, nr=10): Khử ồn nền mà không làm bẹt thanh Nặng/Ngã
+        # 4. De-mud (300Hz EQ, -1.5dB): Khử tiếng đục, dội phòng nhẹ nhàng
+        # 5. Presence Boost (3.2kHz EQ, +1.8dB): Làm rõ nét mút âm phụ âm tiếng Việt
+        # 6. EBU R128 Loudnorm: -16 LUFS, True-Peak an toàn -1.0 dBFS (loại bỏ dynaudnorm để chống méo pumping)
         filter_chain = (
-            "highpass=f=85,"
-            "lowpass=f=7500,"
-            "afftdn=nf=-28,"
-            "silenceremove=start_periods=1:start_duration=0.05:start_threshold=-50dB:stop_periods=-1:stop_duration=0.8:stop_threshold=-50dB,"
-            "equalizer=f=300:t=q:w=1.5:g=-2.0,"
-            "equalizer=f=3200:t=q:w=1.0:g=2.5,"
-            "dynaudnorm=f=150:g=15:p=0.95:m=10,"
-            "loudnorm=I=-16:TP=-1.0:LRA=9"
+            "highpass=f=75,"
+            "lowpass=f=7600,"
+            "afftdn=nf=-35:nr=10:nt=w,"
+            "equalizer=f=300:t=q:w=1.5:g=-1.5,"
+            "equalizer=f=3200:t=q:w=1.0:g=1.8,"
+            "loudnorm=I=-16:TP=-1.0:LRA=11"
         )
 
         cmd = [
@@ -69,7 +66,7 @@ class SpeechEnhancer:
         ]
 
         try:
-            res = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+            res = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
             if res.returncode == 0 and tmp_out.exists() and tmp_out.stat().st_size > 1000:
                 tmp_out.replace(audio_path)
                 logger.debug(f"[SpeechEnhancer] Enhanced speech clarity & normalized volume: {audio_path.name}")

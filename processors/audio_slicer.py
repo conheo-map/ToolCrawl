@@ -1,4 +1,4 @@
-﻿"""
+"""
 processors/audio_slicer.py — Bộ cắt audio thông minh theo khoảng lặng tự nhiên (Smart ASR Slicer).
 Chia các audio dài thành các phân đoạn 5s - 30s đạt chuẩn huấn luyện ASR quốc tế.
 """
@@ -12,14 +12,15 @@ from config import (
     AUDIO_SAMPLE_RATE,
     AUDIO_CHANNELS,
     AUDIO_CODEC,
+    MAX_ASR_SEGMENT_SEC,
+    MIN_ASR_SEGMENT_SEC,
+    SILENCE_THRESHOLD_DB,
+    MIN_SILENCE_DURATION_SEC,
+    PRE_SPEECH_PADDING_SEC,
+    POST_SPEECH_PADDING_SEC,
 )
 
 logger = get_logger("audio_slicer")
-
-MAX_ASR_SEGMENT_SEC: float = 30.0
-MIN_ASR_SEGMENT_SEC: float = 5.0
-SILENCE_THRESHOLD_DB: float = -32.0
-MIN_SILENCE_DURATION_SEC: float = 0.35
 
 
 class AudioSlicer:
@@ -34,11 +35,15 @@ class AudioSlicer:
         min_segment_sec: float = MIN_ASR_SEGMENT_SEC,
         silence_thresh_db: float = SILENCE_THRESHOLD_DB,
         min_silence_dur: float = MIN_SILENCE_DURATION_SEC,
+        pre_padding_sec: float = PRE_SPEECH_PADDING_SEC,
+        post_padding_sec: float = POST_SPEECH_PADDING_SEC,
     ) -> None:
         self.max_sec = max_segment_sec
         self.min_sec = min_segment_sec
         self.silence_thresh = silence_thresh_db
         self.min_silence = min_silence_dur
+        self.pre_padding = pre_padding_sec
+        self.post_padding = post_padding_sec
 
     def detect_silences(self, audio_path: Path) -> list[dict]:
         """
@@ -160,7 +165,10 @@ class AudioSlicer:
         output_dir.mkdir(parents=True, exist_ok=True)
 
         for idx, (st, en) in enumerate(splits, start=1):
-            dur = round(en - st, 3)
+            # Onset & Offset Padding Guard: bảo đảm có 0.20s silence ở đầu và 0.25s silence ở cuối
+            st_pad = max(0.0, round(st - self.pre_padding, 3))
+            en_pad = min(total_duration, round(en + self.post_padding, 3))
+            dur = round(en_pad - st_pad, 3)
             if dur < self.min_sec:
                 continue
 
@@ -170,8 +178,8 @@ class AudioSlicer:
             cmd = [
                 "ffmpeg",
                 "-y",
-                "-ss", str(st),
-                "-to", str(en),
+                "-ss", str(st_pad),
+                "-to", str(en_pad),
                 "-i", str(audio_path),
                 "-acodec", AUDIO_CODEC,
                 "-ar", str(AUDIO_SAMPLE_RATE),
@@ -187,8 +195,8 @@ class AudioSlicer:
                     "duration_seconds": dur,
                     "segment_index": idx,
                     "total_segments": len(splits),
-                    "start_sec": st,
-                    "end_sec": en,
+                    "start_sec": st_pad,
+                    "end_sec": en_pad,
                 })
 
         logger.info(f"✂️ Sliced {audio_path.name} ({total_duration:.1f}s) -> {len(results)} ASR segments (5s - 30s)")
