@@ -1,4 +1,4 @@
-﻿"""
+"""
 tools/cloud_turbo_separator.py — High-Throughput Multi-Process Parallel GPU Separator.
 Supports: Demucs (Meta AI htdemucs — Ultra-Fast & Stable Volume) & Mel-Band RoFormer (SOTA).
 """
@@ -95,10 +95,11 @@ def separate_demucs_native(src_path: Path, dst_path: Path) -> bool:
         wav = wav.unsqueeze(0).to(device)  # [1, 2, time]
 
         with torch.no_grad():
-            sources = apply_model(_worker_engine, wav, shifts=1, split=True, overlap=0.25, progress=False)
+            sources = apply_model(_worker_engine, wav, shifts=0, split=True, overlap=0.1, progress=False)
 
         # sources shape: [1, 4, 2, time] -> stems: (drums, bass, other, vocals)
-        vocals = sources[0, 3].mean(dim=0).cpu()  # Mono
+        vocal_idx = _worker_engine.sources.index("vocals") if hasattr(_worker_engine, "sources") and "vocals" in _worker_engine.sources else 3
+        vocals = sources[0, vocal_idx].mean(dim=0).cpu()  # Mono
 
         # Resample to 16000Hz PCM
         resample_16k = torchaudio.transforms.Resample(44100, 16000)
