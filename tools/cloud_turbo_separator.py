@@ -1,4 +1,4 @@
-﻿"""
+"""
 tools/cloud_turbo_separator.py — High-Throughput Multi-Process Parallel GPU Separator for Cloud GPUs.
 
 Architecture:
@@ -68,6 +68,8 @@ def init_worker(model_name: str):
         output_dir=str(_worker_tmp_dir),
         output_format="WAV",
         log_level=40,
+        use_autocast=True,
+        mdxc_params={"batch_size": 8, "segment_size": 256},
     )
     _worker_separator.load_model(model_name)
 
