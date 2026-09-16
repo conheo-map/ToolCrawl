@@ -1,4 +1,4 @@
-﻿# CẨM NANG 1-CLICK: BÓC TÁCH NHẠC SIÊU TỐC TRÊN RUNPOD & ĐỒNG BỘ GOOGLE DRIVE
+# CẨM NANG 1-CLICK: BÓC TÁCH NHẠC SIÊU TỐC TRÊN RUNPOD & ĐỒNG BỘ GOOGLE DRIVE
 
 ---
 
@@ -56,8 +56,8 @@ mkdir -p Week1_cu Week2_cu Week3_cu Week4_cu Week1 Week2 Week3 Week4
 Chạy câu lệnh bóc tách đa luồng:
 
 ```bash
-# Chạy 8 worker song song trên RTX 4090 với Model MDX23C siêu tốc (0.3s/file)
-python tools/cloud_turbo_separator.py --week all --group all --model mdx23c --workers 8 --batch-size 500
+# Chạy 8 worker song song trên RTX 4090 với Model Mel-Band RoFormer chuẩn SOTA (mặc định)
+python tools/cloud_turbo_separator.py --week all --group all --model roformer --workers 8 --batch-size 500
 ```
 
 ### 🛡️ Những gì sẽ tự động diễn ra:

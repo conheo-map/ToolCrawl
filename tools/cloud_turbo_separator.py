@@ -53,8 +53,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--date", type=str, default="", help="Filter specific date (e.g. 2026-08-21)")
     parser.add_argument("--group", choices=["3a", "3b", "all"], default="all", help="Target BGM group")
     parser.add_argument(
-        "--model", choices=["mdx23c", "roformer", "kim_vocal"], default="mdx23c",
-        help="AI Model: mdx23c (fastest, ~0.3s/file), roformer (SOTA, ~1.5s/file)",
+        "--model", choices=["roformer", "mdx23c", "kim_vocal"], default="roformer",
+        help="AI Model: roformer (SOTA, ~1.2s/file on RTX 4090), mdx23c (fastest, ~0.3s/file)",
     )
     parser.add_argument("--workers", type=int, default=4, help="Number of parallel worker threads on GPU")
     parser.add_argument("--batch-size", type=int, default=500, help="Batch checkpoint size")
@@ -64,17 +64,17 @@ def parse_args() -> argparse.Namespace:
 
 
 MODEL_MAP = {
-    "mdx23c": "MDX23C-8KFFT-InstVoc_HQ.ckpt",
     "roformer": "vocals_mel_band_roformer.ckpt",
+    "mdx23c": "MDX23C-8KFFT-InstVoc_HQ.ckpt",
     "kim_vocal": "Kim_Vocal_2.onnx",
 }
 
 
 class CloudTurboEngine:
-    def __init__(self, model_key: str = "mdx23c", device: str = "cuda"):
+    def __init__(self, model_key: str = "roformer", device: str = "cuda"):
         self.device = device if (torch.cuda.is_available() and device == "cuda") else "cpu"
         self.model_key = model_key
-        self.model_name = MODEL_MAP.get(model_key, "MDX23C-8KFFT-InstVoc_HQ.ckpt")
+        self.model_name = MODEL_MAP.get(model_key, "vocals_mel_band_roformer.ckpt")
         self.tmp_dir = Path(tempfile.gettempdir()) / "cloud_turbo_tmp"
         self.tmp_dir.mkdir(parents=True, exist_ok=True)
         self.separator = None
