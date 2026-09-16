@@ -1,4 +1,4 @@
-﻿"""
+"""
 tools/crawl_urls_with_demucs.py — Turnkey URL Batch Crawler & Guaranteed 100% Demucs AI Separation.
 Processes all URLs in urls.txt:
 1. Fast parallel audio extraction (yt-dlp).
@@ -101,12 +101,13 @@ def run_demucs_separate_task(task_tuple: tuple) -> tuple:
         return (False, item_id, str(exc))
 
 
-# ── Step 1: Fast Parallel Audio Downloader ──
+# ── Step 1: Fast Parallel Audio Downloader (TikWM Direct Stream + yt-dlp Fallback) ──
 def download_single_audio(url: str, raw_dir: Path) -> dict | None:
     if "/photo/" in url:
         return None
 
-    match = yt_dlp.utils.re.search(r'/video/(\d+)', url)
+    import re
+    match = re.search(r'/video/(\d+)', url)
     video_id = match.group(1) if match else str(abs(hash(url)) % 10**18)
     item_id = f"tt_{video_id}"
     out_raw = raw_dir / f"{item_id}.wav"
@@ -114,25 +115,59 @@ def download_single_audio(url: str, raw_dir: Path) -> dict | None:
     if out_raw.exists() and out_raw.stat().st_size > 1000:
         return {"item_id": item_id, "url": url, "raw_path": out_raw}
 
-    ydl_opts = {
-        "format": "bestaudio/best",
-        "outtmpl": str(raw_dir / f"{item_id}.%(ext)s"),
-        "postprocessors": [{
-            "key": "FFmpegExtractAudio",
-            "preferredcodec": "wav",
-            "preferredquality": "192",
-        }],
-        "postprocessor_args": [
-            "-ar", "16000",
-            "-ac", "1",
-            "-acodec", "pcm_s16le",
-        ],
-        "quiet": True,
-        "no_warnings": True,
-        "ignoreerrors": True,
-    }
-
+    # 1. TikWM Direct Stream (Cực nhanh, vượt hoàn toàn lỗi chặn bot TikTok, không tải video rác)
     try:
+        from utils.tikwm_client import TikWMClient
+        tikwm = TikWMClient()
+        vinfo = tikwm.get_video_info(url)
+        if vinfo and vinfo.get("play_url"):
+            play_url = vinfo["play_url"]
+            cmd = [
+                "ffmpeg", "-y", "-loglevel", "error",
+                "-headers", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)\r\nReferer: https://www.tiktok.com/\r\n",
+                "-i", play_url,
+                "-vn", "-acodec", "pcm_s16le", "-ar", "16000", "-ac", "1",
+                "-f", "wav", str(out_raw)
+            ]
+            res = subprocess.run(cmd, capture_output=True)
+            if res.returncode == 0 and out_raw.exists() and out_raw.stat().st_size > 1000:
+                return {"item_id": item_id, "url": url, "raw_path": out_raw, "title": vinfo.get("title", "")}
+
+            # Fallback: Tải file mp4 tạm thời nếu stream trực tiếp bị ngắt kết nối
+            tmp_mp4 = raw_dir / f"{item_id}.tmp.mp4"
+            if tikwm.download_video(play_url, tmp_mp4):
+                cmd2 = [
+                    "ffmpeg", "-y", "-loglevel", "error",
+                    "-i", str(tmp_mp4),
+                    "-vn", "-acodec", "pcm_s16le", "-ar", "16000", "-ac", "1",
+                    "-f", "wav", str(out_raw)
+                ]
+                subprocess.run(cmd2, capture_output=True)
+                tmp_mp4.unlink(missing_ok=True)
+                if out_raw.exists() and out_raw.stat().st_size > 1000:
+                    return {"item_id": item_id, "url": url, "raw_path": out_raw, "title": vinfo.get("title", "")}
+    except Exception:
+        pass
+
+    # 2. Fallback sang yt-dlp nếu TikWM không phản hồi
+    try:
+        ydl_opts = {
+            "format": "bestaudio/best",
+            "outtmpl": str(raw_dir / f"{item_id}.%(ext)s"),
+            "postprocessors": [{
+                "key": "FFmpegExtractAudio",
+                "preferredcodec": "wav",
+                "preferredquality": "192",
+            }],
+            "postprocessor_args": [
+                "-ar", "16000",
+                "-ac", "1",
+                "-acodec", "pcm_s16le",
+            ],
+            "quiet": True,
+            "no_warnings": True,
+            "ignoreerrors": True,
+        }
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             ydl.download([url])
 
@@ -140,6 +175,7 @@ def download_single_audio(url: str, raw_dir: Path) -> dict | None:
             return {"item_id": item_id, "url": url, "raw_path": out_raw}
     except Exception:
         pass
+
     return None
 
 
