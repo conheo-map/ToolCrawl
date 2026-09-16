@@ -16,6 +16,8 @@ import subprocess
 from pathlib import Path
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
@@ -114,6 +116,8 @@ def separate_demucs_native(src_path: Path, dst_path: Path) -> bool:
 
         dst_path.parent.mkdir(parents=True, exist_ok=True)
         sf.write(str(dst_path), vocals_16k, 16000, subtype="PCM_16")
+        
+        del wav, sources, vocals
         return dst_path.exists() and dst_path.stat().st_size > 1000
     except Exception as exc:
         print(f"[-] Demucs Error {src_path.name}: {exc}", flush=True)
