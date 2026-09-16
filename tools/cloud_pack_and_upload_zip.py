@@ -1,4 +1,4 @@
-﻿"""
+"""
 tools/cloud_pack_and_upload_zip.py — Ultra-Fast Zero-Throttle Bulk Zip Pack & GDrive Upload.
 Packs processed clean audio + metadata.json + summary.json into .zip archives and uploads to Drive in seconds.
 """
@@ -43,8 +43,9 @@ def pack_and_upload_week(target_week: str):
     cmd = [
         "rclone", "copy",
         str(final_zip), "gdrive:",
-        "--drive-chunk-size", "128M",
-        "--transfers", "4",
+        "--drive-chunk-size", "32M",
+        "--timeout", "10m",
+        "--retries", "5",
         "-P",
     ]
     subprocess.run(cmd)
