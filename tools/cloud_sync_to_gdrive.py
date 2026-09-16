@@ -52,10 +52,11 @@ def sync_all_weeks_to_drive(target_weeks: list[str] = None):
             "rclone", "copy",
             str(src_path), f"gdrive:{w}",
             "--update",
-            "--transfers", "6",
-            "--checkers", "8",
-            "--drive-chunk-size", "64M",
+            "--drive-upload-cutoff", "15M",
+            "--transfers", "12",
+            "--checkers", "12",
             "--drive-pacer-min-sleep", "10ms",
+            "--drive-pacer-burst", "100",
             "-P",
         ]
         subprocess.run(cmd)
