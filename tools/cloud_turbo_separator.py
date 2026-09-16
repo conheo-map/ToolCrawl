@@ -339,6 +339,12 @@ def main():
     import torch.multiprocessing as mp
     mp.set_start_method("spawn", force=True)
 
+    if args.model == "demucs":
+        print("[*] Đang kiểm tra / tải trước trọng số Demucs (htdemucs) vào cache...")
+        from demucs.pretrained import get_model
+        _ = get_model("htdemucs")
+        print("[+] Model Demucs đã sẵn sàng trong cache!\n")
+
     print(f"[+] Đang khởi tạo {args.workers} GPU Processes độc lập ({args.model.upper()})...")
     with ProcessPoolExecutor(max_workers=args.workers, initializer=init_worker, initargs=(args.model,)) as executor:
         for b_idx in range(num_batches):
