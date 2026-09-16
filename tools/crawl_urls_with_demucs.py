@@ -195,6 +195,7 @@ def main():
     parser.add_argument("--dl-workers", type=int, default=16, help="Download threads")
     parser.add_argument("--gpu-workers", type=int, default=8, help="GPU Demucs worker processes")
     parser.add_argument("--batch-size", type=int, default=300, help="Batch size for GPU processing")
+    parser.add_argument("--skip-download", action="store_true", help="Bỏ qua giai đoạn tải, dùng các file audio thô có sẵn trong raw_audio/")
     parser.add_argument("--limit", type=int, default=0, help="Limit total URLs to process")
     args = parser.parse_args()
 
@@ -218,36 +219,37 @@ def main():
     audio_dir.mkdir(parents=True, exist_ok=True)
 
     print("=" * 85)
-    print("🚀 BẮT ĐẦU CÀO URLS & BẮT BUỘC 100% QUA DEMUCS AI VOCAL SEPARATOR")
-    print(f"File nguồn: {urls_path.name} | Tổng số URL: {len(urls):,} URLs")
+    print("🚀 BẮT ĐẦU PIPELINE DEMUCS AI VOCAL SEPARATOR & SILERO VAD")
     print(f"Thư mục xuất: {output_root.name} | GPU Demucs Workers: {args.gpu_workers}")
-    if cookie_mgr.count() > 0:
-        print(f"🍪 Cookie xoay vòng: {cookie_mgr.count()} file cookie hợp lệ (Round-Robin Active)")
-    else:
-        print("🍪 Cookie xác thực: Chạy ở chế độ Mobile API Public")
     print("=" * 85 + "\n", flush=True)
 
-    # ── GIAI ĐOẠN 1: TẢI AUDIO HÀNG LOẠT ──
-    print(f"[*] [GIAI ĐOẠN 1/3] Đang tải audio đồng thời {args.dl_workers} luồng từ TikTok...", flush=True)
     downloaded_items = []
     t0 = time.time()
-    
-    with ThreadPoolExecutor(max_workers=args.dl_workers) as executor:
-        futures = {executor.submit(download_single_audio, u, raw_dir, cookie_mgr): u for u in urls}
-        done_cnt = 0
-        for fut in as_completed(futures):
-            done_cnt += 1
-            res = fut.result()
-            if res:
-                downloaded_items.append(res)
-            if done_cnt % 100 == 0 or done_cnt == len(urls):
-                spd = done_cnt / max(0.1, time.time() - t0)
-                print(f"  - Đã quét: {done_cnt:,}/{len(urls):,} URLs (Tải thành công: {len(downloaded_items):,} audio | {spd:.1f} URL/s)...", flush=True)
 
-    print(f"\n[+] Hoàn tất Giai đoạn 1: Đã có {len(downloaded_items):,} file audio thô.\n", flush=True)
+    # Kiểm tra nếu người dùng chọn bỏ qua tải hoặc thư mục raw_audio đã có sẵn file
+    existing_raw = list(raw_dir.glob("*.wav"))
+    if args.skip_download or len(existing_raw) > 500:
+        print(f"⏩ [BỎ QUA GIAI ĐOẠN 1] Tìm thấy {len(existing_raw):,} file audio thô có sẵn trong {raw_dir.name}!")
+        downloaded_items = [{"item_id": f.stem, "raw_path": f, "url": ""} for f in existing_raw]
+    else:
+        # ── GIAI ĐOẠN 1: TẢI AUDIO HÀNG LOẠT ──
+        print(f"[*] [GIAI ĐOẠN 1/4] Đang tải audio đồng thời {args.dl_workers} luồng từ TikTok...", flush=True)
+        with ThreadPoolExecutor(max_workers=args.dl_workers) as executor:
+            futures = {executor.submit(download_single_audio, u, raw_dir, cookie_mgr): u for u in urls}
+            done_cnt = 0
+            for fut in as_completed(futures):
+                done_cnt += 1
+                res = fut.result()
+                if res:
+                    downloaded_items.append(res)
+                if done_cnt % 100 == 0 or done_cnt == len(urls):
+                    spd = done_cnt / max(0.1, time.time() - t0)
+                    print(f"  - Đã quét: {done_cnt:,}/{len(urls):,} URLs (Tải thành công: {len(downloaded_items):,} audio | {spd:.1f} URL/s)...", flush=True)
+
+        print(f"\n[+] Hoàn tất Giai đoạn 1: Đã có {len(downloaded_items):,} file audio thô.\n", flush=True)
 
     if not downloaded_items:
-        print("[-] Không có audio nào được tải về.")
+        print("[-] Không có audio nào để xử lý.")
         return
 
     # ── GIAI ĐOẠN 2: 100% FILE BẮT BUỘC ĐI QUA DEMUCS AI ──
