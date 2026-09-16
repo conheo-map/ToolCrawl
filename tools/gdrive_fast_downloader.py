@@ -36,8 +36,30 @@ def get_gdrive_credentials() -> tuple[str, str]:
 
     token_str = config.get(section, "token")
     token_json = json.loads(token_str)
-    access_token = token_json["access_token"]
+    access_token = token_json.get("access_token", "")
+    refresh_token = token_json.get("refresh_token", "")
+    client_id = config.get(section, "client_id", fallback="")
+    client_secret = config.get(section, "client_secret", fallback="")
     root_id = config.get(section, "root_folder_id", fallback="16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw")
+
+    # Auto refresh token if expired
+    if refresh_token:
+        try:
+            token_url = "https://oauth2.googleapis.com/token"
+            data = {
+                "client_id": client_id,
+                "client_secret": client_secret,
+                "refresh_token": refresh_token,
+                "grant_type": "refresh_token",
+            }
+            res = requests.post(token_url, data=data, timeout=10)
+            if res.status_code == 200:
+                new_tok = res.json().get("access_token")
+                if new_tok:
+                    access_token = new_tok
+        except Exception:
+            pass
+
     return access_token, root_id
 
 
@@ -65,7 +87,7 @@ def list_files_in_folder(access_token: str, folder_id: str) -> list[dict]:
                     data = resp.json()
                     items.extend(data.get("files", []))
                     page_token = data.get("nextPageToken")
-                    time.sleep(0.1)
+                    time.sleep(0.05)
                     break
                 elif resp.status_code in (403, 429, 500, 503):
                     wait_sec = 2 * (attempt + 1)
@@ -73,7 +95,7 @@ def list_files_in_folder(access_token: str, folder_id: str) -> list[dict]:
                 else:
                     break
             except Exception:
-                time.sleep(2.0)
+                time.sleep(2)
 
         if not page_token:
             break
@@ -134,8 +156,23 @@ def sync_week_from_drive(target_week: str, filter_group: str = "all", workers: i
     week_folder = next((it for it in folders if it["name"].lower().replace(" ", "").replace("_", "") == target_clean), None)
 
     if not week_folder:
+        # Fallback: Search globally for the folder on Drive
+        headers = {"Authorization": f"Bearer {access_token}"}
+        url = "https://www.googleapis.com/drive/v3/files"
+        q = f"mimeType = 'application/vnd.google-apps.folder' and (name contains '{target_week}' or name contains 'Week {w_num}' or name contains 'Week_{w_num}') and trashed = false"
+        params = {"q": q, "fields": "files(id, name)", "supportsAllDrives": "true", "includeItemsFromAllDrives": "true"}
+        try:
+            resp = requests.get(url, headers=headers, params=params, timeout=15)
+            if resp.status_code == 200:
+                found_folders = resp.json().get("files", [])
+                if found_folders:
+                    week_folder = found_folders[0]
+        except Exception:
+            pass
+
+    if not week_folder:
         print(f"[-] Không tìm thấy folder khớp với '{target_week}' trên Drive!", flush=True)
-        print(f"[*] Các folder đang có trên Drive: {[it['name'] for it in folders]}", flush=True)
+        print(f"[*] Các folder đang có trong root: {[it['name'] for it in folders]}", flush=True)
         return
 
     print(f"[+] Đã tìm thấy '{week_folder['name']}' (ID: {week_folder['id']}). Đang quét các ngày...", flush=True)
