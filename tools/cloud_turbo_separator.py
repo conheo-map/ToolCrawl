@@ -284,16 +284,17 @@ def main():
     parser.add_argument("--date", type=str, default="", help="Filter specific date")
     parser.add_argument("--group", choices=["3a", "3b", "all"], default="all", help="Target BGM group")
     parser.add_argument("--model", choices=["demucs", "roformer", "mdx23c", "kim_vocal"], default="demucs", help="AI Model")
-    parser.add_argument("--workers", type=int, default=16, help="Number of parallel GPU worker processes")
+    parser.add_argument("--workers", type=int, default=20, help="Number of parallel GPU worker processes")
     parser.add_argument("--batch-size", type=int, default=500, help="Batch size")
     parser.add_argument("--limit", type=int, default=0, help="Limit total files")
+    parser.add_argument("--force", action="store_true", help="Force overwrite all files (re-run through Demucs)")
     args = parser.parse_args()
 
     target_weeks = ["1", "2", "3", "4"] if args.week == "all" else [args.week]
 
     print("=" * 85)
     print("🚀 BẮT ĐẦU CLOUD TURBO MULTI-PROCESS GPU VOCAL SEPARATOR")
-    print(f"Tuần: {args.week} | Nhóm: {args.group.upper()} | Model: {args.model.upper()} | GPU Processes: {args.workers}")
+    print(f"Tuần: {args.week} | Nhóm: {args.group.upper()} | Model: {args.model.upper()} | GPU Processes: {args.workers} | Force Overwrite: {args.force}")
     print("=" * 85, flush=True)
 
     all_items = load_all_dataset_items(target_weeks, filter_date=args.date, filter_group=args.group)
@@ -301,11 +302,15 @@ def main():
         print("[-] Không tìm thấy file nào cần xử lý với điều kiện lọc đã chọn.")
         return
 
-    to_process = [it for it in all_items if not (it["dst_path"].exists() and it["dst_path"].stat().st_size > 1000)]
-    already_done = len(all_items) - len(to_process)
+    if args.force:
+        to_process = list(all_items)
+        already_done = 0
+    else:
+        to_process = [it for it in all_items if not (it["dst_path"].exists() and it["dst_path"].stat().st_size > 1000)]
+        already_done = len(all_items) - len(to_process)
 
     print(f"[*] Tổng số file cần bóc tách: {len(all_items):,} files")
-    print(f"[*] Safe Resume: Đã có sẵn {already_done:,} files sạch -> Cần xử lý mới: {len(to_process):,} files\n")
+    print(f"[*] Trạng thái: Đã có {already_done:,} files -> Cần xử lý mới/ghi đè: {len(to_process):,} files\n")
 
     if args.limit > 0:
         to_process = to_process[:args.limit]
