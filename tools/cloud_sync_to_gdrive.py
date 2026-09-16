@@ -1,15 +1,17 @@
-﻿"""
+"""
 tools/cloud_sync_to_gdrive.py — 1-Click Sync Processed Audio, Metadata, and Summary to Google Drive.
 """
 
 from __future__ import annotations
 
 import sys
-import subprocess
 from pathlib import Path
-from tools.cloud_turbo_separator import update_metadata_and_summary
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
+
+import subprocess
+from tools.cloud_turbo_separator import update_metadata_and_summary
 
 
 def sync_all_weeks_to_drive(target_weeks: list[str] = None):
