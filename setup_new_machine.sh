@@ -17,12 +17,12 @@ sudo apt install -y ffmpeg git python3-pip python3-venv zip unzip curl rclone sc
 
 # 2. Cài đặt PyTorch với CUDA mới nhất
 echo "[2/4] Đang cài đặt PyTorch CUDA 12.1..."
-pip install --upgrade pip
-pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu121
+pip install --upgrade pip --break-system-packages || true
+pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu121 --break-system-packages
 
 # 3. Cài đặt Demucs, Soundfile, yt-dlp và các thư viện xử lý
 echo "[3/4] Đang cài đặt Demucs AI, Soundfile, yt-dlp..."
-pip install demucs soundfile yt-dlp requests tqdm
+pip install demucs soundfile yt-dlp requests tqdm --break-system-packages
 
 # 4. Kiểm tra GPU và nạp trước model Demucs vào cache
 echo "[4/4] Kiểm tra GPU NVIDIA & Nạp Model Demucs..."
