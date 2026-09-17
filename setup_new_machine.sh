@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 # ==============================================================================
 # SETUP CHUẨN 100% CHO MÁY CLOUD GPU MỚI (EzyCloudX / Ubuntu 22.04 / 24.04)
 # Tự động cài đặt đầy đủ môi trường, CUDA PyTorch, FFmpeg, Demucs & Soundfile
@@ -10,10 +10,10 @@ echo "=================================================================="
 echo "🚀 BẮT ĐẦU THIẾT LẬP MÔI TRƯỜNG CLOUD GPU (CHUẨN 100% KHÔNG LỖI)"
 echo "=================================================================="
 
-# 1. Cài đặt các gói hệ thống cần thiết (FFmpeg, Git, Python)
-echo "[1/4] Đang cài đặt FFmpeg, Git, Unzip..."
+# 1. Cài đặt các gói hệ thống cần thiết (FFmpeg, Git, Python, Rclone, Screen)
+echo "[1/4] Đang cài đặt FFmpeg, Git, Rclone, Screen, Unzip..."
 sudo apt update -y
-sudo apt install -y ffmpeg git python3-pip python3-venv zip unzip curl
+sudo apt install -y ffmpeg git python3-pip python3-venv zip unzip curl rclone screen
 
 # 2. Cài đặt PyTorch với CUDA mới nhất
 echo "[2/4] Đang cài đặt PyTorch CUDA 12.1..."
