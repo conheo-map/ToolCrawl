@@ -49,6 +49,8 @@ logs/
 storage/
 staging_*/
 dataset_*/
+data/
+saved_test_audios/
 code_upload_staging/
 *.wav
 *.mp3
@@ -64,6 +66,8 @@ code_upload_staging/
 cookies/
 *cookies*.txt
 urls*.txt
+url*.txt
+
 proxies.txt
 .env
 .env.*
