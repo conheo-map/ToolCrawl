@@ -15,10 +15,10 @@ echo "[1/4] Đang cài đặt FFmpeg, Git, Rclone, Screen, Unzip..."
 sudo apt update -y
 sudo apt install -y ffmpeg git python3-pip python3-venv zip unzip curl rclone screen
 
-# 2. Cài đặt PyTorch với CUDA mới nhất
-echo "[2/4] Đang cài đặt PyTorch CUDA 12.1..."
+# 2. Cài đặt PyTorch với CUDA 12.8 (Hỗ trợ toàn diện RTX 5060 Ti Blackwell sm_120)
+echo "[2/4] Đang cài đặt PyTorch CUDA 12.8 (Blackwell RTX 5060 Ti)..."
 pip install --upgrade pip --break-system-packages || true
-pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu121 --break-system-packages
+pip install --pre torch torchaudio --index-url https://download.pytorch.org/whl/nightly/cu128 --break-system-packages || pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu128 --break-system-packages || pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu126 --break-system-packages
 
 # 3. Cài đặt Demucs, Soundfile, yt-dlp và các thư viện xử lý
 echo "[3/4] Đang cài đặt Demucs AI, Soundfile, yt-dlp..."
