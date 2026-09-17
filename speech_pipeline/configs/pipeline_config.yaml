@@ -1,0 +1,33 @@
+﻿# Speech AI Data Pipeline Configuration
+audio:
+  target_sr: 16000
+  channels: 1
+  codec: "pcm_s16le"
+  target_lufs: -20.0
+  min_duration_sec: 3.0
+  max_duration_sec: 15.0
+
+vad:
+  threshold: 0.5
+  min_speech_ms: 250
+  min_silence_ms: 300
+  pre_padding_sec: 0.2
+  post_padding_sec: 0.2
+
+separation:
+  demucs:
+    model_name: "htdemucs"
+    shifts: 1
+    overlap: 0.25
+  melband_roformer:
+    model_name: "mel_band_roformer_vocals"
+    chunk_size: 352800
+
+dedup:
+  hash_type: "waveform_quantized_sha256"
+  similarity_threshold: 0.95
+
+quality_gate:
+  min_speech_ratio: 0.30
+  max_spectral_flatness: 0.15
+  min_snr_db: 10.0
