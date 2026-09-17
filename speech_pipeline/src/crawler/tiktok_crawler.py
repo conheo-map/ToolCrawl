@@ -98,17 +98,38 @@ class TikTokCrawler:
         if out_wav.exists() and out_wav.stat().st_size > 1000:
             return {"item_id": item_id, "audio_path": out_wav, "url": url}
 
+        self.raw_dir.mkdir(parents=True, exist_ok=True)
         # 0. Nếu là đường dẫn tệp âm thanh / video có sẵn trên máy
-        local_p = Path(url)
+        local_p = Path(url).resolve()
+        if not local_p.exists():
+            local_p = Path(__file__).resolve().parent.parent.parent / url
+
         if local_p.exists() and local_p.is_file():
-            cmd = [
-                "ffmpeg", "-y", "-i", str(local_p),
-                "-ar", "16000", "-ac", "1",
-                "-acodec", "pcm_s16le", str(out_wav)
-            ]
-            subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
-            if out_wav.exists() and out_wav.stat().st_size > 1000:
-                return {"item_id": item_id, "audio_path": out_wav, "url": url}
+            try:
+                import soundfile as sf
+                import torchaudio
+                import torch
+                data, sr = sf.read(str(local_p), dtype="float32")
+                if data.ndim > 1:
+                    data = data.mean(axis=1)
+                if sr != 16000:
+                    resampler = torchaudio.transforms.Resample(orig_freq=sr, new_freq=16000)
+                    tensor = torch.from_numpy(data).unsqueeze(0)
+                    data = resampler(tensor).squeeze(0).numpy()
+                data = np.clip(data, -1.0, 1.0)
+                sf.write(str(out_wav), data, 16000, subtype="PCM_16")
+                if out_wav.exists() and out_wav.stat().st_size > 1000:
+                    return {"item_id": item_id, "audio_path": out_wav, "url": url}
+            except Exception:
+                cmd = [
+                    "ffmpeg", "-y", "-i", str(local_p),
+                    "-ar", "16000", "-ac", "1",
+                    "-acodec", "pcm_s16le", str(out_wav)
+                ]
+                subprocess.run(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True)
+                if out_wav.exists() and out_wav.stat().st_size > 1000:
+                    return {"item_id": item_id, "audio_path": out_wav, "url": url}
+
 
         # 1. Thử tải qua TikWM trước (vượt block IP TikTok & lấy đúng giọng nói gốc)
         if "tiktok.com" in url:
