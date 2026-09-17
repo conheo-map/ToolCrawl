@@ -46,6 +46,10 @@ asr_export/
 scratch/
 errors/
 logs/
+storage/
+staging_*/
+dataset_*/
+code_upload_staging/
 *.wav
 *.mp3
 *.flac
@@ -56,9 +60,10 @@ logs/
 *.webm
 *.mp4
 
-# --- Sensitive Credentials & Browser Sessions ---
+# --- Sensitive Credentials, URLs & Browser Sessions ---
 cookies/
 *cookies*.txt
+urls*.txt
 proxies.txt
 .env
 .env.*
@@ -66,7 +71,7 @@ secrets.json
 
 # --- Checkpoints & Research Scratchpads ---
 .checkpoints/
-local_research/2026-*/
+local_research/
 *.log
 
 # --- IDE & OS Metadata ---

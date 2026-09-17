@@ -138,20 +138,48 @@ class BaseCrawler:
                 "info_dict": info_dict,
             }
 
+        info_dict = {}
+
         with tempfile.TemporaryDirectory() as tmpdir:
             tmp_path = Path(tmpdir)
-            opts = self._build_ydl_opts(download=True, output_dir=tmp_path)
+            src = None
 
-            with yt_dlp.YoutubeDL(opts) as ydl:
-                info_dict = ydl.extract_info(url, download=True) or {}
+            # ── Phương pháp 1: TikWM Direct Video Stream (Ưu tiên cho TikTok) ──
+            # Lấy luồng video MP4 thực sự, chứa 100% giọng nói người sáng tạo.
+            # Tránh hoàn toàn lỗi tải nhầm nhạc nền từ thư viện TikTok.
+            if "tiktok.com" in url or "vm.tiktok" in url or "vt.tiktok" in url:
+                try:
+                    from utils.tikwm_client import TikWMClient
+                    tikwm = TikWMClient()
+                    video_info = tikwm.get_video_info(url)
+                    if video_info and video_info.get("play_url"):
+                        mp4_path = tmp_path / f"{item_id}.mp4"
+                        logger.debug(f"[TikWM] Downloading video stream: {item_id}")
+                        success = tikwm.download_video(video_info["play_url"], mp4_path)
+                        if success:
+                            src = mp4_path
+                            # Merge metadata từ TikWM vào info_dict
+                            info_dict = {
+                                "title": video_info.get("title", f"Video {item_id}"),
+                                "uploader": video_info.get("author", ""),
+                                "duration": video_info.get("duration", 0),
+                                "webpage_url": url,
+                                "_tikwm": True,
+                            }
+                            logger.info(f"[TikWM] OK: {item_id} | '{info_dict['title'][:50]}'")
+                except Exception as tikwm_exc:
+                    logger.debug(f"[TikWM] Skipped: {tikwm_exc} — falling back to yt-dlp")
 
-            # Tìm file vừa download
-            downloaded = list(tmp_path.glob("*"))
-            if not downloaded:
-                raise RuntimeError(f"yt-dlp produced no output files for {url}")
+            # ── Phương pháp 2: yt-dlp (Fallback khi TikWM thất bại / Dùng cho Facebook) ──
+            if src is None:
+                opts = self._build_ydl_opts(download=True, output_dir=tmp_path)
+                with yt_dlp.YoutubeDL(opts) as ydl:
+                    info_dict = ydl.extract_info(url, download=True) or {}
 
-            # Lấy file audio (yt-dlp có thể ra nhiều file, lấy file lớn nhất)
-            src = max(downloaded, key=lambda p: p.stat().st_size)
+                downloaded = list(tmp_path.glob("*"))
+                if not downloaded:
+                    raise RuntimeError(f"yt-dlp produced no output files for {url}")
+                src = max(downloaded, key=lambda p: p.stat().st_size)
 
             # Convert to WAV
             duration = convert_to_wav(src, wav_output)
@@ -201,7 +229,10 @@ class BaseCrawler:
 
         if download and output_dir:
             opts["outtmpl"] = str(output_dir / "%(id)s.%(ext)s")
-            opts["format"] = "bestaudio/best"
+            # QUAN TRỌNG: Không dùng "bestaudio/best" vì TikTok sẽ trả về nhạc nền
+            # đính kèm từ thư viện (không phải giọng nói người sáng tạo).
+            # Phải tải container video MP4 thực sự, sau đó dùng FFmpeg bóc tách tiếng.
+            opts["format"] = "download/bestvideo+bestaudio/best[ext=mp4]/best"
             if YTDLP_RATE_LIMIT is not None:
                 opts["ratelimit"] = int(YTDLP_RATE_LIMIT)
             opts["keepvideo"] = False

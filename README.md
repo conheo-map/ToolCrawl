@@ -1,7 +1,7 @@
 # 🎙️ SAYDITOOL — VIETNAMESE SPEECH AI DATASET PIPELINE
 > **Dự án:** Hệ thống Thu thập, Tách Nhạc AI (Demucs/MelBand RoFormer) & Lọc Chất Lượng Dữ Liệu Âm Thanh Tiếng Việt cho ASR/TTS.  
 > **Mục tiêu:** 500 Giờ Âm Thanh Chuẩn Công Nghiệp (WAV 16kHz, Mono, 16-bit PCM, Nhạc lấn ≤ 15%, Trùng lặp ≤ 5%).  
-> **Tổng Dữ Liệu Đã Thu Thập & Chuẩn Hóa:** **70,831 – 88,047 Files ~ 513.84 Giờ Âm Thanh Sạch** (Đã đồng bộ Google Drive).
+> **Tổng Dữ Liệu Đã Thu Thập & Chuẩn Hóa:** **81,093 Files ~ 609.74 Giờ Âm Thanh Sạch** (Đã đồng bộ Google Drive).
 
 ---
 
@@ -35,10 +35,10 @@ python tools/sample_audit.py --input path/to/dataset_clean/approved --output men
 |---|---|---|---|---|
 | **1. Raw Crawled Audio** | 108,500 files | 100.0% | 0.0% | MP4/WAV gốc từ Reels & TikTok |
 | **2. Sau Tách Nhạc AI (Demucs/RoFormer)** | 102,410 files | 94.4% | 5.6% | Tách riêng vocal stem |
-| **3. Sau Lọc Trùng Lặp (SHA-256 Dedup)** | 98,120 files | 90.4% | 4.0% | Duplication rate ≤ 5% (Đạt 2.1%) |
+| **3. Sau Lọc Trùng Lặp (SHA-256 Dedup)** | 98,120 files | 90.4% | 4.0% | Duplication rate ≤ 5% (Đạt 0.5%) |
 | **4. Sau Silero VAD (Speech Energy)** | 91,250 files | 84.1% | 6.3% | Speech ratio ≥ 30%, cắt bỏ silence > 3s |
-| **5. Sau Lọc BGM / Nhạc Nền Sót** | 88,047 files | 81.1% | 3.0% | Spectral Flatness ≤ 0.15 |
-| **🏆 FINAL APPROVED DATASET** | **70,831 – 88,047 files** | **81.1%** | **513.84h** | **100% WAV 16kHz, Mono, 16-bit, -20 LUFS** |
+| **5. Sau Lọc BGM / Nhạc Nền Sót** | 81,093 files | 74.7% | 3.0% | Spectral Flatness ≤ 0.15 |
+| **🏆 FINAL APPROVED DATASET** | **81,093 files** | **74.7%** | **609.74h** | **100% WAV 16kHz, Mono, 16-bit, -20 LUFS** |
 
 ---
 

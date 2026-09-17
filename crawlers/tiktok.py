@@ -16,6 +16,21 @@ from config import TIKTOK_COOKIES_FILE, make_batch_id, BASE_OUTPUT_DIR, CRAWL_DA
 logger = get_logger("tiktok_crawler")
 VN_TZ = timezone(timedelta(hours=7))
 
+# ── SpeechMaster singleton (model Whisper load 1 lần duy nhất) ──────────────
+_speech_master_instance = None
+
+def _get_speech_master():
+    global _speech_master_instance
+    if _speech_master_instance is None:
+        from processors.speech_master import SpeechMaster
+        _speech_master_instance = SpeechMaster(
+            enable_vocal_separation=True,
+            enable_dereverb=True,
+            enable_loudnorm=True,
+            enable_asr_gate=True,
+        )
+    return _speech_master_instance
+
 TIKTOK_VIDEO_PATTERN = re.compile(
     r'(?:https?://(?:www\.)?tiktok\.com)?/@([A-Za-z0-9._%-]+)/video/(\d{8,19})'
 )
@@ -101,9 +116,10 @@ class TikTokCrawler(BaseCrawler):
         Crawl một URL TikTok:
           1. Resolve short link (vt.tiktok.com, vm.tiktok.com)
           2. Bỏ qua nếu là Photo post
-          3. Download + convert audio
-          4. Build record JSON theo spec
-        Trả về None nếu lỗi.
+          3. Download + convert audio (TikWM → yt-dlp fallback)
+          4. SpeechMaster 4 tầng: tinh chế + kiểm định chất lượng giọng nói
+          5. Build record JSON theo spec
+        Trả về None nếu lỗi hoặc không có giọng nói.
         """
         url = self._resolve_url(url)
         if "/photo/" in url:
@@ -121,6 +137,32 @@ class TikTokCrawler(BaseCrawler):
             duration = result["duration_seconds"]
             audio_path: Path = result["audio_path"]
 
+            # ── SpeechMaster 4 Tầng ─────────────────────────────────────────
+            # Tinh chế giọng nói + kiểm định chất lượng ASR ngay sau khi download (Chỉ chạy khi bật lọc nhạc)
+            import config as cfg
+            speech_quality_meta = {"raw_quality": "unknown", "avg_logprob": None}
+            if getattr(cfg, "MUSIC_FILTER_ENABLED", True):
+                try:
+                    from processors.speech_master import SpeechMaster
+                    master = _get_speech_master()
+                    sm_result = master.process(audio_path, overwrite=True)
+                    speech_quality_meta = {
+                        "raw_quality": sm_result.get("raw_quality", "unknown"),
+                        "avg_logprob": sm_result.get("avg_logprob"),
+                        "stages": sm_result.get("stages_applied", []),
+                    }
+                    if not sm_result.get("pass", True):
+                        reason = sm_result.get("reason", "unknown")
+                        logger.warning(f"[SpeechMaster] REJECT {item_id}: {reason}")
+                        # Xóa file WAV lỗi (không có giọng nói thực sự)
+                        audio_path.unlink(missing_ok=True)
+                        return None
+                    logger.debug(f"[SpeechMaster] OK {item_id}: quality={speech_quality_meta['raw_quality']} lp={speech_quality_meta['avg_logprob']}")
+                except Exception as sm_exc:
+                    logger.warning(f"[SpeechMaster] Skipped for {item_id}: {sm_exc}")
+            else:
+                logger.debug(f"[SpeechMaster] Bypassed for {item_id} (--skip-music-filter active)")
+
             record = self._build_record(
                 url=url,
                 item_id=item_id,
@@ -128,6 +170,7 @@ class TikTokCrawler(BaseCrawler):
                 audio_path=audio_path,
                 duration=duration,
                 batch_num=batch_num,
+                speech_quality_meta=speech_quality_meta,
             )
             return record
 
@@ -220,13 +263,6 @@ class TikTokCrawler(BaseCrawler):
             logger.warning(f"[TikTok] Kênh @{username} chưa có video hoặc bị ẩn. Hãy dán link video vào urls.txt.")
         return urls[:max_results]
 
-    def _build_ydl_opts(self, download: bool = True, output_dir: Path | None = None) -> dict:
-        """Thêm API hostname bypass cho TikTok."""
-        opts = super()._build_ydl_opts(download=download, output_dir=output_dir)
-        opts["extractor_args"] = {
-            "tiktok": {"api_hostname": ["api22-core-c-useast1a.tiktokv.com"]}
-        }
-        return opts
 
     def _search_via_ytdlp(self, keyword: str, max_results: int) -> list[str]:
         """Dùng yt-dlp tiktoksearch extractor."""
@@ -329,19 +365,30 @@ class TikTokCrawler(BaseCrawler):
         audio_path: Path,
         duration: float,
         batch_num: int,
+        speech_quality_meta: dict | None = None,
     ) -> dict:
         """Xây dựng record JSON theo spec."""
         video_id = item_id.removeprefix("tt_")
 
-        # Platform meta
-        track = info_dict.get("track", "") or ""
-        original_keywords = {"original sound", "âm thanh gốc", "tiếng động gốc", ""}
-        music_is_original = track.lower() in original_keywords
+        # Platform meta — [FIX 1.2] Bổ sung music_title, music_author cho Week3-4
+        # yt-dlp trả về thông tin nhạc trong info_dict["music"] (dict) hoặc
+        # info_dict["track"] (str). Đọc cả hai để đảm bảo không bỏ sót.
+        music_info  = info_dict.get("music") or {}
+        track_title = (
+            music_info.get("title", "")
+            or info_dict.get("track", "")
+            or ""
+        )
+        original_keywords = {"original sound", "am thanh goc", "tieng dong goc", ""}
+        music_is_original = track_title.strip().lower() in original_keywords
 
         platform_meta = {
-            "music_is_original": music_is_original,
-            "is_duet": "duet" in (info_dict.get("description", "") or "").lower(),
-            "is_stitch": "stitch" in (info_dict.get("description", "") or "").lower(),
+            "music_is_original":    music_is_original,
+            "music_title":          track_title,                                 # [FIX 1.2] MỚI
+            "music_author":         music_info.get("author", "")                 # [FIX 1.2] MỚI
+                                    or info_dict.get("artist", ""),
+            "is_duet":              "duet" in (info_dict.get("description", "") or "").lower(),
+            "is_stitch":            "stitch" in (info_dict.get("description", "") or "").lower(),
             "has_platform_captions": bool(info_dict.get("subtitles")),
         }
 
@@ -384,5 +431,6 @@ class TikTokCrawler(BaseCrawler):
             "crawled_at": datetime.now(VN_TZ).isoformat(timespec="seconds"),
             "platform_meta": platform_meta,
             "language_region": region,
-            "_track": track,  # Internal field cho music_detector
+            "_track": track_title,  # Internal field cho music_detector
+            "_speech_quality": speech_quality_meta or {},  # SpeechMaster quality metadata
         }

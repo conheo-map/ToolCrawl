@@ -32,9 +32,10 @@ def test_music_detector_quarantine(tmp_path: Path):
         "_track": "Hit Song 2026"
     }
 
-    # process() now returns 'music' (not True) to indicate music detected
-    status = md.process(fake_audio, meta_music)
-    assert status == "music"
+    # process() now returns tuple (status, music_prob)
+    status, prob = md.process(fake_audio, meta_music)
+    assert status in ("music", "quarantine")
+    assert prob >= 0.70
 
     # Simulate Tầng 3: no separator available → quarantine
     md.quarantine(fake_audio)

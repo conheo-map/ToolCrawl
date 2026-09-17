@@ -1,0 +1,40 @@
+﻿# Dockerfile.gpu — Chuyên dụng cho GPU Batch Cascade Separation (Demucs + Mel-Band RoFormer)
+FROM pytorch/pytorch:2.4.0-cuda12.4-cudnn9-runtime
+
+# Install system dependencies including FFmpeg, gcc and build-essential for diffq
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    ffmpeg \
+    ca-certificates \
+    git \
+    wget \
+    build-essential \
+    gcc \
+    g++ \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+# Upgrade pip and install build tools
+RUN pip install --no-cache-dir --upgrade pip setuptools wheel
+
+# Install audio separator and AI dependencies with CUDA support
+RUN pip install --no-cache-dir \
+    demucs \
+    audio-separator[gpu] \
+    onnxruntime-gpu \
+    soundfile \
+    librosa \
+    pyloudnorm \
+    tqdm
+
+# Pre-download AI Models to avoid downloading at runtime
+RUN python -c "from demucs.pretrained import get_model; get_model('htdemucs')" || true
+RUN python -c "from audio_separator.separator import Separator; sep = Separator(); sep.load_model('vocals_mel_band_roformer.ckpt')" || true
+
+# Copy source code
+COPY . .
+
+# Default entrypoint to batch cascade separator
+ENTRYPOINT ["python", "tools/batch_cascade_separator.py"]
+CMD ["--week", "all", "--group", "all", "--batch-size", "300"]

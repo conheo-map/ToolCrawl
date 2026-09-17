@@ -1,15 +1,15 @@
-name: Cloud Audio Crawler to Google Drive (Matrix Engine)
+name: Cloud Audio Crawler to Google Drive (Matrix Engine) [PAUSED]
 
 on:
-  # 1. Chế độ Tự Động 24/7: Cứ mỗi 3 tiếng tự cào 4 luồng song song (50h - 100h)
-  schedule:
-    - cron: '0 */3 * * *'
+  # 🛑 [TẠM THỜI TẮT] Chế độ Tự Động 24/7: Cứ mỗi 3 tiếng tự cào
+  # schedule:
+  #   - cron: '0 */3 * * *'
 
-  # 2. Chế độ Ưu Tiên Tức Thì: Nhận link bạn gửi từ Telegram trên điện thoại
-  repository_dispatch:
-    types: [telegram_crawl]
+  # 🛑 [TẠM THỜI TẮT] Chế độ Nhận link tự động từ Telegram
+  # repository_dispatch:
+  #   types: [telegram_crawl]
 
-  # 3. Chế độ Thủ Công: Bấm nút chạy trên GitHub Web hoặc App
+  # Chỉ giữ lại chế độ thủ công (Chỉ chạy khi bạn chủ động vào Web GitHub bấm nút "Run workflow")
   workflow_dispatch:
     inputs:
       topic:
@@ -88,7 +88,7 @@ jobs:
           
           # Kéo metadata và danh sách ID đã cào từ Google Drive về trước để cộng dồn
           echo "📥 Đang đồng bộ metadata và seen_ids cũ từ Google Drive..."
-          rclone copy gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ Week2/ --include "metadata.json" --include "summary.json" || true
+          rclone copy gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week3/ Week3/ --include "metadata.json" --include "summary.json" || true
           mkdir -p .checkpoints
           rclone copy gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:seen_ids.json .checkpoints/ || true
 
@@ -127,26 +127,30 @@ jobs:
       - name: 📤 Sync Audio Files to Google Drive
         if: always()
         run: |
-          if [ -d "Week2" ]; then
-            echo "📤 Đang đẩy audio mới lên Google Drive..."
-            rclone copy Week2/ gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/ --exclude "transcripts/**" --exclude "metadata_extended.json" --exclude "yield_funnel.json" --exclude "quarantine/**" --transfers 8 --checkers 16 --progress
-          fi
+          for W_DIR in Week2 Week3 Week4 Week5 Week6 Week7; do
+            if [ -d "$W_DIR" ]; then
+              echo "📤 Đang đẩy $W_DIR lên Google Drive..."
+              rclone copy "$W_DIR/" "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:$W_DIR/" --exclude "transcripts/**" --exclude "metadata_extended.json" --exclude "yield_funnel.json" --exclude "quarantine/**" --transfers 8 --checkers 16 --progress || true
+            fi
+          done
           if [ -f ".checkpoints/seen_ids.json" ]; then
-            rclone copy .checkpoints/seen_ids.json gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw: --progress
+            rclone copy .checkpoints/seen_ids.json gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw: --progress || true
           fi
 
       - name: 🛡️ Master Cumulative Reconciler (100% Remote Sync Guard)
         if: always()
         run: |
-          python tools/reconcile_drive.py --remote || true
+          python tools/three_way_reconciliation.py || true
 
       - name: 🧹 Google Drive Remote Sanitizer (Strict 3-Item Spec Guard)
         if: always()
         run: |
-          for DATE_DIR in $(rclone lsf "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/" --dirs-only); do
-            rclone deletefile "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/${DATE_DIR}metadata_extended.json" || true
-            rclone deletefile "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/${DATE_DIR}yield_funnel.json" || true
-            rclone purge "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:Week2/${DATE_DIR}transcripts" || true
+          for W_DIR in Week2 Week3 Week4 Week5 Week6 Week7; do
+            for DATE_DIR in $(rclone lsf "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:$W_DIR/" --dirs-only 2>/dev/null); do
+              rclone deletefile "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:$W_DIR/${DATE_DIR}metadata_extended.json" || true
+              rclone deletefile "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:$W_DIR/${DATE_DIR}yield_funnel.json" || true
+              rclone purge "gdrive,root_folder_id=16iuu3_UtaGtNEuHJksZAlEeBcqYhclSw:$W_DIR/${DATE_DIR}transcripts" || true
+            done
           done
 
       - name: 📩 Send Telegram Notification
@@ -156,11 +160,11 @@ jobs:
           BOT_TOKEN="${{ secrets.TELEGRAM_BOT_TOKEN }}"
           
           if [ -n "$CHAT_ID" ] && [ -n "$BOT_TOKEN" ]; then
-            SUMMARY_FILE=$(find Week2 -name "summary.json" | head -n 1)
+            SUMMARY_FILE=$(find Week* -name "summary.json" 2>/dev/null | tail -n 1)
             if [ -f "$SUMMARY_FILE" ]; then
               ITEMS=$(grep '"items_delivered"' "$SUMMARY_FILE" | head -n 1 | awk -F: '{print $2}' | tr -d ' ,')
               HOURS=$(grep '"total_hours"' "$SUMMARY_FILE" | head -n 1 | awk -F: '{print $2}' | tr -d ' ,')
-              MSG="🎉 <b>ĐÃ CÀO XONG VÀ ĐỒNG BỘ GOOGLE DRIVE!</b>%0A• 🎯 File thành công: <b>${ITEMS:-1} file</b>%0A• ⏱️ Tổng thời lượng: <b>${HOURS:-0} giờ</b>%0A• ☁️ Thư mục Drive: <code>Trương Duy Cường/Week2/</code>"
+              MSG="🎉 <b>ĐÃ CÀO XONG VÀ ĐỒNG BỘ GOOGLE DRIVE!</b>%0A• 🎯 File thành công: <b>${ITEMS:-1} file</b>%0A• ⏱️ Tổng thời lượng: <b>${HOURS:-0} giờ</b>%0A• ☁️ Thư mục Drive: <code>Week3/</code>"
             else
               MSG="🎉 <b>TIẾN TRÌNH CÀO HOÀN TẤT</b>%0A• File âm thanh đã được đồng bộ lên Google Drive của bạn!"
             fi
