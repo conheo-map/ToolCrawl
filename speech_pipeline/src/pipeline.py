@@ -57,7 +57,44 @@ def run_full_pipeline(
     final_audio_dir = output_dir / "gold_dataset"
     final_audio_dir.mkdir(parents=True, exist_ok=True)
 
-    # 1. Khởi tạo các Engine
+    # 1. Đọc và kiểm tra danh sách URLs trước khi nạp model
+    urls_path = Path(urls_file)
+    if not urls_path.exists():
+        # Kiểm tra các thư mục dự phòng
+        fallback_candidates = [
+            Path(__file__).resolve().parent.parent.parent / urls_file,
+            Path("test") / urls_file,
+            Path("saved_test_audios/input_samples") / urls_file
+        ]
+        found = False
+        for cand in fallback_candidates:
+            if cand.exists():
+                urls_path = cand
+                found = True
+                break
+        if not found:
+            # Nếu truyền trực tiếp 1 URL trên CLI thay vì file
+            if str(urls_file).startswith("http") or str(urls_file).endswith(".wav"):
+                urls = [str(urls_file)]
+            else:
+                print(f"\n❌ LỖI: Không tìm thấy tệp danh sách URLs tại '{urls_file}'.")
+                print("👉 Vui lòng tạo tệp (ví dụ: 'url.txt') hoặc truyền đường dẫn chính xác.")
+                return
+        else:
+            urls = [line.strip() for line in urls_path.read_text(encoding="utf-8").splitlines() if line.strip() and not line.startswith("#")]
+    else:
+        urls = [line.strip() for line in urls_path.read_text(encoding="utf-8").splitlines() if line.strip() and not line.startswith("#")]
+
+    if limit > 0:
+        urls = urls[:limit]
+
+    if not urls:
+        print(f"\n⚠️ CẢNH BÁO: Tệp '{urls_path}' không chứa bất kỳ đường dẫn nào để xử lý.")
+        return
+
+    print(f"[*] Đã nạp thành công {len(urls):,} URLs cần xử lý.\n")
+
+    # 2. Khởi tạo các Engine
     print("[*] Đang khởi tạo các mô hình AI...")
     crawler = TikTokCrawler(raw_dir=raw_dir)
     
@@ -70,12 +107,6 @@ def run_full_pipeline(
     dedup = AudioDedupEngine()
     evaluator = QualityGateEvaluator()
 
-    # 2. Đọc URLs
-    urls = [line.strip() for line in urls_file.read_text(encoding="utf-8").splitlines() if line.strip() and not line.startswith("#")]
-    if limit > 0:
-        urls = urls[:limit]
-
-    print(f"[*] Đã nạp {len(urls):,} URLs cần xử lý.\n")
 
     metadata_records = []
     stats = {
