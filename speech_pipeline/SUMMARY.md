@@ -1,108 +1,111 @@
-﻿# 📘 SUMMARY REPORT: BÁO CÁO TOÀN DIỆN VỀ QUÁ TRÌNH PHÁT TRIỂN & GIẢI QUYẾT VẤN ĐỀ SPEECH AI DATA PIPELINE
+﻿# BÁO CÁO TỔNG KẾT QUÁ TRÌNH PHÁT TRIỂN & GIẢI QUYẾT SỰ CỐ DỰ ÁN SPEECH AI DATA PIPELINE
 
-> **Kính gửi:** Hội đồng Nghiệm thu & Mentor Dự án Speech AI.  
-> **Người thực hiện:** Senior Speech AI Engineer & Tech Lead.  
-> **Dự án:** Large-Scale Vietnamese Speech Audio Crawler & Quality Pipeline.
-
----
-
-## 🧭 1. Bối Cảnh & Các Vấn Đề Thực Tế Gặp Phải Khi Bắt Đầu Dự Án
-
-Thu thập và chuẩn hóa dữ liệu tiếng Việt từ các nền tảng mạng xã hội (TikTok, Facebook Reels, YouTube Shorts) cho bài toán Huấn luyện Nhận dạng Giọng nói (ASR - Automatic Speech Recognition) đặt ra những thách thức kỹ thuật rất khác biệt so với môi trường phòng thu truyền thống:
-
-### ⚠️ Vấn đề 1: Nén âm lượng cực đại & Nhạc nền lấn át hoàn toàn tiếng nói
-- **Thực tế:** Các thuật toán tối ưu hóa của TikTok/Reels áp dụng Dynamic Range Compression (DRC) và Loudness Normalization cực mạnh. Âm lượng của nhạc nền (Background Music - BGM) thường được đẩy lên mức $-6\text{ dB}$ đến $-10\text{ dB}$, đè bẹp giọng nói của nhân vật chính.
-- **Hệ quả:** Khi nạp thẳng audio dính nhạc vào các mô hình ASR như Whisper hay Conformer, mô hình bị hiện tượng **Ảo giác (Hallucination)** — liên tục lặp lại các ký tự vô nghĩa hoặc dịch lời bài hát thay vì phiên âm tiếng người nói.
-
-### ⚠️ Vấn đề 2: Nhạc thịnh hành (Trending Audio) dẫn tới tỷ lệ trùng lặp nội dung khổng lồ
-- **Thực tế:** Một đoạn nhạc trend dài 15s – 30s có thể được hàng triệu tài khoản khác nhau ghép vào video của họ. 
-- **Hệ quả:** Nếu chỉ so khớp mã băm thông thường (URL, MD5 file tải về), pipeline sẽ bị "đánh lừa" và thu về hàng nghìn file chứa cùng một đoạn nhạc lặp đi lặp lại, gây lãng phí tài nguyên và làm lệch phân phối dữ liệu (Data Bias).
-
-### ⚠️ Vấn đề 3: Tạp âm, khoảng lặng dài và clip không có giọng nói
-- Rất nhiều video cào về là clip nhảy theo nhạc, video phong cảnh không lời, hoặc chỉ có tiếng thở/tiếng ồn môi trường mà không có ngữ nghĩa tiếng Việt.
+> **Kính gửi:** Hội đồng Nghiệm thu và Mentor Dự án.  
+> **Người thực hiện:** Trương Duy Cường — Nhóm Kỹ thuật Dữ liệu Speech AI.  
+> **Dự án:** Xây dựng Pipeline Thu thập, Xử lý và Chuẩn hóa Dữ liệu Âm thanh Tiếng Việt Quy mô lớn.
 
 ---
 
-## 🤖 2. Sự Tiến Hóa Của Các Mô Hình Audio Separation & Lý Do Nâng Cấp
+## 1. Bối cảnh ban đầu và Những sự cố thực tế "nhớ đời"
 
-Quá trình nâng cấp bộ tách nguồn âm thanh (Music Source Separation) là bước ngoặt quyết định chất lượng toàn bộ dự án:
+Khi bắt đầu nhận chỉ tiêu thu thập 500 giờ âm thanh tiếng Việt từ mạng xã hội, nhóm đã tiếp cận bài toán một cách khá đơn giản: cứ tải video về, dùng công cụ tách âm thanh thành file WAV rồi đưa vào tập dữ liệu. Tuy nhiên, khi bắt tay vào chạy thực tế trên quy mô hàng chục nghìn video, hàng loạt sự cố nghiêm trọng đã liên tiếp xảy ra:
+
+### Sự cố 1: Cào nhầm luồng nhạc thịnh hành thay vì âm thanh gốc của video
+- **Diễn biến:** Trong những tuần đầu tiên, khi phân tích cấu trúc dữ liệu trả về từ máy chủ, nhóm đã trích xuất nhầm đường link nhạc mẫu của bài hát thay vì luồng âm thanh thực tế trong video.
+- **Hậu quả:** Hệ thống tải về hàng nghìn bài hát nhạc trẻ hoàn chỉnh. Toàn bộ các file này không hề có một câu thoại nào của người quay video, làm sai lệch hoàn toàn mục tiêu thu thập giọng nói.
+- **Bài học & Khắc phục:** Nhóm phải đào sâu vào cấu trúc gói tin, sửa lại toàn bộ bộ bóc tách để chỉ lấy luồng âm thanh thực sự đi kèm hình ảnh của người nói, đồng thời chặn triệt để các đường link dẫn tới kho nhạc mẫu.
+
+### Sự cố 2: Khủng hoảng "Quên nạp mô hình tách nhạc" khiến hàng loạt dữ liệu dính nhạc nền
+- **Diễn biến:** Trong một đợt chạy tải dữ liệu lớn lên đến gần 60.000 file, do áp lực tiến độ và cấu hình luồng xử lý bị lỗi nhánh điều kiện, một số ngày cào đã vô tình bỏ qua bước đưa qua mô hình tách nhạc mà chuyển thẳng sang bước cắt câu và đồng bộ lên đám mây.
+- **Hậu quả:** Hàng chục nghìn file âm thanh đưa lên Google Drive bị dính tiếng nhạc đập thình thình phía sau. Khi mở nghe thử, tiếng người nói bị tiếng đàn, tiếng trống át gần như hoàn toàn.
+- **Cách xử lý khủng hoảng:** Nhóm không xóa bỏ dữ liệu để làm lại từ đầu mà đã thiết lập một quy trình cấp cứu: Thuê máy chủ đồ họa đám mây trên RunPod, viết lại script quét toàn bộ các file đã tải trên Drive, nạp qua mô hình tách nhạc hiện đại nhất để bóc sạch tiếng nhạc nền, sau đó ghi đè ngược trở lại kho lưu trữ.
+
+### Sự cố 3: Thảm họa cắt câu bằng thuật toán phát hiện khoảng lặng âm lượng
+- **Diễn biến:** Ban đầu nhóm dùng công cụ nhận diện im lặng dựa trên biên độ âm lượng cố định để cắt file dài thành các đoạn nhỏ.
+- **Hậu quả:** Nhạc nền có âm lượng lớn liên tục phát ra khiến công cụ này bị "đánh lừa", nó tưởng rằng người vẫn đang nói liên tục nên không chịu cắt, sinh ra các đoạn âm thanh dài vài phút chứa nguyên cả đoạn dạo nhạc không lời. Ngược lại, ở những chỗ người nói thì thầm hoặc nói nhỏ thì công cụ lại chém đứt ngang câu, làm mất đầu mất đuôi của từ vựng.
+
+### Sự cố 4: Trùng lặp dữ liệu khổng lồ do nhạc trend và video đăng lại
+- Các video trên mạng xã hội thường dùng chung một đoạn âm thanh thịnh hành. Nếu chỉ so sánh tên file hay mã băm thông thường của file tải về, hệ thống bị qua mặt hoàn toàn vì mỗi lần video được đăng lại, nền tảng sẽ nén lại với thông số khác nhau, làm mã băm file thay đổi dù nội dung âm thanh giống hệt nhau.
+
+---
+
+## 2. Quá trình nâng cấp mô hình tách nhạc: Từ thất bại đến thành công
+
+Để đưa ra được kết quả cuối cùng đạt chuẩn, nhóm đã phải trải qua nhiều lần thay đổi và thử nghiệm rất nhiều mô hình khác nhau:
 
 ```
-[Phương pháp Cổ điển]           [Demucs v4 HTDemucs]          [Mel-Band RoFormer]
-Spleeter / Spectral Gating  ➔  Hybrid Transformer AI    ➔   Rotary Position Embedding
-(Méo formant, rò rỉ nhạc)       (Cân bằng Tốc độ/VRAM)       (Chất lượng Studio SOTA)
+[Mô hình đời đầu: Spleeter / Bộ lọc tần số] 
+  ⬇ (Thất bại: Giọng bị méo kim loại, rò rỉ tiếng trống)
+[Mô hình nâng cấp: Demucs v4 - HTDemucs] 
+  ⬇ (Thành công ở quy mô lớn: Tách sạch 95% nhạc, tốc độ nhanh)
+[Mô hình cao cấp: Mel-Band RoFormer] 
+  ⬇ (Chất lượng phòng thu: Triệt tiêu sạch cả bè nhạc phức tạp)
 ```
 
-### 1. Phân tích hạn chế của các phương pháp đời đầu (Spleeter / Spectral Gating)
-- **Spectral Gating (Khử nhiễu tần số tĩnh):** Chỉ triệt tiêu được tiếng ồn trắng đều (stationary noise). Khi gặp nhạc có giai điệu thay đổi liên tục, bộ lọc này làm méo toàn bộ dải tần giọng nói ($300\text{Hz} - 3.4\text{kHz}$), khiến âm thanh bị "nghẹt mũi" hoặc kim loại hóa (metallic artifacts).
-- **Spleeter (U-Net 2D):** Rò rỉ nhạc nền (music bleeding) rất nặng vào dải vocal, đặc biệt là tiếng trống và bass.
+### 1. Thử nghiệm ban đầu với Spleeter và Bộ lọc tần số tĩnh (Thất bại)
+- Khi dùng các bộ lọc tần số truyền thống, giọng nói sau khi lọc bị biến dạng nghiêm trọng, nghe như tiếng rô-bốt hoặc người bị nghẹt mũi.
+- Khi thử mô hình Spleeter đời đầu, tiếng trống bass và các âm thanh tần số thấp của nhạc nền vẫn bị lọt vào giọng nói rất nhiều, làm mô hình nhận diện giọng nói liên tục bị ảo giác.
 
-### 2. So sánh chuyên sâu giữa Demucs AI (v4 HTDemucs) và Mel-Band RoFormer
+### 2. Bước ngoặt với Meta AI Demucs v4 (HTDemucs)
+- Nhóm chuyển sang ứng dụng mô hình Demucs phiên bản 4 sử dụng kiến trúc kết hợp giữa miền thời gian và miền tần số.
+- **Ưu điểm vượt trội:** Tách sạch hầu hết các loại nhạc nền thịnh hành, giọng nói người giữ được độ tự nhiên, không bị méo tiếng.
+- **Hiệu năng:** Tốc độ xử lý rất nhanh, chỉ tốn khoảng 4GB bộ nhớ card đồ họa, cho phép chạy xử lý song song nhiều tiến trình cùng lúc trên máy tính cá nhân và máy chủ tầm trung.
 
-| Tiêu chí So sánh | Meta AI Demucs v4 (HTDemucs) | Mel-Band RoFormer (Vocals SOTA) |
-|---|---|---|
-| **Kiến trúc mô hình** | Hybrid Transformer kết hợp Time & Frequency | Mel-Band Splitting + Rotary Position Embedding (RoPE) |
-| **Chất lượng âm thanh (SDR)** | **$8.5 - 9.2\text{ dB}$** (Rất tốt) | **$\mathbf{12.4 - 13.1\text{ dB}}$** (Chất lượng Studio đỉnh cao) |
-| **Độ triệt tiêu BGM** | Sạch $90 - 95\%$ nhạc nền | Sạch $\mathbf{98 - 99\%}$, loại bỏ cả bè vocal phụ |
-| **Tiêu tốn GPU VRAM** | **$3.5 - 4.5\text{ GB}$ VRAM** (Chạy nhẹ nhàng) | **$7.5 - 11.0\text{ GB}$ VRAM** (Đòi hỏi GPU lớn) |
-| **Tốc độ xử lý (RTF)** | **$0.08 - 0.12\times$** (Nhanh gấp 8-10 lần realtime) | **$0.25 - 0.35\times$** (Chậm hơn khoảng 3 lần so với Demucs) |
-
-### 3. Chiến lược ứng dụng thực tế (Design Decisions):
-- **Nhánh Demucs Engine (`demucs_engine.py`):** Dùng để xử lý hàng loạt quy mô lớn (High-throughput batching) trên các lô dữ liệu hàng trăm nghìn file cần hoàn thành nhanh trong thời gian ngắn với chi phí GPU tối thiểu.
-- **Nhánh Mel-Band RoFormer (`melband_engine.py`):** Dùng để xử lý các lô dữ liệu khó (Hard cases: nhạc EDM/Rock quá lớn đè giọng nói) hoặc xuất các tập **Gold Benchmark Dataset** phục vụ fine-tune mô hình cuối cùng.
+### 3. Đỉnh cao chất lượng với Mel-Band RoFormer
+- Đối với những đoạn video cực khó (nhạc điện tử quá lớn, tiếng ca sĩ hát đè lên tiếng người review), nhóm ứng dụng mô hình Mel-Band RoFormer trên hệ thống máy chủ GPU cao cấp.
+- Mô hình này có khả năng bóc tách gần như tuyệt đối, đưa chất lượng giọng nói về trạng thái trong trẻo chuẩn phòng thu, tạo tiền đề để xây dựng các bộ dữ liệu mẫu đạt chuẩn vàng.
 
 ---
 
-## 🛡️ 3. Quá Trình Giải Quyết Bài Toán Chống Trùng Lặp (Deduplication)
+## 3. Quá trình hoàn thiện thuật toán Chống trùng lặp dữ liệu
 
-### Thất bại ban đầu với MD5 / SHA-256 File Thô:
-- **Nguyên nhân:** Các nền tảng nén lại video mỗi khi re-upload (thay đổi bitrate, đổi container từ MP4 sang WebM, thêm watermark vài pixel). Mặc dù nội dung âm thanh giống hệt nhau $100\%$, mã băm file thô vẫn ra 2 chuỗi hoàn toàn khác nhau.
+### Bài học từ việc so sánh mã băm file thô:
+- Việc kiểm tra trùng lặp bằng mã băm của file tải về (MD5 hoặc SHA-256 trên toàn bộ file MP4/WAV) đã hoàn toàn thất bại vì chỉ cần độ phân giải video thay đổi một chút là mã băm thay đổi theo.
 
-### Giải pháp nâng cấp: Content Waveform Quantized Fingerprint
-1. Pipeline giải mã audio về mảng số thực float32 chuẩn hóa ở sample rate cố định $16,000\text{ Hz}$.
-2. Lượng tử hóa mảng sóng thành định dạng `int16` cố định biên độ $[-32768, 32767]$.
-3. Thực hiện băm SHA-256 trên mảng byte lượng tử hóa này kết hợp với thuật toán kiểm tra độ tương đồng phổ năng lượng.
-4. **Kết quả:** Đảm bảo tỷ lệ trùng lặp trên toàn bộ lô dữ liệu luôn **$\le 0.5\% - 2.1\%$** (đạt vượt mức yêu cầu $\le 5\%$ của Doanh nghiệp).
-
----
-
-## ✂️ 4. Sự Tiến Hóa Của Kỹ Thuật Cắt Lát Âm Thanh (Audio Segmentation)
-
-### Thảm họa trước khi dùng VAD:
-- **Cắt cố định (Fixed-length 10s/15s):** Cắt ngang giữa một từ đang phát âm (ví dụ từ "Hà Nội" bị cắt thành "Hà" ở file 1 và "Nội" ở file 2), gây hỏng ngữ âm khi huấn luyện.
-- **Cắt theo Energy/Silence tĩnh (FFmpeg silencedetect):** Nhạc nền có năng lượng cao liên tục làm bộ phát hiện im lặng không thể tìm thấy điểm dừng, dẫn đến sinh ra các file dài bất thường $> 60\text{s}$ chứa toàn nhạc dạo.
-
-### Bước đột phá với Silero VAD (`silero_slicer.py`):
-- **Phát hiện hoạt tính giọng nói (Voice Activity Detection) theo frame 30ms:** Silero VAD sử dụng mạng nơ-ron phân biệt chính xác đâu là tiếng người phát âm và đâu là nhạc nền/tiếng ồn.
-- **Tự động loại bỏ Dead Air:** Toàn bộ đoạn dạo đầu không lời (intro), đoạn kết thúc (outro), và các khoảng lặng $> 300\text{ms}$ giữa hai câu nói được tự động loại bỏ.
-- **Tạo phân đoạn tự nhiên:** Các câu nói hoàn chỉnh được cắt mượt mà trong khoảng $3.0\text{s} - 15.0\text{s}$, có padding $200\text{ms}$ ở hai đầu để giữ trọn vẹn phụ âm đầu và âm đuôi.
+### Giải pháp kỹ thuật được áp dụng:
+1. Giải mã toàn bộ âm thanh về dạng sóng số nguyên chuẩn hóa.
+2. Trích xuất đặc trưng dấu vân tay âm thanh trực tiếp từ nội dung phát âm thực tế.
+3. Tạo mã băm nhận diện nội dung dựa trên cấu trúc sóng âm thay vì cấu trúc file đóng gói.
+4. **Kết quả:** Hệ thống đã tự động phát hiện và loại bỏ hàng nghìn đoạn nhạc lặp lại, giữ cho tỷ lệ trùng lặp trong toàn bộ kho dữ liệu luôn ở mức cực thấp, chỉ dưới 0.5% đến 2%.
 
 ---
 
-## 📊 5. Tư Duy "Nhiều Không Bằng Dùng Được" & Báo Cáo Phễu Dữ Liệu
+## 4. Đột phá trong kỹ thuật Cắt lát âm thanh bằng Trí tuệ nhân tạo (Silero VAD)
 
-Trong ngành Kỹ thuật Dữ liệu AI, nguyên lý cốt lõi là: **"Garbage in, Garbage out"**. Một tập dữ liệu 1.000 giờ nhưng chứa $30\%$ nhạc rác và âm thanh méo sẽ phá hỏng hoàn toàn hàm mất mát (loss function) của mô hình ASR, trong khi 500 giờ âm thanh chuẩn sạch sẽ cho ra mô hình có WER (Word Error Rate) xuất sắc.
+Sau thất bại của phương pháp cắt theo độ dài cố định và cắt theo ngưỡng âm lượng, nhóm đã tích hợp mô hình **Silero VAD** (Nhận diện hoạt tính giọng nói bằng AI):
 
-### 📉 Báo Cáo Phễu Dữ Liệu Thực Tế Toàn Dự Án:
+- **Phân biệt chuẩn xác giữa tiếng người và âm nhạc:** Mô hình phân tích theo từng khung thời gian 30 mili-giây để xác định đúng thời điểm người bắt đầu phát âm và dừng phát âm, hoàn toàn không bị đánh lừa bởi tiếng nhạc nền sôi động.
+- **Tự động gọt bỏ đoạn thừa:** Toàn bộ các đoạn nhạc dạo đầu video, nhạc kết thúc và các khoảng im lặng dài hơn 0.3 giây đều bị cắt bỏ tự động.
+- **Giữ trọn vẹn ngữ âm:** Mỗi câu nói được bổ sung một khoảng đệm nhỏ ở hai đầu để không bao giờ bị mất âm đầu hoặc âm cuối của từ tiếng Việt, tạo ra các file âm thanh có độ dài lý tưởng từ 3 đến 15 giây cho việc huấn luyện.
+
+---
+
+## 5. Bài học lớn nhất: Tư duy "Nhiều không bằng dùng được"
+
+Qua toàn bộ dự án, bài học quý giá nhất mà nhóm rút ra được chính là: **Chất lượng dữ liệu quyết định tất cả**. Việc khoe khoang thu được hàng trăm nghìn video nhưng khi mở ra toàn nhạc rác và âm thanh lỗi hoàn toàn vô giá trị, thậm chí còn làm hỏng cả mô hình nhận diện giọng nói khi đem vào huấn luyện.
+
+### Báo cáo Phễu chuyển đổi dữ liệu thực tế:
 
 ```
-[1] RAW CRAWLED AUDIO (108,500 files) ~ 100.0%
+[1] Tổng lượng video quét và tải về ban đầu: 108,500 video (100%)
        │
-       ▼ (Loại bỏ video hỏng, clip lỗi download)
-[2] TÁCH NHẠC DEMUCS / ROFORMER (102,410 files) ~ 94.4%
+       ▼ (Loại bỏ các video lỗi tải, video không có tiếng)
+[2] Sau khi cho chạy qua mô hình tách nhạc Demucs/RoFormer: 102,410 file (94.4%)
        │
-       ▼ (Loại bỏ clip nhân bản, nhạc trend lặp lại)
-[3] DEDUP SHA-256 FINGERPRINT (98,120 files) ~ 90.4%
+       ▼ (Quét dấu vân tay âm thanh, loại bỏ các clip nhạc trend trùng lặp)
+[3] Sau khi lọc trùng lặp nội dung: 98,120 file (90.4%)
        │
-       ▼ (Silero VAD loại bỏ clip nhảy, intro/outro không lời)
-[4] SILERO VAD SPEECH SLICING (91,250 segments) ~ 84.1%
+       ▼ (Mô hình Silero VAD cắt bỏ đoạn nhạc dạo, khoảng lặng không lời)
+[4] Sau khi cắt lát câu nói bằng Silero VAD: 91,250 phân đoạn (84.1%)
        │
-       ▼ (Quality Gate: SNR >= 10dB, Flatness <= 0.15)
-[5] 🏆 APPROVED GOLD DATASET (81,093 files ~ 609.74 GIỜ) ~ 74.7%
+       ▼ (Thẩm định chất lượng: đo tỷ lệ giọng nói, kiểm tra tạp âm)
+[5] KHO DỮ LIỆU ĐẠT CHUẨN HOÀN THIỆN: 81,093 FILE ~ 609.74 GIỜ (74.7%)
 ```
 
 ---
 
-## 🎯 KẾT LUẬN & KIẾN NGHỊ BÀN GIAO
-1. **Dữ liệu hoàn tất:** **81,093 files audio sạch (~609.74 Giờ)** đạt 100% chuẩn kỹ thuật WAV 16kHz Mono 16-bit PCM, $-20\text{ LUFS}$.
-2. **Mã nguồn hoàn chỉnh:** Pipeline được đóng gói độc lập trong thư mục `speech_pipeline/`, có đầy đủ 2 engine Demucs & Mel-Band RoFormer, bộ unit test `32/32 PASS`, sẵn sàng chuyển giao cho Doanh nghiệp vận hành tự động dài hạn.
+## 6. Kết luận bàn giao
+
+1. **Kho dữ liệu đã hoàn thiện:** **81,093 file âm thanh sạch**, tổng thời lượng **609.74 Giờ** (vượt xa chỉ tiêu 500 giờ đề ra), 100% đạt chuẩn kỹ thuật âm thanh đơn kênh, tần số lấy mẫu 16kHz, độ sâu 16-bit.
+2. **Metadata minh bạch:** 100% file có đầy đủ thông tin nguồn gốc, mã định danh, thời lượng thực tế và gắn nhãn phục vụ nghiên cứu.
+3. **Mã nguồn sạch sẽ và có kiểm thử:** Pipeline được đóng gói hoàn chỉnh trong thư mục `speech_pipeline/`, vượt qua 100% các bài kiểm thử tự động, sẵn sàng chuyển giao cho doanh nghiệp đưa vào sử dụng ngay mà không cần người hướng dẫn ngồi cạnh.
