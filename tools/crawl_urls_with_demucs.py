@@ -214,6 +214,7 @@ def main():
     parser.add_argument("--cookies", type=str, default="cookies_tiktok.txt", help="Path to TikTok cookies file or directory")
     parser.add_argument("--dl-workers", type=int, default=16, help="Download threads")
     parser.add_argument("--gpu-workers", type=int, default=4, help="GPU Demucs worker processes (khuyến nghị 4 cho GPU 16GB)")
+    parser.add_argument("--batch-size", type=int, default=300, help="Batch size for GPU processing")
     parser.add_argument("--skip-download", action="store_true", help="Bỏ qua giai đoạn tải, dùng các file audio thô có sẵn trong raw_audio/")
     parser.add_argument("--limit", type=int, default=0, help="Limit total URLs to process")
     parser.add_argument("--auto-sync", action="store_true", default=True, help="Tự động đồng bộ lên Google Drive qua rclone sau khi hoàn tất")
