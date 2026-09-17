@@ -307,21 +307,37 @@ def main():
     if tasks:
         batch_sz = args.batch_size
         n_batches = (len(tasks) + batch_sz - 1) // batch_sz
-        with ProcessPoolExecutor(max_workers=args.gpu_workers, initializer=init_demucs_worker) as executor:
-            for b_i in range(n_batches):
-                b_tasks = tasks[b_i * batch_sz : (b_i + 1) * batch_sz]
-                print(f"--- BATCH {b_i+1}/{n_batches} ({len(b_tasks)} files) ---", flush=True)
-                futs = {executor.submit(run_demucs_separate_task, t): t for t in b_tasks}
-                b_done = 0
-                for fut in as_completed(futs):
-                    b_done += 1
-                    ok, iid, err = fut.result()
-                    if ok:
-                        total_success += 1
-                        print(f"[{b_done}/{len(b_tasks)}] {iid} -> SẠCH NHẠC 100% (Demucs) ✅", flush=True)
-                    else:
-                        total_failed += 1
-                        print(f"[{b_done}/{len(b_tasks)}] {iid} -> LỖI ❌ {err}", flush=True)
+        for b_i in range(n_batches):
+            b_tasks = [t for t in tasks[b_i * batch_sz : (b_i + 1) * batch_sz] if not (Path(t[1]).exists() and Path(t[1]).stat().st_size > 1000)]
+            if not b_tasks:
+                continue
+            print(f"--- BATCH {b_i+1}/{n_batches} ({len(b_tasks)} files) ---", flush=True)
+            
+            retry_count = 0
+            while b_tasks and retry_count < 3:
+                retry_count += 1
+                try:
+                    with ProcessPoolExecutor(max_workers=args.gpu_workers, initializer=init_demucs_worker) as executor:
+                        futs = {executor.submit(run_demucs_separate_task, t): t for t in b_tasks}
+                        b_done = 0
+                        for fut in as_completed(futs):
+                            b_done += 1
+                            t_info = futs[fut]
+                            try:
+                                ok, iid, err = fut.result()
+                                if ok:
+                                    total_success += 1
+                                    print(f"[{b_done}/{len(b_tasks)}] {iid} -> SẠCH NHẠC 100% (Demucs) ✅", flush=True)
+                                else:
+                                    total_failed += 1
+                                    print(f"[{b_done}/{len(b_tasks)}] {iid} -> LỖI ❌ {err}", flush=True)
+                            except Exception as task_exc:
+                                print(f"[{b_done}/{len(b_tasks)}] {t_info[2]} -> Bỏ qua file lỗi: {task_exc}", flush=True)
+                except Exception as pool_exc:
+                    print(f"[-] Worker Pool được tái khởi động tự động ({pool_exc}). Tiếp tục xử lý các file tiếp theo...", flush=True)
+                
+                # Cập nhật danh sách các file còn lại chưa xong
+                b_tasks = [t for t in b_tasks if not (Path(t[1]).exists() and Path(t[1]).stat().st_size > 1000)]
 
     # ── GIAI ĐOẠN 3: SILERO VAD AUDIO SLICER (CẮT ĐOẠN ASR 5s - 30s TẠI ĐIỂM LẶNG THẬT) ──
     print("\n" + "=" * 85)
