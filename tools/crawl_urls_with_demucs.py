@@ -413,14 +413,31 @@ def main():
         try:
             rclone_check = subprocess.run(["rclone", "version"], capture_output=True, text=True)
             if rclone_check.returncode == 0:
+                print("[*] Đang kiểm tra và tự động làm mới (refresh) Token Google Drive...", flush=True)
+                test_conn = subprocess.run(["rclone", "about", "gdrive:"], capture_output=True, text=True)
+                if test_conn.returncode != 0 and "token" in test_conn.stderr.lower():
+                    print(f"[-] Cảnh báo kết nối Drive: {test_conn.stderr.strip()}", flush=True)
+                else:
+                    print("[+] Token Google Drive hợp lệ & đã được tự động làm mới thành công!", flush=True)
+
+                rclone_flags = [
+                    "--transfers", "8",
+                    "--checkers", "16",
+                    "--retries", "10",
+                    "--retries-sleep", "5s",
+                    "--drive-chunk-size", "64M",
+                    "--fast-list",
+                    "-P"
+                ]
+
                 print(f"[*] Đang tải {len(final_wavs):,} file audio lên {args.drive_dest}/audio ...", flush=True)
-                cmd_audio = ["rclone", "copy", str(audio_dir), f"{args.drive_dest}/audio", "-P"]
+                cmd_audio = ["rclone", "copy", str(audio_dir), f"{args.drive_dest}/audio"] + rclone_flags
                 subprocess.run(cmd_audio)
 
                 print(f"[*] Đang tải metadata.json & summary.json lên {args.drive_dest}/ ...", flush=True)
-                cmd_meta = ["rclone", "copy", str(meta_file), args.drive_dest, "-P"]
+                cmd_meta = ["rclone", "copy", str(meta_file), args.drive_dest] + rclone_flags
                 subprocess.run(cmd_meta)
-                cmd_sum = ["rclone", "copy", str(sum_file), args.drive_dest, "-P"]
+                cmd_sum = ["rclone", "copy", str(sum_file), args.drive_dest] + rclone_flags
                 subprocess.run(cmd_sum)
 
                 print(f"\n[+] 🎉 ĐỒNG BỘ LÊN GOOGLE DRIVE THÀNH CÔNG 100%!", flush=True)
