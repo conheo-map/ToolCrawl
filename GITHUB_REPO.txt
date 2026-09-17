@@ -1,0 +1,13 @@
+# 🔗 THÔNG TIN KHO MÃ NGUỒN GITHUB (GITHUB REPOSITORY)
+
+- **Đường dẫn Repository:** https://github.com/conheo-map/ToolCrawl.git
+- **Nhánh chính (Main Branch):** main
+- **Tên kho mã nguồn:** ToolCrawl / speech_pipeline
+- **Mục đích:** Quy trình xử lý dữ liệu âm thanh phục vụ huấn luyện mô hình tiếng nói (Crawl -> Separation -> VAD -> Dedup -> Gold Dataset)
+
+### 🚀 Lệnh clone dự án:
+`ash
+git clone https://github.com/conheo-map/ToolCrawl.git
+cd ToolCrawl
+pip install -r speech_pipeline/requirements.txt
+`
