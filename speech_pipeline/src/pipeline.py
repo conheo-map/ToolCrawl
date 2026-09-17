@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 pipeline.py — Master Speech AI Data Pipeline Entrypoint
 ======================================================
@@ -11,8 +11,23 @@ Usage:
 import argparse
 import json
 import time
+import sys
+import io
 from pathlib import Path
 from tqdm import tqdm
+
+# Đảm bảo in tiếng Việt trên console Windows không bị lỗi bảng mã Unicode cp1252
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
+
+# Đảm bảo Python luôn tìm thấy package 'src' dù chạy từ bất kỳ thư mục nào
+_PIPELINE_ROOT = Path(__file__).resolve().parent.parent
+if str(_PIPELINE_ROOT) not in sys.path:
+    sys.path.insert(0, str(_PIPELINE_ROOT))
 
 from src.crawler.tiktok_crawler import TikTokCrawler
 from src.separation.demucs_engine import DemucsEngine
@@ -20,6 +35,8 @@ from src.separation.melband_engine import MelbandRoformerEngine
 from src.vad_slicer.silero_slicer import SileroVADSlicer
 from src.dedup.audio_dedup import AudioDedupEngine
 from src.quality_gate.evaluator import QualityGateEvaluator
+
+
 
 
 def run_full_pipeline(
