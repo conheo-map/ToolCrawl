@@ -9,12 +9,15 @@ Processes all URLs in urls.txt:
 from __future__ import annotations
 
 import os
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+
 import sys
 import time
 import json
 import shutil
 import argparse
 import subprocess
+import gc
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor, as_completed
@@ -45,6 +48,8 @@ _demucs_model = None
 
 def init_demucs_worker():
     global _demucs_model
+    import os
+    os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
     import torchaudio
     from demucs.pretrained import get_model
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -66,6 +71,10 @@ def run_demucs_separate_task(task_tuple: tuple) -> tuple:
     try:
         import torchaudio
         from demucs.apply import apply_model
+        import gc
+
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
 
         # Đọc trực tiếp qua soundfile (tránh lỗi TorchCodec trên torchaudio 2.5+)
         data, sr = sf.read(str(raw_path), dtype="float32")
@@ -89,7 +98,18 @@ def run_demucs_separate_task(task_tuple: tuple) -> tuple:
         wav = wav.unsqueeze(0).to(device)
 
         with torch.no_grad():
-            sources = apply_model(_demucs_model, wav, shifts=0, split=True, overlap=0.1, progress=False)
+            try:
+                # segment=7.8 chia nhỏ audio khi xử lý, triệt tiêu nguy cơ CUDA OOM cho file dài
+                sources = apply_model(_demucs_model, wav, shifts=0, split=True, segment=7.8, overlap=0.1, progress=False)
+            except RuntimeError as oom_err:
+                if "out of memory" in str(oom_err).lower():
+                    if torch.cuda.is_available():
+                        torch.cuda.empty_cache()
+                    cpu_model = _demucs_model.cpu()
+                    sources = apply_model(cpu_model, wav.cpu(), shifts=0, split=True, segment=7.8, overlap=0.1, progress=False)
+                    _demucs_model.to(device)
+                else:
+                    raise oom_err
 
         vocal_idx = _demucs_model.sources.index("vocals") if hasattr(_demucs_model, "sources") and "vocals" in _demucs_model.sources else 3
         vocals = sources[0, vocal_idx].mean(dim=0).cpu()
@@ -103,6 +123,8 @@ def run_demucs_separate_task(task_tuple: tuple) -> tuple:
         del wav, sources, vocals
         if torch.cuda.is_available():
             torch.cuda.empty_cache()
+        gc.collect()
+
         return (dst_path.exists() and dst_path.stat().st_size > 1000, item_id, "")
 
     except Exception as exc:
@@ -191,7 +213,7 @@ def main():
     parser.add_argument("--out-dir", type=str, default=f"dataset_{TODAY_STR}", help="Output directory name")
     parser.add_argument("--cookies", type=str, default="cookies_tiktok.txt", help="Path to TikTok cookies file or directory")
     parser.add_argument("--dl-workers", type=int, default=16, help="Download threads")
-    parser.add_argument("--gpu-workers", type=int, default=8, help="GPU Demucs worker processes")
+    parser.add_argument("--gpu-workers", type=int, default=4, help="GPU Demucs worker processes (khuyến nghị 4 cho GPU 16GB)")
     parser.add_argument("--batch-size", type=int, default=300, help="Batch size for GPU processing")
     parser.add_argument("--skip-download", action="store_true", help="Bỏ qua giai đoạn tải, dùng các file audio thô có sẵn trong raw_audio/")
     parser.add_argument("--limit", type=int, default=0, help="Limit total URLs to process")
