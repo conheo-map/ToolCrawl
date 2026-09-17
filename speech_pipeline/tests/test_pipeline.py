@@ -1,4 +1,4 @@
-﻿"""
+"""
 test_pipeline.py — Pytest Suite for Speech Pipeline Modules
 """
 import pytest
@@ -6,10 +6,13 @@ import numpy as np
 import soundfile as sf
 import tempfile
 import shutil
+import sys
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from src.dedup.audio_dedup import AudioDedupEngine
 from src.quality_gate.evaluator import QualityGateEvaluator
+
 
 
 @pytest.fixture
