@@ -1,10 +1,12 @@
-﻿"""
+"""
 demucs_engine.py — Hybrid Transformer Demucs Vocal Separation Engine
 ===================================================================
 Tách vocal bằng mô hình Meta AI Demucs v4 (htdemucs).
-Tối ưu hóa GPU VRAM, xử lý batching và tự động giải phóng bộ nhớ.
+Tối ưu hóa GPU VRAM, tương thích đa nền tảng (sử dụng SoundFile, không phụ thuộc torchcodec).
 """
 from pathlib import Path
+import soundfile as sf
+import numpy as np
 import torch
 import torchaudio
 from demucs.apply import apply_model
@@ -26,11 +28,15 @@ class DemucsEngine:
 
     def separate_vocal(self, audio_path: Path, output_path: Path) -> bool:
         """
-        Tách lấy vocal stem từ audio_path và lưu vào output_path.
+        Tách lấy vocal stem từ audio_path và lưu vào output_path dạng 16kHz mono PCM16.
         """
         try:
-            wav, sr = torchaudio.load(str(audio_path))
-            
+            data, sr = sf.read(str(audio_path), dtype="float32")
+            if data.ndim == 1:
+                wav = torch.from_numpy(data).unsqueeze(0)
+            else:
+                wav = torch.from_numpy(data.T)
+
             # Resample sang sample rate của Demucs (44.1kHz) nếu cần
             if sr != self.model.samplerate:
                 resampler = torchaudio.transforms.Resample(orig_freq=sr, new_freq=self.model.samplerate)
@@ -67,8 +73,11 @@ class DemucsEngine:
                 resampler_16k = torchaudio.transforms.Resample(orig_freq=sr, new_freq=16000)
                 vocal_mono = resampler_16k(vocal_mono)
 
+            vocal_np = vocal_mono.squeeze(0).numpy()
+            vocal_np = np.clip(vocal_np, -1.0, 1.0)
+
             output_path.parent.mkdir(parents=True, exist_ok=True)
-            torchaudio.save(str(output_path), vocal_mono, 16000, encoding="PCM_S", bits_per_sample=16)
+            sf.write(str(output_path), vocal_np, 16000, subtype="PCM_16")
 
             # Giải phóng VRAM
             if self.device == "cuda":
