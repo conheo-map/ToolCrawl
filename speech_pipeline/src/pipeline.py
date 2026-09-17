@@ -121,9 +121,10 @@ def run_full_pipeline(
             # Bước 5: Quality Gate Evaluation
             q_metrics = evaluator.evaluate_audio(seg_p)
             
-            # Di chuyển sang thư mục Gold Dataset
+            # Di chuyển sang thư mục Gold Dataset (sử dụng replace để an toàn trên Windows)
             final_p = final_audio_dir / seg_p.name
-            seg_p.rename(final_p)
+            seg_p.replace(final_p)
+
 
             dur = q_metrics["duration_seconds"]
             stats["gold_approved"] += 1
