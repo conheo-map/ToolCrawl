@@ -51,7 +51,9 @@ staging_*/
 dataset_*/
 data/
 saved_test_audios/
+test/
 code_upload_staging/
+
 *.wav
 *.mp3
 *.flac
