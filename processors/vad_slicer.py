@@ -193,9 +193,16 @@ class VadSlicer:
 
         if total_duration <= self.max_sec:
             if total_duration >= self.min_sec:
-                return [{"item_id": item_id, "audio_path": audio_path,
+                output_dir.mkdir(parents=True, exist_ok=True)
+                dest_path = output_dir / f"{item_id}.wav"
+                if dest_path.resolve() != audio_path.resolve():
+                    import shutil
+                    shutil.copy2(str(audio_path), str(dest_path))
+                return [{"item_id": item_id, "audio_path": dest_path,
                          "duration_seconds": total_duration,
-                         "segment_index": 1, "total_segments": 1}]
+                         "segment_index": 1, "total_segments": 1,
+                         "start_sec": 0.0, "end_sec": total_duration,
+                         "vad_method": "silero"}]
             return []
 
         silences = self.detect_silences(audio_path)
@@ -207,9 +214,16 @@ class VadSlicer:
 
         if not splits or len(splits) == 1:
             if total_duration >= self.min_sec:
-                return [{"item_id": item_id, "audio_path": audio_path,
+                output_dir.mkdir(parents=True, exist_ok=True)
+                dest_path = output_dir / f"{item_id}.wav"
+                if dest_path.resolve() != audio_path.resolve():
+                    import shutil
+                    shutil.copy2(str(audio_path), str(dest_path))
+                return [{"item_id": item_id, "audio_path": dest_path,
                          "duration_seconds": total_duration,
-                         "segment_index": 1, "total_segments": 1}]
+                         "segment_index": 1, "total_segments": 1,
+                         "start_sec": 0.0, "end_sec": total_duration,
+                         "vad_method": "silero"}]
             return []
 
         results = []
@@ -246,6 +260,5 @@ class VadSlicer:
             f"[VadSlicer] {audio_path.name} ({total_duration:.1f}s) "
             f"-> {len(results)} segments"
         )
-        if results and audio_path.exists():
-            audio_path.unlink(missing_ok=True)
+        # BẢO TỒN NGUYÊN VẸN FILE GỐC (TUYỆT ĐỐI KHÔNG XÓA NGUỒN)
         return results
