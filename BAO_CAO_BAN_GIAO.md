@@ -1,10 +1,10 @@
-﻿# 🎙️ BÁO CÁO NGHIỆM THU & TÀI LIỆU BÀN GIAO DỰ ÁN CRAWL DATASET ASR
+# 🎙️ BÁO CÁO NGHIỆM THU & TÀI LIỆU BÀN GIAO DỰ ÁN CRAWL DATASET ASR
 ## HỆ THỐNG THU THẬP & XỬ LÝ DỮ LIỆU ÂM THANH TIẾNG VIỆT (SAYDITOOL)
 
 > **Người thực hiện:** Trương Duy Cường  
 > **Dự án:** Vietnamese Speech Audio Crawler & Demucs AI Pipeline  
 > **Thời gian bàn giao:** 17/09/2026  
-> **Tổng thời lượng bàn giao:** **513.84+ Giờ Audio Sạch Đạt Chuẩn ASR (70,831+ files)**  
+> **Tổng thời lượng bàn giao:** **460.35+ Giờ Audio Sạch Đã Thẩm Định Thực Tế (88,047+ files) + Đang mở rộng đạt mốc > 500 Giờ**  
 > **Địa chỉ lưu trữ:** `Google Drive: Trương Duy Cường/Week1 -> Week5`
 
 ---
@@ -13,10 +13,10 @@
 
 | Tiêu chí Mentor & Doanh Nghiệp | Ngưỡng yêu cầu | Kết quả thực tế đạt được | Đánh giá |
 |---|---|---|---|
-| **1. Đủ thông tin nguồn (Source Metadata)** | `100%` | **100.0%** (Tất cả file đều có URL, ID, Title, Author, Thời lượng, Ngày cào) | ✅ ĐẠT XUẤT SẮC |
+| **1. Đủ thông tin nguồn (Source Metadata)** | `100%` | **100.0%** (Tất cả 88,047 file đều có URL, ID, Title, Author, Thời lượng, Ngày cào) | ✅ ĐẠT XUẤT SẮC |
 | **2. Audio đúng định dạng chuẩn ASR** | `100%` | **100.0%** (WAV 16,000 Hz, 1 Channel Mono, PCM 16-bit, 3.0s - 30.0s) | ✅ ĐẠT XUẤT SẮC |
-| **3. Tỷ lệ trùng lặp trong lô (Duplication Rate)** | `≤ 5.0%` | **< 1.2%** (Kiểm soát 2 tầng: SHA-256 Audio Hash + Video ID Dedup) | ✅ ĐẠT XUẤT SẮC |
-| **4. Tỷ lệ nhạc nền lấn tiếng (Mentor nghe ngẫu nhiên)** | `≤ 3/20 file` | **< 1/20 file** (100% audio chạy qua Meta AI Demucs htdemucs) | ✅ ĐẠT XUẤT SẮC |
+| **3. Tỷ lệ trùng lặp trong lô (Duplication Rate)** | `≤ 5.0%` | **< 0.5%** (Kiểm soát 2 tầng: SHA-256 Audio Hash + Video ID Dedup) | ✅ ĐẠT XUẤT SẮC |
+| **4. Tỷ lệ nhạc nền lấn tiếng (Mentor nghe ngẫu nhiên)** | `≤ 3/20 file` | **< 1/20 file** (100% audio chạy qua Meta AI Demucs & MelBand RoFormer) | ✅ ĐẠT XUẤT SẮC |
 | **5. Gắn nhãn mục đích nghiên cứu** | Bắt buộc | **100.0%** (`"research_use_only": true` trong toàn bộ metadata.json) | ✅ ĐẠT XUẤT SẮC |
 | **6. Bộ Unit Test mã nguồn** | Pass logic chính | **28/28 Unit Tests PASSED (100%)** | ✅ ĐẠT XUẤT SẮC |
 | **7. Khả năng tái lập (Reproducibility)** | Chạy độc lập không cần hỗ trợ | **Tự động hóa 1-Click (`setup_new_machine.sh` + CLI tool)** | ✅ ĐẠT XUẤT SẮC |
@@ -37,8 +37,8 @@ Hệ thống được thiết kế theo triết lý **"Một triệu video mà 5
    │  └── QualityAssessor kiểm tra RMS Energy, SNR, loại bỏ video câm/tiếng quá nhỏ.
    │  └── RegionClassifier gán nhãn phương ngữ 4 miền (Bắc, Trung, Nam, Mixed).
    ▼
-[ TẦNG 3: BÓC TÁCH NHẠC NỀN BẰNG DEMUCS AI (HTDEMUCS) ]
-   │  └── 100% audio bắt buộc đi qua mạng nơ-ron sâu Meta Demucs trên GPU.
+[ TẦNG 3: BÓC TÁCH NHẠC NỀN BẰNG DEMUCS AI (HTDEMUCS) & MELBAND ROFORMER ]
+   │  └── 100% audio bắt buộc đi qua mạng nơ-ron sâu Meta Demucs & MelBand trên GPU.
    │  └── Bóc tách triệt để bài hát trend, giữ lại dải âm thanh giọng người nói (Vocals).
    ▼
 [ TẦNG 4: CHỐNG TRÙNG LẶP NỘI DUNG TUYỆT ĐỐI ]
@@ -57,13 +57,13 @@ Hệ thống được thiết kế theo triết lý **"Một triệu video mà 5
 
 ```
 Google Drive: Trương Duy Cường/
-├── Week1/  (4 ngày) :   4,181 files audio sạch  |   82.50 giờ
-├── Week2/  (4 ngày) :  13,055 files audio sạch  |  157.24 giờ
-├── Week3/  (4 ngày) :  29,068 files audio sạch  |  161.16 giờ
-├── Week4/  (4 ngày) :  15,846 files audio sạch  |   73.76 giờ
-└── Week5/  (2 ngày) :   8,681 files audio sạch  |   39.18 giờ
+├── Week1/  (5 ngày) :   4,615 files audio sạch  |   20.45 giờ
+├── Week2/  (4 ngày) :  14,797 files audio sạch  |  109.04 giờ
+├── Week3/  (4 ngày) :  29,107 files audio sạch  |  147.99 giờ
+├── Week4/  (4 ngày) :  15,914 files audio sạch  |   74.06 giờ
+└── Week5/  (2 ngày) :  23,614 files audio sạch  |  108.81 giờ (100% Demucs AI & Silero VAD)
 ======================================================================
-🌟 TỔNG CỘNG TOÀN BỘ : 70,831 FILES AUDIO SẠCH 100% | 513.84 GIỜ
+🌟 TỔNG CỘNG TOÀN BỘ : 88,047 FILES AUDIO SẠCH 100% | 460.35 GIỜ
 ```
 
 ### Cấu trúc từng thư mục ngày:
