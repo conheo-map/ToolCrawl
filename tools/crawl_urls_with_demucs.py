@@ -214,9 +214,11 @@ def main():
     parser.add_argument("--cookies", type=str, default="cookies_tiktok.txt", help="Path to TikTok cookies file or directory")
     parser.add_argument("--dl-workers", type=int, default=16, help="Download threads")
     parser.add_argument("--gpu-workers", type=int, default=4, help="GPU Demucs worker processes (khuyến nghị 4 cho GPU 16GB)")
-    parser.add_argument("--batch-size", type=int, default=300, help="Batch size for GPU processing")
     parser.add_argument("--skip-download", action="store_true", help="Bỏ qua giai đoạn tải, dùng các file audio thô có sẵn trong raw_audio/")
     parser.add_argument("--limit", type=int, default=0, help="Limit total URLs to process")
+    parser.add_argument("--auto-sync", action="store_true", default=True, help="Tự động đồng bộ lên Google Drive qua rclone sau khi hoàn tất")
+    parser.add_argument("--no-auto-sync", dest="auto_sync", action="store_false", help="Không tự động đồng bộ lên Google Drive")
+    parser.add_argument("--drive-dest", type=str, default="gdrive:Trương Duy Cường/Week5/2026-09-17", help="Đích đến trên Google Drive")
     args = parser.parse_args()
 
     urls_path = ROOT / args.file if not Path(args.file).is_absolute() else Path(args.file)
@@ -401,14 +403,41 @@ def main():
     sum_file = output_root / "summary.json"
     sum_file.write_text(json.dumps(summary_data, indent=2, ensure_ascii=False), encoding="utf-8")
 
-    # Giữ nguyên raw_audio và vocal_clean trên ổ cứng để bảo toàn dữ liệu
+    # ── GIAI ĐOẠN 5: TỰ ĐỘNG ĐỒNG BỘ LÊN GOOGLE DRIVE (RCLONE) ──
+    if getattr(args, "auto_sync", True):
+        print("\n" + "=" * 85)
+        print("☁️ [GIAI ĐOẠN 5/5] TỰ ĐỘNG ĐỒNG BỘ TRỰC TIẾP LÊN GOOGLE DRIVE")
+        print(f"Đích đến: {args.drive_dest}")
+        print("=" * 85 + "\n", flush=True)
+
+        try:
+            rclone_check = subprocess.run(["rclone", "version"], capture_output=True, text=True)
+            if rclone_check.returncode == 0:
+                print(f"[*] Đang tải {len(final_wavs):,} file audio lên {args.drive_dest}/audio ...", flush=True)
+                cmd_audio = ["rclone", "copy", str(audio_dir), f"{args.drive_dest}/audio", "-P"]
+                subprocess.run(cmd_audio)
+
+                print(f"[*] Đang tải metadata.json & summary.json lên {args.drive_dest}/ ...", flush=True)
+                cmd_meta = ["rclone", "copy", str(meta_file), args.drive_dest, "-P"]
+                subprocess.run(cmd_meta)
+                cmd_sum = ["rclone", "copy", str(sum_file), args.drive_dest, "-P"]
+                subprocess.run(cmd_sum)
+
+                print(f"\n[+] 🎉 ĐỒNG BỘ LÊN GOOGLE DRIVE THÀNH CÔNG 100%!", flush=True)
+            else:
+                print("[-] Không tìm thấy rclone hoặc rclone chưa cấu hình. Bỏ qua bước tự động đồng bộ Drive.")
+        except Exception as exc:
+            print(f"[-] Lỗi đồng bộ Google Drive: {exc}", flush=True)
 
     t_total_min = (time.time() - t0) / 60
+    print("\n" + "=" * 85)
     print(f"🎉 HOÀN TẤT TRỌN GÓI TOÀN BỘ PIPELINE TRONG {t_total_min:.1f} PHÚT!")
     print(f"  - Tổng số file phân đoạn ASR (5s-30s): {len(final_wavs):,} files")
     print(f"  - Tổng thời lượng: {tot_hours:.2f} giờ")
     print(f"  - 100% file đã đi qua Demucs AI & Silero VAD: {len(final_wavs):,} files")
     print(f"  - Metadata & Summary: Đã lưu tại {output_root}")
+    if getattr(args, "auto_sync", True):
+        print(f"  - Google Drive: Đã đồng bộ lên {args.drive_dest}")
     print("=" * 85 + "\n", flush=True)
 
 
