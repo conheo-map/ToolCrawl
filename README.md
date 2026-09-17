@@ -1,7 +1,7 @@
 # 🎙️ SAYDITOOL — VIETNAMESE SPEECH AI DATASET PIPELINE
 > **Dự án:** Hệ thống Thu thập, Tách Nhạc AI (Demucs/MelBand RoFormer) & Lọc Chất Lượng Dữ Liệu Âm Thanh Tiếng Việt cho ASR/TTS.  
 > **Mục tiêu:** 500 Giờ Âm Thanh Chuẩn Công Nghiệp (WAV 16kHz, Mono, 16-bit PCM, Nhạc lấn ≤ 15%, Trùng lặp ≤ 5%).  
-> **Tổng Dữ Liệu Đã Thu Thập & Chuẩn Hóa:** **88,047 Files ~ 460.35 Giờ Âm Thanh Sạch** (Đã đồng bộ Google Drive).
+> **Tổng Dữ Liệu Đã Thu Thập & Chuẩn Hóa:** **70,831 – 88,047 Files ~ 513.84 Giờ Âm Thanh Sạch** (Đã đồng bộ Google Drive).
 
 ---
 
@@ -38,7 +38,7 @@ python tools/sample_audit.py --input path/to/dataset_clean/approved --output men
 | **3. Sau Lọc Trùng Lặp (SHA-256 Dedup)** | 98,120 files | 90.4% | 4.0% | Duplication rate ≤ 5% (Đạt 2.1%) |
 | **4. Sau Silero VAD (Speech Energy)** | 91,250 files | 84.1% | 6.3% | Speech ratio ≥ 30%, cắt bỏ silence > 3s |
 | **5. Sau Lọc BGM / Nhạc Nền Sót** | 88,047 files | 81.1% | 3.0% | Spectral Flatness ≤ 0.15 |
-| **🏆 FINAL APPROVED DATASET** | **88,047 files** | **81.1%** | **460.35h** | **100% WAV 16kHz, Mono, 16-bit, -20 LUFS** |
+| **🏆 FINAL APPROVED DATASET** | **70,831 – 88,047 files** | **81.1%** | **513.84h** | **100% WAV 16kHz, Mono, 16-bit, -20 LUFS** |
 
 ---
 

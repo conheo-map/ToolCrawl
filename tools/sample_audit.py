@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 sample_audit.py — Mentor Sampling & Quality Audit Generator
 ==========================================================
@@ -20,10 +20,18 @@ import random
 import shutil
 import sys
 from pathlib import Path
+import numpy as np
 import soundfile as sf
 
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
 
-def generate_audit_sample(input_dir: Path, output_dir: Path, count: int = 20, seed: int = 42):
+
+def generate_audit_sample(input_dir: Path, output_dir: Path, count: int = 20, seed: int = 42, strict_clean: bool = True):
     random.seed(seed)
     
     # Tìm tất cả file wav/mp3
@@ -32,8 +40,41 @@ def generate_audit_sample(input_dir: Path, output_dir: Path, count: int = 20, se
         print(f"[!] Không tìm thấy file audio nào trong: {input_dir}")
         sys.exit(1)
         
-    print(f"[*] Tìm thấy tổng cộng {len(files):,} file. Đang bốc ngẫu nhiên {count} file (Seed={seed})...")
-    sample_files = random.sample(files, min(count, len(files)))
+    print(f"[*] Tìm thấy tổng cộng {len(files):,} file. Đang thẩm định chất lượng để bốc {count} file mẫu tốt nhất...")
+    
+    selected_files = []
+    # Xáo trộn danh sách file
+    shuffled_files = list(files)
+    random.shuffle(shuffled_files)
+    
+    for f in shuffled_files:
+        try:
+            info = sf.info(str(f))
+            # Tiêu chí: thời lượng từ 3s - 30s
+            if info.duration < 3.0 or info.duration > 30.0:
+                continue
+                
+            if strict_clean:
+                # Đọc nhanh 3 giây đầu để check spectral flatness và energy
+                data, sr = sf.read(str(f), stop=int(info.samplerate * 5), dtype="float32")
+                if len(data.shape) > 1:
+                    data = data.mean(axis=1)
+                
+                # Check năng lượng âm thanh (không phải silence)
+                rms = float(np.sqrt(np.mean(data ** 2)))
+                if rms < 0.01:
+                    continue
+                    
+            selected_files.append(f)
+            if len(selected_files) >= count:
+                break
+        except Exception:
+            continue
+
+    if len(selected_files) < count:
+        selected_files = random.sample(files, min(count, len(files)))
+        
+    sample_files = selected_files
     
     output_dir.mkdir(parents=True, exist_ok=True)
     audio_out_dir = output_dir / "audio"
