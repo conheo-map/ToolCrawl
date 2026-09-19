@@ -67,13 +67,28 @@ code_upload_staging/
 # --- Sensitive Credentials, URLs & Browser Sessions ---
 cookies/
 *cookies*.txt
+cookies_tiktok.txt
 urls*.txt
 url*.txt
+*.urls
+batch_urls.txt
 
 proxies.txt
 .env
 .env.*
+!.env.example
 secrets.json
+credentials*.json
+token*.json
+client_secret*.json
+
+# --- Local Migration, Audit & Temporary Scripts ---
+tools/restore_metadata_from_local.py
+tools/apply_whisper_enrichment.py
+tools/enrich_metadata_*.py
+tools/audit_duplicates.py
+tools/calc_physical_audio_duration*.py
+tools/final_deep_audit.py
 
 # --- Checkpoints & Research Scratchpads ---
 .checkpoints/

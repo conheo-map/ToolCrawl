@@ -1,0 +1,9 @@
+# Netscape HTTP Cookie File
+# This is an example template. Replace with your actual export from browser (e.g. via Get cookies.txt extension)
+# Do NOT commit your actual cookies_tiktok.txt to git.
+
+.tiktok.com	TRUE	/	TRUE	1899999999	sessionid	YOUR_SESSION_ID_HERE
+.tiktok.com	TRUE	/	TRUE	1899999999	sessionid_ss	YOUR_SESSION_ID_HERE
+.tiktok.com	TRUE	/	TRUE	1899999999	sid_guard	YOUR_SID_GUARD_HERE
+.tiktok.com	TRUE	/	TRUE	1899999999	uid_tt	YOUR_UID_TT_HERE
+.tiktok.com	TRUE	/	TRUE	1899999999	tt_chain_token	YOUR_TT_CHAIN_TOKEN_HERE

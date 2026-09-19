@@ -1,4 +1,4 @@
-﻿"""
+"""
 tools/drive_full_audit_and_cleaner.py — Comprehensive Google Drive Dataset Auditor.
 Bao toan 100% cac file audio thuc te tren Google Drive, cap nhat metadata va summary chuan.
 """
@@ -9,12 +9,13 @@ import sys
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
+import os
 import json
 import subprocess
 from pathlib import Path
 from datetime import datetime
 
-DRIVE_ROOT = "gdrive:Trương Duy Cường"
+DRIVE_ROOT = os.getenv("GDRIVE_REMOTE", "gdrive:Dataset")
 
 def run_cmd(cmd_list: list[str]) -> tuple[int, str]:
     res = subprocess.run(cmd_list, capture_output=True, text=True, encoding="utf-8", errors="replace")
